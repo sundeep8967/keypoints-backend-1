@@ -59,11 +59,14 @@ jobs:
         pip --version
         # Install build tools first
         pip install setuptools-scm
-        # Install core dependencies with compatible versions
-        pip install feedparser beautifulsoup4
-        # Then install remaining requirements
+        # Install pygooglenews first (it will pull in compatible feedparser)
+        pip install pygooglenews
+        # Install other common dependencies
+        pip install beautifulsoup4 requests
+        # Install any additional requirements, skipping feedparser if already installed
         if [ -f requirements.txt ]; then
-          pip install -r requirements.txt
+          # Install requirements but skip feedparser since we already have a compatible version
+          pip install -r requirements.txt --upgrade --force-reinstall --no-deps pygooglenews
         fi
         # List installed packages for debugging
         pip list
