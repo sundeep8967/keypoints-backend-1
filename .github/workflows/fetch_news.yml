@@ -59,15 +59,14 @@ jobs:
         pip --version
         # Install build tools first
         pip install setuptools-scm
-        # Install pygooglenews first (it will pull in compatible feedparser)
+        # Downgrade setuptools to support use_2to3 temporarily
+        pip install "setuptools<58"
+        # Now install the problematic packages
         pip install pygooglenews
-        # Install other common dependencies
-        pip install beautifulsoup4 requests
-        # Install any additional requirements, skipping feedparser if already installed
-        if [ -f requirements.txt ]; then
-          # Install requirements but skip feedparser since we already have a compatible version
-          pip install -r requirements.txt --upgrade --force-reinstall --no-deps pygooglenews
-        fi
+        # Upgrade setuptools back
+        pip install --upgrade setuptools
+        # Install remaining dependencies
+        pip install beautifulsoup4 fastapi uvicorn python-dotenv pytest httpx
         # List installed packages for debugging
         pip list
     
