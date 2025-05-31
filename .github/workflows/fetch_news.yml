@@ -49,7 +49,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.10'
+        python-version: '3.9'  # Use Python 3.9 instead of 3.10
     
     - name: Install dependencies
       run: |
@@ -57,14 +57,8 @@ jobs:
         # Show Python and pip versions for debugging
         python --version
         pip --version
-        # Install build tools first
-        pip install setuptools-scm
-        # Downgrade setuptools to support use_2to3 temporarily
-        pip install "setuptools<58"
-        # Now install the problematic packages
+        # Install pygooglenews and its dependencies
         pip install pygooglenews
-        # Upgrade setuptools back
-        pip install --upgrade setuptools
         # Install remaining dependencies
         pip install beautifulsoup4 fastapi uvicorn python-dotenv pytest httpx
         # List installed packages for debugging
