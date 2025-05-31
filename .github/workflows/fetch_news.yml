@@ -54,11 +54,30 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        # Show Python and pip versions for debugging
+        python --version
+        pip --version
+        # First install the core dependencies
+        pip install -v feedparser beautifulsoup4
+        # Then install remaining requirements
+        pip install -v -r requirements.txt
+        # List installed packages for debugging
+        pip list
+    
+    - name: Verify pygooglenews installation
+      run: |
+        python -c "import pygooglenews; print('PyGoogleNews version:', pygooglenews.__version__ if hasattr(pygooglenews, '__version__') else 'Unknown')"
+        python -c "from pygooglenews import GoogleNews; print('Successfully imported GoogleNews')"
+    
+    - name: Run installation test script
+      run: |
+        python scripts/test_installation.py
     
     - name: Fetch top news (scheduled)
       if: github.event_name == 'schedule'
       run: |
+        # Create data directory if it doesn't exist
+        mkdir -p data
         python scripts/fetch_news.py --type top --output data/news_top.json
         python scripts/fetch_news.py --type topic --topic technology --output data/news_tech.json
         python scripts/fetch_news.py --type topic --topic business --output data/news_business.json
@@ -88,6 +107,7 @@ jobs:
         python scripts/fetch_news.py $ARGS
     
     - name: Commit and push changes
+      if: success() # Only run if previous steps succeeded
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
