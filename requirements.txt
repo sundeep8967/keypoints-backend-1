@@ -1,5 +1,5 @@
 pygooglenews
-feedparser>=6.0.0
+feedparser>=5.2.1,<6.0.0
 beautifulsoup4>=4.9.0
 fastapi
 uvicorn

@@ -57,8 +57,8 @@ jobs:
         # Show Python and pip versions for debugging
         python --version
         pip --version
-        # First install the core dependencies
-        pip install -v feedparser beautifulsoup4
+        # First install the core dependencies with specific versions
+        pip install -v "feedparser>=5.2.1,<6.0.0" "beautifulsoup4>=4.9.0"
         # Then install remaining requirements
         pip install -v -r requirements.txt
         # List installed packages for debugging
@@ -66,6 +66,7 @@ jobs:
     
     - name: Verify pygooglenews installation
       run: |
+        python -c "import feedparser; print(f'Feedparser version: {feedparser.__version__}')"
         python -c "import pygooglenews; print('PyGoogleNews version:', pygooglenews.__version__ if hasattr(pygooglenews, '__version__') else 'Unknown')"
         python -c "from pygooglenews import GoogleNews; print('Successfully imported GoogleNews')"
     

@@ -26,19 +26,44 @@ def check_module(module_name):
 def check_dependencies():
     """Check PyGoogleNews dependencies."""
     required_packages = {
-        'feedparser': '6.0.0',
-        'beautifulsoup4': '4.9.0'
+        'feedparser': {
+            'min': '5.2.1',
+            'max': '6.0.0',  # Must be less than this version
+            'exact': False
+        },
+        'beautifulsoup4': {
+            'min': '4.9.0',
+            'max': None,
+            'exact': False
+        }
     }
     
     all_ok = True
     print("\nChecking required dependencies:")
-    for package, min_version in required_packages.items():
+    for package, version_info in required_packages.items():
         try:
             installed_version = pkg_resources.get_distribution(package).version
-            if pkg_resources.parse_version(installed_version) >= pkg_resources.parse_version(min_version):
-                print(f"✅ {package} {installed_version} is installed (min: {min_version})")
+            min_version = version_info['min']
+            max_version = version_info['max']
+            
+            # Check minimum version
+            min_ok = pkg_resources.parse_version(installed_version) >= pkg_resources.parse_version(min_version)
+            
+            # Check maximum version if specified
+            max_ok = True
+            if max_version:
+                max_ok = pkg_resources.parse_version(installed_version) < pkg_resources.parse_version(max_version)
+            
+            if min_ok and max_ok:
+                version_range = f">={min_version}"
+                if max_version:
+                    version_range += f",<{max_version}"
+                print(f"✅ {package} {installed_version} is installed (required: {version_range})")
             else:
-                print(f"⚠️ {package} {installed_version} is installed but minimum {min_version} is required")
+                version_range = f">={min_version}"
+                if max_version:
+                    version_range += f",<{max_version}"
+                print(f"⚠️ {package} {installed_version} is installed but {version_range} is required")
                 all_ok = False
         except pkg_resources.DistributionNotFound:
             print(f"❌ {package} is not installed")
