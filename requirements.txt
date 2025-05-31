@@ -1,8 +1,8 @@
-pygooglenews
-feedparser>=5.2.1,<6.0.0
+pygooglenews>=0.1.2
+feedparser>=6.0.0
 beautifulsoup4>=4.9.0
-fastapi
-uvicorn
-python-dotenv
-pytest
-httpx 
+fastapi>=0.68.0
+uvicorn>=0.15.0
+python-dotenv>=0.19.0
+pytest>=6.0.0
+httpx>=0.24.0
