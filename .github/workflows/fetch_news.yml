@@ -1,6 +1,10 @@
 name: Fetch News
 
 on:
+  push:
+    branches:
+      - main  # Run on push to main branch
+      - master  # Run on push to master branch (if you use master)
   schedule:
     # Run every 6 hours (at minute 0 of hour 0, 6, 12, and 18)
     - cron: '0 */6 * * *'
@@ -113,6 +117,16 @@ jobs:
         mkdir -p $(dirname ${{ github.event.inputs.output_path }})
         python scripts/fetch_news.py $ARGS
     
+    - name: Fetch news (push trigger)
+      if: github.event_name == 'push'
+      run: |
+        # Create data directory if it doesn't exist
+        mkdir -p data
+        # Fetch different types of news when code is pushed
+        python scripts/fetch_news.py --type top --output data/news_top.json
+        python scripts/fetch_news.py --type topic --topic technology --output data/news_tech.json
+        python scripts/fetch_news.py --type topic --topic business --output data/news_business.json
+    
     - name: Commit and push changes
       if: success() # Only run if previous steps succeeded
       run: |
@@ -124,4 +138,3 @@ jobs:
         else
           git commit -m "Update news data - $(date)"
           git push
-        fi
