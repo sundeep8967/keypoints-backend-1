@@ -7,7 +7,6 @@ import time
 import traceback
 import requests
 import base64
-import urllib.parse
 import re
 from typing import Optional
 from newspaper import Article, ArticleException
@@ -31,31 +30,35 @@ class NewsSummarizer:
         """
         Decodes Google News CBM URLs to extract the actual article URL.
         Google News URLs often embed the original URL in a base64-encoded string.
-        Example: https://news.google.com/rss/articles/CBMiSA...encoded_base64_string...Fg?oc=5
+        Example: https://news.google.com/rss/articles/CBMibkFVX3lxTE1aU2h5ZV9aZFRsU3VxT0lLTXdFVk9xb09mRFZNVDkyanMtVnNGczBWRDltSVFzMVRsekw1djM1WEhtOFJhak82eXdNY2VNV1p3ZjBLNi1GbGhDREd5YmlycnBGcHU4VU9zWDQ5Z1Bn?oc=5
         """
         try:
-            if "news.google.com/rss/articles/CBM" not in url:
-                return None
-
-            # Extract the base64 encoded part
-            match = re.search(r'CBM[A-Za-z0-9-_=]+', url)
+            # Regex to capture the Base64 encoded part between 'CBM' and the end of the string
+            # It should capture URL-safe Base64 characters (A-Z, a-z, 0-9, -, _)
+            match = re.search(r'CBM([A-Za-z0-9_-]+)', url)
             if not match:
                 logger.warning(f"No CBM part found in Google News URL: {url}")
                 return None
 
-            encoded_part = match.group(0)
+            encoded_part = match.group(1)
             
-            # Google's base64 encoding is slightly different, replace - with +, _ with /
-            # and sometimes it's not properly padded. Add padding if necessary.
-            decoded_bytes = base64.urlsafe_b64decode(encoded_part[3:] + '==')
+            # urlsafe_b64decode handles '-' and '_' automatically, but needs correct padding
+            padding_needed = len(encoded_part) % 4
+            if padding_needed != 0:
+                encoded_part += '=' * (4 - padding_needed)
+
+            decoded_bytes = base64.urlsafe_b64decode(encoded_part)
             decoded_string = decoded_bytes.decode('utf-8', errors='ignore')
-            
-            # The decoded string often contains multiple URLs or junk. We need to find the actual URL.
-            # Look for http/https links within the decoded string
-            urls_found = re.findall(r'https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+', decoded_string)
+
+            # Extract the first valid URL from the decoded string
+            urls_found = re.findall(r'https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+\S*', decoded_string)
+
             if urls_found:
-                # Often the first one is the best candidate
-                return urls_found[0]
+                # Prioritize a non-Google News URL if multiple are found
+                for found_url in urls_found:
+                    if "news.google.com" not in found_url:
+                        return found_url
+                return urls_found[0] # Fallback to the first found URL if all are Google News
             
             logger.warning(f"Could not extract a valid URL from decoded Google News string: {decoded_string}")
             return None
@@ -78,7 +81,6 @@ class NewsSummarizer:
             Dictionary with summary, top_image, and other metadata
         """
         try:
-            original_url = url
             resolved_url = url
 
             # Try to decode Google News CBM URL first
@@ -89,17 +91,20 @@ class NewsSummarizer:
                     resolved_url = decoded
                     logger.info(f"Decoded to: {resolved_url}")
                 else:
-                    logger.warning(f"Could not decode Google News URL, trying direct request: {url}")
+                    logger.warning(f"Could not decode Google News URL: {url}")
             
-            # If not a Google News URL or decoding failed, try direct request or follow redirect
-            if resolved_url == original_url: # Only if it wasn't decoded or not a GN url
-                 try:
-                     response = requests.head(resolved_url, allow_redirects=True, timeout=5)
-                     if response.url != resolved_url:
-                         logger.info(f"Followed redirect from {resolved_url} to {response.url}")
-                         resolved_url = response.url
-                 except requests.exceptions.RequestException as e:
-                     logger.warning(f"Could not follow redirect for {resolved_url}: {e}")
+            # Always try to follow redirects, even if it's not a Google News URL or decoding failed
+            try:
+                # Use a proper User-Agent to avoid being blocked
+                headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
+                response = requests.get(resolved_url, allow_redirects=True, timeout=5, headers=headers)
+                if response.url != resolved_url:
+                    logger.info(f"Followed redirect from {resolved_url} to {response.url}")
+                    resolved_url = response.url
+                response.raise_for_status() # Raise an exception for HTTP errors
+            except requests.exceptions.RequestException as e:
+                logger.warning(f"Could not follow redirect or fetch content for {resolved_url}: {e}")
+                return None
 
             # Check if resolved URL is valid
             if not resolved_url or not resolved_url.startswith(('http://', 'https://')):
