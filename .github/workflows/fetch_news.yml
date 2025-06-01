@@ -46,9 +46,17 @@ jobs:
   fetch-news:
     runs-on: ubuntu-latest
     
+    # Add permissions to allow pushing to the repository
+    permissions:
+      contents: write
+    
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        persist-credentials: true
+        fetch-depth: 0
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -142,5 +150,6 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Update news data - $(date)"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push
         fi
