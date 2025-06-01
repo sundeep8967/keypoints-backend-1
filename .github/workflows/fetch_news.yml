@@ -58,7 +58,7 @@ jobs:
         python --version
         pip --version
         # Install setuptools version that supports use_2to3
-        pip install "setuptools==57.5.0"
+        pip install "setuptools==41.2.0"
         # Install dependencies from requirements.txt
         pip install -r requirements.txt
         # List installed packages for debugging
