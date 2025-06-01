@@ -4,6 +4,7 @@ News service module using PyGoogleNews
 import logging
 from typing import Dict, List, Optional
 from pygooglenews import GoogleNews
+from app.summarizer import NewsSummarizer
 
 logger = logging.getLogger(__name__)
 
@@ -77,8 +78,18 @@ class NewsService:
         
         return articles
         
-    def format_news_data(self, news_data: Dict) -> List[Dict]:
-        """Format news data into a standardized structure."""
+    def format_news_data(self, news_data: Dict, include_summary: bool = False, inshorts_style: bool = False) -> List[Dict]:
+        """
+        Format news data into a standardized structure.
+        
+        Args:
+            news_data: Raw news data from GoogleNews
+            include_summary: Whether to include AI-generated summaries
+            inshorts_style: Whether to format summaries in Inshorts style
+            
+        Returns:
+            List of formatted articles
+        """
         formatted_data = []
         try:
             if 'entries' in news_data:
@@ -91,6 +102,20 @@ class NewsService:
                         'source': entry.get('source', {}).get('title') if entry.get('source') else None,
                         'sub_articles': entry.get('sub_articles', [])
                     }
+                    
+                    # Add AI-generated summary if requested
+                    if include_summary and article['link']:
+                        try:
+                            summary = NewsSummarizer.summarize_from_url(article['link'])
+                            if summary and inshorts_style:
+                                summary = NewsSummarizer.format_inshorts_style(
+                                    article['title'], summary
+                                )
+                            article['ai_summary'] = summary
+                        except Exception as e:
+                            logger.error(f"Error generating summary: {e}")
+                            article['ai_summary'] = None
+                    
                     formatted_data.append(article)
             logger.info(f"Formatted {len(formatted_data)} articles")
         except Exception as e:
