@@ -67,7 +67,7 @@ jobs:
         pip install urllib3
         pip install idna
         pip install certifi
-        pip install typing_extensions
+        pip install typing_extensions starlette
         # Install dependencies from requirements.txt --no-deps
         pip install -r requirements.txt --no-deps
         # List installed packages for debugging
