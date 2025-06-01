@@ -58,6 +58,7 @@ jobs:
         pip --version
         # Install setuptools version that supports use_2to3
         pip install "setuptools<58"
+        pip intall sgmllib
         # Install dependencies from requirements.txt --no-deps
         pip install -r requirements.txt --no-deps
         # List installed packages for debugging
