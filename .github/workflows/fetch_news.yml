@@ -59,7 +59,7 @@ jobs:
         pip --version
         # Install setuptools version that supports use_2to3
         pip install "setuptools==41.2.0"
-        pip install "feedparser>=5.2.1"
+        pip install "feedparser>=6.0.0"
         # Install dependencies from requirements.txt
         pip install -r requirements.txt
         # List installed packages for debugging
