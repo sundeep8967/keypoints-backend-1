@@ -24,7 +24,7 @@ class TestNewsService(unittest.TestCase):
         mock_google_news.assert_called_once_with(lang='en', country='US')
         
         # Test with custom parameters
-        news_service = NewsService(language='fr', country='FR')
+        news_service = NewsService(lang='fr', country='FR')
         mock_google_news.assert_called_with(lang='fr', country='FR')
     
     @patch('app.news_service.GoogleNews')

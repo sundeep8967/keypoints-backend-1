@@ -37,17 +37,17 @@ class NewsService:
             logger.error(f"Error fetching topic headlines for {topic}: {e}")
             raise
 
-    def search_news(self, query: str, when: Optional[str] = None) -> Dict:
+    def search_news(self, query: str, when: Optional[str] = None, from_date: Optional[str] = None, to_date: Optional[str] = None) -> Dict:
         """Search for news with a specific query."""
         try:
-            result = self.gn.search(query, when=when)
+            result = self.gn.search(query, when=when, from_=from_date, to_=to_date)
             logger.info(f"Successfully searched news for query: {query}")
             return result
         except Exception as e:
             logger.error(f"Error searching news for query {query}: {e}")
             raise
 
-    def get_geo_news(self, location: str) -> Dict:
+    def get_location_news(self, location: str) -> Dict:
         """Get news for a specific location."""
         try:
             result = self.gn.geo_headlines(location)
@@ -76,3 +76,24 @@ class NewsService:
             logger.error(f"Error extracting articles: {e}")
         
         return articles
+        
+    def format_news_data(self, news_data: Dict) -> List[Dict]:
+        """Format news data into a standardized structure."""
+        formatted_data = []
+        try:
+            if 'entries' in news_data:
+                for entry in news_data['entries']:
+                    article = {
+                        'title': entry.get('title'),
+                        'link': entry.get('link'),
+                        'published': entry.get('published'),
+                        'published_parsed': entry.get('published_parsed'),
+                        'source': entry.get('source', {}).get('title') if entry.get('source') else None,
+                        'sub_articles': entry.get('sub_articles', [])
+                    }
+                    formatted_data.append(article)
+            logger.info(f"Formatted {len(formatted_data)} articles")
+        except Exception as e:
+            logger.error(f"Error formatting news data: {e}")
+        
+        return formatted_data
