@@ -54,7 +54,7 @@ def parse_args():
 def fetch_news(args):
     """Fetch news based on command line arguments"""
     # Initialize news service
-    news_service = NewsService(language=args.language, country=args.country)
+    news_service = NewsService(lang=args.language, country=args.country)
     
     # Fetch news based on type
     if args.type == "top":
