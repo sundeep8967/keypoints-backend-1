@@ -143,3 +143,4 @@ jobs:
         else
           git commit -m "Update news data - $(date)"
           git push
+        fi
