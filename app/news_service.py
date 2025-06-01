@@ -1,155 +1,78 @@
-import sys
+"""
+News service module using PyGoogleNews
+"""
 import logging
-from typing import Dict, List, Optional, Any
+from typing import Dict, List, Optional
+from pygooglenews import GoogleNews
 
-# Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-)
-logger = logging.getLogger("news_service")
-
-# Attempt to import PyGoogleNews with better error handling
-try:
-    from pygooglenews import GoogleNews
-    logger.info("Successfully imported PyGoogleNews")
-except ImportError as e:
-    logger.error(f"Failed to import PyGoogleNews: {e}")
-    logger.error("Make sure pygooglenews, feedparser, and beautifulsoup4 are installed")
-    try:
-        # Try to check if dependencies are installed
-        import pkg_resources
-        for pkg in ['feedparser', 'beautifulsoup4']:
-            try:
-                version = pkg_resources.get_distribution(pkg).version
-                logger.info(f"{pkg} version {version} is installed")
-            except pkg_resources.DistributionNotFound:
-                logger.error(f"{pkg} is not installed")
-    except ImportError:
-        logger.error("pkg_resources not available to check dependencies")
-    
-    # Re-raise the error to fail fast if PyGoogleNews can't be imported
-    raise
-
+logger = logging.getLogger(__name__)
 
 class NewsService:
-    def __init__(self, language: str = 'en', country: str = 'US'):
-        """
-        Initialize the NewsService with Google News
-        
-        Args:
-            language (str): Language code (default: 'en')
-            country (str): Country code (default: 'US')
-        """
+    def __init__(self, lang: str = 'en', country: str = 'US'):
+        """Initialize the news service with language and country settings."""
         try:
-            self.gn = GoogleNews(lang=language, country=country)
-            logger.info(f"Initialized GoogleNews with language={language}, country={country}")
+            self.gn = GoogleNews(lang=lang, country=country)
+            logger.info(f"NewsService initialized with lang={lang}, country={country}")
         except Exception as e:
             logger.error(f"Failed to initialize GoogleNews: {e}")
             raise
-    
-    def get_top_news(self) -> Dict[str, Any]:
-        """
-        Get top news stories
-        
-        Returns:
-            Dict[str, Any]: Dictionary containing feed and entries
-        """
+
+    def get_top_news(self) -> Dict:
+        """Get top news stories."""
         try:
             result = self.gn.top_news()
-            entries_count = len(result.get('entries', []))
-            logger.info(f"Retrieved {entries_count} top news entries")
+            logger.info("Successfully fetched top news")
             return result
         except Exception as e:
-            logger.error(f"Error getting top news: {e}")
+            logger.error(f"Error fetching top news: {e}")
             raise
-    
-    def get_topic_headlines(self, topic: str) -> Dict[str, Any]:
-        """
-        Get headlines for a specific topic
-        
-        Args:
-            topic (str): Topic to search for (business, technology, entertainment, sports, health, science, world)
-            
-        Returns:
-            Dict[str, Any]: Dictionary containing feed and entries
-        """
+
+    def get_topic_headlines(self, topic: str) -> Dict:
+        """Get headlines for a specific topic."""
         try:
             result = self.gn.topic_headlines(topic)
-            entries_count = len(result.get('entries', []))
-            logger.info(f"Retrieved {entries_count} entries for topic '{topic}'")
+            logger.info(f"Successfully fetched headlines for topic: {topic}")
             return result
         except Exception as e:
-            logger.error(f"Error getting topic headlines for '{topic}': {e}")
+            logger.error(f"Error fetching topic headlines for {topic}: {e}")
             raise
-    
-    def search_news(self, 
-                   query: str, 
-                   when: Optional[str] = None,
-                   from_date: Optional[str] = None, 
-                   to_date: Optional[str] = None) -> Dict[str, Any]:
-        """
-        Search for news with a specific query
-        
-        Args:
-            query (str): Search query
-            when (Optional[str]): Time period for search (e.g., '1h', '1d', '7d', '1m')
-            from_date (Optional[str]): Start date in format 'YYYY-MM-DD'
-            to_date (Optional[str]): End date in format 'YYYY-MM-DD'
-            
-        Returns:
-            Dict[str, Any]: Dictionary containing feed and entries
-        """
+
+    def search_news(self, query: str, when: Optional[str] = None) -> Dict:
+        """Search for news with a specific query."""
         try:
-            result = self.gn.search(query, when=when, from_=from_date, to_=to_date)
-            entries_count = len(result.get('entries', []))
-            logger.info(f"Retrieved {entries_count} entries for search query '{query}'")
+            result = self.gn.search(query, when=when)
+            logger.info(f"Successfully searched news for query: {query}")
             return result
         except Exception as e:
-            logger.error(f"Error searching for news with query '{query}': {e}")
+            logger.error(f"Error searching news for query {query}: {e}")
             raise
-    
-    def get_location_news(self, location: str) -> Dict[str, Any]:
-        """
-        Get news for a specific location/geo
-        
-        Args:
-            location (str): Location to get news for
-            
-        Returns:
-            Dict[str, Any]: Dictionary containing feed and entries
-        """
+
+    def get_geo_news(self, location: str) -> Dict:
+        """Get news for a specific location."""
         try:
-            result = self.gn.geo(location)
-            entries_count = len(result.get('entries', []))
-            logger.info(f"Retrieved {entries_count} entries for location '{location}'")
+            result = self.gn.geo_headlines(location)
+            logger.info(f"Successfully fetched geo news for location: {location}")
             return result
         except Exception as e:
-            logger.error(f"Error getting news for location '{location}': {e}")
+            logger.error(f"Error fetching geo news for {location}: {e}")
             raise
-    
-    def format_news_data(self, news_data: Dict[str, Any]) -> List[Dict[str, Any]]:
-        """
-        Format news data into a more usable structure
+
+    def extract_articles(self, news_data: Dict) -> List[Dict]:
+        """Extract articles from news data."""
+        articles = []
+        try:
+            if 'entries' in news_data:
+                for entry in news_data['entries']:
+                    article = {
+                        'title': entry.get('title', ''),
+                        'link': entry.get('link', ''),
+                        'published': entry.get('published', ''),
+                        'summary': entry.get('summary', ''),
+                        'source': entry.get('source', {}).get('title', '') if entry.get('source') else ''
+                    }
+                    articles.append(article)
+            logger.info(f"Extracted {len(articles)} articles")
+        except Exception as e:
+            logger.error(f"Error extracting articles: {e}")
         
-        Args:
-            news_data (Dict[str, Any]): Raw news data from GoogleNews
-            
-        Returns:
-            List[Dict[str, Any]]: Formatted list of news articles
-        """
-        formatted_articles = []
-        
-        for entry in news_data.get('entries', []):
-            article = {
-                'title': entry.get('title'),
-                'link': entry.get('link'),
-                'published': entry.get('published'),
-                'published_parsed': entry.get('published_parsed'),
-                'source': entry.get('source', {}).get('title') if entry.get('source') else None,
-                'sub_articles': entry.get('sub_articles', [])
-            }
-            formatted_articles.append(article)
-        
-        logger.info(f"Formatted {len(formatted_articles)} articles")
-        return formatted_articles 
+        return articles

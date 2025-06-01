@@ -1,120 +1,101 @@
 #!/usr/bin/env python3
 """
-Test script to verify PyGoogleNews installation.
+Test script to verify all installations are working correctly.
 """
-
 import sys
-import importlib.util
-import pkg_resources
+import traceback
 
-def check_module(module_name):
-    """Check if a module is installed and can be imported."""
+def test_imports():
+    """Test all required imports."""
+    tests = []
+    
+    # Test pygooglenews
     try:
-        spec = importlib.util.find_spec(module_name)
-        if spec is None:
-            print(f"❌ Module {module_name} is not installed")
-            return False
-        else:
-            module = importlib.import_module(module_name)
-            version = getattr(module, "__version__", "Unknown")
-            print(f"✅ Module {module_name} is installed (version: {version})")
-            return True
-    except ImportError as e:
-        print(f"❌ Error importing {module_name}: {e}")
-        return False
-
-def check_dependencies():
-    """Check PyGoogleNews dependencies."""
-    required_packages = {
-        'feedparser': {
-            'min': '5.2.1',
-            'max': '6.0.0',  # Must be less than this version
-            'exact': False
-        },
-        'beautifulsoup4': {
-            'min': '4.9.0',
-            'max': None,
-            'exact': False
-        }
-    }
+        import pygooglenews
+        from pygooglenews import GoogleNews
+        tests.append(("pygooglenews", "✅ PASS"))
+    except Exception as e:
+        tests.append(("pygooglenews", f"❌ FAIL: {e}"))
     
-    all_ok = True
-    print("\nChecking required dependencies:")
-    for package, version_info in required_packages.items():
-        try:
-            installed_version = pkg_resources.get_distribution(package).version
-            min_version = version_info['min']
-            max_version = version_info['max']
-            
-            # Check minimum version
-            min_ok = pkg_resources.parse_version(installed_version) >= pkg_resources.parse_version(min_version)
-            
-            # Check maximum version if specified
-            max_ok = True
-            if max_version:
-                max_ok = pkg_resources.parse_version(installed_version) < pkg_resources.parse_version(max_version)
-            
-            if min_ok and max_ok:
-                version_range = f">={min_version}"
-                if max_version:
-                    version_range += f",<{max_version}"
-                print(f"✅ {package} {installed_version} is installed (required: {version_range})")
-            else:
-                version_range = f">={min_version}"
-                if max_version:
-                    version_range += f",<{max_version}"
-                print(f"⚠️ {package} {installed_version} is installed but {version_range} is required")
-                all_ok = False
-        except pkg_resources.DistributionNotFound:
-            print(f"❌ {package} is not installed")
-            all_ok = False
-        except Exception as e:
-            print(f"❌ Error checking {package}: {e}")
-            all_ok = False
+    # Test feedparser
+    try:
+        import feedparser
+        tests.append(("feedparser", f"✅ PASS (version: {feedparser.__version__})"))
+    except Exception as e:
+        tests.append(("feedparser", f"❌ FAIL: {e}"))
     
-    return all_ok
+    # Test beautifulsoup4
+    try:
+        from bs4 import BeautifulSoup
+        tests.append(("beautifulsoup4", "✅ PASS"))
+    except Exception as e:
+        tests.append(("beautifulsoup4", f"❌ FAIL: {e}"))
+    
+    # Test fastapi
+    try:
+        import fastapi
+        tests.append(("fastapi", "✅ PASS"))
+    except Exception as e:
+        tests.append(("fastapi", f"❌ FAIL: {e}"))
+    
+    # Test requests
+    try:
+        import requests
+        tests.append(("requests", "✅ PASS"))
+    except Exception as e:
+        tests.append(("requests", f"❌ FAIL: {e}"))
+    
+    return tests
 
-def test_pygooglenews():
-    """Test PyGoogleNews functionality."""
+def test_googlenews_functionality():
+    """Test basic GoogleNews functionality."""
     try:
         from pygooglenews import GoogleNews
-        gn = GoogleNews()
-        print("\nTesting PyGoogleNews functionality:")
-        print("Fetching top news (this might take a moment)...")
-        top = gn.top_news()
-        entries_count = len(top.get('entries', []))
-        print(f"✅ Successfully fetched {entries_count} top news entries")
-        return True
+        gn = GoogleNews(lang='en', country='US')
+        
+        # Test top news (just check if it doesn't crash)
+        result = gn.top_news()
+        if 'entries' in result:
+            return "✅ PASS - GoogleNews functionality working"
+        else:
+            return "⚠️  WARNING - GoogleNews returned unexpected format"
     except Exception as e:
-        print(f"❌ Error testing PyGoogleNews: {e}")
-        return False
+        return f"❌ FAIL - GoogleNews functionality: {e}"
 
 def main():
-    """Main function."""
-    print("=== PyGoogleNews Installation Test ===\n")
-    print(f"Python version: {sys.version}")
+    """Run all tests."""
+    print("🔍 Testing installation...")
+    print("=" * 50)
     
-    # Check core modules
-    modules_ok = all([
-        check_module("pygooglenews"),
-        check_module("feedparser"),
-        check_module("bs4")  # beautifulsoup4
-    ])
+    # Test imports
+    print("📦 Testing imports:")
+    import_tests = test_imports()
+    failed_imports = 0
     
-    # Check dependencies
-    deps_ok = check_dependencies()
+    for package, result in import_tests:
+        print(f"  {package}: {result}")
+        if "FAIL" in result:
+            failed_imports += 1
+    
+    print()
     
     # Test functionality
-    func_ok = test_pygooglenews()
+    print("🚀 Testing functionality:")
+    functionality_result = test_googlenews_functionality()
+    print(f"  GoogleNews: {functionality_result}")
     
-    # Overall status
-    print("\n=== Summary ===")
-    if modules_ok and deps_ok and func_ok:
-        print("✅ All tests passed. PyGoogleNews is properly installed.")
-        return 0
+    print("=" * 50)
+    
+    # Summary
+    if failed_imports > 0:
+        print(f"❌ {failed_imports} import(s) failed!")
+        sys.exit(1)
+    elif "FAIL" in functionality_result:
+        print("❌ Functionality test failed!")
+        sys.exit(1)
     else:
-        print("❌ Some tests failed. See details above.")
-        return 1
+        print("✅ All tests passed!")
+        sys.exit(0)
 
 if __name__ == "__main__":
-    sys.exit(main()) 
+    main()

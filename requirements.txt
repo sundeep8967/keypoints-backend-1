@@ -1,4 +1,5 @@
-gnews>=0.3.0
+pygooglenews>=0.1.2
+feedparser>=5.2.1,<6.0.0
 beautifulsoup4>=4.9.0
 fastapi>=0.68.0
 uvicorn>=0.15.0
