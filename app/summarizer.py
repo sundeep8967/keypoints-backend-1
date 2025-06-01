@@ -5,6 +5,10 @@ import logging
 import nltk
 import time
 import traceback
+import requests
+import base64
+import urllib.parse
+import re
 from typing import Optional
 from newspaper import Article, ArticleException
 from nltk.tokenize import sent_tokenize
@@ -23,6 +27,44 @@ class NewsSummarizer:
     """Service for summarizing news articles."""
     
     @staticmethod
+    def _decode_google_news_url(url: str) -> Optional[str]:
+        """
+        Decodes Google News CBM URLs to extract the actual article URL.
+        Google News URLs often embed the original URL in a base64-encoded string.
+        Example: https://news.google.com/rss/articles/CBMiSA...encoded_base64_string...Fg?oc=5
+        """
+        try:
+            if "news.google.com/rss/articles/CBM" not in url:
+                return None
+
+            # Extract the base64 encoded part
+            match = re.search(r'CBM[A-Za-z0-9-_=]+', url)
+            if not match:
+                logger.warning(f"No CBM part found in Google News URL: {url}")
+                return None
+
+            encoded_part = match.group(0)
+            
+            # Google's base64 encoding is slightly different, replace - with +, _ with /
+            # and sometimes it's not properly padded. Add padding if necessary.
+            decoded_bytes = base64.urlsafe_b64decode(encoded_part[3:] + '==')
+            decoded_string = decoded_bytes.decode('utf-8', errors='ignore')
+            
+            # The decoded string often contains multiple URLs or junk. We need to find the actual URL.
+            # Look for http/https links within the decoded string
+            urls_found = re.findall(r'https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+', decoded_string)
+            if urls_found:
+                # Often the first one is the best candidate
+                return urls_found[0]
+            
+            logger.warning(f"Could not extract a valid URL from decoded Google News string: {decoded_string}")
+            return None
+        except Exception as e:
+            logger.error(f"Error decoding Google News URL {url}: {e}")
+            logger.error(traceback.format_exc())
+            return None
+
+    @staticmethod
     def summarize_from_url(url: str, max_sentences: int = 3, timeout: int = 20) -> Optional[dict]:
         """
         Summarize a news article from its URL and extract additional content.
@@ -36,30 +78,44 @@ class NewsSummarizer:
             Dictionary with summary, top_image, and other metadata
         """
         try:
-            # Handle Google News redirects
+            original_url = url
+            resolved_url = url
+
+            # Try to decode Google News CBM URL first
             if "news.google.com" in url:
-                logger.info(f"Detected Google News URL: {url}")
-                # For Google News URLs, we need to extract the actual article URL
-                # This is a simplified approach - might need adjustment based on URL format
-                if "articles" in url and "?" in url:
-                    url = url.split("?")[0]
-                    logger.info(f"Modified Google News URL: {url}")
+                logger.info(f"Detected Google News URL: {url}, attempting to decode...")
+                decoded = NewsSummarizer._decode_google_news_url(url)
+                if decoded:
+                    resolved_url = decoded
+                    logger.info(f"Decoded to: {resolved_url}")
+                else:
+                    logger.warning(f"Could not decode Google News URL, trying direct request: {url}")
             
-            # Check if URL is valid
-            if not url.startswith(('http://', 'https://')):
-                logger.warning(f"Invalid URL format: {url}")
+            # If not a Google News URL or decoding failed, try direct request or follow redirect
+            if resolved_url == original_url: # Only if it wasn't decoded or not a GN url
+                 try:
+                     response = requests.head(resolved_url, allow_redirects=True, timeout=5)
+                     if response.url != resolved_url:
+                         logger.info(f"Followed redirect from {resolved_url} to {response.url}")
+                         resolved_url = response.url
+                 except requests.exceptions.RequestException as e:
+                     logger.warning(f"Could not follow redirect for {resolved_url}: {e}")
+
+            # Check if resolved URL is valid
+            if not resolved_url or not resolved_url.startswith(('http://', 'https://')):
+                logger.warning(f"Invalid URL format after resolution: {resolved_url}")
                 return None
                 
-            logger.info(f"Downloading article from: {url}")
+            logger.info(f"Downloading article from: {resolved_url}")
             start_time = time.time()
             
             # Download and parse the article with timeout
-            article = Article(url)
+            article = Article(resolved_url, fetch_images=True)
             article.download()
             
             # Check timeout after download
             if time.time() - start_time > timeout:
-                logger.warning(f"Timeout downloading article from {url}")
+                logger.warning(f"Timeout downloading article from {resolved_url}")
                 return None
                 
             article.parse()
@@ -72,30 +128,43 @@ class NewsSummarizer:
                 'title': article.title,
                 'authors': article.authors,
                 'publish_date': article.publish_date,
-                'text': article.text[:500] + '...' if len(article.text) > 500 else article.text
+                'text': article.text
             }
             
-            # If article has built-in summarization, use it
+            # Generate summary
             try:
                 article.nlp()
                 if article.summary:
-                    logger.info(f"Generated summary for {url} using newspaper3k (length: {len(article.summary)})")
+                    logger.info(f"Generated summary for {resolved_url} using newspaper3k (length: {len(article.summary)}). Article text length: {len(article.text)}")
                     result['summary'] = article.summary
                 else:
                     # Fall back to extractive summarization if needed
+                    logger.warning(f"Newspaper3k NLP summary empty, falling back to extractive. Article text length: {len(article.text)}")
                     result['summary'] = NewsSummarizer.extractive_summarize(article.text, max_sentences)
             except Exception as e:
-                logger.warning(f"NLP summarization failed, falling back to extractive: {e}")
+                logger.warning(f"NLP summarization failed, falling back to extractive: {e}. Article text length: {len(article.text)}")
                 result['summary'] = NewsSummarizer.extractive_summarize(article.text, max_sentences)
+            
+            # If summary is still short after fallback, check text length
+            if not result['summary'] or len(result['summary'].strip()) < 50:
+                logger.warning(f"Summary still too short after processing for {resolved_url}. Final article text length: {len(article.text)}")
+                if len(article.text) > 200:
+                    result['summary'] = NewsSummarizer.extractive_summarize(article.text, max_sentences)
+                else:
+                    result['summary'] = article.text[:max_sentences*60] # Just take a snippet of text if all else fails
+
+            # Ensure text excerpt is not too long
+            result['text'] = result['text'][:1000] + '...' if len(result['text']) > 1000 else result['text']
                 
-            logger.info(f"Successfully extracted article data: title='{result['title']}', image={bool(result['top_image'])}")
+            logger.info(f"Successfully extracted article data: title='{result['title']}', top_image={bool(result['top_image'])}, summary_length={len(result['summary']) if result['summary'] else 0}")
             return result
             
         except ArticleException as e:
-            logger.error(f"Article exception for {url}: {e}")
+            logger.error(f"Article exception for {resolved_url}: {e}")
+            logger.error(traceback.format_exc())
             return None
         except Exception as e:
-            logger.error(f"Error summarizing article from {url}: {e}")
+            logger.error(f"Unhandled error summarizing article from {resolved_url}: {e}")
             logger.error(traceback.format_exc())
             return None
     
@@ -112,15 +181,15 @@ class NewsSummarizer:
             Summarized text or None if summarization fails
         """
         try:
-            if not text or len(text.strip()) < 10:
-                logger.warning("Text too short to summarize")
+            if not text or len(text.strip()) < 50: # Increased minimum text length for summarization
+                logger.warning(f"Text too short to summarize. Length: {len(text.strip())}")
                 return None
                 
             # Tokenize the text into sentences
             sentences = sent_tokenize(text)
             
             if not sentences:
-                logger.warning("No sentences found in text")
+                logger.warning("No sentences found in text for extractive summarization")
                 return None
                 
             # For a simple approach, just take the first few sentences
@@ -152,8 +221,8 @@ class NewsSummarizer:
             Inshorts-style summary
         """
         try:
-            if not summary:
-                logger.warning("Empty summary provided")
+            if not summary or len(summary.strip()) < 10:
+                logger.warning(f"Empty or very short summary provided for Inshorts style. Length: {len(summary.strip() if summary else '')}")
                 return ""
                 
             # Remove the title from the summary if it appears there
@@ -164,7 +233,7 @@ class NewsSummarizer:
             sentences = sent_tokenize(summary)
             
             if not sentences:
-                logger.warning("No sentences found in summary")
+                logger.warning("No sentences found in summary for Inshorts style")
                 return summary
                 
             # Simplify sentences to target length
