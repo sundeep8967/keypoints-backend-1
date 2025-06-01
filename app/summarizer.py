@@ -23,9 +23,9 @@ class NewsSummarizer:
     """Service for summarizing news articles."""
     
     @staticmethod
-    def summarize_from_url(url: str, max_sentences: int = 3, timeout: int = 20) -> Optional[str]:
+    def summarize_from_url(url: str, max_sentences: int = 3, timeout: int = 20) -> Optional[dict]:
         """
-        Summarize a news article from its URL.
+        Summarize a news article from its URL and extract additional content.
         
         Args:
             url: URL of the news article
@@ -33,7 +33,7 @@ class NewsSummarizer:
             timeout: Timeout in seconds for article download
             
         Returns:
-            Summarized text or None if summarization fails
+            Dictionary with summary, top_image, and other metadata
         """
         try:
             # Handle Google News redirects
@@ -64,17 +64,32 @@ class NewsSummarizer:
                 
             article.parse()
             
+            # Extract images and metadata
+            result = {
+                'summary': None,
+                'top_image': article.top_image,
+                'images': list(article.images)[:5] if article.images else [],
+                'title': article.title,
+                'authors': article.authors,
+                'publish_date': article.publish_date,
+                'text': article.text[:500] + '...' if len(article.text) > 500 else article.text
+            }
+            
             # If article has built-in summarization, use it
             try:
                 article.nlp()
                 if article.summary:
                     logger.info(f"Generated summary for {url} using newspaper3k (length: {len(article.summary)})")
-                    return article.summary
+                    result['summary'] = article.summary
+                else:
+                    # Fall back to extractive summarization if needed
+                    result['summary'] = NewsSummarizer.extractive_summarize(article.text, max_sentences)
             except Exception as e:
                 logger.warning(f"NLP summarization failed, falling back to extractive: {e}")
+                result['summary'] = NewsSummarizer.extractive_summarize(article.text, max_sentences)
                 
-            # Fall back to extractive summarization if needed
-            return NewsSummarizer.extractive_summarize(article.text, max_sentences)
+            logger.info(f"Successfully extracted article data: title='{result['title']}', image={bool(result['top_image'])}")
+            return result
             
         except ArticleException as e:
             logger.error(f"Article exception for {url}: {e}")

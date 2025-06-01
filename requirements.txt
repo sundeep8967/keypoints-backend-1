@@ -10,3 +10,5 @@ requests>=2.25.0
 # For text summarization
 nltk>=3.6.0
 newspaper3k>=0.2.8
+lxml>=4.9.0
+lxml_html_clean

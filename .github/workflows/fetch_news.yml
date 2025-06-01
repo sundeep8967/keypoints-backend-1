@@ -83,6 +83,7 @@ jobs:
         pip install nltk==3.8.1
         pip install newspaper3k==0.2.8
         pip install 'lxml[html_clean]>=4.9.0'
+        pip install lxml_html_clean
         pip install requests-file>=1.5.1
         pip install feedparser>=6.0.0
         pip install tldextract>=3.1.0

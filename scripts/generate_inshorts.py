@@ -119,9 +119,9 @@ def process_article_with_timeout(article, max_length, timeout):
         # Set a timeout for article processing
         start_time = time.time()
         
-        # Generate a summary
-        summary = NewsSummarizer.summarize_from_url(url)
-        if not summary:
+        # Get enhanced article data with images
+        article_data = NewsSummarizer.summarize_from_url(url, timeout=timeout)
+        if not article_data or not article_data.get('summary'):
             logger.warning(f"No summary generated for {url}")
             return None
             
@@ -132,22 +132,26 @@ def process_article_with_timeout(article, max_length, timeout):
             
         # Format in Inshorts style
         inshorts_summary = NewsSummarizer.format_inshorts_style(
-            article.get('title', ''), 
-            summary, 
+            article.get('title', '') or article_data.get('title', ''), 
+            article_data.get('summary', ''), 
             max_chars=max_length
         )
         
-        # Create Inshorts-style article
+        # Create enhanced Inshorts-style article
         inshorts_article = {
-            'title': article.get('title'),
+            'title': article.get('title') or article_data.get('title', 'Untitled'),
             'link': url,
             'short_summary': inshorts_summary,
+            'full_summary': article_data.get('summary', ''),
             'source': article.get('source'),
             'published': article.get('published'),
-            'image_url': article.get('image_url')  # This might not be available in your data
+            'image_url': article_data.get('top_image'),
+            'additional_images': article_data.get('images', [])[:3],
+            'authors': article_data.get('authors', []),
+            'text_excerpt': article_data.get('text', '')
         }
         
-        logger.info(f"Successfully generated summary for: {article.get('title')}")
+        logger.info(f"Successfully generated enhanced summary for: {inshorts_article['title']}")
         return inshorts_article
         
     except Exception as e:
