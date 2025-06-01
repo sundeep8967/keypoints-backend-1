@@ -53,15 +53,15 @@ jobs:
     
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
+        python -m pip install 
         # Show Python and pip versions for debugging
         python --version
         pip --version
         # Install setuptools version that supports use_2to3
-        pip install "setuptools==41.2.0"
+        pip install "setuptools<58"
         pip install "feedparser>=6.0.0"
         # Install dependencies from requirements.txt
-        pip install -r requirements.txt
+        #pip install -r requirements.txt
         # List installed packages for debugging
         pip list
     
