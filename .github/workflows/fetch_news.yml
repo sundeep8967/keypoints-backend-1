@@ -49,7 +49,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'  # Use 3.9 to avoid compatibility issues
+        python-version: '3.8'  # Use 3.8 for better compatibility
     
     - name: Install dependencies
       run: |
