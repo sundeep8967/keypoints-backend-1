@@ -65,7 +65,8 @@ jobs:
         pip install sgmllib3k
         pip install dateparser
         pip install urllib3
-        pip install idna,certifi
+        pip install idna
+        pip install certifi
         pip install typing_extensions
         # Install dependencies from requirements.txt --no-deps
         pip install -r requirements.txt --no-deps
