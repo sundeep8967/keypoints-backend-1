@@ -1,8 +1,39 @@
 {
   "metadata": {
+<<<<<<< HEAD
     "timestamp": "2025-06-01T21:31:07.356758",
     "source": "topic: business",
     "count": 0
+=======
+    "source_file": "data/news_business.json",
+    "generation_time": "2025-06-02 04:07:54",
+    "total_articles": 3
+>>>>>>> 6b4712c (/.)
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Big Tech Is Back in S&P 500 Driver’s Seat as Profit Engines Hum - Bloomberg",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-01/big-tech-is-back-in-s-p-500-driver-s-seat-as-profit-engines-hum",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Sun, 01 Jun 2025 15:00:00 GMT"
+    },
+    {
+      "title": "US Steel workers see hope of job security in deal with Japan’s Nippon - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/89e6444d-9ff2-4201-8713-2421cb199d6e",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb9078acb-f96e-44d8-a62d-978ae92997e9.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. US Steel workers see hope of job security in deal with Japan’s Nippon Many factory workers have put faith in Donald Trump and broken with their union over support for tie-up Donald Trump spoke at a rally at US...",
+      "published": "Sun, 01 Jun 2025 10:00:58 GMT"
+    },
+    {
+      "title": "S&P 500 scores best May since 1990, but stocks end month with fresh tariff worries - MarketWatch",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/s-p-500-scores-best-may-since-1990-but-stocks-end-month-with-fresh-tariffs-worries-f605410e",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 30 May 2025 22:32:00 GMT"
+    }
+  ]
 }

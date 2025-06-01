@@ -12,3 +12,6 @@ nltk>=3.6.0
 newspaper3k>=0.2.8
 lxml>=4.9.0
 lxml_html_clean
+# For Selenium-based extraction
+selenium>=4.9.0
+webdriver-manager>=3.8.6

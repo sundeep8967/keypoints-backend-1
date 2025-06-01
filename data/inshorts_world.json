@@ -1,8 +1,39 @@
 {
   "metadata": {
+<<<<<<< HEAD
     "timestamp": "2025-06-01T21:31:19.165815",
     "source": "topic: world",
     "count": 0
+=======
+    "source_file": "data/news_world.json",
+    "generation_time": "2025-06-02 04:05:08",
+    "total_articles": 3
+>>>>>>> 6b4712c (/.)
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Ukraine attacks Russian aircraft in far-reaching drone strikes - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2c4cGtWY3pJSDd4NjhyWmoycW8wa1lvUDF1SE1uREFmSmRIQlNXMllISEpCbVlVWWFaTF9tcUpyRFFNNGFJNjkwMmdsZGIzVjVUVFJqa1pjM3h1R3RHazZUZjBOczBob0hkS0dvSmFfZ1gyZzB6Q25vZVZPMFNseUZZQWRWOVdQa2NUSGNEdEJTZw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 20:32:46 GMT"
+    },
+    {
+      "title": "Red Cross says at least 21 killed and dozens shot in Gaza aid incident - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c991j01lym3o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c91a/live/9f1b45d0-3edb-11f0-a5a9-d3df92c0769e.jpg",
+      "summary": "Red Cross says at least 21 killed and dozens shot in Gaza aid incident Bodies were brought to Nasser hospital after the incident A \"mass casualty influx\" of people, many with gunshot or shrapnel wounds, was received at a Red Cross field hospital in southern Gaza, the organisation said, following disputed reports about an incident near an aid distribution centre...",
+      "published": "Sun, 01 Jun 2025 19:29:50 GMT"
+    },
+    {
+      "title": "Poland’s Presidential Election Goes Down to the Wire - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/01/world/europe/poland-election-president.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 19:31:49 GMT"
+    }
+  ]
 }

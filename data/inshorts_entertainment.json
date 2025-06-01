@@ -1,8 +1,39 @@
 {
   "metadata": {
+<<<<<<< HEAD
     "timestamp": "2025-06-01T21:31:09.730032",
     "source": "topic: entertainment",
     "count": 0
+=======
+    "source_file": "data/news_entertainment.json",
+    "generation_time": "2025-06-02 04:10:43",
+    "total_articles": 3
+>>>>>>> 6b4712c (/.)
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Buffalo Bills QB Josh Allen ties knot with actress and singer Hailee Steinfeld - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.in/nfl/story/_/id/45413681/josh-allen-hailee-steinfeld-wedding-buffalo-bills",
+      "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0207%2Fr1448591_1296x729_16%2D9.jpg",
+      "summary": "Buffalo Bills QB Josh Allen ties knot with actress and singer Hailee Steinfeld How 'The Eraser' got his name, and what Patriots like about the rookie safety's game DC Steve Wilks collaborating with Aaron Glenn to make Jets more aggressive, physical Bills QB Josh Allen weds Hailee Steinfeld Josh Allen and Hailee Steinfeld are now newly weds. Michael Loccisano/Getty Images...",
+      "published": "Sun, 01 Jun 2025 15:07:00 GMT"
+    },
+    {
+      "title": "‘Lilo & Stitch’ Kicks Up $63M Second Weekend, ‘Mission Impossible 8’ $27M+, ‘Karate Kid: Legends’ At $21M – Box Office Update - Deadline",
+      "source": "Deadline",
+      "url": "https://deadline.com/2025/06/box-office-lilo-stitch-karate-kid-bring-her-back-1236414174/",
+      "image_url": "https://deadline.com/wp-content/uploads/2025/05/LNS-FP-0029.jpg?w=1024",
+      "summary": "‘Lilo & Stitch’ Kicks Up $63M Second Weekend, ‘Mission Impossible 8’ $27M+, ‘Karate Kid: Legends’ At $21M – Box Office Update Chris Sanders voices Stitch in Disney’s live-action 'LILO & STITCH' SUNDAY AM UPDATE: Saturday was kind to most movies in the top 10 and saw lifts over Friday, in particular Disney’s Lilo & Stitch and Paramount’s Mission: Impossible –...",
+      "published": "Sun, 01 Jun 2025 14:49:00 GMT"
+    },
+    {
+      "title": "Taylor Swift Wears a Bejeweled LBD for a Celebratory Girls Night Out with Selena Gomez - instyle.com",
+      "source": "instyle.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3lVQUI1RlpaLW1VU0dDeHNjV2VTaXIxQm1fN1ZIZmFsWjVkeXNrNVQ1alJYRi1FZWpMU3JjYlMyallNQzIzdEZDbHRSX0hjT0dMSE05VHpVTzBUYjFiMUxLNGREeWZMNGxlbWRkNUs0NHhLeDg3UWsyaFZrMnZuMEdad3JfZmtLbW42Qm92Q0tENjk0OVBxcEcyd1h0Zm8?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 14:43:48 GMT"
+    }
+  ]
 }

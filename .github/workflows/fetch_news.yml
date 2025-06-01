@@ -6,8 +6,8 @@ on:
       - main  # Run on push to main branch
       - master  # Run on push to master branch (if you use master)
   schedule:
-    # Run every 6 hours (at minute 0 of hour 0, 6, 12, and 18)
-    - cron: '0 */6 * * *'
+    # Run every hour (at minute 0 of every hour)
+    - cron: '0 * * * *'
   workflow_dispatch:
     inputs:
       news_type:
@@ -91,6 +91,9 @@ jobs:
         pip install feedfinder2>=0.0.4
         pip install jieba3k>=0.35.1
         pip install python-dateutil>=2.8.2
+        # Install Selenium dependencies
+        pip install selenium
+        pip install webdriver-manager
         # Download NLTK data
         python -m nltk.downloader punkt
         # Install dependencies from requirements.txt --no-deps
@@ -177,24 +180,16 @@ jobs:
         echo "Checking for news files..."
         ls -la data/
         
-        # Generate Inshorts-style summaries for each news category
-        echo "Generating Inshorts summaries..."
+        # Set up Chrome for Selenium
+        echo "Setting up Chrome for Selenium..."
+        wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+        sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+        sudo apt-get update
+        sudo apt-get install -y google-chrome-stable
         
-        # Test NLTK installation
-        python -c "import nltk; print('NLTK version:', nltk.__version__); print('NLTK data path:', nltk.data.path)"
-        
-        # Test newspaper3k installation
-        python -c "import newspaper; print('newspaper3k version:', newspaper.__version__)"
-        
-        # Process each news category with error handling
-        for category in top tech business entertainment sports science health world; do
-          echo "Processing $category news..."
-          if [ -f "data/news_${category}.json" ]; then
-            python scripts/generate_inshorts.py --input "data/news_${category}.json" --output "data/inshorts_${category}.json" --max-articles 5 || echo "Error processing $category news"
-          else
-            echo "Warning: data/news_${category}.json not found"
-          fi
-        done
+        # Generate Inshorts-style summaries for all news categories
+        echo "Generating Inshorts summaries for all categories..."
+        python scripts/generate_all_inshorts.py --input-dir data --output-dir data --max-articles 20 --headless
         
         # List generated files
         echo "Generated Inshorts files:"

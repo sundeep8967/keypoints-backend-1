@@ -1,8 +1,39 @@
 {
   "metadata": {
+<<<<<<< HEAD
     "timestamp": "2025-06-01T21:31:14.436374",
     "source": "topic: science",
     "count": 0
+=======
+    "source_file": "data/news_science.json",
+    "generation_time": "2025-06-02 04:02:49",
+    "total_articles": 3
+>>>>>>> 6b4712c (/.)
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Strauss’ ‘Blue Danube’ is beamed into space as Vienna celebrates with a concert - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQVRJTmlTVExsdV9mMm5uRHJ4MWRiWll5TFhxaHVIV2dLY0RZY2hCaXpCdjdodTA1TTFrd21Yc0tXeU5MSFI2RVlZR00wWlN5WmVHa3hvREdocy1HVWdvS3pLS3dSVTJjSHBpaHlUazZNNld0OXZoenhoQ1REOXdKR2dZTDBfZTRWNTJlVkNrSVQzWGI4anc?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 05:56:00 GMT"
+    },
+    {
+      "title": "SpaceX knocks out another national security launch while ULA faces scrutiny - Yahoo",
+      "source": "Yahoo",
+      "url": "https://www.yahoo.com/news/spacex-knocks-another-national-security-002900694.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/9wYemjFz0yxaEIGYmLbWWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01Nzg-/https://media.zenfs.com/en/orlando_sentinel_national_858/ee9435bca760d5d41da8fe1c5b389735",
+      "summary": "Speaker Johnson on Medicaid cuts Canada fires bring smoke to U. S. SpaceX knocks out another national security launch while ULA faces scrutiny Richard Tribou, Orlando Sentinel Sat, May 31, 2025 at 5:59 AM GMT+5:306 min read ORLANDO, Fla. — United Launch Alliance’s years-long delays with its new Vulcan rocket have flipped the script for national security missions, making SpaceX...",
+      "published": "Sat, 31 May 2025 00:29:00 GMT"
+    },
+    {
+      "title": "SpaceX adds 27 Starlink satellites to constellation after successful launch from California (video) - Space",
+      "source": "Space",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-adds-27-starlink-satellites-to-constellation-after-successful-launch-from-california",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/dShRHDGHBJr9xGd5iDj72j.jpg",
+      "summary": "Starship Flight 9 Launch Failure Space Exploration Launches & Spacecraft SpaceX adds 27 Starlink satellites to constellation after successful launch from California (video) By Robert Z. Pearlman published yesterday Liftoff occurred at 3:10 p. m. EDT on Saturday (May 31). When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Click here...",
+      "published": "Sat, 31 May 2025 20:23:04 GMT"
+    }
+  ]
 }

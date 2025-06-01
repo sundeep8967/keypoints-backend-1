@@ -1,8 +1,39 @@
 {
   "metadata": {
+<<<<<<< HEAD
     "timestamp": "2025-06-01T21:31:02.570851",
     "source": "top news",
     "count": 0
+=======
+    "source_file": "data/news_top.json",
+    "generation_time": "2025-06-02 04:20:31",
+    "total_articles": 3
+>>>>>>> 6b4712c (/.)
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Ukraine launches massive drone strike on air bases deep inside Russia - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2025/06/01/ukraine-drone-strikes-russia",
+      "image_url": "https://images.axios.com/zMvijuKU7CcXHD8TDI2Sn0YqjxQ=/0x310:6141x3764/1366x768/2025/06/01/1748787503714.jpg",
+      "summary": "Ukraine launches massive drone strike on air bases deep inside Russia Soldiers from the artillery crew of the Striletskyi Special Forces Police Battalion of the Main Department of the National Police in the Zaporizhzhia region prepare for a combat mission in the Zaporizhzhia region, Ukraine, on May 23, 2025. Photo: Dmytro Smolienko/Ukrinform/NurPhoto via Getty Images Ukraine launched unprecedented drone strikes...",
+      "published": "Sun, 01 Jun 2025 19:12:53 GMT"
+    },
+    {
+      "title": "Red Cross says at least 21 killed and dozens shot in Gaza aid incident - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c991j01lym3o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c91a/live/9f1b45d0-3edb-11f0-a5a9-d3df92c0769e.jpg",
+      "summary": "Red Cross says at least 21 killed and dozens shot in Gaza aid incident Bodies were brought to Nasser hospital after the incident A \"mass casualty influx\" of people, many with gunshot or shrapnel wounds, was received at a Red Cross field hospital in southern Gaza, the organisation said, following disputed reports about an incident near an aid distribution centre...",
+      "published": "Sun, 01 Jun 2025 19:29:50 GMT"
+    },
+    {
+      "title": "Brewing tariff court battles won’t spike White House leverage in trade talks, Lutnick says - Politico",
+      "source": "Politico",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdk95djBOc2N0MUQxdjlUWTk3Sl84YU5RX2dhSWxoU3FPRUpnVExiVUU4TUROVC02RENPQlBJQUVPbEdLVFZfc2x4SFM4Q21reUk0clMwZmRUNU96SnNOVjRnSUVwcm1YU0tnVzFIRXp2aUhVcGpxYWJuUUI0UzNVTFF6MEZCaXVjbG5OYQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 17:20:40 GMT"
+    }
+  ]
 }

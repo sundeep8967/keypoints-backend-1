@@ -1,8 +1,39 @@
 {
   "metadata": {
+<<<<<<< HEAD
     "timestamp": "2025-06-01T21:31:12.073108",
     "source": "topic: sports",
     "count": 0
+=======
+    "source_file": "data/news_sports.json",
+    "generation_time": "2025-06-02 04:01:47",
+    "total_articles": 3
+>>>>>>> 6b4712c (/.)
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "NBA Finals odds: Oklahoma City among most lopsided favorites ever against Indiana - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/athletic/6395382/2025/06/01/nba-finals-odds-oklahoma-city-indiana/",
+      "image_url": "https://static01.nyt.com/athletic/uploads/wp/2025/06/01133459/GettyImages-2217579241-scaled.jpg?width=1200&height=630&fit=cover",
+      "summary": "NBA Finals odds: Oklahoma City among most lopsided favorites ever against Indiana One city will soon win its first NBA championship, and the odds are saying it’s far more likely to be Oklahoma City than Indianapolis. The Thunder are heavily favored to beat the Pacers in the NBA Finals, set to start on Thursday. On BetMGM, the Thunder are -700...",
+      "published": "Sun, 01 Jun 2025 17:59:27 GMT"
+    },
+    {
+      "title": "Thrilling Pacers run Knicks ragged, reach first NBA Finals in 25 years - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaN1RRVkZIV3F3bV8xN0NWUkV4Ujg4UjBkeVdxMm5rbGY3eXJRcEZIdkEtRDhRS2syNld1WDA2T3dualJKV3lnTEdrZHNva0VsVlBEZ3R4LWd5aURzcWxNaFZMOXowcnZzcDhfX0hPaU5ZWVlrdGtMMDJR?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 18:02:08 GMT"
+    },
+    {
+      "title": "Magic Johnson Bluntly Blames Two Players for Knicks' Season-Ending Loss - Sports Illustrated",
+      "source": "Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWQtYURjM1VhTWhvVlEyZkZjbi1qZFRIUEdtd2RpNVFnRVhua0RPNEJuYjhzWFVmZldObndVUzBuTktwSzNhczNyMlRNNWprb1o0MkIyQUt0Ymh0MGhCVm1VZ0JrazFBVEJXNTRyMzF6WG9VTU13RV96WENGU1dQOERtZ3QyTUhjRE51cDN6Z2ptQzFOdDJDNA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 19:30:06 GMT"
+    }
+  ]
 }

@@ -1,8 +1,39 @@
 {
   "metadata": {
+<<<<<<< HEAD
     "timestamp": "2025-06-01T21:31:16.817038",
     "source": "topic: health",
     "count": 0
+=======
+    "source_file": "data/news_health.json",
+    "generation_time": "2025-06-02 04:19:27",
+    "total_articles": 3
+>>>>>>> 6b4712c (/.)
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Exercise ‘better than drugs’ to stop cancer returning after treatment, trial finds - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2025/jun/01/exercise-better-than-drugs-after-cancer-treatment-international-trial-finds",
+      "image_url": "https://i.guim.co.uk/img/media/5b6e5863dccc4d0deb1e8ce56f6bd9346373fc13/0_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c498be349bdf5271370a10d1423c138",
+      "summary": "Fund independent journalism with $15 per month After five years, patients in an exercise regime had a 28% lower risk of recurrent or new cancers. Photograph: amriphoto/Getty Images Exercise ‘better than drugs’ to stop cancer returning after treatment, trial finds First clear evidence that structured exercise regime reduces risk of dying by a third, can stop tumours coming back or...",
+      "published": "Sun, 01 Jun 2025 20:22:00 GMT"
+    },
+    {
+      "title": "RFK Jr. May Have Just Ruined Our Best Weapon Against Bird Flu - The Bulwark",
+      "source": "The Bulwark",
+      "url": "https://www.thebulwark.com/p/rkf-jr-kennedy-hhs-may-have-just-ruined-our-best-weapon-against-bird-flu-moderna-mrna-covid-boosters-cdc",
+      "image_url": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab87096e-021a-48a4-8acf-6169de115be5_5868x3885.jpeg",
+      "summary": "The Bulwark is home to Sarah Longwell, Tim Miller, Bill Kristol, JVL, Sam Stein, and more. We are the largest pro-democracy bundle on Substack for news and analysis on politics and culture—supported by a community built on good-faith. By subscribing, I agree to Substack's Terms of Use, and acknowledge its Information Collection Notice and Privacy Policy. Already have an account?",
+      "published": "Sun, 01 Jun 2025 12:48:07 GMT"
+    },
+    {
+      "title": "Trump administration’s deep cuts to public health leave system reeling - PBS",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/health/trump-administrations-deep-cuts-to-public-health-leave-system-reeling",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/02/2025-02-25T233501Z_1162206454_RC2V1DA4TFX5_RTRMADP_3_USA-HEALTH-MEASLES-TEXAS-1024x768.jpg",
+      "summary": "Michelle R. Smith, Associated Press Trump administration’s deep cuts to public health leave system reeling Health May 31, 2025 6:15 PM EDT CHARLOTTE, N. C. (AP) — Americans are losing a vast array of people and programs dedicated to keeping them healthy. Gone are specialists who were confronting a measles outbreak in Ohio, workers who drove a van to schools...",
+      "published": "Sat, 31 May 2025 22:15:40 GMT"
+    }
+  ]
 }

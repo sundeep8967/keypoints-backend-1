@@ -1,8 +1,39 @@
 {
   "metadata": {
+<<<<<<< HEAD
     "timestamp": "2025-06-01T21:31:04.983668",
     "source": "topic: technology",
     "count": 0
+=======
+    "source_file": "data/news_tech.json",
+    "generation_time": "2025-06-02 04:07:27",
+    "total_articles": 3
+>>>>>>> 6b4712c (/.)
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "macOS Tahoe Name Leaked Ahead of Apple's WWDC Event Next Week - MacRumors",
+      "source": "MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sVzVURmhsRGprM284V0R1UXk4NFYtVFZndXItMEp4WjdINmFPQ0pNM3p1dWs3OVVUOW82dmpUcno5bkhTLVF4eTJMNzV5VXB5SlZsZ1p2T0hEekJNM2xEUldOUTBBb2t1dVNLeEV3?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 14:08:01 GMT"
+    },
+    {
+      "title": "We may have some information on incoming smartwatches from Android phone and tablet maker HMD - TechRadar",
+      "source": "TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNW5wRndOWndfUWVsb1dPeW40d0hyMTAwN2hjSVRHenRsbGlFVVlmQ2xFbWU5NVV6VFZEdEYwbVpIclF6RDA0QU5wcmp1dkdiYTNETENuRWxIMFZBbGhaUTN1UFdIWVQwN3Z6ODNINkM3VHpxa1ktNnpyazdOOFIzZ2J5b3F4YmhYVVhiOGVPRnBId0xRakR4QWpmZ1l2X3E5R1JJS0ZNSE9tTHdqaU1rZFNuSEVualR2T2FIbFBZdWoxQ0FfY2J0XzhJM2xZSjF1YkNvUHZtbW1Pb1Y1NWJOSg?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 16:30:00 GMT"
+    },
+    {
+      "title": "Elden Ring Nightreign is getting another patch next week to improve solo play - Eurogamer",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/elden-ring-nightreign-is-getting-another-patch-next-week-to-improve-solo-play",
+      "image_url": "https://assetsio.gnwcdn.com/ELDEN-RING-NIGHTREIGN-_-Bring-Me-to-Life-Trailer-0-10-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "Summer Games Fest & IGN Live Schedule If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News Elden Ring Nightreign Elden Ring Nightreign is getting another patch next week to improve solo play UPDATE: FromSoft confirms servers will be down for around three hours tomorrow morning. News by...",
+      "published": "Sun, 01 Jun 2025 15:58:24 GMT"
+    }
+  ]
 }
