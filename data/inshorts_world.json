@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-02 12:14:47",
-    "total_articles": 10
+    "generation_time": "2025-06-02 13:56:42",
+    "total_articles": 13
   },
   "articles": [
     {
@@ -15,13 +15,13 @@
       "published": "Mon, 02 Jun 2025 07:19:48 GMT"
     },
     {
-      "id": "09cea97f7185f29b8d2fbf8e0b0d390f",
-      "title": "Populist Karol Nawrocki wins Polish presidential election, setting stage for more clashes with PM Tusk - CNN",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmlsUzNTRXJBTUc0ZkJfSG00WUUzUF9rdzZ6d05mbTU4bmJZV0JnOElxeHdhRXRmZ3FGc1B6al9KYVY4OEgtVE94bzBSYmFmQUVTVGxtaFNWV0toZVVJRWNtazJ5azB2OENrMng5RlhYSmp5aWZicmdtUUhXN3cxdW4xSXU2TjM2VVh5aFhOc2FRN2pJZFhQSmhGbDRfNnhfT3JzRnl3YTTSAa4BQVVfeXFMTmc3UnlTaUpXNExMVzZHS09aUlNRRVVNZVBlUnFNVUhfWURSV2pyaHMwcnZaQV8taDVScDRGYTNqQ1ZSTFplTDViQVhvVWpjTjR0TFpIalFwcXA4enpqR29qRF92LXc2cVJ0bDRoOGp6VGpiUmNENUU1UEVKOEpEWWxzYWVrakZrenh6NjNGM0M1T3ZrZ0ZKaW5oU2ZUSkZmbFg0R3F3RVRIRDI5N09R?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 08:07:00 GMT"
+      "id": "aabe3b11a0067f91176a8ad0904f6aab",
+      "title": "Poland election: Conservative historian Nawrocki wins presidential vote - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx27897vedno",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f3a0/live/4ed68b70-3f67-11f0-835b-310c7b938e84.jpg",
+      "summary": "Conservative historian wins Polish presidential vote Karol Nawrocki is Poland's next president With all votes counted, right-wing historian Karol Nawrocki has been elected Poland's new president, the state electoral commission (PKW) said. PKW said Nawrocki won 50. 9% percent of the votes – ahead of Warsaw's liberal mayor Rafal Trzaskowski on 49. 1% percent. It's a sensational turnaround from the...",
+      "published": "Mon, 02 Jun 2025 10:15:37 GMT"
     },
     {
       "id": "9c72dde662d078f079ee083291637298",
@@ -33,6 +33,15 @@
       "published": "Mon, 02 Jun 2025 11:36:46 GMT"
     },
     {
+      "id": "aaaf76eec91d3589c1be17c396f0574d",
+      "title": "Terrified tourists run for their lives as Mount Etna erupts, sending gigantic plume of ash more than a mile in - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/news/article-14771899/Terrified-tourists-run-lives-Mount-Etna-erupts-sending-gigantic-plume-ash-sky.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/02/11/98959783-0-image-m-42_1748861931787.jpg",
+      "summary": "Terrified tourists run for their lives as Mount Etna erupts, sending gigantic plume of ash more than a mile into the sky PUBLISHED: 06:21 EDT, 2 June 2025 | UPDATED: 09:13 EDT, 2 June 2025 Huge clouds of ash more than a mile high have erupted from Mount Etna, triggered by an avalanche of boiling rock hurtling down the side...",
+      "published": "Mon, 02 Jun 2025 11:52:35 GMT"
+    },
+    {
       "id": "3f8cb910c445865dc2a49228ab509e5e",
       "title": "U.K. to Build Up to 12 Submarines as Part of Shift to ‘War-Fighting Readiness’ - The New York Times",
       "source": "The New York Times",
@@ -42,31 +51,49 @@
       "published": "Mon, 02 Jun 2025 10:53:24 GMT"
     },
     {
-      "id": "1f7a11fdb3712324f8294bf8c20d38f8",
-      "title": "BBC Verify Live: What we know about Gaza aid 'mass casualty' incident - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/live/ceqgvwyjjg8t",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68e2/live/a48870c0-3f89-11f0-835b-310c7b938e84.jpg",
-      "summary": "BBC Verify Live: What we know about Gaza aid 'mass casualty' incident BBC Verify uses forensic techniques to report the news using open-source intelligence, satellite imagery, fact-checking and data analysis This feed is where we post our work throughout the day Today we're looking at the latest open-source material coming out of Gaza as we investigate conflicting claims after 21...",
-      "published": "Mon, 02 Jun 2025 10:42:04 GMT"
+      "id": "07c79992fcb5a2a84b7552dac9408065",
+      "title": "Lion kills businessman at luxury safari lodge in Namibia after he stepped out of tent to use toilet - CBS News",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/lion-kills-man-luxury-lodge-left-tent-use-toilet-namibia/",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/02/f00cd279-7ed6-451f-839b-69048edfa766/thumbnail/1200x630g7/bd5dcd5fd5913c2f9b237483298bae3b/gettyimages-1491949273.jpg?v=15603985a4508c8e7bc83d8e4e73c5d0",
+      "summary": "Lion kills businessman at luxury safari lodge in Namibia after he stepped out of tent to use toilet Updated on: June 2, 2025 / 6:24 AM EDT / CBS/AFP A lion killed a man at a luxury lodge in the remote northwest of Namibia, authorities said. The victim — identified by local media as well-known businessman Bernd Kebbel — was...",
+      "published": "Mon, 02 Jun 2025 10:09:00 GMT"
     },
     {
-      "id": "fc6643ded968b10301b7016ec48e16f1",
-      "title": "India: Man arrested with dozens of venomous vipers at Mumbai airport - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ckgrzz5d72vo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/467e/live/75aac480-3f73-11f0-a6ce-4370c7538a59.jpg",
-      "summary": "Indian man arrested with 47 venomous vipers in bag at Mumbai airport Authorities have seized spider-tailed horned vipers, Asian leaf turtles and Indonesian pit vipers from the passenger Authorities in India have arrested a man for trying to smuggle dozens of rare reptiles, including venomous snakes, into the country. The Indian citizen, who was returning from Thailand, was stopped by...",
-      "published": "Mon, 02 Jun 2025 07:34:47 GMT"
-    },
-    {
-      "id": "994a324c5efe98f344c056878e3ee685",
-      "title": "Column | In Asia, Hegseth warns against China, but few want to pick sides - The Washington Post",
+      "id": "62222d6b3a5eacb9aea580cd5b3526a8",
+      "title": "More than 30 killed by gunfire near U.S. aid site in Gaza - The Washington Post",
       "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/06/01/asia-hegseth-china-shangrila-dialogue-security-summit-sides-trade/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OKG23LB65NISBHTGHKSWPY5OWE_size-normalized.jpg&w=1440",
-      "summary": "In Asia, Hegseth warns of China ‘threat,’ but few want to pick sides Defense Secretary Pete Hegseth said he came to Asia’s preeminent security forum to talk “tanks, not tariffs. ” But for other leaders, Trump’s trade war was hard to set aside. You’re reading an excerpt from the WorldView newsletter. Sign up to get the rest, including news from...",
-      "published": "Mon, 02 Jun 2025 02:14:30 GMT"
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMHZKc2tFM3pTSGIyUldEb3ZRaEhEQnJPN1BVbHpUMWZnQ0JWRHpsajNwcUpCSVJEd2dfTlBSNWhiSGZNV3g4SWwtaE9KeUVCTVFTcDYxV3VMbDluS1ZrdXRkLVB2UnhpNkRnOTcyaWtuM2liV0xoQmxnanVvRXM2S2JlSmRWdw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 03:00:00 GMT"
+    },
+    {
+      "id": "db4309cf58f479a81a4c473cb350aab0",
+      "title": "At least 200 killed as floods submerge Nigerian trading hub - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/africa/least-200-killed-floods-submerge-nigerian-trading-hub-rcna210303",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250602-Nigeria-2-RS-d6c423.jpg",
+      "summary": "At least 200 killed as floods submerge Nigerian trading hub No survivors are expected after torrential rainfall unleashed the flood on the town of Mokwa, a farming region near the River Niger, a local official said. Mokwa, Nigeria, on Friday following a downpour. Chenemi Bamaiyi / AP Create your free profile or log in to save this article June 2,...",
+      "published": "Mon, 02 Jun 2025 09:05:23 GMT"
+    },
+    {
+      "id": "09b896540915d8ed11b4ab827ec90b47",
+      "title": "China warns US not to ‘play with fire’ on Taiwan as Hegseth brands Beijing ‘imminent’ threat - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/hegseth-taiwan-china-united-states-trump-foreign-policy/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/01/13091093-scaled.jpg",
+      "summary": "China warns US not to ‘play with fire’ on Taiwan as Hegseth brands Beijing ‘imminent’ threat",
+      "published": "Sun, 01 Jun 2025 11:45:00 GMT"
+    },
+    {
+      "id": "ffa3d3f6e66c26d3ca002416f816e630",
+      "title": "The AI copyright standoff continues - with no solution in sight - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/clyrgv2n190o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f23a/live/d3e0adf0-3d5f-11f0-b95e-89f9465859a0.jpg",
+      "summary": "The AI copyright standoff continues - with no solution in sight The government's plans to allow AI developers to access copyrighted material to train their systems has sparked backlash - and protests - by British creatives. The fierce battle over artificial intelligence (AI) and copyright - which pits the government against some of the biggest names in the creative industry...",
+      "published": "Mon, 02 Jun 2025 06:22:46 GMT"
     },
     {
       "id": "99b9728b686c8f4b47d48aef8056245a",
