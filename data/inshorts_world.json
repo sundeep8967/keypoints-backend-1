@@ -1,19 +1,10 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-02 02:26:17",
+    "generation_time": "2025-06-02 04:31:51",
     "total_articles": 11
   },
   "articles": [
-    {
-      "id": "37bb23b21f73fdcb7dd108a1e29fb02f",
-      "title": "Ukraine attacks Russian air bases in far-reaching drone strikes - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2c4cGtWY3pJSDd4NjhyWmoycW8wa1lvUDF1SE1uREFmSmRIQlNXMllISEpCbVlVWWFaTF9tcUpyRFFNNGFJNjkwMmdsZGIzVjVUVFJqa1pjM3h1R3RHazZUZjBOczBob0hkS0dvSmFfZ1gyZzB6Q25vZVZPMFNseUZZQWRWOVdQa2NUSGNEdEJTZw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 23:43:03 GMT"
-    },
     {
       "id": "a63cd6b6c4d295fa8dede4c305526660",
       "title": "Red Cross says at least 21 killed and dozens shot in Gaza aid incident - BBC",
@@ -24,67 +15,85 @@
       "published": "Mon, 02 Jun 2025 00:19:11 GMT"
     },
     {
+      "id": "87f769b98a857b9963a6b18d7f71655d",
+      "title": "Ukraine launches massive drone strike on air bases deep inside Russia - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2025/06/01/ukraine-drone-strikes-russia",
+      "image_url": "https://images.axios.com/zMvijuKU7CcXHD8TDI2Sn0YqjxQ=/0x310:6141x3764/1366x768/2025/06/01/1748787503714.jpg",
+      "summary": "Ukraine launches massive drone strike on air bases deep inside Russia Soldiers from the artillery crew of the Striletskyi Special Forces Police Battalion of the Main Department of the National Police in the Zaporizhzhia region prepare for a combat mission in the Zaporizhzhia region, Ukraine, on May 23, 2025. Photo: Dmytro Smolienko/Ukrinform/NurPhoto via Getty Images Ukraine launched unprecedented drone strikes...",
+      "published": "Sun, 01 Jun 2025 22:40:50 GMT"
+    },
+    {
       "id": "b8dbcbd4c4729752d962ff824e0de62f",
       "title": "Polish presidential runoff neck and neck with late poll swing to rightwinger - The Guardian",
       "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcEFPektIazhWdzNEYkVFcHZpQkJWVEJGbzBrRWcxQXFZbWJLUG96eFZya0EzZFRsYjY1c0tsZmkyaUtSZGZhdDFLZnRzcWp0d3dya2dUaFVPeHRtcndnd3A4OFNCdTF4OUVsSzRkVVlrenlnaTJxTHg0QTkyOWFTVFVJRjcteVNUZ2pDTjhxS0VDb1BNZzJBU3VSTTNTWWpTeFJvd0p2REE4cUprcTQ3Tms1ei1SUUk?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.theguardian.com/world/2025/jun/01/exit-poll-in-polish-presidential-run-off-puts-candidates-neck-and-neck",
+      "image_url": "https://i.guim.co.uk/img/media/fcbe3541cac8d03753d026fa4b73518102fbe9ee/368_0_4259_3407/master/4259.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=90cc1e10dcb5e67ef86f7f9ce7adbd88",
+      "summary": "Fund the free press with $5 per month Karol Nawrocki during the election evening of the second round of the Presidential election in Warsaw, Poland after he took a slim lead against Rafał Trzaskowski. Photograph: Anadolu/Getty Images Poland: right-wing candidate Karol Nawrocki ahead in presidential election runoff Victory for Nawrocki would be a blow to government led by Donald Tusk,...",
       "published": "Sun, 01 Jun 2025 23:06:00 GMT"
     },
     {
-      "id": "401a2743df8863f8659a500316099257",
-      "title": "UK announces billions in fresh defense splurge amid worries about Russia - politico.eu",
-      "source": "politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTdYUnk5aGpNSlBjMmdHLWpTOHVkeTF0ZzhxOXN1dVlDMHNfRXZpTHV2OTA4VkNVOEMwQjVIUjljZ1dGTlBoQUlSRHVTc05Vcl9reEpiM1VreG9HQk85LWRJR0pjNlQ5STVkc0JXQkNxLTdBMm9yVEUxck45SVdZMF8zVFBGZzc3VDNRVHB3N09fZjg3N1JVUllUVGJMcmxyOFFBempGVEd5d1Z0WFlNVkFR?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "id": "699333bb3cb94c090a3b6324aaafedb8",
+      "title": "UK to expand submarine fleet as defence review calls for 'warfighting readiness' - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/uk-expand-submarine-fleet-defence-review-calls-warfighting-readiness-2025-06-01/",
+      "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 14:17:00 GMT"
+      "published": "Sun, 01 Jun 2025 21:43:53 GMT"
+    },
+    {
+      "id": "4244526709fbaf231828b3ff29601440",
+      "title": "Two dead and 500 arrested in France during PSG win celebrations - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/01/sport/france-psg-int-champions-league-spt-intl",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap25151800730580.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Two dead and 500 arrested in France during PSG win celebrations Updated 9:10 AM EDT, Sun June 1, 2025 Fireworks explode over riot police officers on the Champs-Elysees in Paris. Aurelien Morissard/AP More than 500 people were arrested by police during the Champions League final celebrations in France, and two people were reported dead and 192 injured, the interior ministry...",
+      "published": "Sun, 01 Jun 2025 13:10:00 GMT"
     },
     {
       "id": "99b9728b686c8f4b47d48aef8056245a",
       "title": "Greta Thunberg sets sail with Gaza flotilla that aims to break Israeli naval blockade - The Times of Israel",
       "source": "The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRUZHWDRCN1NMS0dLblRuVWQ3VkhKZEhUaWtnbGdCRnpkYU5DaUhKUGxRTEJwa0lNeGZ5UDltNmZVNEtPQ3MzYVVUTkNKM3BOeXFKQzJ5WUVoTWtwYkNSNHhWYVBaNDVvWTNDTklzOUprOGlOWTBmNUV2dzJPRUxzSHRpTFJiMEZEYVlpZF9yd3RLcWlRb0VfNkp2QVB6bWo2Z2RXd19VZFhmWjdVd2RhZU4tSUJTOXfSAbwBQVVfeXFMUFJxNERmZGoteXljN2VYMjJ2NHkwbGZpWVVJRFJDUk5sVWdUcWh2Y1Z2Q3ZEZUJyRzdHSjdPa1VHWlNDdGQtWU9WLWVNTWota0VHYmdkMWNQMzBpRTZpWi14LU14b3pVdzJfUUNpa2ZQVzRxaHRMazBjQWg1Z2VRR2tFRHlfQmtRY0FjYzF2UVN4VGh3ODloNVFLbHBNWlMwU0l5dWFSZGVVaXNvT0dwaUdwaE9WV1lxaEJMajU?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 18:28:14 GMT"
+      "url": "https://www.timesofisrael.com/greta-thunberg-sets-sail-with-gaza-flotilla-that-aims-to-break-israeli-naval-blockade/",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/AP25152589865893.jpg",
+      "summary": "Greta Thunberg sets sail with Gaza flotilla that aims to break Israeli naval blockade Activists depart from southern Italy with ‘symbolic’ humanitarian aid; Israel still mum on allegations it bombed vessel near Malta last month Climate activist Greta Thunberg boards the Madleen boat before setting sail for Gaza along with activists of the Freedom Flotilla Coalition, departing from the Sicilian...",
+      "published": "Sun, 01 Jun 2025 18:25:00 GMT"
+    },
+    {
+      "id": "2b210aa89695e9d1e597690d4dee76d9",
+      "title": "Russia and Ukraine may meet again for peace talks. But neither side gives reason for optimism - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/01/europe/russia-ukraine-peace-talks-trump-latam-intl",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2025-05-24t032632z-123839087-rc20oeaj3bj2-rtrmadp-3-ukraine-crisis-attack-kyiv-20250530144509506.JPG?c=16x9&q=w_800,c_fill",
+      "summary": "Russia and Ukraine may meet again for peace talks. But neither side gives reason for optimism Updated 10:28 PM EDT, Sun June 1, 2025 An explosion of a drone lights up the sky over Ukraine's capital, Kyiv, during a Russian strike on May 24. Gleb Garanich/Reuters Since last sitting down with Ukraine to talk peace, Russia has launched four of...",
+      "published": "Sun, 01 Jun 2025 19:27:00 GMT"
+    },
+    {
+      "id": "33ead6e52c6e922fec6ad84884c6a0ad",
+      "title": "Hegseth Wins Praise But Asia Still Has Strong Doubts About Trump - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-01/hegseth-wins-praise-but-asia-still-has-strong-doubts-about-trump",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Sun, 01 Jun 2025 23:35:10 GMT"
+    },
+    {
+      "id": "2f665de62c764fa885f32f538bb7bf49",
+      "title": "Explosions caused 2 bridges in western Russia to collapse, officials say. 7 people were killed - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-train-derailment-bridge-collapse-bryansk-kursk-ecb3dec296f962a1ab5134c38845281e",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Mon, 02 Jun 2025 01:12:00 GMT"
     },
     {
       "id": "794a06b060f33a3e66af59c5490db48e",
       "title": "Three years into his war on Ukraine, what does Putin really want? - NPR",
       "source": "NPR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDZkVnR3NGtyS1ZtaFNzYU5EZlhDLXExSzVKUWhMRDZOOXIwb1FaZl9CZy1hRnFaWTYwOWZXenVYakh1djhlVkNxSllKdGt3WXZSZ0tia09lV3ljOWFQSlF0SE15UjMwS2E3Q1F4Q3JfMVZkeWRrNkQ5X05wbGFjU0lLd0tpeVdkNGZPYkw5SWVmVjVCaHNPMVIycW1iaWpJeVlUYkFVZXQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.npr.org/2025/06/01/1253506257/three-years-into-his-war-on-ukraine-what-does-putin-really-want",
+      "image_url": "https://media.npr.org/assets/img/2025/06/01/gettyimages-2215438255_wide-dc34b29c6effe4cdcd556889c542db170e5e3fc1.jpg?s=1400&c=100&f=jpeg",
+      "summary": "Three years into his war on Ukraine, what does Putin really want? Russian President Vladimir Putin looks on as he meets with students at the Sirius Educational Center in Sochi on May 19, 2025, after a telephone conversation with US President Donald Trump. President Trump wants to make a deal with Vladimir Putin to end the war in Ukraine. Putin...",
       "published": "Sun, 01 Jun 2025 19:50:36 GMT"
-    },
-    {
-      "id": "fc94137c58772ed739024bb79432f0f4",
-      "title": "China says Hegseth is touting a Cold War mentality in calling the country a threat - AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRzhPYmVRck1fWU1tY3FQVy0tQXU0NVBEaFdHZnd2ZHk5SDJGU2lUVndyQXY2MEJaLW1Db0JfSUFQUUFLRy1EUmhMRVhMNm1HNExaaFozSDdKenlmcnJpeFN6azBsRy1TSHlJR0lUMUMzWXk4UXNnWldvMHRYLU1PVUZCQVhXa2I3T2NNamdMd2plODRYVnVMOA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 12:02:00 GMT"
-    },
-    {
-      "id": "0de858255f68b81771cfbca65694f962",
-      "title": "Seven dead after two Russian bridges collapse in regions near Ukraine - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLXJSeWlOenkwNVNhdWFnQ3d6eUhoVS04V2p6MTJIZTd6UzYzMlhVVGxuVFlDa3ZlMlQ1NElobmF5cHMxZ3p3TXB1THVYc0VPM0o2NVRoaTd3Zk5PbWJtZGw2OThSTWljNkw1VGlPTExGaGt6OXJVU3Z3dDhtRHpXcjNNdXI2cmx0RzhmLW9R?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 20:24:02 GMT"
-    },
-    {
-      "id": "b695f1e1f65c6fb30e490e2eaa137086",
-      "title": "Exclusive: Ukraine to set out roadmap for peace at Istanbul talks, document shows - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukraine-set-out-roadmap-peace-istanbul-talks-document-shows-2025-06-01/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 13:32:26 GMT"
     },
     {
       "id": "e63a25951fff9187ba2c0423da7a891c",
@@ -92,17 +101,8 @@
       "source": "Ynetnews",
       "url": "https://www.ynetnews.com/article/a8u87q1i8",
       "image_url": "https://www.ynetnews.com/images/news_defualt.jpg",
-      "summary": "'A bumbling f–king idiot': Trump envoy's 'unorthodox diplomatic approach' unnerving allies and insiders Cinnamon: The Greatest Enemy Of Blood Sugar (See How To Use It) Israel delivers over 340 aid trucks to Gaza through Hamas bypass route The IDF has recently launched an operation to bypass Hamas's control of humanitarian aid and the bottleneck created in aid transfers due to...",
+      "summary": "Low Rate Credit Cards For Every Need Credit Cards With Great Rates | Search Ads Gaza flotilla sets sail from Italy with Greta Thunberg, global celebrities aboard The Bronx estate where JFK lived as a child seeks $6. 4 million Israel delivers over 340 aid trucks to Gaza through Hamas bypass route The IDF has recently launched an operation to...",
       "published": "Sat, 31 May 2025 19:49:31 GMT"
-    },
-    {
-      "id": "369dbdf6e694fab354aa53e172672fab",
-      "title": "Gazan Doctor Who Lost Nine Children in Israeli Strike Dies of Wounds - Haaretz",
-      "source": "Haaretz",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOQy01RnVHcnRBRk1zQkpTWXdkZHg3ZUZhcTN2M3NkeTVEOWVfdmdUMWw1a3ZVZEQwNFZwSGw4eUJnVE9wT3MtTFJzNHdpZ3ZJYWRyMUhWOWdHTjFEaUN0N1l2Rk1DN0pmc2VGVjZoSUp3cnNXdy1PUTh2NGpmWFd1OW1aNkM1UGdzSVBMRUlGNzFoeU9paFRGal9DX3NsRjJ5ZGxuUkNtc3FoT3c3ZzMwQklpYl9fQlBTXzBobzJxa2pLSEhCX1dDUjI0bUJKZVRybzdSdWYzdVlybTJwc0tUc2JRNmo1YjJ0MnBlTm5ydkhxTXFiRW5ya21sdS1RanQ4eHNLbg?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 08:30:00 GMT"
     }
   ]
 }
