@@ -1,39 +1,189 @@
 {
   "metadata": {
-<<<<<<< HEAD
-    "timestamp": "2025-06-01T21:31:07.356758",
-    "source": "topic: business",
-    "count": 0
-=======
     "source_file": "data/news_business.json",
-    "generation_time": "2025-06-02 04:07:54",
-    "total_articles": 3
->>>>>>> 6b4712c (/.)
+    "generation_time": "2025-06-02 13:54:28",
+    "total_articles": 20
   },
   "articles": [
     {
-      "title": "Big Tech Is Back in S&P 500 Driver’s Seat as Profit Engines Hum - Bloomberg",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-01/big-tech-is-back-in-s-p-500-driver-s-seat-as-profit-engines-hum",
+      "id": "1ee61be20bf29f862e816b8b6504aeaf",
+      "title": "Oil leaps more than 3% after OPEC+ keeps output increase unchanged - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/commodities/oil-rebounds-after-opec-sticks-same-output-hike-july-vs-june-2025-06-01/",
       "image_url": null,
-      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
-      "published": "Sun, 01 Jun 2025 15:00:00 GMT"
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 11:38:01 GMT"
     },
     {
+      "id": "45973a29e3c295b691ef8b264837b6f4",
+      "title": "Global shares slide as Russia-Ukraine conflict, OPEC+ output plan push oil prices higher - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/markets-tariffs-oil-russia-stocks-57207d7b06ab066c191415a126813052",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Mon, 02 Jun 2025 08:58:00 GMT"
+    },
+    {
+      "id": "bcaeb4fd58ed1c7effb1c39144f0a303",
+      "title": "Flight path shake-up promises quicker flights and fewer delays - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1e69qv1qwjo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/cc43/live/841b73f0-3f84-11f0-bd50-3fddfb5eed43.jpg",
+      "summary": "Quicker flights promised in flight path shake-up Plans to fast-track the remodelling of the UK's flight paths could lead to shorter journey times, fewer delays and more flights for passengers, the government says. Ministers are set to announce the creation of the UK Airspace Design Service (UKADS) later which will re-design the routes planes must take over UK airspace -...",
+      "published": "Mon, 02 Jun 2025 09:56:41 GMT"
+    },
+    {
+      "id": "48b1d3f2b7f4c72d0a28183d5e3669e2",
+      "title": "Nvidia: False Narrative Mistake (NASDAQ:NVDA) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4791539-nvidia-false-narrative-mistake",
+      "image_url": "https://seekingalpha.com/samw/static/images/bull-and-bear.32d6d115c.png",
+      "summary": "Home page Seeking Alpha - Power to Investors Search for Symbols, analysts, keywords Getting lost on Seeking Alpha is annoying; being lost in the stock market is worse. Sign up now. Seeking Alpha - Power to Investors",
+      "published": "Mon, 02 Jun 2025 00:00:00 GMT"
+    },
+    {
+      "id": "f0d70004f53c2265993b46189dc1543b",
+      "title": "New data confirms it: AI is taking human jobs - Business Insider",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/ai-hiring-white-collar-recession-jobs-tech-new-data-2025-6",
+      "image_url": "https://i.insider.com/683a10c36ffb6822ec61d692?width=1200&format=jpeg",
+      "summary": "New data confirms it: Companies are hiring less in roles that AI can do . save-icon-fill { display: none; } . save-icon.is-active . save-icon-fill, . save-icon-fill. is-active { display: block; fill: currentColor; } Change in hiring since November 2022 for jobs most and least exposed to AI Note: Based on average percentage of tasks that can be performed or augmented...",
+      "published": "Mon, 02 Jun 2025 08:04:00 GMT"
+    },
+    {
+      "id": "c2d2d5dc7bacdb20810ca74e9f3630c4",
+      "title": "Stock futures slide as global trade tensions rise to start the new month: Live updates - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/01/stock-market-today-live-updates.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108152557-1748617567253-gettyimages-2217065566-AFP_48N344C.jpeg?v=1748617751&w=1920&h=1080",
+      "summary": "Dow falls 100 points as global trade tensions rise to start the new month: Live updates Traders work on the floor of the New York Stock Exchange (NYSE) at the opening bell on May 30, 2025, in New York City. Angela Weiss | AFP | Getty Images The Dow Jones Industrial Average dipped Monday, the first trading day of June,...",
+      "published": "Mon, 02 Jun 2025 11:06:00 GMT"
+    },
+    {
+      "id": "eb14debb30733a0869ebc07b28f9eb77",
+      "title": "Chinese Shares Fall in Hong Kong on New Trade Frictions With US - Bloomberg",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-02/chinese-shares-fall-in-hong-kong-on-new-trade-frictions-with-us",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Mon, 02 Jun 2025 08:29:15 GMT"
+    },
+    {
+      "id": "17aa857894f8ac4fc13ef8db3e1e8ca0",
+      "title": "If you're quitting a job or anticipating layoffs, don't burn your bridges at work. Boomerang hires are increasing. - Business Insider",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/quitting-job-layoffs-boomerang-hires-rehires-increasing-2025-6",
+      "image_url": "https://i.insider.com/68360d50ca50259add4d1a39?width=1200&format=jpeg",
+      "summary": "If you're quitting a job or anticipating layoffs, don't burn your bridges at work. Boomerang hires are increasing. .save-icon-fill { display: none; } . save-icon.is-active . save-icon-fill, . save-icon-fill. is-active { display: block; fill: currentColor; } Unlimited access. Unlimited possibility. Subscribers get unlimited access to: Insights & advice to propel your career Pitch decks that raised millions",
+      "published": "Sun, 01 Jun 2025 08:02:00 GMT"
+    },
+    {
+      "id": "134bec699b01328af5676e04d171e8d2",
+      "title": "Sanofi to buy US biopharma group Blueprint for up to $9.5 billion - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/sanofi-buys-us-biopharma-group-blueprint-91-bln-deal-2025-06-02/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 09:52:35 GMT"
+    },
+    {
+      "id": "223c48b8bf28e743f5828d814b5a9250",
+      "title": "Tariffs, Nvidia and 2 more things that defined the stock market this week - CNBC",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUNHbnV3UzN6SmNzU1FUdUhBT3RCZ092UFRkZDdVYnRFbkYtM3Mtby1WRU1JTlBFR3ZGZmNmaU9nWExZTFEzYzZOTHJQWVdTQWNfOGJxQlhWTUFSQ1RFX0pxUWhfcjBMTFdVenR1TEdydjl0MHhQSW1mSml2eW9qSkw0cTdqaDRndHBUN2xGYmVmQ3V1WmJ3UzdZSkpZalc5UFJRMmxPTmtHdnVPVGc?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 31 May 2025 16:21:54 GMT"
+    },
+    {
+      "id": "7cf5cb680a659b8ed4488b62ccc42de1",
+      "title": "China robotaxis, Indian pharma among hedge fund top picks at Sohn Hong Kong - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/china-robotaxis-indian-pharma-among-hedge-fund-top-picks-sohn-hong-kong-2025-06-02/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 02:16:00 GMT"
+    },
+    {
+      "id": "94fe556bc9daa0f343aec96c7fc953f1",
+      "title": "2 Popular Dividend Stocks I Wouldn't Touch With A 10-Foot Pole - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4791472-2-popular-dividend-stocks-wouldnt-touch-with-10-foot-pole",
+      "image_url": "https://seekingalpha.com/samw/static/images/bull-and-bear.32d6d115c.png",
+      "summary": "Home page Seeking Alpha - Power to Investors Search for Symbols, analysts, keywords Getting lost on Seeking Alpha is annoying; being lost in the stock market is worse. Sign up now. Seeking Alpha - Power to Investors",
+      "published": "Sun, 01 Jun 2025 11:30:00 GMT"
+    },
+    {
+      "id": "9fa9e7f1ee46b562b1b5c29632d174c1",
+      "title": "JPMorgan Chase CEO Warns US Bond Crisis Coming After Massive Money Printing, Says Regulators Will Panic - The Daily Hodl",
+      "source": "The Daily Hodl",
+      "url": "https://dailyhodl.com/2025/05/31/jpmorgan-chase-ceo-warns-us-bond-crisis-coming-after-massive-money-printing-says-regulators-will-panic/",
+      "image_url": "https://dailyhodl.com/wp-content/uploads/2025/05/chase-ceo-bank.jpg",
+      "summary": "JPMorgan Chase CEO Warns US Bond Crisis Coming After Massive Money Printing, Says Regulators Will Panic Daily Hodl Staff May 31, 2025 FINANCEFLUXFINTECH We use cookies to personalize and improve your experience on our site and to serve you with relevant advertising. Visit our privacy policy for more information on our data collection practices and to exercise your consumer rights.",
+      "published": "Sat, 31 May 2025 19:09:00 GMT"
+    },
+    {
+      "id": "0fad6fce229b866864a49f6f5f32280f",
+      "title": "Bristol Myers Squibb signs $11bn cancer drug deal with BioNTech - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/6acff1e0-e23e-4a46-a232-9da44ef2d5dd",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F68e7f1fa-1f23-4d26-8dcd-cbdd00a22b09.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Bristol Myers Squibb signs $11bn cancer drug deal with BioNTech US-German partnership hopes BNT327 will compete with Merck’s bestseller Keytruda Bristol Myers Squibb signs $11bn cancer drug deal with BioNTech on x (opens in a new window) Bristol Myers Squibb signs $11bn cancer drug deal with BioNTech on facebook (opens in a new window) Bristol Myers Squibb signs $11bn cancer...",
+      "published": "Mon, 02 Jun 2025 10:45:13 GMT"
+    },
+    {
+      "id": "35b842fa586d4dc49307a5022cff287c",
+      "title": "FDA grants limited approval to new Covid vaccine from Moderna - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/health/health-news/fda-approves-moderna-covid-vaccine-rcna210250",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250601-covid-vaccine-wm-214p-bf650c.jpg",
+      "summary": "FDA grants limited approval to new Covid vaccine from Moderna The agency approved the company's lower-dose Covid vaccine for older adults and young people with underlying medical conditions. A dose of Covid-19 vaccine from a vaccination clinic in the Kansas City area. Tammy Ljungblad / Kansas City Star/Tribune News Service via Getty Images Create your free profile or log in...",
+      "published": "Sun, 01 Jun 2025 21:17:20 GMT"
+    },
+    {
+      "id": "f26308c3c34d839c07d041f14660ca97",
+      "title": "Weaponizing Tariffs: Top Stocks For The Summer Heat - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4791492-weaponizing-tariffs-top-stocks-for-summer-heat",
+      "image_url": "https://seekingalpha.com/samw/static/images/bull-and-bear.32d6d115c.png",
+      "summary": "Home page Seeking Alpha - Power to Investors Search for Symbols, analysts, keywords Getting lost on Seeking Alpha is annoying; being lost in the stock market is worse. Sign up now. Seeking Alpha - Power to Investors",
+      "published": "Sun, 01 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "id": "b7cca5516cb902d513b3f675533a8e86",
       "title": "US Steel workers see hope of job security in deal with Japan’s Nippon - Financial Times",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/89e6444d-9ff2-4201-8713-2421cb199d6e",
       "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb9078acb-f96e-44d8-a62d-978ae92997e9.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. US Steel workers see hope of job security in deal with Japan’s Nippon Many factory workers have put faith in Donald Trump and broken with their union over support for tie-up Donald Trump spoke at a rally at US...",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. US Steel workers see hope of job security in deal with Japan’s Nippon Many factory workers have put faith in Donald Trump and broken with their union over support for tie-up US Steel workers see hope of job security...",
       "published": "Sun, 01 Jun 2025 10:00:58 GMT"
     },
     {
-      "title": "S&P 500 scores best May since 1990, but stocks end month with fresh tariff worries - MarketWatch",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/s-p-500-scores-best-may-since-1990-but-stocks-end-month-with-fresh-tariffs-worries-f605410e",
+      "id": "7d77758635e1a844748638686ca1b5c9",
+      "title": "IATA expects sustainable aviation fuel production to double in 2025 - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/iata-expects-sustainable-aviation-fuel-production-double-2025-2025-06-01/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Fri, 30 May 2025 22:32:00 GMT"
+      "published": "Mon, 02 Jun 2025 08:39:49 GMT"
+    },
+    {
+      "id": "adaa179d4a0d362670bffa7703e90153",
+      "title": "Speech by Governor Waller on the economic outlook - Federal Reserve Board (.gov)",
+      "source": "Federal Reserve Board (.gov)",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20250601a.htm",
+      "image_url": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+      "summary": "An official website of the United States Government Board of Governors of the Federal Reserve System The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system. The Effects of Tariffs on the Three I’s: Inflation, Inflation Persistence, and Inflation Expectations At “Structural Shifts and Monetary Policy,” 2025...",
+      "published": "Mon, 02 Jun 2025 00:00:32 GMT"
+    },
+    {
+      "id": "56d85fad4e197c38deee13e0d557c814",
+      "title": "Google says it will appeal online search antitrust decision - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/google-says-it-will-appeal-online-search-antitrust-decision-2025-05-31/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sat, 31 May 2025 15:52:21 GMT"
     }
   ]
 }

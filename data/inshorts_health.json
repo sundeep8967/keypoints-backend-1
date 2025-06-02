@@ -1,25 +1,57 @@
 {
   "metadata": {
-<<<<<<< HEAD
-    "timestamp": "2025-06-01T21:31:16.817038",
-    "source": "topic: health",
-    "count": 0
-=======
     "source_file": "data/news_health.json",
-    "generation_time": "2025-06-02 04:19:27",
-    "total_articles": 3
->>>>>>> 6b4712c (/.)
+    "generation_time": "2025-06-02 12:56:17",
+    "total_articles": 20
   },
   "articles": [
     {
-      "title": "Exercise ‘better than drugs’ to stop cancer returning after treatment, trial finds - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2025/jun/01/exercise-better-than-drugs-after-cancer-treatment-international-trial-finds",
-      "image_url": "https://i.guim.co.uk/img/media/5b6e5863dccc4d0deb1e8ce56f6bd9346373fc13/0_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c498be349bdf5271370a10d1423c138",
-      "summary": "Fund independent journalism with $15 per month After five years, patients in an exercise regime had a 28% lower risk of recurrent or new cancers. Photograph: amriphoto/Getty Images Exercise ‘better than drugs’ to stop cancer returning after treatment, trial finds First clear evidence that structured exercise regime reduces risk of dying by a third, can stop tumours coming back or...",
-      "published": "Sun, 01 Jun 2025 20:22:00 GMT"
+      "id": "37cfb6bad321ecfab7052882b64cf65d",
+      "title": "Major study shows exercise improves cancer survival - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c8xgyw7k7veo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/b412/live/66d9fd70-3f93-11f0-accf-294e371581fd.jpg",
+      "summary": "Major study shows exercise improves cancer survival Health and science correspondent•@JamesTGallagher An exercise programme for colon cancer patients can cut the risk of dying by a third, a major international trial shows. The researchers said it was \"not a large amount\" of exercise and any type of workout from swimming to salsa classes counted. The results could change the way...",
+      "published": "Mon, 02 Jun 2025 10:04:32 GMT"
     },
     {
+      "id": "3eeb3577037f47566243363a6439914e",
+      "title": "Measles confirmed in Colorado Springs, public asked to watch for symptoms - KKTV",
+      "source": "KKTV",
+      "url": "https://www.kktv.com/2025/06/02/measles-confirmed-colorado-springs-public-asked-watch-symptoms/",
+      "image_url": "https://gray-kktv-prod.gtv-cdn.com/resizer/v2/P6E7F5IBZNFHDPZLVBI6MFBX6A.png?auth=9bda0a9df3a5d0e86b19edaaae4ed4469fd0f52c85648e217c1a016cd1521364&width=1200&height=600&smart=true",
+      "summary": "Measles confirmed in Colorado Springs, public asked to watch for symptoms Data shows 2025 is likely to be the worst year for measles in the United States since its declared elimination 25 years ago. (CNN/CDC via CNN Newsource) Published: Jun. 2, 2025 at 1:20 AM UTC|Updated: 12 hours ago Email This LinkShare on FacebookShare on X (formerly Twitter)Share on PinterestShare...",
+      "published": "Mon, 02 Jun 2025 01:20:00 GMT"
+    },
+    {
+      "id": "52d24247f96cb29ff18fd3ddbbed71c3",
+      "title": "CDC updates travel warning for highly contagious disease as cases rise - Cleveland.com",
+      "source": "Cleveland.com",
+      "url": "https://www.cleveland.com/metro/2025/06/cdc-updates-travel-warning-for-highly-contagious-disease-as-cases-rise.html",
+      "image_url": "https://www.cleveland.com/resizer/v2/AEHGCMUWFRCHDGXKC6ZIEMGL3A.jpeg?auth=6b1b5edb09a9ccd1c2b6f059fad7c03f85926703d4afef035e1d7a63da5c5042&width=1280&quality=90",
+      "summary": "Memorial Day Sale Extended - Start Today for 50% Off - Sale Ends 6/2/25 CDC updates travel warning for highly contagious disease as cases rise Published: Jun. 01, 2025, 4:39 p. m. The Centers for Disease Control and Prevention updated its measles travel advisory, urging vaccinations for travelers as cases increase (Centers for Disease Control and Prevention)U. S. Centers for...",
+      "published": "Sun, 01 Jun 2025 20:39:00 GMT"
+    },
+    {
+      "id": "118c2674f588486e8f8699760f4b059f",
+      "title": "Devastating blow in race for vaccine against deadly disease that affects millions - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSnhNSWJHSVJlSnN1Qlg4NGItRVlzTzg3Rkx5VUNhQlFINHNPVjlVd0YyNTlVMmU2c3drRElZUWwtQlh6N292T253QlVKeV9jSVBhVTVGOHdIM01neWVGblJLb3hBXzVnaDNGVml5OTZEblJWOTloVUk0R3pmZUxrOHJSUGlYNlFEcGg0Sm1Sa9IBlAFBVV95cUxNR1k2VDhKcjFJbEJ4WE9XMVpIalRuVWFNWTJlRnU5V2xxVjZKN1NWbDgyRHg0eDNEUjctX05Zb0FSOXFQSHZrOVF3RU1oYWNTako0U2R1dXV4T3ZHWldQcGhvRkxMaWM2azBCNnJJbnBOUV9pbU40LXlJV2pfRDgtMzR4T29uWWNDYXlVbEFCSFVrWlI5?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 31 May 2025 18:28:48 GMT"
+    },
+    {
+      "id": "a7fa35c36b95c016a7cc10dc9fc2783b",
+      "title": "Column | Nervous about using the bathroom at work? A gastroenterologist shares advice. - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YanlEd2tJV3NnWHRveWtsNlluejF1MzhDdmpqcWdBSGdic3dFTGR3UUFkYjlFYzFXVUdHT0ZpdE52UEpZa2h3b1JkdzI0U1VEOGRXb0xuZkpqcFB2MlJBWlpJQWN4RVQyNlFkZ3BGY2w1bkQ0c3c?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 11:31:49 GMT"
+    },
+    {
+      "id": "c514a3aa735961491df4c58c925c097c",
       "title": "RFK Jr. May Have Just Ruined Our Best Weapon Against Bird Flu - The Bulwark",
       "source": "The Bulwark",
       "url": "https://www.thebulwark.com/p/rkf-jr-kennedy-hhs-may-have-just-ruined-our-best-weapon-against-bird-flu-moderna-mrna-covid-boosters-cdc",
@@ -28,12 +60,130 @@
       "published": "Sun, 01 Jun 2025 12:48:07 GMT"
     },
     {
+      "id": "1fc9288840706c96ebcad69c8e46d19b",
+      "title": "A new COVID variant is spreading across California. Could we see a summer surge? - Sacramento Bee",
+      "source": "Sacramento Bee",
+      "url": "https://www.sacbee.com/news/local/health-and-medicine/article307455641.html",
+      "image_url": "https://www.bellinghamherald.com/living/family/5w94uu/picture221977050/alternates/LANDSCAPE_1140/GettyImages-941559860",
+      "summary": "This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. Privacy PolicyTerms of Service A new COVID variant is spreading across California. Could we see a summer surge? A new COVID-19 variant is quickly spreading across California, and health experts are warning it could lead to a surge of...",
+      "published": "Sun, 01 Jun 2025 12:00:00 GMT"
+    },
+    {
+      "id": "56ad990a41dbb8b0e72f4080cadf3d0c",
+      "title": "Scientists discover food that flushes out cancer-causing forever chemicals - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/health/article-14758883/americans-dietary-fiber-protect-cancer-forever-chemicals.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/05/30/22/98875967-0-image-m-87_1748639853401.jpg",
+      "summary": "Scientists discover food that flushes out cancer-causing forever chemicals READ MORE: Experts warn 100million Americans' tap water laced with PFAS By EMILY JOSHU STERNE, SENIOR HEALTH REPORTER FOR DAILYMAIL. COM PUBLISHED: 15:47 EDT, 1 June 2025 | UPDATED: 15:56 EDT, 1 June 2025 Eating more fiber might help flush out cancer-causing 'forever chemicals,' a study suggests. Researchers in Boston compared...",
+      "published": "Sun, 01 Jun 2025 19:47:09 GMT"
+    },
+    {
+      "id": "20618414c96130d9dbd427192cdbf364",
       "title": "Trump administration’s deep cuts to public health leave system reeling - PBS",
       "source": "PBS",
       "url": "https://www.pbs.org/newshour/health/trump-administrations-deep-cuts-to-public-health-leave-system-reeling",
       "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/02/2025-02-25T233501Z_1162206454_RC2V1DA4TFX5_RTRMADP_3_USA-HEALTH-MEASLES-TEXAS-1024x768.jpg",
-      "summary": "Michelle R. Smith, Associated Press Trump administration’s deep cuts to public health leave system reeling Health May 31, 2025 6:15 PM EDT CHARLOTTE, N. C. (AP) — Americans are losing a vast array of people and programs dedicated to keeping them healthy. Gone are specialists who were confronting a measles outbreak in Ohio, workers who drove a van to schools...",
+      "summary": "By — Laura Ungar, Associated Press By — Michelle R. Smith, Associated Press Trump administration’s deep cuts to public health leave system reeling Health May 31, 2025 6:15 PM EDT CHARLOTTE, N. C. (AP) — Americans are losing a vast array of people and programs dedicated to keeping them healthy. Gone are specialists who were confronting a measles outbreak in...",
       "published": "Sat, 31 May 2025 22:15:40 GMT"
+    },
+    {
+      "id": "f8cb5ad60f9f4cf52077e7cb1d8e0d81",
+      "title": "Word of the Day: solipsism - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/02/learning/word-of-the-day-solipsism.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 06:06:40 GMT"
+    },
+    {
+      "id": "1344dae7dec2c4d620f855d48a7030e2",
+      "title": "mRNA, once lauded as a scientific marvel, is now a government target - statnews.com",
+      "source": "statnews.com",
+      "url": "https://www.statnews.com/2025/06/02/mrna-vaccines-covid-policy-critics-rise-to-power-concerted-attack-on-science/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2025/05/GettyImages-1207384905-1024x576.jpg",
+      "summary": "Reporting from the frontiers of health and medicine mRNA, once lauded as a scientific marvel, is now a government target After the success of Covid vaccine, HHS is now sowing doubt in mRNA technology President Donald Trump speaking at a press briefing on the coronavirus on March 16, 2020. BRENDAN SMIALOWSKI/AFP via Getty Images By Lizzy Lawrence and Isabella CuetoJune...",
+      "published": "Mon, 02 Jun 2025 08:33:57 GMT"
+    },
+    {
+      "id": "329d8ce20222804310067f6799876611",
+      "title": "Junk Food Alert: Our Bodies Treat Ultra-Processed Foods Like Foreign Invaders! - Glass Almanac",
+      "source": "Glass Almanac",
+      "url": "https://glassalmanac.com/junk-food-alert-our-bodies-treat-ultra-processed-foods-like-foreign-invaders/",
+      "image_url": "https://glassalmanac.com/wp-content/uploads/2025/05/Junk-Food-Alert-Our-Bodies-Treat-Ultra-Processed-Foods-Like-Foreign.jpg",
+      "summary": "Junk Food Alert: Our Bodies Treat Ultra-Processed Foods Like Foreign Invaders! We use cookies to personalize and improve your experience on our site and to serve you with relevant advertising. Visit our privacy policy for more information on our data collection practices and to exercise your consumer rights.",
+      "published": "Sun, 01 Jun 2025 06:41:33 GMT"
+    },
+    {
+      "id": "6592b918cd2bb7391d33af1e9f01fc5b",
+      "title": "McMigraine: Does the TikTok migraine cola and fries 'cure' really work? - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c23mrl5x53ro",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/db99/live/276e9fc0-3e5c-11f0-835b-310c7b938e84.jpg",
+      "summary": "People say cola and fries are helping their migraines - but there's a twist It's a condition that affects more than 10 million people in the UK. It can change futures, end careers, and shrink worlds. So when a hack comes along that says it can \"cure\", or at the very least fend off a migraine, people will try it.",
+      "published": "Sun, 01 Jun 2025 00:36:31 GMT"
+    },
+    {
+      "id": "8ccc668ef0a472ce4bff4c9a3b1a1ebd",
+      "title": "Is sunscreen toxic? The UV truthers on the Internet sure think so. - The Boston Globe",
+      "source": "The Boston Globe",
+      "url": "https://www.bostonglobe.com/2025/06/02/lifestyle/sunscreen-toxic-cancer-sunblock/",
+      "image_url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/TPRYIN6S6DS5Y55OOVLAKU3PWE.jpg?auth=8cce47962d17bd504ca6cda67236a1be85270ef69662d3c69ef7bdef220e975d&width=1440",
+      "summary": "Is sunscreen toxic? The UV truthers on the Internet sure think so. The War on Sunscreen claims sunscreen causes cancer, and is part of a big pharma conspiracy. Dermatologists disagree. By Beth Teitell Globe Staff,Updated June 2, 2025, 2 hours ago logo-white Created with Sketch. You've Been Selected for Our Best Offer Get the news you need, anytime and anywhere.",
+      "published": "Mon, 02 Jun 2025 10:27:25 GMT"
+    },
+    {
+      "id": "dede5fad7b9546654b46ce12a75accc6",
+      "title": "Can omega-6 fatty acids in nuts, vegetable oils lower heart disease and diabetes risk? - Medical News Today",
+      "source": "Medical News Today",
+      "url": "https://www.medicalnewstoday.com/articles/omega-6-fatty-acids-nuts-vegetable-oils-may-lower-heart-disease-diabetes-risk",
+      "image_url": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2025/06/oil-bottle-shadow-1200-628-facebook.jpg",
+      "summary": "Can omega-6 fatty acids in nuts, vegetable oils lower heart disease and diabetes risk? Written by Corrie Pelc on June 1, 2025 — Fact checked by Jill Seladi-Schulman, Ph. D. Higher linoleic acid levels may help lower heart disease and diabetes risk, a new study finds. Javier Zayas Photography/Getty Images Cardiometabolic health is a gauge of the fitness of the...",
+      "published": "Sun, 01 Jun 2025 14:34:30 GMT"
+    },
+    {
+      "id": "bd1da814b12f5cf31febe6a9c7e2764e",
+      "title": "Eating specific type of bread linked to deadly colon cancer, shock study finds - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/health/article-14768327/colon-cancer-death-vegetables-bread-inflammatory.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/01/15/98940715-0-image-a-43_1748789168450.jpg",
+      "summary": "Eating specific type of bread linked to deadly colon cancer, shock study finds READ MORE: Simple lifestyle switch can slash colon cancer deaths by a third By EMILY STEARN, SENIOR HEALTH REPORTER IN CHICAGO PUBLISHED: 02:59 EDT, 2 June 2025 | UPDATED: 03:01 EDT, 2 June 2025 Regularly eating white, packaged bread could raise the risk of dying from colon...",
+      "published": "Mon, 02 Jun 2025 06:59:42 GMT"
+    },
+    {
+      "id": "95898c95b5a5d702ee2b6a9888c793f3",
+      "title": "Experts reveal that THIS diet can reduce heart disease risk - Times of India",
+      "source": "Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQmRZZVk0R05wSUNleGR6U1lqNmttMlNRckxzem9TNjF0aENwS05XNWtEbGZuRXRsZkVCbkhGbndJNGpPVVdta25ZQUgxYjJvQVpicHF0ZzJrNnFtaUhDZGZxWFgtWjEzSUlFbDZBclNjY3locXVrZWtzMlVZdTQtU2VKV3VrZnhPUXlOV05HWHdhZWh4TnEtODEtTXBKMU5wa251dXkzZWtOZGJ4WGZhblNkRlNvTlN2ekVnYS1ySk5DbENwcUNxN1JWLURUenJraVRjN19QS1JKV0gydUtpSWNVM242a2ljMDlQdWlLNWc?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 01:30:00 GMT"
+    },
+    {
+      "id": "a41c293b2a427d929760105cde7d0c5f",
+      "title": "7-Day High-Protein Diabetes-Friendly Meal Plan to Help Build Muscle, Created by a Dietitian - EatingWell",
+      "source": "EatingWell",
+      "url": "https://www.eatingwell.com/7-day-high-protein-diabetes-friendly-meal-plan-for-muscle-11737604",
+      "image_url": "https://www.eatingwell.com/thmb/9F7AVliqLORLx57Vxy1jLC3RJo4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7-Day-High-Protein-Diabetes-Friendly-Meal-Plan-to-Help-Build-Muscle-Created-by-a-Dietitian-b73956544bff4e1ba86d04c73423df37.jpg",
+      "summary": "7-Day High-Protein Diabetes-Friendly Meal Plan to Help Build Muscle, Created by a Dietitian We pump up the protein in this diabetes-friendly meal plan. Reviewed by Dietitian Jessica Ball, M. S., RD Credit: Recipe photos: Ali Redmond. EatingWell design. This 7-day plan is set at 1,800 calories per day, with modifications for 1,500 and 2,000 calories Each day provides at least...",
+      "published": "Mon, 02 Jun 2025 01:00:00 GMT"
+    },
+    {
+      "id": "8002ed729353ed125cde36457da01742",
+      "title": "Popular health hack beloved by millions may raise risk of cancer - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/health/article-14768309/colon-cancer-running-asco-2025.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/01/15/98940585-0-image-m-18_1748788276642.jpg",
+      "summary": "Physical hobby loved by millions shockingly linked to colon cancer in young people for first time READ MORE: I tried the $1 drug hailed as BETTER than Ozempic. .. the weight-loss results don't lie but now I can't stop By LUKE ANDREWS SENIOR HEALTH REPORTER FOR DAILYMAIL. COM PUBLISHED: 11:49 EDT, 1 June 2025 | UPDATED: 13:57 EDT, 1 June...",
+      "published": "Sun, 01 Jun 2025 15:53:35 GMT"
+    },
+    {
+      "id": "7d21d3250581e63c5fc38a8066ba3f3e",
+      "title": "Superbugs thrive as access to antibiotics fails in India - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ced262l83gjo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/5ccf/live/5cf28cc0-3afa-11f0-8947-7d6241f9fce9.jpg",
+      "summary": "Deadly superbugs thrive as access to antibiotics falters in India India is among the countries hardest hit by \"antimicrobial resistance\" It's a grim paradox, doctors say. On the one hand, antibiotics are being overused until they no longer work, driving resistance and fuelling the rise of deadly superbugs. On the other hand, people are dying because they can't access these...",
+      "published": "Sun, 01 Jun 2025 21:34:31 GMT"
     }
   ]
 }

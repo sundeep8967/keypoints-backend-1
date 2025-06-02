@@ -1,39 +1,189 @@
 {
   "metadata": {
-<<<<<<< HEAD
-    "timestamp": "2025-06-01T21:31:14.436374",
-    "source": "topic: science",
-    "count": 0
-=======
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-02 04:02:49",
-    "total_articles": 3
->>>>>>> 6b4712c (/.)
+    "generation_time": "2025-06-02 13:00:03",
+    "total_articles": 20
   },
   "articles": [
     {
-      "title": "Strauss’ ‘Blue Danube’ is beamed into space as Vienna celebrates with a concert - AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQVRJTmlTVExsdV9mMm5uRHJ4MWRiWll5TFhxaHVIV2dLY0RZY2hCaXpCdjdodTA1TTFrd21Yc0tXeU5MSFI2RVlZR00wWlN5WmVHa3hvREdocy1HVWdvS3pLS3dSVTJjSHBpaHlUazZNNld0OXZoenhoQ1REOXdKR2dZTDBfZTRWNTJlVkNrSVQzWGI4anc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 05:56:00 GMT"
-    },
-    {
-      "title": "SpaceX knocks out another national security launch while ULA faces scrutiny - Yahoo",
-      "source": "Yahoo",
-      "url": "https://www.yahoo.com/news/spacex-knocks-another-national-security-002900694.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/9wYemjFz0yxaEIGYmLbWWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01Nzg-/https://media.zenfs.com/en/orlando_sentinel_national_858/ee9435bca760d5d41da8fe1c5b389735",
-      "summary": "Speaker Johnson on Medicaid cuts Canada fires bring smoke to U. S. SpaceX knocks out another national security launch while ULA faces scrutiny Richard Tribou, Orlando Sentinel Sat, May 31, 2025 at 5:59 AM GMT+5:306 min read ORLANDO, Fla. — United Launch Alliance’s years-long delays with its new Vulcan rocket have flipped the script for national security missions, making SpaceX...",
-      "published": "Sat, 31 May 2025 00:29:00 GMT"
-    },
-    {
+      "id": "023f02927ca8bf95a415342aff10a177",
       "title": "SpaceX adds 27 Starlink satellites to constellation after successful launch from California (video) - Space",
       "source": "Space",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-adds-27-starlink-satellites-to-constellation-after-successful-launch-from-california",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/dShRHDGHBJr9xGd5iDj72j.jpg",
-      "summary": "Starship Flight 9 Launch Failure Space Exploration Launches & Spacecraft SpaceX adds 27 Starlink satellites to constellation after successful launch from California (video) By Robert Z. Pearlman published yesterday Liftoff occurred at 3:10 p. m. EDT on Saturday (May 31). When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Click here...",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWkdBYllEXzdwcUJhemdkb081aUtSdG55TnZJQjJ3T2MweW5RRGxEVkNHU2VfNWUtUXNfZlFxTzBLektSMDhZODBIS3ZyZlJMb19FM0lKVVM4am9kdlA3X2Y3THZidzVPUFd4VU5hbkFwckZrLWVnWFZJRUhtREdIOWF3MzMxblJmc0pEalRmQTJ0SWhWZFVCOE5rLUM4RHhfcjhTLTMtVm1iaGxFRXU1d1dZODY4Qi1NV1BHMTJIZlRhSFBVemx6RWFralJDTlhhQ1I3TWljcS1ZU3lNY3JGUnZFeEs4Zw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Sat, 31 May 2025 20:23:04 GMT"
+    },
+    {
+      "id": "5c794800c11437e157352c5978af24ae",
+      "title": "Proposed NASA cuts to space science: “Staggering” - EarthSky",
+      "source": "EarthSky",
+      "url": "https://earthsky.org/human-world/proposed-nasa-cuts-decimate-us-space-science-petition/",
+      "image_url": "https://earthsky.org/upl/2025/05/science-fleet-proposed-cuts-Paul-Byrne-NASAs-Goddard-Space-Flight-Center-e1748713006375.jpg",
+      "summary": "Proposed NASA cuts to space science: “Staggering” View larger. | Proposed NASA cuts would mean a 47% loss to the planetary science budget in 2026. The Planetary Society – under the leadership of CEO Bill Nye – called these possible cuts a “staggering” loss. “If this proposed budget is enacted,” the society said, “dozens of space missions would be terminated,...",
+      "published": "Mon, 02 Jun 2025 04:03:07 GMT"
+    },
+    {
+      "id": "bb0d571b01497f54e9fd8ef6a69f87ee",
+      "title": "Turning the Red Planet green? It's time to take terraforming Mars seriously, scientists say - Space",
+      "source": "Space",
+      "url": "https://www.space.com/astronomy/mars/turning-the-red-planet-green-its-time-to-take-terraforming-mars-seriously-scientists-say",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7zWzTQ8nWnmTK7d7vHfjV6.jpg",
+      "summary": "Starship Flight 9 Launch Failure Turning the Red Planet green? It's time to take terraforming Mars seriously, scientists say By Stefanie Waldek published 3 hours ago New research suggests that the idea of transforming the Red Planet might not be so far-fetched after all. When you purchase through links on our site, we may earn an affiliate commission. Here’s how...",
+      "published": "Mon, 02 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "id": "40411b97825241cf683ed1862dd662c2",
+      "title": "Scientists Spot Mysterious Object in Our Galaxy Pulsing Every 44 Minutes - futurism.com",
+      "source": "futurism.com",
+      "url": "https://futurism.com/mysterious-object-radio-x-ray-pulses",
+      "image_url": "https://wordpress-assets.futurism.com/2025/05/mysterious-object-radio-x-ray-pulses.jpg",
+      "summary": "JUN 1, 8:30 AM EDT by NOOR AL-SIBAI Scientists Spot Mysterious Object in Our Galaxy Pulsing Every 44 Minutes \"Unlike anything we have seen before. \" / Off World/ Long Period Transients/ Radio Telescope/ Radio Waves Image by ROBERTA CIUCCIO/AFP via Getty Images Astronomers have spotted something strange and spectacular: a mysterious object that keeps emitting pulses every 44 minutes.",
+      "published": "Sun, 01 Jun 2025 12:30:32 GMT"
+    },
+    {
+      "id": "36e1b6a4d319ecc339ea5a7c7110a085",
+      "title": "Geologists Reveal World’s Biggest Iron Deposit Worth $6 Trillion Set to Impact Global Economy - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/geologists-reveal-worlds-biggest-iron-deposit-worth-6-trillion-set-to-impact-global-economy/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Aerial-drone-photo-from-the-construction-of-an-industrial-sand-quarry-in-a-forest.jpg",
+      "summary": "Geologists Reveal World’s Biggest Iron Deposit Worth $6 Trillion Set to Impact Global Economy A massive iron ore deposit has been uncovered deep in Western Australia, with unexpected implications for global markets and geology. This find challenges long-held scientific beliefs and could shift the balance of the mining industry. Aerial Drone Photo From The Construction Of An Industrial Sand Quarry...",
+      "published": "Mon, 02 Jun 2025 10:45:00 GMT"
+    },
+    {
+      "id": "e62a0142893a510a4007a1f4ddaafdf5",
+      "title": "What’s up in the sky for June 2025? Arietid meteor shower, strawberry moon and much more - WTOP",
+      "source": "WTOP",
+      "url": "https://wtop.com/the-space-place/2025/06/whats-up-in-the-sky-for-june-2025-arietid-meteor-shower-strawberry-moon-and-much-more/",
+      "image_url": "https://wtop.com/wp-content/uploads/2025/05/GettyImages-1325452488-scaled.jpg",
+      "summary": "This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. Privacy Policy This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. Privacy Policy This website utilizes technologies such as cookies to enable essential site functionality, as well...",
+      "published": "Sun, 01 Jun 2025 10:46:20 GMT"
+    },
+    {
+      "id": "b325104eead646326b93b030d0fc2322",
+      "title": "Vienna calling: Strauss's 'Blue Danube' waltzes into outer space - Phys.org",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2025-06-vienna-strauss-blue-danube-waltzes.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.42.17.117 : f4400126-23e6-455c-ab65-93c57b95",
+      "published": "Sun, 01 Jun 2025 10:27:11 GMT"
+    },
+    {
+      "id": "2fb6d618c64ff469af5bb5052f6aa50b",
+      "title": "Scientists Stunned by Evidence of Ancient Birds Nested in the Arctic - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/scientists-evidence-ancient-birds-nested-arctic/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Scientists-Stunned-by-Evidence-of-Ancient-Birds-Nested-in-the-Arctic.jpg",
+      "summary": "Scientists Stunned by Evidence of Ancient Birds Nested in the Arctic A remote dig in frozen Alaska has revealed a prehistoric surprise. The Arctic’s earliest bird nests might date back far longer than previously believed. Credit: Shutterstock | The Daily Galaxy --Great Discoveries Channel Tiny fossil fragments discovered in northern Alaska have revealed that ancient birds were nesting in the...",
+      "published": "Sun, 01 Jun 2025 18:30:00 GMT"
+    },
+    {
+      "id": "cc2804c6518357d1c87e24ddaf49b9e4",
+      "title": "Space photo of the week: Pink 'raindrops' on the sun captured in greatest detail ever - Live Science",
+      "source": "Live Science",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSTJEalNmaEQybEM1UzVqenRac1pXYzJMcF91OHk1MlJkTzV4cFpaQ0k4NVNRenVvOUl1aU14X2E2Qy1nZWEybm1aREZPWC1rbFU1OUZ3bDJxbmVLUmhMdDRZdC1sYTRmZG5NWS1FVnZTRUY5R3pmT1pMUmR4NlpueURnbnNuN2Y1T2tOa01vWlZFRnpkNnFTMXRoTUdaQWtkUFR6UWV4ZkNJYU5lWktJRS05MFhhQlNhRmV5SmdfNjlKUQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "id": "4dc58f30a49b2e9990b5c33f3a014b68",
+      "title": "Aurora borealis lights up northern Nevada, Carson City skies - Carson Now",
+      "source": "Carson Now",
+      "url": "https://www.carsonnow.org/06/01/2025/aurora-borealis-lights-up-northern-nevada-carson-city-skies",
+      "image_url": "https://www.carsonnow.org/wp-content/uploads/2025/06/494570150_716207354134023_6401886546308374266_n.jpg",
+      "summary": "Your One Stop for Carson City News Aurora borealis lights up northern Nevada, Carson City skies Recent activity on the sun led to an array of northern lights, also known as aurora borealis, over Northern Nevada skies overnight. Carson Now reader Crystal Pacheco captured these images near Carson City in Washoe Valley area early Sunday morning, at around 12:30 a.",
+      "published": "Sun, 01 Jun 2025 17:31:13 GMT"
+    },
+    {
+      "id": "2d4e0306fcbaf4eef98f132658c62fb6",
+      "title": "US-led scientists discover new evidence on origins of intermediate-mass black holes - Yahoo",
+      "source": "Yahoo",
+      "url": "https://www.yahoo.com/news/us-led-scientists-discover-evidence-165036080.html",
+      "image_url": "https://media.zenfs.com/en/interesting_engineering_646/55e9b3761d621db6cf392c54b9c73dba",
+      "summary": "Senators tackle Trump's big bill Poll: Trump’s ratings since tariffs Speaker Johnson on Medicaid cuts US-led scientists discover new evidence on origins of intermediate-mass black holes Sat, May 31, 2025 at 4:50 PM UTC Black holes are generally grouped into three sizes: stellar-mass black holes, which are about five to 50 times the mass of the sun; supermassive black holes,...",
+      "published": "Sat, 31 May 2025 16:50:36 GMT"
+    },
+    {
+      "id": "6aac042e8cc70439156c5e195dcd0acc",
+      "title": "Webb Captures a Cosmic Forest of Ancient Galaxies - PetaPixel",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2025/06/01/webb-captures-a-cosmic-forest-of-ancient-galaxies/",
+      "image_url": "https://petapixel.com/assets/uploads/2025/05/abell-s1603-featured.jpg",
+      "summary": "Webb Captures a Cosmic Forest of Ancient Galaxies Abell S1603 as seen by the James Webb Space Telescope. Space enthusiasts are encouraged to head over to the ESA’s website to download the full-size TIFF image. The NASA/ESA/CSA James Webb Space Telescope (JWST)’s new “Picture of the Month” shows the mega-monster galaxy cluster Abell S1063. This impressive collection of galaxies is...",
+      "published": "Sun, 01 Jun 2025 12:00:47 GMT"
+    },
+    {
+      "id": "01ce24ba93b2eecf5ea800218ca31b05",
+      "title": "Ancient fingerprint in Spain may offer new insights into Neanderthal psyche - Ynetnews",
+      "source": "Ynetnews",
+      "url": "https://www.ynetnews.com/travel/article/ry00em3tfge",
+      "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/31/rkaDV6dMee/rkaDV6dMee_0_0_650_366_0_large.jpg",
+      "summary": "You’ll Regret Picking A Casino Without Seeing This First Hamas captivity survivor has hostage ribbon confiscated at Cannes Festival Endocrinologists Baffled by This Apple Vinegar Routine That’s Going Viral Ancient fingerprint in Spain may offer new insights into Neanderthal psyche Neanderthal fingerprint discovered on 43,000-year-old Spanish stone Perico sparks debate over possible use of symbolism; analysis reveals deliberate ochre use...",
+      "published": "Sun, 01 Jun 2025 11:45:06 GMT"
+    },
+    {
+      "id": "bfcc85b2bbfc0bc75b9c0d8baa8fb889",
+      "title": "The Ocean Is Getting Darker, Threatening All That Lives Within - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/the-ocean-is-getting-darker-threatening-all-that-lives-within",
+      "image_url": "https://www.sciencealert.com/images/2025/05/water-getting-darker.jpg",
+      "summary": "The Ocean Is Getting Darker, Threatening All That Lives Within Almost all life in the ocean depends on the upper waters where sunlight filters in, known as the photic zone – but new research suggests this narrow window of valuable marine light is shrinking in oceans worldwide. In the past 20 years, marine scientists have found, more than a fifth...",
+      "published": "Sat, 31 May 2025 22:02:45 GMT"
+    },
+    {
+      "id": "12eb0501074c70173d4c06f97cc5bf76",
+      "title": "'Rock Showman' uncovers sandstone stegosaur near Whitby - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cd7g4y21envo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/05fd/live/00f20270-3d25-11f0-b1db-7b03bfaa8894.jpg",
+      "summary": "'Rock Showman' uncovers sandstone stegosaur Steve Cousins/www. YorkshireCoast. rocks Steve Cousins - aka the Rock Showman - regularly leads fossil walks along the Yorkshire coast A geology tour guide has discovered a fossilised dinosaur footprint believed to be 170m years old along the coast near Whitby. Steve Cousins, aka the \"Rock Showman\", was taking a school trip on an educational...",
+      "published": "Sun, 01 Jun 2025 09:04:11 GMT"
+    },
+    {
+      "id": "a2af244dd47f05f348d49d9a665ce12a",
+      "title": "Scientists warn that polar warming might alter ocean currents and cause massive flooding in the U.S. - Earth.com",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/news/polar-warming-could-reduce-ocean-currents-amoc-and-cause-massive-flooding-in-the-us/",
+      "image_url": "https://cff2.earth.com/uploads/2025/05/30040952/polar-warming-threatens-ocean-currents-east-coast-flooding.jpg",
+      "summary": "Scientists warn that polar warming might alter ocean currents and cause massive flooding in the U. S. The Arctic is heating up at a faster pace than many other parts of the world. This spike in temperature has set off alarm bells about how shifting conditions near the poles could affect ocean currents in the Atlantic. Experts caution that these...",
+      "published": "Sun, 01 Jun 2025 06:21:51 GMT"
+    },
+    {
+      "id": "bd5487c05a18338dc9fbe12807ba1ff1",
+      "title": "Super-magnetic dead star throws a violent temper tantrum as NASA X-ray spacecraft looks on - Space",
+      "source": "Space",
+      "url": "https://www.space.com/astronomy/super-magnetic-dead-star-throws-a-violent-temper-tantrum-as-nasa-x-ray-spacecraft-looks-on",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2zfZpYtETkipTwSBuLhdXF.png",
+      "summary": "Starship Flight 9 Launch Failure Super-magnetic dead star throws a violent temper tantrum as NASA X-ray spacecraft looks on By Robert Lea published yesterday \"This is the first time we have been able to observe the polarization of a magnetar in an active state. \" When you purchase through links on our site, we may earn an affiliate commission. Here’s...",
+      "published": "Sun, 01 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "id": "4813e5c609aa3645c60669688144200f",
+      "title": "Haunting Image Shows The Moon Deimos From The Surface of Mars - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/haunting-image-shows-the-moon-deimos-from-the-surface-of-mars",
+      "image_url": "https://www.sciencealert.com/images/2025/05/deimos-predawn-header.jpg",
+      "summary": "Haunting Image Shows The Moon Deimos From The Surface of Mars Images like this can help scientists study the moons of Mars. (NASA/JPL-Caltech) There's not much hustle and bustle on Mars. The red planet is inhabited by no-one that we know of, except the robotic rovers toiling away to excavate its secrets. The only sound you'd hear is the whispering...",
+      "published": "Sun, 01 Jun 2025 19:01:56 GMT"
+    },
+    {
+      "id": "35e4cecb33300bb7315f6f4bd4222016",
+      "title": "MIT’s Chilling Experiment That Could Prove Gravity Is Quantum - SciTechDaily",
+      "source": "SciTechDaily",
+      "url": "https://scitechdaily.com/mits-chilling-experiment-that-could-prove-gravity-is-quantum/",
+      "image_url": "https://scitechdaily.com/images/Quantum-Gravity-Physics-Experiment-Concept.jpg",
+      "summary": "Home»Physics»MIT’s Chilling Experiment That Could Prove Gravity Is Quantum MIT’s Chilling Experiment That Could Prove Gravity Is Quantum In a dramatic twist on classical physics, scientists have cooled a mirror to near absolute zero with lasers to see if gravity might be quantum. This breakthrough could reshape how we understand the universe. Credit: SciTechDaily. com MIT researchers have found a...",
+      "published": "Sun, 01 Jun 2025 02:55:40 GMT"
+    },
+    {
+      "id": "2b4865aa16e4740e3060351a81b663d5",
+      "title": "Scientists Stunned by 183-Million-Year-Old Fossil With Intact Skin and Scales - Indian Defence Review",
+      "source": "Indian Defence Review",
+      "url": "https://indiandefencereview.com/183-million-year-fossil-intact-skin-scales/",
+      "image_url": "https://indiandefencereview.com/wp-content/uploads/2025/05/scientists-stunned-by-183-million-year-old-fossil-with-intact-skin-and-scales.jpg",
+      "summary": "Scientists Stunned by 183-Million-Year-Old Fossil With Intact Skin and Scales A 183-million-year-old fossil with preserved skin and scales is rewriting everything we thought we knew about how ancient sea monsters looked, moved, and evolved. Credit: PeerJ (2025) - copyright Shutterstock The ancient seabeds of modern-day Germany have yielded a rare discovery that is reshaping scientific views on how marine reptiles...",
+      "published": "Sun, 01 Jun 2025 16:30:00 GMT"
     }
   ]
 }

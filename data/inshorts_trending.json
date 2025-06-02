@@ -1,33 +1,189 @@
 {
   "metadata": {
     "source_file": "data/news_trending.json",
-    "generation_time": "2025-06-02 04:04:15",
-    "total_articles": 3
+    "generation_time": "2025-06-02 14:33:20",
+    "total_articles": 20
   },
   "articles": [
     {
-      "title": "Staff profile: Meet Amani Bayo, The Dispatch's trending features reporter - AOL.com",
+      "id": "f3d6791d3a9778cf0db7ef37b478c9ff",
+      "title": "Trending News (Monday, June 02, 2025) - KRTV",
+      "source": "KRTV",
+      "url": "https://www.krtv.com/trending-news-monday-june-02-2025",
+      "image_url": "https://ewscripps.brightspotcdn.com/dims4/default/ae54301/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Faa%2Fbd%2F98269811458ea06c3d207379905a%2Fkrtv-highs-today-73.png",
+      "summary": "Weather47° Montana Sports Montana Politics Montana Ag National/World Contests Indian Country MMIP Special Olympics MTN CHANNEL POSITIVELY MONTANA EVENTS CALENDAR OBITUARIES Trending News (Monday, June 02, 2025) By: Shiksha Mahtani , Erik Johnson Posted 1 hour and 53 minutes ago Wishing everyone a good day! Here are some things to know for today: WEATHER: Scattered showers, with a steadier rain...",
+      "published": "Mon, 02 Jun 2025 12:06:15 GMT"
+    },
+    {
+      "id": "1105d5ae992423e084e445e84012be96",
+      "title": "First Alert: Temperatures trending up this week - WSFA",
+      "source": "WSFA",
+      "url": "https://www.wsfa.com/2025/06/02/first-alert-temperatures-trending-up-this-week/",
+      "image_url": "https://gray-wsfa-prod.gtv-cdn.com/resizer/v2/QLT53ZMCO5AINBVXT7RSGRGKSU.png?auth=17fa6fa252872b0c3fd75f581a0eb7b05464e56554348f87fe19bbd680dc8541&width=1200&height=600&smart=true",
+      "summary": "First Alert: Temperatures trending up this week Classic summer pattern returns midweek - featuring heat, humidity & daily rain chances. Published: Jun. 2, 2025 at 9:59 AM UTC|Updated: 4 hours ago Email This LinkShare on FacebookShare on X (formerly Twitter)Share on PinterestShare on LinkedIn MONTGOMERY, Ala. (WSFA) - After a beautiful, relatively comfortable weekend, the new week will get off...",
+      "published": "Mon, 02 Jun 2025 09:59:00 GMT"
+    },
+    {
+      "id": "6021cdd367903a40d623dcaa0736703e",
+      "title": "Trending tickers: The latest investor updates on Tesla, Palantir, Sanofi, Babcock and Indivior - Yahoo",
+      "source": "Yahoo",
+      "url": "https://uk.finance.yahoo.com/news/tesla-palantir-sanofi-babcock-and-indivior-trending-tickers-112516891.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/sT7BdiqV3IAaW9M8E7gzyg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-05/9f08f330-3e13-11f0-8b97-44ba1789d1b7",
+      "summary": "Yahoo is part of the Yahoo family of brands. When you use our sites and apps, we use cookies to: provide our sites and apps to you authenticate users, apply security measures, and prevent spam and abuse, and measure your use of our sites and apps If you click 'Accept all', we and our partners including 241 who are part...",
+      "published": "Mon, 02 Jun 2025 11:25:16 GMT"
+    },
+    {
+      "id": "02dd68780ed20a05adad276b74a00d63",
+      "title": "Continued hazy and trending warmer - WLKY",
+      "source": "WLKY",
+      "url": "https://www.wlky.com/article/continued-hazy-and-trending-warmer/64942227",
+      "image_url": "https://kubrick.htvapps.com/vidthumb/images/poster-image-47-683d6e1b2161a.jpg?crop=1xw:0.9717548076923077xh;center,top&resize=1200:*",
+      "summary": "Continued hazy and trending warmer Updated: 5:26 AM EDT Jun 2, 2025 WLKY Meteorologist Matt Milosevich has more on hazy skies, increasing temperatures and storm chances in the 7-day forecast. Dwindling ticket sales and cancellations: What's behind the decline of music festivals ‘Just a miracle’: Nurse helps rescue hiker who fell 20 feet from Utah canyon Quiz: Can you spell...",
+      "published": "Mon, 02 Jun 2025 09:26:00 GMT"
+    },
+    {
+      "id": "41515b9dabc115829a131d5c7e6ec3dd",
+      "title": "What’s Trending: Budget Caviar? - Chapelboro.com",
+      "source": "Chapelboro.com",
+      "url": "https://chapelboro.com/the-aaron-keck-show/whats-trending-with-victor-lewis/whats-trending-budget-caviar",
+      "image_url": "https://chapelboro.com/wp-content/uploads/2025/03/Whats-Treading-864x329-1.png",
+      "summary": "What’s Trending: Budget Caviar? Posted by Aaron Keck | Jun 2, 2025 | What's Trending with Victor Lewis Trending today: a spike in caviar sales in the U. S., now that cheaper, eco-friendlier farm-raised caviar is becoming more and more available. This is big news for Victor, who’s a fan of the cheap caviar at his new favorite downtown Durham...",
+      "published": "Mon, 02 Jun 2025 11:51:31 GMT"
+    },
+    {
+      "id": "8a501445fbf7800180fad9b4f14875dc",
+      "title": "Visitors flee while Mount Etna erupts - AccuWeather",
+      "source": "AccuWeather",
+      "url": "https://www.accuweather.com/en/videos/visitors-flee-while-mount-etna-erupts/54eb74f4-1eb8-4a30-b744-e75212328f9d",
+      "image_url": "https://img.connatix.com/54eb74f4-1eb8-4a30-b744-e75212328f9d/1_th.jpg",
+      "summary": "Severe thunderstorms threaten central US with flooding, hail, and isolated tornadoes through midweek. Click for the forecast EF-2 tornado hits \"The Wire\" actor Tray Chaney's home, son hospitalized Florida high school preparing students for hurricane season How states are preparing for the upcoming hurricane season Life after three consecutive hurricanes Looking back on the 2024 hurricane season Heavy rain causes...",
+      "published": "Mon, 02 Jun 2025 12:36:22 GMT"
+    },
+    {
+      "id": "c061ef6a21d78a4b2e7fbe2d37197573",
+      "title": "Trending | Central Texas Softball State Champions, Killeen & Waco hitchhiker cities - KCENTV.com",
+      "source": "KCENTV.com",
+      "url": "https://www.kcentv.com/video/features/trending-today/trending-central-texas-softball-state-champions-killeen-waco-hitchhiker-cities/500-99b4faa8-db1b-473e-8f7a-fb05f997e262",
+      "image_url": "https://media.kcentv.com/assets/KCEN/images/1c1d7660-37c0-46a8-99ca-2dc818e487e2/20250602T113858/1c1d7660-37c0-46a8-99ca-2dc818e487e2_1140x641.jpg",
+      "summary": "Trending | Central Texas Softball State Champions, Killeen & Waco hitchhiker cities Texas Today is keeping you up to date with the latest trending stories across Central Texas. Published: 6:37 AM CDT June 2, 2025 Updated: 6:37 AM CDT June 2, 2025 Neurologists Amazed: These Barefoot Shoes Help Seniors Lose Weight and Live a Life with Less Pain Barefoot Shoes...",
+      "published": "Mon, 02 Jun 2025 11:37:00 GMT"
+    },
+    {
+      "id": "4e41c669986440260aca6870a6c69b9c",
+      "title": "Michigan State trending to flip Iowa State commit Brayden Thomas - Rivals.com",
+      "source": "Rivals.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRllyU3NqSklCajI0MjFUTFBKQTFRRXQ3U0ZlZkFjdU1XcF9zbmNiQnhOX1Fjc1FUdjYxeEpndmVqVHlUVXpINm10R0NFOVFDUDVSYmpCNEdGY2wtMFFiYUpHVXNSSlY4ay0yelN1R0FXY3Vvcjc4bzRCWDdLTlBsMU5BZEFOSU1SclMwUVIzakppTC1p?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 12:37:47 GMT"
+    },
+    {
+      "id": "a8139c9e1bebddf839c8406693e59f96",
+      "title": "The Top 10 Trending Baby Names of 2025, According to Google - MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOZnRib3h3Y05fejJpcnc3VDlmV21pMGJ4ME1xZFZKLUo5TXVMV2RCcXNFbVJ0SWpKWHUxZTFJM3h0SXlBV2k5a2tacXFKUzZnRGVYX2xXazlWVkI3LXFhTE40ZEpvbjZxYU92ejA5dVBWRmplSWZGRVRFbFpua1dWamhhdnFxTkN5UFd5MjZOaF85WTVKN1FjRXNfQ1VrbzI3VV9OUURFemt0akRBMkVmQ1RUcFY4YVQwVDZWMVJsOUdSWjBuTFhNOThTWExNUmhkN19xNnAxY3JsVEJ3QkNfLVZEOFJsZENZbEZRYTVORExTZnZQbFRxV252V1d2M1lqYjlId3k0NFNsQ3VMY1ZxamFfLXNDVUFKWndXZTF3S1dESTNjY25yTFd5Ykt0dzUyQzdBamtiWkxtdjctYnJUYTF4b195OEZlY0dTdQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 09:30:38 GMT"
+    },
+    {
+      "id": "e0419e8fb3c4d471c9eff709dc2dcf41",
+      "title": "‘Color walking’ is trending — here’s everything you need to know - Tom's Guide",
+      "source": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQS1pRmRRMkVrczE3VVQ0Zy0xN2JjWEh4MEJsWmJYUzJaUDZMVnpIQlhRUEFVSWhXSzlBaUdtcmQzZmI3aUlsOWxoeUJwVFFVcHowdE9FWEdzM0hQb19GZjRESGVHcVRpaUFaeDlTZ09CZjNsUk1QZ1l4eXFNMmk2VmEtWmdGZGI1dlRWRXpZbWwyUUprZm5CUnByOEdrTDZyNHZnOQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 06:30:00 GMT"
+    },
+    {
+      "id": "b8231e8659694ba4b70a0dda55f750f3",
+      "title": "Trending hotter early this week, some rain returns late this week - WAKA 8",
+      "source": "WAKA 8",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdmZaak9STGZ3M1dZY1RBY2JmZWFpdWNvOFhRZ0M2d3dKTzNOZTBWYUtiYTJ5TTR4WHBaWkFlVjhlUDIxRzNXR19GYi1NVUpNUURuY3ZOd3c4azBIamh5Q3JGTExxRnduVUVlemF1QVNTa21kUGZaRDRnWXc5STJ0Mm5TQ3AtREtmMVpRTEo4WG1jV0hDMzhja1B5SGgzUQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 03:10:00 GMT"
+    },
+    {
+      "id": "efe36a3f172dfa189f9f571806254b48",
+      "title": "I Tried the Controversial Trend the Fashion Crowd Are Obsessed With This Season - Who What Wear",
+      "source": "Who What Wear",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJWVo0b0JkNFRmVThHeEQ5UFo5bEZMWjRfenpjWFk1MUFxUmJZYUtxQ0RDVXhlMDdFRzQwRWJyT18zcGVKVnpYUjNEdHphTkh2?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 05:48:45 GMT"
+    },
+    {
+      "id": "518b8268dce66da38bc0b9310441a21a",
+      "title": "JJ's That's Trending: Josh Allen Married, Taylor Swift Owns It all, Held Hostage by Moana and More - 101.3 KFDI",
+      "source": "101.3 KFDI",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ0wzMWJkM0JEaHNwaFZ3SDZXaHRiRUhNaUlCeHQ4NEZBRVBFUGNVd3JvT3RLVUFOeTZ4b2dqUkU3ZW1Ud3lPemk1b3ROSTlNc1B6UjMwLWQ3WjQyV01uYzlqWVlGU3VsVDhzY2RTSzNhZlRBaDE0dUs3TVVUUUU1YnA5LXc4Zno2Njk1LVluaEtRUlB4bGtmaENmclZERklsY3BwbUlUU2hNM1J5ZW9ocXBTanptY0M2TERMOUFmZ3lwNjFM?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 10:28:51 GMT"
+    },
+    {
+      "id": "5a2de772390559927cb5aaf169f26057",
+      "title": "Taylor Swift buys back her music catalogue, viral \"puppy paws\" sleep trend | What's Trending - CBS News",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS19LNVkyRndwVWwwbGduM3VFY1IzaWFuOW90OHdaZ2VyZThFS0laUXJtOWxiYU1BdkpDX1ZBdGxJX2ZPYzhVYU1YZk9DaHNXOVZHYThLa082TTlGX0NWQU1rU0FIdmJhdVhDVW9obEpsSW9PZldrVlVhRHlLTGZSWjN1ajI4VUlhaFZZdWpvdjhDeFQ5YjQxWUwyQ0RwSENfa2FZZG9Razc1MkZBZXRFbGJNeEViTTUwcm9NV1RJWWs5ejJMVERmS0dR?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 11:12:00 GMT"
+    },
+    {
+      "id": "6928809a547664e1efd6f0e5f2727af5",
+      "title": "15 Trending Summer Hair Colors to Try, from Almond Milk Blonde to Caramel Flan Brunette - AOL.com",
       "source": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBydGpXVmN3bzk4VFpKVmV0ZWdreUd4dUdCdFR5aVNYV1B1Z0phVVNELVMwZm02MWJfcmRVQlIxR29PNUxONUZkN2g5bldKdlRyZ3V0bHRZX1Y1WW55V291NE9uTENQeTBweWhOZU05QzN3QQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZZUc3TXNGUXludjVkZlBCU0tKN3g0V3lTMUhVZ2djMFFJUnlpaTNlNE5rOFlyemJhNXR2SVZfU3FZUlJ1VzM1SjhCdEVyYmhVQTVHNFRmUFRvUWRBY0hEWVA3cGlmZnV0V0tSNnpjSVBUaEk?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 15:32:28 GMT"
+      "published": "Mon, 02 Jun 2025 06:12:07 GMT"
     },
     {
-      "title": "AP Trending SummaryBrief at 1:07 p.m. EDT - Union-Bulletin",
-      "source": "Union-Bulletin",
-      "url": "https://www.union-bulletin.com/news/national/ap-trending-summarybrief-at-1-07-p-m-edt/article_64af3caa-d968-5b92-b7f3-c4d2b4829226.html",
-      "image_url": "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/custom/image/742560ca-072e-11eb-8f70-07c5f8794a75.jpg?resize=600%2C403",
-      "summary": "AP Trending SummaryBrief at 1:44 p. m. EDT Bills QB Josh Allen and actor Hailee Steinfeld marry in Southern California Buffalo Bills quarterback Josh Allen and actor Hailee Steinfeld have tied the knot. Multiple media outlets reported Saturday that the power couple’s wedding took place in Southern California, where both Allen and Steinfeld live. Pictures of the event showed Steinfeld...",
-      "published": "Sun, 01 Jun 2025 17:07:19 GMT"
-    },
-    {
-      "title": "Staff profile: Meet Amani Bayo, The Dispatch's trending features reporter - The Columbus Dispatch",
-      "source": "The Columbus Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNFpfc2V4TC0ybktmVExmbERzQmRieWcyQmFrclljY1pjR0w2M0F4SGxkSS1BX3NOUVg2TU05NG1RcDlmajNhRVBJLXdId2FrTG9jQW9KY1RQMm1wU05GVnpHYXZkTGFnVFhQQk5WRk5TbVZlXzloLVRmNHJVZGN5TEtlVUdKcll1a0hValU0a0hpd2ZjUktHOTNaVWVkSFBuczRYY194Tjl6OVRLTWdOb3FVMVJCdDhVWEhXRGtMMVpMZ05obnY2UFlBTE1FQQ?oc=5",
+      "id": "d50d1064ea132a5aac9710b3482022c4",
+      "title": "Trending Report on Cost-Conscious Health Services Market - openPR.com",
+      "source": "openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaXdQMXV5SEF6TUJ1bENpZFZaMTdGU25BbF9OalM2UnFQUlltd1JMaXA4d2pKT25ROGlQczc3Rmc1N25JeWN2Y0lBcmU2Y3VVTU9menFMdmtpZ2NsZ09HQVZYR3ZrQVhOWVMxTGM2WVJ3THdaN3RiR09VcGdOSER2ckZ0V00tRi1pOHdnQWJUd2JicFZwYkxB?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 09:12:40 GMT"
+      "published": "Mon, 02 Jun 2025 12:44:05 GMT"
+    },
+    {
+      "id": "e9a3af5d121fcde69802be10b62f18c0",
+      "title": "News - The Independent",
+      "source": "The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HZlhDdTkybWF5STh1NlNqRFlkNDZLdVd2T0ZhRXNpY2dDWEdiY3Z2cVBQVVNMVFA5Vzk4Q0lMSnpFUkF6WkRSNFo0TXhUZw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 03:41:00 GMT"
+    },
+    {
+      "id": "a9ed9c5b61c51de7af7907c99db5a183",
+      "title": "Neutral, low-maintenance 'princess nails' are trending. Is the economy partially to blame? - MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVExNcFg5QkdsSjZUZlZjYnplSE53MjBIaC1kcjIwakZWSFZyM09sNHo1S1p2VDJTYjlPVi1wR3puMXM2ZFZHeUl0ODN1ajRXUFYzZkN0UXVCNmdaRnRrVEoxa1VoNWxUclVfTHEwVUxsRlRyU3FUUnpqcm1nZGwwbjFENkxkM1JJbkN1ZTduUWhTRW9xbm50WkNtZVlodDd2LTc5dzE1eHRjd0k2SThVdTRLTUw0SFVOYS1oZkJwb0NzVzVlQWxCWktIYVZ3Zzg4d01DajlKWQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 05:21:28 GMT"
+    },
+    {
+      "id": "a8919cb61b0d8963eb981db7fa615e29",
+      "title": "Ole Miss impresses top official visitors, trending up with flip targets - Rivals.com",
+      "source": "Rivals.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDFqUC1sRmExeG1ObU5Udm0yX0ZwVE5RcDNmaXRMbGxjd0Qtc3UzbWJ3UVdKeUJsbWFNSl95Q3RHclZrM2g0QUFtUGhTQmhDZG12ZC1zeWQxYmMxX19EZXdjbEJSbTBmRnVPZVItSEVhRFJPaHREbENkRDdQbi0tUzNPeEJRdXlFUGxOMHEwcFJQV1NMd2ZWZDlyRmFwMFBBVGw4?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 06:21:46 GMT"
+    },
+    {
+      "id": "b574bcfdd0b9be759d896e9e5b0e6e82",
+      "title": "Ole Miss impresses top official visitors, trending up with flip targets - InsideNebraska: Nebraska Cornhuskers Football & Basketball Recruiting",
+      "source": "InsideNebraska: Nebraska Cornhuskers Football & Basketball Recruiting",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYWhXVU1ueXN6Q3hzeDZzSzNidWV4UGpiNHVfMnBXVGdFanUyVW1wYTF0eEd4d2VfQkNBUGt1NzY5QUdXWUMybHZ0Uk5ib2ZCTTRGNnloOWYyWXRKYVZjTmRSTFFQVmxBcjJpLVkyb2FTV2t1VXZwazY2VGpYcm5OOC1FNDNqbG9LZkFfWkFvbVdGWk9RMWJaUi0wMTR6WVk1a0gyQS13?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 07:05:39 GMT"
     }
   ]
 }

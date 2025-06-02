@@ -1,17 +1,57 @@
 {
   "metadata": {
-<<<<<<< HEAD
-    "timestamp": "2025-06-01T21:31:04.983668",
-    "source": "topic: technology",
-    "count": 0
-=======
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-02 04:07:27",
-    "total_articles": 3
->>>>>>> 6b4712c (/.)
+    "generation_time": "2025-06-02 13:44:00",
+    "total_articles": 20
   },
   "articles": [
     {
+      "id": "df40b51790ba0a74908e8c5ca1bb85b1",
+      "title": "Rune Factory: Guardians of Azuma Review - RPG Site",
+      "source": "RPG Site",
+      "url": "https://www.rpgsite.net/review/17576-rune-factory-guardians-azuma-review",
+      "image_url": "https://images.rpgsite.net/image/da49c9a1/148189/article/Rune-Factory-Guardians-of-Azuma_20250318_07.png",
+      "summary": "Rune Factory: Guardians of Azuma Review by Junior Miyai on 02 June, 2025 If you'll spare me a moment of indulgence, I want to talk briefly about progression systems in RPGs. This ties into how I feel about Rune Factory: Guardians of Azuma, but if you're only here for the quick and dirty: it's a decent farming/village RPG with middling...",
+      "published": "Mon, 02 Jun 2025 07:05:11 GMT"
+    },
+    {
+      "id": "4d2a282364e9183316cb85e6d389f9a0",
+      "title": "Elden Ring Nightreign is now easier for solo players - Eurogamer",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/elden-ring-nightreign-is-now-easier-for-solo-players",
+      "image_url": "https://assetsio.gnwcdn.com/elden-ring-nightreign_PNlB4xq.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "Summer Games Fest & IGN Live Schedule If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News Elden Ring Nightreign Elden Ring Nightreign is now easier for solo players News by Ed Nightingale Deputy News Editor FromSoftware has patched Elden Ring Nightreign to make it easier for solo...",
+      "published": "Mon, 02 Jun 2025 11:46:42 GMT"
+    },
+    {
+      "id": "65ba0161a4bf438e1f8caec7f7236006",
+      "title": "Compact Android phones might be gone for good soon, and it could be all Apple’s fault - Android Police",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/compact-android-phones-gone-for-good-soont/",
+      "image_url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/06/asus-zenfone-10-review-hero.jpg",
+      "summary": "Compact Android phones might be gone for good soon, and it could be all Apple’s fault The base iPhone 17 is expected to feature a larger 6. 3-inch display. Along with the size upgrade, the base iPhone 17 will reportedly include a 120Hz refresh rate and support for an always-on display. If Apple moves forward with this change, Android manufacturers...",
+      "published": "Sun, 01 Jun 2025 12:55:00 GMT"
+    },
+    {
+      "id": "3ea921362b21aed40bb1266d164bcffb",
+      "title": "Instagram for iPad is reportedly coming soon; here’s when to expect it - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCNllweFJqTVN5ZXplQzhuNHB4am5lZ2N1NVJqQlpQU0p3LUllZGg0NmdzbWhOUFZ3SWVjRG1lUnh5N3FOMEMzLVg3clRyV0M5bXNKX1Z5UFU2M2g1T3FRVFlCWFpqc1kxb0VCV1dfVTVPaU0?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 21:34:00 GMT"
+    },
+    {
+      "id": "9d6e649a2bb6b87983d6cf82223fb01a",
+      "title": "Lighter than normal WWDC expected without significant Apple Intelligence uprgrades - AppleInsider",
+      "source": "AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZEczSm5KNm5SN1RtcGswSHE3N0JUTDYtUTQ1VGZndjFIVUVsRFFnWmo2d2JjNU9Mel84U0VxWVdHYWg2V19EYTRaaURIVXlHUHNsM1g3WTA3cWhBcjFKZXFJT1ZWS2Fob3N4NEg2aXl5R2RyV2ptQUZtZUd4WnlHZEtUMUxuenk2TlN3U0VaUndocnc5dGdCM1g0dGFRa2prMkxrNnlrV3pDajRqWVRJYnZWcDFwS044Z3BoOFBsNlNBWTjSAcoBQVVfeXFMT1A3TVRBTjV0dXVxdlF2azJ1bEg3ZkRidFhVUWJGbXhaVmhFSjRfZkVQSXcyM0NLa0wtY01PWW1zblc3eVlEQ1c0eG1PMHAtQjNCb0wyTlM5Z3ZPUlhDMzQxTUdEcmJzRUpRamk1cEhyM2hRQzlHN0tRSVlhUW5XT2VVNGotOFNvM1FxQlFUVGJ3dlB0a3RucTJtdF9DYzVhUWR2ZjVsX2dkLUdpUGlVWUE4U0JVVGdwTm5VOGdHQ3ljdXp6T3NpSUxBQQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 12:26:00 GMT"
+    },
+    {
+      "id": "84b907e45175b3f176674db13258171d",
       "title": "macOS Tahoe Name Leaked Ahead of Apple's WWDC Event Next Week - MacRumors",
       "source": "MacRumors",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sVzVURmhsRGprM284V0R1UXk4NFYtVFZndXItMEp4WjdINmFPQ0pNM3p1dWs3OVVUOW82dmpUcno5bkhTLVF4eTJMNzV5VXB5SlZsZ1p2T0hEekJNM2xEUldOUTBBb2t1dVNLeEV3?oc=5",
@@ -20,20 +60,130 @@
       "published": "Sun, 01 Jun 2025 14:08:01 GMT"
     },
     {
-      "title": "We may have some information on incoming smartwatches from Android phone and tablet maker HMD - TechRadar",
-      "source": "TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNW5wRndOWndfUWVsb1dPeW40d0hyMTAwN2hjSVRHenRsbGlFVVlmQ2xFbWU5NVV6VFZEdEYwbVpIclF6RDA0QU5wcmp1dkdiYTNETENuRWxIMFZBbGhaUTN1UFdIWVQwN3Z6ODNINkM3VHpxa1ktNnpyazdOOFIzZ2J5b3F4YmhYVVhiOGVPRnBId0xRakR4QWpmZ1l2X3E5R1JJS0ZNSE9tTHdqaU1rZFNuSEVualR2T2FIbFBZdWoxQ0FfY2J0XzhJM2xZSjF1YkNvUHZtbW1Pb1Y1NWJOSg?oc=5",
+      "id": "8674c05e82956ca0fe54887c706bcc7c",
+      "title": "Deals: the Galaxy S25 Edge launches as the most expensive S25 phone, plus some iPad deals - GSMArena.com news - GSMArena.com",
+      "source": "GSMArena.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdm1YOU94Zmt2QnJHbVVHUk83ZzY3V1pJcDFvMUItZ2tIb21uVTU1RXIzenZ0c3g2MXQ0THFUQXRNa09oMG9WZHdUTkdWVG9oVVRqbUlKU3MwcTRVaEJraGFZc2RRVGpqQjNFWmx1TkFTdzA4eEJBYzBLZ00wUDlWUlNxRUs2bXVOYkROdy1QUHNFSkdwRTIzaUdfRThUa0FSSXdXUUttTmN6ZVh3NUNHRm1oQnl0TFUycTFUMEpSY0dEVWw2WHfSAcIBQVVfeXFMUGtnMWQ1MklmUGkyYUF2TVJGZW8tRXh1V2VuUlRpbmVIeVlCWFo5X1NBamkxdGRpWDRFNUJjREM4SUQ3Y1NqY28wb21ZdGF0eGFzbm9DNnB2OUpiMDNsb0swN0NDYVRPVXAwUlhvY2ZwMFZtNjV3aTVRbGxWYU5JVXlPdW1mdG5xajhaRkk5aElWcllqTTc0dmhUeHpyd0xvMThKemlQZlZwN2UzS3dSbTZhYnE3MUtEcjBJSFBDbDBnclE?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 16:30:00 GMT"
+      "published": "Sun, 01 Jun 2025 16:08:03 GMT"
     },
     {
-      "title": "Elden Ring Nightreign is getting another patch next week to improve solo play - Eurogamer",
+      "id": "26499c7c9e588f715328f9df9104e731",
+      "title": "These are three Apple Intelligence features I’d like to see with iOS 26 - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUHpicDA2TjBCdm5QVVN2dmJxQzhsVC0wTGs1UkpQR0RRLUVWckduOXQ1S0dWc1dmZk5HdXhhLWprZ3BkMF9qdkV4YU1lQjl0eXVkYVFFVkpyNW4xQlFSNGNsZm1ESXF1UWxGanJIdzVxY0hoZ25mNkhBQmNRY3NQd21Gaw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 31 May 2025 21:39:00 GMT"
+    },
+    {
+      "id": "08808cb98900fcc9c56eb0eb1ad95476",
+      "title": "Shortcuts is getting an AI-powered revamp; here’s what that could mean - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YeEJyejNSUDJYYVBTdGx0dUdlMkxoWFR4Zm1VZzE0a3gtQ1A5dHFFcUJkM0tvR3VIYXpxN1NhdXdjRmQtWmFoTGpOV1lBaXZnTE0zaDVVQy1CMnlBcGpULQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 14:13:00 GMT"
+    },
+    {
+      "id": "098c5619aa45f68c514161a9bc879a0b",
+      "title": "Moving sucks, but decluttering helps - The Verge",
+      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFM5TTQ0bzVpR2JxUE1reWRvZWVxakVCb0RtRDc4UFV6UzBfc24yUnVhNThLR2ktZFZQV29NZzZncmNHSGdnRE9fRTllUzc5ZlFDRjhXUFIzUW9vRHBHcGhkdTZ5cndqcEJndDNDRlNLTEt6d0pnb1JiT1VHWGpKQWNZOERYd1BT?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 11:30:00 GMT"
+    },
+    {
+      "id": "9ab0f95cafc316eb4fbe4c83c35991d6",
+      "title": "Chevy Corvette ZR1 Cleanly Smokes Ferrari And Lamborghini In A Race - CarBuzz",
+      "source": "CarBuzz",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjd6T2pnTnJKeHg2OFJBaS04R1VYb29ockFtTE0xb3dpOS1yWmNXUG1pX0hZRlpvVVE5RElDSTIxdTFUb05ZMjQ0LV9ZaVdEUnlpS1g3Nzh4bk9MVE0yaVgxSzRIY1l0SDZHWGoyZWJrXzFVbDE0VWh1SmhoSmI3MEdCRTBNd08zYnFkV0dDMXZVV2xPZWJoWDVKQnA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 31 May 2025 15:00:00 GMT"
+    },
+    {
+      "id": "357bc48c29f32312dddcd657a19020d3",
+      "title": "Nintendo Switch 2 pre-orders live — retailers to check for restock as launch week arrives - Tom's Guide",
+      "source": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQanNUbGV1U0w0TTliYTZqakJPdWdPdXg2QU1uT1JEaVlUcWdOYl9rX2J4dnkwOHdLcUUyYlpmRFdUcUR4dE5pTWhPWHFqZktSZDJLLUtCNG4yNTFqLU5pSHdTTVBlYjUwQXEtZVJlUC0xZWtMWjN2UTkxZV9qQ0lZbFFqQWNVd09BRG4zV2tlVVl5QU5sVFpzR3BaLXQzdw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 12:43:13 GMT"
+    },
+    {
+      "id": "691568bcb44457a3c5a044519c969326",
+      "title": "Nintendo Switch 2 Welcome Tour Trailer Highlights New Minigames & Tech Demos - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb3U0OUE4WlgtcHRiQktDN1hMaE02VGs2MmdlOGcwM2hORzVleTVYNGpGcExIN2hXTVBFQ1Y0WVNMV0NIQzNMazQzS05MeXl5eDdXR2VHR0VTWmV1NDNpZDRLaXJKbTNKTHVhdnlUU0doLWJreDVUSnI4N2pGbGFhelVkaGxzdTR4cWFYTnFZRW1ZVnVHYldXZjZUQXdxTkdqaE42VlhJWGhWNTlWTlRzU0FjM1FtaGxjaVVtQQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 10:45:00 GMT"
+    },
+    {
+      "id": "c238c890a8b317a1a0cfc238a4fbc899",
+      "title": "Linux user share hits a multi-year high on Steam for May 2025 - GamingOnLinux",
+      "source": "GamingOnLinux",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnoxcGFoY3FJanZoQnFfcm9rS2F2SjRjQ1otTG1lQzZCVUFtT1REaU5EYUwwVlF4dXV0RGFsazBmenQ0M1EtNVVRRlJiYk5pM3BwVVpiSUJmZEU5ejMwbDhLck8xTTFCTzFVb3IwYktOdmZZZGpoOG00dzh2QWQ2eDM3bDBtMFUyNE40d2tURTlOQW1IZ3V6aVpqN3YweXFCTEE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 09:13:22 GMT"
+    },
+    {
+      "id": "906ad0f7fac62fc86c022c742b979648",
+      "title": "ChatGPT future just revealed — get ready for a ‘super assistant’ - Tom's Guide",
+      "source": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtfTk9nR2xNMmN6Q2gzS2djZGtIUjZOQjNTRk52cmFXWFpBZEFuX1hmQ3B3Y0JBSkFmWnR6ZERwUG9jNWF5UE5qNGNESUh1Z3VCT21UZE9QeEphWkUweHZ0QURfTG1UNThNelZoNFd1OEk1cGhUN1Bjb2NnMjVmOTNvRXlreEY0UDNOZ3pHQjUxeTg?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 18:42:32 GMT"
+    },
+    {
+      "id": "970bca052eb18f67a62cf99c7113c347",
+      "title": "You Can Own This Ultra-Rare Italian Viper - Motor1.com",
+      "source": "Motor1.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkdjOXNQQUh4ZHlKWmYwSTQxdXBMdVg2cU9YamRoaGxQdlhLX1F0T3hYM1IyRnp1RGRzdUdXV0M3c2ZzeEdvZ3ljZVFxb0t6WktiM0FDaGN6em1XcURhdzhQbGVRZnZYYVdPbXZEelJwZDRHZmJaYktldzRoMTEtY0RNVU4?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 12:00:23 GMT"
+    },
+    {
+      "id": "6ebf4f3b0bf8743c0feef3cde86434e8",
+      "title": "Nintendo: Please don’t remove film layer from Nintendo Switch 2 screen - My Nintendo News",
+      "source": "My Nintendo News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcno3SUJVMzg0ZE1xSG9keXVLYUtFQkg0Ni1qT1hxdnp4bjdnb2pYT1hfYThkOG9qNDBGMmxZNWtndVRNRzMwZ2gzeWxSYmZHTm45bk5kdzlsRHVxMU5CRmUzOGlMeGN6YXczcW1Fem9obkROVjhjS21mTk1kSDREbjZGd0xVR21XYnJfYnVlc3JYNndsZEJVaFRfZVloWkZ5U1JMbmp2d2lTRlE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 09:52:48 GMT"
+    },
+    {
+      "id": "9662c81a0aa03706ddc460129a229de3",
+      "title": "A Glucose Monitor for Someone Without Diabetes: Optimal or Overkill? - WSJ",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZHJmVklwcTFsTy1GZWtLcU9McTR2cWpoSUhLM2ZZZXU4MDQ0WU1hVWs2RFMwMFRBQ19PbWhZMU5sSnMtUkVWeW85UGpkT3Fhc29ZWUY3TTMxckpSVEo5a2pIU1FhTVVGVl9Hb0ExMFg4dVY0NzhNZThTTUJyTDR1VVNpWkhPX3J3cGFBOWFR?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 17:30:41 GMT"
+    },
+    {
+      "id": "36d59b375419356fbfe37a44cbff3ee5",
+      "title": "How to take pictures of the Northern Lights with Google Pixel and other Android phones - 9to5Google",
+      "source": "9to5Google",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXVfOHdnem5lRUxEUERLNjBfMzJ1M2dhTXFoU0h6YWNpQUtZalQ0Y2xQVHJlNFVHYVppVEQ5cGdCYWpWZE1wbzAya1dUZkZRTEhGWi1USW5FbHMtTVdaRm4yNTFRTEZQblQ2RDMzVEhMbnhwQ044OWVnNkdBWnFsS3RKam9xeU1vZmdXQTlyUy1YWGJ5YTFV?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 00:09:00 GMT"
+    },
+    {
+      "id": "07d2405630e1ee2b067cd3cbc6b8c857",
+      "title": "People Can Fly cancels two projects and confirms it will once again have to \"scale down\" its teams - Eurogamer",
       "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/elden-ring-nightreign-is-getting-another-patch-next-week-to-improve-solo-play",
-      "image_url": "https://assetsio.gnwcdn.com/ELDEN-RING-NIGHTREIGN-_-Bring-Me-to-Life-Trailer-0-10-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "summary": "Summer Games Fest & IGN Live Schedule If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News Elden Ring Nightreign Elden Ring Nightreign is getting another patch next week to improve solo play UPDATE: FromSoft confirms servers will be down for around three hours tomorrow morning. News by...",
-      "published": "Sun, 01 Jun 2025 15:58:24 GMT"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUGFuMnNfZWFBOHZuTDdvVEZMUENmb2ZaOGVuNjE3dkpQRHhjX3V3ZzlwczUzQ2xNX2JZQXdqckpCUUtJcWtMdHJsdWl0bnctUkNWRTZMWnczcGR4TnhuUTBrak9DR1U1V1E4Y2JEMndwRTF2ckZnSUFhQTljQnFEUjVkU2Y4UnBRVmdOWTk0YWM2RnZYMGc1b1ZIRG1HZTBvX3BOMDdsbXJlUnRLMnlUTm9ZdjVkcS00LXg5Y0Jwbw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 14:40:27 GMT"
     }
   ]
 }

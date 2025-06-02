@@ -1,39 +1,189 @@
 {
   "metadata": {
-<<<<<<< HEAD
-    "timestamp": "2025-06-01T21:31:12.073108",
-    "source": "topic: sports",
-    "count": 0
-=======
     "source_file": "data/news_sports.json",
-    "generation_time": "2025-06-02 04:01:47",
-    "total_articles": 3
->>>>>>> 6b4712c (/.)
+    "generation_time": "2025-06-02 13:59:51",
+    "total_articles": 20
   },
   "articles": [
     {
-      "title": "NBA Finals odds: Oklahoma City among most lopsided favorites ever against Indiana - The New York Times",
+      "id": "0d38f6ff9ec4e5c2ab7b516441eaf005",
+      "title": "Thunder vs. Pacers: How a small-market NBA Finals affects the league’s bottom line - The New York Times",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/athletic/6395382/2025/06/01/nba-finals-odds-oklahoma-city-indiana/",
-      "image_url": "https://static01.nyt.com/athletic/uploads/wp/2025/06/01133459/GettyImages-2217579241-scaled.jpg?width=1200&height=630&fit=cover",
-      "summary": "NBA Finals odds: Oklahoma City among most lopsided favorites ever against Indiana One city will soon win its first NBA championship, and the odds are saying it’s far more likely to be Oklahoma City than Indianapolis. The Thunder are heavily favored to beat the Pacers in the NBA Finals, set to start on Thursday. On BetMGM, the Thunder are -700...",
-      "published": "Sun, 01 Jun 2025 17:59:27 GMT"
+      "url": "https://www.nytimes.com/athletic/6396219/2025/06/02/nba-finals-thunder-pacers-small-market/",
+      "image_url": "https://static01.nyt.com/athletic/uploads/wp/2025/06/01155040/GettyImages-2217097557-scaled.jpg?width=1200&height=630&fit=cover",
+      "summary": "Thunder vs. Pacers: How a small-market NBA Finals affects the league’s bottom line June 2, 2025Updated 1:20 pm UTC NEW YORK — As the Indiana Pacers celebrated on their home court Saturday night, having pushed their way into the NBA Finals, the conventional wisdom was that a collective groan went out at the league’s Manhattan headquarters at the very same...",
+      "published": "Mon, 02 Jun 2025 10:51:21 GMT"
     },
     {
-      "title": "Thrilling Pacers run Knicks ragged, reach first NBA Finals in 25 years - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaN1RRVkZIV3F3bV8xN0NWUkV4Ujg4UjBkeVdxMm5rbGY3eXJRcEZIdkEtRDhRS2syNld1WDA2T3dualJKV3lnTEdrZHNva0VsVlBEZ3R4LWd5aURzcWxNaFZMOXowcnZzcDhfX0hPaU5ZWVlrdGtMMDJR?oc=5",
+      "id": "3314da45715e7a4ad59a71e624a58c14",
+      "title": "Verstappen admits Russell contact ‘shouldn’t have happened’ in Spanish GP as Dutch driver nears race ban threshold - Formula 1",
+      "source": "Formula 1",
+      "url": "https://www.formula1.com/en/latest/article/verstappen-admits-russell-contact-shouldnt-have-happened-in-spanish-gp-as.Bql9TNqnILOPTVFAI6QUP",
+      "image_url": "https://media.formula1.com/image/upload/t_16by9North/f_auto/q_auto/v1748623230/trackside-images/2025/F1_Grand_Prix_of_Spain___Practice/2217837573.jpg",
+      "summary": "Verstappen admits Russell contact ‘shouldn’t have happened’ in Spanish GP as Dutch driver nears race ban threshold Red Bull driver Max Verstappen has admitted that contact with George Russell in the Spanish Grand Prix “was not right and shouldn't have happened” – as Red Bull Team Principal Christian Horner urged his lead driver to “keep his nose clean” in upcoming...",
+      "published": "Mon, 02 Jun 2025 11:04:49 GMT"
+    },
+    {
+      "id": "86e3abeb66ed1c55ea13b3c627051331",
+      "title": "Jalen Brunson ‘overconfident’ Knicks can take next step - New York Post",
+      "source": "New York Post",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFNJZlRKY2QtblZNcThGeFpVTjZKQnhid0NxTGdzZmdoTWpXaXJ5bW1aREEwVWd6RzNFSlFiemk0c01TQVVlNkJLenkyODZzbk1GZGpsRGExa3pBSkNET2o5b3JZQTRsVVZpazRDMUFzek5fUVdlVExST3NmemI2RGJENjZfZ2o1aktKcDJhUzBhT2pFWFE?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 18:02:08 GMT"
+      "published": "Mon, 02 Jun 2025 02:53:00 GMT"
     },
     {
-      "title": "Magic Johnson Bluntly Blames Two Players for Knicks' Season-Ending Loss - Sports Illustrated",
+      "id": "7e47eb927cd37c22f2b7ee7dc985d573",
+      "title": "Maycee Barber breaks silence after shocking last-second withdrawal from UFC Vegas 107 headliner - Bloody Elbow",
+      "source": "Bloody Elbow",
+      "url": "https://bloodyelbow.com/2025/06/01/maycee-barber-breaks-silence-after-shocking-last-second-withdrawal-from-ufc-vegas-107-headliner/",
+      "image_url": "https://bloodyelbow.com/wp-content/uploads/1/2025/06/GettyImages-2218028018-scaled.jpg",
+      "summary": "Maycee Barber breaks silence after shocking last-second withdrawal from UFC Vegas 107 headliner UFC women’s flyweight contender Maycee Barber addressed Erin Blanchfield’s post-event comments in her first statement after UFC Vegas 107. Top 5 UFC flyweight contenders Maycee Barber and Erin Blanchfield were set to cap off a chaotic fight week with an intriguing UFC Vegas 107 main event on...",
+      "published": "Sun, 01 Jun 2025 23:29:20 GMT"
+    },
+    {
+      "id": "b22824c2c76ffd3af05c28eb68c10633",
+      "title": "Fantasy Baseball Week 11 Waiver-Wire Targets: It's Jac Caglianone time, as the top prospect gets the call - CBS Sports",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-11-waiver-wire-targets-its-jac-caglianone-time-as-the-top-prospect-gets-the-call/",
+      "image_url": "https://sportshub.cbsistatic.com/i/r/2025/05/30/c5663240-1ff7-47a1-9f06-94095146f6e5/thumbnail/1200x675/0b6032feeb746a55c359a116cc536f7d/gettyimages-2207749875.jpg",
+      "summary": "Power Rankings Expert Picks Standings Fantasy Baseball Fantasy Baseball Week 11 Waiver-Wire Targets: It's Jac Caglianone time, as the top prospect gets the call The next top prospect call-up is here, as the Royals are expected to promote Jac Caglianone for his MLB debut Tuesday. And yes, he should be added in all Fantasy Baseball leagues. And we should probably...",
+      "published": "Mon, 02 Jun 2025 02:23:00 GMT"
+    },
+    {
+      "id": "5eb5cbfeb7af0e62063d73ee0d9bf93a",
+      "title": "John Brenkus, founder and host of ESPN's 'Sports Science' show, dies - Yahoo Sports",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/article/john-brenkus-founder-and-host-of-espns-sports-science-show-dies-032859048.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/pILbytLgm8tUlEYp5jJgHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Nzk7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/0c4dc900-3f60-11f0-a3dd-521396b62579",
+      "summary": "Paul, Tiafoe advance in French Open John Brenkus, founder and host of ESPN's 'Sports Science' show, dies John Brenkus won six Emmy Awards for his \"Sports Science\" show. (Chance Yeh/FilmMagic) (Chance Yeh via Getty Images) Content warning: This story contains references to suicide. If you or someone you know is having thoughts of suicide and needs support now, call or...",
+      "published": "Mon, 02 Jun 2025 03:28:00 GMT"
+    },
+    {
+      "id": "47a8bcfef2f9f612742f6aaea70c4da5",
+      "title": "Top two national seeds, No. 1 seeds fall in Day 3 of NCAA baseball tournament regionals - NCAA.com",
+      "source": "NCAA.com",
+      "url": "https://www.ncaa.com/news/baseball/article/2025-06-02/top-two-national-seeds-no-1-seeds-fall-day-3-ncaa-baseball-tournament-regionals",
+      "image_url": "https://www.ncaa.com/_flysystem/public-s3/styles/large_16x9/public-s3/images/2025-06/vandy-base1.jpg?h=30c91a48&itok=J6_t4sgo",
+      "summary": "🥎 Final WCWS semifinal spots on the line | Noon ET 🏃‍♀️ DI T&F first round results 🏆 Stanford wins DI rowing title Top two national seeds, No. 1 seeds fall in Day 3 of NCAA baseball tournament regionals No. 1 Oregon’s unexpected, early exit on day two of the 2025 NCAA baseball tournament regionals was a wake-up call to...",
+      "published": "Mon, 02 Jun 2025 06:46:29 GMT"
+    },
+    {
+      "id": "11eb84edec98797434bb0ca2ddb72b9c",
+      "title": "June 1 has arrived. What does that mean for Bill Belichick and UNC? - FOX Sports",
+      "source": "FOX Sports",
+      "url": "https://www.foxsports.com/stories/college-football/bill-belichicks-unc-contract-buyout-dramatically-reduced-what-does-mean",
+      "image_url": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/06/1408/814/bill-belichick.jpg?ve=1&tl=1",
+      "summary": "June 1 has arrived. What does that mean for Bill Belichick and UNC? Updated Jun. 1, 2025 6:24 p. m. ET When Bill Belichick agreed to become North Carolina's next head football coach in December 2024, many were surprised for a variety of reasons. There was one thing in particular that stood out about his five-year, $50 million contract that...",
+      "published": "Sun, 01 Jun 2025 22:24:00 GMT"
+    },
+    {
+      "id": "299fcd81b9e58f28d641245add99c106",
+      "title": "Ryan Yarbrough adds to surprising Yankees emergence by conquering mighty Dodgers - New York Post",
+      "source": "New York Post",
+      "url": "https://nypost.com/2025/06/02/sports/ryan-yarbrough-added-to-surprising-yankees-emergence-against-dodgers/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2025/06/ryan-yarbrough-33-new-york-105724606_548380.jpg?quality=75&strip=all&w=1024",
+      "summary": "Ryan Yarbrough adds to surprising Yankees emergence by conquering mighty Dodgers Published June 2, 2025, 12:21 a. m. ET Read this article and all sports content by subscribing Now the only way to access sports columnists and more Receive subscriber-exclusive daily and team newsletters Access the Yankees beat like never before Don’t miss Greg Joyce’s text messages from The Bronx...",
+      "published": "Mon, 02 Jun 2025 04:21:00 GMT"
+    },
+    {
+      "id": "ee14060d9f08c7ed0577635b185e4bc2",
+      "title": "Mountaineers Defeat Kentucky to Advance to Super Regionals - West Virginia University Athletics",
+      "source": "West Virginia University Athletics",
+      "url": "https://wvusports.com/news/2025/6/2/baseball-mountaineers-defeat-kentucky-to-advance-to-super-regionals.aspx",
+      "image_url": "https://images.sidearmdev.com/fit?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fwvuni.sidearmsports.com%2fimages%2f2025%2f6%2f2%2fBBD08874.jpg&height=450&width=800&type=jpeg",
+      "summary": "W: Hudson, Benjamin (3-1) L: McCOY (1-2) S: Kirn, Griffin (1) Game Recap: Baseball | June 02, 2025 01:12 AM | Adam Grossman Mountaineers Defeat Kentucky to Advance to Super Regionals CLEMSON, S. C. – For the second straight season, the West Virginia University baseball team have advanced to the NCAA Super Regionals as the Mountaineers defeated Kentucky, 13-12, Sunday...",
+      "published": "Mon, 02 Jun 2025 05:20:19 GMT"
+    },
+    {
+      "id": "05d66f1889b882f9ee4d95c83d248738",
+      "title": "Vancouver Whitecaps lose Concacaf Champions Cup final to Cruz Azul - MLSsoccer.com",
+      "source": "MLSsoccer.com",
+      "url": "https://www.mlssoccer.com/news/vancouver-whitecaps-lose-concacaf-champions-cup-final-to-cruz-azul",
+      "image_url": "https://images.mlssoccer.com/image/private/t_q-best/mls/sym2tjroupsomwrnhabm.jpg",
+      "summary": "Vancouver Whitecaps lose Concacaf Champions Cup final to Cruz Azul Vancouver Whitecaps FC fell short in the 2025 Concacaf Champions Cup final on Sunday night, dropping a 5-0 decision to LIGA MX side Cruz Azul at Estadio Olímpico Universitario in Mexico City. Cruz Azul were ruthless in transition moments, with Ignacio Rivero and Lorenzo Faravelli both scoring inside 30 minutes,...",
+      "published": "Mon, 02 Jun 2025 03:10:44 GMT"
+    },
+    {
+      "id": "42b3b61f1ad89d51a937b247a00f4335",
+      "title": "UNC Falls to Oklahoma, Setting Up Winner-Take-All Finale in Regional - 247Sports",
+      "source": "247Sports",
+      "url": "https://247sports.com/college/north-carolina/article/unc-baseball-falls-to-oklahoma-setting-up-winner-take-all-finale-in-regional-250519241/",
+      "image_url": "https://s3media.247sports.com/Uploads/Assets/169/120/13120169.jpg?width=1200&height=628&crop=1.91:1&fit=cover",
+      "summary": "JOIN & SAVE! 60% off annual VIP membership SALE! 60% Off InsideCarolina. com Annual VIP Membership today! Stay up to date on all the sports you love with CBS Sports HQ UNC Falls to Oklahoma, Setting Up Winner-Take-All Finale in Regional The Tar Heels arrive in position to sweep their way through to the super regional round, but instead suffer...",
+      "published": "Mon, 02 Jun 2025 05:35:00 GMT"
+    },
+    {
+      "id": "8c1033c0e35cb85c21bb3a3535ba5ed2",
+      "title": "Paris Erupts in Celebrations, Riots After PSG Wins Champions League - WSJ",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/world/europe/paris-france-riots-psg-champions-league-1dc5709d",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 11:57:00 GMT"
+    },
+    {
+      "id": "d60d76d5853580c4ee1d9ca9e18c3857",
+      "title": "Scottie Scheffler's Wife Meredith Scheffler Gets Strong Message From PGA Tour Golfer - Athlon Sports",
+      "source": "Athlon Sports",
+      "url": "https://athlonsports.com/golf/scottie-scheffler-wife-girlfriend-kids-meredith-scheffler-bennett",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 17:05:00 GMT"
+    },
+    {
+      "id": "8a171029dd5d0285e393614de4396e46",
+      "title": "Yankees Avoid Sweep vs. Dodgers But Potentially Lose Two Key Players - Sports Illustrated",
       "source": "Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWQtYURjM1VhTWhvVlEyZkZjbi1qZFRIUEdtd2RpNVFnRVhua0RPNEJuYjhzWFVmZldObndVUzBuTktwSzNhczNyMlRNNWprb1o0MkIyQUt0Ymh0MGhCVm1VZ0JrazFBVEJXNTRyMzF6WG9VTU13RV96WENGU1dQOERtZ3QyTUhjRE51cDN6Z2ptQzFOdDJDNA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 19:30:06 GMT"
+      "url": "https://www.si.com/mlb/yankees-avoid-sweep-vs-dodgers-but-potentially-lose-two-key-players",
+      "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5646,h_3175,x_0,y_64/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01jwq9k7wxnh1vn1e1n9.jpg",
+      "summary": "Yankees Avoid Sweep vs. Dodgers But Potentially Lose Two Key Players New York Yankees outfielder Jasson Dominguez / Jonathan Hui-Imagn Images The New York Yankees managed to avoid being swept during their World Series rematch against the Los Angeles Dodgers this weekend. After losing Games 1 and 2 at Dodger Stadium on Friday and Saturday, the Yankees managed to get...",
+      "published": "Mon, 02 Jun 2025 03:13:30 GMT"
+    },
+    {
+      "id": "641466956f58234cb9525a348e708cac",
+      "title": "See photos: Miguel Angel Jiménez wins the Principal Charity Classic - The Des Moines Register",
+      "source": "The Des Moines Register",
+      "url": "https://www.desmoinesregister.com/picture-gallery/sports/golf/2025/06/01/photos-final-round-of-the-principal-charity-classic-pga-wakonda-club-miguel-jimnez/83919805007/",
+      "image_url": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/01/PDEM/83982431007-jiminez-5.JPG?crop=7007%2C3943%2Cx0%2Cy364&width=1200",
+      "summary": "Revelry Room opens with comfort food, cocktails in downtown Des Moines Students at Southeast Warren, North Polk tie in Student of the Week poll Years of DNA testing leads to arrest in decades-old Iowa cold case murder Food and cocktails at Revelry Room at Renaissance Des Moines Savery Hotel Nominations for 2025 Wall of Witnesses are open through June 13...",
+      "published": "Mon, 02 Jun 2025 02:49:14 GMT"
+    },
+    {
+      "id": "01f14be220e47146b93baca1dd69e08e",
+      "title": "How to watch Arkansas vs. Creighton Game 2 channel stream, game time - 247Sports",
+      "source": "247Sports",
+      "url": "https://247sports.com/college/arkansas/article/how-to-watch-arkansas-baseball-creighton-ncaa-tournament-channel-stream-game-time-250484379/",
+      "image_url": "https://s3media.247sports.com/Uploads/Assets/969/838/9838969.png?width=1200&height=628&crop=1.91:1&fit=cover",
+      "summary": "JOIN TODAY: 60% Off Annual VIP Membership to HawgSports Arkansas dismantles Creighton to advance to Super Regionals, 8-3 SALE! 60% Off HawgSports. com Annual VIP Membership today! How to watch Arkansas vs. Creighton Game 2 channel stream, game time Here's everything you need to know to tune in for Arkansas' NCAA Tournament matchup against Creighton in the Fayetteville Regional final...",
+      "published": "Sun, 01 Jun 2025 22:41:58 GMT"
+    },
+    {
+      "id": "c6508abe5cdfcd26106a354d3143dd53",
+      "title": "No. 2 Baseball comes up short against UTSA, 9-7 - University of Texas Athletics - University of Texas Athletics",
+      "source": "University of Texas Athletics",
+      "url": "https://texaslonghorns.com/news/2025/5/31/no-2-baseball-comes-up-short-against-utsa-9-7.aspx",
+      "image_url": "https://dxa7m90h2v1am.cloudfront.net/images/2025/6/1/team-sss_BSBvUTSA-NCAAregional3074_copy.jpg?preset=large.socialmediaimage",
+      "summary": "W: Kendall Dove (3-0) L: Grubbs, Max (6-2) S: Braylon Owens (3) Game Recap: Baseball | 05. 31.2025 No. 2 Baseball comes up short against UTSA, 9-7 Longhorns to face No. 3 seed Kansas State in elimination game on Sunday AUSTIN, Texas — The top-seeded University of Texas baseball team fell to second-seeded UTSA, 9-7, in front of 7,953 fans...",
+      "published": "Sun, 01 Jun 2025 06:37:12 GMT"
+    },
+    {
+      "id": "dff5cc8fc3b173ef31d759fb0e56cc19",
+      "title": "Season ends for Husker baseball with historic loss to Oklahoma - KETV",
+      "source": "KETV",
+      "url": "https://www.ketv.com/article/husker-baseball-season-ends-in-big-loss-oklahoma/64938595",
+      "image_url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/baseball-683b574727835.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "summary": "Husker baseball season ends in lopsided loss to Oklahoma The Sooners get hot early to hand Nebraska its biggest loss in program NCAA Tournament history Updated: 2:37 PM CDT Jun 1, 2025 huskers vs holy cross SOURCE: Husker athletics The Nebraska baseball team sees its season come to an end on Sunday with a 17-1 loss to long-time rival Oklahoma.",
+      "published": "Sun, 01 Jun 2025 19:37:00 GMT"
+    },
+    {
+      "id": "f4f5b2d12531b966979215616c5475b6",
+      "title": "Rockies Become 1st Team in Modern MLB History to Lose 50 Games Before Winning 10 Games - Bleacher Report",
+      "source": "Bleacher Report",
+      "url": "https://bleacherreport.com/articles/25201095-rockies-become-1st-team-modern-mlb-history-lose-50-games-winning-10-games",
+      "image_url": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2218139425_large_image.jpg?w=3800&h=2000",
+      "summary": "Yankees Avoid Sweep by Dodgers 😮‍💨 Photo by Jim McIsaac/Getty Images Rockies Become 1st Team in Modern MLB History to Lose 50 Games Before Winning 10 Games It's been a historic season for the Colorado Rockies, but not in a good way. The Rockies lost 5-3 to the New York Mets on Sunday, dropping their eighth consecutive game to move...",
+      "published": "Sun, 01 Jun 2025 20:59:26 GMT"
     }
   ]
 }

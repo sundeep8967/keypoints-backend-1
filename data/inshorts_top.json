@@ -1,39 +1,189 @@
 {
   "metadata": {
-<<<<<<< HEAD
-    "timestamp": "2025-06-01T21:31:02.570851",
-    "source": "top news",
-    "count": 0
-=======
     "source_file": "data/news_top.json",
-    "generation_time": "2025-06-02 04:20:31",
-    "total_articles": 3
->>>>>>> 6b4712c (/.)
+    "generation_time": "2025-06-02 13:03:12",
+    "total_articles": 20
   },
   "articles": [
     {
-      "title": "Ukraine launches massive drone strike on air bases deep inside Russia - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2025/06/01/ukraine-drone-strikes-russia",
-      "image_url": "https://images.axios.com/zMvijuKU7CcXHD8TDI2Sn0YqjxQ=/0x310:6141x3764/1366x768/2025/06/01/1748787503714.jpg",
-      "summary": "Ukraine launches massive drone strike on air bases deep inside Russia Soldiers from the artillery crew of the Striletskyi Special Forces Police Battalion of the Main Department of the National Police in the Zaporizhzhia region prepare for a combat mission in the Zaporizhzhia region, Ukraine, on May 23, 2025. Photo: Dmytro Smolienko/Ukrinform/NurPhoto via Getty Images Ukraine launched unprecedented drone strikes...",
-      "published": "Sun, 01 Jun 2025 19:12:53 GMT"
+      "id": "10b1a5beae44e94f2a5bc0c19ae5c234",
+      "title": "Boulder attack updates: Suspect booked on charges after 'act of terror' with 'makeshift flamethrower' - ABC News",
+      "source": "ABC News",
+      "url": "https://abcnews.go.com/US/victims-attack-peal-street-mall-boulder-colorado-police/story?id=122401509",
+      "image_url": "https://i.abcnewsfe.com/a/ad42b3c2-362a-4a48-9cc9-e11e19fa304b/boulder-4-gty-gmh-250601_1748825025223_hpMain_16x9.jpg?w=1600",
+      "summary": "Boulder attack updates: Suspect booked on charges after 'act of terror' with 'makeshift flamethrower' Witnesses said the suspect yelled \"Free Palestine\" during the attack Sunday. ByLeah Sarnoff, Vanessa Navarrete, Luke Barr, and Jeffrey Cook Boulder ‘targeted terror attack’ latest in ‘antisemitic’ violenceA suspect was booked on a range of charges after allegedly carrying out an \"act of terrorism\" on a...",
+      "published": "Mon, 02 Jun 2025 04:52:30 GMT"
     },
     {
-      "title": "Red Cross says at least 21 killed and dozens shot in Gaza aid incident - BBC",
+      "id": "a67f650db4fa12e60e40deec04597904",
+      "title": "Ukraine drone attacks on Russia spark fires, disrupt traffic, officials say - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/ukraine-drone-attacks-russia-spark-fires-disrupt-traffic-officials-say-2025-06-02/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 04:46:16 GMT"
+    },
+    {
+      "id": "3fe64d555800db3d846be21938476dda",
+      "title": "Ukraine and Russia to Meet for Second Round of Talks as Attacks Escalate - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/02/world/europe/ukraine-russia-istanbul-talks.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 08:21:01 GMT"
+    },
+    {
+      "id": "aabe3b11a0067f91176a8ad0904f6aab",
+      "title": "Poland election: Conservative historian Nawrocki wins presidential vote - BBC",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c991j01lym3o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c91a/live/9f1b45d0-3edb-11f0-a5a9-d3df92c0769e.jpg",
-      "summary": "Red Cross says at least 21 killed and dozens shot in Gaza aid incident Bodies were brought to Nasser hospital after the incident A \"mass casualty influx\" of people, many with gunshot or shrapnel wounds, was received at a Red Cross field hospital in southern Gaza, the organisation said, following disputed reports about an incident near an aid distribution centre...",
-      "published": "Sun, 01 Jun 2025 19:29:50 GMT"
+      "url": "https://www.bbc.com/news/articles/cx27897vedno",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f3a0/live/4ed68b70-3f67-11f0-835b-310c7b938e84.jpg",
+      "summary": "Conservative historian wins Polish presidential vote Karol Nawrocki is Poland's next president With all votes counted, right-wing historian Karol Nawrocki has been elected Poland's new president, the state electoral commission (PKW) said. PKW said Nawrocki won 50. 9% percent of the votes – ahead of Warsaw's liberal mayor Rafal Trzaskowski on 49. 1% percent. It's a sensational turnaround from the...",
+      "published": "Mon, 02 Jun 2025 10:15:37 GMT"
     },
     {
-      "title": "Brewing tariff court battles won’t spike White House leverage in trade talks, Lutnick says - Politico",
+      "id": "b44f199d3cf586fb435f559d950f370d",
+      "title": "UK has fingers in its ears over Trump’s defense threat - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/uk-trumps-defense-threat-strategic-defense-ukraine-russia-war-nato-starmer-europe/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/05/30/12856599-scaled.jpg",
+      "summary": "UK has fingers in its ears over Trump’s defense threat",
+      "published": "Mon, 02 Jun 2025 03:24:00 GMT"
+    },
+    {
+      "id": "3bbd340a2abbba5e087125304248bbae",
+      "title": "China says US is ‘provoking frictions’ as tensions flare despite trade truce - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/01/business/china-response-trump-us-trade-truce-intl-hnk",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap25143646197887-1.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Flamethrower used in Colorado attack. Russia and Ukraine set to meet for peace talks. Trump’s mass firings on hold. China says US is ‘provoking frictions’ as tensions flare despite trade truce Updated 1:44 AM EDT, Mon June 2, 2025 A worker walks by containers at Yangluo Port on the Yangtze River in Wuhan, central China's Hubei Province, on May 23,...",
+      "published": "Mon, 02 Jun 2025 05:44:00 GMT"
+    },
+    {
+      "id": "88b4cb806f1ff309a25f8526d94274f4",
+      "title": "Tulsa's new Black mayor proposes $100M trust to 'repair' impact of 1921 Race Massacre - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/tulsas-new-black-mayor-proposes-100m-trust-repair-impact-1921-race-mas-rcna210304",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250602-Monroe-Nichols-RS-8e5ddd.jpg",
+      "summary": "Morning Rundown: Suspect arrested in Colorado fire attack, Supreme Court’s ‘shadow docket,’ and some trans Americans leave the U. S. Tulsa's new Black mayor proposes $100M trust to 'repair' impact of 1921 Race Massacre The plan by Mayor Monroe Nichols, the first Black mayor of Oklahoma's second-largest city, was announced Sunday. Tulsa Mayor Monroe Nichols at Greenwood Cultural Center in...",
+      "published": "Mon, 02 Jun 2025 09:29:19 GMT"
+    },
+    {
+      "id": "30dd10ea127c695f286c77999c352c95",
+      "title": "11 people stabbed at Salem Union Gospel Mission men's shelter, suspect in custody - KGW",
+      "source": "KGW",
+      "url": "https://www.kgw.com/article/news/crime/11-people-stabbed-salem-union-gospel-mission-suspect-in-custody/283-d157b5ae-1562-4366-b8d9-b47067f75ef7",
+      "image_url": "https://media.kgw.com/assets/KGW/images/c0abe5bf-f0a0-4f0e-9c4d-8c433da6cfc6/20250602T060743/c0abe5bf-f0a0-4f0e-9c4d-8c433da6cfc6_1140x641.jpg",
+      "summary": "11 people stabbed at Salem Union Gospel Mission men's shelter, suspect in custody Salem police said 11 people were stabbed at Union Gospel Mission men's shelter Sunday evening, with all victims hospitalized and a suspect in custody. Published: 8:46 PM PDT June 1, 2025 Updated: 10:53 PM PDT June 1, 2025 SALEM, Ore. — Eleven people were stabbed Sunday night...",
+      "published": "Mon, 02 Jun 2025 03:46:00 GMT"
+    },
+    {
+      "id": "ff6875a33edf213812c39a4b9416a37e",
+      "title": "Capitol agenda: Thune stares down ‘Medicaid moderates’ - Politico",
       "source": "Politico",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdk95djBOc2N0MUQxdjlUWTk3Sl84YU5RX2dhSWxoU3FPRUpnVExiVUU4TUROVC02RENPQlBJQUVPbEdLVFZfc2x4SFM4Q21reUk0clMwZmRUNU96SnNOVjRnSUVwcm1YU0tnVzFIRXp2aUhVcGpxYWJuUUI0UzNVTFF6MEZCaXVjbG5OYQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHo5dTV5cjZTcTgzeHc1QWc0UDQyeUtEd1hiWlRFVjVEN1d4a1N3UHR4dzJnWkEtR1k2WHdqS0kxOFJlSFo5VWFXcXJ5bWY2X2xVOC1QSEdScWNfV1NOM3RDNjVMNHdSeFpzWUE3bmJ0RDkyNDhaX1JCUjdSQTd3UkdsN2JJSXd4dXpORDhFdTFmVUhDODdISG9vU0o1UGlQZlhVRlVYY3lyWnQweERFbzFMbi1FZTdhOEE?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 17:20:40 GMT"
+      "published": "Mon, 02 Jun 2025 12:00:00 GMT"
+    },
+    {
+      "id": "1617a51d1248ddb1bc9b70422186eb8a",
+      "title": "Boulder suspect booked on multiple charges as lawmakers condemn attack on Jewish community event – live - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/jun/02/donald-trump-tariffs-white-house-us-politics-live-news",
+      "image_url": "https://i.guim.co.uk/img/media/c5df3ef09e8ab75c3f1f65310454c58ff2d4d0e4/652_0_2703_2164/master/2703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a3428293dc4a822eddf5ab2716bff989",
+      "summary": "Fund independent journalism with 30% off per year Boulder suspect booked on multiple charges as lawmakers condemn attack on Jewish community event in Colorado – live Charges include felony use of incendiary devices after number of people injured in attack in Colorado Lucy Campbell (now) and Tom Ambrose (earlier) First published on Mon 2 Jun 2025 05. 46 EDT Eight...",
+      "published": "Mon, 02 Jun 2025 09:46:00 GMT"
+    },
+    {
+      "id": "aaaf76eec91d3589c1be17c396f0574d",
+      "title": "Terrified tourists run for their lives as Mount Etna erupts, sending gigantic plume of ash more than a mile in - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/news/article-14771899/Terrified-tourists-run-lives-Mount-Etna-erupts-sending-gigantic-plume-ash-sky.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/02/11/98959783-0-image-m-42_1748861931787.jpg",
+      "summary": "Terrified tourists run for their lives as Mount Etna erupts, sending gigantic plume of ash more than a mile into the sky PUBLISHED: 06:21 EDT, 2 June 2025 | UPDATED: 08:42 EDT, 2 June 2025 Huge clouds of ash more than a mile high have erupted from Mount Etna, triggered by an avalanche of boiling rock hurtling down the side...",
+      "published": "Mon, 02 Jun 2025 11:52:35 GMT"
+    },
+    {
+      "id": "07c79992fcb5a2a84b7552dac9408065",
+      "title": "Lion kills businessman at luxury safari lodge in Namibia after he stepped out of tent to use toilet - CBS News",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/lion-kills-man-luxury-lodge-left-tent-use-toilet-namibia/",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/02/f00cd279-7ed6-451f-839b-69048edfa766/thumbnail/1200x630g7/bd5dcd5fd5913c2f9b237483298bae3b/gettyimages-1491949273.jpg?v=15603985a4508c8e7bc83d8e4e73c5d0",
+      "summary": "Lion kills businessman at luxury safari lodge in Namibia after he stepped out of tent to use toilet Updated on: June 2, 2025 / 6:24 AM EDT / CBS/AFP A lion killed a man at a luxury lodge in the remote northwest of Namibia, authorities said. The victim — identified by local media as well-known businessman Bernd Kebbel — was...",
+      "published": "Mon, 02 Jun 2025 10:09:00 GMT"
+    },
+    {
+      "id": "db4309cf58f479a81a4c473cb350aab0",
+      "title": "At least 200 killed as floods submerge Nigerian trading hub - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/africa/least-200-killed-floods-submerge-nigerian-trading-hub-rcna210303",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250602-Nigeria-2-RS-d6c423.jpg",
+      "summary": "Morning Rundown: Suspect arrested in Colorado fire attack, Supreme Court’s ‘shadow docket,’ and some trans Americans leave the U. S. At least 200 killed as floods submerge Nigerian trading hub No survivors are expected after torrential rainfall unleashed the flood on the town of Mokwa, a farming region near the River Niger, a local official said. Mokwa, Nigeria, on Friday...",
+      "published": "Mon, 02 Jun 2025 09:05:23 GMT"
+    },
+    {
+      "id": "09b896540915d8ed11b4ab827ec90b47",
+      "title": "China warns US not to ‘play with fire’ on Taiwan as Hegseth brands Beijing ‘imminent’ threat - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/hegseth-taiwan-china-united-states-trump-foreign-policy/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/01/13091093-scaled.jpg",
+      "summary": "China warns US not to ‘play with fire’ on Taiwan as Hegseth brands Beijing ‘imminent’ threat",
+      "published": "Sun, 01 Jun 2025 11:45:00 GMT"
+    },
+    {
+      "id": "1ee61be20bf29f862e816b8b6504aeaf",
+      "title": "Oil leaps more than 3% after OPEC+ keeps output increase unchanged - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/commodities/oil-rebounds-after-opec-sticks-same-output-hike-july-vs-june-2025-06-01/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 11:38:01 GMT"
+    },
+    {
+      "id": "45973a29e3c295b691ef8b264837b6f4",
+      "title": "Global shares slide as Russia-Ukraine conflict, OPEC+ output plan push oil prices higher - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/markets-tariffs-oil-russia-stocks-57207d7b06ab066c191415a126813052",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Mon, 02 Jun 2025 08:58:00 GMT"
+    },
+    {
+      "id": "bcaeb4fd58ed1c7effb1c39144f0a303",
+      "title": "Flight path shake-up promises quicker flights and fewer delays - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1e69qv1qwjo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/cc43/live/841b73f0-3f84-11f0-bd50-3fddfb5eed43.jpg",
+      "summary": "Quicker flights promised in flight path shake-up Plans to fast-track the remodelling of the UK's flight paths could lead to shorter journey times, fewer delays and more flights for passengers, the government says. Ministers are set to announce the creation of the UK Airspace Design Service (UKADS) later which will re-design the routes planes must take over UK airspace -...",
+      "published": "Mon, 02 Jun 2025 09:56:41 GMT"
+    },
+    {
+      "id": "48b1d3f2b7f4c72d0a28183d5e3669e2",
+      "title": "Nvidia: False Narrative Mistake (NASDAQ:NVDA) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4791539-nvidia-false-narrative-mistake",
+      "image_url": "https://seekingalpha.com/samw/static/images/bull-and-bear.32d6d115c.png",
+      "summary": "Home page Seeking Alpha - Power to Investors Search for Symbols, analysts, keywords Getting lost on Seeking Alpha is annoying; being lost in the stock market is worse. Sign up now. Seeking Alpha - Power to Investors",
+      "published": "Mon, 02 Jun 2025 00:00:00 GMT"
+    },
+    {
+      "id": "df40b51790ba0a74908e8c5ca1bb85b1",
+      "title": "Rune Factory: Guardians of Azuma Review - RPG Site",
+      "source": "RPG Site",
+      "url": "https://www.rpgsite.net/review/17576-rune-factory-guardians-azuma-review",
+      "image_url": "https://images.rpgsite.net/image/da49c9a1/148189/article/Rune-Factory-Guardians-of-Azuma_20250318_07.png",
+      "summary": "Rune Factory: Guardians of Azuma Review by Junior Miyai on 02 June, 2025 If you'll spare me a moment of indulgence, I want to talk briefly about progression systems in RPGs. This ties into how I feel about Rune Factory: Guardians of Azuma, but if you're only here for the quick and dirty: it's a decent farming/village RPG with middling...",
+      "published": "Mon, 02 Jun 2025 07:05:11 GMT"
+    },
+    {
+      "id": "4d2a282364e9183316cb85e6d389f9a0",
+      "title": "Elden Ring Nightreign is now easier for solo players - Eurogamer",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/elden-ring-nightreign-is-now-easier-for-solo-players",
+      "image_url": "https://assetsio.gnwcdn.com/elden-ring-nightreign_PNlB4xq.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "Summer Games Fest & IGN Live Schedule If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News Elden Ring Nightreign Elden Ring Nightreign is now easier for solo players News by Ed Nightingale Deputy News Editor FromSoftware has patched Elden Ring Nightreign to make it easier for solo...",
+      "published": "Mon, 02 Jun 2025 11:46:42 GMT"
     }
   ]
 }
