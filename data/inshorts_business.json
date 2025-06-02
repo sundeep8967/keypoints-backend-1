@@ -1,25 +1,30 @@
 {
   "metadata": {
-<<<<<<< HEAD
-    "timestamp": "2025-06-01T21:31:07.356758",
-    "source": "topic: business",
-    "count": 0
-=======
     "source_file": "data/news_business.json",
-    "generation_time": "2025-06-02 04:07:54",
-    "total_articles": 3
->>>>>>> 6b4712c (/.)
+    "generation_time": "2025-06-02 02:11:52",
+    "total_articles": 20
   },
   "articles": [
     {
-      "title": "Big Tech Is Back in S&P 500 Driver’s Seat as Profit Engines Hum - Bloomberg",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-01/big-tech-is-back-in-s-p-500-driver-s-seat-as-profit-engines-hum",
+      "id": "2199c168df4c6477bc2320d227281084",
+      "title": "Oil prices jump after OPEC+ agrees to another sharp production hike - MarketWatch",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-set-to-drop-more-as-opec-agrees-to-another-sharp-production-hike-077766c7",
       "image_url": null,
-      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
-      "published": "Sun, 01 Jun 2025 15:00:00 GMT"
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 20:00:00 GMT"
     },
     {
+      "id": "e3b670fb95c0aabd85a89ab7c1052edc",
+      "title": "US Futures Slip on Trump Tariffs, Crude Surges - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-01/us-futures-slip-on-trump-tariffs-crude-surges-markets-wrap",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Sun, 01 Jun 2025 23:31:15 GMT"
+    },
+    {
+      "id": "b7cca5516cb902d513b3f675533a8e86",
       "title": "US Steel workers see hope of job security in deal with Japan’s Nippon - Financial Times",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/89e6444d-9ff2-4201-8713-2421cb199d6e",
@@ -28,12 +33,157 @@
       "published": "Sun, 01 Jun 2025 10:00:58 GMT"
     },
     {
-      "title": "S&P 500 scores best May since 1990, but stocks end month with fresh tariff worries - MarketWatch",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/s-p-500-scores-best-may-since-1990-but-stocks-end-month-with-fresh-tariffs-worries-f605410e",
+      "id": "4b1ef0a5a54fc2095feaac98483b9dea",
+      "title": "Taser Boss Tops Ranking of Highest-Paid CEOs, With $165 Million. Here’s the List. - WSJ",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/business/rick-smith-axon-ceo-pay-package-2024-6e864a64",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Fri, 30 May 2025 22:32:00 GMT"
+      "published": "Sun, 01 Jun 2025 09:30:00 GMT"
+    },
+    {
+      "id": "33cb480de3bc9ab4cf3e9d218dccbd1b",
+      "title": "Big Tech Is Back in S&P 500 Driver’s Seat as Profit Engines Hum - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-01/big-tech-is-back-in-s-p-500-driver-s-seat-as-profit-engines-hum",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Sun, 01 Jun 2025 15:00:00 GMT"
+    },
+    {
+      "id": "96958edd70f912dcfc9e8b02441aa483",
+      "title": "FDA approves Moderna’s new lower-dose COVID-19 vaccine - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/covid19-moderna-vaccine-fda-84293ee6799dfbbe4e66dce06022afae",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sat, 31 May 2025 19:17:00 GMT"
+    },
+    {
+      "id": "383141007dba57262bfe2990a841a366",
+      "title": "Blue Origin performs 12th crewed New Shepard suborbital flight - SpaceNews",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/blue-origin-performs-12th-crewed-new-shepard-suborbital-flight/",
+      "image_url": "https://spacenews.com/wp-content/uploads/2025/05/ns32-liftoff.jpeg",
+      "summary": "Covering the business and politics of space Blue Origin performs 12th crewed New Shepard suborbital flight Blue Origin's New Shepard lifts off on the NS-32 suborbital mission May 31. Credit: Blue Origin REYKJAVÍK, Iceland — Blue Origin sent six people to space on a suborbital spaceflight May 31 that the company’s chief executive says is both a good business and...",
+      "published": "Sat, 31 May 2025 20:12:06 GMT"
+    },
+    {
+      "id": "63f2e0b2a62c73c7112e291b18be82e1",
+      "title": "Stock futures inch lower to kick off start of the new trading month: Live updates - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/01/stock-market-today-live-updates.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108152558-1748617567044-gettyimages-2217065571-AFP_48N3423.jpeg?v=1748617751&w=1920&h=1080",
+      "summary": "Stock futures inch lower to kick off start of the new trading month: Live updates A trader works on the floor of the New York Stock Exchange (NYSE) at the opening bell on May 30, 2025, in New York City. Angela Weiss | AFP | Getty Images Stock futures fell on Sunday as Wall Street looks to the start of...",
+      "published": "Sun, 01 Jun 2025 22:24:00 GMT"
+    },
+    {
+      "id": "0d70b2da112f4cc29a65c2eb965fbeec",
+      "title": "Crypto market’s weekly winners and losers – QNT, DEXE, WIF, FARTCOIN - AMBCrypto",
+      "source": "AMBCrypto",
+      "url": "https://ambcrypto.com/crypto-market-weekly-review-1-june/",
+      "image_url": "https://ambcrypto.com/wp-content/uploads/2025/06/Ritika-1000x600.webp",
+      "summary": "Home > News > Crypto market’s weekly winners and losers – QNT, DEXE, WIF, FARTCOIN Crypto market’s weekly winners and losers – QNT, DEXE, WIF, FARTCOIN The market closed H1 2025. Here’s a quick look as we move into the second half. Top weekly movers: DeXe [DEXE], Quant [QNT], and SPX6900 [SPX] saw extreme price surges. Top weekly losers: dogwifhat...",
+      "published": "Sun, 01 Jun 2025 19:02:31 GMT"
+    },
+    {
+      "id": "8a100745a8c66da5f9d3b32f7d8fa303",
+      "title": "Newark Airport to open its shuttered runway Monday, 13 days ahead of schedule - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/newark-airport-open-shuttered-runway-rcna210245",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250512-newark-airport-vl-917a-0f48ad.jpg",
+      "summary": "Newark Airport to open its shuttered runway Monday, 13 days ahead of schedule The planned $121 million project began in early March and was set to be finished on June 15, according to the Port Authority of New York and New Jersey. Newark Liberty International Airport in New Jersey on May 7. Seth Wenig / AP file Create your free...",
+      "published": "Sun, 01 Jun 2025 20:45:54 GMT"
+    },
+    {
+      "id": "56d85fad4e197c38deee13e0d557c814",
+      "title": "Google says it will appeal online search antitrust decision - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/google-says-it-will-appeal-online-search-antitrust-decision-2025-05-31/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sat, 31 May 2025 15:42:42 GMT"
+    },
+    {
+      "id": "72240e8783a889908343ddcb8ba0fc9e",
+      "title": "This Week In Space podcast: Episode 163 — The Trials of Starship - Space",
+      "source": "Space",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-163-the-trials-of-starship",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/TbXQGCu9kia4fb6UT7RYLN.jpg",
+      "summary": "Starship Flight 9 Launch Failure Entertainment Space Movies & Shows This Week In Space podcast: Episode 163 — The Trials of Starship By Space. com Staff published 2 days ago When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. The Trials of Starship - Starship Flight Test 9 - YouTube On...",
+      "published": "Sat, 31 May 2025 12:36:53 GMT"
+    },
+    {
+      "id": "c115ffd1a9f72fae69eb99b6ecea8a38",
+      "title": "Analyst sets date when Nvidia stock will hit $200 - Finbold",
+      "source": "Finbold",
+      "url": "https://finbold.com/analyst-sets-date-when-nvidia-stock-will-hit-200/",
+      "image_url": "https://assets.finbold.com/uploads/2025/05/Analyst-sets-date-when-Nvidia-stock-will-hit-200.jpg",
+      "summary": "Analyst sets date when Nvidia stock will hit $200 An analyst has identified a technical setup in Nvidia’s (NASDAQ: NVDA) chart that could push the stock toward $200 despite the recent pullback. Notably, at the close of the last trading session, the semiconductor giant was trading at $135. 13, down nearly 3% for the day. However, even with this short-term...",
+      "published": "Sat, 31 May 2025 12:19:11 GMT"
+    },
+    {
+      "id": "760d9604950dffd4feed9568cd88b076",
+      "title": "Trump administration prepares to ease big bank rules - Politico",
+      "source": "Politico",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWDVtWXJYYUlRcDRwN3NRV2NXcS14a01fdVpLRUZINkFkRHh1Q1IxdjJabnpQR3pfZms3Q3NfaFhHVG1rb0htRS0zLXZUZ2Rla0NZQUFjSEFUVUJrcE9uUWNmMldkenZHdzl2Mkg4QjNYa1ZPZjcxeHluTl9MRzNOWjBydjFCTnhHWUN2OGNrZWg5aWFKM05URzFxWGlCZFgtOTE1YQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 31 May 2025 20:00:00 GMT"
+    },
+    {
+      "id": "0fc15ac16ebaa73407c95ca368494bd6",
+      "title": "Charting the Global Economy: US GDP Falls on Larger Trade Hit - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-05-31/world-economy-latest-us-gdp-contracted-in-first-quarter-on-trade-hit",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Sat, 31 May 2025 09:00:00 GMT"
+    },
+    {
+      "id": "8d00bc6cde96054af26310f019c22f42",
+      "title": "Vice President JD Vance Just Delivered Incredible News to Bitcoin Investors - The Motley Fool",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2025/06/01/vice-president-jd-vance-just-delivered-incredible/",
+      "image_url": "https://g.foolcdn.com/editorial/images/819932/gold-coin-with-bitcoin-symbol-on-it-cryptocurrency-btc.jpg",
+      "summary": "Vice President JD Vance Just Delivered Incredible News to Bitcoin Investors By Dominic Basulto – Jun 1, 2025 at 6:00AM Vice President JD Vance gave the keynote speech at the Bitcoin 2025 conference in Las Vegas. Vance highlighted recent moves by the White House to create pro-crypto policies. Vance also emphasized that Bitcoin is a long-term strategic asset for the...",
+      "published": "Sun, 01 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "id": "a183fac4ced4d19a43a91e5e8e937b53",
+      "title": "United-JetBlue Tie Up Leaves American Airlines Bloodied - Live and Let's Fly",
+      "source": "Live and Let's Fly",
+      "url": "https://liveandletsfly.com/united-jetblue-tie-up-leaves-american-airlines-bloodied/",
+      "image_url": null,
+      "summary": "Verify you are human by completing the action below. liveandletsfly. com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sun, 01 Jun 2025 17:39:12 GMT"
+    },
+    {
+      "id": "a8351d015381655ce6dbbac8e1bc36d2",
+      "title": "‘It Is Going to Happen’: JPMorgan CEO Jamie Dimon Warns of Crack in the Bond Market - Barron's",
+      "source": "Barron's",
+      "url": "https://www.barrons.com/articles/jpmorgan-ceo-jamie-dimon-bond-market-bitcoin-c7c620cc",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sat, 31 May 2025 15:23:00 GMT"
+    },
+    {
+      "id": "b59eadcbe077ef9fe733d080cfba561a",
+      "title": "What To Expect in the Markets This Week - Investopedia",
+      "source": "Investopedia",
+      "url": "https://www.investopedia.com/what-to-expect-in-the-markets-this-week-11744837",
+      "image_url": "https://www.investopedia.com/thmb/drLJ6NPn448neAcuNF6JcJG6rj4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_JobFairSign_GettyImages-2021277707-6c537765b6174cecb9659e369b6cd610.jpg",
+      "summary": "What To Expect in the Markets This Week Coming up: May Jobs Report, Fed Chair Powell's Comments, US Trade Deficit, Consumer Credit, Earnings from CrowdStrike, Broadcom, Dollar Tree, Five Below, Lululemon Published June 01, 2025 05:00 AM EDT The scheduled Friday release of the May U. S. jobs report will show whether the labor market continues to exhibit strength. Paul...",
+      "published": "Sun, 01 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "id": "8b833d18f82505c4556d0bdbf52ffe11",
+      "title": "The influencer whose tweet led to a ban on disposable vapes - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c77137xrrepo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8e17/live/149343e0-3d32-11f0-b1db-7b03bfaa8894.png",
+      "summary": "The influencer whose tweet led to a ban on disposable vapes BBC Scotland's environment correspondent Laura Young's first social media post in 2022 asked \"who's with me\" in supporting a ban There are not many times when a single social media post can trigger a snowball effect which leads to a significant change in the law. But social media influencer...",
+      "published": "Sun, 01 Jun 2025 06:14:42 GMT"
     }
   ]
 }

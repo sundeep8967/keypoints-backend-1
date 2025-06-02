@@ -1,39 +1,189 @@
 {
   "metadata": {
-<<<<<<< HEAD
-    "timestamp": "2025-06-01T21:31:14.436374",
-    "source": "topic: science",
-    "count": 0
-=======
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-02 04:02:49",
-    "total_articles": 3
->>>>>>> 6b4712c (/.)
+    "generation_time": "2025-06-02 01:30:44",
+    "total_articles": 20
   },
   "articles": [
     {
-      "title": "Strauss’ ‘Blue Danube’ is beamed into space as Vienna celebrates with a concert - AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQVRJTmlTVExsdV9mMm5uRHJ4MWRiWll5TFhxaHVIV2dLY0RZY2hCaXpCdjdodTA1TTFrd21Yc0tXeU5MSFI2RVlZR00wWlN5WmVHa3hvREdocy1HVWdvS3pLS3dSVTJjSHBpaHlUazZNNld0OXZoenhoQ1REOXdKR2dZTDBfZTRWNTJlVkNrSVQzWGI4anc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 05:56:00 GMT"
+      "id": "20c65204e86d5813b8c7f2bf5e6a5274",
+      "title": "West Coast Falcon 9 launches 27 satellites for SpaceX’s Starlink internet service - Spaceflight Now",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2025/05/31/live-coverage-west-coast-falcon-9-to-launch-27-satellites-for-spacexs-starlink-internet-service/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/05/20250531-Starlink-11-18-launch.jpg",
+      "summary": "Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral West Coast Falcon 9 launches 27 satellites for SpaceX’s Starlink internet service May 31, 2025 Will Robinson-Smith A Falcon 9 rocket lifts off from Vandenberg Space Force Base on May 31, 2025, on the Starlink 11-18 mission. Image: SpaceX. SpaceX closed out May with its...",
+      "published": "Sat, 31 May 2025 22:18:45 GMT"
     },
     {
+      "id": "5c794800c11437e157352c5978af24ae",
+      "title": "Proposed NASA cuts to space science: “Staggering” - EarthSky",
+      "source": "EarthSky",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbGNDRmp4Qy03WmNMdk8tX0RLMnpzTWROVTdxTmRoZ1FlZXFWeWdobVhpTE5leVFvcG15VURpYW96UlNaVkVxdEJDbVJqa0hfR2lycjUzQXdHc2swZnlhRWVQckh3TVp5YzlhTE94NExQY3dUS0ZjV1lHY2xTNl9ZNExyLThobERZemVrOEtPM24?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 12:01:55 GMT"
+    },
+    {
+      "id": "b453bf467e086cfe9b402d84db0e9338",
       "title": "SpaceX knocks out another national security launch while ULA faces scrutiny - Yahoo",
       "source": "Yahoo",
       "url": "https://www.yahoo.com/news/spacex-knocks-another-national-security-002900694.html",
       "image_url": "https://s.yimg.com/ny/api/res/1.2/9wYemjFz0yxaEIGYmLbWWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01Nzg-/https://media.zenfs.com/en/orlando_sentinel_national_858/ee9435bca760d5d41da8fe1c5b389735",
-      "summary": "Speaker Johnson on Medicaid cuts Canada fires bring smoke to U. S. SpaceX knocks out another national security launch while ULA faces scrutiny Richard Tribou, Orlando Sentinel Sat, May 31, 2025 at 5:59 AM GMT+5:306 min read ORLANDO, Fla. — United Launch Alliance’s years-long delays with its new Vulcan rocket have flipped the script for national security missions, making SpaceX...",
+      "summary": "Speaker Johnson on Medicaid cuts SpaceX knocks out another national security launch while ULA faces scrutiny Richard Tribou, Orlando Sentinel Sat, May 31, 2025 at 12:29 AM UTC ORLANDO, Fla. — United Launch Alliance’s years-long delays with its new Vulcan rocket have flipped the script for national security missions, making SpaceX the new reliable provider. The shift to Elon Musk’s...",
       "published": "Sat, 31 May 2025 00:29:00 GMT"
     },
     {
-      "title": "SpaceX adds 27 Starlink satellites to constellation after successful launch from California (video) - Space",
-      "source": "Space",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-adds-27-starlink-satellites-to-constellation-after-successful-launch-from-california",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/dShRHDGHBJr9xGd5iDj72j.jpg",
-      "summary": "Starship Flight 9 Launch Failure Space Exploration Launches & Spacecraft SpaceX adds 27 Starlink satellites to constellation after successful launch from California (video) By Robert Z. Pearlman published yesterday Liftoff occurred at 3:10 p. m. EDT on Saturday (May 31). When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Click here...",
-      "published": "Sat, 31 May 2025 20:23:04 GMT"
+      "id": "40411b97825241cf683ed1862dd662c2",
+      "title": "Scientists Spot Mysterious Object in Our Galaxy Pulsing Every 44 Minutes - futurism.com",
+      "source": "futurism.com",
+      "url": "https://futurism.com/mysterious-object-radio-x-ray-pulses",
+      "image_url": "https://wordpress-assets.futurism.com/2025/05/mysterious-object-radio-x-ray-pulses.jpg",
+      "summary": "JUN 1, 8:30 AM EDT by NOOR AL-SIBAI Scientists Spot Mysterious Object in Our Galaxy Pulsing Every 44 Minutes \"Unlike anything we have seen before. \" / Off World/ Long Period Transients/ Radio Telescope/ Radio Waves Image by ROBERTA CIUCCIO/AFP via Getty Images Astronomers have spotted something strange and spectacular: a mysterious object that keeps emitting pulses every 44 minutes.",
+      "published": "Sun, 01 Jun 2025 12:30:32 GMT"
+    },
+    {
+      "id": "2fb6d618c64ff469af5bb5052f6aa50b",
+      "title": "Scientists Stunned by Evidence of Ancient Birds Nested in the Arctic - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/scientists-evidence-ancient-birds-nested-arctic/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Scientists-Stunned-by-Evidence-of-Ancient-Birds-Nested-in-the-Arctic.jpg",
+      "summary": "Scientists Stunned by Evidence of Ancient Birds Nested in the Arctic A remote dig in frozen Alaska has revealed a prehistoric surprise. The Arctic’s earliest bird nests might date back far longer than previously believed. Credit: Shutterstock | The Daily Galaxy --Great Discoveries Channel Tiny fossil fragments discovered in northern Alaska have revealed that ancient birds were nesting in the...",
+      "published": "Sun, 01 Jun 2025 18:30:00 GMT"
+    },
+    {
+      "id": "cc2804c6518357d1c87e24ddaf49b9e4",
+      "title": "Space photo of the week: Pink 'raindrops' on the sun captured in greatest detail ever - Live Science",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/space/the-sun/space-photo-of-the-week-pink-raindrops-on-the-sun-captured-in-greatest-detail-ever",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/AMcyuNkeBkeVHyeQMCpg4.jpg",
+      "summary": "Ancient DNA reveals collapsed civilization Buried cave 'trash' surprises researchers Space photo of the week: Pink 'raindrops' on the sun captured in greatest detail ever By Jamie Carter published 15 hours ago Solar scientists have unveiled spectacular new images of plasma \"rain\" in the sun's corona using adaptive optics. When you purchase through links on our site, we may earn...",
+      "published": "Sun, 01 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "id": "12eb0501074c70173d4c06f97cc5bf76",
+      "title": "'Rock Showman' uncovers sandstone stegosaur near Whitby - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cd7g4y21envo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/05fd/live/00f20270-3d25-11f0-b1db-7b03bfaa8894.jpg",
+      "summary": "'Rock Showman' uncovers sandstone stegosaur Steve Cousins/www. YorkshireCoast. rocks Steve Cousins - aka the Rock Showman - regularly leads fossil walks along the Yorkshire coast A geology tour guide has discovered a fossilised dinosaur footprint believed to be 170m years old along the coast near Whitby. Steve Cousins, aka the \"Rock Showman\", was taking a school trip on an educational...",
+      "published": "Sun, 01 Jun 2025 09:04:11 GMT"
+    },
+    {
+      "id": "9b3955e82d318fa47e1344413ad2435e",
+      "title": "Study shows that early humans climbed trees and worked with stone - Earth.com",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/news/study-shows-early-humans-climbed-trees-and-worked-with-stone/",
+      "image_url": "https://cff2.earth.com/uploads/2025/05/30044113/study-early-humans-climbed-trees-worked-stone.jpg",
+      "summary": "Study shows that early humans climbed trees and worked with stone Early human ancestors sometimes left hints of daily life in their bones. Researchers have analyzed fossil hands from southern Africa and discovered that these ancient populations relied on climbing as well as handling stones for possible tool-related tasks. They studied the species Australopithecus sediba from around 2 million years...",
+      "published": "Sun, 01 Jun 2025 17:56:55 GMT"
+    },
+    {
+      "id": "fd4db148f67398feff1e1f6c4328e467",
+      "title": "10 stunning pictures of space captured by NASA's James Webb - Times of India",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/life-style/spotlight/web-stories/10-stunning-pictures-of-space-captured-by-nasas-james-webb/photostory/121509088.cms",
+      "image_url": "https://static.toiimg.com/thumb/msid-121509282,imgsize-37236,width-900,height-1200,resizemode-6/121509282.jpg",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 09:30:00 GMT"
+    },
+    {
+      "id": "01ce24ba93b2eecf5ea800218ca31b05",
+      "title": "Ancient fingerprint in Spain may offer new insights into Neanderthal psyche - Ynetnews",
+      "source": "Ynetnews",
+      "url": "https://www.ynetnews.com/travel/article/ry00em3tfge",
+      "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/31/rkaDV6dMee/rkaDV6dMee_0_0_650_366_0_large.jpg",
+      "summary": "Forget Furosemide, Use This Household Item To Help Drain Edema Fluid One kilometer long, 8 stories deep: Captured Hamas terrorists lead IDF to major Rafah tunnel Cinnamon: The greatest enemy of blood sugar (see how to use it) Ancient fingerprint in Spain may offer new insights into Neanderthal psyche Neanderthal fingerprint discovered on 43,000-year-old Spanish stone Perico sparks debate over...",
+      "published": "Sun, 01 Jun 2025 11:45:06 GMT"
+    },
+    {
+      "id": "328aecadb057733025b4312bab7c353f",
+      "title": "Michael Altenhofen Is NASA Deputy Chief of Staff - NASA Watch",
+      "source": "NASA Watch",
+      "url": "https://nasawatch.com/personnel-news/michael-altenhofen-is-nasa-deputy-chief-of-staff/",
+      "image_url": null,
+      "summary": "Verify you are human by completing the action below. nasawatch.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sun, 01 Jun 2025 15:27:29 GMT"
+    },
+    {
+      "id": "0001bfa2f5bf4f4613291c0a79739c4f",
+      "title": "Former church in Northern Kentucky now a heavenly home for sale - WKRC",
+      "source": "WKRC",
+      "url": "https://local12.com/news/local/former-church-northern-kentucky-heavenly-home-for-sale-divine-house-residence-living-space-brooksville-cincinnati-area",
+      "image_url": "https://local12.com/resources/media2/16x9/1083/986/0x57/90/4c281e26-4be4-41f1-a891-5e05716dedeb-1.JPG",
+      "summary": "Former church in Northern Kentucky now a heavenly home for sale by WKRCSun, June 1st 2025 at 11:09 PM A unique property has hit the market in Northern Kentucky, offering a divine opportunity for homebuyers. Once a church, this traditional-style building in Brooksville has been transformed into a single-family residence. (Next Door Photos viaDavid G Schneider ofKen Perry Realty) BROOKSVILLE,...",
+      "published": "Sun, 01 Jun 2025 03:09:15 GMT"
+    },
+    {
+      "id": "d17541b0cf51463579807ff3f892eafb",
+      "title": "NASA Switches to Backup Fuel Line After Psyche Thruster Glitch - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/nasa-switches-to-backup-fuel-line-after-psyche-thruster-glitch-2000608685",
+      "image_url": "https://gizmodo.com/app/uploads/2025/05/psyche-and-asteroid.jpg",
+      "summary": "NASA Switches to Backup Fuel Line After Psyche Thruster Glitch The spacecraft is en route to a metal-rich asteroid. Hopefully, its backup propellant line can get it there by August 2029. Published May 31, 2025 | Comments (7) | An illustration of the Psyche spacecraft and its asteroid. NASA Less than two years after launch, NASA’s Psyche spacecraft experienced a...",
+      "published": "Sat, 31 May 2025 12:00:21 GMT"
+    },
+    {
+      "id": "bfcc85b2bbfc0bc75b9c0d8baa8fb889",
+      "title": "The Ocean Is Getting Darker, Threatening All That Lives Within - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/the-ocean-is-getting-darker-threatening-all-that-lives-within",
+      "image_url": "https://www.sciencealert.com/images/2025/05/water-getting-darker.jpg",
+      "summary": "The Ocean Is Getting Darker, Threatening All That Lives Within Almost all life in the ocean depends on the upper waters where sunlight filters in, known as the photic zone – but new research suggests this narrow window of valuable marine light is shrinking in oceans worldwide. In the past 20 years, marine scientists have found, more than a fifth...",
+      "published": "Sat, 31 May 2025 22:02:45 GMT"
+    },
+    {
+      "id": "f02abe53e3ad852398eb1a5be8e6ff32",
+      "title": "Game-Changing Fossil Discovery Reveals That Reptiles Appeared on Earth Millions of Years Earlier Than Thought - SciTechDaily",
+      "source": "SciTechDaily",
+      "url": "https://scitechdaily.com/game-changing-fossil-discovery-reveals-that-reptiles-appeared-on-earth-millions-of-years-earlier-than-thought/",
+      "image_url": "https://scitechdaily.com/images/Illustration-of-an-Amniote.jpg",
+      "summary": "Home»Science»Game-Changing Fossil Discovery Reveals That Reptiles Appeared on Earth Millions of Years Earlier Than Thought Game-Changing Fossil Discovery Reveals That Reptiles Appeared on Earth Millions of Years Earlier Than Thought Amniote reconstruction. Credit: Martin Ambrozik Fossil tracks from Australia reveal reptiles appeared 40 million years earlier than thought. The origin of reptiles on Earth may be up to 40 million...",
+      "published": "Sun, 01 Jun 2025 15:08:30 GMT"
+    },
+    {
+      "id": "578215fb5a9a0d0e197990c3e8f35644",
+      "title": "The Largest Black Hole Jet Ever Found Is 3 Times the Size of the Milky Way - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/the-largest-black-hole-jet-ever-found/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/05/The-Largest-Black-Hole-Jet-Ever-Found-Is-3-Times-the-Size-of-the-Milky-Way.jpg",
+      "summary": "The Largest Black Hole Jet Ever Found Is 3 Times the Size of the Milky Way An ancient quasar has unleashed a radio jet so vast it dwarfs the Milky Way! Image credit: NOIRLab/NSF/AURA/M. Garlick | The Daily Galaxy --Great Discoveries Channel Astronomers have discovered the largest and most ancient radio jet ever detected, emitted by a quasar from when...",
+      "published": "Sun, 01 Jun 2025 15:00:00 GMT"
+    },
+    {
+      "id": "3f0fbd2ca9d031a7c757f891d1e608a2",
+      "title": "Ice Age mastodon remains discovered in West Feliciana Parish creek by two LSU scientists - The Advocate",
+      "source": "The Advocate",
+      "url": "https://www.theadvocate.com/auth0-redirect?returnUrl=https%3A%2F%2Fwww.theadvocate.com%2Fbaton_rouge%2Fentertainment_life%2Fice-age-mastodon-louisiana%2Farticle_614a4415-0199-477b-a37e-e58101d24b36.html&error=login_required&error_description=Login%20required&state=WDZnY3I4QS1vLWI4TXVrU0VUYko4TFh2dGpMc2E5ZUFyUX5TSmd4dXhFVw%3D%3D",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 13:15:00 GMT"
+    },
+    {
+      "id": "8cab0072b3298725c688ce4b6a9c2feb",
+      "title": "George E. Smith, Nobel laureate who envisioned digital imagery, dies at 95 - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/obituaries/2025/05/31/george-smith-nobel-digital-dies/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZVQPWYUEZFRB5XCSG7LAC4XZM_size-normalized.jpg&w=1440",
+      "summary": "George E. Smith, Nobel laureate who envisioned digital imagery, dies at 95 Dr. Smith and a colleague imagined how to turn light into digital signals, pointing the way for digital photography and advances in medicine and astronomy. George E. Smith at the Royal Swedish Academy in Stockholm, on Dec. 7, 2009. (Olivier Morin/AFP/Getty Images) George E. Smith, a Bell Labs...",
+      "published": "Sun, 01 Jun 2025 02:33:07 GMT"
+    },
+    {
+      "id": "99c3fdf1dbaf7e0ff4bb58e7a5fa8696",
+      "title": "Bed Bugs May Be the First Human Pest, Evolving Alongside Us Since Neanderthal Times - Indian Defence Review",
+      "source": "Indian Defence Review",
+      "url": "https://indiandefencereview.com/bed-bugs-may-be-the-first-human-pest/",
+      "image_url": "https://indiandefencereview.com/wp-content/uploads/2025/05/bed-bug.jpg",
+      "summary": "Bed Bugs May Be the First Human Pest, Evolving Alongside Us Since Neanderthal Times New genetic evidence shows that bed bugs didn’t just survive alongside humans—they adapted with us, following our ancestors from caves to cities over tens of thousands of years. Bed Bugs May Be the First Human Pest, Evolving Alongside Us Since Neanderthal Times Credit: Canva - copyright...",
+      "published": "Sat, 31 May 2025 14:00:00 GMT"
+    },
+    {
+      "id": "a2af244dd47f05f348d49d9a665ce12a",
+      "title": "Scientists warn that polar warming might alter ocean currents and cause massive flooding in the U.S. - Earth.com",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/news/polar-warming-could-reduce-ocean-currents-amoc-and-cause-massive-flooding-in-the-us/",
+      "image_url": "https://cff2.earth.com/uploads/2025/05/30040952/polar-warming-threatens-ocean-currents-east-coast-flooding.jpg",
+      "summary": "Scientists warn that polar warming might alter ocean currents and cause massive flooding in the U. S. The Arctic is heating up at a faster pace than many other parts of the world. This spike in temperature has set off alarm bells about how shifting conditions near the poles could affect ocean currents in the Atlantic. Experts caution that these...",
+      "published": "Sun, 01 Jun 2025 06:21:51 GMT"
     }
   ]
 }

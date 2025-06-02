@@ -1,25 +1,21 @@
 {
   "metadata": {
-<<<<<<< HEAD
-    "timestamp": "2025-06-01T21:31:16.817038",
-    "source": "topic: health",
-    "count": 0
-=======
     "source_file": "data/news_health.json",
-    "generation_time": "2025-06-02 04:19:27",
-    "total_articles": 3
->>>>>>> 6b4712c (/.)
+    "generation_time": "2025-06-02 01:19:37",
+    "total_articles": 20
   },
   "articles": [
     {
+      "id": "29de0fe525f6302e6f70ef3738880c3b",
       "title": "Exercise ‘better than drugs’ to stop cancer returning after treatment, trial finds - The Guardian",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/society/2025/jun/01/exercise-better-than-drugs-after-cancer-treatment-international-trial-finds",
       "image_url": "https://i.guim.co.uk/img/media/5b6e5863dccc4d0deb1e8ce56f6bd9346373fc13/0_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c498be349bdf5271370a10d1423c138",
-      "summary": "Fund independent journalism with $15 per month After five years, patients in an exercise regime had a 28% lower risk of recurrent or new cancers. Photograph: amriphoto/Getty Images Exercise ‘better than drugs’ to stop cancer returning after treatment, trial finds First clear evidence that structured exercise regime reduces risk of dying by a third, can stop tumours coming back or...",
-      "published": "Sun, 01 Jun 2025 20:22:00 GMT"
+      "summary": "Fund the free press with $5 per month After five years, patients in an exercise regime had a 28% lower risk of recurrent or new cancers. Photograph: amriphoto/Getty Images Exercise ‘better than drugs’ to stop cancer returning after treatment, trial finds First clear evidence that structured exercise regime reduces risk of dying by a third, can stop tumours coming back...",
+      "published": "Sun, 01 Jun 2025 22:38:00 GMT"
     },
     {
+      "id": "c514a3aa735961491df4c58c925c097c",
       "title": "RFK Jr. May Have Just Ruined Our Best Weapon Against Bird Flu - The Bulwark",
       "source": "The Bulwark",
       "url": "https://www.thebulwark.com/p/rkf-jr-kennedy-hhs-may-have-just-ruined-our-best-weapon-against-bird-flu-moderna-mrna-covid-boosters-cdc",
@@ -28,12 +24,166 @@
       "published": "Sun, 01 Jun 2025 12:48:07 GMT"
     },
     {
+      "id": "20618414c96130d9dbd427192cdbf364",
       "title": "Trump administration’s deep cuts to public health leave system reeling - PBS",
       "source": "PBS",
       "url": "https://www.pbs.org/newshour/health/trump-administrations-deep-cuts-to-public-health-leave-system-reeling",
       "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/02/2025-02-25T233501Z_1162206454_RC2V1DA4TFX5_RTRMADP_3_USA-HEALTH-MEASLES-TEXAS-1024x768.jpg",
-      "summary": "Michelle R. Smith, Associated Press Trump administration’s deep cuts to public health leave system reeling Health May 31, 2025 6:15 PM EDT CHARLOTTE, N. C. (AP) — Americans are losing a vast array of people and programs dedicated to keeping them healthy. Gone are specialists who were confronting a measles outbreak in Ohio, workers who drove a van to schools...",
+      "summary": "By — Laura Ungar, Associated Press By — Michelle R. Smith, Associated Press Trump administration’s deep cuts to public health leave system reeling Health May 31, 2025 6:15 PM EDT CHARLOTTE, N. C. (AP) — Americans are losing a vast array of people and programs dedicated to keeping them healthy. Gone are specialists who were confronting a measles outbreak in...",
       "published": "Sat, 31 May 2025 22:15:40 GMT"
+    },
+    {
+      "id": "1fc9288840706c96ebcad69c8e46d19b",
+      "title": "A new COVID variant is spreading across California. Could we see a summer surge? - Sacramento Bee",
+      "source": "Sacramento Bee",
+      "url": "https://www.sacbee.com/news/local/health-and-medicine/article307455641.html",
+      "image_url": "https://www.bellinghamherald.com/living/family/5w94uu/picture221977050/alternates/LANDSCAPE_1140/GettyImages-941559860",
+      "summary": "This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. Privacy PolicyTerms of Service A new COVID variant is spreading across California. Could we see a summer surge? A new COVID-19 variant is quickly spreading across California, and health experts are warning it could lead to a surge of...",
+      "published": "Sun, 01 Jun 2025 12:00:00 GMT"
+    },
+    {
+      "id": "8002ed729353ed125cde36457da01742",
+      "title": "Popular health hack beloved by millions may raise risk of cancer - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/health/article-14768309/colon-cancer-running-asco-2025.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/01/15/98940585-0-image-m-18_1748788276642.jpg",
+      "summary": "Physical hobby loved by millions shockingly linked to colon cancer in young people for first time READ MORE: I tried the $1 drug hailed as BETTER than Ozempic. .. the weight-loss results don't lie but now I can't stop By LUKE ANDREWS SENIOR HEALTH REPORTER FOR DAILYMAIL. COM PUBLISHED: 11:49 EDT, 1 June 2025 | UPDATED: 13:57 EDT, 1 June...",
+      "published": "Sun, 01 Jun 2025 15:45:00 GMT"
+    },
+    {
+      "id": "329d8ce20222804310067f6799876611",
+      "title": "Junk Food Alert: Our Bodies Treat Ultra-Processed Foods Like Foreign Invaders! - Glass Almanac",
+      "source": "Glass Almanac",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObUtBbTN0Ylc2dmFsV0ZFVk5EZXFvLWJVWDRfM0htalVJWEVzeXJ0NlM3TjZGQWpKQmtaWWFIZXZ3eGp2U2VwZjB2eWVqSDFDM2lZV1ZsUlJJa29wVHlMeXpzQ25IYmMxWnBSSkdqTG9YdG5ySlZDVlJHTzBsT2tjMmU3U2hjMlE2M0ZtTy1ab2FRZ0dTNlZ3aklrZlEtMTlFSVMzeA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 06:41:33 GMT"
+    },
+    {
+      "id": "299a7aaab9720059766b56ab134a98a2",
+      "title": "8 Signs You Should See a Cardiologist, According to Doctors - EatingWell",
+      "source": "EatingWell",
+      "url": "https://www.eatingwell.com/signs-you-should-see-a-cardiologist-11742727",
+      "image_url": "https://www.eatingwell.com/thmb/M9SMf5sPi1WvoftHOHZM8FozrJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8-Signs-You-Should-See-a-Cardiologist-b3fcae04860345c78320067b93a19aff.jpg",
+      "summary": "Never lose a recipe: Save & find faves from EatingWell and more with MyRecipes 8 Signs You Should See a Cardiologist, According to Doctors Learn the key signs cardiologists say you shouldn’t ignore. By Katey Davidson, M. Sc.FN, RD, CPT Reviewed by Dietitian Kelli McGrane, M. S., RD Credit: Getty Images. EatingWell design. Heart disease is the leading cause of...",
+      "published": "Sun, 01 Jun 2025 00:00:00 GMT"
+    },
+    {
+      "id": "7501e9d0344f89cec5c84ab63c3868c5",
+      "title": "Gilead's CAR-T cell therapy shows promise in deadly brain cancer - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/gileads-car-t-cell-therapy-shows-promise-deadly-brain-cancer-2025-06-01/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 12:02:55 GMT"
+    },
+    {
+      "id": "391a1bd9ca48cf36eefb1e404412e16e",
+      "title": "Immunotherapy Drugs Show Major Progress in Early-Stage Cancer - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-01/early-stage-cancer-can-be-treated-by-immunotherapy-drugs-studies-show",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Sun, 01 Jun 2025 12:00:00 GMT"
+    },
+    {
+      "id": "1e05fe2a148de31659333b43ea5008c3",
+      "title": "Scientists Just Linked Alcohol Consumption to Another Form of Cancer - Yahoo",
+      "source": "Yahoo",
+      "url": "https://www.yahoo.com/news/scientists-just-linked-alcohol-consumption-040000778.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/.PFT2BeTZTChPf.xgA2LSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/eating_well_articles_946/911426f0880ad84ae4433e775d85de40",
+      "summary": "Speaker Johnson on Medicaid cuts Scientists Just Linked Alcohol Consumption to Another Form of Cancer This type of cancer is often caught at later stages of the disease, making recovery less likely. Sat, May 31, 2025 at 4:00 AM UTC Reviewed by Dietitian Annie Nguyen, M. A., RD Design elements: Getty Images. EatingWell design. A new study linked alcohol consumption...",
+      "published": "Sat, 31 May 2025 04:00:00 GMT"
+    },
+    {
+      "id": "919dfb737e9d395c20d7d08d6a7ec321",
+      "title": "My Girlfriend Had a Legendary Sex Life Before Me. No One Will Let Me Forget It. - Slate Magazine",
+      "source": "Slate Magazine",
+      "url": "https://slate.com/advice/2025/06/girlfriend-rumor-advice-gossip-sex-life.html",
+      "image_url": "https://compote.slate.com/images/81bd0f46-fe62-457f-ab21-d159ec43d8fb.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "summary": "Light Activating this button will toggle the display of additional content My Girlfriend Had a Legendary Sex Life Before Me. No One Will Let Me Forget It. Photo illustration by Slate. Photos by Getty Images Plus. How to Do It is Slate’s sex advice column. Have a question? Send it to Stoya and Rich here. It’s anonymous! I have been...",
+      "published": "Sun, 01 Jun 2025 16:00:00 GMT"
+    },
+    {
+      "id": "cc1bef1b9b07e9c86eea12d71a01a300",
+      "title": "Are seed oils really bad for you? - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/future/article/20250530-are-seed-oils-really-bad-for-you",
+      "image_url": "https://ychef.files.bbci.co.uk/624x351/p0lffm58.jpg",
+      "summary": "Are seed oils really bad for you? Seed oils like canola and sunflower oil have attracted controversial claims about harmful effects in recent times. Is there any truth to them? You might have a bottle of sunflower oil or canola (rapeseed) oil stashed away in a kitchen cupboard somewhere. Whether you cook with them or drizzle them over salads, seed...",
+      "published": "Sat, 31 May 2025 09:01:44 GMT"
+    },
+    {
+      "id": "2d6a9e66932337bb69e47fbf0196e1f1",
+      "title": "Satellite measures river flow waves for the first time - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/science/2025/06/01/river-wave-satellite-flooding-data/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OHDNAKEGOFJHOH4GU5N4E6B4XM.jpg&w=1440",
+      "summary": "Satellite measures river flow waves for the first time The researchers assessed waves on the Colorado River in Texas, the Ocmulgee River in Georgia and the Yellowstone River in Montana. The Yellowstone River flows through Paradise Valley, located between Livingston, Montana, and Yellowstone National Park. (Adrian Sanchez-Gonzalez for The Washington Post) Long river waves, known as flow waves, have been...",
+      "published": "Sun, 01 Jun 2025 17:30:46 GMT"
+    },
+    {
+      "id": "9e81ed3f1972115fe930ab5195a45a25",
+      "title": "Dad Assumed Tingling in His Hands Was Just Pins and Needles. Days Later, He Was Paralyzed: ‘Had to Sleep with My Eyes Open’ - AOL.com",
+      "source": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00RURhcE1PdXZSR191SHRLYzlHMTdTemh1aTExN2ZrUWpfYVJMMVpaWDY1bTRCNENXQy1iMXRXb0tRbDJobXdnVUVMeElHLTVfendDd0lFWlE2SjVXcTFVU2FUcDdTYVlyeFpaMlBGRHF5OV9l?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 31 May 2025 19:01:10 GMT"
+    },
+    {
+      "id": "6ba2ec3b25ce69846726e7782dca15c1",
+      "title": "How MAHA Is Changing New Motherhood - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vN3hFdFkzNHhQZm1XV3ZQN2p2RDh4MnB5Mks5cTE5MWFqZ2lvUklySEUtR0FITjl6X1RNdm1xellXNEs4bW8xU19xRnlMQVVEYkg2Q3RoazZjUnRPbHh3N2x1Mzc1NFJWelVlS3V3?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 09:00:15 GMT"
+    },
+    {
+      "id": "365fdcbb76ff42ed98f45e6bf0c8b6dd",
+      "title": "Cannabis use in any form directly linked to significant risk of heart damage - Earth.com",
+      "source": "Earth.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlNhN1RlQWtVUTZPOHZLSzRhbXBISlNqTkk4czJnNnFaVTZIdk1teU1iZ3FtSE44QlJjbW1yeG1nazNsd29oOVN2ZXNMaTVVUVhkYnR4cEJGR2NETnItYWdNM0xCSVdqTzlFdlZfQkY0djdmTXRKVVlBaEswOHdHdklnbElzVVN4b3NJLWpvaWdOMUVwOGZ5aVlOMU9PMWxTa3Vta0tPNA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 15:16:54 GMT"
+    },
+    {
+      "id": "118c2674f588486e8f8699760f4b059f",
+      "title": "Devastating blow in race for vaccine against deadly disease that affects millions - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSnhNSWJHSVJlSnN1Qlg4NGItRVlzTzg3Rkx5VUNhQlFINHNPVjlVd0YyNTlVMmU2c3drRElZUWwtQlh6N292T253QlVKeV9jSVBhVTVGOHdIM01neWVGblJLb3hBXzVnaDNGVml5OTZEblJWOTloVUk0R3pmZUxrOHJSUGlYNlFEcGg0Sm1Sa9IBlAFBVV95cUxNR1k2VDhKcjFJbEJ4WE9XMVpIalRuVWFNWTJlRnU5V2xxVjZKN1NWbDgyRHg0eDNEUjctX05Zb0FSOXFQSHZrOVF3RU1oYWNTako0U2R1dXV4T3ZHWldQcGhvRkxMaWM2azBCNnJJbnBOUV9pbU40LXlJV2pfRDgtMzR4T29uWWNDYXlVbEFCSFVrWlI5?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 31 May 2025 18:28:48 GMT"
+    },
+    {
+      "id": "999a69bd504bca5f221adf140b33c65a",
+      "title": "Infrared contact lens enables humans to see in dark - DW",
+      "source": "DW",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbnZWSkNMTjE0OGo2S3FhLVZYU3NRa1psN0R2SUdiMF9yQWVoaXVwalV3YldSOV8wX2huallPaU1YWm1aYW9RN1gtT2dfeGpaR0R5b1BBN1F1OFA1X2tRQWhxZlh6WnM1RlVyLUFhV1BFZUNsNDJBN0hQNEp5Tzc2UVJ0U3d1bDkzWTE1RtIBjAFBVV95cUxQaWU1U25RX2ZmQ3VLdnpxTl90M1FmT0VOdnNQbW0xNXVWV0t0TG9uRGs5SDJUcjBzUHlUZ1FPYnZTV3h3YjVwYUZFdVl2Y3A2SnM3eE1wcVdidEdJc0dfclRta0VGTjRLbkhWREhqREJQWUVPeHF5LTJoSW9JTGlYdWZ2VGR0TXlienU3cA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 13:16:02 GMT"
+    },
+    {
+      "id": "7d21d3250581e63c5fc38a8066ba3f3e",
+      "title": "Superbugs thrive as access to antibiotics fails in India - BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uTEhXQmVfNlVYa0pDWVFBM1V4VzNkZGIwM1dZOXRsNF9GNTM2R1kzU1Nva3BKWWJnWXg0U2lHeS15bHFyRnhTOUh3MjVjc212UnlsUV9lRmVjZ9IBX0FVX3lxTFBRYkZPZXJHTXQzb3ZsdG5FTDhodlNaZU90WXZKSE9qN3FTb0NXOWVaUjh4TVhjRmw5bmwwdndDbVhOTGF2NVJmUW1xUlpjQWl1Zzg3OFctbk1YSWNqU0tB?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 21:34:31 GMT"
+    },
+    {
+      "id": "884c7af90b71c710e7131976bb5cbf4f",
+      "title": "My son caught world's most infectious disease and could suffer permanent damage... my warning to all parents - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQktJTDB2QWNNZzczOVRmR3JzOTNZd0tHZ1VGd1h3RWx3WXhjSVFLNUhMT0ZtZEZ2NklvWnN1WjN6ODVKWXI0NWxtWVpFSVRFRmJfSXdPY2VwQnh2ZjVvN1R1TER0TUlaZmJPalU1cl9lSlVESjRTRTdBcVlDUC1admpDZFE4ZzlXb3A0RFVwWlBCb2FVS3VDOUcyZVBTREFMMXpadG54VmFTYnF00gGyAUFVX3lxTE80QzdhWW56eWtPT05sLW5GSmpIMGJzaEFRSHk3dVc4TGpKNEFpRFNBTDU3Zk5DbERXdHQxZEd0blFHSElmdFotVjFIcmlFVTRoYWJwZW5ieFhNMklOQVhYYkV0N05sM3d0VUdqQm0yNlVCTnBqaVoyb0l4N0g0dTAwQnladGdoYlFVTUdYMlZ0S2VqdzYweXVYWHdPRVBWS0RNOGp3QWZKRGZ3RHNKLXg5N3c?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 11:26:04 GMT"
     }
   ]
 }

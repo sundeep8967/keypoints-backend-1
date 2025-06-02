@@ -1,39 +1,189 @@
 {
   "metadata": {
-<<<<<<< HEAD
-    "timestamp": "2025-06-01T21:31:02.570851",
-    "source": "top news",
-    "count": 0
-=======
     "source_file": "data/news_top.json",
-    "generation_time": "2025-06-02 04:20:31",
-    "total_articles": 3
->>>>>>> 6b4712c (/.)
+    "generation_time": "2025-06-02 01:33:40",
+    "total_articles": 20
   },
   "articles": [
     {
+      "id": "7a0d8391f9122d1cb005285304bd769f",
+      "title": "FBI and law enforcement respond to ‘terror attack’ in Boulder, Colorado - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/boulder-terror-attack-colorado-8af1b11734cbbe75c9945820a9b6684c",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sun, 01 Jun 2025 21:49:00 GMT"
+    },
+    {
+      "id": "87f769b98a857b9963a6b18d7f71655d",
       "title": "Ukraine launches massive drone strike on air bases deep inside Russia - Axios",
       "source": "Axios",
       "url": "https://www.axios.com/2025/06/01/ukraine-drone-strikes-russia",
       "image_url": "https://images.axios.com/zMvijuKU7CcXHD8TDI2Sn0YqjxQ=/0x310:6141x3764/1366x768/2025/06/01/1748787503714.jpg",
       "summary": "Ukraine launches massive drone strike on air bases deep inside Russia Soldiers from the artillery crew of the Striletskyi Special Forces Police Battalion of the Main Department of the National Police in the Zaporizhzhia region prepare for a combat mission in the Zaporizhzhia region, Ukraine, on May 23, 2025. Photo: Dmytro Smolienko/Ukrinform/NurPhoto via Getty Images Ukraine launched unprecedented drone strikes...",
-      "published": "Sun, 01 Jun 2025 19:12:53 GMT"
+      "published": "Sun, 01 Jun 2025 22:49:12 GMT"
     },
     {
+      "id": "4aa631a42ee6c9e77eb2bd053fe5438f",
+      "title": "Trump Aides Insist That Tariffs Will Remain, Even After Court Ruling - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/01/us/politics/trump-tariffs-court-lutnick-bessent.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 21:39:49 GMT"
+    },
+    {
+      "id": "a63cd6b6c4d295fa8dede4c305526660",
       "title": "Red Cross says at least 21 killed and dozens shot in Gaza aid incident - BBC",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c991j01lym3o",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c91a/live/9f1b45d0-3edb-11f0-a5a9-d3df92c0769e.jpg",
       "summary": "Red Cross says at least 21 killed and dozens shot in Gaza aid incident Bodies were brought to Nasser hospital after the incident A \"mass casualty influx\" of people, many with gunshot or shrapnel wounds, was received at a Red Cross field hospital in southern Gaza, the organisation said, following disputed reports about an incident near an aid distribution centre...",
-      "published": "Sun, 01 Jun 2025 19:29:50 GMT"
+      "published": "Mon, 02 Jun 2025 00:19:11 GMT"
     },
     {
-      "title": "Brewing tariff court battles won’t spike White House leverage in trade talks, Lutnick says - Politico",
-      "source": "Politico",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdk95djBOc2N0MUQxdjlUWTk3Sl84YU5RX2dhSWxoU3FPRUpnVExiVUU4TUROVC02RENPQlBJQUVPbEdLVFZfc2x4SFM4Q21reUk0clMwZmRUNU96SnNOVjRnSUVwcm1YU0tnVzFIRXp2aUhVcGpxYWJuUUI0UzNVTFF6MEZCaXVjbG5OYQ?oc=5",
+      "id": "07b1394e573bfc8ae0e934446022da9d",
+      "title": "Ernst posts snarky reply after telling town hall ‘we all are going to die’ - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWDI1bWZGblV0NjdhcTdRdDlwZW1fY0w5Wk9wTi12M3ZBNnZQWi1rcmkyWW1wUVhZZWpCZ1I0N0N2R3k2eE9mNG1oc2I0dEZvYWd1YnBFY3lBbmU3X0tlcWtJZEVndFdicUR6OG1sV0FaczJHS2NfZTJWSXduNGhxX3JXZHdvVnM?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 17:20:40 GMT"
+      "published": "Sun, 01 Jun 2025 21:19:48 GMT"
+    },
+    {
+      "id": "79e2f77c74c8460352b0bb9f045eaf48",
+      "title": "Hurricane season has started. Here's what to know - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/01/nx-s1-5419515/hurricane-season-starts-atlantic-storms-what-to-know",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+272/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2F77%2Fc439806f4de9aa04b5fed024e546%2Fgettyimages-2206279825.jpg",
+      "summary": "Hurricane season has started. Here's what to know An abandoned vehicle sits along the Swannanoa River in a landscape scarred by Hurricane Helene, on March 24, near Swannanoa, N. C. June 1 marks the start of hurricane season in the Atlantic Ocean. Forecasters are warning this year could once again bring an above-average number of storms. The National Oceanic and...",
+      "published": "Sun, 01 Jun 2025 21:27:13 GMT"
+    },
+    {
+      "id": "6335b2463d1669c7b79c70e2b660bbb1",
+      "title": "List of ‘sanctuary jurisdictions’ removed from US government website - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/immigration-sanctuary-jurisdictions-list-a372c7501746e4f2b7e117ba22ebccac",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sun, 01 Jun 2025 21:54:00 GMT"
+    },
+    {
+      "id": "1ade4cb0405f26b401cd6bf18c2ec6c8",
+      "title": "After talks with Zelenskyy and Macron, US senators warn: Putin ‘is preparing for more war’ - Politico",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2025/06/01/after-talks-with-zelenskyy-and-macron-us-senators-warn-putin-is-preparing-for-more-war-00379825",
+      "image_url": "https://static.politico.com/6c/a3/8fc467b74124a8bf13de63429e31/france-ukraine-us-senators-15471.jpg",
+      "summary": "After talks with Zelenskyy and Macron, US senators warn: Putin ‘is preparing for more war’ “It is crunch time for Putin and for the world,” Sen. Richard Blumenthal said. Sen. Richard Blumenthal (left) and Sen. Lindsey Graham are seen during a news event June 1, 2025, in Paris. | Thomas Adamson/AP PARIS — Russian President Vladimir Putin is stalling at...",
+      "published": "Sun, 01 Jun 2025 21:35:06 GMT"
+    },
+    {
+      "id": "97fe853932075e37894ba4ff45393a7b",
+      "title": "Some of the U.S. could see the northern lights due to a geomagnetic storm - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/01/nx-s1-5419570/northern-lights-visible-geomagnetic-storm",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F99%2Fc9f7113a4e25bcc542b3aa04eb8f%2Fgettyimages-2152138458.jpg",
+      "summary": "Some of the U. S. could see the northern lights due to a geomagnetic storm The northern lights illuminate the night sky in Grand Bend, Ontario, Canada, during a geomagnetic storm on May 12, 2024. Geoff Robins/AFP via Getty Images A powerful geomagnetic storm in the forecast for Sunday night could make the colorful northern lights visible across parts of...",
+      "published": "Sun, 01 Jun 2025 22:27:43 GMT"
+    },
+    {
+      "id": "dc03517eadd772709ce8fb796319db5e",
+      "title": "‘That person will absolutely become the most powerful person': LA looks for a new king - Politico",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2025/06/01/la-county-chief-00378645",
+      "image_url": null,
+      "summary": "Verify you are human by completing the action below. www.politico. com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sun, 01 Jun 2025 20:00:00 GMT"
+    },
+    {
+      "id": "b8dbcbd4c4729752d962ff824e0de62f",
+      "title": "Polish presidential runoff neck and neck with late poll swing to rightwinger - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2025/jun/01/exit-poll-in-polish-presidential-run-off-puts-candidates-neck-and-neck",
+      "image_url": "https://i.guim.co.uk/img/media/fcbe3541cac8d03753d026fa4b73518102fbe9ee/368_0_4259_3407/master/4259.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=90cc1e10dcb5e67ef86f7f9ce7adbd88",
+      "summary": "Fund the free press with $15 per month Karol Nawrocki during the election evening of the second round of the Presidential election in Warsaw, Poland after he took a slim lead against Rafał Trzaskowski. Photograph: Anadolu/Getty Images Poland: right-wing candidate Karol Nawrocki ahead in presidential election runoff Victory for Nawrocki would be a blow to government led by Donald Tusk,...",
+      "published": "Sun, 01 Jun 2025 23:06:00 GMT"
+    },
+    {
+      "id": "401a2743df8863f8659a500316099257",
+      "title": "UK announces billions in fresh defense splurge amid worries about Russia - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/uk-billions-defense-weapons-arms-splurge-war-moscow-russia-putin-healey-starmer/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/01/12911938-scaled.jpg",
+      "summary": "UK announces billions in fresh defense splurge amid worries about Russia",
+      "published": "Sun, 01 Jun 2025 14:17:00 GMT"
+    },
+    {
+      "id": "99b9728b686c8f4b47d48aef8056245a",
+      "title": "Greta Thunberg sets sail with Gaza flotilla that aims to break Israeli naval blockade - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/greta-thunberg-sets-sail-with-gaza-flotilla-that-aims-to-break-israeli-naval-blockade/",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/AP25152589865893.jpg",
+      "summary": "Greta Thunberg sets sail with Gaza flotilla that aims to break Israeli naval blockade Activists depart from southern Italy with ‘symbolic’ humanitarian aid; Israel still mum on allegations it bombed vessel near Malta last month Climate activist Greta Thunberg boards the Madleen boat before setting sail for Gaza along with activists of the Freedom Flotilla Coalition, departing from the Sicilian...",
+      "published": "Sun, 01 Jun 2025 18:28:14 GMT"
+    },
+    {
+      "id": "794a06b060f33a3e66af59c5490db48e",
+      "title": "Three years into his war on Ukraine, what does Putin really want? - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/01/1253506257/three-years-into-his-war-on-ukraine-what-does-putin-really-want",
+      "image_url": "https://media.npr.org/assets/img/2025/06/01/gettyimages-2215438255_wide-dc34b29c6effe4cdcd556889c542db170e5e3fc1.jpg?s=1400&c=100&f=jpeg",
+      "summary": "Three years into his war on Ukraine, what does Putin really want? Russian President Vladimir Putin looks on as he meets with students at the Sirius Educational Center in Sochi on May 19, 2025, after a telephone conversation with US President Donald Trump. President Trump wants to make a deal with Vladimir Putin to end the war in Ukraine. Putin...",
+      "published": "Sun, 01 Jun 2025 19:50:36 GMT"
+    },
+    {
+      "id": "2199c168df4c6477bc2320d227281084",
+      "title": "Oil prices jump after OPEC+ agrees to another sharp production hike - MarketWatch",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-set-to-drop-more-as-opec-agrees-to-another-sharp-production-hike-077766c7",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 20:00:00 GMT"
+    },
+    {
+      "id": "e3b670fb95c0aabd85a89ab7c1052edc",
+      "title": "US Futures Slip on Trump Tariffs, Crude Surges - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-01/us-futures-slip-on-trump-tariffs-crude-surges-markets-wrap",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Sun, 01 Jun 2025 23:31:15 GMT"
+    },
+    {
+      "id": "b7cca5516cb902d513b3f675533a8e86",
+      "title": "US Steel workers see hope of job security in deal with Japan’s Nippon - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/89e6444d-9ff2-4201-8713-2421cb199d6e",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb9078acb-f96e-44d8-a62d-978ae92997e9.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. US Steel workers see hope of job security in deal with Japan’s Nippon Many factory workers have put faith in Donald Trump and broken with their union over support for tie-up Donald Trump spoke at a rally at US...",
+      "published": "Sun, 01 Jun 2025 10:00:58 GMT"
+    },
+    {
+      "id": "4b1ef0a5a54fc2095feaac98483b9dea",
+      "title": "Taser Boss Tops Ranking of Highest-Paid CEOs, With $165 Million. Here’s the List. - WSJ",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/business/rick-smith-axon-ceo-pay-package-2024-6e864a64",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 09:30:00 GMT"
+    },
+    {
+      "id": "84b907e45175b3f176674db13258171d",
+      "title": "macOS Tahoe Name Leaked Ahead of Apple's WWDC Event Next Week - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/06/01/macos-tahoe-name-leaked/",
+      "image_url": "https://images.macrumors.com/t/Xno6DmwsqIVTWvZljlU1jhEEq7c=/1600x/article-new/2025/06/macOS-Tahoe-Render.jpg",
+      "summary": "iPhone 16eWWDC 2025iOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad minimacOS 26Apple Watch 10iPhone 18CarPlayApple Pay macOS Tahoe Name Leaked Ahead of Apple's WWDC Event Next...",
+      "published": "Sun, 01 Jun 2025 14:08:01 GMT"
+    },
+    {
+      "id": "8674c05e82956ca0fe54887c706bcc7c",
+      "title": "Deals: the Galaxy S25 Edge launches as the most expensive S25 phone, plus some iPad deals - GSMArena.com news - GSMArena.com",
+      "source": "GSMArena.com",
+      "url": "https://www.gsmarena.com/deals_the_galaxy_s25_edge_launches_as_the_most_expensive_s25_phone_plus_some_ipad_deals-news-68039.php",
+      "image_url": "https://fdn.gsmarena.com/imgroot/news/25/05/deals-30/-952x498w6/gsmarena_us.jpg",
+      "summary": "Deals: the Galaxy S25 Edge launches as the most expensive S25 phone, plus some iPad deals The Samsung Galaxy S25 Edge is now available in the US as the pre-order period ended on Friday. That means no more free storage upgrade, but it also opens a path for some discounts. Amazon pairs the S25 Edge with a $50 gift card...",
+      "published": "Sun, 01 Jun 2025 16:08:03 GMT"
     }
   ]
 }

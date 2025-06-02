@@ -1,17 +1,12 @@
 {
   "metadata": {
-<<<<<<< HEAD
-    "timestamp": "2025-06-01T21:31:12.073108",
-    "source": "topic: sports",
-    "count": 0
-=======
     "source_file": "data/news_sports.json",
-    "generation_time": "2025-06-02 04:01:47",
-    "total_articles": 3
->>>>>>> 6b4712c (/.)
+    "generation_time": "2025-06-02 02:42:42",
+    "total_articles": 20
   },
   "articles": [
     {
+      "id": "2b2196105b8ecd24bf1735df8ef43a70",
       "title": "NBA Finals odds: Oklahoma City among most lopsided favorites ever against Indiana - The New York Times",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/athletic/6395382/2025/06/01/nba-finals-odds-oklahoma-city-indiana/",
@@ -20,20 +15,175 @@
       "published": "Sun, 01 Jun 2025 17:59:27 GMT"
     },
     {
-      "title": "Thrilling Pacers run Knicks ragged, reach first NBA Finals in 25 years - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaN1RRVkZIV3F3bV8xN0NWUkV4Ujg4UjBkeVdxMm5rbGY3eXJRcEZIdkEtRDhRS2syNld1WDA2T3dualJKV3lnTEdrZHNva0VsVlBEZ3R4LWd5aURzcWxNaFZMOXowcnZzcDhfX0hPaU5ZWVlrdGtMMDJR?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 18:02:08 GMT"
+      "id": "f27fc7b29bd2927a8308369bbc7fcb5d",
+      "title": "Erin Blanchfield paid full salary after Maycee Barber unable to compete in UFC Vegas 107 main event - MMA Fighting",
+      "source": "MMA Fighting",
+      "url": "https://www.mmafighting.com/2025/6/1/24441120/erin-blanchfield-paid-full-salary-after-maycee-barber-unable-to-compete-in-ufc-vegas-107-main-event",
+      "image_url": "https://cdn.vox-cdn.com/thumbor/FOiQaUB0U9eEqGXzLpkezQi9ESQ=/0x0:7782x4074/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/26014424/2218035902.jpg",
+      "summary": "All 300 communities on Horizontal - White Erin Blanchfield paid full salary after Maycee Barber unable to compete in UFC Vegas 107 main event By Damon Martin@DamonMartin Jun 1, 2025, 3:00pm EDT 5 Comments / 5 New Damon Martin is a veteran journalist and insider covering combat sports since 2003. Erin Blanchfield won’t go home as a winner after UFC...",
+      "published": "Sun, 01 Jun 2025 19:00:00 GMT"
     },
     {
+      "id": "bd76983e03743e2ea7045bcc0a128beb",
       "title": "Magic Johnson Bluntly Blames Two Players for Knicks' Season-Ending Loss - Sports Illustrated",
       "source": "Sports Illustrated",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWQtYURjM1VhTWhvVlEyZkZjbi1qZFRIUEdtd2RpNVFnRVhua0RPNEJuYjhzWFVmZldObndVUzBuTktwSzNhczNyMlRNNWprb1o0MkIyQUt0Ymh0MGhCVm1VZ0JrazFBVEJXNTRyMzF6WG9VTU13RV96WENGU1dQOERtZ3QyTUhjRE51cDN6Z2ptQzFOdDJDNA?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
       "published": "Sun, 01 Jun 2025 19:30:06 GMT"
+    },
+    {
+      "id": "cafcd55980868c29e163e76ee0d7c0fd",
+      "title": "Horner and Wolff share their views on controversial Verstappen/Russell clash at end of Spanish GP - Formula 1",
+      "source": "Formula 1",
+      "url": "https://www.formula1.com/en/latest/article/horner-and-wolff-share-their-views-on-controversial-verstappen-russell-clash.7ywSMhJRYmnXJFo9zh4lSs",
+      "image_url": "https://media.formula1.com/image/upload/f_auto/q_auto/v1748799560/fom-website/2025/Spain/horner-wolff-comp-2025-1.png",
+      "summary": "Horner and Wolff share their views on controversial Verstappen/Russell clash at end of Spanish GP Red Bull and Mercedes team bosses Christian Horner and Toto Wolff have given their opinions on the dramatic clash between Max Verstappen and George Russell in the closing stages of the Spanish Grand Prix. After a Safety Car triggered by Kimi Antonelli’s stoppage, Verstappen found...",
+      "published": "Sun, 01 Jun 2025 18:13:57 GMT"
+    },
+    {
+      "id": "1d3572b86f629c88640a5ac1b9615de6",
+      "title": "What to watch for in tonight’s NASCAR Cup race at Nashville - NBC Sports",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/nascar/news/what-to-watch-for-in-tonights-nascar-cup-race-at-nashville",
+      "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/b3b1f0c/2147483647/strip/true/crop/3600x2025+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc5%2Fb3%2F343c8a0b4bd2a30b3df0feac1b66%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2217391648",
+      "summary": "What to watch for in tonight’s NASCAR Cup race at Nashville Published June 1, 2025 01:21 PM LEBANON, Tenn. — The second half of the NASCAR Cup regular season begins with tonight’s race at Nashville Superspeedway and there’s much at stake for several drivers in the field. Here are a few things to keep an eye on in tonight’s race...",
+      "published": "Sun, 01 Jun 2025 17:23:00 GMT"
+    },
+    {
+      "id": "dff5cc8fc3b173ef31d759fb0e56cc19",
+      "title": "Season ends for Husker baseball with historic loss to Oklahoma - KETV",
+      "source": "KETV",
+      "url": "https://www.ketv.com/article/husker-baseball-season-ends-in-big-loss-oklahoma/64938595",
+      "image_url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/baseball-683b574727835.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "summary": "Husker baseball season ends in lopsided loss to Oklahoma The Sooners get hot early to hand Nebraska its biggest loss in program NCAA Tournament history Updated: 2:37 PM CDT Jun 1, 2025 huskers vs holy cross SOURCE: Husker athletics The Nebraska baseball team sees its season come to an end on Sunday with a 17-1 loss to long-time rival Oklahoma.",
+      "published": "Sun, 01 Jun 2025 19:37:00 GMT"
+    },
+    {
+      "id": "7e2600cf27f9f71a12209f4f39413141",
+      "title": "PSG craved Champions League glory but Messi, Mbappe and Beckham couldn’t deliver. Doue could - The Athletic - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/athletic/6395072/2025/06/01/psg-champions-league-glory-messi-doue/",
+      "image_url": "https://static01.nyt.com/athletic/uploads/wp/2025/06/01021622/Doue-Champions-League-trophy-scaled.jpg?width=1200&height=630&fit=cover",
+      "summary": "PSG craved Champions League glory but Messi, Mbappe and Beckham couldn’t deliver. Doue could June 1, 2025Updated 1:39 pm UTC Javier Pastore smiled as he carried the trophy out. He was genuinely happy for those who were about to receive it. His eyes lit up, because the eyes of all the Paris Saint-Germain players suddenly gazed upon him, watching his...",
+      "published": "Sun, 01 Jun 2025 13:39:00 GMT"
+    },
+    {
+      "id": "959a972bed9780ff524da66f13094599",
+      "title": "French Open 2025 results: Carlos Alcaraz claims entertaining four-set win over Ben Shelton - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/tennis/articles/cn8z7zky7yeo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cedd/live/9e5968b0-3f18-11f0-a71b-b300e9306d09.jpg",
+      "summary": "'Angry' Alcaraz beats Shelton to reach quarters Carlos Alcaraz moved into the quarter-finals with his 100th clay-court win on the ATP Tour Dates: 25 May-8 June Venue: Roland Garros Coverage: Live radio commentaries across 5 Live Sport and BBC Sounds, plus live text commentaries on the BBC Sport website and app Defending champion Carlos Alcaraz overcame a battle \"in the...",
+      "published": "Sun, 01 Jun 2025 19:01:17 GMT"
+    },
+    {
+      "id": "70d89ccb92747205cc1a1c065c91248d",
+      "title": "Trans athlete embraced as California track and field champion by peers while adult activists duel - San Francisco Chronicle",
+      "source": "San Francisco Chronicle",
+      "url": "https://www.sfchronicle.com/sports/article/trans-athlete-embraced-california-track-field-20352080.php",
+      "image_url": "https://www.sfchronicle.com/img/logos/black/logo.svg",
+      "summary": "Press & Hold to confirm you are Reference ID 2e9faf7f-3f59-11f0-95eb-6d634a89721e",
+      "published": "Sun, 01 Jun 2025 19:53:20 GMT"
+    },
+    {
+      "id": "3803756f1d3463fc35d6d6f2e0055e82",
+      "title": "Knicks-Pacers: 5 takeaways as Indiana eliminates New York, advances to 2025 Finals - NBA",
+      "source": "NBA",
+      "url": "https://www.nba.com/news/knicks-pacers-takeaways-game-6-2025-nba-playoffs",
+      "image_url": "https://cdn.nba.com/manage/2025/06/GettyImages-2217366056-scaled.jpg",
+      "summary": "Knicks-Pacers: 5 takeaways as Indiana eliminates New York, advances to 2025 Finals Indiana's magical run continues, led by the right mix of youth, experience, pace and purpose that was enough to oust N. Y. Indiana forces 18 turnovers in Game 6, converting those miscues into 34 points to advance past New York. NBA playoffs: Bracket & complete coverage INDIANAPOLIS –...",
+      "published": "Sun, 01 Jun 2025 06:12:53 GMT"
+    },
+    {
+      "id": "842afcf0d5d6f0842ffd76de90fc6697",
+      "title": "‘Inside the NBA’ crew bids an emotional goodbye to the NBA on TNT - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/sports/2025/06/01/inside-nba-tnt-ending/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ST5ONSQI4STRBUCISVTYZHKLUE_size-normalized.jpg&w=1440",
+      "summary": "‘Inside the NBA’ crew bids an emotional goodbye to the NBA on TNT The network’s last NBA broadcast was Saturday night. Ernie Johnson, Charles Barkley, Shaquille O’Neal and Kenny Smith are taking their show to ESPN. Shaquille O'Neal, Ernie Johnson, Kenny Smith and Charles Barkley (with Jalen Rose in the middle) marked the final “Inside the NBA” broadcast on TNT.",
+      "published": "Sun, 01 Jun 2025 22:08:29 GMT"
+    },
+    {
+      "id": "7c011d5c7586b9e1c38d964020cc4ee0",
+      "title": "ECF Playoff Game Thread: Knicks at Pacers, Game Six, May 31, 2025 - Posting and Toasting",
+      "source": "Posting and Toasting",
+      "url": "https://www.postingandtoasting.com/2025/5/31/24440585/ecf-playoff-game-thread-knicks-at-pacers-game-six-may-31-2025",
+      "image_url": "https://cdn.vox-cdn.com/thumbor/CwIJ8pYjVB7KSSRM-WlasTeDGt4=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/26013502/2217401514.jpg",
+      "summary": "Follow Posting and Toasting online: ECF Playoff Game Thread: Knicks at Pacers, Game Six, May 31, 2025 New York returns to Indy for a chance to extend the series. By Russell Richardson May 31, 2025, 7:30pm EDT 2381 Comments / 2381 New Share this on Facebook (opens in new window) Share this on Twitter (opens in new window) Photo by...",
+      "published": "Sat, 31 May 2025 23:30:00 GMT"
+    },
+    {
+      "id": "d98bad6f0c3fc49d8eadfe6340220115",
+      "title": "Diamondbacks ace Corbin Burnes exits win over Nationals with elbow discomfort - Arizona Sports",
+      "source": "Arizona Sports",
+      "url": "https://arizonasports.com/mlb/arizona-diamondbacks/corbin-burnes-exits/3585777/",
+      "image_url": "https://arizonasports.com/wp-content/uploads/2025/06/GettyImages-2218140989-e1748813466435.jpg",
+      "summary": "Diamondbacks ace Corbin Burnes exits win over Nationals with elbow discomfort Jun 1, 2025, 2:34 PM | Updated: 5:06 pm Bickley Blast: How D-backs skipper Torey Lovullo can stay on the Mount Rushmore of Arizona sports 0 seconds of 10 minutes, 43 seconds Diamondbacks reporter and Arizona sports editor PHOENIX — Arizona Diamondbacks starting pitcher Corbin Burnes exited Sunday’s game...",
+      "published": "Sun, 01 Jun 2025 21:34:19 GMT"
+    },
+    {
+      "id": "67a45d26cc773f4ab277e7ed4ea2264d",
+      "title": "Derek Jeter Shares Brutal Reality for Yankees After Dodgers Loss - Sports Illustrated",
+      "source": "Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWo5clhzNEc2QTBRT0pxUzJtS3JOM3dLWjFzWDY4YVpuYTdGWE8zRTJJcTBob3NzLUpnREgxbGVXLVNSNnI3MW5IdFc1SmdZVmc4RUhpUktTODJjaWdWLVpRMWo4RGdqclEtWTJJdlFJMjBUYkh3X2d2V3c0NEoxVG9FaEozTmVwaVpqYlF5OUxuVDVHYlB3cHAtbDd0ZmJLcVFSYnJ1UmdEeExoN04xU3pn?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 15:05:00 GMT"
+    },
+    {
+      "id": "34931b152f170ae7a243b40b0272d3b6",
+      "title": "Tommy Paul and Frances Tiafoe become first American men since Andre Agassi to reach French Open quarterfinals - CNN",
+      "source": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlFMVWNzQnBJNDVsMDFneVVYSlRZV3RCMHkxRG1uNWhob0liZFlEVWJSZFZHOXhhc0wxSU1CUGpZdDVRSzRlYlR1WlBXUTZkdUhjdm50VkJlSEc1dzlZSkJMM0FDajVPcGlmUUkwZTRqQ1ZWaUhmS0h4STVlVVhMUk9KMFMxUDI0RmfSAY8BQVVfeXFMTTBpZ3NNOHE5bWF6VXM0bzYzcHB4eDNEQXJUdW9xN3JSZHV0ZURnRWZVWDdQa3U0c2kxSkUtM0owWkxqWTdIUEg5bW1IVWJnc2NyYnFDaWhTVXhiVi1nQ3laMGlOZDk4WU9ib01PV0NVeWVqbDRFc244eFpVbFVRT0l5LXgzV25uaG8wV3FBYU0?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 19:48:00 GMT"
+    },
+    {
+      "id": "b07fc639ab82e528e332cd76e07c92df",
+      "title": "Fantasy Baseball Waiver Wire: Miguel Vargas is heating up, Cole Young makes his debut - NBC Sports",
+      "source": "NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTHIxdXBwWjZxazRtQlJHbDAtMlhHNVpsZGY3X3BTR0M3UFZDQWxsdUo5WndWTFBBZHh3bnpmUHEtaWtoekFQOG9FNkRVb21kSmlzRFBBc2x2TmVmTzY3MktwNV9TbENuNWlZaVlzbnZLVUZ6T1owajVIMFFDWTdkaEhtejMzR1VpWjBMaTJlV0R2aTVubTh4MTR2NTFydUVDT0R6aVA0b2NURjkxZFZkR3h0ckNzYTBfeXcycVBudENjb3I4OXpZR1A2VQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 13:29:24 GMT"
+    },
+    {
+      "id": "688067ebd0b1a1cb36889aa2af8e98a2",
+      "title": "Knicks grew frustrated with Karl-Anthony Towns' defensive habits throughout the season, per report - CBS Sports",
+      "source": "CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzR0U2MzZXJhc29CWHVmTk9ycXh2UWI2d0xGbWNKek1aaXM4TlE5Z1dzczdxcWJiS05LVVJIWm80cXlVRjhRcy0zMDlwMk8weVVWNTNSOUl3WkQ5TENGSndFY3dRSV9WWHpKYWxUV196OXZ1WHBtMi1wWjljaUJPeWVTUXd2ZGFlbWVNbGhSQnNQQmw2Vl9VaEptSHZwd3UxMmFYZ3d1c2ZiR0VSVl9lWFFhb3hCVnFhRGRoS0FfX3dGWS16QUsxZHgxejY?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 05:08:44 GMT"
+    },
+    {
+      "id": "3d5683996bdd6de16b82110a5aa7da2b",
+      "title": "Piastri wins in Spain amid Verstappen and Russell drama - Formula 1",
+      "source": "Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU3R0UzhSRmotejdnaERwbk9jc2MtM0dfSUl4SWVibk9OSXFOMmo4R25qbWNOc0VNbmdONDFwNGQyeVp2dlBBSWZQaDNqalFjV0ZSYmtHNGMzSzdJN2M5QUVZS2FTS0dLQlhZa204azkzcHAyZGhFbmpsU0s3Q0hWMnFQT2RCQjQ4LVBLLXEtYTJ0RXBIZ0VsRjNyWjl2NkNRdmEyR0ZTTTZLc2VWV29RaFBUU0tvZlFYTTE0U2FJRDdSRkpvTU9sMlBjMDFleDhiNURCYS1kdXhOZw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 15:06:42 GMT"
+    },
+    {
+      "id": "e3aa61f2eb9e50fd1d913139b512d8c1",
+      "title": "Hinch: More to decision to pull Tarik Skubal from scoreless game than just game strategy - The Detroit News",
+      "source": "The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbFJxLTVITWJrellsYXQ4WVRzOERNLV93S1pJTXU4eUNKZnNWeG4ydENXRldsaWZNcWJvMVgtV3RMdndocHI5NjlQQUF6U216TExyZGlLYWNZWTZST2FLazFSeVpJbzdiLVZ3VjNpVkh5V3BIdWVrYnBNeGk0V3k4Tl9KVWRlckM1eDZDLTFvazFyZ2JtN3hBaXVreTJEaDkxcnNFRmJaaEhaN3BSOVJiam82a3JZZTN5ajU4WDVBOV9qN1dBTUI2Nm0tUnN3SHN3N3hrUkZpQ2dVb3ZYMUJwUGdwNVNTeUk?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 18:25:52 GMT"
+    },
+    {
+      "id": "f117e2e1f24669881b03c06ebe6b2f80",
+      "title": "GC Tactical Masterpiece: How Yates, Visma and Van Aert Pulled Off the Stunning Giro d'Italia Coup - Outside Magazine",
+      "source": "Outside Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORjAwdmhjQjdLeXRzaDlWa0lwN0Z1LWhPc0FlclB3b1NaVTBVNnN5YUVxeUhDMERQWnEwaFFobW9sMmZiaXBrMGc3TFgxdTJXZzFDdEhUeWp4QUppSjV4S0owU1VVdjN5VmpSSjhWUTNmN3oxTHVoc3Nvb1ZUZktYSFl1RWk2RG1rcUpiNV9BT0JXSnZaeTBiYVZYMmlrTTFrMlE2eUQ0akphSDg?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 16:08:59 GMT"
     }
   ]
 }

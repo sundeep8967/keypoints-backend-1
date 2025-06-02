@@ -1,39 +1,108 @@
 {
   "metadata": {
-<<<<<<< HEAD
-    "timestamp": "2025-06-01T21:31:19.165815",
-    "source": "topic: world",
-    "count": 0
-=======
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-02 04:05:08",
-    "total_articles": 3
->>>>>>> 6b4712c (/.)
+    "generation_time": "2025-06-02 02:26:17",
+    "total_articles": 11
   },
   "articles": [
     {
-      "title": "Ukraine attacks Russian aircraft in far-reaching drone strikes - The Washington Post",
+      "id": "37bb23b21f73fdcb7dd108a1e29fb02f",
+      "title": "Ukraine attacks Russian air bases in far-reaching drone strikes - The Washington Post",
       "source": "The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2c4cGtWY3pJSDd4NjhyWmoycW8wa1lvUDF1SE1uREFmSmRIQlNXMllISEpCbVlVWWFaTF9tcUpyRFFNNGFJNjkwMmdsZGIzVjVUVFJqa1pjM3h1R3RHazZUZjBOczBob0hkS0dvSmFfZ1gyZzB6Q25vZVZPMFNseUZZQWRWOVdQa2NUSGNEdEJTZw?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 20:32:46 GMT"
+      "published": "Sun, 01 Jun 2025 23:43:03 GMT"
     },
     {
+      "id": "a63cd6b6c4d295fa8dede4c305526660",
       "title": "Red Cross says at least 21 killed and dozens shot in Gaza aid incident - BBC",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c991j01lym3o",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c91a/live/9f1b45d0-3edb-11f0-a5a9-d3df92c0769e.jpg",
       "summary": "Red Cross says at least 21 killed and dozens shot in Gaza aid incident Bodies were brought to Nasser hospital after the incident A \"mass casualty influx\" of people, many with gunshot or shrapnel wounds, was received at a Red Cross field hospital in southern Gaza, the organisation said, following disputed reports about an incident near an aid distribution centre...",
-      "published": "Sun, 01 Jun 2025 19:29:50 GMT"
+      "published": "Mon, 02 Jun 2025 00:19:11 GMT"
     },
     {
-      "title": "Poland’s Presidential Election Goes Down to the Wire - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/01/world/europe/poland-election-president.html",
+      "id": "b8dbcbd4c4729752d962ff824e0de62f",
+      "title": "Polish presidential runoff neck and neck with late poll swing to rightwinger - The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcEFPektIazhWdzNEYkVFcHZpQkJWVEJGbzBrRWcxQXFZbWJLUG96eFZya0EzZFRsYjY1c0tsZmkyaUtSZGZhdDFLZnRzcWp0d3dya2dUaFVPeHRtcndnd3A4OFNCdTF4OUVsSzRkVVlrenlnaTJxTHg0QTkyOWFTVFVJRjcteVNUZ2pDTjhxS0VDb1BNZzJBU3VSTTNTWWpTeFJvd0p2REE4cUprcTQ3Tms1ei1SUUk?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 23:06:00 GMT"
+    },
+    {
+      "id": "401a2743df8863f8659a500316099257",
+      "title": "UK announces billions in fresh defense splurge amid worries about Russia - politico.eu",
+      "source": "politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTdYUnk5aGpNSlBjMmdHLWpTOHVkeTF0ZzhxOXN1dVlDMHNfRXZpTHV2OTA4VkNVOEMwQjVIUjljZ1dGTlBoQUlSRHVTc05Vcl9reEpiM1VreG9HQk85LWRJR0pjNlQ5STVkc0JXQkNxLTdBMm9yVEUxck45SVdZMF8zVFBGZzc3VDNRVHB3N09fZjg3N1JVUllUVGJMcmxyOFFBempGVEd5d1Z0WFlNVkFR?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 14:17:00 GMT"
+    },
+    {
+      "id": "99b9728b686c8f4b47d48aef8056245a",
+      "title": "Greta Thunberg sets sail with Gaza flotilla that aims to break Israeli naval blockade - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRUZHWDRCN1NMS0dLblRuVWQ3VkhKZEhUaWtnbGdCRnpkYU5DaUhKUGxRTEJwa0lNeGZ5UDltNmZVNEtPQ3MzYVVUTkNKM3BOeXFKQzJ5WUVoTWtwYkNSNHhWYVBaNDVvWTNDTklzOUprOGlOWTBmNUV2dzJPRUxzSHRpTFJiMEZEYVlpZF9yd3RLcWlRb0VfNkp2QVB6bWo2Z2RXd19VZFhmWjdVd2RhZU4tSUJTOXfSAbwBQVVfeXFMUFJxNERmZGoteXljN2VYMjJ2NHkwbGZpWVVJRFJDUk5sVWdUcWh2Y1Z2Q3ZEZUJyRzdHSjdPa1VHWlNDdGQtWU9WLWVNTWota0VHYmdkMWNQMzBpRTZpWi14LU14b3pVdzJfUUNpa2ZQVzRxaHRMazBjQWg1Z2VRR2tFRHlfQmtRY0FjYzF2UVN4VGh3ODloNVFLbHBNWlMwU0l5dWFSZGVVaXNvT0dwaUdwaE9WV1lxaEJMajU?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 18:28:14 GMT"
+    },
+    {
+      "id": "794a06b060f33a3e66af59c5490db48e",
+      "title": "Three years into his war on Ukraine, what does Putin really want? - NPR",
+      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDZkVnR3NGtyS1ZtaFNzYU5EZlhDLXExSzVKUWhMRDZOOXIwb1FaZl9CZy1hRnFaWTYwOWZXenVYakh1djhlVkNxSllKdGt3WXZSZ0tia09lV3ljOWFQSlF0SE15UjMwS2E3Q1F4Q3JfMVZkeWRrNkQ5X05wbGFjU0lLd0tpeVdkNGZPYkw5SWVmVjVCaHNPMVIycW1iaWpJeVlUYkFVZXQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 19:50:36 GMT"
+    },
+    {
+      "id": "fc94137c58772ed739024bb79432f0f4",
+      "title": "China says Hegseth is touting a Cold War mentality in calling the country a threat - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRzhPYmVRck1fWU1tY3FQVy0tQXU0NVBEaFdHZnd2ZHk5SDJGU2lUVndyQXY2MEJaLW1Db0JfSUFQUUFLRy1EUmhMRVhMNm1HNExaaFozSDdKenlmcnJpeFN6azBsRy1TSHlJR0lUMUMzWXk4UXNnWldvMHRYLU1PVUZCQVhXa2I3T2NNamdMd2plODRYVnVMOA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 12:02:00 GMT"
+    },
+    {
+      "id": "0de858255f68b81771cfbca65694f962",
+      "title": "Seven dead after two Russian bridges collapse in regions near Ukraine - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLXJSeWlOenkwNVNhdWFnQ3d6eUhoVS04V2p6MTJIZTd6UzYzMlhVVGxuVFlDa3ZlMlQ1NElobmF5cHMxZ3p3TXB1THVYc0VPM0o2NVRoaTd3Zk5PbWJtZGw2OThSTWljNkw1VGlPTExGaGt6OXJVU3Z3dDhtRHpXcjNNdXI2cmx0RzhmLW9R?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 20:24:02 GMT"
+    },
+    {
+      "id": "b695f1e1f65c6fb30e490e2eaa137086",
+      "title": "Exclusive: Ukraine to set out roadmap for peace at Istanbul talks, document shows - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/ukraine-set-out-roadmap-peace-istanbul-talks-document-shows-2025-06-01/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 19:31:49 GMT"
+      "published": "Sun, 01 Jun 2025 13:32:26 GMT"
+    },
+    {
+      "id": "e63a25951fff9187ba2c0423da7a891c",
+      "title": "Israel delivers over 340 aid trucks to Gaza through Hamas bypass route - Ynetnews",
+      "source": "Ynetnews",
+      "url": "https://www.ynetnews.com/article/a8u87q1i8",
+      "image_url": "https://www.ynetnews.com/images/news_defualt.jpg",
+      "summary": "'A bumbling f–king idiot': Trump envoy's 'unorthodox diplomatic approach' unnerving allies and insiders Cinnamon: The Greatest Enemy Of Blood Sugar (See How To Use It) Israel delivers over 340 aid trucks to Gaza through Hamas bypass route The IDF has recently launched an operation to bypass Hamas's control of humanitarian aid and the bottleneck created in aid transfers due to...",
+      "published": "Sat, 31 May 2025 19:49:31 GMT"
+    },
+    {
+      "id": "369dbdf6e694fab354aa53e172672fab",
+      "title": "Gazan Doctor Who Lost Nine Children in Israeli Strike Dies of Wounds - Haaretz",
+      "source": "Haaretz",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOQy01RnVHcnRBRk1zQkpTWXdkZHg3ZUZhcTN2M3NkeTVEOWVfdmdUMWw1a3ZVZEQwNFZwSGw4eUJnVE9wT3MtTFJzNHdpZ3ZJYWRyMUhWOWdHTjFEaUN0N1l2Rk1DN0pmc2VGVjZoSUp3cnNXdy1PUTh2NGpmWFd1OW1aNkM1UGdzSVBMRUlGNzFoeU9paFRGal9DX3NsRjJ5ZGxuUkNtc3FoT3c3ZzMwQklpYl9fQlBTXzBobzJxa2pLSEhCX1dDUjI0bUJKZVRybzdSdWYzdVlybTJwc0tUc2JRNmo1YjJ0MnBlTm5ydkhxTXFiRW5ya21sdS1RanQ4eHNLbg?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 08:30:00 GMT"
     }
   ]
 }
