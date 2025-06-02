@@ -1,10 +1,19 @@
 {
   "metadata": {
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-02 06:49:39",
+    "generation_time": "2025-06-02 12:01:49",
     "total_articles": 20
   },
   "articles": [
+    {
+      "id": "8b891beeeb134120fbd8347592bc65fb",
+      "title": "Scientists identify two global ocean bands heating at record rates - Earth.com",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/news/scientists-identify-two-global-ocean-bands-heating-at-record-rates/",
+      "image_url": "https://cff2.earth.com/uploads/2025/05/30042025/scientists-identify-two-global-ocean-bands-heating-record-rate.jpg",
+      "summary": "Scientists identify two global ocean bands heating at record rates Oceans are absorbing more heat than ever before. Researchers indicate that these waters have gained warmth at an unprecedented rate, and that shift affects weather patterns and marine life. Scientists have examined global measurements from 2000 to 2023, comparing them to early-2000s conditions. The findings point to two latitudinal stretches...",
+      "published": "Sun, 01 Jun 2025 23:59:22 GMT"
+    },
     {
       "id": "023f02927ca8bf95a415342aff10a177",
       "title": "SpaceX adds 27 Starlink satellites to constellation after successful launch from California (video) - Space",
@@ -24,6 +33,15 @@
       "published": "Mon, 02 Jun 2025 04:03:07 GMT"
     },
     {
+      "id": "36e1b6a4d319ecc339ea5a7c7110a085",
+      "title": "Geologists Reveal World’s Biggest Iron Deposit Worth $6 Trillion Set to Impact Global Economy - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/geologists-reveal-worlds-biggest-iron-deposit-worth-6-trillion-set-to-impact-global-economy/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Aerial-drone-photo-from-the-construction-of-an-industrial-sand-quarry-in-a-forest.jpg",
+      "summary": "Geologists Reveal World’s Biggest Iron Deposit Worth $6 Trillion Set to Impact Global Economy A massive iron ore deposit has been uncovered deep in Western Australia, with unexpected implications for global markets and geology. This find challenges long-held scientific beliefs and could shift the balance of the mining industry. Aerial Drone Photo From The Construction Of An Industrial Sand Quarry...",
+      "published": "Mon, 02 Jun 2025 10:45:00 GMT"
+    },
+    {
       "id": "40411b97825241cf683ed1862dd662c2",
       "title": "Scientists Spot Mysterious Object in Our Galaxy Pulsing Every 44 Minutes - futurism.com",
       "source": "futurism.com",
@@ -33,13 +51,13 @@
       "published": "Sun, 01 Jun 2025 12:30:32 GMT"
     },
     {
-      "id": "0768fdbc75d2567a43f5eb476cd03cd4",
-      "title": "NYC summer stargazing seasons kicks off with triangle, meteor showers - Gothamist",
-      "source": "Gothamist",
-      "url": "https://gothamist.com/news/nyc-summer-stargazing-seasons-kicks-off-with-triangle-meteor-showers",
-      "image_url": "https://api-prod.gothamist.com/images/351534/fill-1200x650|format-webp|webpquality-85/",
-      "summary": "A non-profit newsroom, powered by WNYC. NYC summer stargazing seasons kicks off with triangle, meteor showers Alan Dyer/VWPics/Universal Images Group via Getty Images We rely on your support to make local news available to all Make your contribution now and help Gothamist thrive in 2025. Donate today The summer triangle — the quintessential astronomical sign that days are getting longer...",
-      "published": "Sun, 01 Jun 2025 22:01:00 GMT"
+      "id": "b325104eead646326b93b030d0fc2322",
+      "title": "Vienna calling: Strauss's 'Blue Danube' waltzes into outer space - Phys.org",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2025-06-vienna-strauss-blue-danube-waltzes.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.169.14.19 : 29684889-0a7f-420b-9972-e42da6e1",
+      "published": "Sun, 01 Jun 2025 10:27:11 GMT"
     },
     {
       "id": "2fb6d618c64ff469af5bb5052f6aa50b",
@@ -51,31 +69,58 @@
       "published": "Sun, 01 Jun 2025 18:30:00 GMT"
     },
     {
-      "id": "8b891beeeb134120fbd8347592bc65fb",
-      "title": "Scientists identify two global ocean bands heating at record rates - Earth.com",
-      "source": "Earth.com",
-      "url": "https://www.earth.com/news/scientists-identify-two-global-ocean-bands-heating-at-record-rates/",
-      "image_url": "https://cff2.earth.com/uploads/2025/05/30042025/scientists-identify-two-global-ocean-bands-heating-record-rate.jpg",
-      "summary": "Scientists identify two global ocean bands heating at record rates Oceans are absorbing more heat than ever before. Researchers indicate that these waters have gained warmth at an unprecedented rate, and that shift affects weather patterns and marine life. Scientists have examined global measurements from 2000 to 2023, comparing them to early-2000s conditions. The findings point to two latitudinal stretches...",
-      "published": "Sun, 01 Jun 2025 23:59:22 GMT"
-    },
-    {
-      "id": "b325104eead646326b93b030d0fc2322",
-      "title": "Vienna calling: Strauss's 'Blue Danube' waltzes into outer space - Phys.org",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2025-06-vienna-strauss-blue-danube-waltzes.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.39.62.5 : 0759f80f-aba5-4bbc-ac86-76944d7c",
-      "published": "Sun, 01 Jun 2025 10:27:11 GMT"
-    },
-    {
       "id": "cc2804c6518357d1c87e24ddaf49b9e4",
       "title": "Space photo of the week: Pink 'raindrops' on the sun captured in greatest detail ever - Live Science",
       "source": "Live Science",
-      "url": "https://www.livescience.com/space/the-sun/space-photo-of-the-week-pink-raindrops-on-the-sun-captured-in-greatest-detail-ever",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/AMcyuNkeBkeVHyeQMCpg4.jpg",
-      "summary": "Ancient DNA reveals collapsed civilization Buried cave 'trash' surprises researchers Space photo of the week: Pink 'raindrops' on the sun captured in greatest detail ever By Jamie Carter published 21 hours ago Solar scientists have unveiled spectacular new images of plasma \"rain\" in the sun's corona using adaptive optics. When you purchase through links on our site, we may earn...",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSTJEalNmaEQybEM1UzVqenRac1pXYzJMcF91OHk1MlJkTzV4cFpaQ0k4NVNRenVvOUl1aU14X2E2Qy1nZWEybm1aREZPWC1rbFU1OUZ3bDJxbmVLUmhMdDRZdC1sYTRmZG5NWS1FVnZTRUY5R3pmT1pMUmR4NlpueURnbnNuN2Y1T2tOa01vWlZFRnpkNnFTMXRoTUdaQWtkUFR6UWV4ZkNJYU5lWktJRS05MFhhQlNhRmV5SmdfNjlKUQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Sun, 01 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "id": "e62a0142893a510a4007a1f4ddaafdf5",
+      "title": "What’s up in the sky for June 2025? Arietid meteor shower, strawberry moon and much more - WTOP",
+      "source": "WTOP",
+      "url": "https://wtop.com/the-space-place/2025/06/whats-up-in-the-sky-for-june-2025-arietid-meteor-shower-strawberry-moon-and-much-more/",
+      "image_url": "https://wtop.com/wp-content/uploads/2025/05/GettyImages-1325452488-scaled.jpg",
+      "summary": "This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy Click to toggle navigation menu. Home » The Space Place » What’s up in the… What’s up in the sky for June 2025? Arietid meteor shower, strawberry moon and much...",
+      "published": "Sun, 01 Jun 2025 10:46:20 GMT"
+    },
+    {
+      "id": "b385b560ed1dfb0641d690fd357b1957",
+      "title": "Terraforming Mars Isn’t Sci-Fi Anymore – Here’s What It Would Take - SciTechDaily",
+      "source": "SciTechDaily",
+      "url": "https://scitechdaily.com/terraforming-mars-isnt-sci-fi-anymore-heres-what-it-would-take/",
+      "image_url": "https://scitechdaily.com/images/Terraforming-Mars-Sequence.jpg",
+      "summary": "Home»Space»Terraforming Mars Isn’t Sci-Fi Anymore – Here’s What It Would Take Terraforming Mars Isn’t Sci-Fi Anymore – Here’s What It Would Take Could we really terraform Mars? A fresh scientific push examines the technological and biological hurdles of making Mars habitable. What if we could turn Mars into a second Earth? A group of scientists is revisiting this audacious idea...",
+      "published": "Sat, 31 May 2025 14:32:04 GMT"
+    },
+    {
+      "id": "4dc58f30a49b2e9990b5c33f3a014b68",
+      "title": "Aurora borealis lights up northern Nevada, Carson City skies - Carson Now",
+      "source": "Carson Now",
+      "url": "https://www.carsonnow.org/06/01/2025/aurora-borealis-lights-up-northern-nevada-carson-city-skies",
+      "image_url": "https://www.carsonnow.org/wp-content/uploads/2025/06/494570150_716207354134023_6401886546308374266_n.jpg",
+      "summary": "Your One Stop for Carson City News Aurora borealis lights up northern Nevada, Carson City skies Recent activity on the sun led to an array of northern lights, also known as aurora borealis, over Northern Nevada skies overnight. Carson Now reader Crystal Pacheco captured these images near Carson City in Washoe Valley area early Sunday morning, at around 12:30 a.",
+      "published": "Sun, 01 Jun 2025 17:31:13 GMT"
+    },
+    {
+      "id": "2d4e0306fcbaf4eef98f132658c62fb6",
+      "title": "US-led scientists discover new evidence on origins of intermediate-mass black holes - Yahoo",
+      "source": "Yahoo",
+      "url": "https://www.yahoo.com/news/us-led-scientists-discover-evidence-165036080.html",
+      "image_url": "https://media.zenfs.com/en/interesting_engineering_646/55e9b3761d621db6cf392c54b9c73dba",
+      "summary": "Poll: Trump’s ratings since tariffs Speaker Johnson on Medicaid cuts US-led scientists discover new evidence on origins of intermediate-mass black holes Sat, May 31, 2025 at 4:50 PM UTC Black holes are generally grouped into three sizes: stellar-mass black holes, which are about five to 50 times the mass of the sun; supermassive black holes, with millions to billions of...",
+      "published": "Sat, 31 May 2025 16:50:36 GMT"
+    },
+    {
+      "id": "6aac042e8cc70439156c5e195dcd0acc",
+      "title": "Webb Captures a Cosmic Forest of Ancient Galaxies - PetaPixel",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2025/06/01/webb-captures-a-cosmic-forest-of-ancient-galaxies/",
+      "image_url": "https://petapixel.com/assets/uploads/2025/05/abell-s1603-featured.jpg",
+      "summary": "Webb Captures a Cosmic Forest of Ancient Galaxies Abell S1603 as seen by the James Webb Space Telescope. Space enthusiasts are encouraged to head over to the ESA’s website to download the full-size TIFF image. The NASA/ESA/CSA James Webb Space Telescope (JWST)’s new “Picture of the Month” shows the mega-monster galaxy cluster Abell S1063. This impressive collection of galaxies is...",
+      "published": "Sun, 01 Jun 2025 12:00:47 GMT"
     },
     {
       "id": "01ce24ba93b2eecf5ea800218ca31b05",
@@ -83,7 +128,7 @@
       "source": "Ynetnews",
       "url": "https://www.ynetnews.com/travel/article/ry00em3tfge",
       "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/31/rkaDV6dMee/rkaDV6dMee_0_0_650_366_0_large.jpg",
-      "summary": "Discover Effortless Glucose Monitoring: Request a Free Trial Hamas captivity survivor has hostage ribbon confiscated at Cannes Festival Homeowners Can Access Low-Interest HELOC Funds for Debt Ancient fingerprint in Spain may offer new insights into Neanderthal psyche Neanderthal fingerprint discovered on 43,000-year-old Spanish stone Perico sparks debate over possible use of symbolism; analysis reveals deliberate ochre use and cognitive complexity...",
+      "summary": "Seniors Born 1939-1969 Receive 11 Benefits This Month If They Ask Teenage former hostage: Terrorist touched me constantly, said he wants us to get married Why CVS Hides This Cheap 87¢ ED Medication Health Alliance by Friday Plans Ancient fingerprint in Spain may offer new insights into Neanderthal psyche Neanderthal fingerprint discovered on 43,000-year-old Spanish stone Perico sparks debate over...",
       "published": "Sun, 01 Jun 2025 11:45:06 GMT"
     },
     {
@@ -96,42 +141,6 @@
       "published": "Sun, 01 Jun 2025 09:04:11 GMT"
     },
     {
-      "id": "6146a9c224a32609f5029f96c295ae5b",
-      "title": "Can adults grow new brain cells? - Live Science",
-      "source": "Live Science",
-      "url": "https://www.livescience.com/health/neuroscience/can-adults-grow-new-brain-cells",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/dCJoSCFvUjkYtwXwauHvkJ.jpg",
-      "summary": "Ancient DNA reveals collapsed civilization Buried cave 'trash' surprises researchers Can adults grow new brain cells? By Marilyn Perkins published 15 hours ago Scientists are still debating whether the human brain is capable of growing new cells past childhood. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. \"Neurogenesis,\" or the...",
-      "published": "Sun, 01 Jun 2025 16:00:00 GMT"
-    },
-    {
-      "id": "fd4db148f67398feff1e1f6c4328e467",
-      "title": "10 stunning pictures of space captured by NASA's James Webb - Times of India",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/life-style/spotlight/web-stories/10-stunning-pictures-of-space-captured-by-nasas-james-webb/photostory/121509088.cms",
-      "image_url": "https://static.toiimg.com/thumb/msid-121509282,imgsize-37236,width-900,height-1200,resizemode-6/121509282.jpg",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 09:30:00 GMT"
-    },
-    {
-      "id": "bd5487c05a18338dc9fbe12807ba1ff1",
-      "title": "Super-magnetic dead star throws a violent temper tantrum as NASA X-ray spacecraft looks on - Space",
-      "source": "Space",
-      "url": "https://www.space.com/astronomy/super-magnetic-dead-star-throws-a-violent-temper-tantrum-as-nasa-x-ray-spacecraft-looks-on",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/2zfZpYtETkipTwSBuLhdXF.png",
-      "summary": "Starship Flight 9 Launch Failure Super-magnetic dead star throws a violent temper tantrum as NASA X-ray spacecraft looks on By Robert Lea published 21 hours ago \"This is the first time we have been able to observe the polarization of a magnetar in an active state. \" When you purchase through links on our site, we may earn an affiliate...",
-      "published": "Sun, 01 Jun 2025 10:00:00 GMT"
-    },
-    {
-      "id": "09933197c0160c9b790239870a3934a8",
-      "title": "Make-A-Wish helps Tacoma cancer patient fulfill dream of giving back to fellow children - KOMO",
-      "source": "KOMO",
-      "url": "https://komonews.com/news/local/make-a-wish-helps-tacoma-cancer-patient-fulfill-dream-giving-back-fellow-children-community-video-games-nintendo-healthcare-fight-mary-bridge-childrens-hospital-tucker-schuld",
-      "image_url": "https://komonews.com/resources/media2/16x9/1280/986/center/90/0e1253a6-11a7-4bcb-9c6f-768e29ce2987-DN28MAKEAWISHVIDEOGAMESJRPJResch_0001_frame_47244.jpeg",
-      "summary": "Make-A-Wish helps Tacoma cancer patient fulfill dream of giving back to fellow children Theron Zahn,KOMONewsStaffSun, June 1st 2025 at 12:13 PM Image of game systems sent to Mary Bridge Children's Hospital in Tacoma as part of Tucker Schuld wish to give back. (Photo: KOMO News) TACOMA, Wash. — Make-A-Wish Alaska & Washington makes a lot of wishes come true for...",
-      "published": "Sun, 01 Jun 2025 19:13:14 GMT"
-    },
-    {
       "id": "bfcc85b2bbfc0bc75b9c0d8baa8fb889",
       "title": "The Ocean Is Getting Darker, Threatening All That Lives Within - ScienceAlert",
       "source": "ScienceAlert",
@@ -141,22 +150,13 @@
       "published": "Sat, 31 May 2025 22:02:45 GMT"
     },
     {
-      "id": "2b4865aa16e4740e3060351a81b663d5",
-      "title": "Scientists Stunned by 183-Million-Year-Old Fossil With Intact Skin and Scales - Indian Defence Review",
-      "source": "Indian Defence Review",
-      "url": "https://indiandefencereview.com/183-million-year-fossil-intact-skin-scales/",
-      "image_url": "https://indiandefencereview.com/wp-content/uploads/2025/05/scientists-stunned-by-183-million-year-old-fossil-with-intact-skin-and-scales.jpg",
-      "summary": "Scientists Stunned by 183-Million-Year-Old Fossil With Intact Skin and Scales A 183-million-year-old fossil with preserved skin and scales is rewriting everything we thought we knew about how ancient sea monsters looked, moved, and evolved. Credit: PeerJ (2025) - copyright Shutterstock The ancient seabeds of modern-day Germany have yielded a rare discovery that is reshaping scientific views on how marine reptiles...",
-      "published": "Sun, 01 Jun 2025 16:30:00 GMT"
-    },
-    {
-      "id": "9b3955e82d318fa47e1344413ad2435e",
-      "title": "Study shows that early humans climbed trees and worked with stone - Earth.com",
-      "source": "Earth.com",
-      "url": "https://www.earth.com/news/study-shows-early-humans-climbed-trees-and-worked-with-stone/",
-      "image_url": "https://cff2.earth.com/uploads/2025/05/30044113/study-early-humans-climbed-trees-worked-stone.jpg",
-      "summary": "Study shows that early humans climbed trees and worked with stone Early human ancestors sometimes left hints of daily life in their bones. Researchers have analyzed fossil hands from southern Africa and discovered that these ancient populations relied on climbing as well as handling stones for possible tool-related tasks. They studied the species Australopithecus sediba from around 2 million years...",
-      "published": "Sun, 01 Jun 2025 17:56:55 GMT"
+      "id": "bd5487c05a18338dc9fbe12807ba1ff1",
+      "title": "Super-magnetic dead star throws a violent temper tantrum as NASA X-ray spacecraft looks on - Space",
+      "source": "Space",
+      "url": "https://www.space.com/astronomy/super-magnetic-dead-star-throws-a-violent-temper-tantrum-as-nasa-x-ray-spacecraft-looks-on",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2zfZpYtETkipTwSBuLhdXF.png",
+      "summary": "Starship Flight 9 Launch Failure Super-magnetic dead star throws a violent temper tantrum as NASA X-ray spacecraft looks on By Robert Lea published yesterday \"This is the first time we have been able to observe the polarization of a magnetar in an active state. \" When you purchase through links on our site, we may earn an affiliate commission. Here’s...",
+      "published": "Sun, 01 Jun 2025 10:00:00 GMT"
     },
     {
       "id": "a2af244dd47f05f348d49d9a665ce12a",
@@ -168,22 +168,22 @@
       "published": "Sun, 01 Jun 2025 06:21:51 GMT"
     },
     {
-      "id": "578215fb5a9a0d0e197990c3e8f35644",
-      "title": "The Largest Black Hole Jet Ever Found Is 3 Times the Size of the Milky Way - The Daily Galaxy",
-      "source": "The Daily Galaxy",
-      "url": "https://dailygalaxy.com/2025/06/the-largest-black-hole-jet-ever-found/",
-      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/05/The-Largest-Black-Hole-Jet-Ever-Found-Is-3-Times-the-Size-of-the-Milky-Way.jpg",
-      "summary": "The Largest Black Hole Jet Ever Found Is 3 Times the Size of the Milky Way An ancient quasar has unleashed a radio jet so vast it dwarfs the Milky Way! Image credit: NOIRLab/NSF/AURA/M. Garlick | The Daily Galaxy --Great Discoveries Channel Astronomers have discovered the largest and most ancient radio jet ever detected, emitted by a quasar from when...",
-      "published": "Sun, 01 Jun 2025 15:00:00 GMT"
+      "id": "35e4cecb33300bb7315f6f4bd4222016",
+      "title": "MIT’s Chilling Experiment That Could Prove Gravity Is Quantum - SciTechDaily",
+      "source": "SciTechDaily",
+      "url": "https://scitechdaily.com/mits-chilling-experiment-that-could-prove-gravity-is-quantum/",
+      "image_url": "https://scitechdaily.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. scitechdaily. com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sun, 01 Jun 2025 02:55:40 GMT"
     },
     {
-      "id": "0001bfa2f5bf4f4613291c0a79739c4f",
-      "title": "Former church in Northern Kentucky now a heavenly home for sale - WKRC",
-      "source": "WKRC",
-      "url": "https://local12.com/news/local/former-church-northern-kentucky-heavenly-home-for-sale-divine-house-residence-living-space-brooksville-cincinnati-area",
-      "image_url": "https://local12.com/resources/media2/16x9/1083/986/0x57/90/4c281e26-4be4-41f1-a891-5e05716dedeb-1.JPG",
-      "summary": "Former church in Northern Kentucky now a heavenly home for sale by WKRCSun, June 1st 2025 at 11:09 PM A unique property has hit the market in Northern Kentucky, offering a divine opportunity for homebuyers. Once a church, this traditional-style building in Brooksville has been transformed into a single-family residence. (Next Door Photos viaDavid G Schneider ofKen Perry Realty) BROOKSVILLE,...",
-      "published": "Sun, 01 Jun 2025 03:09:15 GMT"
+      "id": "2b4865aa16e4740e3060351a81b663d5",
+      "title": "Scientists Stunned by 183-Million-Year-Old Fossil With Intact Skin and Scales - Indian Defence Review",
+      "source": "Indian Defence Review",
+      "url": "https://indiandefencereview.com/183-million-year-fossil-intact-skin-scales/",
+      "image_url": "https://indiandefencereview.com/wp-content/uploads/2025/05/scientists-stunned-by-183-million-year-old-fossil-with-intact-skin-and-scales.jpg",
+      "summary": "Scientists Stunned by 183-Million-Year-Old Fossil With Intact Skin and Scales A 183-million-year-old fossil with preserved skin and scales is rewriting everything we thought we knew about how ancient sea monsters looked, moved, and evolved. Credit: PeerJ (2025) - copyright Shutterstock The ancient seabeds of modern-day Germany have yielded a rare discovery that is reshaping scientific views on how marine reptiles...",
+      "published": "Sun, 01 Jun 2025 16:30:00 GMT"
     }
   ]
 }
