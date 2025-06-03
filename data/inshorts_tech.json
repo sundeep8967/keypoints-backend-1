@@ -1,72 +1,108 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-03 07:32:02",
+    "generation_time": "2025-06-03 14:10:22",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "4d2adcb78d2a4e253a6041d8d9400737",
-      "title": "Samsung could drop Google Gemini in favor of Perplexity for Galaxy S26 - Ars Technica",
+      "id": "89bc120d154607dbef1f459d7822c620",
+      "title": "Meta and Yandex are de-anonymizing Android users’ web browsing identifiers - Ars Technica",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2025/06/samsung-could-drop-google-gemini-in-favor-of-perplexity-for-galaxy-s26/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/galaxy_ai-1152x648.jpg",
-      "summary": "Samsung could drop Google Gemini in favor of Perplexity for Galaxy S26 This move would reduce Samsung's reliance on Google. Samsung already includes a plethora of AI features on Galaxy phones. Credit: Samsung Every smartphone maker is racing to find a way to put AI in your pocket, but no one has cracked the code yet. Samsung was an early...",
-      "published": "Mon, 02 Jun 2025 18:52:05 GMT"
+      "url": "https://arstechnica.com/security/2025/06/headline-to-come/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/android-tracking-binoculars-1152x648.jpg",
+      "summary": "Meta and Yandex are de-anonymizing Android users’ web browsing identifiers Abuse allows Meta and Yandex to attach persistent identifiers to detailed browsing histories. Credit: Aurich Lawson | Getty Images Tracking code that Meta and Russia-based Yandex embed into millions of websites is de-anonymizing visitors by abusing legitimate Internet protocols, causing Chrome and other browsers to surreptitiously send unique identifiers to...",
+      "published": "Tue, 03 Jun 2025 12:00:48 GMT"
     },
     {
-      "id": "f970a7a51680cdeffa3905d450973378",
-      "title": "WhatsApp is finally getting usernames - 9to5Mac",
+      "id": "4a0d53447d9142f5e52c0d4d679ed0d9",
+      "title": "Counterpoint Research finally gives Apple some good news from Europe - 9to5Mac",
       "source": "9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5MllEYTZ3NjVyc2N2dUVxVzdhU3ZmbnlhUHFWV2NwQkU4eGNTLWtqbTVLMUNaclgzNEVLaUoySlRvV1NvWXVScEtLZjVsSXU4bHNNUGo1ZlktUDM3QUFkeF8tSmlkYnd0bGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fdkd0YzRDTEdLdmVZQm5NNXNnbUNQUU1hS2xLZHZOa2NpalhzYTFZZGhpMGZib0loWXJ1UUpnN0hIR28wRjZNVHh5SDdTblMzeVVMcURhRjFtZ1ZLXzVTNTlTSmF1dWFHVUFIYV9faHI0Z01GVDBrbQ?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 21:17:00 GMT"
+      "published": "Mon, 02 Jun 2025 23:56:00 GMT"
+    },
+    {
+      "id": "aa4120f6889a37d797740af4e57a9d04",
+      "title": "Court documents reveal OpenAI is coming for your iPhone - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UeU1RU0h6dUY3bWwxYVVaLVpsNDFvc2RRempTS0ZKbVg4OUFzUy0wZVJVc2VCbEFWQjdYdE5oX3BjUzRrX21uNkhhVVozNXBfbUdpZ19SYTZGRWoxSlZMNHk5YTQ2cXp0dU5MV24wSDdudw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 23:35:00 GMT"
+    },
+    {
+      "id": "5f975246c9b77e668417378ce3725aad",
+      "title": "Fresh iPhone 17 leak gives first close-up look at next-gen Apple smartphones - Mashable",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qREZDN3BybzJSanlTV3JiZDM2Z1dxb3lPVWJtQVdraEdpS3d1NGtNTlVIbnljc2E1Ty1EdXAwYUI0WndwUTZZTEpldF81YnF6SXpETlJ3T3pEUzdHbUE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 14:20:33 GMT"
+    },
+    {
+      "id": "dceb7a5e19b88fa9233fa72878f4ba07",
+      "title": "Three new features to look for in the Apple Watch Ultra 3 - Neowin",
+      "source": "Neowin",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMVU4M2tlRWVhOWtLOHRWbW9nWGdLa19GR0c2azZJb0tUZkVhWTVMOWFjSzQ3SUlKLVkyZXBZMU5fb0NzQmh6MzMwZldnODlCazNCenEzVnhfTWstWFhtcXlHRTZaZExpQ2tVUHlGNDhrRlBydkhkeDJFNHd5Sk5iZFpoS1BLSWFwUl9uQTVxMNIBjgFBVV95cUxPdGRHRXM1OHIwR1NTSml4Vjk0SFRkTzJvMzMxX0xHdV94Mno1ejA2X2E3M3dWX0RRaU0yeDV3bkIwZnYtWHBJclpZTERtYkRzejZYNE0wek01MTNVMlZ0ek9oSjBpUmtBV2FJcFBMemNVb29iMmgzZnBkbEZXa2pONzBPdG1jU3BJQzVLQjNn?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 08:48:00 GMT"
+    },
+    {
+      "id": "1b344023a1be1ef3f701b28e452802ff",
+      "title": "Why You Should Stop Texting On Your iPhone Or Android Phone - Forbes",
+      "source": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1JzMUhhd3RNUTNnMWFQeHN0UmZ4bGFnLXRtZWV3bjZqQmRJdTdXTm82bFhUalZOVzFzeEpoUzBIUVp2T005TXg1ajNOVjhoNFIyRkkwRjhqRjhfanpfSWh1LWhJcC1NR2ZqUldmdWtRNk9hS3NkYjQ4OWk5cDZHaUtrTFpPY0pYdTdtWjNOWG01UVZuVWxHbGMwdHRBRTQ2RWFuc2hZRE0xQUpuNm9aOA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 03 Jun 2025 08:10:00 GMT"
+    },
+    {
+      "id": "affbee89fb981f58fad6ef4b33e41412",
+      "title": "Best Buy's TV sale includes up to $900 off Roku Pro Series sets - Engadget",
+      "source": "Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMGNQN0xMYUlpTHlkUXNIT1F3bGprR2VkTENoM1pObmt1ZzdNTG5yaWt1SkdiNjRNZFZqUXNLNGc3anpqNGpoZTJyVHFTdzRLRkZjRFg0NGtSMUJJQjM4Qmd4UHdQaXEzQk5xYUFJbnlVTm5pN2pob2JfQkRya1ZPSkdMU0RiSzRWd1VZcm1qSEc1cHhyTzZ6a3lOREVwRTQ1cWd1UG8xcE16Y3M?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 18:54:55 GMT"
     },
     {
       "id": "628c09b8be8c0f0a41565b072baaaf15",
       "title": "Shortcuts App to Get Revamp With Apple Intelligence Integration - MacRumors",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2025/06/02/shortcuts-app-apple-intelligence-integration/",
-      "image_url": "https://images.macrumors.com/t/8e_jEzuBU1wRG67C1Wi3wOzMcZU=/1600x/article-new/2021/06/image-1.png",
-      "summary": "iPhone 16eWWDC 2025iOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad minimacOS 26 TahoeApple Watch 10iPhone 18CarPlayApple Pay Shortcuts App to Get Revamp With Apple Intelligence Integration...",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUkt0ZGhzWlBWM2F4dzYwYnlIVDl2aHliZExtQTJuLTc0LTBlWS1QLUE2V0c3djBCckV0T1BZMllzb1ZhZk9kb25sUmNPbzk4YVNYMzhjTGNxZHRKUl9hdXRhTmhZUm9PVkVySWwtRTllRXlYM29oc2JNMVIxMS1pQm5Zck9IZ0RDRWc?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Mon, 02 Jun 2025 10:25:17 GMT"
-    },
-    {
-      "id": "f7c25efdaa7108a70be58ac21ea06cd4",
-      "title": "Microsoft will finally stop bugging Windows users about Edge — but only in Europe - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/678350/microsoft-dma-windows-10-11-bing-edge",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385267/STK148_Microsoft_Edge_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "Microsoft will finally stop bugging Windows users about Edge — but only in EuropeApparently only the Digital Markets Act can stop Bing from begging you to switch . Richard Lawler is a senior editor following news across tech, culture, policy, and entertainment. He joined The Verge in 2021 after several years covering news at Engadget. Microsoft’s changes in response to...",
-      "published": "Mon, 02 Jun 2025 22:40:34 GMT"
     },
     {
       "id": "86bc63b3cf09daf534b4c6af88e23905",
       "title": "How AI chatbots keep you chatting - TechCrunch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/06/02/how-ai-chatbots-keep-you-chatting/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1465545513.jpg?resize=1200,686",
-      "summary": "How AI chatbots keep you chatting Millions of people are now using ChatGPT as a therapist, career advisor, fitness coach, or sometimes just a friend to vent to. In 2025, it’s not uncommon to hear about people spilling intimate details of their lives into an AI chatbot’s prompt bar, but also relying on the advice it gives back. Humans are...",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uQjBiZlNRSzFGeVh4ZURacmQ4UExUdjBrQ0F4ODl6Zlh1OGNXSy0tRWVZMXgzUHJyQk5seURwekRkRlV0TGhWTU9zVXBfaHlTSWcyOENrOFpjdS1tclpScVVpN21saEZvQk5hVW15a3dXMldCek1Z?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Mon, 02 Jun 2025 17:08:12 GMT"
     },
     {
-      "id": "a5133bd733c1096eb6b13667b6f0130c",
-      "title": "Heroes of the Storm Live Patch Notes - June 2, 2025 - Blizzard News",
-      "source": "Blizzard News",
-      "url": "https://news.blizzard.com/en-us/article/24206703/heroes-of-the-storm-live-patch-notes-june-2-2025",
-      "image_url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/jy/JYHX2TFBDGOL1748881108012.png",
-      "summary": "Heroes of the Storm Live Patch Notes - June 2, 2025 New patch arrived to celebrate 10 Year Anniversary of Heroes of the Storm! Read on for more information. All Heroes will be free starting from now until June 15th. NEW: All players will receive two new portraits to celebrate the 10 year anniversary of Heroes. Players who are unable...",
-      "published": "Mon, 02 Jun 2025 17:25:00 GMT"
+      "id": "f05df10c8902cbd08e69afcac5ad4f7d",
+      "title": "Elden Ring Nightreign two-player mode confirmed, as FromSoftware celebrates 3.5m players - Eurogamer",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/elden-ring-nightreign-two-player-mode-confirmed-as-fromsoftware-celebrates-35m-players",
+      "image_url": "https://assetsio.gnwcdn.com/ELDEN-RING-NIGHTREIGN-_-Official-Launch-Trailer-1-27-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "Summer Games Fest & IGN Live Schedule If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News Elden Ring: Nightreign Elden Ring Nightreign two-player mode confirmed, as FromSoftware celebrates 3. 5m players News by Ed Nightingale Deputy News Editor Elden Ring Nightreign has now had 3. 5 million...",
+      "published": "Tue, 03 Jun 2025 08:32:53 GMT"
     },
     {
-      "id": "57cbd2fbb9bb4a8464bba81ff701a57b",
-      "title": "By Adding This Free Carry Bag to Your Cart, The Anker Solix Power Station Drops 50% in Price on Amazon - Gizmodo",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/by-adding-this-free-carry-bag-to-your-cart-the-anker-solix-power-station-drops-50-in-price-on-amazon-2000610249",
-      "image_url": "https://gizmodo.com/app/uploads/2025/06/anker-solix-c1000-bag.jpg",
-      "summary": "We may earn a commission when you buy through links on the site. By Adding This Free Carry Bag to Your Cart, The Anker Solix Power Station Drops 50% in Price on Amazon If you've been considering a portable power station, this is the kind of deal that doesn’t come around often. If you’re looking for the best value on...",
-      "published": "Mon, 02 Jun 2025 21:18:48 GMT"
+      "id": "61e5435990caea754d001f3d3643002f",
+      "title": "Private Japanese spacecraft aims to land in the moon's 'Sea of Cold' this week - Space",
+      "source": "Space",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEpCUFFYb3RBaENFQ2VRTDltM1FONm00Ykp4UHhKYWphQ0RFcjdLenFvdUw4YkxBOU5jbEI0NnNwc2FtWVJJczlHako4dUhNUGRhUkF1YTRtTWpjWHJVSllZOWhwMWNwRU9IVmZtalBicUJUTHk4eVFCVWNFenVNT2w0WUFiUXBYYWRXbkR1YjhCM2lDZC14SS1FVlBjMEoyQ3laRVRDNUpOMTJHS0s4ZlZUNzE2WFZWeDBPYw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 16:00:00 GMT"
     },
     {
       "id": "e71de6b75ea6d2a519e3bb5fc0226e77",
@@ -78,40 +114,31 @@
       "published": "Mon, 02 Jun 2025 11:57:38 GMT"
     },
     {
-      "id": "9be5b64c40ed560af2afaad1ea1a3868",
-      "title": "Elden Ring Nightreign Patch Notes Include Promised Improvements For Solo Play - GameSpot",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/elden-ring-nightreign-patch-notes-include-promised-improvements-for-solo-play/1100-6531974/",
-      "image_url": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4504959-screenshot2025-06-02at9.28.20am.png",
-      "summary": "Best Nightreign Classes/Tier List Open CoD Overlook Warzone Safe Room GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links. Elden Ring Nightreign Patch Notes Include Promised Improvements For Solo Play Here's how Elden Ring Nightreign is improved for solo players with its newest update. By Eddie Makuch on June 2, 2025...",
-      "published": "Mon, 02 Jun 2025 14:37:17 GMT"
+      "id": "52feb7714b5bdc6e3333a57e877b1eb8",
+      "title": "Activision Insists Heavily Criticized Call of Duty Black Ops 6 and Warzone Ads in Loadout Menus Were a 'Test' Published 'In Error,' Strips Them Out Following Backlash - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/activision-insists-heavily-criticized-call-of-duty-black-ops-6-and-warzone-ads-in-loadout-menus-were-a-test-published-in-error-strips-them-out-following-backlash",
+      "image_url": "https://assets-prd.ignimgs.com/2025/03/26/unforgettable-verdansk-teaser-call-of-duty-warzone-1743003581825.jpeg?width=1280",
+      "summary": "Activision Insists Heavily Criticized Call of Duty Black Ops 6 and Warzone Ads in Loadout Menus Were a 'Test' Published 'In Error,' Strips Them Out Following Backlash Activision has pulled controversial Call of Duty adverts placed inside Black Ops 6 and Warzone loadouts, insisting they were a “feature test” published “in error. ” Following last week’s launch of Season 4,...",
+      "published": "Tue, 03 Jun 2025 07:28:36 GMT"
     },
     {
-      "id": "df732a65159a7c349f2de730b44a69dc",
-      "title": "Apple Readies WWDC Stream on YouTube Ahead of Keynote Next Week - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2025/06/02/apple-readies-wwdc-2025-live-stream/",
-      "image_url": "https://images.macrumors.com/t/jsPQQ5G0NoXbzWGtIGZdKffj8ak=/1600x/article-new/2025/06/WWDC-2025-YouTube-Thumbnail.jpg",
-      "summary": "iPhone 16eWWDC 2025iOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad minimacOS 26 TahoeApple Watch 10iPhone 18CarPlayApple Pay Apple Readies WWDC Stream on YouTube Ahead of Keynote...",
-      "published": "Mon, 02 Jun 2025 16:24:03 GMT"
-    },
-    {
-      "id": "9747f4f731693eaccd06f8fdbbbd9b91",
-      "title": "Google’s Pixel 10 phones will reportedly launch on August 13th - The Verge",
+      "id": "f7c25efdaa7108a70be58ac21ea06cd4",
+      "title": "Microsoft will finally stop bugging Windows users about Edge — but only in Europe - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/news/678088/google-pixel-10-release-date-launch-august",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25565665/DSCF0049.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "Google’s Pixel 10 phones will reportedly launch on August 13thGoogle’s next generation of flagship phones is expected to be revealed in mid-August and hit stores a week later. The Pixel 10 phones are likely to look an awful lot like last year’s Pixel 9 models. Photo by Chris Welch / The Verge Dominic Preston is a news editor with over...",
-      "published": "Mon, 02 Jun 2025 16:30:51 GMT"
+      "url": "https://www.theverge.com/news/678350/microsoft-dma-windows-10-11-bing-edge",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385267/STK148_Microsoft_Edge_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "Microsoft will finally stop bugging Windows users about Edge — but only in EuropeApparently only the Digital Markets Act can stop Bing from begging you to switch . Richard Lawler is a senior editor following news across tech, culture, policy, and entertainment. He joined The Verge in 2021 after several years covering news at Engadget. Microsoft’s changes in response to...",
+      "published": "Mon, 02 Jun 2025 22:40:34 GMT"
     },
     {
-      "id": "687c57e99c72d09b5035df99e95973df",
-      "title": "Walmart Nintendo Switch 2 pre-order: some US customers can buy it again - The Shortcut | Matt Swider",
-      "source": "The Shortcut | Matt Swider",
-      "url": "https://www.theshortcut.com/p/walmart-nintendo-switch-2-pre-order-cancelled",
-      "image_url": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b1bbee2-fc71-40ba-917c-ace2b27dffd1_1366x768.png",
-      "summary": "Discover more from The Shortcut Get smarter about tech in 7 minutes with The Shortcut, the #1 consumer tech publication on Substack. Join for FREE to get trusted news and honest reviews – and Nintendo Switch 2 pre-order alerts! By subscribing, I agree to Substack's Terms of Use, and acknowledge its Information Collection Notice and Privacy Policy. Already have an...",
-      "published": "Tue, 03 Jun 2025 00:10:17 GMT"
+      "id": "a5133bd733c1096eb6b13667b6f0130c",
+      "title": "Heroes of the Storm Live Patch Notes - June 2, 2025 - Blizzard News",
+      "source": "Blizzard News",
+      "url": "https://news.blizzard.com/en-us/article/24206703/heroes-of-the-storm-live-patch-notes-june-2-2025",
+      "image_url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/jy/JYHX2TFBDGOL1748881108012.png",
+      "summary": "Heroes of the Storm Live Patch Notes - June 2, 2025 New patch arrived to celebrate 10 Year Anniversary of Heroes of the Storm! Read on for more information. All Heroes will be free starting from now until June 15th. NEW: All players will receive two new portraits to celebrate the 10 year anniversary of Heroes. Players who are unable...",
+      "published": "Mon, 02 Jun 2025 17:25:00 GMT"
     },
     {
       "id": "56a36374b0c747b7ee2605c4c9fc0486",
@@ -123,67 +150,40 @@
       "published": "Mon, 02 Jun 2025 12:45:32 GMT"
     },
     {
+      "id": "92e7ecbec8334181526b31ff4ee3f634",
+      "title": "How to watch Apple’s WWDC keynote with iOS 26 and more - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOTRpQnJmMndLb1N2MFhGZDRySlFYQmhmbWRGNHZJb2RYRHpPMUJ2MVB3djBMMVpqTkZwVmtTRVpmR1V3STNMMkNHRy0wNzFYV2xEd0NzM0ZKOXBJakpZb1pGdWJKZi1aaE1VS0hhNHZCVjh1ckttV05pWTdWelp1TW40aEF3ajJGWk5R?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 19:26:00 GMT"
+    },
+    {
+      "id": "e0e702213f37f1f9ef6bfd9cabbd3332",
+      "title": "Epic Games to include open-source Arm Accuracy Super Resolution (ASR) into Fornite - VideoCardz.com",
+      "source": "VideoCardz.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnBnbTI4ai1oZDZEWnNYSzRyenVKTXBFbXRqb0JQLWtTMlRkbGt4Y1UxQmFsZEQzYkpJeFdIcXJMZFFNQWpzNVFaRHp6MlVYTGUtQnJkOHF1NVFpczhUMjNIX2VtbnZuV21JcTBtWmZJWnFBMVpheHFqVlNNU21XRHJySVhCS3N2TTlJbFl1R0N4RlhBLW9PTUJXVnJOS09HampHZjlxanhwOUFQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 03 Jun 2025 10:44:00 GMT"
+    },
+    {
+      "id": "57cbd2fbb9bb4a8464bba81ff701a57b",
+      "title": "By Adding This Free Carry Bag to Your Cart, The Anker Solix Power Station Drops 50% in Price on Amazon - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQi1jVmItXzhkNlBKOXQtSmljcVRvdVZuUXoybndyQmY3Q3BoTlhtRFg4ZjJRQXd0eFBzRHdlNDM1UGlabEkxSVhWTlFxbkFQcUZsb1hvSDhTamhQRF9QU0F1RlNvMGtHblBBUGRXLTVSQzExWUFsS0l0MlhTdFJyYTRWbVdvR2lSZ0pJSEtFajFjSE1kN2NpS2ZfUmJQa212YkVTUmRMUXNvbHdhTmJZa09qeVZmUDYwdFdlOXNDSzUxeUFFd2tPNFE3Yw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 21:18:48 GMT"
+    },
+    {
       "id": "7eda14b8c2a9c1b9472dc4bce21ad5cd",
       "title": "Samsung sends out public safety alert urging Galaxy users to enable new security features - Android Police",
       "source": "Android Police",
-      "url": "https://www.androidpolice.com/samsung-sends-public-safety-alert/",
-      "image_url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/06/samsung-galaxy-s25-ultra-colors-2-new-logo.jpg",
-      "summary": "Samsung sends out public safety alert urging Galaxy users to enable new security features Samsung partnered with the UK Home Office to promote Android's anti-theft features. Galaxy phones now include security features like Theft Detection Lock, Offline Device Lock, and Remote Lock. Galaxy-exclusive features like Identity Check and Security Delay boost device security. While Google has been tightening Android's security...",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wNWxTdXMtVDlLSFM4d2FaYmJrYWphTWpyODU0aVVIMFNmUFlyamRiWjdabFg1SWNZY2E2T0I1c3BaSmJLWDZ3eEZ0aU5RVzFqREwwVXh4M3oxX0FLdHNMMHhQNEJtU3lURFlKNmRWT3JSUQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Mon, 02 Jun 2025 19:35:00 GMT"
-    },
-    {
-      "id": "91dfd9542c12b818273a57f2af579a4b",
-      "title": "Here’s what Pokémon Scarlet and Violet look like running on Switch 2 - Polygon",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/pokemon/602862/pokemon-scarlet-and-violet-switch-2-trailer-reveal-upgrade",
-      "image_url": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/pokemon-scarlet-violet-nintendo-switch-2-update.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "summary": "Here’s what Pokémon Scarlet and Violet look like running on Switch 2 Game Freak finally released a trailer for Pokémon Scarlet and Violet’s massive performance boost for Nintendo Switch 2 Image: GameFreak/The Pokémon Company Isaac Rouse is a seasoned writer covering all things gaming, anime, and horror for Polygon. Since their launch, Pokémon Scarlet and Violet have faced criticism for...",
-      "published": "Mon, 02 Jun 2025 18:27:45 GMT"
-    },
-    {
-      "id": "6a2fa07fff7207080eb461455982b094",
-      "title": "Outfit 3 for Elena, M. Bison, Terry and Mai revealed for Street Fighter 6 - EventHubs",
-      "source": "EventHubs",
-      "url": "https://www.eventhubs.com/news/2025/jun/02/street-fighter-outfit-3-dlc/",
-      "image_url": "https://media.eventhubs.com/images/2025/06/02-street-fighter-outfit-3-dlct.webp",
-      "summary": "You're not logged in | Login / Register | News Filter | Submit News Outfit 3 for Elena, M. Bison, Terry and Mai revealed for Street Fighter 6 Posted by Dakota DarkHorse Hills • June 2, 2025 at 4:07 p. m. PDT • Comments: 63 The end of Street Fighter 6 Season 2 is almost here, and it looks like...",
-      "published": "Mon, 02 Jun 2025 23:07:18 GMT"
-    },
-    {
-      "id": "579105c130b9b47ee5d30460a2b898f3",
-      "title": "Nintendo Warns Switch 2 Owners Not to Remove Protective Screen Film - CNET",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/gaming/nintendo-warns-switch-2-owners-not-to-remove-protective-screen-film/",
-      "image_url": "https://www.cnet.com/a/img/resize/3c29e0533c86c06a193b448fda98ca1334844632/hub/2025/04/03/7d5059a9-9be0-4c9f-8d37-528960e19f9f/switch-2-hands-on-00-02-20-01-still002.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "summary": "Nintendo Warns Switch 2 Owners Not to Remove Protective Screen Film Nintendo issues warning for Switch 2 console just days before its widely anticipated release. Nintendo's instructions clearly state, \"do not peel off the protective film on the screen. \" As excitement builds for Nintendo's upcoming console, the Switch 2, the company is issuing an important warning: Do not peel...",
-      "published": "Mon, 02 Jun 2025 17:35:00 GMT"
-    },
-    {
-      "id": "f458b3a666fa4a5e36c4da848aad6432",
-      "title": "New Nintendo Switch 2 Welcome Tour demo trailer shows off mini games and tech demos in-action - Eurogamer",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/nintendo-switch-2-welcome-tour-demo-trailermini-games-tech-demos",
-      "image_url": "https://assetsio.gnwcdn.com/nintendo-switch-2-welcome-tour.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "summary": "Summer Games Fest & IGN Live Schedule If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News Nintendo Switch 2 Welcome Tour New Nintendo Switch 2 Welcome Tour demo trailer shows off mini games and tech demos in-action News by Connor Makar Contributor Follow Nintendo Switch 2 Welcome...",
-      "published": "Mon, 02 Jun 2025 13:47:19 GMT"
-    },
-    {
-      "id": "d5eddd9dd670824887cf824d69527186",
-      "title": "ESO Seasons of the Worm Cult Dev Q&A – ‘There’s Tons of Exciting Stuff We Haven’t Talked About That’s Coming to the Game’ - Wccftech",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/eso-seasons-of-the-worm-cult-developer-qa-theres-tons-of-exciting-stuff-we-havent-talked-about-thats-coming-to-the-game/",
-      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2025/06/ESO_Worm_Cult_WrithingWall_3840x2160-scaled.jpg",
-      "summary": "We use technology such as cookies on our site to collect and use personal data to personalize content and ads, to provide social media features and to analyse our traffic. We may share your cookies with third party vendors and service providers. ESO Seasons of the Worm Cult Dev Q&A – ‘There’s Tons of Exciting Stuff We Haven’t Talked About...",
-      "published": "Mon, 02 Jun 2025 14:00:00 GMT"
-    },
-    {
-      "id": "802320f9b7a170224ac58dd8d54f2f60",
-      "title": "IO Interactive Showcase Featuring 007 First Light, Hitman, And MindsEye Announced For This Week - Game Informer",
-      "source": "Game Informer",
-      "url": "https://www.gameinformer.com/2025/06/02/io-interactive-showcase-featuring-007-first-light-hitman-and-mindseye-announced-for-this",
-      "image_url": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2025/06/02/92ce2aba/io_interactive_promoted.jpg",
-      "summary": "The print magazine is returning soon. Lock in early-bird pricing today by signing up for an account! IO Interactive Showcase Featuring 007 First Light, Hitman, And MindsEye Announced For This Week by Wesley LeBlanc on Jun 02, 2025 at 02:04 PM Hitman: World of Assassination developer IO Interactive revealed earlier today that its in-development James Bond game is titled “007...",
-      "published": "Mon, 02 Jun 2025 19:04:00 GMT"
     }
   ]
 }
