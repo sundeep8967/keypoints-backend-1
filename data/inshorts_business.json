@@ -1,28 +1,10 @@
 {
   "metadata": {
     "source_file": "data/news_business.json",
-    "generation_time": "2025-06-02 22:56:19",
+    "generation_time": "2025-06-03 02:58:25",
     "total_articles": 20
   },
   "articles": [
-    {
-      "id": "4fb37d47a7283db4dbcf1d48200db780",
-      "title": "Stock Market Today: Nasdaq Closes Higher; China Says U.S. Has 'Seriously Undermined' Trade Truce — Live Updates - WSJ",
-      "source": "WSJ",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-trump-tariffs-trade-war-06-02-2025",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 20:28:00 GMT"
-    },
-    {
-      "id": "968c1c71c99cab388d39ab079851c513",
-      "title": "Finance leaders fear destructive U.S. debt scenario - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2025/06/02/us-treasury-auction-debt-interest-rates",
-      "image_url": "https://images.axios.com/B_Uv341sMfqJ08fozDQTPMI0-Pk=/0x0:1920x1080/1366x768/2025/06/02/1748874813317.jpg",
-      "summary": "Finance leaders fear destructive U. S. debt scenario Hundreds of times a year, the U. S. Treasury auctions off debt securities — bills, bonds, and notes. This is how Uncle Sam borrows the billions needed to finance the government's deficits. The big picture: Top financial and business leaders, including some who served at high levels in President Trump's first term,...",
-      "published": "Mon, 02 Jun 2025 16:30:42 GMT"
-    },
     {
       "id": "66a25781acf953b59172c76ec6bdcb2d",
       "title": "Disney to cut hundreds of employees in latest round of layoffs - Los Angeles Times",
@@ -30,16 +12,25 @@
       "url": "https://www.latimes.com/entertainment-arts/business/story/2025-06-02/disney-begins-new-round-of-layoffs",
       "image_url": "https://ca-times.brightspotcdn.com/dims4/default/4b83151/2147483647/strip/true/crop/3900x2048+0+367/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe8%2F5b%2F092f3635405d92a3b42d65df0516%2Fla-photos-1staff-776331-et-ct-company-building-photos-677.jpg",
       "summary": "Disney to cut hundreds of employees in latest round of layoffs The entrance to Walt Disney Co. is seen from West Alameda Avenue in Burbank. (Dania Maxwell / Los Angeles Times) June 2, 2025 Updated 2:16 PM PT Walt Disney Co. launched another deep round of layoffs on Monday, notifying several hundred Disney employees in the U. S. and abroad...",
-      "published": "Mon, 02 Jun 2025 17:46:40 GMT"
+      "published": "Mon, 02 Jun 2025 21:16:14 GMT"
     },
     {
-      "id": "c16ba3760c93a3b91c9b5ebdf9b08e4d",
-      "title": "Nvidia Stock Gains. What’s Driving the Chip Maker. - Barron's",
-      "source": "Barron's",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-china-trade-tension-97332964",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 13:57:00 GMT"
+      "id": "12a1298ffac05cb1ec0685fa033975c1",
+      "title": "CNBC Daily Open: Elon Musk's companies report positive developments amid his return to work - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/03/cnbc-daily-open-good-news-for-musks-companies-amid-his-return-to-work.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108152763-1748632191432-gettyimages-2217113797-AFP_48PB7F7.jpeg?v=1748633237&w=1920&h=1080",
+      "summary": "CNBC Daily Open: Elon Musk’s companies report positive developments amid his return to work U. S. stocks posted modest gains Monday, the first trading day of June. European stocks mostly fell. The 50% tariff on steel imports announced by U. S. President Donald Trump will push up prices of the metal in America, analysts say. Elon Musk’s Neuralink has closed...",
+      "published": "Tue, 03 Jun 2025 00:50:00 GMT"
+    },
+    {
+      "id": "93d83faddccc0b2e4333e024bdb64ca7",
+      "title": "Americans are cooking more often at home amid concerns about a wobbling economy - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2025/06/02/campbell-soup-home-cooking-economy",
+      "image_url": "https://images.axios.com/72KUDkYpNYa_R5RNid953q6d9hM=/0x0:1920x1080/1366x768/2025/06/02/1748899322949.jpg",
+      "summary": "Why Americans are suddenly cooking at home again Illustration: Brendan Lynch/Axios Americans are cooking at home more often and targeting budget-friendly foods, according to The Campbell's Company. Why it matters: The trend reported Monday by Campbell's — whose brands include its eponymous soup, Prego sauce and Snyder's pretzels — comes as restaurant chains like McDonald's have already flagged softness in...",
+      "published": "Mon, 02 Jun 2025 22:26:33 GMT"
     },
     {
       "id": "7123bb2451956f2747b25006380418ef",
@@ -47,8 +38,53 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2025/06/02/roark-capital-daves-hot-chicken.html",
       "image_url": "https://image.cnbcfm.com/api/v1/image/108108391-1740665884304-gettyimages-2202158353-_97a2088_oz6kcotj.jpeg?v=1740665943&w=1920&h=1080",
-      "summary": "Stock futures are little changed after S&P 500 kicks off June with a modest gain Private equity firm Roark Capital invests in fast-growing restaurant chain Dave’s Hot Chicken Roark Capital has invested in Dave’s Hot Chicken, a fast-growing restaurant chain that focuses on spicy chicken tenders. Dave’s U.S. sales soared 57% last year and surpassed $600 million, according to Technomic.",
+      "summary": "Private equity firm Roark Capital invests in fast-growing restaurant chain Dave’s Hot Chicken Roark Capital has invested in Dave’s Hot Chicken, a fast-growing restaurant chain that focuses on spicy chicken tenders. Dave’s U.S. sales soared 57% last year and surpassed $600 million, according to Technomic. Roark’s investment follows a boom for chicken-focused restaurants and a rising tolerance for spice among...",
       "published": "Mon, 02 Jun 2025 17:18:57 GMT"
+    },
+    {
+      "id": "5e9afe676f7821b471aa2a9eb742ece8",
+      "title": "JPMorgan CEO Jamie Dimon tells Fox Business US debt could cause bond turmoil - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/jpmorgan-ceo-jamie-dimon-tells-fox-business-us-debt-could-cause-bond-turmoil-2025-06-02/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 12:47:59 GMT"
+    },
+    {
+      "id": "89fb4e7434bb520d18632840c3429588",
+      "title": "Bond yields rise amid debt concerns as BlackRock signals strategic shift - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4454419-bond-yields-rise-amid-debt-concerns-as-blackrock-signals-strategic-shift",
+      "image_url": "https://seekingalpha.com/samw/static/images/bull-and-bear.32d6d115c.png",
+      "summary": "Home page Seeking Alpha - Power to Investors Search for Symbols, analysts, keywords Getting lost on Seeking Alpha is annoying; being lost in the stock market is worse. Sign up now. Seeking Alpha - Power to Investors",
+      "published": "Mon, 02 Jun 2025 15:54:00 GMT"
+    },
+    {
+      "id": "2189826f45265e5751841e86c27e0e38",
+      "title": "As Courts Call Tariffs Into Question, Trump Again Turns to His Favorite Tool - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/02/business/economy/trump-tariffs-courts.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 20:53:41 GMT"
+    },
+    {
+      "id": "9bc05277e003cd3a4370d998192c8205",
+      "title": "A runway under construction at Newark's beleaguered airport reopens early - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/02/nx-s1-5421234/newark-airport-closed-runway-opens-early",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+236/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2Fa4%2F33ee99ad4d93adbb1a578b5b7d5f%2Fgettyimages-2213256896.jpg",
+      "summary": "A runway under construction at Newark's beleaguered airport reopens early United Airline planes are seen at Newark Liberty International Airport in New Jersey on May 7. Kena Betancur/AFP via Getty Images A runway at Newark Liberty International Airport that had been undergoing renovations for weeks and whose closure contributed to a recent wave of flight delays and cancellations has reopened...",
+      "published": "Mon, 02 Jun 2025 21:05:35 GMT"
+    },
+    {
+      "id": "2ff8f5405194c94b11f84ed27d4ca499",
+      "title": "Google's Demis Hassabis says AI will create new 'very valuable jobs.' Here's what he'd study as a student right now. - Business Insider",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/demis-hassabis-google-deemind-study-future-jobs-ai-2025-6",
+      "image_url": "https://i.insider.com/683dbe2b6ffb6822ec61e296?width=1200&format=jpeg",
+      "summary": "Google's Demis Hassabis says AI will create new 'very valuable jobs. ' Here's what he'd study as a student right now. .save-icon-fill { display: none; } . save-icon.is-active . save-icon-fill, . save-icon-fill. is-active { display: block; fill: currentColor; } Read the latest market-moving news Manage your newsletter preferences By continuing, I agree to receive newsletter and marketing emails from Business...",
+      "published": "Mon, 02 Jun 2025 16:09:00 GMT"
     },
     {
       "id": "26d12296dd50496f09bd4d1b8f03d5c2",
@@ -60,130 +96,94 @@
       "published": "Mon, 02 Jun 2025 20:13:00 GMT"
     },
     {
-      "id": "2ff8f5405194c94b11f84ed27d4ca499",
-      "title": "Google's Demis Hassabis says AI will create new 'very valuable jobs.' Here's what he'd study as a student right now. - Business Insider",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/demis-hassabis-google-deemind-study-future-jobs-ai-2025-6",
-      "image_url": "https://i.insider.com/683dbe2b6ffb6822ec61e296?width=1200&format=jpeg",
-      "summary": "Google's Demis Hassabis says AI will create new 'very valuable jobs. ' Here's what he'd study as a student right now. .save-icon-fill { display: none; } . save-icon.is-active . save-icon-fill, . save-icon-fill. is-active { display: block; fill: currentColor; } Unlimited access. Unlimited possibility. Renews at $12. 95/mo after first year Subscribers get unlimited access to: Insights & advice to propel...",
-      "published": "Mon, 02 Jun 2025 16:09:00 GMT"
+      "id": "66eeb5d8d9253c8aa1524492045facbc",
+      "title": "Stock futures slip after S&P 500 kicks off June with a modest gain: Live updates - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/02/stock-market-today-live-updates.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108153346-1748880999002-Trading-OB-20250602-CC-PRESS-6.jpg?v=1748881174&w=1920&h=1080",
+      "summary": "Stock futures slip after S&P 500 kicks off June with a modest gain: Live updates Traders work on the floor of the New York Stock Exchange on June 2, 2025. Stock futures were slightly lower on Monday night after the major averages began June’s trading on a positive note. slipped 0.2%, and Dow Jones Industrial Average futures lost 83 points,...",
+      "published": "Mon, 02 Jun 2025 23:57:00 GMT"
     },
     {
-      "id": "605528540c44ddf0cede31454199275e",
-      "title": "Cleveland-Cliffs, Tesla, GM, Blueprint Medicines, BioNTech, DraftKings, and More Movers - Barron's",
-      "source": "Barron's",
-      "url": "https://www.barrons.com/articles/stock-movers-a710e00e",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 18:30:00 GMT"
+      "id": "67a49d4fed7ea27fe6b15ddec400592f",
+      "title": "To prevent blackouts, Trump administration keeps another aging power plant online through summer - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-pennsylvania-eddystone-power-plant-e5eb5295a6b8de72636a9478e06fec4b",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Mon, 02 Jun 2025 22:57:00 GMT"
     },
     {
-      "id": "180da91ada458ad5359c88016d590bb2",
-      "title": "There's a salad war brewing in San Francisco - Business Insider",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/travis-kalanick-cloudkitchens-picnic-mixt-2025-5",
-      "image_url": "https://i.insider.com/683a2c60ca50259add4d671e?width=1200&format=jpeg",
-      "summary": "There's a salad war brewing in San Francisco Mike Windle/Getty Images for Vanity Fair . save-icon-fill { display: none; } . save-icon.is-active . save-icon-fill, . save-icon-fill. is-active { display: block; fill: currentColor; } CloudKitchens launched a food delivery service for office workers called Picnic last year. Mixt sued Picnic, saying that Picnic resold Mixt's salads without permission and exaggerated prices.",
-      "published": "Mon, 02 Jun 2025 09:00:00 GMT"
-    },
-    {
-      "id": "a562227e8c9641b19be72e59457253d0",
-      "title": "Major auto company shuttering 145 stores across US - USA Today",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/money/2025/06/02/monro-auto-closing-stores-us/83989336007/",
-      "image_url": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/02/USAT/83989922007-usatsi-23714483.jpg?auto=webp&crop=2499,1407,x0,y63&format=pjpg&width=1200",
-      "summary": "Rick Astley achieves streaming milestone with '80s hit Major auto company shuttering 145 stores across US One of America's largest automotive service companies is closing 145 stores across the nation after sales recently dropped by $5. 2 million, the company's top leader announced. Monro Inc., will shutter the stores after reporting a 4. 9% decrease in sales in the 2025...",
-      "published": "Mon, 02 Jun 2025 16:58:28 GMT"
-    },
-    {
-      "id": "c1be5035beb480df2eee1e5238454e64",
-      "title": "Yay: Newark Airport’s Closed Runway Reopens, Ahead Of Schedule - One Mile at a Time",
-      "source": "One Mile at a Time",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91bUh5X0lQeVNPU2lEd1U5aW1CbXcxUF80TGdnYlRfMi1zb1NOZXVWMGNONU5MZ3F4bjNqRTVlQUtQWXM5TmItNzBrODV4WUhDUkwwWEVUS2JXREs1UDlsMHRBYTNxSDNqQTJRTjF6Uk5oUHRZVENEdw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 13:26:19 GMT"
-    },
-    {
-      "id": "bcaeb4fd58ed1c7effb1c39144f0a303",
-      "title": "Flight path shake-up promises quicker flights and fewer delays - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c1e69qv1qwjo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1d00/live/0e444df0-3fc5-11f0-b894-1bc5031ee36f.jpg",
-      "summary": "Quicker flights promised in flight path shake-up Plans to fast-track the remodelling of the UK's flight paths could lead to shorter journey times, fewer delays, and more flights for passengers, the government says. The transport department said the UK Airspace Design Service (UKADS) will re-design the routes planes must take over UK airspace - many of which were decided around...",
-      "published": "Mon, 02 Jun 2025 14:03:22 GMT"
-    },
-    {
-      "id": "ca6a83982607ecf84a70ec9e239667f9",
-      "title": "Manufacturing activity contracted in May as imports hit lowest level since 2009 - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU3pGelhZUzdoUlVXaS1kdTdVdENUVW1YVkpJN0dLMFdzMnNoLW1pS3FtelgybVJOckdiU3h4QzYyZnBzcnZLbkk0bkQ1c2ZsdmJ5YnZZdVItVWZCS3RvRGdma1VmbHJoZDRYLVhURXBtUHpDNHJVa2tDMm1iNE9OTERra3ZrOXlmM2lUZ2h3N3BFRlhXSVRmV2dhdUZmX1BRek1PY0sxRkZVSElaaVRQQm9RaFpaZ0swc2hnTEVwakhPVEU?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 15:17:33 GMT"
+      "id": "48b1d3f2b7f4c72d0a28183d5e3669e2",
+      "title": "Nvidia: False Narrative Mistake (NASDAQ:NVDA) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4791539-nvidia-false-narrative-mistake",
+      "image_url": "https://seekingalpha.com/samw/static/images/bull-and-bear.32d6d115c.png",
+      "summary": "Home page Seeking Alpha - Power to Investors Search for Symbols, analysts, keywords Getting lost on Seeking Alpha is annoying; being lost in the stock market is worse. Sign up now. Seeking Alpha - Power to Investors",
+      "published": "Mon, 02 Jun 2025 00:00:00 GMT"
     },
     {
       "id": "78822be508ac130ea18d2a048eb21fd6",
       "title": "Trump puts U.S. Steel cart before the horse - Axios",
       "source": "Axios",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16NnVzUFFqT2wxeFI5STJXOEw1Wjc4YjNQcnpyMVg4TnJZbFhhM3RSaEJjVDFxRFhOOXNKYXVzeV9Cb25PaXBacm5jY0ZyOHNua3hzTmF5cHBYU254aklYMk5LVzM?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 15:36:08 GMT"
+      "url": "https://www.axios.com/2025/06/02/trump-us-steel-nippon",
+      "image_url": "https://images.axios.com/qD_DMRmmQIfMOddvwQeDnT5W718=/0x0:8165x4593/1366x768/2025/06/02/1748876858877.jpg",
+      "summary": "Trump puts U. S. Steel cart before the horse Photo: Saul Loeb/AFP via Getty Images President Trump on Friday spoke for nearly an hour to workers at a U. S. Steel plant near Pittsburgh, crediting himself with saving their jobs by negotiating a \"partnership\" between their employer and Japan's Nippon Steel. Later that evening in Washington, D. C., he told...",
+      "published": "Mon, 02 Jun 2025 15:36:47 GMT"
+    },
+    {
+      "id": "497932f77971fc932c5d878cb447781d",
+      "title": "Manufacturing PMI® at 48.5%; May 2025 Manufacturing ISM® Report On Business® - PR Newswire",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-48-5-may-2025-manufacturing-ism-report-on-business-302470183.html",
+      "image_url": "https://mma.prnewswire.com/media/327063/institute_for_supply_management_logo.jpg?p=facebook",
+      "summary": "Manufacturing PMI® at 48. 5%; May 2025 Manufacturing ISM® Report On Business® Institute for Supply Management New Orders and Backlogs Contracting; Production and Employment Contracting; Supplier Deliveries Slowing; Raw Materials Inventories Contracting; Customers' Inventories Too Low; Prices Increasing; Exports and Imports Contracting TEMPE, Ariz. , June 2, 2025 /PRNewswire/ -- Economic activity in the manufacturing sector contracted in May for...",
+      "published": "Mon, 02 Jun 2025 14:00:00 GMT"
     },
     {
       "id": "c32c40e25095cde0194bd734da57462b",
       "title": "With Opella proceeds burning a hole in its pocket, Sanofi snaps up Blueprint for $9.1B - Fierce Pharma",
       "source": "Fierce Pharma",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXFKZ0xmUVgzS0ZQQTROSmVXN05uNVd2aXFFSVY5Qi1aYjV3a1BfZGVsNjhGSnU5SVVwQ3R3NDg1RTZKSnlmQ1E0ajhqc0FUc1E3aEtTdGVEQVR1X2tQWEgtSFVTblNNQ1ZpbVhHM1ZrM2pLSFpxTkFneXRfRFNaWmhlZGtjRWtWLVZ5b0pHc2lDeE9vRTZFTEo4ektSYWM?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.fiercepharma.com/pharma/opella-sale-burning-hole-its-pocket-sanofi-snaps-blueprint-95b",
+      "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Sanofi.jpg?VersionId=qmSrZ6ZZ2fdObp0VayvsUKq9kbIQSkJg",
+      "summary": "With Opella proceeds burning a hole in its pocket, Sanofi snaps up Blueprint for $9. 1B By Kevin Dunleavy Jun 2, 2025 11:09am Sanofi Blueprint Medicines Ayvakit rare diseases In late April, when Sanofi revealed that it was selling a controlling stake in its consumer health business Opella for 10 billion euros ($11. 4 billion), chief financial officer Francois Roger...",
       "published": "Mon, 02 Jun 2025 15:09:07 GMT"
     },
     {
-      "id": "980447da1a0469a77293ecfb66ae0fbf",
-      "title": "DOE orders Constellation to delay retiring 760 MW to ease PJM ‘emergency’ - Utility Dive",
-      "source": "Utility Dive",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa0xaMWtUcmxISnhDdFFqc3k3cXJja1dzRnlLMERibVI5b0JwOG84cTRDWGtSMXZpM3FuRlFNeEV2M25GMUNGenlONVMzeEdtVV9EQ09xeEswdXBmWXNlQ1pvdjlEUG4xZ05WdEtPdS1fV2tYa1hlbVUwREg1VHRERmRRbWxORHJKZnc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 15:11:53 GMT"
+      "id": "395160b3cb866959f1c661feb7dac93c",
+      "title": "FDA rolls out AI tool agency-wide, weeks ahead of schedule - statnews.com",
+      "source": "statnews.com",
+      "url": "https://www.statnews.com/2025/06/02/fda-artificial-intelligence-implementation-plans-makary/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2025/03/GettyImages-1227710555-1024x576.jpg",
+      "summary": "Reporting from the frontiers of health and medicine FDA rolls out AI tool agency-wide, weeks ahead of schedule Behind officials’ enthusiasm, some employees told STAT the tool was ‘rushed’ and its use will be limited The Food and Drug Administration rolled out its agency-wide AI tool on Monday, weeks ahead of schedule. The public announcement provides the most detailed look...",
+      "published": "Mon, 02 Jun 2025 20:13:14 GMT"
+    },
+    {
+      "id": "e2b65f900b76b86bdb223c3df0f96fac",
+      "title": "Scott Bessent dismisses Jamie Dimon's debt concerns, saying none of his past predictions have been right - Business Insider",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/scott-bessent-dismisses-jamie-dimon-debt-concerns-2025-6",
+      "image_url": "https://i.insider.com/683d11996ffb6822ec61dcad?width=1024&format=jpeg",
+      "summary": "Scott Bessent dismisses Jamie Dimon's debt concerns, saying none of his past predictions have been right . save-icon-fill { display: none; } . save-icon.is-active . save-icon-fill, . save-icon-fill. is-active { display: block; fill: currentColor; } Read the latest market-moving news Manage your newsletter preferences By continuing, I agree to receive newsletter and marketing emails from Business Insider and accept the...",
+      "published": "Mon, 02 Jun 2025 05:55:00 GMT"
     },
     {
       "id": "0af09f0b919b978b7b6169aac5cc8c47",
       "title": "Bristol Myers Joins Race for New Class of Cancer Drugs With BioNTech Deal - Barron's",
       "source": "Barron's",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1N1dk5Fbl91ZDQ2SkQwRW9GSGJ1bHBRT3BaZ0tmbDkxNk9OeUFxMWJSUUFjeVd6Z1hRTTlsVDAwUTVmcVg4NkxFTk1rYl96Mm1WcUc3ZDNUOXBFUjhscmkyaG45R2J0WlBQb0h2VjBHOVRNRG5FN242WWxHRzMwUS15RQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "url": "https://www.barrons.com/articles/bristol-myers-stock-biontech-cancer-f327b0ee",
+      "image_url": null,
       "summary": "No content available for summarization.",
       "published": "Mon, 02 Jun 2025 15:39:00 GMT"
     },
     {
-      "id": "542c3515c9205037c13f879c2a8d4a19",
-      "title": "ForexLive European FX news wrap: A brand new month but same old story for the dollar - Forexlive",
-      "source": "Forexlive",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVHdlcVhqdEhoTWlJMGVRTUtiVnBTQjVaSzJfMlA2aEhwWmJoalJuUTBSaXJrZzdiVk41MFh5MHRyT0JFRkpucDNxaGx2ZUp3cHhfVkp2WDdnTnFuczN4UGF0YURpTXBCS185NXZ2THNqWTJ5QnBETzFuUEFKZDE2R0pPZVVaZ014dlh4eEFqYkpWRkt0U0VZMlprM3M3Ykh5OXBzLTVuMFNxZUJvZW5RNkpBYVlQc1FRZjR1engyZ0o5d9IBxwFBVV95cUxOWTYyaFZTbi1UUng1d2l6WUQ4MmdzN1kwVTAxdXVlN202LXQ3V3NRaFJFSWljX2d3Z0RHVU1rT00wcWhGQjNoLURnb3ItNDlkMU96bjA4aFZqQ2R0WUlrZFJLZEZpTHZFbkp3NkdBMU00RmNEeDlManZDREh4azVnU3E4d0RQOG1BcHloelRTbVo3ckpCbEZLOGZSNk5uMXU1ZnVfVzRLYlV2MjBLdVNFcWhWMnRWMDFzNXViMHM4a2hEczN2RGhv?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 12:02:00 GMT"
-    },
-    {
-      "id": "556f866dae1c3fa4ebc96b64ab0e3261",
-      "title": "Walmart quietly jacks up prices — despite Trump’s demand for retailer to ‘eat the tariffs’ - New York Post",
-      "source": "New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWZRZXVuNjFYMXFCQ3NkZ3AzZkJNeFVhbnB1NWhkYzI0c1pPNGNGMjc2cHBNVnlpT3BtelNkSUFHZkdXUXVuLXZHbDdSdnc0X29Vc1pfOFY4aDdjVlUzWkFXMXpxWkJ5bUo2aFhrc1YtUkNfOXlRWGR2RWJWVjY5VDZnbTJwSTJXdXJWcjEteWdCbTVoLXp5WHduY0hZdUc2MTk2NnpINlJublE4UWJXaU1FN1JlWExFX0tiTTNTeVNLdk0?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 17:56:00 GMT"
-    },
-    {
-      "id": "eb14debb30733a0869ebc07b28f9eb77",
-      "title": "Chinese Shares Fall in Hong Kong on New Trade Frictions With US - Bloomberg",
-      "source": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUTBkX2VQMTNxRHpISXgtTHo0U3J4bVgtTnhIWXlGUDd1emR3aFB4X0R2VkFqdERWN2FBM2RselFoNElJQkR5Wm55aHh3S1Boby1kaVlWQTdwSGFGeHdlQ1c0cEpUb25kZjJteGVpTU5YaV9udktrYVJKZkdKcVdRNjZaMmlKME9nSUdIQmIydmpvY2dhMkFscl9rMl9uVllrM2dxejhHbkJyQmM1b3BueDNidTE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 08:29:15 GMT"
+      "id": "cce0e33f41d88275f773ae962c6ad5b8",
+      "title": "Recalled tomatoes sold in Carolinas, Georgia now pose risk of death, according to FDA - WBTV",
+      "source": "WBTV",
+      "url": "https://www.wbtv.com/2025/06/02/recalled-tomatoes-sold-carolinas-georgia-now-pose-risk-death-according-fda/",
+      "image_url": "https://gray-wbtv-prod.gtv-cdn.com/resizer/v2/RLSI2GLHVNFDJNR35SUAY7P4W4.png?auth=dde9f278ae4230132c5c39146bf426314d47123a20aba3bbf6eb7b35c22123bf&width=1200&height=600&smart=true",
+      "summary": "Recalled tomatoes sold in Carolinas, Georgia now pose risk of death, according to FDA Recalled products distributed in April 2025 Tomatoes distributed in North, South Carolina initially recalled on May 2 Published: Jun. 2, 2025 at 10:18 PM UTC|Updated: 5 hours ago Email This LinkShare on FacebookShare on X (formerly Twitter)Share on PinterestShare on LinkedIn CHARLOTTE, N. C. (WBTV) -...",
+      "published": "Mon, 02 Jun 2025 22:18:00 GMT"
     }
   ]
 }

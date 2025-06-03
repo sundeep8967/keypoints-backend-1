@@ -1,27 +1,45 @@
 {
   "metadata": {
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-02 21:02:46",
+    "generation_time": "2025-06-03 02:06:19",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "385a8b7e81d2966604548e4f439ebf02",
-      "title": "The Milky Way may not collide with neighboring galaxy Andromeda after all: 'From near-certainty to a coin flip' - Space",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbEJaa25nSEFCQWZKYXkyOFplQUktdWFzYTF6dzBRQ2g3Nk9DamxZT0VXQkhxZEhuVDNENV9PbFJLSE9RdHFpNGxIbklZNHJqa1ZNUm1UaVJLRWQyMm1pdkRuZ2htMG1IS1JzTlRkT3VROE1hRmVWODJPOEExbmRqc3RHbEphanNrQjI1WW1yeXR5em1UMUNFdVJBVVIwNjBVSzI1THJjQmNuMzlla0xjZUx6aVNwcHZ0NUhBc3B4Q0RrYnJXTU1Qd0kwWkJuS2tFaXJRUHNydw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 15:01:00 GMT"
+      "id": "4f917f07b971bcbfdf9c2a2228670d32",
+      "title": "Popular theory about our galaxy’s fate might be wrong, astronomers say - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/02/science/milky-way-andromeda-galaxy-collision",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/pia10748-large.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Popular theory about our galaxy’s fate might be wrong, astronomers say Updated 7:23 PM EDT, Mon June 2, 2025 An artist's concept depicts the Milky Way galaxy and its spiral shape. Our solar system is located in one of the spiral arms. NASA/JPL-Caltech Sign up for CNN’s Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific...",
+      "published": "Mon, 02 Jun 2025 23:23:00 GMT"
     },
     {
-      "id": "5c794800c11437e157352c5978af24ae",
-      "title": "Proposed NASA cuts to space science: “Staggering” - EarthSky",
-      "source": "EarthSky",
-      "url": "https://earthsky.org/human-world/proposed-nasa-cuts-decimate-us-space-science-petition/",
-      "image_url": "https://earthsky.org/upl/2025/05/science-fleet-proposed-cuts-Paul-Byrne-NASAs-Goddard-Space-Flight-Center-e1748713006375.jpg",
-      "summary": "Proposed NASA cuts to space science: “Staggering” View larger. | Proposed NASA cuts would mean a 47% loss to the planetary science budget in 2026. The Planetary Society – under the leadership of CEO Bill Nye – called these possible cuts a “staggering” loss. “If this proposed budget is enacted,” the society said, “dozens of space missions would be terminated,...",
-      "published": "Sun, 01 Jun 2025 12:01:55 GMT"
+      "id": "f3e1ef298186189af1bb8c285ee541b3",
+      "title": "Trump’s budget puts Huntsville-made spacecraft on the chopping block - AL.com",
+      "source": "AL.com",
+      "url": "https://www.al.com/news/huntsville/2025/06/trumps-budget-puts-huntsville-made-spacecraft-on-the-chopping-block.html",
+      "image_url": "https://www.al.com/resizer/v2/FVFX5TGWOBHHFEISMTO5GTMNS4.PNG?auth=6d2d476df2283f41428fbe78f890d507d536d819c145a9ca5c3c2da30b96b784&width=1280&quality=90",
+      "summary": "Trump’s budget puts Huntsville-made spacecraft on the chopping block Updated: Jun. 02, 2025, 3:19 p. m.|Published: Jun. 02, 2025, 3:17 p. m. NASA is being directed to phase out multibillion-dollar programs, managed from its flagship center in Huntsville, that are designed to ferry people to and from the moon. President Donald Trump’s budget proposal also calls for a 31% reduction...",
+      "published": "Mon, 02 Jun 2025 20:17:00 GMT"
+    },
+    {
+      "id": "deb8acc0d75928b818914239fecfc303",
+      "title": "'Strawberry Moon' 2025: June's full moon is about to break an annual record - Live Science",
+      "source": "Live Science",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXhVcDlLQ05rWWlEVUk1MDgyREg3cDI2ZFpoWVlUX1M1aTdmTTFFSHp4aXVzY3A4NGUwaFlSbHhyVFFXaGRXbDhwclJXUGw0UW9QLVVOMEpSYl9xMXg1bUxMbFBpbGdvOWpZVDJ0am5wbzZxYUZJU0VnT1ZMWEF2YUlPaTZqRk5sRW5DbFByM3pWbnFjeGFFQTdTR0NOcVNyU3ZhaGlsSGJOdWV1N0piclVhQkU?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 19:09:16 GMT"
+    },
+    {
+      "id": "6446bc0d665d86ce30638433ce53ada2",
+      "title": "Rocket Lab launches private Earth-observing satellite toward orbit - Space",
+      "source": "Space",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTjBzaGJWT3pWbTVDd21JazNwaFo0b05fZW9MZHhpNDN5VlRPVm5BY0s0VXpOakg0TWt5RXZZcVVMbXlSQXotUldjOFUwWVM1MXowR1ppMldHT1VzMlRPS2pqNkZTNzFjblNqbGtQZFl1YWlCWE53N1NsZU9kU3VLdG5uWk5HaXJaV2p1cGM0dUdLR2x0NWh3clZSMGEwMGZOS0hxNEtXNVhUZldDYThtYlRyMkNfTG9XNi1RUUJ2bUpBbGNLQTJjb1JRQ1h5dFE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 03 Jun 2025 01:28:26 GMT"
     },
     {
       "id": "0768fdbc75d2567a43f5eb476cd03cd4",
@@ -33,39 +51,30 @@
       "published": "Mon, 02 Jun 2025 19:28:00 GMT"
     },
     {
-      "id": "44cb9f8c492e1eed3cae0d9d84711767",
-      "title": "SpaceX adds 27 Starlink satellites to constellation after successful launch from California (video) - Yahoo",
-      "source": "Yahoo",
-      "url": "https://www.yahoo.com/news/spacex-adds-27-starlink-satellites-202304758.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/KjZcdWJG2hhoooMGOum20Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/space_311/757d29bbd3c3d62af6cd5b6b9230ff32",
-      "summary": "'King of the Hill' voice actor killed Senators tackle Trump's big bill Poll: Trump’s ratings since tariffs Speaker Johnson on Medicaid cuts SpaceX adds 27 Starlink satellites to constellation after successful launch from California (video) Sat, May 31, 2025 at 8:23 PM UTC When you buy through links on our articles, Future and its syndication partners may earn a commission.",
-      "published": "Sat, 31 May 2025 20:23:04 GMT"
+      "id": "667c8c76b5c70f9a53d869b477645d88",
+      "title": "Space pebbles and rocks play pivotal role in giant planet's formation - Phys.org",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2025-05-space-pebbles-play-pivotal-role.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 48.217.44.215 : dea2516b-47c3-4476-8b92-a73839ef",
+      "published": "Mon, 02 Jun 2025 09:00:08 GMT"
     },
     {
-      "id": "7153a03541e5a05096502eab7104753e",
-      "title": "Tiny Pebbles Created One of The Most Extreme Worlds in The Galaxy - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/tiny-pebbles-created-one-of-the-most-extreme-worlds-in-the-galaxy",
-      "image_url": "https://www.sciencealert.com/images/2025/06/tylos-formation.jpg",
-      "summary": "Tiny Pebbles Created One of The Most Extreme Worlds in The Galaxy An artist's impression of the formation of Tylos. (T. Müller/MPIA/HdA/CC BY-SA) The tiny pebbles left over from a star's formation fed the growth of one of the strangest, wildest worlds humanity has ever known. It's a famous one, Tylos, or WASP-121b, a gas giant exoplanet some 880 light-years...",
-      "published": "Mon, 02 Jun 2025 09:01:20 GMT"
+      "id": "e716424e91a6a7914d01b33bae51005d",
+      "title": "How Cocaine Hijacks the Brain - Neuroscience News",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com/genetics-cocaine-addiction-29187/",
+      "image_url": "https://neurosciencenews.com/files/2025/06/genetics-cocaine-addiction-neuroscience.jpg",
+      "summary": "FeaturedGeneticsNeuroscience·June 2, 2025 Summary: In a groundbreaking study, researchers have engineered fruit flies that voluntarily consume cocaine, creating the first fly model for cocaine addiction. Typically, flies avoid the drug due to its bitter taste, but by disabling their bitter-sensing receptors, scientists encouraged addictive behavior within just 16 hours of exposure. This model is a major step toward rapidly testing...",
+      "published": "Mon, 02 Jun 2025 20:07:39 GMT"
     },
     {
-      "id": "4a6278d254fc227fd9fd7fcda41deb48",
-      "title": "Two Ocean Bands Are Warming Faster Than Ever — What This Means for Our Climate - The Daily Galaxy",
-      "source": "The Daily Galaxy",
-      "url": "https://dailygalaxy.com/2025/06/two-ocean-bands-warming-faster-than-ever/",
-      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Two-Ocean-Bands-Are-Warming-Faster-Than-Ever-—-What-This-Means-for-Our-Climate.jpg",
-      "summary": "Two Ocean Bands Are Warming Faster Than Ever — What This Means for Our Climate Two mysterious ocean bands near 40 degrees latitude are heating faster than ever, reshaping our climate and threatening marine life worldwide. Credit: Shutterstock | The Daily Galaxy --Great Discoveries Channel A recent study published in the Journal of Climate reveals that two distinct bands in...",
-      "published": "Mon, 02 Jun 2025 15:00:00 GMT"
-    },
-    {
-      "id": "6a1aa69f6e9206f7a7e84c429a24bd96",
-      "title": "Scientists Predict a Million-Fold Drop in Oxygen — Here’s What it Means for Earth’s Future - The Daily Galaxy",
-      "source": "The Daily Galaxy",
-      "url": "https://dailygalaxy.com/2025/06/scientists-million-fold-drop-oxygen-earth/",
-      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Scientists-Predict-a-Million-Fold-Drop-in-Oxygen-—-Heres-What-it-Means-for-Earths-Future.jpg",
-      "summary": "Scientists Predict a Million-Fold Drop in Oxygen — Here’s What it Means for Earth’s Future Scientists warn that Earth’s oxygen levels could plummet a million-fold, threatening the survival of complex life as we know it. Credit: Canva | The Daily Galaxy --Great Discoveries Channel A recent study published in Nature Geoscience explores the future of Earth’s atmosphere, revealing that a...",
+      "id": "61e5435990caea754d001f3d3643002f",
+      "title": "Private Japanese spacecraft aims to land in the moon's 'Sea of Cold' this week - Space",
+      "source": "Space",
+      "url": "https://www.space.com/astronomy/moon/private-japanese-spacecraft-will-attempt-to-land-in-the-moons-sea-of-cold-this-week",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RMsgyPSfzbNnSDnsGZ72tZ.jpg",
+      "summary": "Astronomy Solar System The moon Private Japanese spacecraft aims to land in the moon's 'Sea of Cold' this week By Samantha Mathewson published 10 hours ago Touchdown is scheduled for 3:24 p. m. ET on Thursday (June 5). When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. The Resilience spacecraft captured...",
       "published": "Mon, 02 Jun 2025 16:00:00 GMT"
     },
     {
@@ -78,22 +87,49 @@
       "published": "Sun, 01 Jun 2025 12:30:32 GMT"
     },
     {
-      "id": "b6081e7687016b068f257527e8889c1f",
-      "title": "Solar Storms Are Pushing Elon Musk’s Satellites Back to Earth - Gizmodo",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/solar-storms-are-pushing-elon-musks-satellites-back-to-earth-2000608452",
-      "image_url": "https://gizmodo.com/app/uploads/2025/05/venus-and-starlink-satellites.jpg",
-      "summary": "Solar Storms Are Pushing Elon Musk’s Satellites Back to Earth As Earth’s orbit becomes increasingly crowded, we need more data on how space weather impacts their reentries, researchers say. Published June 1, 2025 | Comments (42) | Venus and Starlink satellites © Mike Lewinski/Wikimedia Commons New research suggests that heightened solar activity shortens the lifespans of SpaceX’s Starlink satellites, and...",
-      "published": "Sun, 01 Jun 2025 10:00:34 GMT"
+      "id": "16014e619529cca37d2554d410991d8e",
+      "title": "Don't miss the half-lit first quarter moon rise tonight — Here's what to look for - Space",
+      "source": "Space",
+      "url": "https://www.space.com/stargazing/dont-miss-the-half-lit-first-quarter-moon-rise-tonight-heres-what-to-look-for",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/BAXVYvbRCZubhWwh2bDtge.jpg",
+      "summary": "Starship Flight 9 Launch Failure Don't miss the half-lit first quarter moon rise tonight: Here's what to look for By Anthony Wood published 14 hours ago The first quarter moon is the perfect opportunity to explore shadowed craters lining the terminator. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. See...",
+      "published": "Mon, 02 Jun 2025 12:02:23 GMT"
     },
     {
-      "id": "f4ce6c94e616e2d51b0020f7f0459aaf",
-      "title": "Scientific Discoveries, and Dreams, in the Balance - The New York Times",
+      "id": "7dc4f49f4bb9f0b7bbb8b646adfbbc79",
+      "title": "Solar Storms Are Secretly Taking Down Elon Musk’s Satellites - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/solar-storms-elon-musk-satellites/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Solar-Storms-Are-Secretly-Taking-Down-Elon-Musks-Satellites.jpg",
+      "summary": "Solar Storms Are Secretly Taking Down Elon Musk’s Satellites Solar storms are heating up Earth’s atmosphere, pushing satellites like Starlink to return earlier than expected. Credit: Shutterstock | The Daily Galaxy --Great Discoveries Channel New research reveals that increased solar activity is shortening the lifespans of SpaceX’s Starlink satellites and causing them to return to Earth at faster speeds. This...",
+      "published": "Mon, 02 Jun 2025 17:30:00 GMT"
+    },
+    {
+      "id": "45f7a77a45a70799e2b214a015302e6a",
+      "title": "Ultra-thin lenses halve incident wavelength to make infrared light visible - Phys.org",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2025-06-ultra-thin-lenses-halve-incident.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 48.217.44.215 : d2d47dc1-36dd-4a89-8e07-c6d05f51",
+      "published": "Mon, 02 Jun 2025 14:20:33 GMT"
+    },
+    {
+      "id": "ac65e0220bf9d50ecd1df8bfbe520e42",
+      "title": "An Extreme Drop in Oxygen Will Eventually Suffocate Most Life on Earth - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/an-extreme-drop-in-oxygen-will-eventually-suffocate-most-life-on-earth",
+      "image_url": "https://www.sciencealert.com/images/2021-03/processed/earth-glow_1024.jpg",
+      "summary": "An Extreme Drop in Oxygen Will Eventually Suffocate Most Life on Earth (Aaron Foster/The Image Bank/Getty Images) For now, complex life flourishes on our planet thanks to its supply of oxygen. But Earth's atmosphere wasn't always like it is today, and scientists predict that in the future, it will revert back to one that's rich in methane and low in...",
+      "published": "Sun, 01 Jun 2025 23:22:38 GMT"
+    },
+    {
+      "id": "7d79d83fc43415f07cbb24e4a4d2adc0",
+      "title": "Vienna’s Musical Message to Aliens: One, Two, Three. One, Two, Three. - The New York Times",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/02/science/trump-science-research-nsf.html",
+      "url": "https://www.nytimes.com/2025/06/01/arts/vienna-to-aliens-one-two-three.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 09:01:00 GMT"
+      "published": "Mon, 02 Jun 2025 13:23:00 GMT"
     },
     {
       "id": "4cb139e5f5eba6b259615f594f600335",
@@ -105,33 +141,6 @@
       "published": "Mon, 02 Jun 2025 18:38:00 GMT"
     },
     {
-      "id": "b325104eead646326b93b030d0fc2322",
-      "title": "Vienna calling: Strauss's 'Blue Danube' waltzes into outer space - Phys.org",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2025-06-vienna-strauss-blue-danube-waltzes.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.42.48.116 : 3e9e3e9b-78c3-4b5f-9760-ec49df96",
-      "published": "Sun, 01 Jun 2025 10:27:11 GMT"
-    },
-    {
-      "id": "2fb6d618c64ff469af5bb5052f6aa50b",
-      "title": "Scientists Stunned by Evidence of Ancient Birds Nested in the Arctic - The Daily Galaxy",
-      "source": "The Daily Galaxy",
-      "url": "https://dailygalaxy.com/2025/06/scientists-evidence-ancient-birds-nested-arctic/",
-      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Scientists-Stunned-by-Evidence-of-Ancient-Birds-Nested-in-the-Arctic.jpg",
-      "summary": "Scientists Stunned by Evidence of Ancient Birds Nested in the Arctic A remote dig in frozen Alaska has revealed a prehistoric surprise. The Arctic’s earliest bird nests might date back far longer than previously believed. Credit: Shutterstock | The Daily Galaxy --Great Discoveries Channel Tiny fossil fragments discovered in northern Alaska have revealed that ancient birds were nesting in the...",
-      "published": "Sun, 01 Jun 2025 18:30:00 GMT"
-    },
-    {
-      "id": "bb0d571b01497f54e9fd8ef6a69f87ee",
-      "title": "Turning the Red Planet green? It's time to take terraforming Mars seriously, scientists say - Space",
-      "source": "Space",
-      "url": "https://www.space.com/astronomy/mars/turning-the-red-planet-green-its-time-to-take-terraforming-mars-seriously-scientists-say",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/7zWzTQ8nWnmTK7d7vHfjV6.jpg",
-      "summary": "Starship Flight 9 Launch Failure Turning the Red Planet green? It's time to take terraforming Mars seriously, scientists say By Stefanie Waldek published 11 hours ago New research suggests that the idea of transforming the Red Planet might not be so far-fetched after all. When you purchase through links on our site, we may earn an affiliate commission. Here’s how...",
-      "published": "Mon, 02 Jun 2025 10:00:00 GMT"
-    },
-    {
       "id": "35e4cecb33300bb7315f6f4bd4222016",
       "title": "MIT’s Chilling Experiment That Could Prove Gravity Is Quantum - SciTechDaily",
       "source": "SciTechDaily",
@@ -141,13 +150,22 @@
       "published": "Sun, 01 Jun 2025 02:55:40 GMT"
     },
     {
-      "id": "12eb0501074c70173d4c06f97cc5bf76",
-      "title": "'Rock Showman' uncovers sandstone stegosaur near Whitby - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cd7g4y21envo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/05fd/live/00f20270-3d25-11f0-b1db-7b03bfaa8894.jpg",
-      "summary": "'Rock Showman' uncovers sandstone stegosaur Steve Cousins/www. YorkshireCoast. rocks Steve Cousins - aka the Rock Showman - regularly leads fossil walks along the Yorkshire coast A geology tour guide has discovered a fossilised dinosaur footprint believed to be 170m years old along the coast near Whitby. Steve Cousins, aka the \"Rock Showman\", was taking a school trip on an educational...",
-      "published": "Sun, 01 Jun 2025 09:04:11 GMT"
+      "id": "40b3827a3e16c0d39859a09cfe82395e",
+      "title": "Will surging sea levels kill the Great Barrier Reef? Ancient coral fossils may hold the answer - The Conversation",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/will-surging-sea-levels-kill-the-great-barrier-reef-ancient-coral-fossils-may-hold-the-answer-257830",
+      "image_url": "https://images.theconversation.com/files/671453/original/file-20250602-62-7aaz23.jpg?ixlib=rb-4.1.0&rect=0%2C417%2C5000%2C2500&q=45&auto=format&w=1356&h=668&fit=crop",
+      "summary": "Will surging sea levels kill the Great Barrier Reef? Ancient coral fossils may hold the answer Published: June 2, 2025 5:02am EDT Professor of Marine Geoscience, University of Sydney Professor of Paleontology, Department of Stratigraphy and Palaeontology, Universidad de Granada Associate Professor, Department of Earth and Environmental Sciences, Nagoya University Professor, Head ANU Radiocarbon Facility, Australian National University Professor, Atmosphere...",
+      "published": "Mon, 02 Jun 2025 09:02:48 GMT"
+    },
+    {
+      "id": "e7d291d79e58d69a6cf4412300a5da9e",
+      "title": "Janet Petro Wants You All To Be Happy - NASA Watch",
+      "source": "NASA Watch",
+      "url": "https://nasawatch.com/ask-the-administrator/janet-petro-wants-you-all-to-be-happy/",
+      "image_url": null,
+      "summary": "Verify you are human by completing the action below. nasawatch.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Mon, 02 Jun 2025 19:17:35 GMT"
     },
     {
       "id": "cc2804c6518357d1c87e24ddaf49b9e4",
@@ -155,35 +173,17 @@
       "source": "Live Science",
       "url": "https://www.livescience.com/space/the-sun/space-photo-of-the-week-pink-raindrops-on-the-sun-captured-in-greatest-detail-ever",
       "image_url": "https://cdn.mos.cms.futurecdn.net/AMcyuNkeBkeVHyeQMCpg4.jpg",
-      "summary": "Ancient DNA reveals collapsed civilization Buried cave 'trash' surprises researchers Space photo of the week: Pink 'raindrops' on the sun captured in greatest detail ever By Jamie Carter published yesterday Solar scientists have unveiled spectacular new images of plasma \"rain\" in the sun's corona using adaptive optics. When you purchase through links on our site, we may earn an affiliate...",
+      "summary": "Ancient DNA reveals collapsed civilization Buried cave 'trash' surprises researchers Space photo of the week: Pink 'raindrops' on the sun captured in greatest detail ever By Jamie Carter published 2 days ago Solar scientists have unveiled spectacular new images of plasma \"rain\" in the sun's corona using adaptive optics. When you purchase through links on our site, we may earn...",
       "published": "Sun, 01 Jun 2025 10:00:00 GMT"
     },
     {
-      "id": "999a69bd504bca5f221adf140b33c65a",
-      "title": "Infrared contact lens enables humans to see in dark - DW",
-      "source": "DW",
-      "url": "https://www.dw.com/en/infrared-contact-lens-enables-humans-to-see-in-dark/a-72749143",
-      "image_url": "https://static.dw.com/image/63495525_6.jpg",
-      "summary": "DW uses cookies and similar technologies to measure usage, display personalized advertising and share personal data and information with up to 186 third parties. You decide for yourself whether you agree to this use of your data. You can adjust individual details under “Settings” and change them at any time. You can view all of DW's content without agreeing. Social...",
-      "published": "Sun, 01 Jun 2025 12:45:06 GMT"
-    },
-    {
-      "id": "4fa8cdba5567a3aaaff3e11121e30223",
-      "title": "Discovery of Earth’s Oldest Living Creature: A 700-Million-Year-Old Species That Changes Our Understanding of Evolution - Indian Defence Review",
-      "source": "Indian Defence Review",
-      "url": "https://indiandefencereview.com/oldest-living-creature-700-million-year/",
-      "image_url": "https://indiandefencereview.com/wp-content/uploads/2025/06/discovery-of-earths-oldest-living-creature-a-700-million-year-evolutionary-breakthrough.jpg",
-      "summary": "Discovery of Earth’s Oldest Living Creature: A 700-Million-Year-Old Species That Changes Our Understanding of Evolution Discovery of a 700-million-year-old creature rewrites the story of animal evolution, revealing surprising new origins of life’s complexity. Credit: MBARI - copyright Shutterstock Recent research published in Nature has transformed our understanding of animal evolution by revealing that ctenophores, also known as comb jellies, represent...",
-      "published": "Mon, 02 Jun 2025 17:55:00 GMT"
-    },
-    {
-      "id": "f6819bde9560d4757159bb1ed162816e",
-      "title": "Prints Aren't the Only Stable Thing About Your Fingers - Newser",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/369328/our-wet-fingers-prune-the-exact-same-way-each-time.html",
-      "image_url": "https://img2-azrcdn.newser.com/image/1613481-12-20250601083502.jpeg",
-      "summary": "Prints Aren't the Only Stable Thing About Your Fingers Scientists say blood vessels under skin cause wet fingers to wrinkle the exact same way each time Stock photo. (Getty Images/indra rizky firmansyah) A new study sheds light on why fingers wrinkle in water—and why those wrinkles appear in the same places every time. Biomedical engineer Guy German of Binghamton University...",
-      "published": "Sun, 01 Jun 2025 13:05:00 GMT"
+      "id": "bb0d571b01497f54e9fd8ef6a69f87ee",
+      "title": "Turning the Red Planet green? It's time to take terraforming Mars seriously, scientists say - Space",
+      "source": "Space",
+      "url": "https://www.space.com/astronomy/mars/turning-the-red-planet-green-its-time-to-take-terraforming-mars-seriously-scientists-say",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7zWzTQ8nWnmTK7d7vHfjV6.jpg",
+      "summary": "Starship Flight 9 Launch Failure Turning the Red Planet green? It's time to take terraforming Mars seriously, scientists say By Stefanie Waldek published 16 hours ago New research suggests that the idea of transforming the Red Planet might not be so far-fetched after all. When you purchase through links on our site, we may earn an affiliate commission. Here’s how...",
+      "published": "Mon, 02 Jun 2025 10:00:00 GMT"
     }
   ]
 }
