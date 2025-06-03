@@ -1,135 +1,63 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-02 13:44:00",
+    "generation_time": "2025-06-02 22:24:02",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "df40b51790ba0a74908e8c5ca1bb85b1",
-      "title": "Rune Factory: Guardians of Azuma Review - RPG Site",
-      "source": "RPG Site",
-      "url": "https://www.rpgsite.net/review/17576-rune-factory-guardians-azuma-review",
-      "image_url": "https://images.rpgsite.net/image/da49c9a1/148189/article/Rune-Factory-Guardians-of-Azuma_20250318_07.png",
-      "summary": "Rune Factory: Guardians of Azuma Review by Junior Miyai on 02 June, 2025 If you'll spare me a moment of indulgence, I want to talk briefly about progression systems in RPGs. This ties into how I feel about Rune Factory: Guardians of Azuma, but if you're only here for the quick and dirty: it's a decent farming/village RPG with middling...",
-      "published": "Mon, 02 Jun 2025 07:05:11 GMT"
-    },
-    {
-      "id": "4d2a282364e9183316cb85e6d389f9a0",
-      "title": "Elden Ring Nightreign is now easier for solo players - Eurogamer",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/elden-ring-nightreign-is-now-easier-for-solo-players",
-      "image_url": "https://assetsio.gnwcdn.com/elden-ring-nightreign_PNlB4xq.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "summary": "Summer Games Fest & IGN Live Schedule If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News Elden Ring Nightreign Elden Ring Nightreign is now easier for solo players News by Ed Nightingale Deputy News Editor FromSoftware has patched Elden Ring Nightreign to make it easier for solo...",
-      "published": "Mon, 02 Jun 2025 11:46:42 GMT"
-    },
-    {
-      "id": "65ba0161a4bf438e1f8caec7f7236006",
-      "title": "Compact Android phones might be gone for good soon, and it could be all Apple’s fault - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/compact-android-phones-gone-for-good-soont/",
-      "image_url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/06/asus-zenfone-10-review-hero.jpg",
-      "summary": "Compact Android phones might be gone for good soon, and it could be all Apple’s fault The base iPhone 17 is expected to feature a larger 6. 3-inch display. Along with the size upgrade, the base iPhone 17 will reportedly include a 120Hz refresh rate and support for an always-on display. If Apple moves forward with this change, Android manufacturers...",
-      "published": "Sun, 01 Jun 2025 12:55:00 GMT"
-    },
-    {
-      "id": "3ea921362b21aed40bb1266d164bcffb",
-      "title": "Instagram for iPad is reportedly coming soon; here’s when to expect it - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCNllweFJqTVN5ZXplQzhuNHB4am5lZ2N1NVJqQlpQU0p3LUllZGg0NmdzbWhOUFZ3SWVjRG1lUnh5N3FOMEMzLVg3clRyV0M5bXNKX1Z5UFU2M2g1T3FRVFlCWFpqc1kxb0VCV1dfVTVPaU0?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 21:34:00 GMT"
-    },
-    {
-      "id": "9d6e649a2bb6b87983d6cf82223fb01a",
-      "title": "Lighter than normal WWDC expected without significant Apple Intelligence uprgrades - AppleInsider",
-      "source": "AppleInsider",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZEczSm5KNm5SN1RtcGswSHE3N0JUTDYtUTQ1VGZndjFIVUVsRFFnWmo2d2JjNU9Mel84U0VxWVdHYWg2V19EYTRaaURIVXlHUHNsM1g3WTA3cWhBcjFKZXFJT1ZWS2Fob3N4NEg2aXl5R2RyV2ptQUZtZUd4WnlHZEtUMUxuenk2TlN3U0VaUndocnc5dGdCM1g0dGFRa2prMkxrNnlrV3pDajRqWVRJYnZWcDFwS044Z3BoOFBsNlNBWTjSAcoBQVVfeXFMT1A3TVRBTjV0dXVxdlF2azJ1bEg3ZkRidFhVUWJGbXhaVmhFSjRfZkVQSXcyM0NLa0wtY01PWW1zblc3eVlEQ1c0eG1PMHAtQjNCb0wyTlM5Z3ZPUlhDMzQxTUdEcmJzRUpRamk1cEhyM2hRQzlHN0tRSVlhUW5XT2VVNGotOFNvM1FxQlFUVGJ3dlB0a3RucTJtdF9DYzVhUWR2ZjVsX2dkLUdpUGlVWUE4U0JVVGdwTm5VOGdHQ3ljdXp6T3NpSUxBQQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 12:26:00 GMT"
-    },
-    {
-      "id": "84b907e45175b3f176674db13258171d",
-      "title": "macOS Tahoe Name Leaked Ahead of Apple's WWDC Event Next Week - MacRumors",
+      "id": "75f64508798f6daeb47d0068e51289b0",
+      "title": "Apple Shares New 'Sleek Peek' Teaser Ahead of WWDC 2025 Next Week - MacRumors",
       "source": "MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sVzVURmhsRGprM284V0R1UXk4NFYtVFZndXItMEp4WjdINmFPQ0pNM3p1dWs3OVVUOW82dmpUcno5bkhTLVF4eTJMNzV5VXB5SlZsZ1p2T0hEekJNM2xEUldOUTBBb2t1dVNLeEV3?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 14:08:01 GMT"
+      "url": "https://www.macrumors.com/2025/06/02/apple-sleek-peek/",
+      "image_url": "https://images.macrumors.com/t/oQ8XF7yBiMoGM4YYKWpgddaT6Ao=/1600x/article-new/2025/06/WWDC-2025-Sleek-Peek.jpg",
+      "summary": "iPhone 16eWWDC 2025iOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad minimacOS 26 TahoeApple Watch 10iPhone 18CarPlayApple Pay Apple Shares New 'Sleek Peek' Teaser Ahead of WWDC...",
+      "published": "Mon, 02 Jun 2025 15:22:33 GMT"
     },
     {
-      "id": "8674c05e82956ca0fe54887c706bcc7c",
-      "title": "Deals: the Galaxy S25 Edge launches as the most expensive S25 phone, plus some iPad deals - GSMArena.com news - GSMArena.com",
-      "source": "GSMArena.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdm1YOU94Zmt2QnJHbVVHUk83ZzY3V1pJcDFvMUItZ2tIb21uVTU1RXIzenZ0c3g2MXQ0THFUQXRNa09oMG9WZHdUTkdWVG9oVVRqbUlKU3MwcTRVaEJraGFZc2RRVGpqQjNFWmx1TkFTdzA4eEJBYzBLZ00wUDlWUlNxRUs2bXVOYkROdy1QUHNFSkdwRTIzaUdfRThUa0FSSXdXUUttTmN6ZVh3NUNHRm1oQnl0TFUycTFUMEpSY0dEVWw2WHfSAcIBQVVfeXFMUGtnMWQ1MklmUGkyYUF2TVJGZW8tRXh1V2VuUlRpbmVIeVlCWFo5X1NBamkxdGRpWDRFNUJjREM4SUQ3Y1NqY28wb21ZdGF0eGFzbm9DNnB2OUpiMDNsb0swN0NDYVRPVXAwUlhvY2ZwMFZtNjV3aTVRbGxWYU5JVXlPdW1mdG5xajhaRkk5aElWcllqTTc0dmhUeHpyd0xvMThKemlQZlZwN2UzS3dSbTZhYnE3MUtEcjBJSFBDbDBnclE?oc=5",
+      "id": "97af28756f049745286d518ac1b1dc6b",
+      "title": "Google Pixel’s Now Playing feature prepares Quick Settings tile for manual search - 9to5Google",
+      "source": "9to5Google",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRUV0OFVMcmwxNHhqSkJ1cTUybzBpNmxsTHNXSDA3MlV4Z1Vfbk1NQktoN00zYkhJcmV4WWJxS0xzTS1jR21RSURiUEYzdU5hdmZpWXFreWxMUjcwRW9hWnJqQU9qT3dqUGJ3UTdjNDE2NmhJUkQzTU04b1JnRmhDVzM0emhSc0ZXYU5OQ0dScEtMQQ?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 16:08:03 GMT"
+      "published": "Mon, 02 Jun 2025 19:40:00 GMT"
     },
     {
-      "id": "26499c7c9e588f715328f9df9104e731",
-      "title": "These are three Apple Intelligence features I’d like to see with iOS 26 - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUHpicDA2TjBCdm5QVVN2dmJxQzhsVC0wTGs1UkpQR0RRLUVWckduOXQ1S0dWc1dmZk5HdXhhLWprZ3BkMF9qdkV4YU1lQjl0eXVkYVFFVkpyNW4xQlFSNGNsZm1ESXF1UWxGanJIdzVxY0hoZ25mNkhBQmNRY3NQd21Gaw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 31 May 2025 21:39:00 GMT"
+      "id": "ccaaf961e1bb7ad6ad7fa798eb19d74d",
+      "title": "Battlefield 6 Destruction Showcased in New Leaked Video - Wccftech",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/battlefield-6-destruction-showcased-in-new-leaked-video/",
+      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2025/05/Battlefield-HD-scaled.jpeg",
+      "summary": "We use technology such as cookies on our site to collect and use personal data to personalize content and ads, to provide social media features and to analyse our traffic. We may share your cookies with third party vendors and service providers. Battlefield 6 Destruction Showcased in New Leaked Video Yet another Battlefield 6 video has been leaked on YouTube.",
+      "published": "Mon, 02 Jun 2025 09:30:00 GMT"
     },
     {
-      "id": "08808cb98900fcc9c56eb0eb1ad95476",
-      "title": "Shortcuts is getting an AI-powered revamp; here’s what that could mean - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YeEJyejNSUDJYYVBTdGx0dUdlMkxoWFR4Zm1VZzE0a3gtQ1A5dHFFcUJkM0tvR3VIYXpxN1NhdXdjRmQtWmFoTGpOV1lBaXZnTE0zaDVVQy1CMnlBcGpULQ?oc=5",
+      "id": "823b09eaf3fea16f09ecc678e256e287",
+      "title": "Samsung may incorporate Perplexity’s AI tech in its phones - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSVNYWnlyMHlIT3lxR1lCM3MxVlBySzY0WXZVX3p0YkUtOGRYZnAzcDV0elJUMzNYRUc5NFBqR1ZKcHlYc2hmTk1zTEJOZkhtY3ZFbHpULXBiZnpnZVo3Q0dFc0VLbHQ5LXFOM2ZoWmxXcXBzaWRsUnJKMTZpWHNZMEhMRFh1MWx3Q3k3bk9HTklEOEpqVzBB?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 14:13:00 GMT"
+      "published": "Mon, 02 Jun 2025 12:49:37 GMT"
     },
     {
-      "id": "098c5619aa45f68c514161a9bc879a0b",
-      "title": "Moving sucks, but decluttering helps - The Verge",
-      "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFM5TTQ0bzVpR2JxUE1reWRvZWVxakVCb0RtRDc4UFV6UzBfc24yUnVhNThLR2ktZFZQV29NZzZncmNHSGdnRE9fRTllUzc5ZlFDRjhXUFIzUW9vRHBHcGhkdTZ5cndqcEJndDNDRlNLTEt6d0pnb1JiT1VHWGpKQWNZOERYd1BT?oc=5",
+      "id": "075431b3e624b0c6e0e96c72da53a363",
+      "title": "Apple WWDC 2025: What to Watch For and How the Stock Might React - Barron's",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45aHdwbTYzelEtR3BPem9UV1FfTWMtbTM1eXN4eXlvX1JaMEV1Z29zWlR5T3I0Mktfb0wyTDFGVDk1U25oWFBRZENkWFptaWk1NW9xcFhwdGFuc29rcmoxNHo1OHNhdFhNemc?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 11:30:00 GMT"
+      "published": "Mon, 02 Jun 2025 19:23:00 GMT"
     },
     {
-      "id": "9ab0f95cafc316eb4fbe4c83c35991d6",
-      "title": "Chevy Corvette ZR1 Cleanly Smokes Ferrari And Lamborghini In A Race - CarBuzz",
-      "source": "CarBuzz",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjd6T2pnTnJKeHg2OFJBaS04R1VYb29ockFtTE0xb3dpOS1yWmNXUG1pX0hZRlpvVVE5RElDSTIxdTFUb05ZMjQ0LV9ZaVdEUnlpS1g3Nzh4bk9MVE0yaVgxSzRIY1l0SDZHWGoyZWJrXzFVbDE0VWh1SmhoSmI3MEdCRTBNd08zYnFkV0dDMXZVV2xPZWJoWDVKQnA?oc=5",
+      "id": "8ea19a8914b0e068f441f29fa884aaa0",
+      "title": "Switch 2 pre-orders are getting cancelled days before launch - Polygon",
+      "source": "Polygon",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWmsyeVY0eXFpYzBPZy1MWUxkV0EtNXJNbGlYekpjMkdTeHVSa0paQUEyNmtUcTRlYTRrMGloOUxjbC1RVTA1UmZzX25QQ1IxdEZhRUVHOEhBYllsQ2ZHc0pJdlJNVGFVd21HeWk5UktGdkM3OGxEUGM4QnhLZEJTTzljVW9XbjNVVTU0d2Vwd0RhUFdnVGlkaGNLOFVSMmdNVFBTMA?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sat, 31 May 2025 15:00:00 GMT"
-    },
-    {
-      "id": "357bc48c29f32312dddcd657a19020d3",
-      "title": "Nintendo Switch 2 pre-orders live — retailers to check for restock as launch week arrives - Tom's Guide",
-      "source": "Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQanNUbGV1U0w0TTliYTZqakJPdWdPdXg2QU1uT1JEaVlUcWdOYl9rX2J4dnkwOHdLcUUyYlpmRFdUcUR4dE5pTWhPWHFqZktSZDJLLUtCNG4yNTFqLU5pSHdTTVBlYjUwQXEtZVJlUC0xZWtMWjN2UTkxZV9qQ0lZbFFqQWNVd09BRG4zV2tlVVl5QU5sVFpzR3BaLXQzdw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 12:43:13 GMT"
-    },
-    {
-      "id": "691568bcb44457a3c5a044519c969326",
-      "title": "Nintendo Switch 2 Welcome Tour Trailer Highlights New Minigames & Tech Demos - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb3U0OUE4WlgtcHRiQktDN1hMaE02VGs2MmdlOGcwM2hORzVleTVYNGpGcExIN2hXTVBFQ1Y0WVNMV0NIQzNMazQzS05MeXl5eDdXR2VHR0VTWmV1NDNpZDRLaXJKbTNKTHVhdnlUU0doLWJreDVUSnI4N2pGbGFhelVkaGxzdTR4cWFYTnFZRW1ZVnVHYldXZjZUQXdxTkdqaE42VlhJWGhWNTlWTlRzU0FjM1FtaGxjaVVtQQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 10:45:00 GMT"
-    },
-    {
-      "id": "c238c890a8b317a1a0cfc238a4fbc899",
-      "title": "Linux user share hits a multi-year high on Steam for May 2025 - GamingOnLinux",
-      "source": "GamingOnLinux",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnoxcGFoY3FJanZoQnFfcm9rS2F2SjRjQ1otTG1lQzZCVUFtT1REaU5EYUwwVlF4dXV0RGFsazBmenQ0M1EtNVVRRlJiYk5pM3BwVVpiSUJmZEU5ejMwbDhLck8xTTFCTzFVb3IwYktOdmZZZGpoOG00dzh2QWQ2eDM3bDBtMFUyNE40d2tURTlOQW1IZ3V6aVpqN3YweXFCTEE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 09:13:22 GMT"
+      "published": "Mon, 02 Jun 2025 17:02:19 GMT"
     },
     {
       "id": "906ad0f7fac62fc86c022c742b979648",
@@ -141,49 +69,121 @@
       "published": "Sun, 01 Jun 2025 18:42:32 GMT"
     },
     {
-      "id": "970bca052eb18f67a62cf99c7113c347",
-      "title": "You Can Own This Ultra-Rare Italian Viper - Motor1.com",
+      "id": "5a9f7717c158a65aebee63b99ffe1d47",
+      "title": "The New Bentley Bentayga Speed V-8 Outpunches the W-12 - Motor1.com",
       "source": "Motor1.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkdjOXNQQUh4ZHlKWmYwSTQxdXBMdVg2cU9YamRoaGxQdlhLX1F0T3hYM1IyRnp1RGRzdUdXV0M3c2ZzeEdvZ3ljZVFxb0t6WktiM0FDaGN6em1XcURhdzhQbGVRZnZYYVdPbXZEelJwZDRHZmJaYktldzRoMTEtY0RNVU4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HQ05MT1g2ZndyV2o2VXJ4T1U2bUdrR1B6N0ZzTTIzU2xSd0ExUjNxSVVMQmZ2TGRVbU80Tnhwa002LWptVmpES3YtbG9yR1RIWEh5NzFRV0xHZW9qQVJ5eWlNR2hxdjcxYVZpcTJ1YlNOWHF5VVluZQ?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 12:00:23 GMT"
+      "published": "Mon, 02 Jun 2025 12:40:00 GMT"
     },
     {
-      "id": "6ebf4f3b0bf8743c0feef3cde86434e8",
-      "title": "Nintendo: Please don’t remove film layer from Nintendo Switch 2 screen - My Nintendo News",
-      "source": "My Nintendo News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcno3SUJVMzg0ZE1xSG9keXVLYUtFQkg0Ni1qT1hxdnp4bjdnb2pYT1hfYThkOG9qNDBGMmxZNWtndVRNRzMwZ2gzeWxSYmZHTm45bk5kdzlsRHVxMU5CRmUzOGlMeGN6YXczcW1Fem9obkROVjhjS21mTk1kSDREbjZGd0xVR21XYnJfYnVlc3JYNndsZEJVaFRfZVloWkZ5U1JMbmp2d2lTRlE?oc=5",
+      "id": "9747f4f731693eaccd06f8fdbbbd9b91",
+      "title": "Google’s Pixel 10 phones will reportedly launch on August 13th - The Verge",
+      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcmo4aG1LLWFYOEx1eGtqVFJSMWtrSlhfN1h1N3pFZDdBdnY2TFY4bXJyMjN6Y0JjQVh1UXl1YnBfU0pXV0xFUkhwRUszV05ralc3UlpxRmtVNkdCOWdzT2RrS0wtTFpHcHhjWXhNaVdrMHJPRkNDS2RRdUJHRzQ0Ymg3M2F3QQ?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 09:52:48 GMT"
+      "published": "Mon, 02 Jun 2025 16:30:51 GMT"
     },
     {
-      "id": "9662c81a0aa03706ddc460129a229de3",
-      "title": "A Glucose Monitor for Someone Without Diabetes: Optimal or Overkill? - WSJ",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZHJmVklwcTFsTy1GZWtLcU9McTR2cWpoSUhLM2ZZZXU4MDQ0WU1hVWs2RFMwMFRBQ19PbWhZMU5sSnMtUkVWeW85UGpkT3Fhc29ZWUY3TTMxckpSVEo5a2pIU1FhTVVGVl9Hb0ExMFg4dVY0NzhNZThTTUJyTDR1VVNpWkhPX3J3cGFBOWFR?oc=5",
+      "id": "b1590e8650c6e0fc5d1dc9c835a92191",
+      "title": "Discounted by $261, the Galaxy Watch Ultra is just too good to pass up - PhoneArena",
+      "source": "PhoneArena",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV0dwRC0zQktyREoyVXZXM2FwS3RJLWhxd2pwYzhGME1ZSHJUX1gzQkMxOVZ0YVBlMUtVNWxLQ3FvZS1YVEY3VnNkdFlJQTdHNzFKUFpJLW9RYzlsUDRoVnBxTjBGdjVKaTgzeDF6RFBCbE9UZVhGMGhvSzQ0ZTRQMTlXWFVXQQ?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 17:30:41 GMT"
+      "published": "Sun, 01 Jun 2025 00:35:01 GMT"
     },
     {
-      "id": "36d59b375419356fbfe37a44cbff3ee5",
-      "title": "How to take pictures of the Northern Lights with Google Pixel and other Android phones - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXVfOHdnem5lRUxEUERLNjBfMzJ1M2dhTXFoU0h6YWNpQUtZalQ0Y2xQVHJlNFVHYVppVEQ5cGdCYWpWZE1wbzAya1dUZkZRTEhGWi1USW5FbHMtTVdaRm4yNTFRTEZQblQ2RDMzVEhMbnhwQ044OWVnNkdBWnFsS3RKam9xeU1vZmdXQTlyUy1YWGJ5YTFV?oc=5",
+      "id": "a5133bd733c1096eb6b13667b6f0130c",
+      "title": "Heroes of the Storm Live Patch Notes - June 2, 2025 - Blizzard News",
+      "source": "Blizzard News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVnc0NFJQM1BQQTJVYnFtSzNkNm1UR1ZaM19sZG1WUzh4QlFtUjhubkc1cDJXWmhrejRSbUx4RHE1VHRDTzh3cnZueF84SExNQ0J5aGQtZFZxdWhlWnRERmJaTU5McFZSY2VIWmlYUTFnU01lazBUSEpUVEhyT0Z1TE0zTUlZX09ZMTAtcElCQjN6QVpzUDRhbXB3dVI3UQ?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 00:09:00 GMT"
+      "published": "Mon, 02 Jun 2025 17:25:27 GMT"
     },
     {
-      "id": "07d2405630e1ee2b067cd3cbc6b8c857",
-      "title": "People Can Fly cancels two projects and confirms it will once again have to \"scale down\" its teams - Eurogamer",
+      "id": "ff166726f4622748837c005c8a71c28a",
+      "title": "Elden Ring Nightreign Patch 1.01.1 Nerfs Solo Mode Difficulty, Fixes Bugs, and Makes More Balance Changes - IGN",
+      "source": "IGN",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNzhMVGRBWHRKZklwclVtUVZ0ajdqbzdra0ZOUzZYOVdBb1VUSzNJVXJsNXVoS2h1Q2hhYW1DcXNOem8xY21fZjE0bS03WnVQSTMtTjVBZ1k0Z3N4MTZzZ0h3cVF1OWVyTjFGT1EtVlBJZW5pV3VNQThic0JXOTF1NFdsRjM3eUY5WWdQSzlCN2RfX3hURDRQOC05alB1NjNHQ2xrckhrT0d1aE5KS05hSldOUmJCd0l6dFJRS0MyaTltS09YNHlsM2JB?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 11:29:18 GMT"
+    },
+    {
+      "id": "a5b9195c8e920c7a93bc3401ee7dc508",
+      "title": "Anker Power Strip With 12 Outlets, USB-C and USB-A Ports Is Nearly Free, 4.8 Stars on Amazon - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmthNHUxVzBLR3B3Q2R0aUZ6U0hremZnREFJU1hyTzVramQ0ZlFGSUlpaG9yc0RId0RLMU9BU0VyTUwxOXJBaFRBYzNzYWtadGhzSF8xZWE0cVBVWTdWY0hoUUlyZjhWWk51SXl4WWZkUWo2SndwU28yd0JQbnpWbWlodGVWVlc1NU9WU2NIaU5HZVJ1T1pEVG5rbzhySFlLMjVxS0tnV0h0c0lJaVJzeVdVNjRLZm12QTE2dHF3?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 13:55:46 GMT"
+    },
+    {
+      "id": "1f72cf9f522ed340a327aa150a8fdfb6",
+      "title": "Don't Remove Switch 2's Protective Film, Nintendo Says - GameSpot",
+      "source": "GameSpot",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONTJBVldHcTE1Q1lxRzMzQy11X3hhc19FSzBuUndxUlhqYnpxTTJnTVB2aVRPSDQxOURzOUR5bUs2Tk5KYUZoTDNwbW9UM1doeC1aeW55TUd4UmxfdHYzMnR6ODlHY3I4MFhMQ0RZZkxxNV9qc3F5alhZUHU2eWF6UHkwZ2VYSW1fSDRWb2oxT09yVVlCLWFHSU1Xa25MUzdw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 14:59:28 GMT"
+    },
+    {
+      "id": "d54c03eea54fe5668a48fab7386dbc11",
+      "title": "IOI's James Bond game name officially announced ahead of full reveal this week - Eurogamer",
       "source": "Eurogamer",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUGFuMnNfZWFBOHZuTDdvVEZMUENmb2ZaOGVuNjE3dkpQRHhjX3V3ZzlwczUzQ2xNX2JZQXdqckpCUUtJcWtMdHJsdWl0bnctUkNWRTZMWnczcGR4TnhuUTBrak9DR1U1V1E4Y2JEMndwRTF2ckZnSUFhQTljQnFEUjVkU2Y4UnBRVmdOWTk0YWM2RnZYMGc1b1ZIRG1HZTBvX3BOMDdsbXJlUnRLMnlUTm9ZdjVkcS00LXg5Y0Jwbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWVKNExjYV9KRUJYUm0zdUl1MlR1eS01TWY4cDVMX1dFcFVuRXhQX0xRUjlrdE9jSVJDaUlFcHBMcmFicXNYMS1uSkdMTGRFelpLVWxzaUVVU1NDQ2hmRkRfRVMxdGNNYjR0QXI3QTRDY2NnNHNCc1NCOEFxenpqUnMtUEZYVC1jUkl1TmxRZTBTODh2WE1FTkQ5aHVYc3gxcjNnOHZR?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 14:40:27 GMT"
+      "published": "Mon, 02 Jun 2025 15:41:41 GMT"
+    },
+    {
+      "id": "91dfd9542c12b818273a57f2af579a4b",
+      "title": "Here’s what Pokémon Scarlet and Violet look like running on Switch 2 - Polygon",
+      "source": "Polygon",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmpuRFNSUWJlOGtoaXpVSm1XWG00aFExd2tBeVVOUU5oT09xOVBsUVZ2R1dycUZJUmhwSFdueXc0bHBXLTZ5eWh5OEpOczByMzFHQU9pdWt4XzRQQXVLUDNmQUFFREJnSUt2Z25YWlhjTTZDOTdCaFItdTNjWUhTQTRxVzl5TnhfaU5VNzExa1RzZ19sanhVTWU3M2prdw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 18:27:45 GMT"
+    },
+    {
+      "id": "c01a1ff28d381348ffde65b220e73de9",
+      "title": "Patch Notes: New Co-op Emotes! — Warcraft Rumble - Blizzard News",
+      "source": "Blizzard News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOElhbGM3amd5SU9zd2pfMEVNNGN6MS1VX0NSMGxkM3dmVktiWFQtLVRoVHV4cmI0QlYzTklzeWxWY2xzcW9IX2FtX1NCenlOR2FneUNESE9sM0RxMm5ScVdQSTZtVDdUdW1yUnBnTXk5UXBsUjhHeU05cDJuY08xaWs3VQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 18:30:00 GMT"
+    },
+    {
+      "id": "1365541747e95ee9b56061ce39d9a5da",
+      "title": "Deals for Today: The Latest MacBook Air is Already Discounted, Cheap Controllers, and Big Savings on Father’s Day Gifts - IGN",
+      "source": "IGN",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Kb3FBQkFCVmJpV3p1MWRoYUZwZ21VYmRrOTV1Nm1WZnFNVU5MdWV3V2E2OVVjeThvQVNCb2QtYlVid1hSR1hDOFdydkhFOEFETkJnc3F4S01nbkVjT1BMOE40VTN1Zw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 01 Jun 2025 17:27:25 GMT"
+    },
+    {
+      "id": "3d52de56558f76721bb4f01e9ce67858",
+      "title": "Nintendo Switch 2 Welcome Tour Trailer Highlights New Minigames & Tech Demos - nintendolife.com",
+      "source": "nintendolife.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb3U0OUE4WlgtcHRiQktDN1hMaE02VGs2MmdlOGcwM2hORzVleTVYNGpGcExIN2hXTVBFQ1Y0WVNMV0NIQzNMazQzS05MeXl5eDdXR2VHR0VTWmV1NDNpZDRLaXJKbTNKTHVhdnlUU0doLWJreDVUSnI4N2pGbGFhelVkaGxzdTR4cWFYTnFZRW1ZVnVHYldXZjZUQXdxTkdqaE42VlhJWGhWNTlWTlRzU0FjM1FtaGxjaVVtQQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 10:45:00 GMT"
+    },
+    {
+      "id": "efb8dc9ae30ae9cad7dc7d2504dfcbe2",
+      "title": "New ‘Dungeons & Dragons’ Single-Player Video Game in the Works - Variety",
+      "source": "Variety",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2tib29SOFRaYU5ZbFRacW5ocWZBZ2pjcFVNdEhLcUxsaUNHTWxwdU85NDRsMC1nWGd4aDdWMS1oUERDNlNiWFhGaGZKOTA3czBtRDg2dzVMTEp4Mmcwd1ZQRk1zUmIwNjBXOHFFc2JKZWFfX0J4UXFwa2VNRTBwTEhXcnFPQk14WFBnQjN6d0c5T3VWRlhFWWs0Q1A?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 14:00:00 GMT"
     }
   ]
 }
