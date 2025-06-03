@@ -1,54 +1,99 @@
 {
   "metadata": {
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-03 12:58:23",
+    "generation_time": "2025-06-03 18:41:19",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "1790dfa17ac1c45bde7d5e259fcb0e89",
-      "title": "Mysterious 'mega-tsunamis' that shook the entire world for 9 days revealed by satellite - Live Science",
+      "id": "02eaed5714651ebff5bfda586282de3d",
+      "title": "Greenland's mega tsunamis: First direct observation of the trapped waves that shook the world - Phys.org",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2025-06-greenland-mega-tsunamis-shook-world.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 172.171.254. 176 : 8cf52400-c13e-430c-9336-73348852",
+      "published": "Tue, 03 Jun 2025 09:00:01 GMT"
+    },
+    {
+      "id": "fe0ba8c9e68ce33171dd79900a32655a",
+      "title": "Milky Way galaxy might not collide with Andromeda after all - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2025/06/milky-way-galaxy-might-not-collide-with-andromeda-after-all/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/galaxiesTOP-1152x648-1748890827.jpg",
+      "summary": "Milky Way galaxy might not collide with Andromeda after all Astronomers ran 100,000 computer simulations using combined Hubble/Gaia space telescope data. Credit: NASA/Joseph DePasquale (STScI) 100,000 computer simulations reveal Milky Way's fate—and it might not be what we thought. It's been textbook knowledge for over a century that our Milky Way galaxy is doomed to collide with another large spiral...",
+      "published": "Tue, 03 Jun 2025 13:53:38 GMT"
+    },
+    {
+      "id": "7325074e316942710d9160f8201596ae",
+      "title": "A long-running experiment finds a tiny particle is still acting weird - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/muon-fermilab-standard-model-physics-cb123cd20bfd8141dbf75de62804b32b",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Tue, 03 Jun 2025 16:01:00 GMT"
+    },
+    {
+      "id": "5dfad2a70855765431c92846f429b361",
+      "title": "The mysterious hill in Sudan that looks like 'landlocked lips' — Earth from space - Live Science",
       "source": "Live Science",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzFOcGpPMHduYlpwZHdib055SGhSYU1jQ2xNWWY0bF9XOEJHMHBjR0x2eXdYeG5IZ2N2RFpkcXNPWDYwdnZpWXEwb0huNWtmUDNFVm83Y2ZTM2w2MjJzcTd5N2NheG03Sjc5ZWk2cW1jRzRUblB2M2szaDZsdmJLS0x0YzdicXZqZ0c1dk9VY3g4OGRrQlc4M0NzbkdfOUFhenFtZGVuQlFrM1BIdW1KQ2NNVDZRa3NQVkVaTXR3d0JtUXp6cEtBYS1KUGZYWUU?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 03 Jun 2025 09:00:00 GMT"
-    },
-    {
-      "id": "5e152b93d0989c859ab361a93b06d00e",
-      "title": "Astronomers thought the Milky Way was doomed to crash into Andromeda. Now they’re not so sure - The Conversation",
-      "source": "The Conversation",
-      "url": "https://theconversation.com/astronomers-thought-the-milky-way-was-doomed-to-crash-into-andromeda-now-theyre-not-so-sure-257825",
-      "image_url": "https://images.theconversation.com/files/671460/original/file-20250602-56-o8xc4n.jpeg?ixlib=rb-4.1.0&rect=0%2C363%2C7510%2C3755&q=45&auto=format&w=1356&h=668&fit=crop",
-      "summary": "Luc Viatour / Wikimedia, CC BY-SA Astronomers thought the Milky Way was doomed to crash into Andromeda. Now they’re not so sure Published: June 2, 2025 4:26pm EDT Forrest Fellow in Astrophysics, The University of Western Australia Computational Astrophysicist, University of Helsinki Ruby Wright receives funding from the Forrest Research Foundation. Alexander Rawlings receives funding from the University of Helsinki...",
-      "published": "Mon, 02 Jun 2025 20:26:17 GMT"
-    },
-    {
-      "id": "7dc20b6da1aeb3a4bc81c460ee6af66c",
-      "title": "SpaceX launches midnight hour Starlink mission from Florida - Spaceflight Now",
-      "source": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2025/06/02/live-coverage-spacex-reschedules-starlink-delivery-mission-for-midnight-hour-tuesday/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250603_Starlink_12-19.jpg",
-      "summary": "SpaceX launches midnight hour Starlink mission from Florida SpaceX launches midnight hour Starlink mission from Florida June 2, 2025 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station to begin the Starlink 12-19 mission on Tuesday, June 3, 2025. Image: Adam Bernstein/Spaceflight Now Update June 3, 3:12 p.",
-      "published": "Tue, 03 Jun 2025 05:51:32 GMT"
+      "url": "https://www.livescience.com/planet-earth/geology/the-mysterious-hill-in-sudan-that-looks-like-landlocked-lips-earth-from-space",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CwdLFqUqYr24ZuXEVi55d5.jpg",
+      "summary": "Physicists capture 'second sound' The mysterious hill in Sudan that looks like 'landlocked lips' — Earth from space By Harry Baker published 6 hours ago A 2012 Google Earth photo captured a hill formation in Sudan that bears a striking resemblance to human lips. Not much is known about the unusual landmark, but researchers have guessed how it formed. When...",
+      "published": "Tue, 03 Jun 2025 12:46:03 GMT"
     },
     {
       "id": "f3e1ef298186189af1bb8c285ee541b3",
       "title": "Trump’s budget puts Huntsville-made spacecraft on the chopping block - AL.com",
       "source": "AL.com",
-      "url": "https://www.al.com/news/huntsville/2025/06/trumps-budget-puts-huntsville-made-spacecraft-on-the-chopping-block.html",
-      "image_url": "https://www.al.com/resizer/v2/FVFX5TGWOBHHFEISMTO5GTMNS4.PNG?auth=6d2d476df2283f41428fbe78f890d507d536d819c145a9ca5c3c2da30b96b784&width=1280&quality=90",
-      "summary": "Trump’s budget puts Huntsville-made spacecraft on the chopping block Updated: Jun. 02, 2025, 3:19 p. m.|Published: Jun. 02, 2025, 3:17 p. m. NASA is being directed to phase out multibillion-dollar programs, managed from its flagship center in Huntsville, that are designed to ferry people to and from the moon. President Donald Trump’s budget proposal also calls for a 31% reduction...",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0VkcXEwdFJsZ25INmMyWUNiMTViY2gzcWJSLUIyeVc5Z0xtaHB2eTREanNJbEozYVBrSmV3XzkzdVZadUpaZ21iQ1J1UEdXYU4yV0pMS2xLZmoxLXVIMzJiTFF1Tklwcm5TOGtWZ2RXQjE0X21EdHF5cFBYQVhiYjhLb0F6bHQ1Zm0tbUVleVQwSXhXTV9ISndVZ1cxU3lrX0FaYnZ0d3ZsRnYtM1ZjUEdXR0ZwZ9IBygFBVV95cUxQQnMzTE5PWWJhcEttM1k3Zjd0TThVVHZXMFBQTkxoSU9QNjNCS3BNTzRqNUllQVV1QWxCUmJmZ05jUFFwcFlOdTdYSHBtLVJrdjZ5MHhzekVyWmxPVmZ3UExCYmNJOWdYZmpGRWpBcHAzcHFrSml4TXEtT1VFM3g3Y2dLcmNzMFJmTGtDcHE1bWZNQ2J3aEI2NFc1T2V6NmM5WjFCemI1M3NHaEt0SEo2YURSb3JlUVZYVmtoa3l6bmFGMWhERHdNTHRn?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Mon, 02 Jun 2025 20:17:00 GMT"
     },
     {
-      "id": "ea3ec67a8906b4abdb9eb8b7b8319a5c",
-      "title": "How a new planetarium show helped scientists unlock a cosmic secret - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/museum-planetarium-oort-cloud-b0050c65ebff830812b505cdd8c476ec",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Tue, 03 Jun 2025 09:00:00 GMT"
+      "id": "f4ce6c94e616e2d51b0020f7f0459aaf",
+      "title": "Scientific Discoveries, and Dreams, in the Balance - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/02/science/trump-science-research-nsf.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 02 Jun 2025 09:01:01 GMT"
+    },
+    {
+      "id": "09fed364519e2df33a72d695514515cf",
+      "title": "Scientists Unlock Cosmic Secret in a Very Unlikely Place - Newser",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/369640/scientists-discover-cosmic-secret-in-a-planetarium-show.html",
+      "image_url": "https://img2-azrcdn.newser.com/image/1614117-12-20250603073917.jpeg",
+      "summary": "Scientists Unlock Cosmic Secret in a Very Unlikely Place They uncovered surprise glimpse of the Oort Cloud while preparing planetarium show By Newser Editors and Wire Services A new planetarium show showing a backwards S-shaped spiral in what's known as the Oort Cloud far beyond Pluto. (American Museum of Natural History via AP) Scientists have unlocked one of the solar...",
+      "published": "Tue, 03 Jun 2025 11:57:00 GMT"
+    },
+    {
+      "id": "5f23398abae65c7fc5bb75d21584fbe3",
+      "title": "New model helps to figure out which distant planets may host life - Phys.org",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2025-06-figure-distant-planets-host-life.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 172.171.254. 176 : f71a3a72-ef65-4e89-97d4-9e2aa2e9",
+      "published": "Mon, 02 Jun 2025 19:34:08 GMT"
+    },
+    {
+      "id": "e716424e91a6a7914d01b33bae51005d",
+      "title": "How Cocaine Hijacks the Brain - Neuroscience News",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com/genetics-cocaine-addiction-29187/",
+      "image_url": "https://neurosciencenews.com/files/2025/06/genetics-cocaine-addiction-neuroscience.jpg",
+      "summary": "FeaturedGeneticsNeuroscience·June 2, 2025 Summary: In a groundbreaking study, researchers have engineered fruit flies that voluntarily consume cocaine, creating the first fly model for cocaine addiction. Typically, flies avoid the drug due to its bitter taste, but by disabling their bitter-sensing receptors, scientists encouraged addictive behavior within just 16 hours of exposure. This model is a major step toward rapidly testing...",
+      "published": "Mon, 02 Jun 2025 20:07:39 GMT"
+    },
+    {
+      "id": "bb0d571b01497f54e9fd8ef6a69f87ee",
+      "title": "Turning the Red Planet green? It's time to take terraforming Mars seriously, scientists say - Space",
+      "source": "Space",
+      "url": "https://www.space.com/astronomy/mars/turning-the-red-planet-green-its-time-to-take-terraforming-mars-seriously-scientists-say",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7zWzTQ8nWnmTK7d7vHfjV6.jpg",
+      "summary": "Starship Flight 9 Launch Failure Turning the Red Planet green? It's time to take terraforming Mars seriously, scientists say By Stefanie Waldek published yesterday New research suggests that the idea of transforming the Red Planet might not be so far-fetched after all. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.",
+      "published": "Mon, 02 Jun 2025 10:00:00 GMT"
     },
     {
       "id": "32cdaef39c6c44164a32335d08e13909",
@@ -60,58 +105,13 @@
       "published": "Mon, 02 Jun 2025 14:34:07 GMT"
     },
     {
-      "id": "667c8c76b5c70f9a53d869b477645d88",
-      "title": "Space pebbles and rocks play pivotal role in giant planet's formation - Phys.org",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2025-05-space-pebbles-play-pivotal-role.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.43.245.96 : b24dd668-d0fb-4246-9542-9712a527",
-      "published": "Mon, 02 Jun 2025 09:00:08 GMT"
-    },
-    {
-      "id": "ea39913a84772318a193b052f6a54071",
-      "title": "\"Unlike Anything We Have Seen Before\": Repeating Signal From Deep In Galactic Plane Puzzles Astronomers - IFLScience",
-      "source": "IFLScience",
-      "url": "https://www.iflscience.com/unlike-anything-we-have-seen-before-repeating-signal-from-deep-in-galactic-plane-puzzles-astronomers-79439",
-      "image_url": "https://assets.iflscience.com/assets/articleNo/79439/aImg/84202/askap-j1832-0911-object-meta.png",
-      "summary": "\"Unlike Anything We Have Seen Before\": Repeating Signal From Deep In Galactic Plane Puzzles Astronomers After detecting the unusually bright signal, astronomers checked observations from another telescope, and found an unexpected surprise. Image credit: X-ray: NASA/CXC/ICRAR, Curtin Univ. , Z. Wang et al. ; Infrared: NASA/JPL/CalTech/IPAC; Radio: SARAO/MeerKAT; Image processing: NASA/CXC/SAO/N. Wolk stronomers are puzzled after detecting an unusual, repeating...",
-      "published": "Mon, 02 Jun 2025 16:19:50 GMT"
-    },
-    {
-      "id": "7d79d83fc43415f07cbb24e4a4d2adc0",
-      "title": "Vienna’s Musical Message to Aliens: One, Two, Three. One, Two, Three. - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/01/arts/vienna-to-aliens-one-two-three.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sun, 01 Jun 2025 17:45:50 GMT"
-    },
-    {
-      "id": "a38c353f7000ef8d3d09a3197b50490c",
-      "title": "Shelved Europa Lander mission concept could be used to explore Enceladus instead - Phys.org",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2025-06-shelved-europa-lander-mission-concept.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.43.245.96 : 91e7b1a6-974b-4000-962a-0aecb510",
-      "published": "Mon, 02 Jun 2025 14:19:21 GMT"
-    },
-    {
-      "id": "fc93872fc1aa1ea7d95c383870e0f033",
-      "title": "I’ve Figured Out a Method for Keeping My Son’s Favorite Toy Clean. It Might Lead to Some Trust Issues. - Slate Magazine",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/advice/2025/06/parent-advice-cleaning-toy-method.html",
-      "image_url": "https://compote.slate.com/images/b6201b40-d233-4bd0-aeed-b5c7d7b8cc85.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "summary": "Light Activating this button will toggle the display of additional content I’ve Figured Out a Method for Keeping My Son’s Favorite Toy Clean. It Might Lead to Some Trust Issues. Photo illustration by Slate. Photo by the_Akg/iStock/Getty Images Plus. Care and Feeding is Slate’s parenting advice column. Have a question for Care and Feeding? Submit it here. My 18-month-old has...",
-      "published": "Mon, 02 Jun 2025 10:00:00 GMT"
-    },
-    {
-      "id": "6a1aa69f6e9206f7a7e84c429a24bd96",
-      "title": "Scientists Predict a Million-Fold Drop in Oxygen — Here’s What it Means for Earth’s Future - The Daily Galaxy",
+      "id": "6c19bf1642a4ee2d25e046f087e79706",
+      "title": "James Webb Detects Never-Before-Seen Molecule on Scorching Exoplanet - The Daily Galaxy",
       "source": "The Daily Galaxy",
-      "url": "https://dailygalaxy.com/2025/06/scientists-million-fold-drop-oxygen-earth/",
-      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Scientists-Predict-a-Million-Fold-Drop-in-Oxygen-—-Heres-What-it-Means-for-Earths-Future.jpg",
-      "summary": "Scientists Predict a Million-Fold Drop in Oxygen — Here’s What it Means for Earth’s Future Scientists warn that Earth’s oxygen levels could plummet a million-fold, threatening the survival of complex life as we know it. Credit: Canva | The Daily Galaxy --Great Discoveries Channel A recent study published in Nature Geoscience explores the future of Earth’s atmosphere, revealing that a...",
-      "published": "Mon, 02 Jun 2025 16:00:00 GMT"
+      "url": "https://dailygalaxy.com/2025/06/james-webb-molecule-exoplanet/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/James-Webb-Detects-Never-Before-Seen-Molecule-on-Scorching-Exoplanet.jpg",
+      "summary": "James Webb Detects Never-Before-Seen Molecule on Scorching Exoplanet Astronomers using the James Webb Space Telescope have for the first time detected silicon monoxide in the atmosphere of the ultrahot Jupiter. Credit: T. Müller, MPIA & HdA. | The Daily Galaxy --Great Discoveries Channel Astronomers using the NASA/ESA/CSA James Webb Space Telescope have made a groundbreaking detection of silicon monoxide in...",
+      "published": "Tue, 03 Jun 2025 16:00:00 GMT"
     },
     {
       "id": "947aaaef0b987dd9ba29d962f8139457",
@@ -123,67 +123,67 @@
       "published": "Mon, 02 Jun 2025 14:55:42 GMT"
     },
     {
-      "id": "9295ee0058188a37b305b7074fb8aa6c",
-      "title": "13 million years ago, this object released as much energy as a billion suns in a fraction of a second! - Farmingdale Observer",
-      "source": "Farmingdale Observer",
-      "url": "https://farmingdale-observer.com/2025/06/02/13-million-years-ago-this-object-released-as-much-energy-as-a-billion-suns-in-a-fraction-of-a-second/",
-      "image_url": "https://farmingdale-observer.com/wp-content/uploads/2025/05/6480846130354-2025-05-27t152847.148-1024x683.jpg",
-      "summary": "13 Million Years Ago, This Object Released As Much Energy As A Billion Suns In A Fraction Of A Second! A neutron star is formed when the core of a massive star collapses at the end of its life under the effect of gravitation. As the star dies in a supernova, it leaves behind only a small object composed almost...",
-      "published": "Tue, 03 Jun 2025 02:34:00 GMT"
-    },
-    {
-      "id": "9f71690c4c83f619a46937db7f4283c6",
-      "title": "Incredible auroras delight stargazers in New Zealand photo of the day for June 2, 2025 - Space",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWWNydWJKa3NscFo0VWpkZFZMLXJXSnN3NEhUOVhfNmZNM0tCQlNsUi1NS3BRRENORTVBZmZHWklNNWl3Q2I2aURJdE1ET1N4WTFmVHlTSnhfQXE2dG9HQlQtZ1I2MUZDQzFsYjRjNUllVUp6M1JVblktck1WVUN3Z1VVaHpTV2NPVFJtUk0zQldJbTJQRFM0R2FmZndRSmRhVHJIWW9Ya0NUcjhrSldpOU1wQjVndDU0THRMOWlVUVUtU055SW9EYUE3Snk?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "id": "ced8e522a6e40e732a36649a8c875ed1",
+      "title": "Skin Cancer Made Me Nocturnal. It Was Illuminating. - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/03/magazine/dusk-sunshine-cancer-running.html",
+      "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 16:53:48 GMT"
+      "published": "Tue, 03 Jun 2025 09:00:57 GMT"
     },
     {
-      "id": "a3a41775fb1a4aee35cc8d7c3663c1e1",
-      "title": "Satellite Scanning the World’s Oceans Detects Elusive Phenomena Scientists Say Had \"Been Hiding in Plain Sight - The Debrief",
-      "source": "The Debrief",
-      "url": "https://thedebrief.org/satellite-scanning-the-worlds-oceans-detects-elusive-phenomena-scientists-say-had-been-hiding-in-plain-sight/",
-      "image_url": "https://thedebrief.b-cdn.net/wp-content/uploads/2025/05/RESIZE-img-ocng-wangnasa-01-1408x792-1.jpg",
-      "summary": "A multi-university team of scientists analyzing data from the Surface Water and Ocean Topography (SWOT) oceanographic satellite has detected the presence of forces on and below the surface, including currents and eddies, that may have a much more dramatic impact on the world’s oceans than previously realized. “We’re building on work that started two decades ago,” said Dr. Shari Yvon-Lewis,...",
-      "published": "Mon, 02 Jun 2025 12:48:05 GMT"
+      "id": "ea39913a84772318a193b052f6a54071",
+      "title": "\"Unlike Anything We Have Seen Before\": Repeating Signal From Deep In Galactic Plane Puzzles Astronomers - IFLScience",
+      "source": "IFLScience",
+      "url": "https://www.iflscience.com/unlike-anything-we-have-seen-before-repeating-signal-from-deep-in-galactic-plane-puzzles-astronomers-79439",
+      "image_url": "https://assets.iflscience.com/assets/articleNo/79439/aImg/84202/askap-j1832-0911-object-meta.png",
+      "summary": "\"Unlike Anything We Have Seen Before\": Repeating Signal From Deep In Galactic Plane Puzzles Astronomers After detecting the unusually bright signal, astronomers checked observations from another telescope, and found an unexpected surprise. Image credit: X-ray: NASA/CXC/ICRAR, Curtin Univ. , Z. Wang et al. ; Infrared: NASA/JPL/CalTech/IPAC; Radio: SARAO/MeerKAT; Image processing: NASA/CXC/SAO/N. Wolk stronomers are puzzled after detecting an unusual, repeating...",
+      "published": "Tue, 03 Jun 2025 08:13:48 GMT"
     },
     {
-      "id": "16014e619529cca37d2554d410991d8e",
-      "title": "Don't miss the half-lit first quarter moon rise tonight — Here's what to look for - Space",
-      "source": "Space",
-      "url": "https://www.space.com/stargazing/dont-miss-the-half-lit-first-quarter-moon-rise-tonight-heres-what-to-look-for",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/BAXVYvbRCZubhWwh2bDtge.jpg",
-      "summary": "Starship Flight 9 Launch Failure Don't miss the half-lit first quarter moon rise tonight: Here's what to look for By Anthony Wood published yesterday The first quarter moon is the perfect opportunity to explore shadowed craters lining the terminator. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. See the half-lit...",
-      "published": "Mon, 02 Jun 2025 12:02:23 GMT"
+      "id": "deb8acc0d75928b818914239fecfc303",
+      "title": "'Strawberry Moon' 2025: June's full moon is about to break an annual record - Live Science",
+      "source": "Live Science",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXhVcDlLQ05rWWlEVUk1MDgyREg3cDI2ZFpoWVlUX1M1aTdmTTFFSHp4aXVzY3A4NGUwaFlSbHhyVFFXaGRXbDhwclJXUGw0UW9QLVVOMEpSYl9xMXg1bUxMbFBpbGdvOWpZVDJ0am5wbzZxYUZJU0VnT1ZMWEF2YUlPaTZqRk5sRW5DbFByM3pWbnFjeGFFQTdTR0NOcVNyU3ZhaGlsSGJOdWV1N0piclVhQkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "The page you were on is trying to send you to an invalid web address.",
+      "published": "Mon, 02 Jun 2025 19:09:16 GMT"
     },
     {
-      "id": "6aac042e8cc70439156c5e195dcd0acc",
-      "title": "Webb Captures a Cosmic Forest of Ancient Galaxies - PetaPixel",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2025/06/01/webb-captures-a-cosmic-forest-of-ancient-galaxies/",
-      "image_url": "https://petapixel.com/assets/uploads/2025/05/abell-s1603-featured.jpg",
-      "summary": "Webb Captures a Cosmic Forest of Ancient Galaxies Abell S1603 as seen by the James Webb Space Telescope. Space enthusiasts are encouraged to head over to the ESA’s website to download the full-size TIFF image. The NASA/ESA/CSA James Webb Space Telescope (JWST)’s new “Picture of the Month” shows the mega-monster galaxy cluster Abell S1063. This impressive collection of galaxies is...",
-      "published": "Sun, 01 Jun 2025 12:00:47 GMT"
+      "id": "a38c353f7000ef8d3d09a3197b50490c",
+      "title": "Shelved Europa Lander mission concept could be used to explore Enceladus instead - Phys.org",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2025-06-shelved-europa-lander-mission-concept.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 172.171.254. 176 : dc8c42df-8860-455b-a65b-8517a0d8",
+      "published": "Mon, 02 Jun 2025 14:19:21 GMT"
     },
     {
-      "id": "40b3827a3e16c0d39859a09cfe82395e",
-      "title": "Will surging sea levels kill the Great Barrier Reef? Ancient coral fossils may hold the answer - The Conversation",
-      "source": "The Conversation",
-      "url": "https://theconversation.com/will-surging-sea-levels-kill-the-great-barrier-reef-ancient-coral-fossils-may-hold-the-answer-257830",
-      "image_url": "https://images.theconversation.com/files/671453/original/file-20250602-62-7aaz23.jpg?ixlib=rb-4.1.0&rect=0%2C417%2C5000%2C2500&q=45&auto=format&w=1356&h=668&fit=crop",
-      "summary": "Will surging sea levels kill the Great Barrier Reef? Ancient coral fossils may hold the answer Published: June 2, 2025 5:02am EDT Professor of Marine Geoscience, University of Sydney Professor of Paleontology, Department of Stratigraphy and Palaeontology, Universidad de Granada Associate Professor, Department of Earth and Environmental Sciences, Nagoya University Professor, Head ANU Radiocarbon Facility, Australian National University Professor, Atmosphere...",
-      "published": "Mon, 02 Jun 2025 09:02:48 GMT"
+      "id": "84c87e3c7efe89930429d5683f0b8cfc",
+      "title": "Scientists unravel diverse behaviors of Cascade volcanoes in subduction zone studies - KVAL",
+      "source": "KVAL",
+      "url": "https://kval.com/news/local/scientists-unravel-diverse-behaviors-cascade-volcanoes-subduction-zone-studies-mount-saint-st-helens-volcano-nature-natural-disaster-lava-magma-big-one-earthquakes-usgs",
+      "image_url": "https://kval.com/resources/media2/16x9/4029/986/0x757/90/4a3d1f79-584a-4081-89b5-48a2bf3aeb60-mtjeffersonphoto3JessiSatin.png",
+      "summary": "Scientists unravel diverse behaviors of Cascade volcanoes in subduction zone studies by Jessi SatinMon, June 2nd 2025 at 3:04 PM Updated Tue, June 3rd 2025 at 10:46 PM Mount Jefferson is like every other Cascade Volcano, but based on its history and lack of population around it, it isn't considered a high threat level. (KATU) The 1980 eruption cycle made...",
+      "published": "Mon, 02 Jun 2025 22:04:00 GMT"
     },
     {
-      "id": "f99bbd715ccc31dc85c59e49fbf119d9",
-      "title": "Two space vets added to Astronaut Hall of Fame as one awaits launch - collectSPACE.com",
-      "source": "collectSPACE.com",
-      "url": "http://www.collectspace.com/news/news-060125a-astronaut-hall-fame-induction-harris-whitson.html",
-      "image_url": "http://www.collectspace.com/images/news-060125a-fb.jpg",
-      "summary": "Space News space history and artifacts articles Messages space history discussion forums Sightings worldwide astronaut appearances Resources selected space history documents Two space vets added to Astronaut Hall of Fame as one awaits launch June 1, 2025 — The U. S. Astronaut Hall of Fame held its annual induction ceremony on Saturday (May 31), but one of this year's two...",
-      "published": "Sun, 01 Jun 2025 21:09:37 GMT"
+      "id": "45f7a77a45a70799e2b214a015302e6a",
+      "title": "Ultra-thin lenses halve incident wavelength to make infrared light visible - Phys.org",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2025-06-ultra-thin-lenses-halve-incident.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 172.171.254. 176 : baba373a-5ba9-4be3-8731-d1b45b6c",
+      "published": "Mon, 02 Jun 2025 14:20:33 GMT"
+    },
+    {
+      "id": "9c931c60554c07f31c98b8c603ca67ba",
+      "title": "Tuesday Telescope: A time-lapse from orbit reveals treasures below - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2025/06/tuesday-telescope-lighting-sprites-and-airglow-over-central-america/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/ayers-ISS-1152x648.jpg",
+      "summary": "Tuesday Telescope: A time-lapse from orbit reveals treasures below \"Soooooo much going on in this picture. \" Storms over Central America. Credit: Nichole Ayers/NASA Welcome to the Tuesday Telescope. There is a little too much darkness in this world and not enough light—a little too much pseudoscience and not enough science. We’ll let other publications offer you a daily horoscope.",
+      "published": "Tue, 03 Jun 2025 12:10:47 GMT"
     }
   ]
 }

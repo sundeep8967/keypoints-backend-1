@@ -1,126 +1,144 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-03 14:10:22",
+    "generation_time": "2025-06-03 18:48:45",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "89bc120d154607dbef1f459d7822c620",
+      "id": "fa26378376d85e445d35b0792d32ce69",
+      "title": "Epic showed off Unreal Engine 5 with an impressive Witcher 4 tech demo - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/678463/unreal-engine-5-witcher-4-tech-demo",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Intro_x31135.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "summary": "Epic showed off Unreal Engine 5 with an impressive Witcher 4 tech demoStill no word on when the game is launching, though. Andrew Webster is an entertainment editor covering streaming, virtual worlds, and every single Pokémon video game. Andrew joined The Verge in 2012, writing over 4,000 stories. An ongoing tradition at Epic’s big keynotes is a gorgeous tech demo...",
+      "published": "Tue, 03 Jun 2025 13:54:20 GMT"
+    },
+    {
+      "id": "a0d480c1f3167ca376e3da82603dfd3f",
+      "title": "'Mario Kart World' Races Are More Chaotic—and Better—Than Ever - WIRED",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/mario-kart-world-first-impressions/",
+      "image_url": "https://media.wired.com/photos/683e17fc140920a56d44c36c/191:100/w_1280,c_limit/Mario-Kart-Culture-NintendoSwitch2_MarioKartWorld_Character_SCRN_50.jpg",
+      "summary": "WIRED uses first- and third-party technologies that provide information about your interactions with this site to others. See our Privacy Policy for more information. Mario Kart World Races Are More Chaotic—and Better—Than Ever Our first impression of the Switch 2 launch title is that it marks a strong start for Nintendo’s new era. Still from Mario Kart World. COURTESY OF...",
+      "published": "Tue, 03 Jun 2025 14:00:00 GMT"
+    },
+    {
+      "id": "dd25428e5fb9a427fe5a0ea2e28f6da3",
+      "title": "Nintendo Switch 2 Hands-On: It's the Sequel Handheld We Wanted - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/8-hours-with-nintendo-switch-2-its-the-sequel-handheld-we-wanted-2000610277",
+      "image_url": "https://gizmodo.com/app/uploads/2025/06/nintendo-switch-2-hands-on-36.jpg",
+      "summary": "8 Hours With Nintendo’s Switch 2: It’s the Sequel Handheld We Wanted We played a ton of Mario Kart World and also the interactive \"instruction manual,\" Switch 2 Welcome Tour, to get a better feel for the Switch 2. Published June 3, 2025 | Comments (15) | Nintendo’s Switch 2 is a better handheld than the original Switch in both...",
+      "published": "Tue, 03 Jun 2025 14:00:02 GMT"
+    },
+    {
+      "id": "ee9fa5c094f51264aedce42bf1a11ce6",
+      "title": "Wyze just built a camera into a light bulb, and it only costs $50 - 9to5Google",
+      "source": "9to5Google",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XLWNNTTltU3AzQVNOVW9mTlFuRmVxYS1VTndSZmRaY0JGQlVIcXE3RzRYczFmTkFwMzBvMU9LRXprcXBXZklxMDdZRWtWSE55RWZXVlAwOUFZVjJfWDJ0cmR0YmJaa2VMZ2F0REd3?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 03 Jun 2025 13:00:00 GMT"
+    },
+    {
+      "id": "aceb567c68c6eacce923ccba56192c33",
+      "title": "PSA: YouTube app no longer supports these iPhone and iPad models - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaE9TNVdJeUJHMHB0eDY1eU9jZVpTZFA5M0R5amVOaWR6eElPSjB2UWtRZFNUOVZLLUJJNENSQWVwNThYT3I2NTVEeGJtT3pFOG1uU2tsY3ZBc2tJX1BfOEZSaXd3bkhGcHV0OFc1SEJlTERGR0NvMWQzQmtQeFh2dGNBc296THBPYzRaUXV0ZzFZV1hkaXhwbkJ6OA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 03 Jun 2025 14:03:00 GMT"
+    },
+    {
+      "id": "93619ac8898152d037f5a38630796b61",
+      "title": "How to watch Apple’s WWDC 2025 keynote - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/06/03/how-to-watch-apples-wwdc-2025-keynote/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/Apple-WWDC25-event-branding_big.jpg.large_.jpg?w=980",
+      "summary": "How to watch Apple’s WWDC 2025 keynote Apple is hosting its 2025 Worldwide Developers Conference from June 9 to 13. The keynote for this developer-focused event is scheduled for June 9 at 10 a. m. PT / 1 p. m. ET. The company is expected to unveil changes to its operating systems, including iOS, iPadOS, macOS, watchOS, tvOS, and visionOS.",
+      "published": "Tue, 03 Jun 2025 11:05:19 GMT"
+    },
+    {
+      "id": "dc301c4f1be5e7b8bb2c2a811862904d",
+      "title": "Bing lets you use OpenAI’s Sora video generator for free - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/678446/microsoft-bing-video-creator-openai-sora-ai-generator",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Bing-Video-Creator-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "Bing lets you use OpenAI’s Sora video generator for free﻿No ChatGPT subscription required. The Bing Video Creator is rolling out now to Bing mobile app users. Image: Microsoft Jess Weatherbed is a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews. Microsoft has added a new AI video...",
+      "published": "Tue, 03 Jun 2025 10:35:23 GMT"
+    },
+    {
+      "id": "79d05973eba8b70bed83f704bb9f85c5",
       "title": "Meta and Yandex are de-anonymizing Android users’ web browsing identifiers - Ars Technica",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2025/06/headline-to-come/",
+      "url": "https://arstechnica.com/security/2025/06/meta-and-yandex-are-de-anonymizing-android-users-web-browsing-identifiers/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/android-tracking-binoculars-1152x648.jpg",
       "summary": "Meta and Yandex are de-anonymizing Android users’ web browsing identifiers Abuse allows Meta and Yandex to attach persistent identifiers to detailed browsing histories. Credit: Aurich Lawson | Getty Images Tracking code that Meta and Russia-based Yandex embed into millions of websites is de-anonymizing visitors by abusing legitimate Internet protocols, causing Chrome and other browsers to surreptitiously send unique identifiers to...",
       "published": "Tue, 03 Jun 2025 12:00:48 GMT"
     },
     {
-      "id": "4a0d53447d9142f5e52c0d4d679ed0d9",
-      "title": "Counterpoint Research finally gives Apple some good news from Europe - 9to5Mac",
+      "id": "748a36a9933f5e4a993d01fa00edf0a3",
+      "title": "Samsung is struggling to sell the Galaxy S25 Edge - SamMobile",
+      "source": "SamMobile",
+      "url": "https://www.sammobile.com/news/samsung-is-struggling-to-sell-the-galaxy-s25-edge/",
+      "image_url": "https://www.sammobile.com/wp-content/uploads/2025/05/Galaxy-S25-Edge-design-5-1-1200x675.jpg",
+      "summary": "New deals, Galaxy S25 edge, S25 Ultra, Watch Ultra, and Bespoke AI Jet Ultra! SamMobile has affiliate and sponsored partnerships, we may earn a commission. Samsung is struggling to sell the Galaxy S25 Edge Could the Galaxy S25 Edge become the perfect phone for crazy discounts? Samsung hoped for the Galaxy S25 Edge to revitalize the mobile market and open...",
+      "published": "Tue, 03 Jun 2025 04:20:12 GMT"
+    },
+    {
+      "id": "da2595a6e1bb346ce08935bf02e6a5f7",
+      "title": "Adobe Photoshop just made its Android debut months after hitting iOS - Android Central",
+      "source": "Android Central",
+      "url": "https://www.androidcentral.com/apps-software/adobe-photoshop-finally-launches-on-android",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vmLx7KMLkuwncaCGwaNM9C.jpg",
+      "summary": "Adobe Photoshop finally launches on Android By Jay Bonggolto published 6 hours ago It’s free, packed with powerful Photoshop tools, and ready to edit on the go. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. (Image credit: Jay Bonggolto / Android Central) Adobe just rolled out Photoshop on Android, bringing...",
+      "published": "Tue, 03 Jun 2025 13:00:00 GMT"
+    },
+    {
+      "id": "d12f52caa4535503d5018263addb8d30",
+      "title": "Sony announces new State of Play showcase for June 4 - Polygon",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/news/603104/sony-playstation-state-of-play-june-2025-start-time",
+      "image_url": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/02/stateofplay-logo.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "summary": "Sony announces new State of Play showcase for June 4 It’s starting to feel like E3 again Michael McWhertor is a journalist with more than 17 years of experience covering video games, technology, movies, TV, and entertainment. Sony is joining the Summer Game Fest fray with a new State of Play showcase coming on Wednesday, June 4. Sony Interactive Entertainment...",
+      "published": "Tue, 03 Jun 2025 13:17:47 GMT"
+    },
+    {
+      "id": "1f7a97338a11528d0fa4631407ccd799",
+      "title": "iPhone 17 Air may get 120Hz display, but lack ProMotion features - 9to5Mac",
       "source": "9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fdkd0YzRDTEdLdmVZQm5NNXNnbUNQUU1hS2xLZHZOa2NpalhzYTFZZGhpMGZib0loWXJ1UUpnN0hIR28wRjZNVHh5SDdTblMzeVVMcURhRjFtZ1ZLXzVTNTlTSmF1dWFHVUFIYV9faHI0Z01GVDBrbQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 23:56:00 GMT"
+      "url": "https://9to5mac.com/2025/06/03/iphone-17-air-may-get-120hz-display-but-lack-promotion-features/",
+      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/iphone-17-air-desert-titanium.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "iPhone 17 Air may get 120Hz display, but lack ProMotion features The base model iPhone 17 and the iPhone 17 Air are currently expected to get ProMotion displays, but a leaker suggests these reports are only half-right. They suggest that the non-Pro models will get the higher refresh-rate 120Hz displays, but that these will be lacking two key ProMotion features...",
+      "published": "Tue, 03 Jun 2025 11:00:00 GMT"
     },
     {
-      "id": "aa4120f6889a37d797740af4e57a9d04",
-      "title": "Court documents reveal OpenAI is coming for your iPhone - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UeU1RU0h6dUY3bWwxYVVaLVpsNDFvc2RRempTS0ZKbVg4OUFzUy0wZVJVc2VCbEFWQjdYdE5oX3BjUzRrX21uNkhhVVozNXBfbUdpZ19SYTZGRWoxSlZMNHk5YTQ2cXp0dU5MV24wSDdudw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 23:35:00 GMT"
+      "id": "b37adda19c7ed75adb4044d99eee3f17",
+      "title": "Google Pixel 9a discounted for the first time! - Android Authority",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-pixel-9a-deal-2-3563389/",
+      "image_url": "https://www.androidauthority.com/wp-content/uploads/2025/04/google-pixel-9a-back-peony-pink-4.jpg",
+      "summary": "Affiliate links on Android Authority may earn us a commission. Learn more. Google Pixel 9a discounted for the first time! Save $50 on a phone that is already amazingly priced! Rita El Khoury / Android Authority We’ve seen deals on the Google Pixel 9a already, but they weren’t actual discounts. Instead, customers were getting a free gift card. But that...",
+      "published": "Mon, 02 Jun 2025 20:26:30 GMT"
     },
     {
-      "id": "5f975246c9b77e668417378ce3725aad",
-      "title": "Fresh iPhone 17 leak gives first close-up look at next-gen Apple smartphones - Mashable",
-      "source": "Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qREZDN3BybzJSanlTV3JiZDM2Z1dxb3lPVWJtQVdraEdpS3d1NGtNTlVIbnljc2E1Ty1EdXAwYUI0WndwUTZZTEpldF81YnF6SXpETlJ3T3pEUzdHbUE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 14:20:33 GMT"
+      "id": "4d2adcb78d2a4e253a6041d8d9400737",
+      "title": "Samsung could drop Google Gemini in favor of Perplexity for Galaxy S26 - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2025/06/samsung-could-drop-google-gemini-in-favor-of-perplexity-for-galaxy-s26/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/galaxy_ai-1152x648.jpg",
+      "summary": "Samsung could drop Google Gemini in favor of Perplexity for Galaxy S26 This move would reduce Samsung's reliance on Google. Samsung already includes a plethora of AI features on Galaxy phones. Credit: Samsung Every smartphone maker is racing to find a way to put AI in your pocket, but no one has cracked the code yet. Samsung was an early...",
+      "published": "Mon, 02 Jun 2025 18:52:05 GMT"
     },
     {
-      "id": "dceb7a5e19b88fa9233fa72878f4ba07",
-      "title": "Three new features to look for in the Apple Watch Ultra 3 - Neowin",
-      "source": "Neowin",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMVU4M2tlRWVhOWtLOHRWbW9nWGdLa19GR0c2azZJb0tUZkVhWTVMOWFjSzQ3SUlKLVkyZXBZMU5fb0NzQmh6MzMwZldnODlCazNCenEzVnhfTWstWFhtcXlHRTZaZExpQ2tVUHlGNDhrRlBydkhkeDJFNHd5Sk5iZFpoS1BLSWFwUl9uQTVxMNIBjgFBVV95cUxPdGRHRXM1OHIwR1NTSml4Vjk0SFRkTzJvMzMxX0xHdV94Mno1ejA2X2E3M3dWX0RRaU0yeDV3bkIwZnYtWHBJclpZTERtYkRzejZYNE0wek01MTNVMlZ0ek9oSjBpUmtBV2FJcFBMemNVb29iMmgzZnBkbEZXa2pONzBPdG1jU3BJQzVLQjNn?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 08:48:00 GMT"
-    },
-    {
-      "id": "1b344023a1be1ef3f701b28e452802ff",
-      "title": "Why You Should Stop Texting On Your iPhone Or Android Phone - Forbes",
-      "source": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1JzMUhhd3RNUTNnMWFQeHN0UmZ4bGFnLXRtZWV3bjZqQmRJdTdXTm82bFhUalZOVzFzeEpoUzBIUVp2T005TXg1ajNOVjhoNFIyRkkwRjhqRjhfanpfSWh1LWhJcC1NR2ZqUldmdWtRNk9hS3NkYjQ4OWk5cDZHaUtrTFpPY0pYdTdtWjNOWG01UVZuVWxHbGMwdHRBRTQ2RWFuc2hZRE0xQUpuNm9aOA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 03 Jun 2025 08:10:00 GMT"
-    },
-    {
-      "id": "affbee89fb981f58fad6ef4b33e41412",
-      "title": "Best Buy's TV sale includes up to $900 off Roku Pro Series sets - Engadget",
-      "source": "Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMGNQN0xMYUlpTHlkUXNIT1F3bGprR2VkTENoM1pObmt1ZzdNTG5yaWt1SkdiNjRNZFZqUXNLNGc3anpqNGpoZTJyVHFTdzRLRkZjRFg0NGtSMUJJQjM4Qmd4UHdQaXEzQk5xYUFJbnlVTm5pN2pob2JfQkRya1ZPSkdMU0RiSzRWd1VZcm1qSEc1cHhyTzZ6a3lOREVwRTQ1cWd1UG8xcE16Y3M?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 18:54:55 GMT"
-    },
-    {
-      "id": "628c09b8be8c0f0a41565b072baaaf15",
-      "title": "Shortcuts App to Get Revamp With Apple Intelligence Integration - MacRumors",
-      "source": "MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUkt0ZGhzWlBWM2F4dzYwYnlIVDl2aHliZExtQTJuLTc0LTBlWS1QLUE2V0c3djBCckV0T1BZMllzb1ZhZk9kb25sUmNPbzk4YVNYMzhjTGNxZHRKUl9hdXRhTmhZUm9PVkVySWwtRTllRXlYM29oc2JNMVIxMS1pQm5Zck9IZ0RDRWc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 10:25:17 GMT"
-    },
-    {
-      "id": "86bc63b3cf09daf534b4c6af88e23905",
-      "title": "How AI chatbots keep you chatting - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uQjBiZlNRSzFGeVh4ZURacmQ4UExUdjBrQ0F4ODl6Zlh1OGNXSy0tRWVZMXgzUHJyQk5seURwekRkRlV0TGhWTU9zVXBfaHlTSWcyOENrOFpjdS1tclpScVVpN21saEZvQk5hVW15a3dXMldCek1Z?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 17:08:12 GMT"
-    },
-    {
-      "id": "f05df10c8902cbd08e69afcac5ad4f7d",
-      "title": "Elden Ring Nightreign two-player mode confirmed, as FromSoftware celebrates 3.5m players - Eurogamer",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/elden-ring-nightreign-two-player-mode-confirmed-as-fromsoftware-celebrates-35m-players",
-      "image_url": "https://assetsio.gnwcdn.com/ELDEN-RING-NIGHTREIGN-_-Official-Launch-Trailer-1-27-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "summary": "Summer Games Fest & IGN Live Schedule If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News Elden Ring: Nightreign Elden Ring Nightreign two-player mode confirmed, as FromSoftware celebrates 3. 5m players News by Ed Nightingale Deputy News Editor Elden Ring Nightreign has now had 3. 5 million...",
-      "published": "Tue, 03 Jun 2025 08:32:53 GMT"
-    },
-    {
-      "id": "61e5435990caea754d001f3d3643002f",
-      "title": "Private Japanese spacecraft aims to land in the moon's 'Sea of Cold' this week - Space",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEpCUFFYb3RBaENFQ2VRTDltM1FONm00Ykp4UHhKYWphQ0RFcjdLenFvdUw4YkxBOU5jbEI0NnNwc2FtWVJJczlHako4dUhNUGRhUkF1YTRtTWpjWHJVSllZOWhwMWNwRU9IVmZtalBicUJUTHk4eVFCVWNFenVNT2w0WUFiUXBYYWRXbkR1YjhCM2lDZC14SS1FVlBjMEoyQ3laRVRDNUpOMTJHS0s4ZlZUNzE2WFZWeDBPYw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 16:00:00 GMT"
-    },
-    {
-      "id": "e71de6b75ea6d2a519e3bb5fc0226e77",
-      "title": "Apple’s 16GB 15-inch M4 MacBook Air now starting from new all-time low at $188 off, more from $837 - 9to5Toys",
-      "source": "9to5Toys",
-      "url": "https://9to5toys.com/2025/06/02/apple-16gb-15-inch-m4-macbook-air-sale/",
-      "image_url": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/03/M4-MacBook-Air-pre-order-deals-03.jpg?resize=1200%2C628&ssl=1",
-      "summary": "Apple’s 16GB 15-inch M4 MacBook Air now starting from new all-time low at $188 off, more from $837 Justin Kahn - Jun. 2nd 2025 7:41 am PT Twitter icon @justinkahnmusic Update: Alongside the particularly notable deals on the 15-inch model below, Amazon has now dropped the most affordable Sky Blue 13-inch M4 MacBook Air down to a new all-time low...",
-      "published": "Mon, 02 Jun 2025 11:57:38 GMT"
-    },
-    {
-      "id": "52feb7714b5bdc6e3333a57e877b1eb8",
-      "title": "Activision Insists Heavily Criticized Call of Duty Black Ops 6 and Warzone Ads in Loadout Menus Were a 'Test' Published 'In Error,' Strips Them Out Following Backlash - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/activision-insists-heavily-criticized-call-of-duty-black-ops-6-and-warzone-ads-in-loadout-menus-were-a-test-published-in-error-strips-them-out-following-backlash",
-      "image_url": "https://assets-prd.ignimgs.com/2025/03/26/unforgettable-verdansk-teaser-call-of-duty-warzone-1743003581825.jpeg?width=1280",
-      "summary": "Activision Insists Heavily Criticized Call of Duty Black Ops 6 and Warzone Ads in Loadout Menus Were a 'Test' Published 'In Error,' Strips Them Out Following Backlash Activision has pulled controversial Call of Duty adverts placed inside Black Ops 6 and Warzone loadouts, insisting they were a “feature test” published “in error. ” Following last week’s launch of Season 4,...",
-      "published": "Tue, 03 Jun 2025 07:28:36 GMT"
+      "id": "21275280841347a34b143245fada2ec4",
+      "title": "Pixel 10 will still use an Exynos modem rather than MediaTek in Tensor G5, leak shows - 9to5Google",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2025/06/03/google-pixel-10-tensor-g5-exynos-modem-leak/",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/Pixel-9-Pro-Graffiti-Background-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Pixel 10 will still use an Exynos modem rather than MediaTek in Tensor G5, leak shows A hands-on leak of a Pixel 10 Pro this week revealed a few key details about the device, including that its Tensor G5 chipset won’t be using the MediaTek modem that it was originally expected to switch to. The hardware on Pixel 10 series...",
+      "published": "Tue, 03 Jun 2025 12:15:00 GMT"
     },
     {
       "id": "f7c25efdaa7108a70be58ac21ea06cd4",
@@ -132,58 +150,40 @@
       "published": "Mon, 02 Jun 2025 22:40:34 GMT"
     },
     {
-      "id": "a5133bd733c1096eb6b13667b6f0130c",
-      "title": "Heroes of the Storm Live Patch Notes - June 2, 2025 - Blizzard News",
-      "source": "Blizzard News",
-      "url": "https://news.blizzard.com/en-us/article/24206703/heroes-of-the-storm-live-patch-notes-june-2-2025",
-      "image_url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/jy/JYHX2TFBDGOL1748881108012.png",
-      "summary": "Heroes of the Storm Live Patch Notes - June 2, 2025 New patch arrived to celebrate 10 Year Anniversary of Heroes of the Storm! Read on for more information. All Heroes will be free starting from now until June 15th. NEW: All players will receive two new portraits to celebrate the 10 year anniversary of Heroes. Players who are unable...",
-      "published": "Mon, 02 Jun 2025 17:25:00 GMT"
+      "id": "d3c214fcfe38e97887b8071b97af2c90",
+      "title": "One UI 7 rollout likely for these Samsung Galaxy devices in June 2025 - Sammy Fans",
+      "source": "Sammy Fans",
+      "url": "https://www.sammyfans.com/2025/06/02/one-ui-7-rollout-likely-for-these-samsung-galaxy-devices-in-june-2025/",
+      "image_url": "https://www.sammyfans.com/wp-content/uploads/2025/05/one-ui-7-key-features-img-1000x576.jpg",
+      "summary": "One UI 7 rollout likely for these Samsung Galaxy devices in June 2025 Published 1 day ago on June 2, 2025 One UI 7, built on Android 15, is making its way to more Galaxy devices, and it’s packed with cool upgrades. As June 2025 began, we’ve compiled a list of Samsung devices that should get the One UI 7...",
+      "published": "Mon, 02 Jun 2025 17:03:45 GMT"
     },
     {
-      "id": "56a36374b0c747b7ee2605c4c9fc0486",
-      "title": "Debunking 5 myths about when your devices get wet - The Conversation",
-      "source": "The Conversation",
-      "url": "https://theconversation.com/debunking-5-myths-about-when-your-devices-get-wet-257205",
-      "image_url": "https://images.theconversation.com/files/671182/original/file-20250529-56-25jqzx.jpg?ixlib=rb-4.1.0&rect=0%2C284%2C2400%2C1200&q=45&auto=format&w=1356&h=668&fit=crop",
-      "summary": "Consumer technologies get wet as a regular part of everyday life. Shuvro Mojumder/Unsplash , CC BY-SA Debunking 5 myths about when your devices get wet Published: June 2, 2025 8:45am EDT Associate Professor of Cinema and Media Studies, Indiana University Rachel Plotnick does not work for, consult, own shares in or receive funding from any company or organization that would...",
-      "published": "Mon, 02 Jun 2025 12:45:32 GMT"
+      "id": "13d4192f4d25630f645c1e2b1aa97db1",
+      "title": "Snapdragon X2 Elite With A Whopping 18-Core CPU Said To Be Tested With 64GB RAM For The Top-End Configuration, But There Is No Word On The Official Launch - Wccftech",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/snapdragon-x2-elite-tested-with-64gb-ram/",
+      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2025/06/Snapdragon-X-1-scaled.jpg",
+      "summary": "We use technology such as cookies on our site to collect and use personal data to personalize content and ads, to provide social media features and to analyse our traffic. We may share your cookies with third party vendors and service providers. Snapdragon X2 Elite With A Whopping 18-Core CPU Said To Be Tested With 64GB RAM For The Top-End...",
+      "published": "Mon, 02 Jun 2025 05:41:00 GMT"
     },
     {
-      "id": "92e7ecbec8334181526b31ff4ee3f634",
-      "title": "How to watch Apple’s WWDC keynote with iOS 26 and more - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOTRpQnJmMndLb1N2MFhGZDRySlFYQmhmbWRGNHZJb2RYRHpPMUJ2MVB3djBMMVpqTkZwVmtTRVpmR1V3STNMMkNHRy0wNzFYV2xEd0NzM0ZKOXBJakpZb1pGdWJKZi1aaE1VS0hhNHZCVjh1ckttV05pWTdWelp1TW40aEF3ajJGWk5R?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 19:26:00 GMT"
+      "id": "dceb7a5e19b88fa9233fa72878f4ba07",
+      "title": "Three new features to look for in the Apple Watch Ultra 3 - Neowin",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/three-new-features-to-look-for-in-the-apple-watch-ultra-3/",
+      "image_url": "https://cdn.neowin.com/news/images/uploaded/2024/09/1725863222_apple-watch-ultra_story.jpg",
+      "summary": "When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Three new features to look for in the Apple Watch Ultra 3 Hamid Ganji @HamidGanji_ · Jun 2, 2025 04:48 EDT · HOT! The latest generation of Apple Watch Ultra was revealed in 2023, and after a one-year gap, Apple is believed...",
+      "published": "Mon, 02 Jun 2025 08:48:00 GMT"
     },
     {
-      "id": "e0e702213f37f1f9ef6bfd9cabbd3332",
-      "title": "Epic Games to include open-source Arm Accuracy Super Resolution (ASR) into Fornite - VideoCardz.com",
-      "source": "VideoCardz.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnBnbTI4ai1oZDZEWnNYSzRyenVKTXBFbXRqb0JQLWtTMlRkbGt4Y1UxQmFsZEQzYkpJeFdIcXJMZFFNQWpzNVFaRHp6MlVYTGUtQnJkOHF1NVFpczhUMjNIX2VtbnZuV21JcTBtWmZJWnFBMVpheHFqVlNNU21XRHJySVhCS3N2TTlJbFl1R0N4RlhBLW9PTUJXVnJOS09HampHZjlxanhwOUFQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 03 Jun 2025 10:44:00 GMT"
-    },
-    {
-      "id": "57cbd2fbb9bb4a8464bba81ff701a57b",
-      "title": "By Adding This Free Carry Bag to Your Cart, The Anker Solix Power Station Drops 50% in Price on Amazon - Gizmodo",
-      "source": "Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQi1jVmItXzhkNlBKOXQtSmljcVRvdVZuUXoybndyQmY3Q3BoTlhtRFg4ZjJRQXd0eFBzRHdlNDM1UGlabEkxSVhWTlFxbkFQcUZsb1hvSDhTamhQRF9QU0F1RlNvMGtHblBBUGRXLTVSQzExWUFsS0l0MlhTdFJyYTRWbVdvR2lSZ0pJSEtFajFjSE1kN2NpS2ZfUmJQa212YkVTUmRMUXNvbHdhTmJZa09qeVZmUDYwdFdlOXNDSzUxeUFFd2tPNFE3Yw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 21:18:48 GMT"
-    },
-    {
-      "id": "7eda14b8c2a9c1b9472dc4bce21ad5cd",
-      "title": "Samsung sends out public safety alert urging Galaxy users to enable new security features - Android Police",
-      "source": "Android Police",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wNWxTdXMtVDlLSFM4d2FaYmJrYWphTWpyODU0aVVIMFNmUFlyamRiWjdabFg1SWNZY2E2T0I1c3BaSmJLWDZ3eEZ0aU5RVzFqREwwVXh4M3oxX0FLdHNMMHhQNEJtU3lURFlKNmRWT3JSUQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 02 Jun 2025 19:35:00 GMT"
+      "id": "465444406dfc89a53376dc253429d11b",
+      "title": "Galaxy Z Fold 7 appears to have Qi2 Ready wireless charging - SamMobile",
+      "source": "SamMobile",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-7-qi2-ready-wireless-charging-certification/",
+      "image_url": "https://www.sammobile.com/wp-content/uploads/2024/07/Galaxy-Z-Fold-6.jpg",
+      "summary": "New deals, Galaxy S25 edge, S25 Ultra, Watch Ultra, and Bespoke AI Jet Ultra! SamMobile has affiliate and sponsored partnerships, we may earn a commission. Galaxy Z Fold 7 appears to have Qi2 Ready wireless charging Similar to the Galaxy S25 series, the Galaxy Z Fold 7 could have Qi2 Ready certification for wireless charging. Samsung is expected to launch...",
+      "published": "Tue, 03 Jun 2025 05:06:53 GMT"
     }
   ]
 }
