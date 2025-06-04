@@ -1,10 +1,19 @@
 {
   "metadata": {
     "source_file": "data/news_business.json",
-    "generation_time": "2025-06-04 06:52:44",
+    "generation_time": "2025-06-04 13:44:06",
     "total_articles": 20
   },
   "articles": [
+    {
+      "id": "4d5a3e5cb34bcd2234f0fa8d98f7e15f",
+      "title": "CNBC Daily Open: With tariffs and weak sentiment, recent market gains could be shaky - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/04/cnbc-daily-open-tariffs-weak-sentiment-mean-market-gains-could-be-shaky.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108153917-1748964652364-NYSE_Trading-OB-20250603-CC-PRESS-13.jpg?v=1748964814&w=1920&h=1080",
+      "summary": "Stocks rise, but gains capped thanks to weak jobs data CNBC Daily Open: With tariffs and weak sentiment, recent market gains could be shaky U. S. stocks climbed Tuesday, boosted by rises in chip stocks and more-than-expected job openings in April. Nvidia’s 2. 8% rise on Tuesday makes it the most valuable publicly traded company in the world again. Shares...",
+      "published": "Wed, 04 Jun 2025 06:30:01 GMT"
+    },
     {
       "id": "b65997d1af6abb587a3fd321a8ccfd2f",
       "title": "Wells Fargo escapes Fed's asset cap after seven years, able to pursue growth - Reuters",
@@ -12,7 +21,16 @@
       "url": "https://www.reuters.com/sustainability/boards-policy-regulation/fed-lifts-wells-fargos-asset-cap-citing-progress-sales-scandal-2025-06-03/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Tue, 03 Jun 2025 23:24:48 GMT"
+      "published": "Wed, 04 Jun 2025 10:34:01 GMT"
+    },
+    {
+      "id": "87f7f86131c7b575d6aa42b9c1024053",
+      "title": "Asian stocks rise, dollar wobbles as trade uncertainty persists - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2025-06-04/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 04 Jun 2025 05:39:00 GMT"
     },
     {
       "id": "f35fadbc576e5bb3d94535bace60d6a6",
@@ -24,103 +42,121 @@
       "published": "Wed, 04 Jun 2025 03:00:12 GMT"
     },
     {
-      "id": "10e2f88835b08672269abbffaef2eccf",
-      "title": "South Korean stocks rise 2% to lead gains in Asia after opposition leader wins presidential election - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/06/04/asia-markets-today-june-4-2025.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108154212-1748992037403-gettyimages-1179682409-dsc00896.jpeg?v=1748992068&w=1920&h=1080",
-      "summary": "Trump says ‘extremely hard’ to make a deal with China’s President Xi Jinping as trade talks stall South Korean stocks rise 2% to lead gains in Asia after opposition leader wins presidential election This is CNBC’s live blog covering Asia-Pacific markets. Landscape of Songdo International City. Incheon, South Korea. Photograph By Kangheewan. | Moment | Getty Images Asia-Pacific markets advanced...",
-      "published": "Wed, 04 Jun 2025 04:59:00 GMT"
+      "id": "39e11d3effe735bd3dbe219274ee5b1a",
+      "title": "Dollar General Sees Greater-Than-Expected Growth as Higher-Income Consumers Seek Value - PYMNTS.com",
+      "source": "PYMNTS.com",
+      "url": "https://www.pymnts.com/news/retail/2025/dollar-general-sees-greater-than-expected-growth-as-higher-income-consumers-seek-value/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2025/06/Dollar-General-2.jpg",
+      "summary": "Your browser does not support the video tag. Dollar General Sees Greater-Than-Expected Growth as Higher-Income Consumers Seek Value Dollar General’s same-store sales increased 2. 4% and its financial results exceeded internal expectations in the quarter ended May 2, as higher-income consumers came to its stores in search of value. Same-store sales grew in each of the retailer’s product categories, including...",
+      "published": "Wed, 04 Jun 2025 01:34:48 GMT"
     },
     {
-      "id": "f222e1bc16e43ca460e9a9efe26d4b64",
-      "title": "Stock Market Extends Gains As S&P 500 Scores A Breakout And Nasdaq Eyes 20,000; CoreWeave Jumps - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/the-big-picture/stock-market-sp-500-breakout-nasdaq-20000-dow-jones-coreweave/",
-      "image_url": "https://www.investors.com/wp-content/uploads/2019/03/IBD-logo-216x36.png",
-      "summary": "Access to this page has been denied because we believe you are using automation tools to browse the website. This may happen as a result of the following: Javascript is disabled or blocked by an extension (ad blockers for example) Your browser does not support cookies Please make sure that Javascript and cookies are enabled on your browser and that...",
-      "published": "Tue, 03 Jun 2025 22:00:00 GMT"
-    },
-    {
-      "id": "d3198cb503c9380910c72b553d9cfbec",
-      "title": "Citigroup lifts banking curbs on gun makers and sellers - NBC News",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/business-news/citigroup-lifts-banking-curbs-gun-makers-sellers-rcna210683",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250603-citibank-ew-203p-96b03a.jpg",
-      "summary": "Citigroup lifts banking curbs on gun makers and sellers The bank is rolling back a policy it launched after the 2018 Parkland mass shooting, saying many retailers are following the practices it sought to promote. Citigroup said it hopes lawmakers continue to find ways to prevent gun violence despite its policy rollback. Spencer Platt / Getty Images file Create your...",
-      "published": "Tue, 03 Jun 2025 22:55:11 GMT"
-    },
-    {
-      "id": "6f1dce71a9cadee4a910d3de02c39b20",
-      "title": "Trump's sons distance themselves from new Trump-branded crypto venture - ABC News",
-      "source": "ABC News",
-      "url": "https://abcnews.go.com/US/trumps-sons-distance-new-trump-branded-crypto-venture/story?id=122470346",
-      "image_url": "https://i.abcnewsfe.com/a/9827ece0-0b71-4c03-bf7f-d288cfd6c44c/donald-trump-5-rt-gmh-250603_1748970127104_hpMain_16x9.jpg?w=1600",
-      "summary": "Trump's sons distance themselves from new Trump-branded crypto venture Don Jr. and Eric Trump say they aren't involved in the \"Official $TRUMP Wallet. \" Protesters decry 'crypto corruption' as Trump hosts top investorsTrump hosted the black-tie event in a personal capacity, the White House said. A digital asset company has collaborated with the firm behind President Donald Trump's $TRUMP meme...",
-      "published": "Wed, 04 Jun 2025 00:00:00 GMT"
-    },
-    {
-      "id": "180760bf3d13c50fb3db3850dd2f32dc",
-      "title": "What the ‘Revenge Tax’ Is in the Tax Bill—and How It Could Pummel the Dollar - Barron's",
-      "source": "Barron's",
-      "url": "https://www.barrons.com/articles/us-dollar-tariff-trump-revenge-tax-bill-ef17fbef",
+      "id": "cefba24508419703060e6fce7a7ac9e3",
+      "title": "He spotted weight-loss drugs and AI before they became hot. Here’s this investor’s next big idea. - MarketWatch",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/he-spotted-weight-loss-drugs-and-ai-before-they-became-hot-heres-this-investors-next-big-idea-dfb6936e",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Tue, 03 Jun 2025 12:48:00 GMT"
+      "published": "Wed, 04 Jun 2025 10:48:00 GMT"
     },
     {
-      "id": "f59c76a3dfad36b4522d441f2906ec80",
-      "title": "Dollar General CEO turns heads with earnings-call comments - TheStreet",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/dollar-general-ceo-turns-heads-with-earnings-call-comments",
+      "id": "839d53a1a690f129dea39536b151b343",
+      "title": "401(k) millionaires fell in the first quarter — but it’s not all bad news - MarketWatch",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/401-k-millionaires-fell-in-the-first-quarter-but-its-not-all-bad-news-1afed4a6",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Wed, 04 Jun 2025 00:50:42 GMT"
+      "published": "Wed, 04 Jun 2025 04:01:00 GMT"
     },
     {
-      "id": "3de15db027ca9152ef14573825c78f39",
-      "title": "Elon Musk Left the White House, but Tesla’s Protesters Aren’t Finished - The New York Times",
+      "id": "78ffd7de1738cdbf608d49b78cba840f",
+      "title": "Trump Wants America to Make Things Again. Does It Have What It Takes? - The New York Times",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/03/business/elon-musk-trump-tesla-protests.html",
+      "url": "https://www.nytimes.com/2025/06/04/business/trump-us-manufacturing.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Tue, 03 Jun 2025 14:51:16 GMT"
+      "published": "Wed, 04 Jun 2025 04:00:19 GMT"
     },
     {
-      "id": "5a390cd206e92edc388d0e6303f22b8a",
-      "title": "AMC Theaters to Run Even More Commercials Before Movies Play - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-03/amc-theaters-to-run-even-more-commercials-before-movies-play",
+      "id": "27e608ada90fc4b445e2dc6680e6c00c",
+      "title": "Barclays raises 2025 S&P 500 target amid wave of Wall Street upgrades - Investing.com",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/barclays-raises-2025-sp-500-target-amid-wave-of-wall-street-upgrades-4079655",
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEC0U0JF_L.jpg",
+      "summary": "🧠 Smart money is quietly buying these undervalued gems Barclays raises 2025 S&P 500 target amid wave of Wall Street upgrades Investing. com - Peak uncertainty around U. S. President Donald Trump’s tariff agenda has likely passed, Barclays has argued, as the bank became the latest on Wall Street to raise its year-end target for the benchmark S&P 500 index.",
+      "published": "Wed, 04 Jun 2025 08:25:21 GMT"
+    },
+    {
+      "id": "f34d76ab70b96c94838c427b9c7b4991",
+      "title": "How Donald Trump killed pride month - The Telegraph",
+      "source": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/us/news/2025/06/04/how-trump-killed-pride-month/",
+      "image_url": "https://www.telegraph.co.uk/content/dam/news/2025/06/03/TELEMMGLPICT000427259668_17489850906290_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
+      "summary": "LGBTQ events across America face budget shortfalls as corporate sponsors duck out in fear of provoking administration Corporate America has fallen out of love with Pride month – and it’s because of Donald Trump. .. To read this article free, enter your email address for 7 days’ website access You’ll receive regular news updates By creating an account you’ll agree...",
+      "published": "Wed, 04 Jun 2025 09:30:00 GMT"
+    },
+    {
+      "id": "28493ff9a69f2c12cf3851a980eb1c01",
+      "title": "What you need to know about Moderna’s new COVID vaccine, just approved by the FDA - Fortune",
+      "source": "Fortune",
+      "url": "https://fortune.com/well/2025/06/02/moderna-new-covid-vaccine-approved-by-fda-what-to-know/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-1374887253-e1748883201933.jpg?resize=1200,600",
+      "summary": "What you need to know about Moderna’s new COVID vaccine, just approved by the FDA Not all children are eligible for the new Moderna COVID shots. Moderna, over the weekend, announced that the U. S. Food and Drug Administration had approved its second-generation COVID vaccine, but only for specific populations: all adults 65 and over and those between 12 and...",
+      "published": "Mon, 02 Jun 2025 18:37:52 GMT"
+    },
+    {
+      "id": "34c4df8f35562347dfb370e741a133bc",
+      "title": "Private sector hiring rose by just 37,000 in May, the lowest in more than two years, ADP says - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/04/adp-jobs-report-may-2025-.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108149298-1747916712657-gettyimages-2212776091-jr_18367_zxhg6xnz.jpeg?v=1747916754&w=1920&h=1080",
+      "summary": "Stocks rise, but gains capped thanks to weak jobs data Private sector hiring rose by just 37,000 in May, the lowest in more than two years, ADP says Private payrolls increased just 37,000 In May, below the 60,000 in April and the Dow Jones forecast for 110,000. It was the lowest monthly job total from the ADP count since March...",
+      "published": "Wed, 04 Jun 2025 12:15:01 GMT"
+    },
+    {
+      "id": "b6e81cbc8718939f594d5255216e0597",
+      "title": "Hiring in the Private Sector Surges, Despite All Moaning & Groaning about the Economy or Whatever - Wolf Street",
+      "source": "Wolf Street",
+      "url": "https://wolfstreet.com/2025/06/03/hiring-in-the-private-sector-surges-despite-all-moaning-groaning-about-the-economy-or-whatever/",
+      "image_url": "https://wolfstreet.com/wp-content/uploads/2025/06/US-jolts-2025-06-03-layoffs-discharges.png",
+      "summary": "Home Wolf Richter Federal Reserve Housing Bubble 2 Donate? Commenting Contact Hiring in the Private Sector Surges, Despite All Moaning & Groaning about the Economy or Whatever by Wolf Richter • Jun 3, 2025 • 23 Comments Layoffs & discharges as share of payrolls remain historically low: But the immense pandemic-era churn in the labor market has slowed. By Wolf...",
+      "published": "Wed, 04 Jun 2025 03:05:16 GMT"
+    },
+    {
+      "id": "61ed31f8a182e0cb38ddc7ca79b74552",
+      "title": "Heavily shorted AI stock is rapidly climbing the Fortune 500 - TheStreet",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/technology/heavily-shorted-ai-stock-is-rapidly-climbing-the-fortune-500",
       "image_url": null,
-      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
-      "published": "Tue, 03 Jun 2025 21:14:38 GMT"
+      "summary": "No content available for summarization.",
+      "published": "Tue, 03 Jun 2025 19:07:00 GMT"
     },
     {
-      "id": "6195292a0dcb7e0e642f12e116b0859c",
-      "title": "Target says Philly Pride 365 rejected its sponsorship - Axios",
+      "id": "be9101cf4d616a97cc9e7cbd68511c38",
+      "title": "McDonald's confirms when a beloved menu item is returning after 9 years - WFAA",
+      "source": "WFAA",
+      "url": "https://www.wfaa.com/article/news/nation-world/mcdonalds-snack-wrap-return-date/507-fef31461-af44-426e-9726-44b103b82dca",
+      "image_url": "https://media.wfaa.com/assets/CCT/images/e40a0f48-f330-474c-ac18-5b6a5f80e527/e40a0f48-f330-474c-ac18-5b6a5f80e527_1140x641.jpg",
+      "summary": "7 a.m. Daybreak | June 4, 2025: Tracking the latest North Texas weather and headlines After 9 years, McDonald's confirms return date of beloved menu item Fans have rallied for its return for years, and soon, this McDonald's menu item will be available nationwide again. FILE - The sign outside a McDonald's restaurant is shown in Pittsburgh, June 25, 2019.",
+      "published": "Tue, 03 Jun 2025 14:43:00 GMT"
+    },
+    {
+      "id": "ab16ef7597ba0ef72c6d6cc0d505ce2b",
+      "title": "Meta's AI-Related Energy Deal a Boon for Bitcoin Miners - CoinDesk",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2025/06/03/bitcoin-miners-notch-gains-as-meta-signs-20-year-ai-deal-with-nuclear-plant",
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/ea168f873b65465374e3243400fdbd86105d96c5-3901x2195.jpg",
+      "summary": "Bitcoin Miners Notch Gains as Meta Signs 20-Year AI Deal With Nuclear Plant The group may also be benefitting from a modest rise in the price of bitcoin on Tuesday. Updated Jun 3, 2025, 7:25 p. m. Published Jun 3, 2025, 7:23 p. m. Nuclear power plant (Credit: Getty Images/Unsplash) Bitcoin mining stocks experienced gains as macroeconomic data and a...",
+      "published": "Tue, 03 Jun 2025 19:24:43 GMT"
+    },
+    {
+      "id": "cc2acf940c8f763ecff405d9394e22c9",
+      "title": "OECD slashes US, global growth forecasts on tariff impacts - Axios",
       "source": "Axios",
-      "url": "https://www.axios.com/local/philadelphia/2025/06/03/philly-pride-365-rejects-target-sponorship",
-      "image_url": "https://images.axios.com/bjmw5jYsAB5wfy2jH99DwVMYIrU=/0x90:5050x2931/1366x768/2025/06/03/1748968763596.jpg",
-      "summary": "Target says Philly Pride 365 rejected its sponsorship Organizers for Philadelphia's Pride Month kickoff last weekend rejected Target's offer to sponsor the event, a company spokesperson tells Axios. The big picture: Pride organizers across the U. S. are reevaluating sponsorships as corporate America pulls back from supporting LGBTQ+ events. Context: Despite boasting more than three dozen sponsors, big corporate backers...",
-      "published": "Tue, 03 Jun 2025 18:46:38 GMT"
-    },
-    {
-      "id": "729f39e6d0c58c494cdfeff0fda65376",
-      "title": "US growth likely to slow to 1.6% this year, hobbled by Trump's trade wars, OECD says - ABC News",
-      "source": "ABC News",
-      "url": "https://abcnews.go.com/Business/wireStory/us-growth-slow-16-year-hobbled-trumps-trade-122438767",
-      "image_url": "https://i.abcnewsfe.com/a/ba30989d-2692-4717-b25c-962faa8d50cc/wirestory_b0e7a05c80035bc41f600d7710919730_16x9.jpg?w=1600",
-      "summary": "US growth likely to slow to 1. 6% this year, hobbled by Trump's trade wars, OECD says U. S. economic growth will slow to 1. 6% this year from 2. 8% last year as President Donald Trump’s erratic trade wars disrupt global commerce, drive up costs and leave businesses and consumers paralyzed by uncertainty ByPAUL WISEMAN AP economics writer National...",
-      "published": "Tue, 03 Jun 2025 18:36:47 GMT"
-    },
-    {
-      "id": "719467ca691b5b0a0cc8f75c1681db0b",
-      "title": "Meta buys a nuclear power plant (more or less) - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/06/03/meta-buys-a-nuclear-power-plant-more-or-less/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/clinton-clean-energy-center-2.jpeg?resize=1200,639",
-      "summary": "Meta buys a nuclear power plant (more or less) Meta announced Tuesday morning that it was paying billions of dollars to keep an Illinois nuclear power plant running through 2047. The social media company will buy all the “clean energy attributes” of Constellation Energy’s Clinton Clean Energy Center, a 1. 1 gigawatt nuclear power plant in central Illinois, starting in...",
-      "published": "Tue, 03 Jun 2025 16:34:05 GMT"
+      "url": "https://www.axios.com/2025/06/03/trump-tariffs-growth-oecd",
+      "image_url": "https://images.axios.com/-qRybMzo9pnoPIFgqlDqnSuAbec=/0x0:5753x3236/1366x768/2025/06/03/1748945792526.jpg",
+      "summary": "U.S., global growth outlooks slashed on tariff impacts A container ship docked at the Port of Los Angeles in May 2025. Photo: Justin Sullivan/Getty Images The Organisation for Economic Co-operation and Development slashed its U. S. growth forecasts Tuesday and took global expectations down as well, citing the pervasive impacts of tariffs. Why it matters: If the group's last outlook...",
+      "published": "Tue, 03 Jun 2025 21:44:22 GMT"
     },
     {
       "id": "5e9c159250cc986fefc39c310af07ae5",
@@ -128,44 +164,17 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2025/06/04/toyota-industries-shares-nosedive-on-33-billion-buyout-plan.html",
       "image_url": "https://image.cnbcfm.com/api/v1/image/108154248-1749001970324-gettyimages-2215462804-JAPAN_TOYOTA_INDUSTRIES.jpeg?v=1749002265&w=1920&h=1080",
-      "summary": "Trump says ‘extremely hard’ to make a deal with China’s President Xi Jinping as trade talks stall Toyota Industries’ shares nosedive on $33 billion buyout deal — steepest fall in 10 months Toyota Industries slumped as much as 13% Wednesday, after Toyota Group’s reported 4. 7 trillion yen ($33 billion) deal to take the company private. That includes a tender...",
+      "summary": "Stocks rise, but gains capped thanks to weak jobs data Toyota Industries’ shares nosedive on $33 billion buyout deal — steepest fall in 10 months Toyota Industries slumped as much as 13% Wednesday, after Toyota Group’s reported 4. 7 trillion yen ($33 billion) deal to take the company private. That includes a tender offer of $26 billion for shares of...",
       "published": "Wed, 04 Jun 2025 02:45:00 GMT"
     },
     {
-      "id": "c887548b93e446bdda77c8a3ec63c85a",
-      "title": "WBD Shareholders Nix David Zaslav’s 2024 Pay Package In Non-Binding Vote - Deadline",
-      "source": "Deadline",
-      "url": "https://deadline.com/2025/06/warner-bros-discovery-shareholders-nix-ceo-david-zaslav-pay-1236422656/",
-      "image_url": "https://deadline.com/wp-content/uploads/2023/11/David-Zaslav.jpg?w=1024",
-      "summary": "You will be redirected back to your article in 9 seconds",
-      "published": "Wed, 04 Jun 2025 01:17:00 GMT"
-    },
-    {
-      "id": "94eea9999bc9d7a35b8e3197da1c5a13",
-      "title": "Gold Edges Up on Dip-Buying, Persistent Trade War Worries - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-04/gold-xauusd-holds-decline-after-us-jobs-data-deters-demand-for-havens",
-      "image_url": null,
-      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
-      "published": "Wed, 04 Jun 2025 03:23:00 GMT"
-    },
-    {
-      "id": "d3f655fda3282eba435caad2ec92b182",
-      "title": "The Washington Post Plans an Influx of Outside Opinion Writers - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/03/business/media/washington-post-opinion-ripple.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Tue, 03 Jun 2025 21:08:52 GMT"
-    },
-    {
-      "id": "c482e0ae13119d23cb6568030c4121a7",
-      "title": "CrowdStrike Swings to Loss as Expenses From Last Summer’s Outage Persist - WSJ",
-      "source": "WSJ",
-      "url": "https://www.wsj.com/business/earnings/crowdstrike-swings-to-loss-as-outage-expenses-persist-c920eb62",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Tue, 03 Jun 2025 22:13:00 GMT"
+      "id": "e1bf88e365a366880d2ebfa04a1ca658",
+      "title": "Trump memecoin wallet in ‘absolute chaos’ as family org unaware of launch - Cointelegraph",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trump-memecoin-wallet-chaos-family-unaware-of-launch",
+      "image_url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-06/01973812-a2de-76ca-9769-72b06c70bca7",
+      "summary": "Trump memecoin wallet in ‘absolute chaos’ as family org unaware of launch The announcement of a Donald Trump-branded crypto wallet from the team behind his memecoin has been muddled after the president’s sons disavowed it. The announcement of a Trump-branded crypto wallet has been labelled “absolute chaos” as a business linked to the Trumps said it would launch a wallet...",
+      "published": "Wed, 04 Jun 2025 03:28:28 GMT"
     },
     {
       "id": "16be23f29d342f5dc3a442ff8c8b962c",
@@ -173,17 +182,8 @@
       "source": "TODAY.com",
       "url": "https://www.today.com/health/recall/tomato-recall-salmonella-fda-2025-rcna210573",
       "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-05/recalled-tomatoes-mc-250505-a3e97b.jpg",
-      "summary": "Tomato Recall Affecting 3 States Gets Highest Risk Warning From FDA The tomatoes were sold to wholesalers and distributors in the South. Vine-ripe tomatoes recalled due to salmonella riskTODAY Illustration / Getty Images June 3, 2025, 12:56 PM UTC / Updated June 3, 2025, 4:57 PM UTC / Source: TODAY A tomato recall due to risk of salmonella contamination has...",
+      "summary": "Tomato Recall Affecting 3 States Gets Highest Risk Warning From FDA The tomatoes were sold to wholesalers and distributors in the South. June 3, 2025, 12:56 PM UTC / Updated June 4, 2025, 1:39 PM UTC / Source: TODAY A tomato recall due to risk of salmonella contamination has been designated as Class I, the U. S. Food and Drug...",
       "published": "Tue, 03 Jun 2025 16:57:16 GMT"
-    },
-    {
-      "id": "9f00b546006f412f80b79a8013961ea3",
-      "title": "Target and Walmart tariff price hikes leak online from an unlikely source - Mashable",
-      "source": "Mashable",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRm9obnNsQTMzT3UwenU5MG1paGozQ0FKY3lyUG53WjRnU09SS2k2cG1jVGRtZWFEaUh4N29jU1BIMmJRLXkxNFkzcjdsTVNmZlUzMWRyeWFOSEw4QXlwa0ZoQXhzbHFKaTY5ZElfU1V0LUU4QjRRbVZMY3hXaEVwMQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 03 Jun 2025 20:35:48 GMT"
     }
   ]
 }
