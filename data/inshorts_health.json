@@ -1,81 +1,18 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-06-04 02:02:25",
+    "generation_time": "2025-06-04 06:39:46",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "7bb874985917d3db3ee2b9b776fba6f0",
-      "title": "Will norovirus surge early again this year? CDC urges tracking of new strain. - CBS News",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/norovirus-surge-early-cdc-tracking-new-strain/",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/01/02/eb328cbd-97d9-4ca6-b093-7765789c7e15/thumbnail/1200x630/9acebdb42c0f508891967cc5beed9dd4/gettyimages-1481142979.jpg?v=bf13c71e7181bf2db128edf777c4aecf",
-      "summary": "Will norovirus surge early again this year? CDC urges tracking of new strain. June 3, 2025 / 3:13 PM EDT / CBS News After years of largely predictable norovirus waves, the emergence of a new strain might have disrupted the seasonal pattern of outbreaks from this notorious stomach bug, suggests a new report by the Centers for Disease Control and...",
-      "published": "Tue, 03 Jun 2025 19:13:00 GMT"
-    },
-    {
-      "id": "6fdd0240c4137f47c852fb8855f1f179",
-      "title": "Adopting the MIND Diet May Lower Dementia Risk at Any Age - Neuroscience News",
-      "source": "Neuroscience News",
-      "url": "https://neurosciencenews.com/mind-diet-brain-aging-29194/",
-      "image_url": "https://neurosciencenews.com/files/2025/06/mind-diet-dem-fb.jpg",
-      "summary": "Adopting the MIND Diet May Lower Dementia Risk at Any Age FeaturedNeurologyNeuroscience·June 3, 2025 Summary: A large study suggests that following the MIND diet—rich in leafy greens, berries, nuts, and olive oil—significantly reduces the risk of Alzheimer’s and related dementias. Drawing on data from nearly 93,000 U. S. adults, researchers found the strongest and most consistent protective effects among African...",
-      "published": "Tue, 03 Jun 2025 13:59:00 GMT"
-    },
-    {
-      "id": "ea627402751460f6eaed59f8edce3bb3",
-      "title": "Measles vaccinations drop as CDC updates travel guidance - Yahoo",
-      "source": "Yahoo",
-      "url": "https://www.yahoo.com/news/measles-vaccinations-drop-as-cdc-updates-travel-guidance-123511881.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/kysl8T1rGSPhW41AyDlv7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/e8926de0-fae5-11ef-b565-4975895d33e4",
-      "summary": "Canadian wildfire smoke in U. S. Saharan dust bears down on Fla. 'King of the Hill' actor killed Measles vaccinations drop as CDC updates travel guidance The Yodel newsletter: Get caught up on this morning’s news Tue, June 3, 2025 at 12:35 PM UTC Good morning, all. Here’s some good news to start your day: That cup of coffee you’re...",
-      "published": "Tue, 03 Jun 2025 12:35:11 GMT"
-    },
-    {
-      "id": "56a76963b2db9d9df7216566962f557e",
-      "title": "Study shows drinking coffee helps women stay mentally sharp and physically strong as they age - Earth.com",
-      "source": "Earth.com",
-      "url": "https://www.earth.com/news/drinking-coffee-may-help-women-stay-sharp-and-strong-as-they-age/",
-      "image_url": "https://cff2.earth.com/uploads/2025/06/03082859/coffee_women_helps-healthy-aging_1m.webp",
-      "summary": "Study shows drinking coffee helps women stay mentally sharp and physically strong as they age Every day starts the same for many of us. Open your eyes, reach for coffee and sip. That warm first gulp seems to shift your brain into gear. But what if it also helps you stay sharp and strong as you age? That’s what new...",
-      "published": "Tue, 03 Jun 2025 12:18:25 GMT"
-    },
-    {
-      "id": "0ab4a876140f8c5bb5cd9e562de1cc94",
-      "title": "Seniors' marijuana use reaches new high - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2025/06/03/seniors-marijuana-use-increase",
-      "image_url": "https://images.axios.com/fDPDHK9aNC8sqGAt4OXWE8ToAi8=/0x0:1920x1080/1366x768/2025/06/03/1748911496553.jpg",
-      "summary": "Seniors' marijuana use reaches new high Older Americans are increasing their use of marijuana to a point where some geriatricians are warning about weed's attendant health risks. The big picture: U. S. marijuana use among those 65 and older surged nearly 46% from 2021 to 2023, according to new research in JAMA Internal Medicine. The rapid adoption of state marijuana...",
-      "published": "Tue, 03 Jun 2025 10:20:47 GMT"
-    },
-    {
-      "id": "0c37136eb292e65c9426bf53ec711735",
-      "title": "Colorado confirms 3 more infections in airport-linked measles outbreak - CIDRAP",
-      "source": "CIDRAP",
-      "url": "https://www.cidrap.umn.edu/measles/colorado-confirms-3-more-infections-airport-linked-measles-outbreak",
-      "image_url": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/Denver%20International%20Airport.jpg?itok=wxbBYyn8",
-      "summary": "Colorado confirms 3 more infections in airport-linked measles outbreak The Colorado Department of Public Health (CDPH) and their partners in El Paso and Arapahoe counties have reported three more measles cases linked to exposure at Denver International Airport and on a Turkish Airlines flight, raising the outbreak total to six. In a statement, the CDPH said the three new cases...",
-      "published": "Mon, 02 Jun 2025 19:43:22 GMT"
-    },
-    {
-      "id": "cdd851060e7fc0d0398c7b3490082bb2",
-      "title": "Colon cancer recurrence and deaths cut 28% by simple exercise, trial finds - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2025/06/exercise-improves-colon-cancer-survival-high-quality-trial-finds/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-588283543-2560x1440.jpg",
-      "summary": "Colon cancer recurrence and deaths cut 28% by simple exercise, trial finds Any type of aerobic exercise works for the improvements, study finds. Exercise is generally good for you, but a new high-quality clinical trial finds that it's so good, it can even knock back colon cancer—and, in fact, rival some chemotherapy treatments. The finding comes from a phase 3,...",
-      "published": "Mon, 02 Jun 2025 22:05:16 GMT"
-    },
-    {
-      "id": "5bc2f8f8f7027566e0c1ac487f1c7ddf",
-      "title": "All international travelers should get measles vaccinations, CDC says - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/measles-international-travel-vaccine-980fdb9fcf8522fed01d23427eba4429",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Mon, 02 Jun 2025 21:55:00 GMT"
+      "id": "3cf948e94b5aad491404eb6f11723cec",
+      "title": "More seniors are using cannabis than ever before despite health risks, research shows - Fox News",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/health/more-seniors-using-cannabis-than-ever-before-despite-health-risks-research-shows",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/06/man-holding-joint.jpg",
+      "summary": "Newt Gingrich: None of these people 'have a clue' about America FDA authorizes AI tool to predict breast cancer risk Doctor reveals how protein supports longevity and healthy aging Everything in the Democrats' 'playbook' is denial, argues Pulitzer-winning playwright Smoking marijuana, using gummies linked to heart disease in new study Mike Rowe: Harvard is making my job easier than it's...",
+      "published": "Tue, 03 Jun 2025 21:45:00 GMT"
     },
     {
       "id": "8a02e31c083d921ebb760773a9e7e855",
@@ -87,49 +24,121 @@
       "published": "Tue, 03 Jun 2025 21:00:00 GMT"
     },
     {
+      "id": "ea627402751460f6eaed59f8edce3bb3",
+      "title": "Measles vaccinations drop as CDC updates travel guidance - Yahoo",
+      "source": "Yahoo",
+      "url": "https://www.yahoo.com/news/measles-vaccinations-drop-as-cdc-updates-travel-guidance-123511881.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/kysl8T1rGSPhW41AyDlv7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/e8926de0-fae5-11ef-b565-4975895d33e4",
+      "summary": "Canadian wildfire smoke in U. S. Saharan dust bears down on Fla. 'King of the Hill' actor killed Measles vaccinations drop as CDC updates travel guidance The Yodel newsletter: Get caught up on this morning’s news Tue, June 3, 2025 at 12:35 PM UTC Good morning, all. Here’s some good news to start your day: That cup of coffee you’re...",
+      "published": "Tue, 03 Jun 2025 12:35:11 GMT"
+    },
+    {
+      "id": "0c37136eb292e65c9426bf53ec711735",
+      "title": "Colorado confirms 3 more infections in airport-linked measles outbreak - CIDRAP",
+      "source": "CIDRAP",
+      "url": "https://www.cidrap.umn.edu/measles/colorado-confirms-3-more-infections-airport-linked-measles-outbreak",
+      "image_url": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/Denver%20International%20Airport.jpg?itok=wxbBYyn8",
+      "summary": "Colorado confirms 3 more infections in airport-linked measles outbreak The Colorado Department of Public Health (CDPH) and their partners in El Paso and Arapahoe counties have reported three more measles cases linked to exposure at Denver International Airport and on a Turkish Airlines flight, raising the outbreak total to six. In a statement, the CDPH said the three new cases...",
+      "published": "Mon, 02 Jun 2025 19:43:22 GMT"
+    },
+    {
+      "id": "945cd3ce6fdf5aa450269e3a53179249",
+      "title": "All international travelers should get measles vaccine, CDC says - OregonLive.com",
+      "source": "OregonLive.com",
+      "url": "https://www.oregonlive.com/health/2025/06/all-international-travelers-should-get-measles-vaccine-cdc-says.html",
+      "image_url": "https://www.oregonlive.com/resizer/v2/E5HFWYWLNRGE3KSGQYYNLSZYLQ.jpg?auth=c7ef37e97d2459277a9080698beb4a8507b38132f38d4d5fec694e48cb28da0e&width=1280&quality=90",
+      "summary": "All international travelers should get measles vaccine, CDC says Published: Jun. 02, 2025, 3:10 p. m. Health department staff members enter the Andrews County Health Department measles clinic carrying doses of the measles, mumps and rubella vaccine, Tuesday, April 8, 2025, in Andrews, Texas. AP Photo/Annie Rice, File U. S. health officials have changed their advice to international travelers about...",
+      "published": "Mon, 02 Jun 2025 22:10:00 GMT"
+    },
+    {
+      "id": "cdd851060e7fc0d0398c7b3490082bb2",
+      "title": "Colon cancer recurrence and deaths cut 28% by simple exercise, trial finds - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2025/06/exercise-improves-colon-cancer-survival-high-quality-trial-finds/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-588283543-2560x1440.jpg",
+      "summary": "Colon cancer recurrence and deaths cut 28% by simple exercise, trial finds Any type of aerobic exercise works for the improvements, study finds. Exercise is generally good for you, but a new high-quality clinical trial finds that it's so good, it can even knock back colon cancer—and, in fact, rival some chemotherapy treatments. The finding comes from a phase 3,...",
+      "published": "Mon, 02 Jun 2025 22:05:16 GMT"
+    },
+    {
+      "id": "e4ba5afb91d28d12eccc4fb965523f3a",
+      "title": "Midlife Caffeine Intake Linked to Healthy Aging - Neuroscience News",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com/caffeine-aging-neuroscience-29190/",
+      "image_url": "https://neurosciencenews.com/files/2025/06/aging-caffeine-neuroscience.jpg",
+      "summary": "Midlife Caffeine Intake Linked to Healthy Aging FeaturedNeuroscience·June 3, 2025 Summary: A long-term study following nearly 50,000 women over 30 years found that drinking caffeinated coffee in midlife is linked to healthier aging. Women who drank regular coffee were more likely to avoid chronic disease, cognitive decline, and physical impairment later in life. The benefits did not extend to tea...",
+      "published": "Tue, 03 Jun 2025 12:27:55 GMT"
+    },
+    {
+      "id": "6fdd0240c4137f47c852fb8855f1f179",
+      "title": "Adopting the MIND Diet May Lower Dementia Risk at Any Age - Neuroscience News",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com/mind-diet-brain-aging-29194/",
+      "image_url": "https://neurosciencenews.com/files/2025/06/mind-diet-dem-fb.jpg",
+      "summary": "Adopting the MIND Diet May Lower Dementia Risk at Any Age FeaturedNeurologyNeuroscience·June 3, 2025 Summary: A large study suggests that following the MIND diet—rich in leafy greens, berries, nuts, and olive oil—significantly reduces the risk of Alzheimer’s and related dementias. Drawing on data from nearly 93,000 U. S. adults, researchers found the strongest and most consistent protective effects among African...",
+      "published": "Tue, 03 Jun 2025 13:59:00 GMT"
+    },
+    {
+      "id": "535607e335a520f403c29b9141a22600",
+      "title": "We finally may be able to rid the world of mosquitoes. But should we? - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/climate-environment/2025/06/03/mosquito-extinction-gene-editing-malaria/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AJGGJEUDDBH4NGSMTWDAGELQ6M.jpg&w=1440",
+      "summary": "We finally may be able to rid the world of mosquitoes. But should we? Windows Users Don't Forget To Do This Before Tuesday We and our third-party partners process personal data including through the use of cookies, pixels, and other tracking technologies to provide, analyze, and improve our services; personalize your experience (including content); and personalize ads on and off...",
+      "published": "Tue, 03 Jun 2025 17:32:58 GMT"
+    },
+    {
+      "id": "7bb874985917d3db3ee2b9b776fba6f0",
+      "title": "Will norovirus surge early again this year? CDC urges tracking of new strain. - CBS News",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/norovirus-surge-early-cdc-tracking-new-strain/",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/01/02/eb328cbd-97d9-4ca6-b093-7765789c7e15/thumbnail/1200x630/9acebdb42c0f508891967cc5beed9dd4/gettyimages-1481142979.jpg?v=bf13c71e7181bf2db128edf777c4aecf",
+      "summary": "Will norovirus surge early again this year? CDC urges tracking of new strain. June 3, 2025 / 3:13 PM EDT / CBS News After years of largely predictable norovirus waves, the emergence of a new strain might have disrupted the seasonal pattern of outbreaks from this notorious stomach bug, suggests a new report by the Centers for Disease Control and...",
+      "published": "Tue, 03 Jun 2025 19:13:00 GMT"
+    },
+    {
+      "id": "b5c794b37bebb451fdccda64b3fbc13c",
+      "title": "The Internet's Latest Viral \"Wellness\" Trend Has Doctors Seriously Concerned — Here's Why - BuzzFeed",
+      "source": "BuzzFeed",
+      "url": "https://www.buzzfeed.com/katelinstecz/expert-share-raw-milk-dangers",
+      "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-06/03/17/thumb/rB3axKMkK.jpg?crop=1247:653;3,20%26downsize=1250:*",
+      "summary": "Subscribe to BuzzFeed Daily Newsletter The Internet's Latest Viral \"Wellness\" Trend Has Doctors Seriously Concerned — Here's Why Just because your cousin Steve in Boulder swears raw milk cured his dairy woes doesn’t make it gospel. At this point, if you’ve ever wandered through a local farmer’s market or fallen into a TikTok wellness rabbit hole filled with “home on...",
+      "published": "Wed, 04 Jun 2025 00:16:03 GMT"
+    },
+    {
       "id": "5c3ee7ce9bd1fdbec2fafc8d5ed4cc7e",
       "title": "Third case of bird flu detected at commercial farm in Maricopa County - ABC15 Arizona",
       "source": "ABC15 Arizona",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWxVaGx2X2pZc2xFS19BV1hQYnB4OUI1bWlWUFdVM3VNUDlZdmllQVliVFpQalJVaEJwbXlsOWJrNVJlVFBKV0pPZ1ZjUUtFd3VJd1NEdjBGcEN3MEx2a2RIYTRqYXNXYUVWQlJVcGtiTGVSRFhfU2c3OHA3amZRaHdoaVprdzBfNVZwQWpoN0ZHdDlwTTFMbGhSLUJWQjBSdzJLWg?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.abc15.com/news/state/third-case-of-bird-flu-detected-at-commercial-farm-in-maricopa-county",
+      "image_url": "https://ewscripps.brightspotcdn.com/dims4/default/da2e700/2147483647/strip/true/crop/640x336+0+72/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsharing.abc15.com%2Fsharescnn%2Fphoto%2F2017%2F03%2F06%2Fbird%20flu_1488777847178_56357936_ver1.0_640_480.jpg",
+      "summary": "Weather86° Uplifting Arizona Let ABC15 Know Investigations Things To Do Operation Safe Roads Smart Shopper Arizona 61 Contests We're Here To Listen Third case of bird flu detected at commercial farm in Maricopa County Officials say the poultry started showing clinical signs consistent with the virus on May 29. Samples from the location, which has not been disclosed, were submitted...",
       "published": "Tue, 03 Jun 2025 00:20:00 GMT"
     },
     {
-      "id": "47096fbb53cbbaf9c761a47c05fbbd53",
-      "title": "Just one glass of America's favorite drink 'turbocharges' risk of deadliest form of colon cancer, doctors warn - Daily Mail",
-      "source": "Daily Mail",
-      "url": "https://www.dailymail.co.uk/health/article-14768669/America-drink-colon-cancer-risk.html",
-      "image_url": "https://i.dailymail.co.uk/1s/2025/06/03/13/98996113-0-image-a-17_1748954359085.jpg",
-      "summary": "Tuesday, Jun 3rd 2025 10PM 66°F Just one glass of America's favorite drink 'turbocharges' risk of deadliest form of colon cancer, doctors warn By LUKE ANDREWS SENIOR HEALTH REPORTER FOR DAILYMAIL. COM PUBLISHED: 19:11 EDT, 3 June 2025 | UPDATED: 19:11 EDT, 3 June 2025 For many Americans, cracking open a soda is a small daily indulgence — a fizzy...",
-      "published": "Tue, 03 Jun 2025 23:11:22 GMT"
+      "id": "aba1b0b3141da2627c34499ad4d9c629",
+      "title": "How to protect yourself from wildfire smoke and poor air quality - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/climate-environment/2025/06/02/wildfire-smoke-air-quality-safety/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YXYZUYITEGTNMITPA6DDUNO62M_size-normalized.jpg&w=1440",
+      "summary": "How to protect yourself from wildfire smoke As wildfire smoke drifts into the United States, it's important to know how to reduce exposure and protect yourself from air pollution and its associated health risks. We and our third-party partners process personal data including through the use of cookies, pixels, and other tracking technologies to provide, analyze, and improve our services;...",
+      "published": "Tue, 03 Jun 2025 00:12:08 GMT"
     },
     {
-      "id": "30cbae408e2344be587caf4bdabba979",
-      "title": "Texas Woman Dies From Brain-Eating Amoeba After Using Tainted RV Water - Gizmodo",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/texas-woman-dies-from-brain-eating-amoeba-after-using-tainted-rv-water-2000610429",
-      "image_url": "https://gizmodo.com/app/uploads/2025/06/RV-Water-1200x675.jpg",
-      "summary": "Texas Woman Dies From Brain-Eating Amoeba After Using Tainted RV Water Cases of Naegleria fowleri infection are incredibly rare, but nearly always fatal. Published June 3, 2025 | Comments (18) | An RV's inadequately disinfected water system can provide an opening for PAM and other waterborne illnesses, officials warn. © Virrage Images via Shutterstock A woman’s practice of nasal irrigation...",
-      "published": "Tue, 03 Jun 2025 16:31:31 GMT"
+      "id": "ecb7bfd8524fb5f8dc005bbcade9ac44",
+      "title": "A woman contracted a fatal brain-eating ameba after rinsing her sinuses. Here’s how to avoid it - The Independent",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/world/americas/brain-eating-ameba-symptoms-treatment-b2763016.html",
+      "image_url": "https://static.independent.co.uk/2025/06/03/18/42/Screenshot-2025-06-03-at-2-41-03-PM.jpg?trim=0,71,0,70&width=1200&height=800&crop=1200:800",
+      "summary": "A woman contracted a fatal brain-eating ameba after rinsing her sinuses. Here’s how to avoid it The 71-year-old developed “severe neurologic symptoms” after using a nasal irrigation device using non-boiled water An elderly woman from Texas has died after contacting a brain-eating ameba from rinsing her sinuses, the Centers for Disease Control said (Centers for Disease Control/Dr. James Roberts, Children’s...",
+      "published": "Tue, 03 Jun 2025 19:40:00 GMT"
     },
     {
-      "id": "ab92dc4baf7b2a8ea3365c6256930aa7",
-      "title": "How ‘Inflammaging’ Drives Cancer—and Points to New Treatments - WSJ",
-      "source": "WSJ",
-      "url": "https://www.wsj.com/health/inflammation-cancer-rates-treatment-542513e7",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Tue, 03 Jun 2025 14:00:00 GMT"
-    },
-    {
-      "id": "af59de3c9637575fb4bb149d116bdc9f",
-      "title": "Anorexia in Middle Age and Beyond - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/03/health/anorexia-older-women-eating-disorders.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Tue, 03 Jun 2025 15:47:42 GMT"
+      "id": "11982d54d9077f53833cdfafc0b70f40",
+      "title": "New COVID-19 variant detected in Washington state, health officials say - KING5.com",
+      "source": "KING5.com",
+      "url": "https://www.king5.com/article/news/health/coronavirus/health-officials-new-covid-19-variant-washington-state/281-71938f69-49c4-4347-81d3-646db800cb2e",
+      "image_url": "https://media.king5.com/assets/KING/images/d6e3f0c2-869b-4803-8320-1c69a4c216d9/d6e3f0c2-869b-4803-8320-1c69a4c216d9_1140x641.jpg",
+      "summary": "New COVID-19 variant detected in Washington state, health officials say The earliest detection of the new variant was on April 7 and the most recent case was from May 20. Published: 4:26 PM PDT June 2, 2025 Updated: 5:49 PM PDT June 2, 2025 SEATTLE — The Washington Department of Health (DOH) said Monday it has detected a new COVID-19...",
+      "published": "Mon, 02 Jun 2025 23:26:00 GMT"
     },
     {
       "id": "606bd17ea67fa5d0ff13562308538c0d",
@@ -141,31 +150,13 @@
       "published": "Mon, 02 Jun 2025 23:34:11 GMT"
     },
     {
-      "id": "11982d54d9077f53833cdfafc0b70f40",
-      "title": "New COVID-19 variant detected in Washington state, health officials say - KING5.com",
-      "source": "KING5.com",
-      "url": "https://www.king5.com/article/news/health/coronavirus/health-officials-new-covid-19-variant-washington-state/281-71938f69-49c4-4347-81d3-646db800cb2e",
-      "image_url": "https://media.king5.com/assets/KING/images/d6e3f0c2-869b-4803-8320-1c69a4c216d9/d6e3f0c2-869b-4803-8320-1c69a4c216d9_1140x641.jpg",
-      "summary": "LIVE: Law enforcement provides an update on the search for Travis Decker New COVID-19 variant detected in Washington state, health officials say The earliest detection of the new variant was on April 7 and the most recent case was from May 20. Published: 4:26 PM PDT June 2, 2025 Updated: 5:49 PM PDT June 2, 2025 SEATTLE — The Washington...",
-      "published": "Mon, 02 Jun 2025 23:26:00 GMT"
-    },
-    {
-      "id": "e716424e91a6a7914d01b33bae51005d",
-      "title": "How Cocaine Hijacks the Brain - Neuroscience News",
-      "source": "Neuroscience News",
-      "url": "https://neurosciencenews.com/genetics-cocaine-addiction-29187/",
-      "image_url": "https://neurosciencenews.com/files/2025/06/genetics-cocaine-addiction-neuroscience.jpg",
-      "summary": "FeaturedGeneticsNeuroscience·June 2, 2025 Summary: In a groundbreaking study, researchers have engineered fruit flies that voluntarily consume cocaine, creating the first fly model for cocaine addiction. Typically, flies avoid the drug due to its bitter taste, but by disabling their bitter-sensing receptors, scientists encouraged addictive behavior within just 16 hours of exposure. This model is a major step toward rapidly testing...",
-      "published": "Mon, 02 Jun 2025 20:07:39 GMT"
-    },
-    {
-      "id": "dfdff94a86018696a8a8e0cc556ae12d",
-      "title": "The First At-Home Cervical Cancer Screening Device Was Approved by the FDA, Set to Roll Out This Year - Good News Network",
-      "source": "Good News Network",
-      "url": "https://www.goodnewsnetwork.org/the-first-at-home-cervical-cancer-screening-device-was-approved-by-the-fda-set-to-roll-out-this-year/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/06/credit-Teal-Health.jpg",
-      "summary": "Home All News Health The First At-Home Cervical Cancer Screening Device Was Approved by the FDA,. .. The First At-Home Cervical Cancer Screening Device Was Approved by the FDA, Set to Roll Out This Year The Teal Wand – credit Teal Health This year, a revolution in the unpleasant pap smear test will arrive on the American market in the...",
-      "published": "Mon, 02 Jun 2025 18:30:48 GMT"
+      "id": "5d46ca14ac56ebe131b351410fd1eb70",
+      "title": "Doctors discover food that prevents heart disease and diabetes... and 90% of Americans don't eat enough of it - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/health/article-14775847/Doctors-plant-diet-heart-disease-Type-2-diabetes.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/03/18/99006607-0-image-m-16_1748970013635.jpg",
+      "summary": "Tuesday, Jun 3rd 2025 10PM 61°F Doctors discover food that prevents heart disease and diabetes. .. and 90% of Americans don't eat enough of it READ MORE: Subtle signs on your skin and neck that mean you have diabetes By ISHITA SRIVASTAVA FOR DAILYMAIL. COM PUBLISHED: 13:03 EDT, 3 June 2025 | UPDATED: 13:29 EDT, 3 June 2025 Regularly eating...",
+      "published": "Tue, 03 Jun 2025 17:03:27 GMT"
     },
     {
       "id": "1344dae7dec2c4d620f855d48a7030e2",
@@ -173,17 +164,26 @@
       "source": "statnews.com",
       "url": "https://www.statnews.com/2025/06/02/mrna-vaccines-covid-policy-critics-rise-to-power-concerted-attack-on-science/",
       "image_url": "https://www.statnews.com/wp-content/uploads/2025/05/GettyImages-1207384905-1024x576.jpg",
-      "summary": "Reporting from the frontiers of health and medicine mRNA, once lauded as a scientific marvel, is now a government target After the success of Covid vaccine, HHS is now sowing doubt in mRNA technology President Donald Trump speaking at a press briefing on the coronavirus on March 16, 2020. BRENDAN SMIALOWSKI/AFP via Getty Images By Lizzy Lawrence and Isabella CuetoJune...",
+      "summary": "Reporting from the frontiers of health and medicine mRNA, once lauded as a scientific marvel, is now a government target After the success of Covid vaccine, HHS is now sowing doubt in mRNA technology Critical updates on the fast-moving world of cancer research, treatment, and patient care Advertising/Communications Agency",
       "published": "Mon, 02 Jun 2025 08:33:57 GMT"
     },
     {
-      "id": "36dee15da9a66748ee7d7d06b947fc54",
-      "title": "Why the American Diet Is So Deadly? A Silent Killer Quietly Harming Millions - Indian Defence Review",
-      "source": "Indian Defence Review",
-      "url": "https://indiandefencereview.com/why-the-american-diet-is-so-deadly-a-silent-killer-quietly-harming-millions/",
-      "image_url": "https://indiandefencereview.com/wp-content/uploads/2025/06/two-persons-eating-a-hamburger.jpg",
-      "summary": "Why the American Diet Is So Deadly? A Silent Killer Quietly Harming Millions The American diet hides a surprising danger lurking in everyday meals. New research reveals how common foods might be quietly changing our bodies and habits. The truth behind what we eat challenges everything we thought we knew about health. Two Persons Eating A Hamburger - copyright Shutterstock...",
-      "published": "Tue, 03 Jun 2025 13:25:00 GMT"
+      "id": "af59de3c9637575fb4bb149d116bdc9f",
+      "title": "Anorexia in Middle Age and Beyond - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/03/health/anorexia-older-women-eating-disorders.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Tue, 03 Jun 2025 15:47:42 GMT"
+    },
+    {
+      "id": "0a0a733a7ed399b3a992f1e5e5a80b1c",
+      "title": "Utah’s quiet measles case: what happened and why officials stayed silent - KSLTV.com",
+      "source": "KSLTV.com",
+      "url": "https://ksltv.com/local-news/utahs-quiet-measles-case-what-happened-and-why-officials-stayed-silent/781814/",
+      "image_url": "https://ksltv.com/wp-content/uploads/2025/06/Measles-vaccine.jpg",
+      "summary": "Utah’s quiet measles case: what happened and why officials stayed silent SALT LAKE CITY — Health officials in Utah opted not to notify the public about a measles case that entered the state last month, citing low risk and prior vaccination. The case first came into public light Monday afternoon, during a Summit County Board of Health meeting. The Utah...",
+      "published": "Wed, 04 Jun 2025 00:27:00 GMT"
     }
   ]
 }
