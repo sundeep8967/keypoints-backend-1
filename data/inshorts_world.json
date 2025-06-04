@@ -1,18 +1,90 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-04 13:47:13",
+    "generation_time": "2025-06-04 19:59:40",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "db1118e612d8c1c5086c55664d547d99",
-      "title": "Trump envoy says risk levels 'going way up' after Ukraine struck Russian bombers - Reuters",
+      "id": "c5f7cf57d6fa4bf438e0791cf10b87d4",
+      "title": "Putin feels he must respond to Ukraine's drone attacks, Trump warns - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx2r108l785o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4b75/live/7d2896c0-4170-11f0-835b-310c7b938e84.png",
+      "summary": "Putin will seek revenge for Ukraine drone attack, warns Trump Donald Trump released details of his call with Vladimir Putin on Wednesday Vladimir Putin has said he will have to respond to Ukraine's major drone attack on Russian airbases, US President Donald Trump has warned. Speaking after a phone call with the Russian president, Trump said: \"President Putin did say,...",
+      "published": "Wed, 04 Jun 2025 17:02:39 GMT"
+    },
+    {
+      "id": "08c318bd897e2b0b0184ca13c0a5a3df",
+      "title": "Virat Kohli Breaks Silence On 11 Deaths Due To Stampede At RCB's IPL 2025 Title Celebration: \"At A L.. - NDTV Sports",
+      "source": "NDTV Sports",
+      "url": "https://sports.ndtv.com/ipl-2025/at-a-loss-for-words-virat-kohli-breaks-silence-on-11-deaths-due-to-stampede-at-rcbs-ipl-2025-title-celebration-8589137",
+      "image_url": "https://c.ndtvimg.com/2025-06/6tggsuk8_virat-kohli_625x300_04_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "summary": "Final, Indian Premier League, 2025 at Ahmedabad, Jun 3, 2025 Royal Challengers Bengaluru beat Punjab Kings by 6 runs Qualifier 2, Indian Premier League, 2025 at Ahmedabad, Jun 1, 2025 Punjab Kings beat Mumbai Indians by 5 wickets Eliminator, Indian Premier League, 2025 at Mullanpur, May 30, 2025 Mumbai Indians beat Gujarat Titans by 20 runs Sports Home IPL 2025...",
+      "published": "Wed, 04 Jun 2025 17:40:42 GMT"
+    },
+    {
+      "id": "f9d21f7495cffc647ebe7ce7447a0058",
+      "title": "US-backed Gaza aid group halts distribution, UN to vote on ceasefire demand - Reuters",
       "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/trump-envoy-says-risk-levels-going-way-up-after-ukraine-struck-russian-bombers-2025-06-04/",
+      "url": "https://www.reuters.com/world/middle-east/us-backed-gaza-aid-group-halt-distribution-wednesday-un-vote-ceasefire-demand-2025-06-04/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Wed, 04 Jun 2025 08:14:44 GMT"
+      "published": "Wed, 04 Jun 2025 12:06:53 GMT"
+    },
+    {
+      "id": "2ffc58ef2510868b992aa358fbd9c278",
+      "title": "These satellite photos show Russian bombers Ukraine says it destroyed - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-drone-attack-photos-destroyed-bombers-a27eb37cff14355acb8f9850e663c8bd",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Wed, 04 Jun 2025 15:39:00 GMT"
+    },
+    {
+      "id": "6871e273394c1dcd23bb52c092f8ea65",
+      "title": "German city evacuates 20,000 after unexploded World War II bombs are found - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/06/04/cologne-germany-bombs/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3LZDODW2FDB572X4ITKB7LUZOY_size-normalized.jpg&w=1440",
+      "summary": "German city evacuates 20,000 after unexploded World War II bombs are found Authorities in Cologne said this was the largest evacuation of the city since World War II. Unexploded ordnance has commonly been found across Europe. City employees cordon off access to the Rhine promenade in Cologne, Germany, on Wednesday. (Christopher Neundorf/EPA-EFE/Shutterstock) BERLIN — Some 20,500 people were evacuated on...",
+      "published": "Wed, 04 Jun 2025 17:43:19 GMT"
+    },
+    {
+      "id": "89c514fcf861299a624b9e7162f9f576",
+      "title": "Vietnam ends its longstanding 2-child policy - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/04/g-s1-70426/vietnam-ends-2-child-policy-population",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5465x3074+0+284/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2Fb4%2F1bd3c7774482b82c7bcb6c7f23b9%2Fap25155327138022.jpg",
+      "summary": "Vietnam ends its longstanding 2-child policy A billboard campaigning for each family to have two children hangs above a street in Ho Chi Minh City, Vietnam, Jan. 14, 2024. HANOI, Vietnam — Vietnam has scrapped a policy that limited couples to have up to two children, as it addresses a declining birth rate and a shrinking working-age population. Vietnamese lawmakers...",
+      "published": "Wed, 04 Jun 2025 16:00:26 GMT"
+    },
+    {
+      "id": "b419d316714e37d8e55eb2e2f4bf1924",
+      "title": "Greetings from Mexico City, where these dogs ride a bus to and from school - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/04/g-s1-70123/mexico-city-dogs-school-bus",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2Fa3%2Fca53240740f08a5a4dd0aeaa4dd4%2Ffarflungpostcard-peralta.jpg",
+      "summary": "Greetings from Mexico City, where these dogs ride a bus to and from school Far-Flung Postcards is a weekly series in which NPR's international correspondents share snapshots of moments from their lives and work around the world. Mexico City is dog-crazy. Ladies push their poodles in strollers across the parks; one of the Chinese restaurants by our house has a...",
+      "published": "Wed, 04 Jun 2025 14:00:20 GMT"
+    },
+    {
+      "id": "49b058497fa21d73a91a0baff8606880",
+      "title": "Rachel Reeves admits some will lose out in spending review - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cd0lr9x8nl3o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ee1a/live/201268a0-4128-11f0-9ac6-c9e2ff3234ce.jpg",
+      "summary": "Reeves admits some will lose out in spending review Chancellor Rachel Reeves has said not every government department will \"get everything they want\" in the upcoming spending review, as she defended her economic decisions. In a speech in Manchester, Reeves suggested she had turned down requests for funding from ministers and argued a squeeze on funding was a \"product of...",
+      "published": "Wed, 04 Jun 2025 13:09:36 GMT"
+    },
+    {
+      "id": "1d55bae541d33dc14aec9ec6429c439d",
+      "title": "Why did the Dutch government collapse and what’s next? - Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/6/4/why-did-the-dutch-government-collapse-and-whats-next",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/06/afp_6840321bbd2f-1749037595.jpg?resize=1920%2C1440",
+      "summary": "Enrich your Al Jazeera experience by signing in or creating an account. Where is the Madleen Gaza Flotilla? Why did the Dutch government collapse and what’s next? The Dutch government collapsed after Geert Wilders pulled away from ruling right-wing coalition. Geert Wilders said he withdrew after coalition partners failed to back his migration plans [Robin van Lonkhuijsen/AFP] Save articles to...",
+      "published": "Wed, 04 Jun 2025 14:14:42 GMT"
     },
     {
       "id": "6a71df877aebf6cc145c041b39f7d0d4",
@@ -24,49 +96,40 @@
       "published": "Wed, 04 Jun 2025 09:00:00 GMT"
     },
     {
-      "id": "51b200c8f5879bd2d9fea92b8c6dead6",
-      "title": "South Korea: New leader Lee Jae-myung pledges to 'unite' a divided country - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cq549p1yd2eo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9fff/live/7cff6fe0-40ec-11f0-85b9-27e092bd52de.jpg",
-      "summary": "South Korea's new president Lee Jae-myung pledges to 'unite' country Lee enters office at a time when the country is grappling with deep divisions Just hours after winning the South Korean presidency, Lee Jae-myung has pledged to \"unite the people\" in his inauguration speech on Wednesday. The 61-year-old won a snap election by 49. 4% - a clear rejection of...",
-      "published": "Wed, 04 Jun 2025 05:15:57 GMT"
+      "id": "cb0214e8238059cb6f20c09833d8f5e2",
+      "title": "White House calls South Korea election 'fair,' expresses concern about Chinese influence - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/white-house-calls-south-korea-election-fair-expresses-concern-about-chinese-2025-06-04/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 04 Jun 2025 09:01:33 GMT"
     },
     {
-      "id": "e2fc784e5f0f0f09f532de3b44dc7d36",
-      "title": "Gaza aid sites to be closed for day as GHF seeks to bolster security after shootings - The Times of Israel",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/gaza-aid-group-says-distribution-sites-to-close-wednesday-for-logistical-reasons/",
-      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/AP25154289684405.jpg",
-      "summary": "Gaza aid sites to be closed for day as GHF seeks to bolster security after shootings Organization says it’s working to accommodate larger crowds and has made a series of requests to IDF aimed at boosting safety measures after 3 straight days of mass-casualty incidents Palestinians carry bags filled with food and humanitarian aid provided by the Gaza Humanitarian Foundation,...",
-      "published": "Wed, 04 Jun 2025 04:28:49 GMT"
+      "id": "19af079b7f3f2b7869a2c45bd66ee8ec",
+      "title": "Drone Attacks Are the New Front in War. Can NATO Keep Up? - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/04/world/europe/ukraine-russia-drones-nato.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 04 Jun 2025 09:03:36 GMT"
     },
     {
-      "id": "9680f0d776b17717b54e1c379ad0b74f",
-      "title": "Partially Submerged North Korean Frigate Appears Upright Again In Satellite Image - Yahoo",
-      "source": "Yahoo",
-      "url": "https://www.yahoo.com/news/partially-submerged-north-korean-frigate-231331320.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/WRdkPzqiYZ7z4B5j.tzpew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_warzone_735/d820103d6c872a768bdf086278ad6045",
-      "summary": "Canadian wildfire smoke in U. S. Saharan dust bears down on Fla. 'King of the Hill' actor killed Partially Submerged North Korean Frigate Appears Upright Again In Satellite Image Tue, June 3, 2025 at 11:13 PM UTC North Korea looks to be making progress in recovering the second in its Choi Hyun class of frigates, which rolled over and was...",
-      "published": "Tue, 03 Jun 2025 23:13:31 GMT"
+      "id": "4361e23a66f98d7f3864560ea9d0773b",
+      "title": "Russia says no damage to Crimea Bridge as Ukraine pushes for US sanctions on Moscow - ABC News",
+      "source": "ABC News",
+      "url": "https://abcnews.go.com/International/ukraine-strong-us-sanctions-break-russia-peace-talks/story?id=122478386",
+      "image_url": "https://i.abcnewsfe.com/a/f661dbb3-4692-432c-845e-e6736e4061e8/putin-trump-1-rt-gmh-250604_1749057377682_hpMain_16x9.jpg?w=1600",
+      "summary": "Trump says he had 'good' call with Putin but peace not 'immediate' The call comes as Ukraine is pushing for U. S. sanctions on Moscow. ByDavid Brennan and Meredith Deliso Trump says he had 'good' call with Putin but peace not 'immediate'President Donald Trump said he spoke to Russian President Putin on Wednesday, describing their call as \"good\" but \"not...",
+      "published": "Wed, 04 Jun 2025 12:25:51 GMT"
     },
     {
-      "id": "283d5a13c013625115ce5324fcf4a83c",
-      "title": "The Dutch government has collapsed. What happens next? - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/netherlands-politics-wilders-elections-parliament-c18fd4e32cc1ab8668f159d6630cf89d",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 04 Jun 2025 10:47:00 GMT"
-    },
-    {
-      "id": "0a74e4a51e7cdc175fcbad31aaad0dfe",
-      "title": "As Russia reels from drone attack, Ukraine targets vital Crimean Bridge - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/06/03/russia-ukraine-crimea-bridge-blast-drones/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-03-2025/t_bde5d095429c40079ab8e9e74ea3d09f_name_STILL_crimea_bridge.jpg&w=1440",
-      "summary": "As Russia reels from drone attack, Ukraine targets vital Crimean Bridge Explosions in the morning and afternoon rocked the symbolic bridge, but after several hours of closure, authorities said the span connecting Crimea to Russia, had reopened. Video published by Ukraine’s Security Service on June 3 shows Ukraine attacking the symbolic Kerch Bridge, which connects Crimea to mainland Russia. (Video:...",
-      "published": "Wed, 04 Jun 2025 12:43:41 GMT"
+      "id": "469fc63bf66dd1cdca4560f0b4ab9feb",
+      "title": "EU gives Bulgaria green light to adopt euro from start of 2026 - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/currencies/eu-gives-bulgaria-green-light-adopt-euro-start-2026-2025-06-04/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 04 Jun 2025 12:30:14 GMT"
     },
     {
       "id": "c4751c448572c300bc7b1def624204c7",
@@ -78,112 +141,49 @@
       "published": "Wed, 04 Jun 2025 07:46:00 GMT"
     },
     {
-      "id": "469fc63bf66dd1cdca4560f0b4ab9feb",
-      "title": "EU gives Bulgaria green light to adopt euro from start of 2026 - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/markets/currencies/eu-gives-bulgaria-green-light-adopt-euro-start-2026-2025-06-04/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Wed, 04 Jun 2025 11:10:25 GMT"
+      "id": "38ab48b9bf2c8b6de8a5422dd01fcb06",
+      "title": "Investigators search abandoned building linked to Madeleine McCann's disappearance 18 years ago - 9News",
+      "source": "9News",
+      "url": "https://www.9news.com/article/news/nation-world/new-searches-underway-portugal-near-where-madeleine-mccann-disappeared/507-ce6ccd6c-5cd9-42f7-82f7-eaa2604bba4b",
+      "image_url": "https://media.9news.com/assets/CCT/images/e8a94108-7632-4c34-84a7-de7bf2511789/20250604T005237/e8a94108-7632-4c34-84a7-de7bf2511789_1140x641.jpg",
+      "summary": "Investigators search abandoned building linked to Madeleine McCann's disappearance 18 years ago The case received worldwide interest for several years, with reports of sightings of McCann occurring as far away as Australia. Portuguese and German police investigating the 2007 disappearance of Madeleine McCann carry out searches near Lagos, Portugal, June 3, 2025. Published: 6:56 PM MDT June 3, 2025 Updated:...",
+      "published": "Wed, 04 Jun 2025 00:56:00 GMT"
     },
     {
-      "id": "c44384771f8450a44b48abaeb1615a0f",
-      "title": "Cologne evacuates thousands so WW2 bombs can be diffused - BBC",
+      "id": "5b24480cfa08e30ac191e3b7b315ad72",
+      "title": "Israel strikes southern Syria after projectiles fired into Golan - BBC",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cj6r04e870do",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6d53/live/4b9d4690-4121-11f0-9ac6-c9e2ff3234ce.jpg",
-      "summary": "Cologne evacuates 20,000 so WW2 bombs can be defused Police are cordoning off large areas of the city The German city of Cologne is evacuating some 20,500 people from a large area in the city centre so experts can defuse three unexploded bombs from World War Two. The American bombs were discovered on Monday in a shipyard in the Deutz...",
-      "published": "Wed, 04 Jun 2025 08:48:35 GMT"
+      "url": "https://www.bbc.com/news/articles/czxyr4lvd01o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7034/live/ac0ab970-40ce-11f0-849a-19ac22192b54.jpg",
+      "summary": "Israel strikes weapons in southern Syria after projectiles fired into Golan Israeli F-16 fighter jets at an airbase in southern Israel The Israeli military says it launched strikes on weapons belonging to the Syrian government in southern Syria, hours after two projectiles were fired from Syria into the Israeli-occupied Golan Heights. The Israeli strikes caused \"significant human and material losses\"...",
+      "published": "Wed, 04 Jun 2025 12:50:29 GMT"
     },
     {
-      "id": "e44f7fb019f910874012be6d54b2cacb",
-      "title": "Madeleine McCann search goes on but is it 18 years too late? - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c20qdwxq394o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/939c/live/1ad357b0-412c-11f0-9ac6-c9e2ff3234ce.jpg",
-      "summary": "Madeleine McCann search goes on but is it 18 years too late? Reporting fromAlgarve, Portugal The golden sandy beach of Praia da Luz is dominated by huge cliffs to the east, a mix of orange sandstone and black volcanic rock. These cliffs hide the strip of gorse scrubland which runs east to the larger resort of Lagos, and are dotted...",
-      "published": "Wed, 04 Jun 2025 10:58:16 GMT"
+      "id": "c9a88dbbb39e458b3044ca20da52b8dc",
+      "title": "A hungry wild elephant raids a grocery store in Thailand for snacks - ABC News",
+      "source": "ABC News",
+      "url": "https://abcnews.go.com/International/wireStory/hungry-wild-elephant-raids-grocery-store-thailand-snacks-122479917",
+      "image_url": "https://i.abcnewsfe.com/a/2dcb7560-91e3-43bb-86e3-b352f7016d5a/wirestory_4e6abf114e8b12e3fb5e3e1c74de2dc4_16x9.jpg?w=1600",
+      "summary": "A hungry wild elephant raids a grocery store for snacks in Thailand A hungry wild elephant has caused havoc in a grocery store in Thailand after strolling in from the Khao Yai National Park and helping himself to the food on the shelves International headlines from ABC NewsCatch up on the developing stories from around the globe making headlines. BANGKOK...",
+      "published": "Wed, 04 Jun 2025 10:32:02 GMT"
     },
     {
-      "id": "27238c302ba7fc6f08b0d399040e49d9",
-      "title": "Ukraine's backers meet to drum up arms and ammo. The Pentagon chief is absent for the first time - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-weapons-ammunition-udcg-hegseth-nato-3323b6a9378d6e52fe8c90531de37837",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 04 Jun 2025 09:07:00 GMT"
+      "id": "5f6b0226606441bf362673875a3c35b8",
+      "title": "North Korea pulls capsized warship upright after botched launch, report says - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/asia/north-korea-pulls-capsized-warship-upright-botched-launch-report-says-rcna210828",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250525-Chongjin-ch-0948-8d19ab-a068da.jpg",
+      "summary": "North Korea pulls capsized warship upright after botched launch, report says North Korean leader Kim Jong Un called the accident an insult to the nation’s prestige and vowed to punish those responsible. A satellite image taken on May 23 shows a new North Korean warship covered in blue tarp following a botched launching ceremony. Maxar Technologies Create your free profile...",
+      "published": "Wed, 04 Jun 2025 09:58:30 GMT"
     },
     {
-      "id": "83106b05ea921808fa86251e8e71b8d2",
-      "title": "Five countries elected to serve on UN Security Council - UN News",
-      "source": "UN News",
-      "url": "https://news.un.org/en/story/2025/06/1163971",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/03-06-2025-UN-Photo-GA-SC-elections.jpg/image770x420cropped.jpg",
-      "summary": "Global perspective Human stories Five countries elected to serve on UN Security Council UN Photo/Manuel Elías UN General Assembly elects five new non-permanent members of the UN Security Council. Bahrain, Colombia, the Democratic Republic of the Congo, Latvia, and Liberia were elected on Tuesday to serve as non-permanent members of the UN Security Council, with two-year terms beginning in January...",
-      "published": "Tue, 03 Jun 2025 15:18:37 GMT"
-    },
-    {
-      "id": "88e6900baea2f9aa7671ac1187c4aec0",
-      "title": "Rockets fired from Syria for first time in a year; Israel holds Sharaa responsible - The Times of Israel",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/israel-says-it-will-hold-sharaa-accountable-after-1st-rocket-fire-from-syria-in-a-year/",
-      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/AFP__20250531__48QF9MN__v1__HighRes__SyriaSaudiPoliticsDiplomacy-e1748947537204.jpg",
-      "summary": "Rockets fired from Syria for first time in a year; Israel holds Sharaa responsible IDF carries out airstrikes across southern Syria after two projectiles fired from 12 km inside northern neighbor; Houthi missile triggers sirens across central Israel; no injuries reported Syria's interim president Ahmed al-Sharaa receives Saudi Arabia's foreign minister in Damascus, Syria, on May 31, 2025. (SANA /...",
-      "published": "Tue, 03 Jun 2025 22:44:57 GMT"
-    },
-    {
-      "id": "af244b08fedf14c54bf263313a1a7714",
-      "title": "Confidence vote in Tusk’s Polish government set for June 11 - politico.eu",
-      "source": "politico.eu",
-      "url": "https://www.politico.eu/article/poland-hold-vote-confidence-june-11-after-election-upset/",
-      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/03/13099619-scaled.jpg",
-      "summary": "Confidence vote in Tusk’s Polish government set for June 11",
-      "published": "Tue, 03 Jun 2025 13:18:00 GMT"
-    },
-    {
-      "id": "04630c95d3c80250e5ad18b9d38508cf",
-      "title": "Facing a Demographic Shift, Vietnam Abolishes Two-Child Policy - The New York Times",
+      "id": "75b1914e7d691e95c69b0a18cbc22b81",
+      "title": "What is the Hajj? What to Know About the Pilgrimage and Saudi Arabia’s Preparations - The New York Times",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/04/world/asia/vietnam-two-child-policy.html",
+      "url": "https://www.nytimes.com/2025/06/04/world/middleeast/saudi-arabia-hajj-heat.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Wed, 04 Jun 2025 08:35:46 GMT"
-    },
-    {
-      "id": "8c578ce648fe2ef150f097dd43d59d2d",
-      "title": "Terrifying Footage Shows Tourists Fleeing Epic Volcanic Eruption - futurism.com",
-      "source": "futurism.com",
-      "url": "https://futurism.com/footage-tourists-fleeing-volcanic-eruption",
-      "image_url": "https://wordpress-assets.futurism.com/2025/06/footage-tourists-fleeing-volcanic-eruption.jpg",
-      "summary": "JUN 3, 11:35 AM EDT by VICTOR TANGERMANN Terrifying Footage Shows Tourists Fleeing Epic Volcanic Eruption / Earth & Energy/ Volcano/ Volcanos Image by @mnrkhoury via Instagram A terrifying video that's making its rounds on social media shows dozens of tourists fleeing a massive volcano eruption by running down an ash-covered hill. The footage was recorded on the hills next...",
-      "published": "Tue, 03 Jun 2025 15:35:52 GMT"
-    },
-    {
-      "id": "e402d1bdcf6c5959e79c9b860ac4104b",
-      "title": "‘They don’t need me’: Former New Zealand Prime Minister Jacinda Ardern says she’s done with politics - Deseret News",
-      "source": "Deseret News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMXI5b0lpcGhGVXZRbFo3YmF3OHlKQ2dBX0xISkxXam00bmR0bWZldkcwRF9CQUl4SnNOQld5OWVwVEZjbDRtQXhSSkRSTTRMdFhZbndzY3RWOGdXYUw4bGpSR2RmS3JoUEU3X0s5TVR0dWFRQWRKeWJpUVJSTXJPdW55N05ZMzZU?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 03 Jun 2025 14:44:53 GMT"
-    },
-    {
-      "id": "8399df73c67583f963d14a95be015b1f",
-      "title": "Putin's uncompromising demands emerge after the latest round of Russia-Ukraine peace talks - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-memorandum-talks-instanbul-6014fb7e87c15aa60e30bf72bf6cd2fd",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Tue, 03 Jun 2025 18:30:00 GMT"
-    },
-    {
-      "id": "11bef0f04857c3f2690c5f2b7712f345",
-      "title": "Macron and Meloni Meet, Searching for Unity in a World of Conflict - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/03/world/europe/meloni-macron-meeting-europe-trade-war-trump.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Tue, 03 Jun 2025 09:47:22 GMT"
+      "published": "Wed, 04 Jun 2025 04:01:09 GMT"
     }
   ]
 }
