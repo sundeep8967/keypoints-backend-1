@@ -1,36 +1,90 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-05 07:25:58",
-    "total_articles": 15
+    "generation_time": "2025-06-05 13:51:44",
+    "total_articles": 20
   },
   "articles": [
     {
-      "id": "38351b17ccee6b20481ebaa53971fbbd",
-      "title": "Gamers line up for Nintendo Switch 2 launch with global shortfall expected - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/nintendo-switch-2-launches-globally-with-shortages-expected-amid-pent-up-demand-2025-06-05/",
+      "id": "55da8e861ac3d10f25822a4f0fce5136",
+      "title": "How Nintendo dodged Trump’s tariffs and saved the Switch 2 release - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/games/2025/jun/05/nintendo-trump-tariffs-switch-2",
+      "image_url": "https://i.guim.co.uk/img/media/ba462ad93f50a62722df8442f02be2848bd2ee85/323_0_3851_3081/master/3851.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e30ab4e1cc864e5fca3028582b0195d6",
+      "summary": "Fund independent journalism with 30% off per year People wait outside the Nintendo store in New York for the release of the Switch 2. Photograph: Kylie Cooper/Reuters How Nintendo dodged Trump’s tariffs and saved the Switch 2 release Fortunate timing and government hesitation allowed the Switch 2 to come out on time, but the headache isn’t over Last modified on...",
+      "published": "Thu, 05 Jun 2025 12:00:00 GMT"
+    },
+    {
+      "id": "10cc33ef4574460020ef23213a6d801c",
+      "title": "iOS 19: All the rumored changes Apple could be bringing to its new operating system - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/06/04/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/apple-logo-pedestrian.jpg?resize=1200,798",
+      "summary": "iOS 19: All the rumored changes Apple could be bringing to its new operating system As Apple prepares to unveil iOS 19 at WWDC 2025 on Monday, several rumors have surfaced, including a potential new name for the operating system, an entirely new design inspired by the Vision Pro, and more. Here’s a roundup of the most notable features rumored...",
+      "published": "Wed, 04 Jun 2025 21:02:00 GMT"
+    },
+    {
+      "id": "84489a78c8e8a13477e65276ba335186",
+      "title": "Belkin's new line of Switch 2 accessories include a simple but effective charging case - Engadget",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/gaming/nintendo/belkins-new-line-of-switch-2-accessories-include-a-simple-but-effective-charging-case-230019750.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/pyiT_Jny0kFSxciO5gIFxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/a350c670-417e-11f0-97f9-2d59167b6ae7",
+      "summary": "How to buy the Nintendo Switch 2 Apple WWDC 2025: What we expect Nintendo Switch 2: Our final hands-on. .. Prime Day 2025: What you need to know Belkin's new line of Switch 2 accessories include a simple but effective charging case The veteran accessory maker is also offering a travel case and screen protectors. Wed, Jun 4, 2025, 7:00...",
+      "published": "Wed, 04 Jun 2025 23:00:19 GMT"
+    },
+    {
+      "id": "ebd84ad2bdc455491be8eb968a799814",
+      "title": "PlayStation State of Play June 2025: Everything Announced - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/playstation-state-of-play-june-2025-everything-announced",
+      "image_url": "https://assets-prd.ignimgs.com/2025/06/04/ps5-pro-handsonpreview-blogroll-1727223976585-1749070066327.jpg?width=1280",
+      "summary": "PlayStation State of Play June 2025: Everything Announced A first look at 007 First Light, Marvel Tokon Fighting Souls, Silent Hill f's release date, Final Fantasy Tactics, The Ivalice Chronicles, and more. PlayStation's latest State of Play revealed a bit of the exciting future of PS5, and it included a first look at 007 First Light, the reveal of Arc...",
+      "published": "Wed, 04 Jun 2025 23:03:45 GMT"
+    },
+    {
+      "id": "b5a947e036a548cbcffe9958d2411741",
+      "title": "Samsung Galaxy Z Fold7 and Z Flip7 unveiling location outed - GSMArena.com news - GSMArena.com",
+      "source": "GSMArena.com",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold7_and_z_flip7_unveiling_location_outed-news-68111.php",
+      "image_url": "https://fdn.gsmarena.com/imgroot/news/25/06/samsung-unpacked-location-rumor/-952x498w6/gsmarena_000.jpg",
+      "summary": "We use technology such as cookies on our site to collect and use personal data to personalize content and ads, to provide social media features and to analyse our traffic. We may share your cookies with third party vendors and service providers. Samsung Galaxy Z Fold7 and Z Flip7 unveiling location outed Samsung is expected to unveil the Galaxy Z...",
+      "published": "Wed, 04 Jun 2025 20:32:02 GMT"
+    },
+    {
+      "id": "8c985c95c163cb727e707e14afddfb58",
+      "title": "Reddit users can now hide posts, comments, and NSFW history - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/679328/reddit-update-hide-comments-posts-user-profiles",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK115_Reddit_03.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "Reddit users can now hide posts, comments, and NSFW historyContent from entire subreddits can be hidden on user profiles, but not individual posts. Jess Weatherbed is a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews. Reddit has a new privacy feature that gives users more control over...",
+      "published": "Wed, 04 Jun 2025 14:19:03 GMT"
+    },
+    {
+      "id": "47c0e548377939cd16c85c1321fbec29",
+      "title": "OnePlus Pad 3 arrives with Snapdragon 8 Elite inside - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/680283/oneplus-pad-3-tablet-launch-price-specs-snapdragon-8-elite",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Erhai_Blue_-Product-Stills.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "summary": "OnePlus Pad 3 arrives with Snapdragon 8 Elite inside﻿Despite that power, it’s thinner than an iPad Air. The Pad 3 has already launched in China twice, first as the Oppo Pad 4 Pro, and then as the OnePlus Pad 2 Pro. Image: OnePlus Dominic Preston is a news editor with over a decade’s experience in journalism. He previously worked at...",
+      "published": "Thu, 05 Jun 2025 11:22:19 GMT"
+    },
+    {
+      "id": "1cd02d329e4b7a55474a337d9a6f995b",
+      "title": "Samsung’s Galaxy S25 Edge Shows the Limits of Impressively Thin Phones - Bloomberg",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/features/2025-06-04/samsung-galaxy-s25-edge-review-thin-design-unimpressive-battery-life-1-100",
       "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Wed, 04 Jun 2025 16:00:38 GMT"
+    },
+    {
+      "id": "7451baba3628a84349a47cfc2eb0ffb1",
+      "title": "NYT Strands hints today, June 4, 2025: Spangram, theme, and answers to solve today’s brain teaser - The Economic Times",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUXhMcUNXZWowY2VkTVk5NndhUXN1MnBkLUdCVnk0Z3BDMUZ1bWRmNFhHUlU2aVhLYXBnYlVOMmNkcjFIWkR2TmI2SUVTOVhDdWlDQXJkV1NtTFFfS1BUNVdwdjl2UkdOdWRVdnpBeERZeXdlOXozMGhadm5LOUM4WFVUcnIwX3N1MDlJWmEwNHNOM3dSNnBpNVpQZUlhUkNhc2NncVA0RHE5SVk3OG9LRFg0dWJJYUJqbWxuLUp0UEtVVTNYZnVpY084MlhHZy1uUnIzTjBvRGl0VG1QcVdyMkQ4T0FQMHo0dTBhTURlNDRDZTlQLXFyeUtjYw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Thu, 05 Jun 2025 05:06:00 GMT"
-    },
-    {
-      "id": "157fc4b1ad20fc526149b602542c9a5a",
-      "title": "CD Projekt Red clarifies Unreal showcase of Witcher 4 was tech demo, not gameplay - GamesIndustry.biz",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/cd-projekt-red-clarifies-unreal-showcase-of-witcher-4-was-tech-demo-not-gameplay",
-      "image_url": "https://assetsio.gnwcdn.com/ciri-witcher-4_uO5Sykt.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "summary": "If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. CD Projekt Red clarifies Unreal showcase of Witcher 4 was tech demo, not gameplay \"This is a tech demo, and a first look at the cutting-edge technology powering The Witcher 4 – but not The Witcher 4 itself,\" says developer...",
-      "published": "Wed, 04 Jun 2025 08:32:59 GMT"
-    },
-    {
-      "id": "15da281670738c209b8669f5bd7cbe4d",
-      "title": "James Bond game 007 First Light gets first trailer - theverge.com",
-      "source": "theverge.com",
-      "url": "https://www.theverge.com/news/679909/007-first-light-trailer-james-bond",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/image-1_5bc5e1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "James Bond game 007 First Light gets first trailerMore will be revealed later this week. Andrew Webster is an entertainment editor covering streaming, virtual worlds, and every single Pokémon video game. Andrew joined The Verge in 2012, writing over 4,000 stories. Sony’s showcase had a pleasant surprise: the debut trailer for 007 First Light. The James Bond game — which...",
-      "published": "Wed, 04 Jun 2025 21:52:42 GMT"
+      "published": "Wed, 04 Jun 2025 12:14:42 GMT"
     },
     {
       "id": "6fbeebf84c93b591a74d530772e2a2fa",
@@ -51,31 +105,67 @@
       "published": "Wed, 04 Jun 2025 19:56:31 GMT"
     },
     {
-      "id": "05252e8dab6facc46193d1a2a6a85952",
-      "title": "Samsung confirms the Galaxy Z Fold 7 will bring bigger cover and foldable displays - SamMobile",
-      "source": "SamMobile",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR1VwLWNRNVpnVkQtbVkyTXhIOEdZV3F3LVB1SHRZU1gwNnJfZ3RVU3phLVhOZ181QzRnSG5lU0NudnNIQ1lqdFdqTFJ5amtUZmRQNVRUTUYwMjUzam1zUUpmR0RHS2RiVUI3M3VXNTN1TGY5UmZydC1PencyZDY5UWE5TEdjNjdvS2Y0MTZHWQ?oc=5",
+      "id": "2773f9c5abb8340a49b6726a83942a8e",
+      "title": "WhatsApp to let users build their own AI chatbots to use in the app - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yUEJOYUtFTEF5MDFVX0FTd2xGWG5wTUQxV0dzNEZYcnduQzQtSGZxNFdueUlQcWNSdXVxM2d4bE8xSk1JTEdmLVRfZG93eVBDbFBJZ1c4MmFIdWJWY2lSMA?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Tue, 03 Jun 2025 23:03:45 GMT"
+      "published": "Wed, 04 Jun 2025 20:52:00 GMT"
     },
     {
-      "id": "ebd84ad2bdc455491be8eb968a799814",
-      "title": "PlayStation State of Play June 2025: Everything Announced - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/playstation-state-of-play-june-2025-everything-announced",
-      "image_url": "https://assets-prd.ignimgs.com/2025/06/04/ps5-pro-handsonpreview-blogroll-1727223976585-1749070066327.jpg?width=1280",
-      "summary": "PlayStation State of Play June 2025: Everything Announced A first look at 007 First Light, Marvel Tokon Fighting Souls, Silent Hill f's release date, Final Fantasy Tactics, The Ivalice Chronicles, and more. PlayStation's latest State of Play revealed a bit of the exciting future of PS5, and it included a first look at 007 First Light, the reveal of Arc...",
-      "published": "Wed, 04 Jun 2025 23:03:45 GMT"
+      "id": "33005f5a74b691692f19d528f4f52442",
+      "title": "AMD Has Reportedly Sent Out Limited Radeon RX 9060 XT 8GB Variants To Reviewers, Claims Distribution Is Tailored to Regional Demand - Wccftech",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/amd-has-reportedly-sent-out-limited-radeon-rx-9060-xt-8-gb-variants-to-reviewers/",
+      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2025/05/RX-9060-XT.png",
+      "summary": "We use technology such as cookies on our site to collect and use personal data to personalize content and ads, to provide social media features and to analyse our traffic. We may share your cookies with third party vendors and service providers. AMD Has Reportedly Sent Out Limited Radeon RX 9060 XT 8GB Variants To Reviewers, Claims Distribution Is Tailored...",
+      "published": "Wed, 04 Jun 2025 17:55:00 GMT"
     },
     {
-      "id": "b23fbbe395e764d92e4fa3876054390b",
-      "title": "Nintendo's day-one update for the Switch 2 is just a big 'ON' switch - Engadget",
+      "id": "ac624518f5d0ebc736b404d29174105d",
+      "title": "Returning to Nintendo Games Helped Heal My Inner Child - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/05/arts/nintendo-games-switch-pokemon-zelda-mario.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Thu, 05 Jun 2025 10:35:43 GMT"
+    },
+    {
+      "id": "ec1bde1e8639f95702e91f953729116a",
+      "title": "James Bond game 007 First Light gets first trailer - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/679909/007-first-light-trailer-james-bond",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/image-1_5bc5e1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "James Bond game 007 First Light gets first trailerMore will be revealed later this week. Andrew Webster is an entertainment editor covering streaming, virtual worlds, and every single Pokémon video game. Andrew joined The Verge in 2012, writing over 4,000 stories. Sony’s showcase had a pleasant surprise: the debut trailer for 007 First Light. The James Bond game — which...",
+      "published": "Wed, 04 Jun 2025 21:52:03 GMT"
+    },
+    {
+      "id": "5fa2b1123192e6e0cee061f1727b6a4c",
+      "title": "Mario Kart World 1.1.0 update out now, patch notes - Nintendo Everything",
+      "source": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/mario-kart-world-1-1-0-update-out-now-patch-notes/",
+      "image_url": "https://nintendoeverything.com/wp-content/uploads/Mario-Kart-World-update-1.1.0.jpg",
+      "summary": "Switch 2SwitchSwitch eShopamiiboMobile Rune Factory: Guardians of Azuma review for Nintendo Switch – also coming to Switch 2 [Let’s Talk] What are you playing? – June 2025 Mario Kart World 1. 1.0 update out now, patch notes Posted on June 4, 2025 by Brian(@NE_Brian) in News, Switch 2 Alongside the launch of Mario Kart World, Nintendo has prepared a version...",
+      "published": "Wed, 04 Jun 2025 12:37:04 GMT"
+    },
+    {
+      "id": "d77b851805fcfe9c7c829b6fa5830ef4",
+      "title": "Random: One GameStop Apparently Stapled Receipts To Brand New Switch 2 Boxes, And Guess What Happened... - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2025/06/random-one-gamestop-apparently-stapled-receipts-to-brand-new-switch-2-boxes-and-guess-what-happened",
+      "image_url": "https://images.nintendolife.com/94e6e3093881d/large.jpg",
+      "summary": "Nintendo Switch 2 News Reviews Features Games Guides Videos Forums Better eShop RandomGameStopNintendoNintendo Switch 2 Random: One GameStop Apparently Stapled Receipts To Brand New Switch 2 Boxes, And Guess What Happened. .. Image: Nintendo Life / Pexels / DS Stories So, there you are, in the midnight launch line to collect your brand-spanking-new Nintendo Switch 2. It's been a bit...",
+      "published": "Thu, 05 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "id": "69635552610b4afe5f210874497a007f",
+      "title": "Nintendo rolls out Switch 2 updates for Super Mario Odyssey and other Switch games - Engadget",
       "source": "Engadget",
-      "url": "https://www.engadget.com/gaming/nintendo/nintendos-day-one-update-for-the-switch-2-is-just-a-big-on-switch-175136898.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/DRlE6aM09QBhMasVqpfp0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-04/27d92df0-0fe4-11f0-bedd-816580639da6",
-      "summary": "How to buy the Nintendo Switch 2 Apple WWDC 2025: What we expect Nintendo Switch 2: Our final hands-on. .. Prime Day 2025: What you need to know Nintendo's day-one update for the Switch 2 is just a big 'ON' switch The console was borderline bricked until launch day to help prevent leaks. Updated Wed, Jun 4, 2025, 1:51 PM...",
-      "published": "Wed, 04 Jun 2025 17:51:42 GMT"
+      "url": "https://www.engadget.com/gaming/nintendo/nintendo-rolls-out-switch-2-updates-for-super-mario-odyssey-and-other-switch-games-174202849.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/lUy6jfwsjydb69WO3pr0uQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/f950b110-4166-11f0-bedf-ef288aef6e3b",
+      "summary": "How to buy the Nintendo Switch 2 Apple WWDC 2025: What we expect Nintendo Switch 2: Our final hands-on. .. Prime Day 2025: What you need to know Nintendo rolls out Switch 2 updates for Super Mario Odyssey and other Switch games 12 first-party titles get next-gen enhancements. Wed, Jun 4, 2025, 1:42 PM EDT·2 min read As promised, Nintendo...",
+      "published": "Wed, 04 Jun 2025 17:42:02 GMT"
     },
     {
       "id": "fbbf16ee12abcb9e30109e39521f002a",
@@ -87,58 +177,13 @@
       "published": "Tue, 03 Jun 2025 15:03:54 GMT"
     },
     {
-      "id": "9b49fc55701a02f3fbdee402910a241f",
-      "title": "Your OG Switch Isn’t Quite Dead Yet, Even in the Switch 2 Era - Gizmodo",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/your-og-switch-isnt-quite-dead-yet-even-in-the-switch-2-era-2000611066",
-      "image_url": "https://gizmodo.com/app/uploads/2025/06/nintendo-switch-2-hands-on-15-1200x675.jpg",
-      "summary": "Your OG Switch Isn’t Quite Dead Yet, Even in the Switch 2 Era Beyond patches to upgrade frame rates and resolution, you'll be able to use your OG Switch to play games alongside the Switch 2. Published June 4, 2025 | Comments (8) | Don’t abandon your OG Switch just yet, even if you’re jonesing to break the seal on...",
-      "published": "Wed, 04 Jun 2025 14:35:14 GMT"
-    },
-    {
-      "id": "5fa2b1123192e6e0cee061f1727b6a4c",
-      "title": "Mario Kart World 1.1.0 update out now, patch notes - Nintendo Everything",
-      "source": "Nintendo Everything",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUUc2NXdUS2xvdGIyLWNPU01yVTBQaHBZUkI3R0lNM29iU3RIQnF6QVA5VXotd0I0bTZiOUNGWVJNUnhOS3M3SG9tMnY3RFZtZVNZUTZUaThBTnllWGRoaUcwbTMtM25fQUJ4ZmVzSmF1WDR3T0RBN1lDYUpNVUVNZnI3Z2ZfakY0?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 04 Jun 2025 12:37:04 GMT"
-    },
-    {
-      "id": "e1f6520ee59657c352957847bdea5871",
-      "title": "Final Fantasy Tactics Remake Is Happening: Trailer And Release Date Announced During State Of Play - GameSpot",
-      "source": "GameSpot",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOE5uTFVtT1ZlcVh5bkE3V1dLRmk4bjFUa3Z5dHZ4RHgxc3M1MkxaSDloVFI4YU9TSDNWSjZFYzZ5dzdPQjlibGxXbGo2U0dRcDlZVlJpYlQzeGppTEp1b0tWUXM2LVlRb2l2aUNOZ0lGQXkxUmxzOXQ4d3RJSElWQlhCLXEwSkdaVUxNb0FGbFNJTGMtenFmZGdkT25EbVhoMHBwSmE0UGxVR0hOc2hmRlFabjQ2UHVEdkx6cGtyRW1XTXZrdFBJQmlMSkt3Qm9jR3BuN0g2THlsNXBYVUE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 04 Jun 2025 22:37:09 GMT"
-    },
-    {
-      "id": "4d7933f8276b077e56d41a8a032cf407",
-      "title": "Meta found 'covertly tracking' Android users through Instagram and Facebook - Sky News",
-      "source": "Sky News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRTh5dm5TNG1BUmQzV0lhNDc3OEl0Q3pNUHptWk9SakN2SVpGZWpRa0VZUDdtQ3VqeXdTYkxWZVpxbENsTWI0QV93c3lmZV95bGE2dDJ2a09XN3QwOFNrZTRDeF95X3JqT1Q0VHNBOEFob1ctWXJpNW5IMFlOWlpxUl9LTTJlNzdFQnU1OXRic1d1dGZySnZoblRYQ3BJT2JXOW9uQ3liNEZneFE1Q2c?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 04 Jun 2025 15:47:35 GMT"
-    },
-    {
-      "id": "b931c0e5340f5d00aab31e8dc28a2a1a",
-      "title": "Elden Ring Nightreign haters: Bloodborne is right there - Polygon",
-      "source": "Polygon",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNXzM1LUJsMmFadVhBUTFTQlo1cWI1Y0EzTldGenFXSXRUdHI0MGdQaF9zNjB2LUVkdUt3anVLWkstVkxiOXY1bnV4Y1F3M3RiQzJPdkF3c3VDN1l4OU9mQ0tHRmFLc0tsbWxUeElPS3JaN0Z3ZU5DY2pVdWpGTVl1TW9sNkFiZzlWOHA3NmpCT0lLS09LdGlidDRZV2FkZ0J3eDZPb2NQS2FwSjB2T2VVWQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 04 Jun 2025 15:00:00 GMT"
-    },
-    {
-      "id": "f446c6c511e9738b68a6a228e9758e05",
-      "title": "No Man's Sky Gets A Massive Switch 2 Upgrade And It's All Free - Kotaku",
-      "source": "Kotaku",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQlN1T2RNbThfUXYya0xocFdvTEE3ZllQUi05WmJkNmRudk9OcG9FUHVtbWEwb3h6VzZta2tiVkFNR0lmT1dtbEFYSlJvZHZNXzRhcWUweG5lN1ZPM3JJTFI1NlpUbHBzVW5tSjRDM0poRW9sMlE2TEJLWHoxeTNRMW04MA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 04 Jun 2025 13:00:00 GMT"
+      "id": "ea5b72f5703dee8ffcfce74542aa5c85",
+      "title": "Long-rumoured Final Fantasy Tactics remaster is real - Eurogamer",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/long-rumoured-final-fantasy-tactics-remaster-is-real",
+      "image_url": "https://assetsio.gnwcdn.com/FFT_TIC_mediakit_KV_01-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "Summer Games Fest & IGN Live Schedule If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News Final Fantasy Tactics Long-rumoured Final Fantasy Tactics remaster is real UPDATE: \"The will to resist is in your hands,\" says director. News by Ed Nightingale Deputy News Editor UPDATE 05/06/25: Original...",
+      "published": "Thu, 05 Jun 2025 08:50:33 GMT"
     }
   ]
 }
