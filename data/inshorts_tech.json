@@ -1,153 +1,18 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-04 19:21:38",
-    "total_articles": 20
+    "generation_time": "2025-06-05 02:38:33",
+    "total_articles": 17
   },
   "articles": [
     {
-      "id": "c1e35b18e50bf5c17deb5eb9533da5bd",
-      "title": "How I plan to review the Nintendo Switch 2 - The Verge",
+      "id": "74dab005b39c060e007273caa004e3aa",
+      "title": "Here’s how to buy a Nintendo Switch 2 at launch - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/nintendo/679346/nintendo-switch-2-review-guidelines-plan-launch",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257672_switch_2_OGrove_0004.jpg?quality=90&strip=all&crop=18.78671875%2C19.151244310619%2C78.04921875%2C61.181661571767&w=1200",
-      "summary": "How I plan to review the Nintendo Switch 2Nintendo isn’t sending the press early units, but that’s not necessarily a bad thing. Photo by Owen Grove / The Verge Andrew Webster is an entertainment editor covering streaming, virtual worlds, and every single Pokémon video game. Andrew joined The Verge in 2012, writing over 4,000 stories. Reviewing a new video game...",
-      "published": "Wed, 04 Jun 2025 15:47:54 GMT"
-    },
-    {
-      "id": "df7512d3e64e9afabc29d06cefc102ff",
-      "title": "Review: At $349, AMD’s 16GB Radeon RX 9060 XT is the new midrange GPU to beat - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2025/06/review-at-349-amds-16gb-radeon-rx-9060-xt-is-the-new-midrange-gpu-to-beat/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/IMG_3087-1152x648.jpeg",
-      "summary": "Review: At $349, AMD’s 16GB Radeon RX 9060 XT is the new midrange GPU to beat If that $349 price is real then it's a great deal; if it's not real, it depends. ASRock's version of AMD's 16GB Radeon RX 9060 XT. Credit: Andrew Cunningham Now that most of Nvidia's GeForce RTX 50-series graphics cards have been released, it's clear...",
-      "published": "Wed, 04 Jun 2025 17:42:55 GMT"
-    },
-    {
-      "id": "500b29f13581d44752ce3675f439546e",
-      "title": "Ex-Apple Designer Reveals 'Living Glass' iOS 26 Concepts - MacRumors",
-      "source": "MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWVwZjlkUTBpMzNXNk95OWM0TDlyNmYzblBGZEY1UFJIZUFzYmx4ZmxvX0RSNEhYRDlFZTZuanV6R2hwakhwZ2gzTGZBeF9nR0prZ0FIa0p4bTNGN1FlYXJnYnNiQmRfdXJUZkhmNVpUd1RVMlhERkpnSjBMSUUwemhkazZFR2Jl?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 04 Jun 2025 11:17:01 GMT"
-    },
-    {
-      "id": "c9c7f72b00d2f85729890653ed982572",
-      "title": "Samsung teases a Galaxy Z Fold Ultra - Engadget",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/mobile/smartphones/samsung-teases-a-galaxy-z-fold-ultra-140020512.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/wVbiwhUSDG4kjke68EOVWw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjE7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/0aea0dd0-4122-11f0-a5aa-c62e02499b35",
-      "summary": "How to buy the Nintendo Switch 2 Apple WWDC 2025: What we expect Nintendo Switch 2: Our final hands-on. .. Prime Day 2025: What you need to know Samsung teases a Galaxy Z Fold Ultra It will apparently come with AI optimized for the foldable format. Wed, Jun 4, 2025, 4:45 AM PDT·1 min read Samsung has published a blog...",
-      "published": "Wed, 04 Jun 2025 11:45:20 GMT"
-    },
-    {
-      "id": "80c2fa15f06639608380d9e6b376e5a8",
-      "title": "Meta pauses mobile port tracking tech on Android after researchers cry foul - theregister.com",
-      "source": "theregister.com",
-      "url": "https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/",
-      "image_url": "https://regmedia.co.uk/2019/04/30/zuck-private.jpg",
-      "summary": "Meta pauses mobile port tracking tech on Android after researchers cry foul Zuckercorp and Yandex used localhost loophole to tie browser data to app users, say boffins Security researchers say Meta and Yandex used native Android apps to listen on localhost ports, allowing them to link web browsing data to user identities and bypass typical privacy protections. Following the disclosure,...",
-      "published": "Tue, 03 Jun 2025 23:18:00 GMT"
-    },
-    {
-      "id": "054dd36a19e4521946dc6aaca2281ace",
-      "title": "Google Pixel 10 series official launch may have been delayed - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/google-pixel-10-new-launch-date/",
-      "image_url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/google-pixel-9-pro-home-screen-android-15.jpg",
-      "summary": "Google Pixel 10 series official launch may have been delayed Google Pixel 10 launch has reportedly been delayed, so don't expect it to go official on August 13. Pre-orders for the Pixel 10 will start on launch day, with shipping starting one week after the launch date. You'll be able to buy the Google Pixel 10 from stores towards the...",
-      "published": "Wed, 04 Jun 2025 11:34:00 GMT"
-    },
-    {
-      "id": "7d5d71ddf4b150da030eb8d8fbbb9899",
-      "title": "Amazon US drops Samsung Galaxy S25 Ultra to its lowest price yet for Father's Day - GSMArena.com news - GSMArena.com",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/amazon_us_drops_samsung_galaxy_s25_ultra_to_its_lowest_price_yet_for_fathers_day-news-68099.php",
-      "image_url": "https://fdn.gsmarena.com/imgroot/news/25/06/samsung-galaxy-s25-ultra-fathers-day/-952x498w6/gsmarena_000.jpg",
-      "summary": "Amazon US drops Samsung Galaxy S25 Ultra to its lowest price yet for Father's Day Father’s Day is on Sunday next week – did you get your dad anything yet? If not, you still have time to pick up an impressive gift, the Samsung Galaxy S25 Ultra. It’s a pricey gift usually, but Amazon’s Father’s Day promo campaign knocks $300...",
-      "published": "Wed, 04 Jun 2025 14:22:02 GMT"
-    },
-    {
-      "id": "ce0fb908d59fdb6eace0f5cd77bfed9f",
-      "title": "iOS 26 to Upgrade CarPlay in Two Ways - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2025/06/04/ios-26-to-upgrade-carplay-in-two-ways/",
-      "image_url": "https://images.macrumors.com/t/h_orPA_L3lf7fobEsZpyBLseAaY=/1600x/article-new/2025/03/CarPlay-Hero.jpg",
-      "summary": "iPhone 16eWWDC 2025iOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad minimacOS 26 TahoeApple Watch 10iPhone 18CarPlayApple Pay iOS 26 to Upgrade CarPlay in Two Ways Wednesday...",
-      "published": "Wed, 04 Jun 2025 13:24:29 GMT"
-    },
-    {
-      "id": "94d9a63f29848f3d4ac3134dca5a8711",
-      "title": "Today's NYT Strands Hints (and Answer) for Wednesday, June 4, 2025 - Lifehacker",
-      "source": "Lifehacker",
-      "url": "https://lifehacker.com/entertainment/strands-nyt-hint-today-monster-quest-june-4-2025",
-      "image_url": "https://lifehacker.com/imagery/articles/01JWTWTZARWQ4PAQABMCVR96SQ/hero-image.fill.size_1200x675.jpg",
-      "summary": "View our Bluesky Page (Opens in a new tab) View our Instagram Page (Opens in a new tab) View on Facebook Page (Opens in a new tab) View our Youtube Page (Opens in a new tab) View our Twitter Page (Opens in a new tab) Today's NYT Strands Hints (and Answer) for Wednesday, June 4, 2025 Here are some hints...",
-      "published": "Wed, 04 Jun 2025 04:00:00 GMT"
-    },
-    {
-      "id": "ed04fcf3fdc0693f4ea7f5aba407401f",
-      "title": "LG’s first 5K ultra-wide monitor with Thunderbolt 5 is made for data crunchers - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/679535/lg-ultrafine-40wt95uf-monitor-display-thunderbolt-5-5k",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/lg_ultrafine1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "LG’s first 5K ultra-wide monitor with Thunderbolt 5 is made for data crunchersIts 21:9 aspect ratio and 5K resolution provides lots of room for organizing apps and windows. This is LG’s first 5K display to get a Thunderbolt 5 upgrade. Image: LG Andrew Liszewski is a senior reporter who’s been covering and reviewing the latest gadgets and tech since 2006,...",
-      "published": "Wed, 04 Jun 2025 17:22:11 GMT"
-    },
-    {
-      "id": "ed44c705295b4fc36ca8108feb43c9d8",
-      "title": "Gemini in Google Drive adding ‘Catch me up’ command - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aLWFKdWFsT1VDajVfODdiWXctTnl5UkltcGYwWlRPVS11MUtkWWdTaVhWN1VXY1FMcTM2c1BjMW9WVmNmcUowX3pPU09jYmkxQXlhaEZpWV9QYnFsMVp1eVp0WEJ2bU96Zjdld2wwTUVvdGFi?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 03 Jun 2025 23:03:00 GMT"
-    },
-    {
-      "id": "527d21d2d929b341b98b5f43b359379f",
-      "title": "Samsung is deleting inactive accounts, here’s how to save yours - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWFLUmFIUV9MYWlBdnktTGxWOGVnQkpRbkRIeUNTTy11OHJud3o2RW9BMG9qX0w5aE1PYlQ0b0hHUnRzMVhXSll0aG1CNEItUHVaRHZUQ3JuTms4dE1Wa1FvQXAxNW04SVNkUHhqcVFvbjQ4WEREZWx1UklSYXlXdU9ZaGNhX2lsNVB2YWZ1S3FMYjJKcVY4WUhZYm8?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 03 Jun 2025 16:38:00 GMT"
-    },
-    {
-      "id": "732be5e4eba8d9f91b7a72b3bf597371",
-      "title": "I Paid for a MasterClass in AI and It's Been Worth Every Penny - CNET",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/services-and-software/i-paid-for-a-masterclass-in-ai-its-been-worth-every-penny/",
-      "image_url": "https://www.cnet.com/a/img/resize/525bf7eb4aba466b4a4276813f75036b9f8b3afc/hub/2024/10/14/30912d0e-b65e-42a6-a561-304e5be83784/gettyimages-2026262347.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "summary": "Our expert, award-winning staff selects the products we cover and rigorously researches and tests our top picks. If you buy through our links, we may get a commission. Reviews ethics statement I Paid for a MasterClass in AI and It's Been Worth Every Penny I learned so much from a 90-minute video series that taught me how to use generative...",
-      "published": "Wed, 04 Jun 2025 13:00:00 GMT"
-    },
-    {
-      "id": "a45041569df765937c2e1c1b6a486ffa",
-      "title": "Nintendo Switch 2 Updates for Mario, Zelda, Pokémon Switch Games Now Live, Including Unavailable Super Mario 3D All-Stars — Here Are All the Patch Notes - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-updates-for-mario-zelda-pokmon-switch-games-now-live-including-unavailable-super-mario-3d-all-stars-here-are-all-the-patch-notes",
-      "image_url": "https://assets-prd.ignimgs.com/2021/11/04/mario64prosreactbr-1583532853445-1626029811433-1635993526668.jpg?width=1280",
-      "summary": "Nintendo Switch 2 Updates for Mario, Zelda, Pokémon Switch Games Now Live, Including Unavailable Super Mario 3D All-Stars — Here Are All the Patch Notes Nintendo has released a wave of patches for many of its biggest Switch games, ahead of Switch 2's arrival. These free updates are now available to download, and include a fresh version of Super Mario...",
-      "published": "Wed, 04 Jun 2025 10:02:01 GMT"
-    },
-    {
-      "id": "316c29d0a69457d97ae3740f66a94efa",
-      "title": "Google quietly paused the rollout of its AI-powered ‘Ask Photos’ search feature - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/678858/google-photos-ask-photos-ai-search-rollout-pause",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB353_GOOGLE_PHOTOS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "Google quietly paused the rollout of its AI-powered ‘Ask Photos’ search feature﻿‘Ask Photos isn’t where it needs to be,’ says a product manager for Google Photos. Image: Cath Virginia / The Verge Hayden Field is The Verge’s senior AI reporter. An AI beat reporter for more than five years, her work has also appeared in CNBC, MIT Technology Review, Wired...",
-      "published": "Tue, 03 Jun 2025 17:24:29 GMT"
-    },
-    {
-      "id": "5fa2b1123192e6e0cee061f1727b6a4c",
-      "title": "Mario Kart World 1.1.0 update out now, patch notes - Nintendo Everything",
-      "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/mario-kart-world-1-1-0-update-out-now-patch-notes/",
-      "image_url": "https://nintendoeverything.com/wp-content/uploads/Mario-Kart-World-update-1.1.0.jpg",
-      "summary": "Switch 2SwitchSwitch eShopamiiboMobile Rune Factory: Guardians of Azuma review for Nintendo Switch – also coming to Switch 2 [Let’s Talk] What are you playing? – June 2025 Mario Kart World 1. 1.0 update out now, patch notes Posted on June 4, 2025 by Brian(@NE_Brian) in News, Switch 2 Alongside the launch of Mario Kart World, Nintendo has prepared a version...",
-      "published": "Wed, 04 Jun 2025 12:37:04 GMT"
+      "url": "https://www.theverge.com/tech/679393/nintendo-switch-2-launch-release-buy-restock",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Nintendo-Switch-2-Lifestyle-Press-Image.jpg?quality=90&strip=all&crop=0,10.789000007469,100,78.421999985062",
+      "summary": "Here’s how to buy a Nintendo Switch 2 at launchSeveral retailers, including Walmart and GameStop, have confirmed both in-store and online availability. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Nintendo’s latest console arrives on June 5th. Image: Nintendo Brandon Widder is a senior editor overseeing deals, gift guides, and...",
+      "published": "Wed, 04 Jun 2025 18:33:42 GMT"
     },
     {
       "id": "157fc4b1ad20fc526149b602542c9a5a",
@@ -159,6 +24,123 @@
       "published": "Wed, 04 Jun 2025 08:32:59 GMT"
     },
     {
+      "id": "deee072170610d6ae2b9099622cca675",
+      "title": "Wyze Says ‘Screw It’ and Shoves a Camera Into Its Latest Smart Bulb - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/wyze-bulb-cam-smart-light-bulb-camera-2000611203",
+      "image_url": "https://gizmodo.com/app/uploads/2025/06/Wyze_Bulb_Cam_Shopify-04-1-1200x675.jpg",
+      "summary": "Wyze Says ‘Screw It’ and Shoves a Camera Into Its Latest Smart Bulb We can't decide if this is a great or terrible idea for your smart home. Published June 4, 2025 | Comments (10) | A famous meme once asked, “Why don’t we have both? ” Clearly Wyze agrees. Its latest smart home gadget is the Wyze Bulb Cam,...",
+      "published": "Wed, 04 Jun 2025 19:50:40 GMT"
+    },
+    {
+      "id": "e1f6520ee59657c352957847bdea5871",
+      "title": "Final Fantasy Tactics Remake Is Happening: Trailer And Release Date Announced During State Of Play - GameSpot",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/final-fantasy-tactics-remake-is-happening-trailer-and-release-date-announced-during-state-of-play/1100-6532075/",
+      "image_url": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4506876-tactics.jpg",
+      "summary": "Best Nightreign Classes/Tier List GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links. Final Fantasy Tactics Remake Is Happening: Trailer And Release Date Announced During State Of Play After months of rumors and speculation, Square Enix revealed the return of Final Fantasy's tactical spin-off with enhanced graphics and fully voiced character...",
+      "published": "Wed, 04 Jun 2025 22:37:09 GMT"
+    },
+    {
+      "id": "e5019774fd6f07ae86897422c95c0a03",
+      "title": "These iPhones, Macs, iPads may not support Apple’s new software - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2ZabngyTXJSdjFFczlJUVRWT3FZa1ZmcXNlZDd0TzM3a3NWelRIMVJtc0Ftc1ZhUzU1amhYazI1SmtsUXFTUHYyVnpTNG5mZ2xJU2hGdFlwejE4QTVrNXpqN0hQU2FzTERHNFh6RnYtZUNnOWV3QlJqS3NQOXhDSDRzcGYwcFhpdDA1X1pJNVJWcHJWX0NRd3ZPV0M?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 04 Jun 2025 14:06:00 GMT"
+    },
+    {
+      "id": "df7512d3e64e9afabc29d06cefc102ff",
+      "title": "Review: At $349, AMD’s 16GB Radeon RX 9060 XT is the new midrange GPU to beat - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2025/06/review-at-349-amds-16gb-radeon-rx-9060-xt-is-the-new-midrange-gpu-to-beat/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/IMG_3087-1152x648.jpeg",
+      "summary": "Review: At $349, AMD’s 16GB Radeon RX 9060 XT is the new midrange GPU to beat If that $349 price is real then it's a great deal; if it's not real, it depends. ASRock's version of AMD's 16GB Radeon RX 9060 XT. Credit: Andrew Cunningham Now that most of Nvidia's GeForce RTX 50-series graphics cards have been released, it's clear...",
+      "published": "Wed, 04 Jun 2025 17:42:55 GMT"
+    },
+    {
+      "id": "6fbeebf84c93b591a74d530772e2a2fa",
+      "title": "Endangered classic Mac plastic color returns as 3D-printer filament - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/macfilament-1152x648.jpg",
+      "summary": "Endangered classic Mac plastic color returns as 3D-printer filament Mac fan paid $900 to color-match iconic Apple beige-gray \"Platinum\" plastic for everyone. The Mac SE, released in 1987, was one of many classic Macs to use the \"Platinum\" color scheme. Credit: Apple / Polar Filament On Tuesday, classic computer collector Joe Strosnider announced the availability of a new 3D-printer filament...",
+      "published": "Wed, 04 Jun 2025 22:13:53 GMT"
+    },
+    {
+      "id": "70a6ba65caac6ff24d8831dfd8612ded",
+      "title": "Nintendo Switch 2 Day 1 Update Required for Backwards Compatibility, Nintendo Switch Online, Virtual Game Cards, eShop, More - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-day-1-update-required-for-backwards-compatibility-nintendo-switch-online-virtual-game-cards-eshop-more",
+      "image_url": "https://assets-prd.ignimgs.com/2025/04/04/switch2-blog-7-1743802230086.jpg?width=1280",
+      "summary": "Nintendo Switch 2 Day 1 Update Required for Backwards Compatibility, Nintendo Switch Online, Virtual Game Cards, eShop, More Nintendo Switch 2 requires a day one update to unlock major parts of the console's capabilities, including the ability to play Nintendo Switch 1 games. The new console is finally available right now in parts of the world where it is already...",
+      "published": "Wed, 04 Jun 2025 14:48:01 GMT"
+    },
+    {
+      "id": "7b07ebb0ad231b45d727c86a2b10b0c6",
+      "title": "OO7 First Light Reveals Our New Digital James Bond - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/007-first-light-reveals-new-james-bond-face-ps5-trailer-1851783647",
+      "image_url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/bfb725166a99ccabb7cd25ed810a4e8e.jpg",
+      "summary": "OO7 First Light Reveals Our New Digital James Bond IO Interactive revealed what the new James Bond looks like in the Hitman studio's upcoming game Today, during Sony’s big State of Play, IO Interactive revealed a new trailer for its upcoming James Bond game, 007 First Light. The big news out of the trailer is the first official reveal of...",
+      "published": "Wed, 04 Jun 2025 21:45:00 GMT"
+    },
+    {
+      "id": "500b29f13581d44752ce3675f439546e",
+      "title": "Ex-Apple Designer Reveals 'Living Glass' iOS 26 Concepts - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/06/04/ex-apple-designer-living-glass-ios-concepts/",
+      "image_url": "https://images.macrumors.com/t/kDzeH3mjXzULmHdfV15-meZ7iIo=/1920x/article-new/2025/06/sebastian-de-with-living-glass.jpg",
+      "summary": "iPhone 16eWWDC 2025iOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad minimacOS 26 TahoeApple Watch 10iPhone 18CarPlayApple Pay Ex-Apple Designer Reveals 'Living Glass' iOS 26 Concepts Wednesday...",
+      "published": "Wed, 04 Jun 2025 11:17:01 GMT"
+    },
+    {
+      "id": "2a482c272bed8e2d972374a3282e4778",
+      "title": "PlayStation State of Play June 2025: all the news and trailers - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/sony-playstation/678933/playstation-state-of-play-june-2025-news-trailers",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/8505e0a1230b09569c07f20041cb2632ed81790f.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "summary": "Updated Jun 4, 2025, 10:07 PM UTC PlayStation State of Play June 2025: all the news and trailers A busy week of gaming news continues. One day after Epic’s State of Unreal showcase, and just ahead of the Nintendo Switch 2 launch (and Summer Game Fest Live and the Xbox Games Showcase) Sony got in on the action with its...",
+      "published": "Wed, 04 Jun 2025 22:07:49 GMT"
+    },
+    {
+      "id": "1427f3be65eab7aa57871a7d4eabd703",
+      "title": "Here’s how much storage space the Switch 2 actually has - Polygon",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/nintendo-switch-2/603892/storage-space-capacity-size-ufs",
+      "image_url": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/switch2-hand-bg.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "summary": "Here’s how much storage space the Switch 2 actually has On paper? 256 GB. In practice, though… Michael McWhertor is a journalist with more than 17 years of experience covering video games, technology, movies, TV, and entertainment. Nintendo Switch 2 will launch with 256 GB of internal storage — eight times the storage size of the original Switch. But some...",
+      "published": "Wed, 04 Jun 2025 21:02:01 GMT"
+    },
+    {
+      "id": "c9c7f72b00d2f85729890653ed982572",
+      "title": "Samsung teases a Galaxy Z Fold Ultra - Engadget",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/mobile/smartphones/samsung-teases-a-galaxy-z-fold-ultra-140020512.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/wVbiwhUSDG4kjke68EOVWw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjE7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/0aea0dd0-4122-11f0-a5aa-c62e02499b35",
+      "summary": "How to buy the Nintendo Switch 2 Apple WWDC 2025: What we expect Nintendo Switch 2: Our final hands-on. .. Prime Day 2025: What you need to know Samsung teases a Galaxy Z Fold Ultra It will apparently come with AI optimized for the foldable format. Wed, Jun 4, 2025, 4:45 AM PDT·1 min read Samsung has published a blog...",
+      "published": "Wed, 04 Jun 2025 11:45:20 GMT"
+    },
+    {
+      "id": "5fa2b1123192e6e0cee061f1727b6a4c",
+      "title": "Mario Kart World 1.1.0 update out now, patch notes - Nintendo Everything",
+      "source": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/mario-kart-world-1-1-0-update-out-now-patch-notes/",
+      "image_url": "https://nintendoeverything.com/wp-content/uploads/Mario-Kart-World-update-1.1.0.jpg",
+      "summary": "Switch 2SwitchSwitch eShopamiiboMobile Rune Factory: Guardians of Azuma review for Nintendo Switch – also coming to Switch 2 [Let’s Talk] What are you playing? – June 2025 Mario Kart World 1. 1.0 update out now, patch notes Posted on June 4, 2025 by Brian(@NE_Brian) in News, Switch 2 Alongside the launch of Mario Kart World, Nintendo has prepared a version...",
+      "published": "Wed, 04 Jun 2025 12:37:04 GMT"
+    },
+    {
+      "id": "77a22f45dfd7c07cd4157545caae6709",
+      "title": "Elden Ring Nightreign Is About To Become Monster Hunter For Souls Sickos - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/elden-ring-nightreign-duos-dlc-roadmap-monster-hunter-1851783478",
+      "image_url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ec0d6add88841c54945950ada638d77f.png",
+      "summary": "Elden Ring Nightreign Is About To Become Monster Hunter For Souls Sickos New DLC, harder bosses, and a duos mode are coming later this year Image: FromSoftware / Bandai Namco If you’re playing Elden Ring Nightreign you’ve probably beaten a few bosses by now. Maybe you’ve finished the whole game. Maybe you’re already thirsting for more challenges to overcome in...",
+      "published": "Tue, 03 Jun 2025 16:35:00 GMT"
+    },
+    {
       "id": "fefaec45f32c79ae4ad4b91497619704",
       "title": "Review | 5 AI bots took our tough reading test. One was smartest — and it wasn’t ChatGPT. - The Washington Post",
       "source": "The Washington Post",
@@ -168,22 +150,13 @@
       "published": "Wed, 04 Jun 2025 17:00:00 GMT"
     },
     {
-      "id": "b931c0e5340f5d00aab31e8dc28a2a1a",
-      "title": "Elden Ring Nightreign haters: Bloodborne is right there - Polygon",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/gaming/602971/elden-ring-nightreign-haters-need-to-pick-up-this-10-year-old-masterpiece",
-      "image_url": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/Chalice_Ritual_Tombstone_1427134850.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "summary": "Elden Ring Nightreign haters need to pick up this 10-year-old masterpiece Bloodborne did procedurally generated co-op before it was cool Austin Manchester Austin Manchester is an NYC-based journalist covering all things gaming for Polygon. Elden Ring Nightreign has shot out of the gates, selling 2 million copies its first day, yet the critical and player reception hasn’t reached the same...",
-      "published": "Wed, 04 Jun 2025 15:00:00 GMT"
-    },
-    {
-      "id": "f456d64f505a16cc4670423bd5bd5779",
-      "title": "Behind the Curtain: Your AI survival kit - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2025/06/04/ai-cheat-sheet-chatgpt-grok-gemini-claude",
-      "image_url": "https://images.axios.com/H25kE5qdctsEDOgLqCQBeXUhwiE=/0x0:1920x1080/1366x768/2025/06/03/1748969848806.jpg",
-      "summary": "Behind the Curtain: Your AI survival kit Today is the Axios AI+ Summit in New York, starting at 2:30 p. m. ET, with top guests from business, science, entertainment and government. Watch the livestream. Anthropic CEO Dario Amodei's warning in our column last week about a looming AI-driven white-collar job apocalypse ignited a national conversation that pulled in everyone from...",
-      "published": "Wed, 04 Jun 2025 09:38:53 GMT"
+      "id": "ddc50c2816af0012b511dc7727f3b261",
+      "title": "Nintendo is updating even more games for the Switch 2 - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/679468/nintendo-switch-2-game-updates-more-titles",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/super-mario-bros-wonder.webp?quality=90&strip=all&crop=0%2C10.895917968326%2C100%2C78.208164063349&w=1200",
+      "summary": "Nintendo is updating even more games for the Switch 2The free updates will boost performance in Super Mario Wonder, Xenoblade Chronicles 3, and more. Super Mario Bros. Wonder. Image: Nintendo Emma Roth is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO. As Nintendo...",
+      "published": "Wed, 04 Jun 2025 16:04:49 GMT"
     }
   ]
 }
