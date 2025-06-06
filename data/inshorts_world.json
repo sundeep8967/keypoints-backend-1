@@ -1,54 +1,72 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-06 07:13:32",
-    "total_articles": 14
+    "generation_time": "2025-06-06 14:26:55",
+    "total_articles": 19
   },
   "articles": [
     {
-      "id": "d10f5d3eb282779d7cc7316329c7bc05",
-      "title": "Marco Rubio sanctions ICC for targeting US and Israel - BBC",
+      "id": "10d18572fe9d9f0972e6f62e67ae8fbe",
+      "title": "A Russian missile and drone attack across Ukraine kills 3 in the capital Kyiv - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-trump-80c8984bc2e52da0212da4e0d4cf8220",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Fri, 06 Jun 2025 10:57:00 GMT"
+    },
+    {
+      "id": "cab2d5afd57e410a507ff982039fc2d8",
+      "title": "North Korea refloats warship after failed launch - BBC",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ce80pl1xrllo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4db0/live/fb9a7c50-425e-11f0-b6e6-4ddb91039da1.jpg",
-      "summary": "Rubio sanctions ICC for 'targeting' Israel and US US Secretary of State Marco Rubio has announced his department will impose sanctions on four judges at the International Criminal Court (ICC) for \"illegitimate\" targeting of Israel and the US. The sanctions are in response to the ICC issuing arrest warrants for top Israeli officials, including Benjamin Netanyahu, and its investigation into...",
-      "published": "Thu, 05 Jun 2025 23:49:52 GMT"
+      "url": "https://www.bbc.com/news/articles/c79e4pr2qjro",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3469/live/5eef6600-4280-11f0-b226-f128677fd0ae.jpg",
+      "summary": "North Korea refloats warship after failed launch The 5,000-tonne destroyer, which was restored to balance earlier this week, was launched on Thursday and is now moored at a pier North Korea has reportedly refloated a warship after it capsized during a launch attempt, in an incident that drew harsh criticism from the country's leader Kim Jong Un. State-run news agency...",
+      "published": "Fri, 06 Jun 2025 09:34:28 GMT"
     },
     {
       "id": "ce8e9ca01aa92a85a2ee8c8c3400e12d",
       "title": "Trump connected his travel ban to the Boulder attack. Some Jews object. - The Washington Post",
       "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/nation/2025/06/05/jewish-reaction-travel-ban-colorado-attack/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TMBHH777Y7GHAMVXTR2DUSFRJU.JPG&w=1440",
-      "summary": "Trump connected his travel ban to the Boulder attack. Some Jews object. Some Jewish leaders object to Trump’s connecting his travel ban to the Boulder attack, saying it dilutes concerns about increasing antisemitism. Flowers and an Israeli flag are seen Monday at the site of Sunday's attack in Boulder, Colorado. (Chet Strange/Getty Images) By Ben Brasch and Michelle Boorstein When...",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNXdVUWpXbUZnamNCZXc3d202ZDhndnRMc2JoY3R6b01mUjYzU3FOdlJrTFd4LWxhY1NIU25icTR4QmEwSnV3R2Nib2tlSkM2RXdZdUdscEh2U2VONHZlRnZTaHpMUExfci00S0tWWFpIU0tNcmY0T3UtWTFJTDJUN1J1V0ptbEFnQ09fT3djcjV1Q0tiekRV?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Fri, 06 Jun 2025 03:59:00 GMT"
     },
     {
-      "id": "f2e310cbedf5d1ee7ce3f74f8a1c8fcb",
-      "title": "Israel launches several attacks on Beirut’s southern suburbs, south Lebanon - Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/6/5/israel-launches-several-attacks-on-beiruts-southern-suburbs",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/06/2025-06-05T202319Z_1739207128_RC2KWEAO6C8F_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON-1749156226.jpg?resize=1920%2C1440",
-      "summary": "Enrich your Al Jazeera experience by signing in or creating an account. Why is Israel still in southern Lebanon? A war to shape Lebanon’s future Sowing hope as Israeli bombs fell on Lebanon Israel launches several attacks on Beirut’s southern suburbs, south Lebanon This is the fourth time Israel has attacked the Lebanese capital since the November ceasefire with Hezbollah.",
-      "published": "Thu, 05 Jun 2025 22:52:30 GMT"
-    },
-    {
-      "id": "662f4cc08413cb74492ff2712cb981f0",
-      "title": "Russia Launches Broad Assault on Kyiv and Other Cities in Ukraine - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/05/world/europe/russia-missile-attack-ukraine-kyiv.html",
+      "id": "aed6a4a297d10b7b642a107a1333ec0f",
+      "title": "GHF suspends Gaza aid sites after shootings, Israeli shelling kills 10 in Jabalia - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-backed-gaza-humanitarian-foundation-says-all-aid-distribution-sites-are-2025-06-06/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Fri, 06 Jun 2025 06:07:10 GMT"
+      "published": "Fri, 06 Jun 2025 10:28:22 GMT"
     },
     {
-      "id": "4816a9ed3562b1114c44637b4916c848",
-      "title": "‘We’re right at the epicenter’ - Meduza",
-      "source": "Meduza",
-      "url": "https://meduza.io/en/feature/2025/06/05/we-re-right-at-the-epicenter",
-      "image_url": "https://meduza.io/imgly/share/1749148384/en/feature/2025/06/05/we-re-right-at-the-epicenter",
-      "summary": "‘We’re right at the epicenter’ In Siberian villages, locals react to Ukraine’s ‘Spiderweb’ attack on nearby airfield 6:33 pm, June 5, 2025Source: People of Baikal The village of Sredny, home to military families from the Belaya garrison On Sunday evening, around 5:00 p. m., what looked like an ordinary cargo truck pulled up near a roadside café in Russia’s Irkutsk...",
-      "published": "Thu, 05 Jun 2025 18:33:00 GMT"
+      "id": "3d3ca98f938121cdd96b8b7eab9d67f6",
+      "title": "Trump says it may be better to let Ukraine, Russia 'fight for a while' - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/06/nx-s1-5425195/trump-ukraine-russia-putin-merz",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5005x2814+0+94/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2F8e%2Fe2a6083943e68d378b30182a7a4c%2Fap25156583685877.jpg",
+      "summary": "Trump says it may be better to let Ukraine and Russia 'fight for a while' President Donald Trump, right, meets Germany's Chancellor Friedrich Merz in the Oval Office of the White House on Thursday. WASHINGTON — President Donald Trump said Thursday that it might be better to let Ukraine and Russia \"fight for a while\" before pulling them apart and...",
+      "published": "Fri, 06 Jun 2025 09:19:43 GMT"
+    },
+    {
+      "id": "a6d39c25c5f902ee55981c55cf2021a4",
+      "title": "UN human rights chief calls for US to withdraw sanctions on ICC judges - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce80pl1xrllo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4db0/live/fb9a7c50-425e-11f0-b6e6-4ddb91039da1.jpg",
+      "summary": "UN human rights chief calls for US to withdraw sanctions on ICC judges The UN's human rights chief has demanded the US government withdraw sanctions it imposed on Thursday against four judges at the International Criminal Court (ICC). In a statement, Volker Türk said \"attacks against judges\" run directly counter to \"respect for the rule of law and the equal...",
+      "published": "Fri, 06 Jun 2025 10:28:03 GMT"
+    },
+    {
+      "id": "ace20082460d3710ba01e574be4ee59b",
+      "title": "Israel strikes Beirut’s suburbs to target what it says is Hezbollah drone production - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/israel-lebanon-beirut-strikes-drones-29f76821e6a61884f270dcd482d789e0",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Fri, 06 Jun 2025 01:41:00 GMT"
     },
     {
       "id": "608f5262e7d2bf3112a0231a9a7154e2",
@@ -60,58 +78,85 @@
       "published": "Thu, 05 Jun 2025 20:32:00 GMT"
     },
     {
-      "id": "a150a7d5429f32d8be5955aa30beb3f0",
-      "title": "North Korea launches warship after earlier failed attempt - BBC",
+      "id": "d25bc48403834d38ff3e87c708d8d72c",
+      "title": "An Engineering Marvel, Decades in the Making: A Rail Line to Kashmir - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/06/world/asia/india-kashmir-train.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 06 Jun 2025 10:05:04 GMT"
+    },
+    {
+      "id": "46bdb1fe56af94496097ea8e4071b005",
+      "title": "Australia mushroom trial: Lunch cook tells trial meal was 'special' - BBC",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c79e4pr2qjro",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3469/live/5eef6600-4280-11f0-b226-f128677fd0ae.jpg",
-      "summary": "N Korea launches warship after earlier failed attempt The 5,000-tonne destroyer, which was restored to balance earlier this week, was launched on Thursday and is now moored at a pier North Korea has launched a warship two weeks after it was damaged during an earlier launch attempt, in an incident that drew harsh criticism from the country's leader Kim Jong...",
-      "published": "Fri, 06 Jun 2025 02:58:54 GMT"
+      "url": "https://www.bbc.com/news/articles/c5y8e1l55kko",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0ebe/live/115b9810-428e-11f0-af18-f7ba3808b1c2.jpg",
+      "summary": "Australian mushroom lunch cook tells trial meal was 'special' Tiffanie Turnbull, Katy Watson and Simon Atkinson Erin Patterson's trial has been running for six weeks An Australian woman accused of intentionally cooking a fatal mushroom lunch has told her trial she had wanted the beef Wellington meal to be \"special\". Erin Patterson has pleaded not guilty to murdering three people...",
+      "published": "Fri, 06 Jun 2025 05:17:04 GMT"
     },
     {
-      "id": "09b87f0367885082d4e3a202ecf1313c",
-      "title": "After Putin call, Trump suggests Ukraine, Russia should ‘fight for a while’ - The Washington Post",
+      "id": "4816a9ed3562b1114c44637b4916c848",
+      "title": "‘We’re right at the epicenter’ - Meduza",
+      "source": "Meduza",
+      "url": "https://meduza.io/en/feature/2025/06/05/we-re-right-at-the-epicenter",
+      "image_url": "https://meduza.io/imgly/share/1749148384/en/feature/2025/06/05/we-re-right-at-the-epicenter",
+      "summary": "‘We’re right at the epicenter’ In Siberian villages, locals react to Ukraine’s ‘Spiderweb’ attack on nearby airfield 6:33 pm, June 5, 2025Source: People of Baikal The village of Sredny, home to military families from the Belaya garrison On Sunday evening, around 5:00 p. m., what looked like an ordinary cargo truck pulled up near a roadside café in Russia’s Irkutsk...",
+      "published": "Thu, 05 Jun 2025 18:33:00 GMT"
+    },
+    {
+      "id": "fd878aa687a20f2b92555bfcc2729c37",
+      "title": "Maps show how far smoke from Canadian wildfires has spread - The Washington Post",
       "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/06/05/putin-trump-phone-call-retaliation-drones/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JMAEFLN5ZT2TAMJ73QCUTLRT6Y.JPG&w=1440",
-      "summary": "After Putin call, Trump suggests Ukraine, Russia should ‘fight for a while’ We and our third-party partners process personal data including through the use of cookies, pixels, and other tracking technologies to provide, analyze, and improve our services; personalize your experience (including content); and personalize ads on and off the services. Learn more and manage your preferences at our Privacy...",
-      "published": "Fri, 06 Jun 2025 04:54:58 GMT"
+      "url": "https://www.washingtonpost.com/weather/2025/06/06/canada-fires-smoke-maps/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USXMXT3H4A6ETZ7MEPMWMGNLBQ.jpg&w=1440",
+      "summary": "Maps show how far smoke from Canadian wildfires has spread Smoke from wildfires in Canada has spread more than 5,000 miles. In the past week, it has reached parts of Russia and Europe. Smoke from wildfires has spread more than 5,000 miles from Canada to Russia. (Ben Noll/The Washington Post/Data source: Copernicus Atmosphere Monitoring Service) Smoke from hundreds of wildfires...",
+      "published": "Fri, 06 Jun 2025 11:47:16 GMT"
     },
     {
-      "id": "db1e36ff038877f0762c51d903447458",
-      "title": "A Private Lander Homes In On North Side of the Moon - Newser",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/369786/private-japanese-lander-homes-in-on-untouched-side-of-moon.html",
-      "image_url": "https://img2-azrcdn.newser.com/image/1614641-12-20250605112733.jpeg",
-      "summary": "A Private Lander Homes In On North Side of the Moon Japanese company ispace is headed for a touchdown on the moon's untouched side By Newser Editors and Wire Services Posted Jun 5, 2025 11:00 AM CDT This image provided by ispace, inc. shows the Resilience lander circling the moon, Wednesday, June 4, 2025. (ispace, inc. via AP) A private...",
-      "published": "Thu, 05 Jun 2025 16:00:00 GMT"
-    },
-    {
-      "id": "e30af09d4fe5d77a4d34fb42d8907dc2",
-      "title": "Israel says it recovered the bodies of 2 U.S.-Israeli hostages in Gaza - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/05/nx-s1-5424295/israel-recovered-bodies-hostages",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/667x375+0+148/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2F8e%2F9670694b46a5b10d8edc6568356b%2F2025-06-05t103302z-754881951-rc2aweamshr1-rtrmadp-3-israel-palestinians-gaza-hostages.JPG",
-      "summary": "Israel says it recovered the bodies of 2 U. S.-Israeli hostages in Gaza Judi Weinstein Haggai and Gad Haggai were kidnapped in the deadly Oct. 7, 2023, Hamas-led attack and later declared dead by the Israeli authorities. Here they are pictured at an unknown location in this undated photo provided by the Hostages and Missing Families Forum. The Israeli military...",
-      "published": "Thu, 05 Jun 2025 11:00:49 GMT"
+      "id": "1b93fbe38b6eee4ee11836a607f71413",
+      "title": "How the Trump Administration Banished Eight Men to Legal Limbo in Africa - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/06/us/trump-dhs-djibouti-deportees.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 06 Jun 2025 12:00:55 GMT"
     },
     {
       "id": "6b005d40ffd30b6b51f2ae2577e95e83",
       "title": "Trump administration imposes sanctions on ICC judges, US Treasury says - The Jerusalem Post",
       "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/breaking-news/article-856765",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
-      "summary": "Trump administration imposes sanctions on ICC judges, US Treasury says On Thursday, the administration of President Donald Trump imposed sanctions on four judges at the International Criminal Court, according to the website of the US Treasury. Eight Georgians caught attempting to illegally enter Israel By JERUSALEM POST STAFF 06/06/2025 08:35 AM SpaceX will not decommission Dragon, Musk says Agudat Israel...",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Fek1tOEJMQ0N6a2R6bDl0NnpUT0ViMVlpaWN2YmgwWnlFT2tHLXN6b0dyUHBZQTRyYkg2WWo1TDRKelh6RklpNGNmMDZHaTZfclZzc2NWOXZKWkpBNVk0?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Thu, 05 Jun 2025 19:56:38 GMT"
     },
     {
-      "id": "65fb48a0bce1d192c4d25787c3af5417",
-      "title": "CNN doubles down that Israel did open fire at aid site despite denial of previous claims - The Jerusalem Post",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/breaking-news/article-856698",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
-      "summary": "CNN doubles down that Israel did open fire at aid site despite denial of previous claims Based on videos and witnesses, it was the Israeli military that had opened fire on the crowd of Palestinians in the incident at the GHF distribution site in southern Gaza on Sunday, CNN reported Thursday. The IDF denied these claims and said that they...",
-      "published": "Thu, 05 Jun 2025 10:49:00 GMT"
+      "id": "a70a052625a7c2d15faf329c18b2b8fb",
+      "title": "A city of booby traps, tunnels: ToI in Khan Younis hours after bodies of 2 hostages retrieved - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/a-city-of-booby-traps-tunnels-toi-in-khan-younis-hours-after-bodies-of-2-hostages-retrieved/",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/DSC_0809.jpg",
+      "summary": "A city of booby traps, tunnels: ToI in Khan Younis hours after bodies of 2 hostages retrieved Troops advance slowly in southern Gaza city, day after bodies of slain hostages Gadi Haggai and Judih Weinstein were recovered and brought home for burial Your browser does not support the video tag. Footage from Khan Younis shows widespread destruction amid ongoing IDF...",
+      "published": "Thu, 05 Jun 2025 18:09:00 GMT"
+    },
+    {
+      "id": "3de9e6ddec6a4e47db00ae5fbe90f7b7",
+      "title": "WorldPride gathers in Washington as Trump rolls back LGBTQ rights - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/nbc-out/out-news/worldpride-gathers-washington-trump-rolls-back-lgbtq-rights-rcna211133",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250605-worldpride-washington-mn-0840-f97d25.jpg",
+      "summary": "WorldPride gathers in Washington as Trump rolls back LGBTQ rights As many as 3 million people, including 2 million from outside the region, could attend, according to the nonprofit travel and trade group Destination DC. People dance at a WorldPride welcome party in Washington, D. C., on Sunday. Matt McClain / The Washington Post via Getty Images Create your free...",
+      "published": "Thu, 05 Jun 2025 12:46:54 GMT"
+    },
+    {
+      "id": "e6719064c52d465d51e6bf5049bc12a4",
+      "title": "Three journalists among five killed in Israeli strike on Gaza hospital - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckgnp154eeko",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2def/live/7e932430-4229-11f0-b20c-254fbe4c91e0.jpg",
+      "summary": "Three journalists among five killed in Israeli strike on Gaza hospital The Episcopal Diocese of Jerusalem said it condemned \"in the strongest possible terms\" the attack on al-Ahli hospital Five people have been killed in an Israeli strike on al-Ahli hospital in Gaza City, according to the Anglican Church, which operates it. The Episcopal Diocese of Jerusalem said three journalists,...",
+      "published": "Thu, 05 Jun 2025 17:47:00 GMT"
     },
     {
       "id": "625599ceff0f4dc573f189935d23be32",
@@ -123,13 +168,13 @@
       "published": "Thu, 05 Jun 2025 07:36:42 GMT"
     },
     {
-      "id": "e6719064c52d465d51e6bf5049bc12a4",
-      "title": "Three journalists among five killed in Israeli strike on Gaza hospital - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ckgnp154eeko",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2def/live/7e932430-4229-11f0-b20c-254fbe4c91e0.jpg",
-      "summary": "Three journalists among five killed in Israeli strike on Gaza hospital The Episcopal Diocese of Jerusalem said it condemned \"in the strongest possible terms\" the attack on al-Ahli hospital Five people have been killed in an Israeli strike on al-Ahli hospital in Gaza City, according to the Anglican Church, which operates it. The Episcopal Diocese of Jerusalem said three journalists,...",
-      "published": "Thu, 05 Jun 2025 17:47:00 GMT"
+      "id": "59ce0469d4ea765a9c091e791506fbe7",
+      "title": "Pete Hegseth once scared America’s allies. Now he reassures them - The Economist",
+      "source": "The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXdraVN3bGJ2TWhRaXRYTVpaU3JMQ2I0UmVMX0FQdXVPcm1sbGJGcU5fLU9ZMWNhSjgzUTdJLVhGdEd3Uk5kb1F0ZlNIaHlOcEVqOVc1YVE0Vm5HR3puZGV3anU3X2NmVC1PVDJVQVluaFBUTFhrckJ0VHZyZWFVVTRjdzVkcDUwOFMtTVFrc2hiaGUwak11SVBWMHprWUdVaG1jM3MtendUZ0M0ZmVSc21aQQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 05 Jun 2025 12:46:22 GMT"
     }
   ]
 }
