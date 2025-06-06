@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-06 02:39:58",
+    "generation_time": "2025-06-06 07:01:04",
     "total_articles": 20
   },
   "articles": [
@@ -9,28 +9,37 @@
       "id": "c875360e14fa193c9cc849724e749c53",
       "title": "Resilience spacecraft likely crashed into the moon, Ispace confirms - CNN",
       "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0MUUxRDJJQ1J6THAxZmxLQlFjbmY1WGp0NzhtdmsxdWFjTC1fVVdvR0JwbU0xQlhCTWxpUFFHN2dfR3RBZ0JxbUhObkVtWWVrRUxVaXpCX2lvbUZweVZuTkk0ODlCczBHUVcxYkQxNGR4ZDFNOW1VR0RvTTdkYnM?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 06 Jun 2025 01:33:00 GMT"
-    },
-    {
-      "id": "c6b84f390c2940574b35ae3825bb7e9b",
-      "title": "Cruz seeks $10 billion for NASA programs in budget reconciliation bill - SpaceNews",
-      "source": "SpaceNews",
-      "url": "https://spacenews.com/cruz-seeks-10-billion-for-nasa-programs-in-budget-reconciliation-bill/",
-      "image_url": "https://spacenews.com/wp-content/uploads/2025/06/cruz-april2025.jpeg",
-      "summary": "Covering the business and politics of space Cruz seeks $10 billion for NASA programs in budget reconciliation bill Sen. Ted Cruz (R-Texas), chairman of the Senate Commerce Committee, at an April 9 confirmation hearing for Jared Isaacman. Credit: NASA/Bill Ingalls WASHINGTON — The chairman of the Senate Commerce Committee unveiled a proposal to add $10 billion to a budget reconciliation...",
-      "published": "Thu, 05 Jun 2025 23:54:17 GMT"
+      "url": "https://www.cnn.com/science/live-news/moon-landing-mission-ispace-06-05-25",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2025-06-05-at-12-37-22-pm.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Resilience spacecraft likely crashed into the moon, Ispace confirms Updated 10:26 PM EDT, Thu June 5, 2025 • Resilience, a lander built by Japan-based company Ispace, attempted to touch down on the moon around 3:17 p. m. ET. But the mission failed to land safely, Ispace officials confirmed hours later. • The exact reasons for the mission’s failure are currently...",
+      "published": "Fri, 06 Jun 2025 02:26:00 GMT"
     },
     {
       "id": "607f663d446a436b43cd28ffd7e21244",
       "title": "Long, dark 'streaks' spotted on Mars aren't what scientists thought - Live Science",
       "source": "Live Science",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNckduR3JqRi1wNkNlbmJtM3VqQXZpUjJhMmhFSjN6am9yLTY0Q1pvVVgwVDhMMXllTko5WjFicW9oeXp4V1ZMV1FQM3pBV2xJNHo0OTEyaVBWLWRlSU5yTGZoYVdZQUctamNGY1BBWjY3TjB6a2hKVXNmMlRFM09nSk1NVU85UHUta3ZnblZkcWZSV1Ntd0hVWUtZaS1PNC1wMzEwYQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.livescience.com/space/mars/long-dark-streaks-spotted-on-mars-arent-what-scientists-thought",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/iFYsmRFo4AcZGYDBstepk8.jpg",
+      "summary": "Physicists capture 'second sound' Long, dark 'streaks' spotted on Mars aren't what scientists thought By Ben Turner published yesterday A set of dark streaks that regularly wind across the Martian surface are more likely to be formed by dust and wind than by water, a new artificial intelligence analysis has revealed. When you purchase through links on our site, we...",
       "published": "Wed, 04 Jun 2025 20:16:00 GMT"
+    },
+    {
+      "id": "4f4fa0aaf0b3eafe7bf0a4c79c56a05a",
+      "title": "How NASA Would Struggle Without SpaceX if Trump Cancels Musk’s Contracts - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/05/science/spacex-nasa-trump-elon-musk.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 06 Jun 2025 02:12:35 GMT"
+    },
+    {
+      "id": "c955063b90c0a1a57317dd2e88e93981",
+      "title": "A leaderless NASA faces its biggest-ever cuts - The Economist",
+      "source": "The Economist",
+      "url": "https://www.economist.com/science-and-technology/2025/06/04/a-leaderless-nasa-faces-its-biggest-ever-cuts",
+      "image_url": "https://www.economist.com/content-assets/images/20250607_STP503.jpg",
+      "summary": "Science & technology | Empty space A leaderless NASA faces its biggest-ever cuts More than 40 science missions would be cancelled if Donald Trump’s budget goes through",
+      "published": "Wed, 04 Jun 2025 16:32:32 GMT"
     },
     {
       "id": "ae41e88e98520e40da0edd971f496992",
@@ -38,7 +47,7 @@
       "source": "Live Science",
       "url": "https://www.livescience.com/space/asteroids/an-invisible-threat-swarm-of-hidden-city-killer-asteroids-around-venus-could-one-day-collide-with-earth-simulations-show",
       "image_url": "https://cdn.mos.cms.futurecdn.net/FB3hiwZ3Csvg8ZkoykMx7i.jpg",
-      "summary": "Physicists capture 'second sound' An 'invisible threat': Swarm of hidden 'city killer' asteroids around Venus could one day collide with Earth, simulations show By Harry Baker published yesterday A new study suggests that unidentified \"co-orbital asteroids\" around Venus may have the capacity to impact our planet in the future, with potentially devastating consequences. However, there is no immediate threat. When...",
+      "summary": "Physicists capture 'second sound' An 'invisible threat': Swarm of hidden 'city killer' asteroids around Venus could one day collide with Earth, simulations show By Harry Baker published 2 days ago A new study suggests that unidentified \"co-orbital asteroids\" around Venus may have the capacity to impact our planet in the future, with potentially devastating consequences. However, there is no immediate...",
       "published": "Wed, 04 Jun 2025 15:48:22 GMT"
     },
     {
@@ -60,33 +69,6 @@
       "published": "Thu, 05 Jun 2025 16:51:50 GMT"
     },
     {
-      "id": "4dd1487cf83ef0f54a5d48e2c7b70616",
-      "title": "Worms Caught Building Flesh Towers in the Wild - Gizmodo",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/wild-worms-build-flesh-towers-and-are-closer-than-you-think-2000611200",
-      "image_url": "https://gizmodo.com/app/uploads/2025/06/wormtower-1200x675.jpg",
-      "summary": "Worms Caught Building Flesh Towers in the Wild Research out today is the first to document nematodes in the wild amassing into towers, likely as a way to reach new places. Published June 5, 2025 | Comments (7) | A worm tower inside a rotting pear. © Perez et al/Current Biology Scientists have just discovered something most of us probably...",
-      "published": "Thu, 05 Jun 2025 15:00:59 GMT"
-    },
-    {
-      "id": "c185af9d2559abf14d80fd983f4ae233",
-      "title": "Largest map of the universe announced revealing 800,000 galaxies, challenging early cosmos theories - Phys.org",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2025-06-largest-universe-revealing-galaxies-early.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 52.234.42.9 : 01bef19b-48b8-44a8-ae93-f4a1eb1d",
-      "published": "Thu, 05 Jun 2025 17:37:53 GMT"
-    },
-    {
-      "id": "05bdf0cc9121e454636e348a6639926f",
-      "title": "SpaceX marks 500th Falcon launch with Starlink 11-22 Mission - Teslarati",
-      "source": "Teslarati",
-      "url": "https://www.teslarati.com/spacex-500-falcon-launch-starlink-mission/",
-      "image_url": "https://www.teslarati.com/wp-content/uploads/2024/04/GKm6BcQbEAA_80u-1000x600.jpg",
-      "summary": "SpaceX marks 500th Falcon launch with Starlink 11-22 Mission The Starlink 11-22 mission marks SpaceX’s 500th Falcon flight & 50th Starlink launch of 2025. Will SpaceX IPO Starlink next? Published 19 hours ago on June 4, 2025 SpaceX celebrated its 500th Falcon rocket launch with the Starlink 11-22 mission, a midweek flight from Vandenberg Space Force Base in California. The...",
-      "published": "Thu, 05 Jun 2025 03:28:35 GMT"
-    },
-    {
       "id": "af9c5c1a1a2cdcbc9b8b161622628760",
       "title": "20-Year Mystery of The Muon's Wiggle May Finally Be Solved - ScienceAlert",
       "source": "ScienceAlert",
@@ -96,22 +78,49 @@
       "published": "Wed, 04 Jun 2025 13:01:24 GMT"
     },
     {
+      "id": "c185af9d2559abf14d80fd983f4ae233",
+      "title": "Largest map of the universe announced revealing 800,000 galaxies, challenging early cosmos theories - Phys.org",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2025-06-largest-universe-revealing-galaxies-early.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 52.234.46.154 : 6b087857-d57b-4a61-9740-263f4bc4",
+      "published": "Thu, 05 Jun 2025 17:37:53 GMT"
+    },
+    {
+      "id": "4dd1487cf83ef0f54a5d48e2c7b70616",
+      "title": "Worms Caught Building Flesh Towers in the Wild - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOXVWR2Q5SkpnT3RFZS1DMTZvRkl1N1EyVTdGMS1BSFVpY24xclBDZ0s5QVU4aVVMQ29BblFVT0gxM1o5aXdUckl5VEtTREVJUVBwdUpXOEgwUkdTNDEyODJpOGlDY1U1RkxKWmVvaXdKcFV6RVFJTjc2YUVPRm9Vci1ua1hWWjY1U3F6VmNtYTFBVEJF?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 05 Jun 2025 15:00:59 GMT"
+    },
+    {
+      "id": "05bdf0cc9121e454636e348a6639926f",
+      "title": "SpaceX marks 500th Falcon launch with Starlink 11-22 Mission - Teslarati",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/spacex-500-falcon-launch-starlink-mission/",
+      "image_url": "https://www.teslarati.com/wp-content/uploads/2024/04/GKm6BcQbEAA_80u-1000x600.jpg",
+      "summary": "SpaceX marks 500th Falcon launch with Starlink 11-22 Mission The Starlink 11-22 mission marks SpaceX’s 500th Falcon flight & 50th Starlink launch of 2025. Will SpaceX IPO Starlink next? Published 1 day ago on June 4, 2025 SpaceX celebrated its 500th Falcon rocket launch with the Starlink 11-22 mission, a midweek flight from Vandenberg Space Force Base in California. The...",
+      "published": "Thu, 05 Jun 2025 03:50:09 GMT"
+    },
+    {
+      "id": "0c4b055dd9a5b6cea3f0ade0d7e1aeeb",
+      "title": "Two Galaxy Clusters Are on a Collision Course, NASA’s Chandra X-Ray Observatory Reveals - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/two-galaxy-clusters-on-a-collision-course/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Two-Galaxy-Clusters-Are-on-a-Collision-Course-NASAs-Chandra-X-Ray-Observatory-Reveals.jpg",
+      "summary": "Two Galaxy Clusters Are on a Collision Course, NASA’s Chandra X-Ray Observatory Reveals Two galaxy clusters are on a collision course for a second cosmic crash, revealing groundbreaking insights into dark matter and the universe’s largest structures. Credit: X-ray: NASA / CXC / CfA / Stroe, A. et al.; Optical: PanSTARRS; Radio: ASTRON / LOFAR; Image Processing: NASA / CXC...",
+      "published": "Thu, 05 Jun 2025 15:30:00 GMT"
+    },
+    {
       "id": "b655fc0e8e1217b56d3fff9d995f2fe9",
       "title": "Upcoming Telescope Predicted to Discover Millions of Hidden Solar System Objects - Gizmodo",
       "source": "Gizmodo",
-      "url": "https://gizmodo.com/upcoming-telescope-predicted-to-discover-millions-of-hidden-solar-system-objects-2000611672",
-      "image_url": "https://gizmodo.com/app/uploads/2025/06/rubin-observatory-1200x675.jpg",
-      "summary": "Upcoming Telescope Predicted to Discover Millions of Hidden Solar System Objects With 3. 2 billion pixels and a decade-long search, the Rubin Observatory will reveal what’s been hiding in plain sight. Published June 5, 2025 | Comments (13) | Photo: H. Stockebrand/Rubin Observatory The Rubin Observatory illuminated by the Moon in background. A new observatory perched high in the Chilean...",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmJoY2Q5ck03T2FVV1U1YmQ5dmxrVEYxaThFTjA5c0R0OUdldUhJeTA5ek9KRDBPc3pURWpBLTl0eVdrWlVUY3MwcTFvTjJ5Y1hESnJxQUpqNTBUc18zTlRLVWk5eGNydWdPbUcyX2ItbmNlcVI5VzJEYjlxS0F2ZXZQYncwMTQxUUFEOGpxLVN6NlZrQm54YzRjMGJ2QXYyM25KUkdfSTRNcUN3U2NBUw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Thu, 05 Jun 2025 15:15:03 GMT"
-    },
-    {
-      "id": "27bc811a3383f735da5598c927e091c5",
-      "title": "NASA withdraws support for conferences - SpaceNews",
-      "source": "SpaceNews",
-      "url": "https://spacenews.com/nasa-withdraws-support-for-conferences/",
-      "image_url": "https://spacenews.com/wp-content/uploads/2025/06/issrdc-montalbano.webp",
-      "summary": "Covering the business and politics of space NASA withdraws support for conferences NASA had used the ISS Research and Development Conference to discuss the status and future plans for the station, such as this panel discussion at the 2023 event. Credit: SpaceNews/Jeff Foust Updated 9:20 a. m. Eastern with LPI statement. WASHINGTON — A space station research conference has been...",
-      "published": "Thu, 05 Jun 2025 11:37:10 GMT"
     },
     {
       "id": "9e6a7ccfe92d57c569125bbf77d913c2",
@@ -123,31 +132,31 @@
       "published": "Wed, 04 Jun 2025 20:52:22 GMT"
     },
     {
+      "id": "27bc811a3383f735da5598c927e091c5",
+      "title": "NASA withdraws support for conferences - SpaceNews",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/nasa-withdraws-support-for-conferences/",
+      "image_url": "https://spacenews.com/wp-content/uploads/2025/06/issrdc-montalbano.webp",
+      "summary": "Covering the business and politics of space NASA withdraws support for conferences NASA had used the ISS Research and Development Conference to discuss the status and future plans for the station, such as this panel discussion at the 2023 event. Credit: SpaceNews/Jeff Foust Updated 9:20 a. m. Eastern with LPI statement. WASHINGTON — A space station research conference has been...",
+      "published": "Thu, 05 Jun 2025 11:37:10 GMT"
+    },
+    {
       "id": "25ec7f4ba3952cf2e5f90e40c196410b",
       "title": "The heaviest proton emitter: New type of atomic nucleus discovered - Phys.org",
       "source": "Phys.org",
       "url": "https://phys.org/news/2025-06-heaviest-proton-emitter-atomic-nucleus.html",
       "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 52.234.42.9 : f6cac737-18bf-46f8-b444-948cd50f",
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 52.234.46.154 : 166f6b1b-afbf-4be3-b81e-95004828",
       "published": "Wed, 04 Jun 2025 17:10:04 GMT"
     },
     {
-      "id": "2ba2b17562bc217fbcd5bf9001ecc541",
-      "title": "Watch It! Livestream Of A Giant Underwater Volcano In the Pacific Northwest Set To Blow In 2025 - IFLScience",
-      "source": "IFLScience",
-      "url": "https://www.iflscience.com/a-bloated-volcano-on-the-west-coast-is-set-to-erupt-in-2025-and-its-being-livestreamed-now-79488",
-      "image_url": "https://assets.iflscience.com/assets/articleNo/79488/aImg/84258/axial-seamount-volcano-meta.png",
-      "summary": "A Bloated Volcano On The West Coast Is Set To Erupt In 2025 – And It's Being Livestreamed Now It's set to erupt in 2025. When exactly, only time will tell. Assorted contraptions at the base of the western caldera wall of the Axial Seamount volcano. Image credit: NOAA (Public Domain) bloated submarine volcano on the West Coast of the...",
-      "published": "Thu, 05 Jun 2025 10:24:51 GMT"
-    },
-    {
-      "id": "0271fb410ab846153fd2d8eb054fb1a6",
-      "title": "SpaceX May Be Failing to Get Starship Working at All - Yahoo",
-      "source": "Yahoo",
-      "url": "https://www.yahoo.com/news/spacex-may-failing-starship-working-151736398.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/0pYBthDZBKOQWEr3BUJiAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzA-/https://media.zenfs.com/en/futurism_981/1d696670a1cbd2a54de925eacc9f2fd9",
-      "summary": "Temper tantrum tips for parents SpaceX May Be Failing to Get Starship Working at All Thu, June 5, 2025 at 3:17 PM UTC Last week, both stages of SpaceX's Starship exploded after returning from space. The Super Heavy booster flew apart as it attempted a landing burn over ground, and forty minutes later, the Starship vehicle itself disintegrated somewhere over...",
-      "published": "Thu, 05 Jun 2025 15:17:36 GMT"
+      "id": "6901e0c3413168d78b699524b58edd0f",
+      "title": "When To See June’s ‘Strawberry Moon,’ The Lowest Full Moon Since 2006 - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/jamiecartereurope/2025/06/05/full-moon-june-2025-when-to-see-the-strawberry-moon-rise-and-fall/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/647cd0b68c78818aad0b6fdd/0x0.jpg?format=jpg&crop=4200,2361,x0,y48,safe&height=900&width=1600&fit=bounds",
+      "summary": "Elon Musk’s Net Worth Dips Below $400 Billion As Trump Quarrel Erases $17 Billion Some Sports Events Will Escape Trump Travel Ban—But Only Marco Rubio Gets To Decide Musk And Trump Alliance Implodes: ‘Without Me Trump Would Have Lost The Election’ Tesla Stock Plunges 8% As Trump Suggests Musk Has ‘Trump Derangement Syndrome’ When To See June’s ‘Strawberry Moon,’ The...",
+      "published": "Thu, 05 Jun 2025 10:00:00 GMT"
     },
     {
       "id": "334393372c186eae5ccb4d0d90b76809",
@@ -159,31 +168,22 @@
       "published": "Thu, 05 Jun 2025 16:21:32 GMT"
     },
     {
-      "id": "64d2a4a30ef331daa53f06c250b6b297",
-      "title": "ESA’s new asteroid hunter opens its eye to the sky - European Space Agency",
-      "source": "European Space Agency",
-      "url": "https://www.esa.int/Space_Safety/Planetary_Defence/ESA_s_new_asteroid_hunter_opens_its_eye_to_the_sky",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/06/flyeye_s_view_of_the_andromeda_galaxy/26727542-1-eng-GB/Flyeye_s_view_of_the_Andromeda_galaxy_pillars.png",
-      "summary": "We use cookies which are essential for you to access our website and/or to provide you with our services, enable you to share our website content via your social media accounts and allow us to measure and improve the performance of our website. ACCEPT ALL COOKIES ACCEPT ONLY ESSENTIAL COOKIES See our Cookie Notice ESA’s new asteroid hunter opens its...",
-      "published": "Thu, 05 Jun 2025 09:02:40 GMT"
+      "id": "6cf690995d706f8fb56b5216272086cb",
+      "title": "This crab emits light from its forehead, and scientists have tried to figure out why. - Farmingdale Observer",
+      "source": "Farmingdale Observer",
+      "url": "https://farmingdale-observer.com/2025/06/05/this-crab-emits-light-from-its-forehead-and-scientists-have-tried-to-figure-out-why/",
+      "image_url": "https://farmingdale-observer.com/wp-content/uploads/2025/06/jenbfiuz98-1024x576.webp",
+      "summary": "This Crab Emits Light From Its Forehead, And Scientists Have Tried To Figure Out Why. The fascinating world of marine biology never ceases to amaze scientists with remarkable adaptations that creatures develop for survival. Among these evolutionary marvels is the Parasesarma eumolpe, a unique crab species found in Southeast Asian mangrove forests that possesses an extraordinary ability to emit light...",
+      "published": "Fri, 06 Jun 2025 02:36:00 GMT"
     },
     {
-      "id": "6901e0c3413168d78b699524b58edd0f",
-      "title": "When To See June’s ‘Strawberry Moon,’ The Lowest Full Moon Since 2006 - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/jamiecartereurope/2025/06/05/full-moon-june-2025-when-to-see-the-strawberry-moon-rise-and-fall/",
-      "image_url": "https://imageio.forbes.com/specials-images/imageserve/647cd0b68c78818aad0b6fdd/0x0.jpg?format=jpg&crop=4200,2361,x0,y48,safe&height=900&width=1600&fit=bounds",
-      "summary": "Trump And Xi Jinping Hold Highly Anticipated Call, China Says Supreme Court Expands Tax Exemptions For Religious Charities Supreme Court Kills Mexico’s $10 Billion Lawsuit Against U. S. Gun Manufacturers GOP Billionaire Ken Griffin Says Trump’s Tariffs Have ‘Taken Toll’ On Economy When To See June’s ‘Strawberry Moon,’ The Lowest Full Moon Since 2006 ByJamie Carter, Senior Contributor. An award-winning...",
-      "published": "Thu, 05 Jun 2025 10:00:00 GMT"
-    },
-    {
-      "id": "fc7f43d9d4c0d83acd05840338e2f1a9",
-      "title": "A 'Crazy Idea' About Pluto Was Just Confirmed in a Scientific First - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/a-crazy-idea-about-pluto-was-just-confirmed-in-a-scientific-first",
-      "image_url": "https://www.sciencealert.com/images/2025/06/PlutoHazeAtmosphere.jpg",
-      "summary": "A 'Crazy Idea' About Pluto Was Just Confirmed in a Scientific First By CAROLYN COLLINS PETERSON, UNIVERSE TODAY Pluto's surface shrouded in atmospheric haze. (NASA/JHUAPL/SwRI) When the New Horizons spacecraft swept past Pluto and Charon in 2015, it revealed two amazingly complex worlds and an active atmosphere on Pluto. Those snapshots redefined our understanding of the system. Now, new observations...",
-      "published": "Thu, 05 Jun 2025 05:56:12 GMT"
+      "id": "c208119fb9922415e0d0d755dc98ed69",
+      "title": "Webb telescope detects water vapor on a planet outside the solar system smaller than Neptune - Earth.com",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/news/webb-telescope-detects-water-vapor-on-planet-outside-the-solar-system-toi-421-b/",
+      "image_url": "https://cff2.earth.com/uploads/2025/06/05043649/water-vapor-detected-exoplanet-webb.jpg",
+      "summary": "Webb telescope detects water vapor on a planet outside the solar system smaller than Neptune Researchers announced that NASA’s James Webb space telescope captured an unusual snapshot of a small, gassy planet known as TOI-421 B. They found strong signs of water vapor but no traces of carbon dioxide or methane, hinting that this planet is more hospitable to specific...",
+      "published": "Fri, 06 Jun 2025 00:10:52 GMT"
     }
   ]
 }

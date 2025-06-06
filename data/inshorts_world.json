@@ -1,54 +1,45 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-06 02:53:53",
-    "total_articles": 13
+    "generation_time": "2025-06-06 07:13:32",
+    "total_articles": 14
   },
   "articles": [
     {
-      "id": "0502e361a8f69c0af2ce35219e011ef0",
-      "title": "Trump travel ban includes exemption for World Cup and Olympic athletes - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2025/jun/05/donald-trump-travel-ban-includes-exemption-for-world-cup-and-olympic-athletes",
-      "image_url": "https://i.guim.co.uk/img/media/0dfdf02c3c55de733bec7cf513e0dc779eb30b7c/418_0_4180_3344/master/4180.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d598aabb963b14e841d6e233ef8cd7d2",
-      "summary": "Fund independent journalism with 30% off Donald Trump produces a red card during a meeting with the Fifa president, Gianni Infantino, in the Oval Office. Photograph: Bloomberg/Getty Images Trump travel ban includes exemption for World Cup and Olympic athletes Fifa declined to comment on recently signed ban Unclear whether exception includes Club World Cup Last modified on Thu 5 Jun...",
-      "published": "Thu, 05 Jun 2025 21:06:00 GMT"
+      "id": "d10f5d3eb282779d7cc7316329c7bc05",
+      "title": "Marco Rubio sanctions ICC for targeting US and Israel - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce80pl1xrllo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4db0/live/fb9a7c50-425e-11f0-b6e6-4ddb91039da1.jpg",
+      "summary": "Rubio sanctions ICC for 'targeting' Israel and US US Secretary of State Marco Rubio has announced his department will impose sanctions on four judges at the International Criminal Court (ICC) for \"illegitimate\" targeting of Israel and the US. The sanctions are in response to the ICC issuing arrest warrants for top Israeli officials, including Benjamin Netanyahu, and its investigation into...",
+      "published": "Thu, 05 Jun 2025 23:49:52 GMT"
     },
     {
-      "id": "85e1e8579feeaf215a1948275593b68e",
-      "title": "Trump administration sanctions International Criminal Court judges - Al Jazeera",
+      "id": "ce8e9ca01aa92a85a2ee8c8c3400e12d",
+      "title": "Trump connected his travel ban to the Boulder attack. Some Jews object. - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/nation/2025/06/05/jewish-reaction-travel-ban-colorado-attack/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TMBHH777Y7GHAMVXTR2DUSFRJU.JPG&w=1440",
+      "summary": "Trump connected his travel ban to the Boulder attack. Some Jews object. Some Jewish leaders object to Trump’s connecting his travel ban to the Boulder attack, saying it dilutes concerns about increasing antisemitism. Flowers and an Israeli flag are seen Monday at the site of Sunday's attack in Boulder, Colorado. (Chet Strange/Getty Images) By Ben Brasch and Michelle Boorstein When...",
+      "published": "Fri, 06 Jun 2025 03:59:00 GMT"
+    },
+    {
+      "id": "f2e310cbedf5d1ee7ce3f74f8a1c8fcb",
+      "title": "Israel launches several attacks on Beirut’s southern suburbs, south Lebanon - Al Jazeera",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/6/5/trump-administration-sanctions-international-criminal-court-judges",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/06/AP25155011407032-1749160353.jpg?resize=1920%2C1440",
-      "summary": "Enrich your Al Jazeera experience by signing in or creating an account. See the countries under Trump’s travel ban Is free speech under attack in the US? Can the US afford to lose its international students? Trump administration sanctions International Criminal Court judges US Secretary of State Marco Rubio indicated the sanctioned judges were involved in probes of US and...",
-      "published": "Thu, 05 Jun 2025 22:29:04 GMT"
+      "url": "https://www.aljazeera.com/news/2025/6/5/israel-launches-several-attacks-on-beiruts-southern-suburbs",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/06/2025-06-05T202319Z_1739207128_RC2KWEAO6C8F_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON-1749156226.jpg?resize=1920%2C1440",
+      "summary": "Enrich your Al Jazeera experience by signing in or creating an account. Why is Israel still in southern Lebanon? A war to shape Lebanon’s future Sowing hope as Israeli bombs fell on Lebanon Israel launches several attacks on Beirut’s southern suburbs, south Lebanon This is the fourth time Israel has attacked the Lebanese capital since the November ceasefire with Hezbollah.",
+      "published": "Thu, 05 Jun 2025 22:52:30 GMT"
     },
     {
-      "id": "e5c77184ed20132166eef7e29f6063c2",
-      "title": "Israel Armed Palestinian Militia to Fight Hamas, Officials Say - The New York Times",
+      "id": "662f4cc08413cb74492ff2712cb981f0",
+      "title": "Russia Launches Broad Assault on Kyiv and Other Cities in Ukraine - The New York Times",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/05/world/middleeast/israel-gaza-militia-netanyahu.html",
+      "url": "https://www.nytimes.com/2025/06/05/world/europe/russia-missile-attack-ukraine-kyiv.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Thu, 05 Jun 2025 21:47:27 GMT"
-    },
-    {
-      "id": "c809149d65cc041a43eb87fe5389263d",
-      "title": "Lebanon: Israel strikes southern Beirut on eve of Eid Al Adha - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c3v52241eyvo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/94e2/live/d9d1cbd0-4274-11f0-835b-310c7b938e84.jpg",
-      "summary": "Israel strikes southern Beirut on eve of religious holiday Automatically selects the best quality available Watch: Flames seen in southern Beirut following Israel strikes Israel has carried out several air strikes on Beirut's southern suburbs, saying it was targeting Hezbollah's drone production. The attack on Thursday night, the eve of Eid Al Adha, one of the most important celebrations in...",
-      "published": "Thu, 05 Jun 2025 21:13:59 GMT"
-    },
-    {
-      "id": "98d19015bc4cb2960d6f00e943f62617",
-      "title": "Russia launches aerial assault on Kyiv days after Ukraine’s audacious drone attack on bomber fleet - CNN",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWFpFTWRFdWlsWDhjRUFSODgxZkpMT0RQOWNidm93UGhnN3pzOGlqeWp3MDE5U3VpS24ydlpGQ0lYei1FdzlNOWFNWFNEMlFlNGxBODgxNlA3ckxhWkRNenFfU3VyWFdfNENWQWJ5MjBjWi14YjRsVTNFRHNBOXEySEJiVGtIQ2JYOVdFdVRKeXNGaWRHNFgxcjdsa9IBoAFBVV95cUxQWFYwenNlM0NoelFMdW1wVmo4OENOUWVkMGV2dkhCV2tnTjFwMzdOclVaUmtyNDdKR3ZPdmdBNkplRDZURlZZUmg0Y3N3dDlUVWgxNjYtMS1YZ21yN2FkSVBreXl0V1J2eVpxZ1BJVVoyTFBqY0F1SUpwNXhFdVZVUm1pd21hcFc5OV9HWjY5bHh0Mm1JR0tYWWozeVVLMzBP?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 06 Jun 2025 00:04:00 GMT"
+      "published": "Fri, 06 Jun 2025 06:07:10 GMT"
     },
     {
       "id": "4816a9ed3562b1114c44637b4916c848",
@@ -60,57 +51,66 @@
       "published": "Thu, 05 Jun 2025 18:33:00 GMT"
     },
     {
+      "id": "608f5262e7d2bf3112a0231a9a7154e2",
+      "title": "Arab envoy: Netanyahu’s arming of Gaza gang shows ‘he’s learned little since Oct. 7’ - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/arab-envoy-netanyahus-arming-of-gaza-gang-shows-hes-learned-little-since-oct-7/",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/vlcsnap-2025-06-05-14h33m08s298.jpg",
+      "summary": "Arab envoy: Netanyahu’s arming of Gaza gang shows ‘he’s learned little since Oct. 7’ Ambassador laments Israeli PM’s unabated effort to weaken PA, warning that latest effort to divide Palestinians ‘increases chances of Somalia-like scenario’ in the Strip Members of the Abu Shabab gang in Gaza, in screen captures from a recent video posted by the group. (screen capture: Facebook)...",
+      "published": "Thu, 05 Jun 2025 20:32:00 GMT"
+    },
+    {
+      "id": "a150a7d5429f32d8be5955aa30beb3f0",
+      "title": "North Korea launches warship after earlier failed attempt - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c79e4pr2qjro",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3469/live/5eef6600-4280-11f0-b226-f128677fd0ae.jpg",
+      "summary": "N Korea launches warship after earlier failed attempt The 5,000-tonne destroyer, which was restored to balance earlier this week, was launched on Thursday and is now moored at a pier North Korea has launched a warship two weeks after it was damaged during an earlier launch attempt, in an incident that drew harsh criticism from the country's leader Kim Jong...",
+      "published": "Fri, 06 Jun 2025 02:58:54 GMT"
+    },
+    {
       "id": "09b87f0367885082d4e3a202ecf1313c",
       "title": "After Putin call, Trump suggests Ukraine, Russia should ‘fight for a while’ - The Washington Post",
       "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeExBeV93bTltbF82RGhLTDc5VUl4eXB2ZjZtMDg1RkhmV0lrcXhPN1BHdEtEZFVrSUFRWVZTZjVsa2VKdVJjaTJYZ3l1RFNOVHpFcE96UjdKT1JUOFM2NVpOa2tsem5UTFdrYmtZd2x6T1dpcWh1NUZlb3FvcWJWeF9tQXpHSzhFcmNQMGZ1WVYyOHRC?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 06 Jun 2025 01:39:00 GMT"
+      "url": "https://www.washingtonpost.com/world/2025/06/05/putin-trump-phone-call-retaliation-drones/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JMAEFLN5ZT2TAMJ73QCUTLRT6Y.JPG&w=1440",
+      "summary": "After Putin call, Trump suggests Ukraine, Russia should ‘fight for a while’ We and our third-party partners process personal data including through the use of cookies, pixels, and other tracking technologies to provide, analyze, and improve our services; personalize your experience (including content); and personalize ads on and off the services. Learn more and manage your preferences at our Privacy...",
+      "published": "Fri, 06 Jun 2025 04:54:58 GMT"
     },
     {
-      "id": "deff842bbce4dc5760c56bc64cf773a0",
-      "title": "Europe Wants to Banish Russian Gas. The U.S. May Have Other Plans. - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/05/world/europe/us-russia-nord-stream-gas-pipeline.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Thu, 05 Jun 2025 20:38:36 GMT"
+      "id": "db1e36ff038877f0762c51d903447458",
+      "title": "A Private Lander Homes In On North Side of the Moon - Newser",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/369786/private-japanese-lander-homes-in-on-untouched-side-of-moon.html",
+      "image_url": "https://img2-azrcdn.newser.com/image/1614641-12-20250605112733.jpeg",
+      "summary": "A Private Lander Homes In On North Side of the Moon Japanese company ispace is headed for a touchdown on the moon's untouched side By Newser Editors and Wire Services Posted Jun 5, 2025 11:00 AM CDT This image provided by ispace, inc. shows the Resilience lander circling the moon, Wednesday, June 4, 2025. (ispace, inc. via AP) A private...",
+      "published": "Thu, 05 Jun 2025 16:00:00 GMT"
     },
     {
-      "id": "6cfd9ff36a1f3d33df9a040a9aa868cd",
-      "title": "North Korean Frigate Now Floating Upright After Partially Capsizing During Disastrous Launch - The War Zone",
-      "source": "The War Zone",
-      "url": "https://www.twz.com/sea/north-korean-frigate-now-floating-after-partially-capsizing-during-disastrous-launch",
-      "image_url": "https://www.twz.com/wp-content/uploads/2025/06/North-Korea-destroyer-capsize-upright.jpg",
-      "summary": "North Korean Frigate Now Floating Upright After Partially Capsizing During Disastrous Launch The vessel is now moored in the middle of the harbor as recovery efforts are ongoing, though the extent of the damage remains unknown. Weekly insights and analysis on the latest developments in military technology, strategy, and foreign policy. Terms of Service and Privacy Policy The North Korean...",
-      "published": "Thu, 05 Jun 2025 18:48:15 GMT"
+      "id": "e30af09d4fe5d77a4d34fb42d8907dc2",
+      "title": "Israel says it recovered the bodies of 2 U.S.-Israeli hostages in Gaza - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/05/nx-s1-5424295/israel-recovered-bodies-hostages",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/667x375+0+148/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2F8e%2F9670694b46a5b10d8edc6568356b%2F2025-06-05t103302z-754881951-rc2aweamshr1-rtrmadp-3-israel-palestinians-gaza-hostages.JPG",
+      "summary": "Israel says it recovered the bodies of 2 U. S.-Israeli hostages in Gaza Judi Weinstein Haggai and Gad Haggai were kidnapped in the deadly Oct. 7, 2023, Hamas-led attack and later declared dead by the Israeli authorities. Here they are pictured at an unknown location in this undated photo provided by the Hostages and Missing Families Forum. The Israeli military...",
+      "published": "Thu, 05 Jun 2025 11:00:49 GMT"
     },
     {
-      "id": "651cab8ca0e9df694545160a6d94cfc1",
-      "title": "Israeli military recovers two hostages' bodies in southern Gaza - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c989rl23zzno",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f4ea/live/65f89bf0-41f5-11f0-bcb5-8d42e8f57689.jpg",
-      "summary": "Israeli military recovers two hostages' bodies in southern Gaza Judi Weinstein Haggai and her husband Gadi Haggai were killed during the attack on Kibbutz Nir Oz Israeli forces have recovered the bodies of two Israeli-Americans taken back to Gaza as hostages during the Hamas-led attack on southern Israel on 7 October 2023, the Israeli military says. Judi Weinstein Haggai, 70,...",
-      "published": "Thu, 05 Jun 2025 18:07:44 GMT"
-    },
-    {
-      "id": "fc3080b6b63c74a8874e1f4c1234c2ba",
-      "title": "Exclusive | Iran Orders Material From China for Hundreds of Ballistic Missiles - WSJ",
-      "source": "WSJ",
-      "url": "https://www.wsj.com/world/iran-orders-material-from-china-for-hundreds-of-ballistic-missiles-1e874701",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Thu, 05 Jun 2025 23:00:00 GMT"
+      "id": "6b005d40ffd30b6b51f2ae2577e95e83",
+      "title": "Trump administration imposes sanctions on ICC judges, US Treasury says - The Jerusalem Post",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/breaking-news/article-856765",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
+      "summary": "Trump administration imposes sanctions on ICC judges, US Treasury says On Thursday, the administration of President Donald Trump imposed sanctions on four judges at the International Criminal Court, according to the website of the US Treasury. Eight Georgians caught attempting to illegally enter Israel By JERUSALEM POST STAFF 06/06/2025 08:35 AM SpaceX will not decommission Dragon, Musk says Agudat Israel...",
+      "published": "Thu, 05 Jun 2025 19:56:38 GMT"
     },
     {
       "id": "65fb48a0bce1d192c4d25787c3af5417",
       "title": "CNN doubles down that Israel did open fire at aid site despite denial of previous claims - The Jerusalem Post",
       "source": "The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tcEppOGt1aE1YaFZnbUhtaXlPNjBqQmYyRlpZOS1nODBkMWdKREJEMUZsb1BkRXUyeXBMYmtHNnBWa0hDcGk2SG9mdU1POFZURmdhRVg0VGc3eUh0MmE4?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.jpost.com/breaking-news/article-856698",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
+      "summary": "CNN doubles down that Israel did open fire at aid site despite denial of previous claims Based on videos and witnesses, it was the Israeli military that had opened fire on the crowd of Palestinians in the incident at the GHF distribution site in southern Gaza on Sunday, CNN reported Thursday. The IDF denied these claims and said that they...",
       "published": "Thu, 05 Jun 2025 10:49:00 GMT"
     },
     {
@@ -121,6 +121,15 @@
       "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3122x1756+0+162/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F2e%2F721f207243ebaf437504c3fe66ec%2Fap25156228753227.jpg",
       "summary": "New Zealand Parliament suspends 3 lawmakers who performed Māori haka in protest New Zealand lawmakers Hana-Rāwhiti Maipi-Clarke, top left, Debbie Ngarewa-Packer, bottom left, and Rawiri Waititi, bottom right, watch as other legislators debate their proposed bans in parliament in Wellington on Thursday, June 5, 2025. WELLINGTON, New Zealand — New Zealand legislators voted Thursday to enact record suspensions from Parliament...",
       "published": "Thu, 05 Jun 2025 07:36:42 GMT"
+    },
+    {
+      "id": "e6719064c52d465d51e6bf5049bc12a4",
+      "title": "Three journalists among five killed in Israeli strike on Gaza hospital - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckgnp154eeko",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2def/live/7e932430-4229-11f0-b20c-254fbe4c91e0.jpg",
+      "summary": "Three journalists among five killed in Israeli strike on Gaza hospital The Episcopal Diocese of Jerusalem said it condemned \"in the strongest possible terms\" the attack on al-Ahli hospital Five people have been killed in an Israeli strike on al-Ahli hospital in Gaza City, according to the Anglican Church, which operates it. The Episcopal Diocese of Jerusalem said three journalists,...",
+      "published": "Thu, 05 Jun 2025 17:47:00 GMT"
     }
   ]
 }

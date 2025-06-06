@@ -1,18 +1,72 @@
 {
   "metadata": {
     "source_file": "data/news_business.json",
-    "generation_time": "2025-06-06 02:50:52",
+    "generation_time": "2025-06-06 07:11:37",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "2f1e748155ddd1b7cde50164530fcb03",
-      "title": "SpaceX will decommission Dragon spacecraft, Musk says as feud with Trump escalates - Yahoo",
-      "source": "Yahoo",
-      "url": "https://finance.yahoo.com/news/spacex-decommission-dragon-spacecraft-musk-204603634.html",
-      "image_url": "https://media.zenfs.com/en/reuters.com/723c8c9184a508d54d9b44e0a8f58832",
-      "summary": "Musk-Trump breakup puts billions in SpaceX contracts at risk, jolting US space program Thu, June 5, 2025 at 1:46 PM PDT 4 min read WASHINGTON (Reuters) -About $22 billion worth of SpaceX's government contracts is at risk and multiple U. S. space programs could face dramatic changes in the fallout of Elon Musk and President Donald Trump's explosive feud on...",
-      "published": "Thu, 05 Jun 2025 20:46:03 GMT"
+      "id": "3f848a292b00eec1361c04c63c034672",
+      "title": "Musk threatens to withdraw Dragon spacecraft, a key space station link for NASA - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/musk-trump-spacex-dragon-capsule-e1fa0607a8e69bc2ad1677f5920b5f56",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Fri, 06 Jun 2025 03:26:00 GMT"
+    },
+    {
+      "id": "ee8aab4a3b6ce4846a99957f52831be8",
+      "title": "Stocks on guard for payrolls, Tesla tumbles as Trump-Musk bromance sours - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2025-06-06/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 06 Jun 2025 02:16:00 GMT"
+    },
+    {
+      "id": "16da4a7b32efb34a3b810f336821f1cd",
+      "title": "HSBC’s Mark Tucker to return to insurer AIA as chair - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9fe308ac-5187-4d3f-93b3-087fd6b049aa",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4c5e0b04-2ce2-4e6a-8014-c1d7812b8e09.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. HSBC’s Mark Tucker to return to insurer AIA as chair Brendan Nelson to take over as interim head of UK bank’s board Sir Mark Tucker served as chief executive of AIA from 2010 to 2017 HSBC’s Mark Tucker to...",
+      "published": "Fri, 06 Jun 2025 02:03:45 GMT"
+    },
+    {
+      "id": "27a6e2778bd61b2dc48de8b366d7a0b7",
+      "title": "Asian Shares Have Tepid Start Before US Jobs Data: Markets Wrap - Bloomberg",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-05/stock-market-today-dow-s-p-live-updates",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Fri, 06 Jun 2025 02:27:00 GMT"
+    },
+    {
+      "id": "536ea68f4d7d2b3efee78768ca6109c9",
+      "title": "India's central bank beats market expectations to deliver an outsized rate cut of 50 points - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/06/india-rbi-cuts-interest-rates-to-lowest-since-august-2022.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108045187-1728448732280-gettyimages-2168107480-aditya-notitle240828_npf7L.jpeg?v=1728448771&w=1920&h=1080",
+      "summary": "India’s central bank beats market expectations to deliver outsized rate cut of 50 points India’s central bank delivered an outsized cut to its benchmark policy rate, bringing it to 5. 5%. This marks the third straight rate cut since February and is below the median estimates of 5. 75%. The RBI also changed its monetary policy stance to “neutral” from...",
+      "published": "Fri, 06 Jun 2025 04:41:34 GMT"
+    },
+    {
+      "id": "8ba5f92f4dc0f999eabd6f343a152795",
+      "title": "Circle IPO soars, giving hope to more startups waiting to go public - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/06/05/circle-ipo-soars-giving-hope-to-more-startups-waiting-to-go-public/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1042134152.jpg?resize=1200,838",
+      "summary": "Circle IPO soars, giving hope to more startups waiting to go public Circle, one of the world’s largest issuers of USDC, a stablecoin pegged to the U. S. dollar, ended its first trading day as a public company at $83. 23 per share, 168% above its IPO price of $31 set the previous day. The IPO pop demonstrates public market...",
+      "published": "Thu, 05 Jun 2025 22:06:26 GMT"
+    },
+    {
+      "id": "6b1ed246856fa5badd9a3bd510f082e8",
+      "title": "The world's auto supply chain is in the hands of a few Chinese bureaucrats - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/autos-transportation/worlds-auto-supply-chain-is-hands-few-chinese-bureaucrats-2025-06-05/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 06 Jun 2025 00:00:00 GMT"
     },
     {
       "id": "18d1aacbf84a254aca7a5161fdb3833f",
@@ -24,89 +78,8 @@
       "published": "Thu, 05 Jun 2025 11:42:00 GMT"
     },
     {
-      "id": "341f6b834ae41044a75ce29433103967",
-      "title": "DOGE layoffs may have compromised the accuracy of government data - CNN",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hWVRNV2trbC11MS1Fd2lKZUQwYnBnMnB0R2lwcjQ0b2xBQUg4SlZmNFpZcFNvRzlyWWlOOFZvWDVTN3ZfY20ycHQ2ekNBVTlRZWhESTVVbm9hc252OUE0UzFNSTd4NmdOYjNyNmpKb9IBdEFVX3lxTFBUTmg1aWtDS1N2UFZIVkVIMTZMZWFYVWV3RkEzRktBbUtqOFFycUg1cDY0ejVSRVdqcHp2bTBZTEJXYXptN09ielBmbWxxY1FTU2czOElSUnBjdThQRzNQQzV1SFhyamNlalNQQ21XYXJqOUda?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 05 Jun 2025 20:02:00 GMT"
-    },
-    {
-      "id": "7ccb6bb6a2f5a710e6d990457fad7fe3",
-      "title": "Lululemon shares tumble 23% as it cuts full-year earnings guidance, citing 'dynamic macroenvironment' - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/06/05/lululemon-lulu-earnings-q1-2025.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/107424690-1717611499502-gettyimages-2156228353-ms1_7705_loouvzyn.jpeg?v=1749146814&w=1920&h=1080",
-      "summary": "Lululemon shares tumble 23% as it cuts full-year earnings guidance, citing ‘dynamic macroenvironment’ Lululemon beat Wall Street expectations for fiscal first-quarter earnings, but cut its full-year earnings guidance, citing a “dynamic macroenvironment. ” Chief Financial Officer Meghan Frank added on the call that the brand is planning to take “strategic price increases, looking item by item across our assortment,” to...",
-      "published": "Thu, 05 Jun 2025 20:32:46 GMT"
-    },
-    {
-      "id": "fe204d0971f7373baacc5a7e09e48b2b",
-      "title": "Marijuana Legalization Is Putting 'Pressure' On Alcohol Industry, CEO Of Jack Daniel's Parent Company Says Amid Profit Losses - Marijuana Moment",
-      "source": "Marijuana Moment",
-      "url": "https://www.marijuanamoment.net/marijuana-legalization-is-putting-pressure-on-alcohol-industry-ceo-of-jack-daniels-parent-company-says-amid-profit-losses/",
-      "image_url": "https://www.marijuanamoment.net/wp-content/uploads/2025/06/whiskey-alcohol-marijuana-cannabis-1000x600.png",
-      "summary": "Marijuana Legalization Is Putting ‘Pressure’ On Alcohol Industry, CEO Of Jack Daniel’s Parent Company Says Amid Profit Losses The growing use of marijuana as an alternative to alcohol is putting “pressure” on the spirits industry, contributing to a decline in profits in recent years, the president of a major alcohol company with ancillary brands such as Jack Daniel’s and Woodford...",
-      "published": "Thu, 05 Jun 2025 20:13:28 GMT"
-    },
-    {
-      "id": "94534638adda76f546542cd07f846db1",
-      "title": "Circle IPO: Stock Jumps Nearly 170% in First Day of Trading - Barron's",
-      "source": "Barron's",
-      "url": "https://www.barrons.com/articles/circle-crcl-ipo-stock-ticker-price-usdc-81a10761",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Thu, 05 Jun 2025 20:32:00 GMT"
-    },
-    {
-      "id": "10a0464591cb5f11d5f40362474156c1",
-      "title": "Tesla has lost nearly $200 billion in market cap since Elon Musk left ‘DOGE.’ Here’s what may be ahead for the stock. - MarketWatch",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tesla-has-lost-nearly-140-billion-in-market-cap-since-elon-musk-left-doge-heres-what-may-be-ahead-for-the-stock-4ad8257f",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Thu, 05 Jun 2025 18:16:00 GMT"
-    },
-    {
-      "id": "1673f217fe7b9c3ffee17be9cc974135",
-      "title": "Walmart and Wing expand drone delivery to five more US cities - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/06/05/walmart-and-wing-expand-drone-delivery-to-five-more-u-s-cities/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/Wing-Walmart.jpg?resize=1200,675",
-      "summary": "Walmart and Wing expand drone delivery to five more US cities Wing, the on-demand drone delivery company owned by Alphabet, is spreading its commercial wings with help from Walmart. The two companies announced Thursday plans to roll out drone delivery to more than 100 Walmart stores in five new cities: Atlanta, Charlotte, Houston, Orlando, and Tampa. Walmart is also adding...",
-      "published": "Thu, 05 Jun 2025 20:00:00 GMT"
-    },
-    {
-      "id": "a690cb1680e2bae6da482a73e545f677",
-      "title": "With massive funding round and $31 billion valuation, Anduril is nearing the size of defense industry giants it wants to displace - Fortune",
-      "source": "Fortune",
-      "url": "https://fortune.com/2025/06/05/anduril-palmer-luckey-funding-30-billion-valuation-founders-fund/",
-      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-2152504211.jpg?resize=1200,600",
-      "summary": "With massive funding round and $31 billion valuation, Anduril is nearing the size of defense industry giants it wants to displace Palmer Luckey, founder of Anduril Industries. Defense company Anduril, which builds autonomous drones, virtual reality headsets, and other AI-powered technologies for the U. S. military and its allies, said it had closed an oversubscribed $2. 5 billion funding round...",
-      "published": "Thu, 05 Jun 2025 18:15:00 GMT"
-    },
-    {
-      "id": "6ee36fc89c99e6e651b7363593f2bc19",
-      "title": "Corporate layoffs have ramped up in recent weeks. Here are the companies making cuts - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/06/05/corporate-layoffs-companies-making-job-cuts.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/107373193-1707861247487-gettyimages-1458551911-layoffs-illustration.jpeg?v=1749154762&w=1920&h=1080",
-      "summary": "Corporate layoffs have ramped up in recent weeks. Here are the companies making cuts Companies are under increasing pressure to trim costs against the backdrop of global economic uncertainty brought on by President Donald Trump’s trade policies. Many companies lumped layoffs in with larger cost-cutting strategies or growth plans. Some have cited artificial intelligence as a factor in layoffs. Companies...",
-      "published": "Thu, 05 Jun 2025 18:47:03 GMT"
-    },
-    {
-      "id": "6112c93f17026cd6f56ad055bc01aa4c",
-      "title": "Treasury Releases Report on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States - U.S. Department of the Treasury (.gov)",
-      "source": "U.S. Department of the Treasury (.gov)",
-      "url": "https://home.treasury.gov/news/press-releases/sb0157",
-      "image_url": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
-      "summary": "An official website of the United States government Treasury Releases Report on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States WASHINGTON – The U. S. Department of the Treasury delivered its semiannual Report to Congress on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States. In this Report, Treasury reviewed and...",
-      "published": "Thu, 05 Jun 2025 20:00:00 GMT"
-    },
-    {
-      "id": "e44d849a40aa5272e1d7a3e3e965f0b9",
-      "title": "Broadcom Earnings: Stock Falls Despite Solid Results - Barron's",
+      "id": "8508c8e83223827c03e7d55585ed5cc8",
+      "title": "Broadcom Stock Falls Despite Earnings Beat From AI Chip Maker - Barron's",
       "source": "Barron's",
       "url": "https://www.barrons.com/articles/broadcom-stock-price-earnings-dbc9ec1a",
       "image_url": null,
@@ -114,49 +87,22 @@
       "published": "Thu, 05 Jun 2025 21:32:00 GMT"
     },
     {
-      "id": "3a52deb5f3471f6228a2e2642ab070e0",
-      "title": "Tariffs prompt record plunge in US imports, cutting trade deficit - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvgqzpljx3do",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3d46/live/481f36f0-421f-11f0-8cc8-25fa9323cd5d.jpg",
-      "summary": "Tariffs prompt record plunge in US imports China News Service/VCG via Getty Images Goods brought into the US plunged by 20% in April, recording their largest ever monthly drop in the face of a wave of tariffs unleashed by US President Donald Trump. The retreat reflects the abrupt hit to trade, after firms had rushed products into the country earlier...",
-      "published": "Thu, 05 Jun 2025 15:23:57 GMT"
+      "id": "378d968c40b7afa2410c9a17f8516d94",
+      "title": "U.S. imports see largest plunge on record in April - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2025/06/05/trump-tariffs-imports",
+      "image_url": "https://images.axios.com/iL-OPLls8Lh3yBL2lkkum_0fnCo=/0x0:1600x900/1366x768/2025/06/05/1749140040857.png",
+      "summary": "U.S. imports see largest plunge on record in April Data: U. S. Census Bureau, U. S. Bureau of Economic Analysis, U. S. International Trade in Goods and Services; Chart: Axios Visuals U. S. goods imports plummeted in April, per data out Thursday, as President Trump's tariff policies rocked the global trade system. Why it matters: The decline is a sharp...",
+      "published": "Thu, 05 Jun 2025 17:53:46 GMT"
     },
     {
-      "id": "ea3a24acf9260aaf7159ee61e5b69e18",
-      "title": "Trump Media Gets Closer to Truth Social Bitcoin ETF Debut With SEC Filing - Decrypt",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/323864/trump-media-gets-closer-to-truth-social-bitcoin-etf-debut-with-sec-filing",
-      "image_url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Trump-decrypt-style-04-gID_7.png",
-      "summary": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.",
-      "published": "Thu, 05 Jun 2025 18:19:12 GMT"
-    },
-    {
-      "id": "b520f5d9b6ee74264d815c6b045fc4f5",
-      "title": "Dozens of Hooters locations abruptly closed: List of latest closures - KSDK",
-      "source": "KSDK",
-      "url": "https://www.ksdk.com/article/news/nation-world/hooters-abruptly-closes-dozens-of-restaurants-full-list/507-9868e15e-8ae4-4c60-b779-f4f05e8fb3ed",
-      "image_url": "https://media.ksdk.com/assets/CCT/images/c197c278-065d-45f2-b6cb-a29d763ac089/20240625T174423/c197c278-065d-45f2-b6cb-a29d763ac089_1140x641.jpg",
-      "summary": "Hooters abruptly closes dozens of restaurants: Here's the list of locations, including one in St. Louis The Hooters closures come two months after the company said it would be reviewing its \"operational footprint\" after filing for Chapter 11 bankruptcy protection. This photo taken Thursday, July 27, 2017, shows a Hooters sign at a restaurant in Hialeah, Fla. Author: Andrew Weil,...",
-      "published": "Thu, 05 Jun 2025 16:42:00 GMT"
-    },
-    {
-      "id": "b501add919e724d5423aa720dc4d42bd",
-      "title": "More Americans applied for jobless benefits last week, rising to highest level in eight months - PBS",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/politics/more-americans-applied-for-jobless-benefits-last-week-rising-to-highest-level-in-eight-months",
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/2025-06-03T162030Z_1740297777_RC2EMDAJ0NDR_RTRMADP_3_USA-ECONOMY-1-1024x683.jpg",
-      "summary": "Urge Congress: Protect PBS Funding Your favorite shows at PBS are in danger of going away. The federal funding that supports local stations and public media is under threat. By — Matt Ott, Associated Press More Americans applied for jobless benefits last week, rising to highest level in eight months Politics Jun 5, 2025 12:26 PM EDT WASHINGTON (AP) —...",
-      "published": "Thu, 05 Jun 2025 16:26:36 GMT"
-    },
-    {
-      "id": "da4fdff29e14c447bd7fe070d575e206",
-      "title": "US auto suppliers say immediate action needed on China rare earths restrictions - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/autos-transportation/us-auto-suppliers-say-immediate-action-needed-china-rare-earths-restrictions-2025-06-05/",
-      "image_url": null,
+      "id": "97fe06653af446edeaac79c9f3528890",
+      "title": "Citadel's Esposito says US deficit is a 'ticking time bomb' - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdVVySGZYSnNLcnNvTGVMcF9NSmd6bF9KRTBmeG1RZFU4ZFhCcjVZcXNmT1VtejNBblZmc1JuRUNvbjlqbG1fYndQY0QyZzQwQWlidlhHNjFNX2VRdS03emJ5UkZlcnU3R3NXLVFtNmJqSUxxaFNia3d5U1lYU2FPMERRV1MwQQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Thu, 05 Jun 2025 11:14:59 GMT"
+      "published": "Thu, 05 Jun 2025 23:49:59 GMT"
     },
     {
       "id": "958517713eaab2d476fd71d7a4bd721e",
@@ -168,13 +114,49 @@
       "published": "Thu, 05 Jun 2025 19:48:11 GMT"
     },
     {
-      "id": "a578ab5b27c7091e2c86a05c13d22412",
-      "title": "23andMe Sets New Auction With $305 Million New Bid From Ex-CEO - Bloomberg",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-05/23andme-sets-new-auction-with-305-million-new-bid-from-ex-ceo",
-      "image_url": null,
-      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
-      "published": "Thu, 05 Jun 2025 15:18:35 GMT"
+      "id": "6112c93f17026cd6f56ad055bc01aa4c",
+      "title": "Treasury Releases Report on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States - U.S. Department of the Treasury (.gov)",
+      "source": "U.S. Department of the Treasury (.gov)",
+      "url": "https://home.treasury.gov/news/press-releases/sb0157",
+      "image_url": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+      "summary": "An official website of the United States government Treasury Releases Report on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States WASHINGTON – The U. S. Department of the Treasury delivered its semiannual Report to Congress on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States. In this Report, Treasury reviewed and...",
+      "published": "Thu, 05 Jun 2025 20:00:00 GMT"
+    },
+    {
+      "id": "b501add919e724d5423aa720dc4d42bd",
+      "title": "More Americans applied for jobless benefits last week, rising to highest level in eight months - PBS",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/politics/more-americans-applied-for-jobless-benefits-last-week-rising-to-highest-level-in-eight-months",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/2025-06-03T162030Z_1740297777_RC2EMDAJ0NDR_RTRMADP_3_USA-ECONOMY-1-1024x683.jpg",
+      "summary": "Urge Congress: Protect PBS Funding Your favorite shows at PBS are in danger of going away. The federal funding that supports local stations and public media is under threat. By — Matt Ott, Associated Press More Americans applied for jobless benefits last week, rising to highest level in eight months Politics Jun 5, 2025 12:26 PM EDT WASHINGTON (AP) —...",
+      "published": "Thu, 05 Jun 2025 16:26:36 GMT"
+    },
+    {
+      "id": "f22f8893d0e27f5a1a1c7196cf1b2ea7",
+      "title": "Tesla's Imminent Valuation Crash? (NASDAQ:TSLA) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4792659-tesla-imminent-valuation-crash",
+      "image_url": "https://seekingalpha.com/samw/static/images/bull-and-bear.32d6d115c.png",
+      "summary": "Home page Seeking Alpha - Power to Investors Search for Symbols, analysts, keywords Getting lost on Seeking Alpha is annoying; being lost in the stock market is worse. Sign up now. Seeking Alpha - Power to Investors",
+      "published": "Thu, 05 Jun 2025 14:41:00 GMT"
+    },
+    {
+      "id": "7048cb5d02ea1ce21a6dd2ea47783ba9",
+      "title": "Europe cuts interest rates as Trump's tariffs loom - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwyn2w4dr4no",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/586f/live/5e85ae80-420e-11f0-8ea4-91d9e5dc3491.png",
+      "summary": "Europe cuts interest rates as Trump's tariffs loom ECB president Christine Lagarde said much of the uncertainty surrounding the economy was due to trade policies The European Central Bank (ECB) has cut its key interest rate for the eighth time in just over a year as it warned about continuing pressure on the eurozone from Donald Trump's tariffs. The main...",
+      "published": "Thu, 05 Jun 2025 13:39:46 GMT"
+    },
+    {
+      "id": "fe204d0971f7373baacc5a7e09e48b2b",
+      "title": "Marijuana Legalization Is Putting 'Pressure' On Alcohol Industry, CEO Of Jack Daniel's Parent Company Says Amid Profit Losses - Marijuana Moment",
+      "source": "Marijuana Moment",
+      "url": "https://www.marijuanamoment.net/marijuana-legalization-is-putting-pressure-on-alcohol-industry-ceo-of-jack-daniels-parent-company-says-amid-profit-losses/",
+      "image_url": "https://www.marijuanamoment.net/wp-content/uploads/2025/06/whiskey-alcohol-marijuana-cannabis-1000x600.png",
+      "summary": "Marijuana Legalization Is Putting ‘Pressure’ On Alcohol Industry, CEO Of Jack Daniel’s Parent Company Says Amid Profit Losses The growing use of marijuana as an alternative to alcohol is putting “pressure” on the spirits industry, contributing to a decline in profits in recent years, the president of a major alcohol company with ancillary brands such as Jack Daniel’s and Woodford...",
+      "published": "Thu, 05 Jun 2025 20:13:28 GMT"
     },
     {
       "id": "e60707bb4e8567486d61bfde90ba0210",
@@ -184,6 +166,24 @@
       "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-2207584872-e1749148993743.jpg?resize=1200,600",
       "summary": "NY Federal Reserve finds a ‘significant share’ of companies saying they raised prices on goods not affected by tariffs A New York Federal Reserve survey finds most companies have passed down tariff-induced costs to consumers in some form. As businesses pass down the cost of tariffs to consumers in the form of raised prices, the New York Federal Reserve found...",
       "published": "Thu, 05 Jun 2025 18:49:00 GMT"
+    },
+    {
+      "id": "e47dbfc988197d69ca6a7f550baf3bce",
+      "title": "Lululemon Stock Plummets 22% in Late Trading on Cut Guidance. Tariffs Are to Blame. - Barron's",
+      "source": "Barron's",
+      "url": "https://www.barrons.com/articles/lululemon-stock-lulu-guidance-news-eb4ee251",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Thu, 05 Jun 2025 21:27:00 GMT"
+    },
+    {
+      "id": "1ba1aa37feeac7f31a070f34c3e921b1",
+      "title": "Elon Musk says the Trump tariffs will cause a recession in the second half of 2025 - Forexlive | Forex News, Technical Analysis & Trading Tools",
+      "source": "Forexlive | Forex News, Technical Analysis & Trading Tools",
+      "url": "https://www.forexlive.com/news/elon-musk-says-the-trump-tariffs-will-cause-a-recession-in-the-second-half-of-2025-20250605/",
+      "image_url": "https://images.forexlive.com/images/Elon%20Epstein%20files_id_1095bf6d-74bb-4fe6-9c80-340cd5da78c2_size975.jpg",
+      "summary": "Elon Musk says the Trump tariffs will cause a recession in the second half of 2025 Musk injecting something relevant into the biatch slap-fest Thursday, 05/06/2025 | 20:32 GMT Musk-Trump feud is bringing forth some fresh information and opinions. Trump named in the Epstein files: Hola Prime Review: All You Need To Know About The Prop Firm And now Trump's...",
+      "published": "Thu, 05 Jun 2025 20:32:00 GMT"
     }
   ]
 }
