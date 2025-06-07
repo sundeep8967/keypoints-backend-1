@@ -1,36 +1,63 @@
 {
   "metadata": {
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-07 02:04:16",
+    "generation_time": "2025-06-07 06:39:01",
     "total_articles": 20
   },
   "articles": [
     {
+      "id": "c404f0b0253f24b48ba7318db88e27e3",
+      "title": "James Webb telescope unveils largest-ever map of the universe, stretching from present day to the dawn of time - Live Science",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/space/cosmology/scientists-unveil-the-largest-map-of-the-universe-spanning-over-13-billion-years",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/j4odWTSBih9XMXxBtG9Lkf.jpg",
+      "summary": "Physicists capture 'second sound' James Webb telescope unveils largest-ever map of the universe, spanning over 13 billion years By Damien Pine published 7 hours ago The largest map of the universe, created with data from the James Webb Space Telescope, shows almost 800,000 galaxies crammed into a tiny piece of sky and spanning almost all of time. When you purchase...",
+      "published": "Fri, 06 Jun 2025 23:06:00 GMT"
+    },
+    {
+      "id": "6975fdb8175d6d48ff9bd26f4754ad87",
+      "title": "A Japanese lander crashed on the Moon after losing track of its location - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2025/06/a-japanese-lander-crashed-on-the-moon-after-losing-track-of-its-location/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/ispace_ceo-1152x648.jpeg",
+      "summary": "A Japanese lander crashed on the Moon after losing track of its location \"It’s not impossible, so how do we overcome our hurdles? \" Takeshi Hakamada, founder and CEO of ispace, attends a press conference in Tokyo on June 6, 2025, to announce the outcome of his company's second lunar landing attempt. Credit: Kazuhiro Nogi/AFP via Getty Images A robotic...",
+      "published": "Fri, 06 Jun 2025 17:30:15 GMT"
+    },
+    {
       "id": "0beac0d44cbbbbacad012dbf8e73b482",
       "title": "Saving Gateway, SLS and Orion? Sen. Ted Cruz proposes $10 billion more for NASA's moon and Mars efforts - Space",
       "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRUk3QWVqQkY0a2JxNTZMZlV1eXA3RlI1RFhaY05NSkoyaGgwdV9oWERUSDExcFBzRm9IelFBWWs0NFBYQnl0SGRab0RybkhVSk5xb3hyMWRxd0l4OHo0ZW9nNDBBVWRtSGVFb0YxQjNwNmp1aUQ3TzJ1MkQ0WjA0UUFxdHhwOS1QZTFUakxuUjFKMjllbUgwY3dIRkNvOE5TRzI1V3E0UEp0V040TW5DTzBzYlU0c2E4TUNRbldFV0JyTzF0RUtKdUlnaUttc3BRYkxGREp3eDY?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.space.com/space-exploration/saving-gateway-sls-and-orion-sen-ted-cruz-proposes-usd10-billion-more-for-nasas-moon-and-mars-efforts",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fYpfiMXCii2kVGExBEekvZ.jpg",
+      "summary": "Fate of ispace moon lander in doubt Saving Gateway, SLS and Orion? Sen. Ted Cruz proposes $10 billion more for NASA's moon and Mars efforts By Leonard David published 10 hours ago Sen. Ted Cruz's newly unveiled legislative directives for Senate Republicans’ budget reconciliation bill would dedicate almost $10 billion to help win the \"new space race\" with China. When...",
       "published": "Fri, 06 Jun 2025 20:16:32 GMT"
     },
     {
-      "id": "c185af9d2559abf14d80fd983f4ae233",
-      "title": "Largest map of the universe announced revealing 800,000 galaxies, challenging early cosmos theories - Phys.org",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2025-06-largest-universe-revealing-galaxies-early.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.43.245.96 : dfd64979-7025-4c14-80fb-94c6a5a2",
-      "published": "Thu, 05 Jun 2025 17:37:53 GMT"
+      "id": "2b2ed9fc556b0bc742ef59de069a644f",
+      "title": "If books could kill: The poison legacy lurking in libraries - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4g2y9xq58no",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/b804/live/51328d10-42fa-11f0-9630-fd015488de94.jpg",
+      "summary": "If books could kill: The poison legacy lurking in libraries BBC Scotland Arts Correspondent Green dye was widely used in Victorian publishing The Victorians loved the colour green. In particular, they loved a vibrant shade of emerald created by combining copper and arsenic, which was used in everything from wallpaper to children's toys. \"This colour was very popular for most...",
+      "published": "Fri, 06 Jun 2025 21:57:09 GMT"
     },
     {
-      "id": "2c3e410753b2c3d038cc80051de56f6f",
-      "title": "Private lunar lander from Japan crashes into moon in failed mission - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/06/nx-s1-5424751/private-lunar-lander-from-japan-crashes-into-moon-in-failed-mission",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3968x2232+0+211/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F85%2Ff3%2F7ab5e1b04c3286ebfa8b9d214e85%2Fap25157051968371.jpg",
-      "summary": "Private lunar lander from Japan crashes into moon in failed mission People await the update on ispace's private lunar lander's attempt to touch down on the moon Friday, June 6, 2025, in Tokyo, Japan. A private lunar lander from Japan crashed while attempting a touchdown Friday, the latest casualty in the commercial rush to the moon. The Tokyo-based company ispace...",
-      "published": "Fri, 06 Jun 2025 04:22:08 GMT"
+      "id": "c14d9b806c2abdd21c7b70d3d310a789",
+      "title": "How NASA Plans To Deal With Death In Space - Jalopnik",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/1879088/how-nasa-plans-to-deal-with-death-in-space/",
+      "image_url": "https://www.jalopnik.com/img/gallery/how-nasa-plans-to-deal-with-death-in-space/l-intro-1749181628.jpg",
+      "summary": "© 2025 Static Media. All Rights Reserved How NASA Plans To Deal With Death In Space While America's space program has endured several tragedies, no mission has left the remains of a lost astronaut floating in the final frontier. NASA is understandably prepared if that worst-case scenario ever arises. The agency organized protocols if an astronaut were to die on...",
+      "published": "Fri, 06 Jun 2025 19:25:00 GMT"
+    },
+    {
+      "id": "2536547287e8aec60c2ec7b33949eaaf",
+      "title": "Live coverage: SpaceX to launch SXM-10 satellite for SiriusXM on Falcon 9 rocket from Cape Canaveral - Spaceflight Now",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2025/06/06/live-coverage-spacex-to-launch-sxm-10-satellite-for-siriusxm-on-falcon-9-rocket-from-cape-canaveral/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_SXM-10_satellite_small.jpeg",
+      "summary": "SpaceX launches SXM-10 satellite for SiriusXM on Falcon 9 rocket from Cape Canaveral SpaceX launches SXM-10 satellite for SiriusXM on Falcon 9 rocket from Cape Canaveral June 6, 2025 Will Robinson-Smith SpaceX launches its Falcon 9 rocket on June 7, 2025 at 12:54 a. m. EDT (0454 UTC) in support of the SXM-10 mission from Space Launch Complex 40 at...",
+      "published": "Fri, 06 Jun 2025 05:11:04 GMT"
     },
     {
       "id": "e8fd3d6fb84ff02fa16ccebb7f08410c",
@@ -51,21 +78,21 @@
       "published": "Fri, 06 Jun 2025 19:45:00 GMT"
     },
     {
-      "id": "c14d9b806c2abdd21c7b70d3d310a789",
-      "title": "How NASA Plans To Deal With Death In Space - Jalopnik",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/1879088/how-nasa-plans-to-deal-with-death-in-space/",
-      "image_url": "https://www.jalopnik.com/img/gallery/how-nasa-plans-to-deal-with-death-in-space/l-intro-1749181628.jpg",
-      "summary": "© 2025 Static Media. All Rights Reserved How NASA Plans To Deal With Death In Space While America's space program has endured several tragedies, no mission has left the remains of a lost astronaut floating in the final frontier. NASA is understandably prepared if that worst-case scenario ever arises. The agency organized protocols if an astronaut were to die on...",
-      "published": "Fri, 06 Jun 2025 19:25:00 GMT"
+      "id": "ce296db4c6a0865bbe550274c53964bb",
+      "title": "Earth's CO2 hits highest recorded level in human history - exceeding 430 parts per million for the first time - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/sciencetech/article-14787095/Earth-CO2-hits-highest-human-history.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/06/13/99109319-0-image-m-7_1749213192584.jpg",
+      "summary": "Earth's CO2 hits highest recorded level in human history - exceeding 430 parts per million for the first time ever READ MORE: Experts call for urgent action as Britain records its hottest spring By JONATHAN CHADWICK FOR MAILONLINE PUBLISHED: 08:33 EDT, 6 June 2025 | UPDATED: 11:40 EDT, 6 June 2025 There's now more carbon dioxide (CO2) in the atmosphere...",
+      "published": "Fri, 06 Jun 2025 12:33:23 GMT"
     },
     {
       "id": "dcbd44372719545dc30203dd925e99ba",
       "title": "Astronomers Discover Most Energetic Cosmic Explosions Ever Observed - Gizmodo",
       "source": "Gizmodo",
-      "url": "https://gizmodo.com/astronomers-discover-most-energetic-cosmic-explosions-ever-observed-2000611708",
-      "image_url": "https://gizmodo.com/app/uploads/2025/06/ENT-1200x675.jpg",
-      "summary": "Astronomers Discover Most Energetic Cosmic Explosions Ever Observed Extreme nuclear transients are 10 million times rarer than supernovae and emit the same amount of energy as 100 Suns. Published June 5, 2025 | Comments (3) | An artistic rendering of Extreme Nuclear Transient. © W. M. Keck Observatory / Adam Makarenko Astronomers in Hawaii have discovered a new kind of...",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTkFlMHZhdmFYSF9pLVVCTlRUMm43QTlCYVp6NkpSZ0xzVXllRmRiNkFDUGZPOEdTdy1iczRrV2lkaEVtZzA2TEFzaVgwT0VHSVE5R18xclV1Vnd2cEJ3LVNMdnZmMTdPb3dzVlZMdFNHa3JaeWozNkxiazBrZGFhSVcyZGp0QTJfVWQ0c3NJS0VWbHRiSXU4V3oyX05HTUk?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Thu, 05 Jun 2025 19:35:29 GMT"
     },
     {
@@ -76,24 +103,6 @@
       "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Asteroid-2024-YR4-Could-Strike-the-Moon-NASAs-Webb-Telescope-Warns.jpg",
       "summary": "Asteroid 2024 YR4 Could Strike the Moon: NASA’s Webb Telescope Warns NASA’s Webb Telescope has raised the alarm as asteroid 2024 YR4’s odds of striking the Moon soar. Credit: NASA/JPL Center for Near-Earth Object Studies | The Daily Galaxy --Great Discoveries Channel NASA’s James Webb Space Telescope has provided a new update on asteroid 2024 YR4, revealing important findings that...",
       "published": "Fri, 06 Jun 2025 15:00:00 GMT"
-    },
-    {
-      "id": "9a5b15dd38f85f5aa9fe899bd5a55257",
-      "title": "Scientists warn massive underwater volcano is 'ready' to ERUPT... and will release millions of tons of lava - Daily Mail",
-      "source": "Daily Mail",
-      "url": "https://www.dailymail.co.uk/sciencetech/article-14785333/Scientists-warn-massive-underwater-volcano-ready-ERUPT-release-millions-tons-lava.html",
-      "image_url": "https://i.dailymail.co.uk/1s/2025/06/05/21/99090241-0-image-m-13_1749155150989.jpg",
-      "summary": "Scientists warn massive underwater volcano is 'ready' to ERUPT. .. and will release millions of tons of lava READ MORE: Mile-wide off the West Coast keeps getting bigger By OSHEEN YADAV FOR DAILYMAIL. COM PUBLISHED: 09:07 EDT, 6 June 2025 | UPDATED: 09:07 EDT, 6 June 2025 An underwater volcano off the West Coast is predicted to erupt at any...",
-      "published": "Fri, 06 Jun 2025 13:07:22 GMT"
-    },
-    {
-      "id": "930f2ceed6c900df87a6b4a5fc63eaee",
-      "title": "Despite Trump-Musk Feud, CO2 Milestone Is the 'Important News of the Day' - Common Dreams",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/news/carbon-dioxide-record",
-      "image_url": "https://www.commondreams.org/media-library/image.jpg?id=60548950&width=1200&height=600&coordinates=0%2C85%2C0%2C86",
-      "summary": "A view of flames and giant smoke is seen over the sky as a fire erupted at the natural gas Moss Landing Power Plant in Moss Landing of Monterey Bay, California, United States on January 17, 2025. (Photo: Tayfun Coskun/Anadolu via Getty Images) Despite Trump-Musk Feud, CO2 Milestone Is the 'Important News of the Day' Scientists said that atmospheric carbon...",
-      "published": "Thu, 05 Jun 2025 20:33:11 GMT"
     },
     {
       "id": "43d97c157c875f497e61bda52b8ff66b",
@@ -110,26 +119,26 @@
       "source": "NewsNation",
       "url": "https://www.newsnationnow.com/space/milky-way-collision-andromeda/",
       "image_url": "https://www.newsnationnow.com/wp-content/themes/the-hill/assets/the-hill-logo-horizontal.svg",
-      "summary": "Press & Hold to confirm you are Reference ID 92caf35c-4343-11f0-8892-7ec8674c5a11",
+      "summary": "Press & Hold to confirm you are Reference ID f49e89ee-4369-11f0-b514-a1adceca0190",
       "published": "Thu, 05 Jun 2025 20:17:41 GMT"
     },
     {
-      "id": "189039c87625f5393614ce4126d468ff",
-      "title": "First Map Made of a Solid’s Secret Quantum Geometry - Quanta Magazine",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/first-map-made-of-a-solids-secret-quantum-geometry-20250606/",
-      "image_url": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Quantum-Information-Shape_crMark-Belan-Social.jpg",
-      "summary": "First Map Made of a Solid’s Secret Quantum Geometry Physicists recently mapped the hidden shape that underlies the quantum behaviors of a crystal, using a new method that’s expected to become ubiquitous. The possible quantum states of a crystal carve out a curved shape. Famously, at the quantum scale, particles can be in multiple possible locations at once. A particle’s...",
-      "published": "Fri, 06 Jun 2025 14:15:00 GMT"
+      "id": "9fd45209aa2143b13eac927f847fb57a",
+      "title": "500-Million-Year-Old Mystery Fossil Rewrites Early Animal Evolution - SciTechDaily",
+      "source": "SciTechDaily",
+      "url": "https://scitechdaily.com/500-million-year-old-mystery-fossil-rewrites-early-animal-evolution/",
+      "image_url": "https://scitechdaily.com/images/3D-Spine-Arrangement-and-Apical-Orifice-Structure-in-the-Top-End-of-a-Shishania-Fossil-Specimen-scaled.jpg",
+      "summary": "Home»Science»500-Million-Year-Old Mystery Fossil Rewrites Early Animal Evolution 500-Million-Year-Old Mystery Fossil Rewrites Early Animal Evolution The top end of a specimen of Shishania, showing the three-dimensionality of its spines and their arrangement around an apical orifice. Credit: Zhang Xiguang A Cambrian fossil once thought to be a mollusk ancestor is now identified as a chancelloriid relative, reshaping ideas about early animal...",
+      "published": "Sat, 07 Jun 2025 01:43:44 GMT"
     },
     {
-      "id": "6ecbb948c1c96d429e8958c80e0cabfb",
-      "title": "New discovery at the Grand Canyon has rewritten geology textbooks - Earth.com",
-      "source": "Earth.com",
-      "url": "https://www.earth.com/news/new-discovery-at-the-grand-canyon-is-rewriting-geology-textbooks-tonto-group/",
-      "image_url": "https://cff2.earth.com/uploads/2025/06/06133157/grand-canyon_cambrian-rocks_trilobyte-discovery_credit-New-Mexico_1m.jpg",
-      "summary": "New discovery at the Grand Canyon has rewritten geology textbooks The Colorado River has been carving its way through northern Arizona for millions of years, but what really stops people in their tracks are the rocks of the Tonto Group in the Grand Canyon walls themselves. From the rim you can trace ribbons of color stacked like oversized bar codes,...",
-      "published": "Fri, 06 Jun 2025 20:55:54 GMT"
+      "id": "5bc8d745aeeffe29745c994f534f9350",
+      "title": "Astronomers Discover Giant Planet Orbiting Tiny Star, Defying Planet Formation Theories - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/giant-planet-orbiting-tiny-star/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Astronomers-Discover-Giant-Planet-Orbiting-Tiny-Star-Defying-Planet-Formation-Theories.jpg",
+      "summary": "Astronomers Discover Giant Planet Orbiting Tiny Star, Defying Planet Formation Theories Astronomers have discovered a giant planet orbiting an incredibly small star. Credit: University of Warwick/Mark Garlick | The Daily Galaxy --Great Discoveries Channel A groundbreaking discovery in the field of exoplanet research is forcing scientists to reconsider long-held theories about how planets form. An international team of astronomers, led...",
+      "published": "Thu, 05 Jun 2025 14:00:00 GMT"
     },
     {
       "id": "2e4aee6701e9e5b498e6d3274beca4de",
@@ -141,22 +150,31 @@
       "published": "Fri, 06 Jun 2025 15:35:00 GMT"
     },
     {
-      "id": "9890eb3f67167fcfb0ef0009a7035718",
-      "title": "Acting NASA Administrator Janet Petro June 6, 2025 - NASA Watch",
-      "source": "NASA Watch",
-      "url": "https://nasawatch.com/ask-the-administrator/acting-nasa-administrator-janet-petro-june-6-2025/",
-      "image_url": null,
-      "summary": "Verify you are human by completing the action below. nasawatch.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Fri, 06 Jun 2025 21:29:11 GMT"
+      "id": "884e71a22def625a9c9e68b5f1ded694",
+      "title": "\"It Was a Crazy Idea\": James Webb Space Telescope Confirms Dramatic Phenomenon On Pluto - The Debrief",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org/it-was-a-crazy-idea-james-webb-space-telescope-confirms-dramatic-phenomenon-on-pluto/",
+      "image_url": "https://thedebrief.b-cdn.net/wp-content/uploads/2025/06/James-Webb-Space-Telescope-Pluto.jpeg",
+      "summary": "James Webb Space Telescope (JWST) observations indicate that Pluto’s atmosphere is unlike any other in the solar system, confirming a 2017 hypothesis and potentially revealing how the early Earth developed a habitable atmosphere from its nitrogen and hydrocarbon beginnings. Pluto is covered in a haze of nitrogen, methane, and carbon dioxide, whose individual particles regulate the atmosphere’s energy balance as...",
+      "published": "Fri, 06 Jun 2025 14:24:02 GMT"
     },
     {
-      "id": "39b26494483747a2c267fb87c23e08d5",
-      "title": "Catch Jupiter and Mercury side by side in the evening sky this week - Space",
-      "source": "Space",
-      "url": "https://www.space.com/stargazing/catch-jupiter-and-mercury-side-by-side-in-the-evening-sky-this-week",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/tkfP4vgUPa4pGmsB3fkvUm.jpg",
-      "summary": "Fate of ispace moon lander in doubt Catch Jupiter and Mercury side by side in the evening sky this week By Anthony Wood published 10 hours ago The solar system's largest and smallest planets will greet one another in the eastern sky. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.",
-      "published": "Fri, 06 Jun 2025 16:00:00 GMT"
+      "id": "ff013881574e138fe6115c03ca6f6bf9",
+      "title": "A surprising study revealed biological activity on a distant planet. Weeks later, scientists say there’s more to the story - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/06/science/k218b-studies-planet-habitability",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/230914141939-exoplanet-k2-18b.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "A surprising study revealed biological activity on a distant planet. Weeks later, scientists say there’s more to the story Updated 10:54 AM EDT, Fri June 6, 2025 An artist's concept shows what K2-18b might look like. Thought to be covered entirely in liquid water with a hydrogen-rich atmosphere, the exoplanet may be a good place to look for biological activity.",
+      "published": "Fri, 06 Jun 2025 14:54:00 GMT"
+    },
+    {
+      "id": "189039c87625f5393614ce4126d468ff",
+      "title": "First Map Made of a Solid’s Secret Quantum Geometry - Quanta Magazine",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/first-map-made-of-a-solids-secret-quantum-geometry-20250606/",
+      "image_url": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Quantum-Information-Shape_crMark-Belan-Social.jpg",
+      "summary": "First Map Made of a Solid’s Secret Quantum Geometry Physicists recently mapped the hidden shape that underlies the quantum behaviors of a crystal, using a new method that’s expected to become ubiquitous. The possible quantum states of a crystal carve out a curved shape. Famously, at the quantum scale, particles can be in multiple possible locations at once. A particle’s...",
+      "published": "Fri, 06 Jun 2025 14:15:00 GMT"
     },
     {
       "id": "27bc811a3383f735da5598c927e091c5",
@@ -166,24 +184,6 @@
       "image_url": "https://spacenews.com/wp-content/uploads/2025/06/issrdc-montalbano.webp",
       "summary": "Covering the business and politics of space NASA withdraws support for conferences NASA had used the ISS Research and Development Conference to discuss the status and future plans for the station, such as this panel discussion at the 2023 event. Credit: SpaceNews/Jeff Foust Updated 9:20 a. m. Eastern with LPI statement. WASHINGTON — A space station research conference has been...",
       "published": "Thu, 05 Jun 2025 11:37:10 GMT"
-    },
-    {
-      "id": "6901e0c3413168d78b699524b58edd0f",
-      "title": "When To See June’s ‘Strawberry Moon,’ The Lowest Full Moon Since 2006 - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/jamiecartereurope/2025/06/05/full-moon-june-2025-when-to-see-the-strawberry-moon-rise-and-fall/",
-      "image_url": "https://imageio.forbes.com/specials-images/imageserve/647cd0b68c78818aad0b6fdd/0x0.jpg?format=jpg&crop=4200,2361,x0,y48,safe&height=900&width=1600&fit=bounds",
-      "summary": "The Musk Vs. Trump Feud: Here’s The Complete Rundown Here Are The Odds Musk And Trump Reconcile—According To Betting Markets Northern Lights Forecast: 8 States May See Aurora Borealis Tonight Before Geomagnetic Storms May Jobs Report Reveals Further Labor Market Stability—139,000 Jobs Added Last Month When To See June’s ‘Strawberry Moon,’ The Lowest Full Moon Since 2006 ByJamie Carter, Senior...",
-      "published": "Thu, 05 Jun 2025 10:00:00 GMT"
-    },
-    {
-      "id": "69d35f4931e79a593d3ee54ccdf051ee",
-      "title": "Scientists stunned after detecting unexpected shift in Antarctic Ice Sheet: 'A historic turnaround' - Yahoo",
-      "source": "Yahoo",
-      "url": "https://www.yahoo.com/news/scientists-stunned-detecting-unexpected-shift-103036960.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/FKEQwbH9hehGV0OgF2WiLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the_cool_down_737/45ab8bb9d0dfb4276f4558b9861fa0b8",
-      "summary": "Scientists stunned after detecting unexpected shift in Antarctic Ice Sheet: 'A historic turnaround' Fri, June 6, 2025 at 10:30 AM UTC Scientists stunned after detecting unexpected shift in Antarctic Ice Sheet: 'A historic turnaround' Scientists have observed an encouraging trend in growth in the Antarctic Ice Sheet but remain cautious about the climate's future. A study published in Science China...",
-      "published": "Fri, 06 Jun 2025 10:30:36 GMT"
     }
   ]
 }
