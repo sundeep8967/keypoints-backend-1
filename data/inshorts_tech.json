@@ -1,19 +1,10 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-08 06:46:38",
+    "generation_time": "2025-06-08 14:00:09",
     "total_articles": 20
   },
   "articles": [
-    {
-      "id": "a4cc46bf7bfaeae0d25b018ca7782dca",
-      "title": "Bill Atkinson, Who Made Computers Easier to Use, Is Dead at 74 - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/07/technology/bill-atkinson-dead.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sun, 08 Jun 2025 00:12:30 GMT"
-    },
     {
       "id": "65996a123aa7c5906643737404260f24",
       "title": "Nintendo Switch 2 sales shatters records, most-sold console in 24-hour period - TweakTown",
@@ -22,6 +13,15 @@
       "image_url": "https://static.tweaktown.com/news/1/0/105637_89894_nintendo-have-globally-shifted-over-3m-switch-2-units_full.png",
       "summary": "Nintendo Switch 2 sales shatters records, most-sold console in 24-hour period The Nintendo Switch 2 has reportedly beaten the record for the most-sold console within 24 hours and is on track to shatter the two-month record. Published Jun 7, 2025 10:29 AM CDT Updated Jun 7, 2025 11:17 AM CDT 2 minutes & 15 seconds read time As an Amazon...",
       "published": "Sat, 07 Jun 2025 15:29:04 GMT"
+    },
+    {
+      "id": "12144869b47c958ae9d086444e5c0260",
+      "title": "Sonic Racing: CrossWorlds Free and Paid DLC Adds Guests from Minecraft, Like a Dragon, More - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2025/06/sonic-racing-crossworlds-free-and-paid-dlc-adds-guests-from-minecraft-like-a-dragon-more",
+      "image_url": "https://images.pushsquare.com/ac09dc7d8cc94/large.jpg",
+      "summary": "NewsSEGAPS5PS4Sonic Racing CrossWorldsTrailersRelease Dates Sonic Racing: CrossWorlds Free and Paid DLC Adds Guests from Minecraft, Like a Dragon, More by Stephen Tailby Yesterday, 12pm Subscribe to Push Square on YouTube157K Update [Sat 7th Jun 2025, 12pm]: An update to the Sonic Racing: CrossWorlds website has provided more information about the game, its post-launch content plan, and more. The SEGA-owned guest...",
+      "published": "Sat, 07 Jun 2025 12:00:00 GMT"
     },
     {
       "id": "02e5893cedacb47284bb793c7f929d11",
@@ -33,22 +33,31 @@
       "published": "Sat, 07 Jun 2025 00:20:27 GMT"
     },
     {
-      "id": "382079a2640d940eab2cd93c1afa6af8",
-      "title": "Wear OS 6 hints that Google finally remembers newer Pixel Watches are waterproof - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/wear-os-6-hints-water-lock-feature/",
-      "image_url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/01/google-pixel-watch-3-running-1.jpg",
-      "summary": "Wear OS 6 hints that Google finally remembers newer Pixel Watches are waterproof Wear OS 6 will bring some big updates, like Material 3 Expressive. It looks like there could also be a new \"Water Lock\" feature introduced. This was discovered in the code, but doesn't indicate how it will differ from the current touchsceen lock. The Pixel Watch is...",
-      "published": "Fri, 06 Jun 2025 20:56:00 GMT"
+      "id": "a6419bff346ad73b005a00343bf947eb",
+      "title": "Xbox console games are suddenly showing up inside the Xbox PC app - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/682235/xbox-pc-games-console-library-xbox-360",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/xboxpcapp.jpg?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200",
+      "summary": "Xbox console games are suddenly showing up inside the Xbox PC appWe’re starting to see some early signs of Microsoft bringing Xbox and Windows closer together. Tom Warren is a senior editor and author of Notepad, who has been covering all things Microsoft, PC, and tech for over 20 years. Something strange is going on with Microsoft’s Xbox app on...",
+      "published": "Sun, 08 Jun 2025 09:08:58 GMT"
     },
     {
-      "id": "0991468e4c5d2c3898f72b620ffebb73",
-      "title": "iFixit says the Switch 2 is even harder to repair than the original - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/681568/ifixit-nintendo-switch-2-repairability",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/ifixit1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-      "summary": "iFixit says the Switch 2 is even harder to repair than the originalA complete teardown of Nintendo’s new console reveals more components that are harder to remove and replace. iFixit has completed its teardown of the Nintendo Switch 2 and many repairs don’t look easy. Image: iFixit Andrew Liszewski is a senior reporter who’s been covering and reviewing the latest...",
-      "published": "Fri, 06 Jun 2025 18:07:27 GMT"
+      "id": "d01c0a288342871a79ccd7daa561eef8",
+      "title": "Dying Light: The Beast launches August 22 - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2025/06/dying-light-the-beast-launches-august-22",
+      "image_url": "https://www.gematsu.com/wp-content/uploads/2025/06/Dying-Light-Beast-Date_06-06-25.jpg",
+      "summary": "Dying Light: The Beast launches August 22 Standalone zombie adventure game dated. Open-world action survival game Dying Light: The Beast will launch for PlayStation 5, Xbox Series, PlayStation 4, Xbox One, and PC via Steam and Epic Games Store on August 22, developer Techland announced. Users who own the “Ultimate Edition” of Dying Light 2: Stay Human will receive Dying...",
+      "published": "Fri, 06 Jun 2025 22:09:28 GMT"
+    },
+    {
+      "id": "3df87eab953fe79264eb7810888568b3",
+      "title": "Top Stories: What to Expect at Apple's WWDC 2025 'Sleek Peek,' macOS Tahoe Rumors, and More - MacRumors",
+      "source": "MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PMER6ZnRzOUIyNFNxZlBVTDZWcGloVVVXVVdkTUlNUW1YdHFvUFlDS0E1bGREUTdORWNwbzY3QlZ6VnJLZ0tHRHNNeFN3YjNJQ3pKU1FjQVNTVy1kR3k1YXBGeWJQbDBSRHZfQkZ1d0QwNnFyOG04ZWJzVVZhcFk?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 07 Jun 2025 13:00:00 GMT"
     },
     {
       "id": "6975fdb8175d6d48ff9bd26f4754ad87",
@@ -60,6 +69,15 @@
       "published": "Fri, 06 Jun 2025 17:30:15 GMT"
     },
     {
+      "id": "6c4f2404f4c23b92ad0b4ca024644673",
+      "title": "The Mustang’s New Appearance Pack Is a 1980s Fever Dream - Motor1.com",
+      "source": "Motor1.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53d3pKYThReUxhaHVMLWN2Y2RnLUh0elJMZHlHTmtKSXpuMS05TmxOOUlURWdKcFA2bkRId1BHbkZXY1NJSk16cGhNMTI2SVdIN1AtVUEtUTMwTFRmVXRfSkRUaVBEaFhwZ3BfWl9ZSXhhSFViZHYw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 08 Jun 2025 05:02:31 GMT"
+    },
+    {
       "id": "8e301569d32194f4dc8b994f71817050",
       "title": "Fortnite Map Changes In Chapter 6 Season 3: Super - GameSpot",
       "source": "GameSpot",
@@ -69,40 +87,13 @@
       "published": "Sat, 07 Jun 2025 22:11:54 GMT"
     },
     {
-      "id": "1bc2e1831de28901190b430ceb424ca8",
-      "title": "963 RSP Revealed: Meet Porsche's Street-Legal Le Mans Hypercar - Motor1.com",
-      "source": "Motor1.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45cmJraE9QanZIODE4MlJJVUE1dkU3eVU2eGV5UkRPUk1UVk1kaktHX2NjX0pUd1R3cDVWdk13LWNxNk9xVmZPZEwwWTlWYlY4SjQwWE5haF9SbFBKdFlFN1I5UXpBVVZGWmc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 07 Jun 2025 22:48:25 GMT"
-    },
-    {
-      "id": "9f0f4c88df89898790931732af33ddb1",
-      "title": "Rogue Trader devs Owlcat are making an Expanse RPG with Mass Effect-style combat - Rock Paper Shotgun",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/rogue-trader-devs-owlcat-are-making-an-expanse-rpg-with-mass-effect-style-combat",
-      "image_url": "https://assetsio.gnwcdn.com/The_Expanse_Osiris_Reborn_KeyArt_16x9_1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "summary": "All Elden Ring: Nightreign bosses and mini-bosses Monster Hunter Wilds best weapons tier list If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News The Expanse: Osiris Reborn Rogue Trader devs Owlcat are making an Expanse RPG with Mass Effect-style combat Osiris Reborn is an original story in...",
-      "published": "Sat, 07 Jun 2025 20:05:00 GMT"
-    },
-    {
-      "id": "e4d64eca642de10fd571f83bbc4d7be7",
-      "title": "Summer Game Fest June 2025: Everything announced - Eurogamer",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/summer-game-fest-june-2025-everything-announced",
-      "image_url": "https://assetsio.gnwcdn.com/Screenshot-from-resident-evil-requiem.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "summary": "Genshin Impact 5. 7 Livestream Codes Summer Games Fest & IGN Live Schedule If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News Resident Evil: Requiem Summer Game Fest June 2025: Everything announced Resident Evil Requiem! Wildgate! Deadpool VR! Jurassic World Evolution 3! Code Vein 2! News by...",
-      "published": "Sat, 07 Jun 2025 16:47:23 GMT"
-    },
-    {
-      "id": "27fbf328b7c665e3b0d209af3003c892",
-      "title": "The Ford Mustang FX Is The Freshest Pony Since Vanilla's 5.0 - CarBuzz",
-      "source": "CarBuzz",
-      "url": "https://carbuzz.com/2026-ford-mustang-fx-retro-reveal/",
-      "image_url": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2026-mustang-fx-package_23.jpg",
-      "summary": "The Ford Mustang FX Is The Freshest Pony Since Vanilla's 5. 0 It might be faster, stronger, grippier, more comfortable, and better in just about every way than the 1993 Ford Mustang, but there is one area where the retro car beats the modern one. Teal. You could get your 1993 Ford Mustang Cobra in that most 1990s of paint...",
-      "published": "Sat, 07 Jun 2025 10:00:00 GMT"
+      "id": "b7f308d66f2ffb8224574d901fe6aa7b",
+      "title": "Bill Atkinson, Macintosh Pioneer and Inventor of Hypercard, Dies at 74 - WIRED",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/bill-atkinson-apple-engineer-dies/",
+      "image_url": "https://media.wired.com/photos/6844b4c9731f47057b6baa5a/191:100/w_1280,c_limit/956679162",
+      "summary": "Bill Atkinson, Macintosh Pioneer and Inventor of Hypercard, Dies at 74 Atkinson’s gleeful brilliance helped people draw on computer screens and access information via links. MY FIRST MEETING with Bill Atkinson was unforgettable. It was November 1983, and reporting for Rolling Stone, I had gained access to the team building the Macintosh computer, scheduled to launch early the next year.",
+      "published": "Sat, 07 Jun 2025 22:52:00 GMT"
     },
     {
       "id": "a0828597ffda3b831c255688b72829da",
@@ -114,31 +105,31 @@
       "published": "Sat, 07 Jun 2025 14:10:47 GMT"
     },
     {
+      "id": "9f0f4c88df89898790931732af33ddb1",
+      "title": "Rogue Trader devs Owlcat are making an Expanse RPG with Mass Effect-style combat - Rock Paper Shotgun",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/rogue-trader-devs-owlcat-are-making-an-expanse-rpg-with-mass-effect-style-combat",
+      "image_url": "https://assetsio.gnwcdn.com/The_Expanse_Osiris_Reborn_KeyArt_16x9_1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "All Elden Ring: Nightreign bosses and mini-bosses Monster Hunter Wilds best weapons tier list If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News The Expanse: Osiris Reborn Rogue Trader devs Owlcat are making an Expanse RPG with Mass Effect-style combat Osiris Reborn is an original story in...",
+      "published": "Sat, 07 Jun 2025 20:05:00 GMT"
+    },
+    {
       "id": "e76e0247e0052819c3f285ce2650eb4d",
       "title": "Delete Every App On Your Smartphone That’s On This List - Forbes",
       "source": "Forbes",
       "url": "https://www.forbes.com/sites/zakdoffman/2025/06/07/delete-every-app-on-your-smartphone-thats-on-this-list/",
       "image_url": "https://imageio.forbes.com/specials-images/imageserve/65aeed369be3a016e61b4a9a/0x0.jpg?format=jpg&crop=2599,1462,x298,y197,safe&height=900&width=1600&fit=bounds",
-      "summary": "Delete Every App On Your Smartphone That’s On This List ByZak Doffman, Contributor. Zak Doffman writes about security, surveillance and privacy. Jun 07, 2025, 05:24pm EDTJun 08, 2025, 12:53am EDT You probably have at least 100 apps on your phone — likely more. And there’s plenty of choice, almost 2 million apps on Apple’s App Store and nearer 3 million...",
+      "summary": "Trump Drops A Cybersecurity Bombshell With Biden-Era Policy Reversal Snitch On Password Hackers And Get $10 Million — Here’s How FBI Issues Critical Cyberattack Alert — Act Now As Victims Skyrocket FBI Warns iPhone And Android Users—Do Not Answer These Calls Delete Every App On Your Smartphone That’s On This List ByZak Doffman, Contributor. Zak Doffman writes about security, surveillance...",
       "published": "Sun, 08 Jun 2025 04:53:06 GMT"
     },
     {
-      "id": "e0cb5ab0b9b4153975c4df264216ae31",
-      "title": "Apple Has a Huge Siri Problem That WWDC 2025 Probably Won’t Fix - Gizmodo",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/apple-has-a-huge-siri-problem-that-wwdc-2025-probably-wont-fix-2000612362",
-      "image_url": "https://gizmodo.com/app/uploads/2025/06/ios19-siri-1200x675.jpg",
-      "summary": "Apple Has a Huge Siri Problem That WWDC 2025 Probably Won’t Fix If Apple is going to address its stumbles with AI, now would be the time, but my hopes aren't super high. Published June 6, 2025 | Comments (10) | Apple’s annual WWDC developer conference is almost here, and it’s shaping up to be an important one. Not just...",
-      "published": "Fri, 06 Jun 2025 18:10:14 GMT"
-    },
-    {
-      "id": "c13e386093cb9d8d3537d6c8ed5738a1",
-      "title": "Meta Ray-Ban Glasses are at their Lowest Price Ever: Deal of the Day - NBC News",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/select/shopping/meta-ray-ban-glasses-deal-of-the-day-2025-rcna211506",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250606-deal-of-the-day-ray-ban-meta-oo-main-64c87c.jpg",
-      "summary": "Stanley's viral tumbler is 40% off Deal of the day: Samsung Galaxy Buds 3 Lowest price ever: Apple iPad Air (M3) Lululemon's \"We Made Too Much\" sale Select independently determines what we cover and recommend. When you buy through our links, we may earn a commission. Learn more. Deal of the Day: Meta Ray-Ban Glasses are at their lowest price...",
-      "published": "Fri, 06 Jun 2025 19:10:37 GMT"
+      "id": "148231238999b29d18a5981281197a9d",
+      "title": "Everything announced in the Summer Game Fest Opening Showcase 2025 - Eurogamer",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/summer-game-fest-june-2025-everything-announced",
+      "image_url": "https://assetsio.gnwcdn.com/Screenshot-from-resident-evil-requiem.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "Genshin Impact 5. 7 Livestream Codes Summer Games Fest & IGN Live Schedule If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News Resident Evil: Requiem Everything announced in the Summer Game Fest Opening Showcase 2025 Resident Evil Requiem! Wildgate! Deadpool VR! Jurassic World Evolution 3! Code Vein...",
+      "published": "Sat, 07 Jun 2025 16:47:23 GMT"
     },
     {
       "id": "8f3ccc65bb87a3a24955bb47647274c2",
@@ -150,6 +141,24 @@
       "published": "Sat, 07 Jun 2025 15:22:35 GMT"
     },
     {
+      "id": "c30a78e78e0da795cf862b5ff78ac5d1",
+      "title": "Tom Selleck's hideout revealed: Lavish new photos show inside idyllic 63-acre ranch amid bitter Hollywood feud - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVp5SEV3TzF5VlJGZGhvUjdCdldkZ0M2M1pYWUx6NFB4N0YyQkhieWVKeDNrR0czRS1ualNQd013elJWNkxVR3ZzUFFueFFJU1VTdFVoMm0yNlRQa0s3eTM2WlE2VnpEem1kRHZlX2VLWFFGc1hQV0pza0FkMGZYaGh6VWUxX0FSZE9VS2NtOHlhRnJXZHBlbmVvcGpqdjB3bWc?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 08 Jun 2025 00:09:36 GMT"
+    },
+    {
+      "id": "f5199cc91317969f51ed7f730e188f9c",
+      "title": "I tested Apple’s 11th-gen iPad for a week, and it’s still the best tablet - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/cnn-underscored/reviews/ipad-11",
+      "image_url": null,
+      "summary": "Press & Hold to confirm you are Reference ID d3d618dd-4470-11f0-9637-107cad1426e3",
+      "published": "Fri, 06 Jun 2025 15:55:00 GMT"
+    },
+    {
       "id": "08c8bcf8bf07fe20e6001cbe6b1d2f8b",
       "title": "Splitgate 2 Dev Says He's Tired Of Playing Call Of Duty And Wants Titanfall 3 While Wearing A 'Make FPS Great Again' Hat: 'I’m Not Here To Apologize' - Kotaku",
       "source": "Kotaku",
@@ -159,31 +168,22 @@
       "published": "Sat, 07 Jun 2025 15:56:23 GMT"
     },
     {
-      "id": "6ec109128ff328fb4c26c1fd5630cb49",
-      "title": "Sonic Racing: CrossWorlds Switch 2 Version Announced Alongside \"Paid Upgrade\" For Switch - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2025/06/sonic-racing-crossworlds-switch-2-version-announced-alongside-paid-upgrade-for-switch",
-      "image_url": "https://images.nintendolife.com/9f3a39ce8e65d/large.jpg",
-      "summary": "Sonic News Reviews Features Games Guides Videos Forums Better eShop NewsSonicNintendo Switch 2Nintendo SwitchSEGADLCUpcoming Releases Sonic Racing: CrossWorlds Switch 2 Version Announced Alongside \"Paid Upgrade\" For Switch Guest characters and release date also revealed by Liam Doolan Yesterday, 2:05am Subscribe to Nintendo Life on YouTube819K Sega has now officially locked in a release date for Sonic Racing: CrossWorlds – announcing...",
-      "published": "Sat, 07 Jun 2025 02:05:00 GMT"
+      "id": "c13e386093cb9d8d3537d6c8ed5738a1",
+      "title": "Meta Ray-Ban Glasses are at their Lowest Price Ever: Deal of the Day - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/select/shopping/meta-ray-ban-glasses-deal-of-the-day-2025-rcna211506",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250606-deal-of-the-day-ray-ban-meta-oo-main-64c87c.jpg",
+      "summary": "Stanley's viral tumbler is 40% off Deal of the day: Samsung Galaxy Buds 3 Lowest price ever: Apple iPad Air (M3) Lululemon's \"We Made Too Much\" sale Select independently determines what we cover and recommend. When you buy through our links, we may earn a commission. Learn more. Deal of the Day: Meta Ray-Ban Glasses are at their lowest price...",
+      "published": "Fri, 06 Jun 2025 19:10:37 GMT"
     },
     {
-      "id": "7f4d01792521a5fed1e3deb3ccbfeab0",
-      "title": "Nintendo has replaced the longtime voice of Peach and Toad - Polygon",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/nintendo-switch-2/604585/nintendo-voice-actor-princess-peach-toad-replaced-new",
-      "image_url": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/Princess-Peach-and-Toads-.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "summary": "Nintendo has replaced the longtime voice of Peach and Toad Donkey Kong’s voice actor was also changed for Mario Kart World. Marc Griffin has been an established gaming and entertainment journalist and associate editor since 2019. He has written for the likes of Grammy. com/The Recording Academy, Fandom Gaming, Gamespew, CBR, The Verge, Billboard, JD Sports, XDA, VIBE Magazine, HotNewHipHop,...",
-      "published": "Fri, 06 Jun 2025 19:32:02 GMT"
-    },
-    {
-      "id": "1fa9ad0832e6ae89ed2e4403a5cdd9a6",
-      "title": "Mario Kart World tech analysis, including frame rate and resolution - Nintendo Everything",
-      "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/mario-kart-world-tech-analysis-including-frame-rate-and-resolution/",
-      "image_url": "https://nintendoeverything.com/wp-content/uploads/Mario-Kart-World-frame-rate-resolution.jpg",
-      "summary": "Switch 2SwitchSwitch eShopamiiboMobile [Let’s Talk] First Nintendo Switch 2 impressions Mario Kart World review for Nintendo Switch 2 Mario Kart World tech analysis, including frame rate and resolution Posted on June 7, 2025 by Brian(@NE_Brian) in News, Switch 2 Mario Kart World is the big Nintendo Switch 2 launch game, and Digital Foundry has provided insight from the technical side...",
-      "published": "Sat, 07 Jun 2025 19:15:59 GMT"
+      "id": "aa46aa85b3750b978ded50f86aa455a0",
+      "title": "SLEEP AWAKE launches in 2026 for PS5, Xbox Series, and PC - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2025/06/sleep-awake-launches-in-2026-for-ps5-xbox-series-and-pc",
+      "image_url": "https://www.gematsu.com/wp-content/uploads/2025/06/SLEEP-AWAKE_06-07-25.jpg",
+      "summary": "SLEEP AWAKE launches in 2026 for PS5, Xbox Series, and PC First look at the psychedelic first-person horror game. Psychedelic first-person horror game SLEEP AWAKE will launch for PlayStation 5, Xbox Series, and PC via Steam in 2026, publisher Blumhouse Games and developer EYES OUT announced. Here is an overview of the game, via Blumhouse Games: SLEEP AWAKE is an...",
+      "published": "Sat, 07 Jun 2025 20:16:30 GMT"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-06-08 06:37:09",
+    "generation_time": "2025-06-08 12:49:06",
     "total_articles": 20
   },
   "articles": [
@@ -10,7 +10,7 @@
       "title": "Doctors use poo pills to flush out dangerous superbugs - BBC",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/clyge290l4xo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/723c/live/2e9cabb0-42c7-11f0-93dd-9f3a34381ccc.jpg",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7e5a/live/263f7ca0-4451-11f0-b6e6-4ddb91039da1.jpg",
       "summary": "Doctors trialling 'poo pills' to flush out dangerous superbugs Health and science correspondent•@JamesTGallagher UK doctors are attempting to clear dangerous superbug infections using \"poo pills\" containing freeze-dried faeces. The stool samples come from healthy donors and are packed with good bacteria. Early data suggests superbugs can be flushed out of the dark murky depths of the bowel and replaced with...",
       "published": "Sat, 07 Jun 2025 23:00:14 GMT"
     },
@@ -24,6 +24,15 @@
       "published": "Sat, 07 Jun 2025 13:00:00 GMT"
     },
     {
+      "id": "eb14325cd85e759fc8ae89a6aafee04d",
+      "title": "Why men with broken heart syndrome are more likely to die, according to experts - East Idaho News",
+      "source": "East Idaho News",
+      "url": "https://www.eastidahonews.com/2025/06/why-men-with-broken-heart-syndrome-are-more-likely-to-die-according-to-experts/",
+      "image_url": "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2025/06/broken-heart.jpg",
+      "summary": "Why men with broken heart syndrome are more likely to die, according to experts Published at 2:19 pm, June 7, 2025 Characterized by chest pain, palpitations and shortness of breath, takotsubo cardiomyopathy is thought to be caused by extreme emotional or physical stress. | LaylaBird/E+/Getty Images via CNN Newsource (CNN) – A 59-year-old man arrived at the Peking University First...",
+      "published": "Sat, 07 Jun 2025 20:19:00 GMT"
+    },
+    {
       "id": "381f5cbbf790bccb79e2fd426ec8e854",
       "title": "Flying Now Puts You At Risk Of Measles Exposure, CDC Says - Jalopnik",
       "source": "Jalopnik",
@@ -31,15 +40,6 @@
       "image_url": "https://www.jalopnik.com/img/gallery/flying-now-puts-you-at-risk-of-measles-exposure-cdc-says/l-intro-1749222373.jpg",
       "summary": "© 2025 Static Media. All Rights Reserved Flying Now Puts You At Risk Of Measles Exposure, CDC Says Hinterhaus Productions/Getty Images Airports are full of people, and sadly, far too many people still choose to fly even when they're sick, which means you could get sick. It's been that way for a while, but at the very least, you used...",
       "published": "Sat, 07 Jun 2025 19:25:00 GMT"
-    },
-    {
-      "id": "ac2fa9976ebe242153c8125927d81d41",
-      "title": "Why men with broken heart syndrome are more likely to die, according to experts - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/07/health/men-broken-heart-syndrome-wellness",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1031919650.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Why men with broken heart syndrome are more likely to die, according to experts Characterized by chest pain, palpitations and shortness of breath, takotsubo cardiomyopathy is thought to be caused by extreme emotional or physical stress. LaylaBird/E+/Getty Images Get inspired by a weekly roundup on living well, made simple. Sign up for CNN’s Life, But Better newsletter for information and...",
-      "published": "Sat, 07 Jun 2025 16:00:00 GMT"
     },
     {
       "id": "dd07e0e32bf57e3bbfc20f0fafcf3a67",
@@ -51,67 +51,58 @@
       "published": "Sat, 07 Jun 2025 07:31:06 GMT"
     },
     {
-      "id": "e44f2bdfa15fa10ac7d1f80ecd1c6070",
-      "title": "Beware: There’s a new Trump-RFK Jr. epidemic brewing - NJ.com",
-      "source": "NJ.com",
-      "url": "https://www.nj.com/politics/2025/06/beware-theres-a-new-trump-rfk-jr-epidemic-brewing.html",
-      "image_url": "https://www.nj.com/resizer/v2/QLWDUJTZJ5B4FOFWIMAIUVX6Y4.jpg?auth=1469a039490fd3a147067c4f32fd113f76a889170990fa06a6e70bcb1f60de1c&width=1280&quality=90",
-      "summary": "Summer Sale - Start Today for $1 - Expires 6/30/25 Beware: There’s a new Trump-RFK Jr. epidemic brewing Updated: Jun. 06, 2025, 9:24 a. m.|Published: Jun. 06, 2025, 9:23 a. m. President Donald Trump, left, and Health and Human Services Secretary Robert F. Kennedy Jr. attend a Make America Healthy Again (MAHA) Commission Event in the East Room of the...",
-      "published": "Fri, 06 Jun 2025 13:23:00 GMT"
+      "id": "1ed22c25462066ea133cdbe2c5583f35",
+      "title": "Demand for Mohs surgery skyrockets; treatment up to 99% effective for skin cancer - TribLIVE.com",
+      "source": "TribLIVE.com",
+      "url": "https://triblive.com/privacy/",
+      "image_url": "https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/images/icons/head/TribLIVElogo.png",
+      "summary": "Because you are coming from a location (Virginia) covered by a Privacy Law, many of the features of TribLIVE. com, like videos and social media elements are disabled. If you wish to proceed to the site under those conditions (doing so will effectively opt you out of the sale of your personal data) click here. However you will not experience...",
+      "published": "Sun, 08 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "id": "c1e3176e8e61e1a80f86598f3892f1ae",
+      "title": "Celebrity breast cancer announcements highlight rising rates in young women - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/health/womens-health/celebrity-breast-cancer-announcements-highlight-rising-rates-young-wom-rcna211287",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250114-mammogram-mn-1030-50adac.jpg",
+      "summary": "Celebrity breast cancer announcements highlight rising rates in young women Breast cancer rates are rising faster in younger than older women. Doctors say multiple factors are likely at play, including lifestyle, hormones and environmental exposures. A woman receives a mammogram. Eduardo Briones / Europa Press via Getty Images Create your free profile or log in to save this article Several...",
+      "published": "Sun, 08 Jun 2025 11:15:00 GMT"
     },
     {
       "id": "6b28a42c7120b89459410198464fe463",
       "title": "Buzzy anti-aging supplement beloved by biohackers may not actually be that useful after all - New York Post",
       "source": "New York Post",
-      "url": "https://nypost.com/2025/06/07/health/supplement-beloved-by-biohackers-may-not-fight-aging-after-all/",
-      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2025/06/106036673.jpg?quality=75&strip=all&w=1024",
-      "summary": "Ozempic makes you twice as likely to develop this debilitating. .. Why so many people are having strokes in their 20s, 30s and 40s:. .. Caffeinated 'workout queen' dies from heart attack at 28 as. .. How long you should be able to do a plank at every age, from 20s. .. 'Ozempic mouth' shocking new side effect of weight-loss...",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVWVMZ2pSSkdBUFZJbHp5Q0FndFprQWxLMUZlMW1LQlZob3dwNWdRVWdtb2gxWFBWN3pERjYwUGxSYWpWNjZzZ2Rua1NDRjZzd0lPbTNrZy1rd3V6ek4wcnllQjVreDdZazJWbDNNaUUtSmw3MGp0Z0cwOWQycld1MjFSMFd2anliRExjTTV1RGVrNldkZ3U2RWJ4ZnU1bEVkelE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Sat, 07 Jun 2025 17:07:00 GMT"
     },
     {
-      "id": "8f8ec1575c62f9a6046af6f38a963f23",
-      "title": "Measles case confirmed in Allegan County, officials provide locations of exposure - WWMT",
-      "source": "WWMT",
-      "url": "https://wwmt.com/news/local/allegan-county-measles-case-exposure-health-department-coachmen-strength-university-michigan-west-locations-symptoms",
-      "image_url": "https://wwmt.com/resources/media/e3d53cbd-0516-4fa3-acdb-8d4ed932d6c1-large16x9_VFirstMeaslesCases.transfer_frame_282.jpeg",
-      "summary": "Measles case confirmed in Allegan County, officials provide locations of exposure by Stephanie Forth | News Channel 3Fri, June 6th 2025 at 5:34 PM Health officials announced Friday there has been a confirmed measles case in Allegan County. June 6, 2025. (File/WSBT/WWMT) ALLEGAN, Mich. — Health officials announced Friday there has been a confirmed measles case in Allegan County. Though...",
-      "published": "Fri, 06 Jun 2025 21:34:18 GMT"
+      "id": "e44f2bdfa15fa10ac7d1f80ecd1c6070",
+      "title": "Beware: There’s a new Trump-RFK Jr. epidemic brewing - NJ.com",
+      "source": "NJ.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQjBNS0VkeXFfQXg2SXVvbGpmck1kbUhPenk4MUpiWWdvZnphdGMzM19ld1pWVzB1NlhpVHhaV3ZDazdLSkFwdjkyNmstX2hxeUpVbzJDVkkzSGtQRnAycnRHbTVfZlVwby1kR3g0RmJvb3BZX1lWODlTTElfN0dsZUxMVVV2TGxqc09DS05VeTlzUjJm0gGoAUFVX3lxTFBBWGx4UFBCSzdNZ0s3OFZGdEVYckdPSTRWdEdBaWhTTzVkMmJGQnFGOUtVcTdVYmlxaUZyOXVudG55dlJxcW1wcDZsZDd2S1gyZGZuNFJHaTlCVzBBQzF2SVNxaERGWGtjR1BGTm0weUFvYXBsYmx6VnJvQU52TEtma2ZnaWM5SThWdzBvZUMwTVVTTklHaUl2X2thYXJtUGdEZ2JRZDdUMg?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 06 Jun 2025 13:23:00 GMT"
     },
     {
-      "id": "c7ee148fc79fad546455161a955bb2eb",
-      "title": "A Major American Egg Farm Just Lost 90% of its Chickens - Bloomberg",
-      "source": "Bloomberg",
+      "id": "3e9f93b0e77803f95745973032c6695e",
+      "title": "A Major American Egg Farm Just Lost 90% of its Chickens - Bloomberg.com",
+      "source": "Bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2025-06-07/a-major-american-egg-farm-just-lost-90-of-its-chickens",
       "image_url": null,
       "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
       "published": "Sat, 07 Jun 2025 08:00:12 GMT"
     },
     {
-      "id": "705df23373a476e52046d98e9c69cac9",
-      "title": "Why prostate cancer screenings matter — what Utah men should know - KSL News",
-      "source": "KSL News",
-      "url": "https://www.ksl.com/article/51324925/why-prostate-cancer-screenings-matter--what-utah-men-should-know",
-      "image_url": "https://img.ksl.com/slc/3088/308817/30881720.jpeg?filter=kslv2/responsive_story_lg",
-      "summary": "Why prostate cancer screenings matter — what Utah men should know By Brynn Carnesecca, KSL. com | Posted - June 7, 2025 at 12:03 p. m. June 11 marks World Prostate Cancer Day. As the leading cancer type for men in Utah, awareness about the disease can make a difference for individuals and families. (Witoon, AdobeStock) Estimated read time: 3-4...",
-      "published": "Sat, 07 Jun 2025 18:03:50 GMT"
-    },
-    {
-      "id": "aacdf9171bed74a64458aff0af001c97",
-      "title": "Breast transplanted to replace cancerous one in 'world first' operation - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ckg4rpd2p3ko",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0e7e/live/d64911f0-442f-11f0-a1c3-0d91ca69621f.jpg",
-      "summary": "'My left breast was moved to my right after cancer recurred' Nicola Purdie first had cancer when her elder child was a baby Five months into a pregnancy for a much wanted second child in 2024, Nicola Purdie found a lump in her right breast. It is a nightmare scenario for anyone. But for Nicola this was not a new...",
-      "published": "Sat, 07 Jun 2025 20:54:53 GMT"
-    },
-    {
-      "id": "bd34b83814e00434ef3a2503a61b8937",
-      "title": "The 'Japanese Walking' Fitness Trend Has Science-Backed Benefits - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/the-japanese-walking-fitness-trend-has-science-backed-benefits",
-      "image_url": "https://www.sciencealert.com/images/2021-09/processed/WalkingDailySteps_1024.jpg",
-      "summary": "The 'Japanese Walking' Fitness Trend Has Science-Backed Benefits By SEAN PYMER, THE CONVERSATION (boonchai wedmakawand/Getty Images) A fitness trend known as Japanese walking is capturing attention online, promising major health benefits with minimal equipment and time. Based on interval-style bursts of fast and slow walking, Japanese walking was developed by Professor Hiroshi Nose and Associate Professor Shizue Masuki at Shinshu...",
-      "published": "Fri, 06 Jun 2025 15:04:12 GMT"
+      "id": "7af3bedefb469bf71995adecae94479c",
+      "title": "Fifth measles case in Georgia confirmed in family member of person with earlier case - 11Alive.com",
+      "source": "11Alive.com",
+      "url": "https://www.11alive.com/article/news/health/georgia-measles-fifth-case-confirmed/85-f1ae7b49-4bd3-4b5b-a3c2-74626cbdef26",
+      "image_url": "https://media.11alive.com/assets/WBIR/images/efa4b1a3-92fb-41f6-91cb-80b20de2268f/20240911T013819/efa4b1a3-92fb-41f6-91cb-80b20de2268f_1140x641.jpg",
+      "summary": "Severe weather in west Georgia early Sunday | Live radar Fifth measles case in Georgia confirmed in family member of person with earlier case Health officials said Friday that the family member's case was confirmed in May. Author: Jessica Moore, Jonathan Raymond (11Alive) Published: 12:10 PM EDT June 6, 2025 Updated: 6:27 PM EDT June 6, 2025 ATLANTA — The...",
+      "published": "Fri, 06 Jun 2025 16:10:00 GMT"
     },
     {
       "id": "246163dd3529066d2fccf29da7d89f42",
@@ -123,6 +114,33 @@
       "published": "Fri, 06 Jun 2025 13:39:06 GMT"
     },
     {
+      "id": "705df23373a476e52046d98e9c69cac9",
+      "title": "Why prostate cancer screenings matter — what Utah men should know - KSL News",
+      "source": "KSL News",
+      "url": "https://www.ksl.com/article/51324925/why-prostate-cancer-screenings-matter--what-utah-men-should-know",
+      "image_url": "https://img.ksl.com/slc/3088/308817/30881720.jpeg?filter=kslv2/responsive_story_lg",
+      "summary": "Why prostate cancer screenings matter — what Utah men should know By Brynn Carnesecca, KSL. com | Posted - June 7, 2025 at 12:03 p. m. June 11 marks World Prostate Cancer Day. As the leading cancer type for men in Utah, awareness about the disease can make a difference for individuals and families. (Witoon, AdobeStock) Estimated read time: 3-4...",
+      "published": "Sat, 07 Jun 2025 18:03:50 GMT"
+    },
+    {
+      "id": "f61e6ce4fc3575d93141499094c4ccfa",
+      "title": "I invented the 'Death Clock'... and was horrified when it confirmed my worst fears about my own health - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/health/article-14755069/death-clock-brandon-franson-alzheimers.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/06/16/91377937-0-image-m-34_1749223419383.jpg",
+      "summary": "I invented the 'Death Clock'. .. and was horrified when it confirmed my worst fears about my own health READ MORE: Doctor discovers terrifying condition linked to poor sleep By LUKE ANDREWS SENIOR HEALTH REPORTER FOR DAILYMAIL. COM PUBLISHED: 16:17 EDT, 7 June 2025 | UPDATED: 16:22 EDT, 7 June 2025 Brent Franson wasn't afraid of dying. He was afraid...",
+      "published": "Sat, 07 Jun 2025 20:17:59 GMT"
+    },
+    {
+      "id": "0d549178e025f49ecbbb1e4dc758f072",
+      "title": "Does coffee boost longevity? New study may have findings for people in midlife - San Francisco Chronicle",
+      "source": "San Francisco Chronicle",
+      "url": "https://www.sfchronicle.com/health/aging-longevity/article/coffee-health-benefit-age-20361845.php",
+      "image_url": "https://www.sfchronicle.com/img/logos/black/logo.svg",
+      "summary": "Press & Hold to confirm you are Reference ID b8f0759e-4466-11f0-9bc7-4900b5c5f8e0",
+      "published": "Sat, 07 Jun 2025 11:00:45 GMT"
+    },
+    {
       "id": "e21ef80bce992dcb06e26d236fa104ad",
       "title": "Little-known cells might be key to human brain’s massive memory - The Washington Post",
       "source": "The Washington Post",
@@ -132,57 +150,39 @@
       "published": "Sat, 07 Jun 2025 17:30:28 GMT"
     },
     {
-      "id": "7af3bedefb469bf71995adecae94479c",
-      "title": "Fifth measles case in Georgia confirmed in family member of person with earlier case - 11Alive.com",
-      "source": "11Alive.com",
-      "url": "https://www.11alive.com/article/news/health/georgia-measles-fifth-case-confirmed/85-f1ae7b49-4bd3-4b5b-a3c2-74626cbdef26",
-      "image_url": "https://media.11alive.com/assets/WBIR/images/efa4b1a3-92fb-41f6-91cb-80b20de2268f/20240911T013819/efa4b1a3-92fb-41f6-91cb-80b20de2268f_1140x641.jpg",
-      "summary": "Fifth measles case in Georgia confirmed in family member of person with earlier case Health officials said Friday that the family member's case was confirmed in May. Author: Jessica Moore, Jonathan Raymond (11Alive) Published: 12:10 PM EDT June 6, 2025 Updated: 6:27 PM EDT June 6, 2025 ATLANTA — The Georgia Department of Public Health on Friday confirmed a fifth...",
-      "published": "Fri, 06 Jun 2025 16:10:00 GMT"
+      "id": "7d1e86f9725c24b60d0677b9e33371b3",
+      "title": "The #1 Protein for Insulin Resistance, According to Health Experts - EatingWell",
+      "source": "EatingWell",
+      "url": "https://www.eatingwell.com/best-protein-for-insulin-resistance-11745514",
+      "image_url": "https://www.eatingwell.com/thmb/ZYQL0w4vfcR2graXJQCf3lR0f5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1-Protein-for-Insulin-Resistance-According-to-Health-Experts-8c7eaf53bfc743afb59f7b94feb6e546.jpg",
+      "summary": "The #1 Protein for Insulin Resistance, According to Health Experts Meat may dominate the protein conversation, but plant-based options like tempeh could be your best bet for improving insulin sensitivity. Reviewed by Dietitian Kelli McGrane, M. S., RD Protein helps stabilize blood sugar levels and plays an important role in insulin sensitivity. Tempeh is one of the best protein sources...",
+      "published": "Sun, 08 Jun 2025 03:00:00 GMT"
+    },
+    {
+      "id": "57d8fa21e6086cccb34978407676fa3a",
+      "title": "Scientists discover 230 new giant viruses that shape ocean life and health - Phys.org",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2025-06-scientists-giant-viruses-ocean-life.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.246.78.50 : b45ce114-6247-459f-8786-ba9fd9a0",
+      "published": "Sat, 07 Jun 2025 10:16:18 GMT"
     },
     {
       "id": "bf4fbb37b9a3b40b94e77f4d2c6fdc28",
       "title": "Health experts issue stark warning about a disease that’s silently killing millions: Are you at risk? - Times of India",
       "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/health-experts-issue-stark-warning-about-a-disease-thats-silently-killing-millions-are-you-at-risk/articleshow/121687835.cms",
-      "image_url": "https://static.toiimg.com/thumb/msid-121687835,width-1070,height-580,imgsize-134818,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "summary": "Health Experts Issue Stark Warning About A Disease That’S Silently Killing Millions: Are You At Risk? Health experts issue stark warning about a disease that’s silently killing millions: Are you at risk? TOI Lifestyle Desk / etimes. in / Updated: Jun 08, 2025, 06:59 IST Global health experts are urgently calling for increased awareness and early detection of chronic liver...",
-      "published": "Sat, 07 Jun 2025 03:30:00 GMT"
-    },
-    {
-      "id": "0d549178e025f49ecbbb1e4dc758f072",
-      "title": "Does coffee boost longevity? New study may have findings for people in midlife - San Francisco Chronicle",
-      "source": "San Francisco Chronicle",
-      "url": "https://www.sfchronicle.com/health/aging-longevity/article/coffee-health-benefit-age-20361845.php",
-      "image_url": "https://www.sfchronicle.com/img/logos/black/logo.svg",
-      "summary": "Press & Hold to confirm you are Reference ID ed4ec938-4432-11f0-bb78-7db4d31fc00a",
-      "published": "Sat, 07 Jun 2025 11:00:45 GMT"
-    },
-    {
-      "id": "9d1e211833fecd1f73766a4b1d01a73e",
-      "title": "Popular Diabetes Drug Linked to Longer Life – Could It Help You Live Past 90? - SciTechDaily",
-      "source": "SciTechDaily",
-      "url": "https://scitechdaily.com/popular-diabetes-drug-linked-to-longer-life-could-it-help-you-live-past-90/",
-      "image_url": "https://scitechdaily.com/images/Holding-Metformin-Pill.jpg",
-      "summary": "Home»Health»Popular Diabetes Drug Linked to Longer Life – Could It Help You Live Past 90? Popular Diabetes Drug Linked to Longer Life – Could It Help You Live Past 90? Could a common diabetes drug hold the key to a longer life? New research is shedding light on metformin’s surprising link to longevity in older women, suggesting it may do...",
-      "published": "Sat, 07 Jun 2025 20:39:36 GMT"
-    },
-    {
-      "id": "d85d91ba92fa037a857426e0af5524ae",
-      "title": "A New COVID Variant Is Here, And It's More Transmissible — Here Are The Signs And Symptoms - HuffPost",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/a-new-covid-variant-is-here-and-its-more-transmissible-here-are-the-signs-and-symptoms-goog_l_683ef478e4b02a49cce70a90",
-      "image_url": "https://img.huffingtonpost.com/asset/683749671b00002400df417a.jpeg?cache=1O4dRw9p9d&ops=1200_630",
-      "summary": "9 Lovely Korean Sunscreens For Achieving That Glass Skin Glow A Definitive Guide To Airplane Seat Etiquette 4 Things That Are Not Your Responsibility — Even If Your Anxiety Says They Are Twenty Years of Fearless Reporting A New COVID Variant Is Here, And It's More Transmissible — Here Are The Signs And Symptoms A new COVID variant, known as...",
-      "published": "Sat, 07 Jun 2025 11:00:15 GMT"
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPXzlLc281MGJCOUdoQ3p3SWdTbGRBV3c3bEpDd1BJUlAzempCWER6c1loQ1lBUVBicW5XWEU5VzdkLXBIVGNVU0hoOEsxRHV4VGtEd3Z5VWlabVlWWWlIX0xpS3NrVk4zUHRYQ3RCOG9Ic0FaVVdMRy14ZnFhOVN4eWs4VmxhZXdFTWVUOG05NDNEV3F6QTcwTFVJUU9oUDU0NjV2X0o3Q19rUHhKS2JxWlNRem1vaUxNbmlIbGNVeExNU1M5UElGdUYzeWlFa0didFpGN1E3aUtnQm9QRnJyZWVHV2hTd2QxU1BHZzNyUG9nQkFCTkJLMzFURTM0cnZfY1pNcHJLUndJNkRkTy1SakY3ZHZnWWtUaE1mN1NvczliSmh10gGqAkFVX3lxTE0yMEt5cGdrVmZ1bmhjSURaNHJhSU56STVCZUZKdnEwVmlIZlR6Q0Jya1VPcW16d0VNWEwxeGlDYWg0NEx2WWNPWTBUXzBwcHV4ZENWYmd2TG9kLXhncGdiNjAySjAyNjRoY2FZWm12ZlpMRTEwRVBwMDlodnJyaXpXVWNuSW5zZDM4ZERrVzZydE01c3RBX2REU180ekZicnk4LUtxY2tzdkdXVU5aY0s3LVE5c19rU0hwYkJnNEh3MHh4T0U2cmotOGJWYUZCcEpiQVdqWU82LXRqMDNMdC0xV0k0b2h5cjJXSGRUUTY4TlEwdm5oWmNWRkFfM2RlMlRxWU1oMnRTejFmc0FUbl9WTlVxOXdkRWl2WW5IbklydldubmtXM1Ridnc?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 08 Jun 2025 01:29:00 GMT"
     },
     {
       "id": "a63b21e0934eaf4135492f03537b64d8",
       "title": "Weight stigma isn’t just cruel — it makes losing weight harder - CNN",
       "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/06/health/weight-loss-stigma-wellness",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1304984151.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Weight stigma isn’t just cruel — it makes losing weight harder Weight stigma can be particularly difficult when internalized, experts said. Maskot/Maskot/Getty Images Maybe you have decided that the voice inside your head judging yourself or others for body size can be pretty mean, but at least it’s encouraging weight loss, right? “There has long been a misunderstanding … that...",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JUktJT3Y3WldLcVFtV0tCTXhxS3VGdFRqQjZ4U0J1XzZuRGZVRDE2OHRvRl9lXzdkc0xrR2pQNkcxNnk1My1PQ0xEMWMwYW9ZSUQ1bFRaaWZOdmxDRGZzcV80b3V4QkJoX3YtVTYyNWpFN1XSAXhBVV95cUxOS0hvbHNRdkZHc3Q4dGV2RFFZbFl5dHp3VHhPUVZRZk9kVm9zWGZZYUJlQWV4Q25TTFNoZEJZWVRZaFVhdWRUanVEOGpBQ05jWm0wMWljeTZIZ29KalF1Z29KZVI0NFVLR1JYSVprYlJyai1oemNocVM?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Fri, 06 Jun 2025 16:31:00 GMT"
     }
   ]
