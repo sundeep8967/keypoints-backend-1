@@ -1,18 +1,18 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-08 03:15:52",
+    "generation_time": "2025-06-08 07:23:33",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "25cf37f6efbde4ca68546b46e6e8cf4f",
-      "title": "Colombian presidential candidate shot in Bogota - CNN",
+      "id": "5885d948f816d3ba1a20acb06dd51af0",
+      "title": "Colombian presidential hopeful Miguel Uribe shot in Bogota - CNN",
       "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV21xdy13N0F0U0gyeDQyazd2UExQbDhRd2F5Z0lyOFBVbVJ0UlNfN1BVZFozNzJJYmd5NkFrRzY0SXpqYkh4NXpYUW8tdXlYMGRyYnczRmRKd0ZRdk9iV1djOUFnVmlUVHZWWEpKMnliTDVlaVdoRXIweENyUTJOYXJZLXVDY1YyU0hLTEprLU8zWnhnalZoSWUzaVZiNk5ZWVY40gGoAUFVX3lxTE95ZWhNdWN0NEQxY2oyaWdzZDVFcXIwaE04U2dmNnlubTlMQ1c4YkpIUFdYdEp1cGtkaFVIQW5kazJIUFZ2cWZ1bUlGdElMczBhRW1KMHNmemh0ZFlrU19IaHl3eXJrREhWNC13M2VYX3Vsd19KNTgwMDFQTlZlODVXbV83UUpIaS1Pd0xkcDlBNHpsWFU1d2xDNXZOejBid3NKN1FsRklfQQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 08 Jun 2025 00:13:00 GMT"
+      "url": "https://www.cnn.com/2025/06/07/americas/colombian-presidential-candidate-uribe-shot-bogota-intl-latam",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2218500987-20250608005351920.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Colombian president vows to hunt ‘mastermind’ behind shooting of political rival, after 15-year-old arrested By Mauricio Torres, Fernando Ramos, Chris Lau and Sebastian Jimenez, CNN Updated 2:19 AM EDT, Sun June 8, 2025 Miguel Uribe in May. Raul Arboleda/AFP/Getty Images Colombian senator Miguel Uribe, in the running to join next year’s presidential race, is in a critical condition in hospital...",
+      "published": "Sun, 08 Jun 2025 02:03:00 GMT"
     },
     {
       "id": "2d54c96e5a0fa63e26a47f02a1c934fe",
@@ -24,13 +24,31 @@
       "published": "Sat, 07 Jun 2025 23:57:15 GMT"
     },
     {
-      "id": "6cb65332433bcfbc91e343c493827a08",
-      "title": "Haitians Reel as Trump’s Travel Ban Tears Families and Businesses Apart - The New York Times",
+      "id": "bd3ef9922c5a718d19c75969e237cd69",
+      "title": "Japan Flexes Its Military Muscle at China, and Trump - The New York Times",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/07/us/haiti-trump-travel-ban.html",
+      "url": "https://www.nytimes.com/2025/06/08/world/asia/japan-military-trump-china.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sat, 07 Jun 2025 18:04:22 GMT"
+      "published": "Sun, 08 Jun 2025 04:01:09 GMT"
+    },
+    {
+      "id": "0e0a74e5e7503f2915ae88af2a0c9ba5",
+      "title": "Hero or Traitor? Ernest Wilimowski, a Long-Dead Soccer Star, Is Revived, and Reviled. - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/08/world/europe/poland-silesia-soccer-star-tension.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sun, 08 Jun 2025 04:01:09 GMT"
+    },
+    {
+      "id": "f7839e11efe40277b9f985df7bf580e5",
+      "title": "Italy citizenship referendum polarises country - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c780yk3z2lyo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/10e8/live/379c8130-439f-11f0-bace-e1270fc31f5e.jpg",
+      "summary": "Italian citizenship referendum polarises country Sonny Olumati was born in Italy - but still has no citizenship at 39 Sonny Olumati was born in Rome and has lived in Italy all his life but the country he calls home does not recognise him as its own. To Italy, Sonny is Nigerian, like his passport, and the 39-year-old is only welcome...",
+      "published": "Sun, 08 Jun 2025 00:37:55 GMT"
     },
     {
       "id": "732e0082541b2ca96a1e566b1a1b8ae5",
@@ -42,67 +60,22 @@
       "published": "Sat, 07 Jun 2025 20:47:02 GMT"
     },
     {
-      "id": "81846bf5a51472171e5db42d07e48217",
-      "title": "Russia pummels Ukraine's Kharkiv in 'most powerful attack' - DW",
-      "source": "DW",
-      "url": "https://www.dw.com/en/ukraine-russia-exchange-accusations-over-pow-swap-delay/live-72829188",
-      "image_url": "https://static.dw.com/image/72830428_6.jpg",
-      "summary": "DW uses cookies and similar technologies to measure usage, display personalized advertising and share personal data and information with up to 186 third parties. You decide for yourself whether you agree to this use of your data. You can adjust individual details under “Settings” and change them at any time. You can view all of DW's content without agreeing. Social...",
-      "published": "Sat, 07 Jun 2025 13:30:00 GMT"
+      "id": "8e63a602b21cd5a62f56a79ecf9f3a19",
+      "title": "Trump travel ban targets nations mired in civil wars or armed conflicts - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/06/07/trump-travel-ban-civil-wars/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q3AZ36WOQ6OZFFSYWMCFUCCFLA_size-normalized.jpg&w=1440",
+      "summary": "Trump travel ban targets nations mired in civil wars or armed conflicts Of the 12 countries from which travel is fully restricted, three are embroiled in bloody civil wars. Many of the other countries are also undergoing conflicts. Medical staff with the International Committee of the Red Cross and the South Sudan Red Cross move a wounded patient to an...",
+      "published": "Sat, 07 Jun 2025 17:00:07 GMT"
     },
     {
-      "id": "5c31deec9373b74bd41dd79517d97d46",
-      "title": "Russian Spies Are Suspicious of China, Even as Putin and Xi Grow Close - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/07/world/europe/china-russia-spies-documents-putin-war.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sat, 07 Jun 2025 11:45:25 GMT"
-    },
-    {
-      "id": "1fd488025130c278b081c411b5fc5ec5",
-      "title": "Israeli military says it recovered body of Thai hostage from southern Gaza - CNN",
+      "id": "62190e3cba3e546d7c4e534c623046e7",
+      "title": "Kharkiv hit by ‘most powerful attack’ of entire war, mayor says, as Russia pounds Ukraine again - CNN",
       "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/07/middleeast/thai-hostage-gaza-israel-intl",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/xgs1gum-w8aapzzb.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Israeli military says it recovered body of Thai hostage from southern Gaza Updated 4:39 PM EDT, Sat June 7, 2025 Nattapong Pinta, seen in this undated photo. Israel Foreign Ministry The body of a Thai hostage, Nattapong Pinta, who was abducted alive during the October 7 attacks was recovered from southern Gaza in a military operation on Friday, according to...",
-      "published": "Sat, 07 Jun 2025 20:39:00 GMT"
-    },
-    {
-      "id": "a9cff8eca8fdef2d099d3c81fe5e9efc",
-      "title": "Russia says Ukraine postpones prisoner exchange, accepting bodies - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/russia-says-ukraine-postpones-prisoner-exchange-accepting-bodies-2025-06-07/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sat, 07 Jun 2025 15:45:08 GMT"
-    },
-    {
-      "id": "cb5d1285b7787918c11e888856985674",
-      "title": "Polish politicians respond to reports of voting irregularities - Euronews.com",
-      "source": "Euronews.com",
-      "url": "https://www.euronews.com/my-europe/2025/06/07/allegations-of-voting-irregularities-in-polands-presidential-election-spark-controversy",
-      "image_url": "https://static.euronews.com/articles/stories/09/31/81/04/1200x675_cmsv2_eeac45d0-55c4-563b-96a0-f5991edac646-9318104.jpg",
-      "summary": "With your agreement, we and our 191 partners use cookies or similar technologies to store, access, and process personal data like your visit on this website, IP addresses and cookie identifiers. Some partners do not ask for your consent to process your data and rely on their legitimate business interest. You can withdraw your consent or object to data processing...",
-      "published": "Sat, 07 Jun 2025 12:31:03 GMT"
-    },
-    {
-      "id": "f3700f64ea5d3f7ad6435f61640c1279",
-      "title": "Satellite images reveal North Korea is constructing the largest and most advanced warship ever. - Farmingdale Observer",
-      "source": "Farmingdale Observer",
-      "url": "https://farmingdale-observer.com/2025/06/07/satellite-images-reveal-north-korea-is-constructing-the-largest-and-most-advanced-warship-ever/",
-      "image_url": "https://farmingdale-observer.com/wp-content/uploads/2025/06/9az58f407zzeg-1024x576.png",
-      "summary": "Satellite Images Reveal North Korea Is Constructing The Largest And Most Advanced Warship Ever. Satellite imagery has recently uncovered North Korea’s ambitious naval expansion with what experts are calling the most significant warship in the nation’s history. The vessel, spotted at Nampo shipyard on North Korea’s west coast, represents a substantial leap in the country’s maritime military capabilities and signals...",
-      "published": "Sat, 07 Jun 2025 14:18:00 GMT"
-    },
-    {
-      "id": "72ab10fde335e89fb07e2bb3bc6a11d3",
-      "title": "Pope to ecclesial movements: Always keep Jesus at the centre - Vatican News",
-      "source": "Vatican News",
-      "url": "https://www.vaticannews.va/en/pope/news/2025-06/pope-to-ecclesial-movements-always-keep-jesus-at-the-centre.html",
-      "image_url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/06/06/2025-06-06-moderatori-delle-associazioni-di-fedeli--di-movimenti/1749202345534.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
-      "summary": "The portal Vatican News uses technical or similar cookies to make navigation easier and guarantee the use of the services. Furthermore, technical and analysis cookies from third parties may be used. If you want to know more click here. By closing this banner you consent to the use of cookies. Preludio e fuga n. 14 in Fa diesis minore Pope...",
-      "published": "Sun, 08 Jun 2025 01:42:50 GMT"
+      "url": "https://www.cnn.com/2025/06/07/europe/russia-strikes-kharkiv-ukraine-intl-hnk",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2025-06-07t052941z-670247452-rc2gxeaopan2-rtrmadp-3-ukraine-crisis-attack-kharkiv.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Kharkiv hit by ‘most powerful attack’ of entire war, mayor says, as Russia pounds Ukraine again By Todd Symons, Kosta Gak and Billy Stockwell, CNN Updated 4:54 PM EDT, Sat June 7, 2025 Rescuers assist an injured resident after she was released from debris of a building hit by a Russian drone strike in Kharkiv, Ukraine, on June 7, 2025.",
+      "published": "Sat, 07 Jun 2025 20:54:00 GMT"
     },
     {
       "id": "9061fbd6f3665cee91c581c75c5d3822",
@@ -114,40 +87,67 @@
       "published": "Sat, 07 Jun 2025 11:00:00 GMT"
     },
     {
-      "id": "1f2ef114ffe993ed65deaa45714b7f98",
-      "title": "UK judge sounds alarm on AI misuse in courts - politico.eu",
-      "source": "politico.eu",
-      "url": "https://www.politico.eu/article/uk-judge-alarm-ai-misuse-court-hallucination-chat-artificial-intelligence/",
-      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/07/High-Court-UK.jpg",
-      "summary": "UK judge sounds alarm on AI misuse in courts",
-      "published": "Sat, 07 Jun 2025 12:39:00 GMT"
+      "id": "72ab10fde335e89fb07e2bb3bc6a11d3",
+      "title": "Pope to ecclesial movements: Always keep Jesus at the centre - Vatican News",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/pope/news/2025-06/pope-to-ecclesial-movements-always-keep-jesus-at-the-centre.html",
+      "image_url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/06/06/2025-06-06-moderatori-delle-associazioni-di-fedeli--di-movimenti/1749202345534.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+      "summary": "The portal Vatican News uses technical or similar cookies to make navigation easier and guarantee the use of the services. Furthermore, technical and analysis cookies from third parties may be used. If you want to know more click here. By closing this banner you consent to the use of cookies. Pope Leo XIV meets with moderators of lay associations, ecclesial...",
+      "published": "Sun, 08 Jun 2025 01:42:50 GMT"
     },
     {
-      "id": "41ce8e6ae28590f2f5d39345d7f8103a",
-      "title": "IDF kills senior Gazan terrorists behind Haggai, Bibas families abductions - The Jerusalem Post",
-      "source": "The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41ZlBuX21fUFNreVN2WTJzaEN4LTF3ejJvUUJPdmprVFlldzczbThHZ3JyNkROdWdsTmszMUs3RkJ3cHZWZTJGQS1HQkxLaFJCOFhxaWpMNnZwRjMwTFlaMmFQSVR3UkVvU2FITE5B?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 07 Jun 2025 20:43:00 GMT"
+      "id": "0cca91efacd707a689dde00687fb6d7d",
+      "title": "Why were so many Thai farmers among the hostages held by Hamas in Gaza? - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/thailand-hostages-gaza-explainer-israel-37e874bff5cb81ad6ea49d57058858a1",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sat, 07 Jun 2025 14:57:00 GMT"
     },
     {
-      "id": "94cc97aedab03e5df1ed66d294b631db",
-      "title": "Macron Will Visit Greenland This Month, Defying Trump - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/07/world/europe/greenland-france-macron-trump.html",
+      "id": "cb5d1285b7787918c11e888856985674",
+      "title": "Polish politicians respond to reports of voting irregularities - Euronews.com",
+      "source": "Euronews.com",
+      "url": "https://www.euronews.com/my-europe/2025/06/07/allegations-of-voting-irregularities-in-polands-presidential-election-spark-controversy",
+      "image_url": "https://static.euronews.com/articles/stories/09/31/81/04/1200x675_cmsv2_eeac45d0-55c4-563b-96a0-f5991edac646-9318104.jpg",
+      "summary": "With your agreement, we and our 191 partners use cookies or similar technologies to store, access, and process personal data like your visit on this website, IP addresses and cookie identifiers. Some partners do not ask for your consent to process your data and rely on their legitimate business interest. You can withdraw your consent or object to data processing...",
+      "published": "Sat, 07 Jun 2025 12:31:03 GMT"
+    },
+    {
+      "id": "b019dff263cfa6f6130828a801e96ec1",
+      "title": "Russia-Ukraine war: List of key events, day 1,200 - Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/6/8/russia-ukraine-war-list-of-key-events-day-1200",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/06/AA-20250607-38216226-38216213-AT_LEAST_3_KILLED_22_INJURED_IN_RUSSIAN_AIR_ATTACK_ON_KHARKIV-1749332894.jpg?resize=1200%2C630",
+      "summary": "Enrich your Al Jazeera experience by signing in or creating an account. Will Ukraine’s bomber strike shift the war? A look at Kyiv’s most audacious attacks Russia-Ukraine war: List of key events, day 1,200 These are the key events on day 1,200 of Russia’s war on Ukraine. Firefighters respond to a Russian attack on a residential building in Kharkiv, Ukraine,...",
+      "published": "Sun, 08 Jun 2025 00:56:15 GMT"
+    },
+    {
+      "id": "9f0d038e7ff5186add7b79eff530914a",
+      "title": "Heads of terror group that abducted and murdered Bibas family killed by IDF - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/heads-of-terror-group-that-abducted-and-murdered-bibas-family-killed-by-idf/",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/02/AFP__20250226__36YM9YH__v1__HighRes__IsraelPalestinianWarFuneral-1.jpg",
+      "summary": "Heads of terror group that abducted and murdered Bibas family killed by IDF Asaad Abu Sharia and Mahmoud Kaheel from Mujahideen Brigades, killed in Gaza strikes; also behind murders of hostages Gadi Haggai, Judih Weinstein and Thai farmhand Nattapong Pinta Mourners gather to pay their respects next to a makeshift memorial for the Bibas' family at Hostages Square in Tel...",
+      "published": "Sat, 07 Jun 2025 21:26:25 GMT"
+    },
+    {
+      "id": "f3700f64ea5d3f7ad6435f61640c1279",
+      "title": "Satellite images reveal North Korea is constructing the largest and most advanced warship ever. - Farmingdale Observer",
+      "source": "Farmingdale Observer",
+      "url": "https://farmingdale-observer.com/2025/06/07/satellite-images-reveal-north-korea-is-constructing-the-largest-and-most-advanced-warship-ever/",
+      "image_url": "https://farmingdale-observer.com/wp-content/uploads/2025/06/9az58f407zzeg-1024x576.png",
+      "summary": "Satellite Images Reveal North Korea Is Constructing The Largest And Most Advanced Warship Ever. Satellite imagery has recently uncovered North Korea’s ambitious naval expansion with what experts are calling the most significant warship in the nation’s history. The vessel, spotted at Nampo shipyard on North Korea’s west coast, represents a substantial leap in the country’s maritime military capabilities and signals...",
+      "published": "Sat, 07 Jun 2025 14:18:00 GMT"
+    },
+    {
+      "id": "a9cff8eca8fdef2d099d3c81fe5e9efc",
+      "title": "Russia says Ukraine postpones prisoner exchange, accepting bodies - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russia-says-ukraine-postpones-prisoner-exchange-accepting-bodies-2025-06-07/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sat, 07 Jun 2025 17:18:43 GMT"
-    },
-    {
-      "id": "63831d823fcd1d7b00e2ea4f20e075cc",
-      "title": "Pope Leo XIV meets with Argentine President Milei - Vatican News",
-      "source": "Vatican News",
-      "url": "https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-meets-with-argentine-president-milei.html",
-      "image_url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/06/07/2025-06-07-s-e--il-signor-javier-gerardo-milei--presidente-della/1749283621204.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
-      "summary": "The portal Vatican News uses technical or similar cookies to make navigation easier and guarantee the use of the services. Furthermore, technical and analysis cookies from third parties may be used. If you want to know more click here. By closing this banner you consent to the use of cookies. Preludio e fuga n. 14 in Fa diesis minore Pope...",
-      "published": "Sat, 07 Jun 2025 09:56:37 GMT"
+      "published": "Sat, 07 Jun 2025 15:45:08 GMT"
     },
     {
       "id": "b394bcec6e353302e4b53f179e2a5041",
@@ -168,13 +168,13 @@
       "published": "Fri, 06 Jun 2025 20:27:37 GMT"
     },
     {
-      "id": "e0826eb7eb4509eb5f7d155d1edbbb61",
-      "title": "US Navy Captain: Red Sea Conflict Was 'Knife Fight in a Phone Booth' - Business Insider",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/us-navy-captain-red-sea-conflict-knife-fight-phone-booth-2025-6",
-      "image_url": "https://i.insider.com/6842ef02c19ab3675c10ca44?width=1200&format=jpeg",
-      "summary": "A US Navy warship captain said the Red Sea conflict was a 'knife fight in a phone booth. ' China would be way more challenging. Screengrab via US Central Command . save-icon-fill { display: none; } . save-icon.is-active . save-icon-fill, . save-icon-fill. is-active { display: block; fill: currentColor; } America's conflict with the Houthis gave the US Navy a taste...",
-      "published": "Sat, 07 Jun 2025 11:54:00 GMT"
+      "id": "4a3adf4c995f09c301982ff90427c49b",
+      "title": "China, EU enter final stage of EV price commitment talks: Chinese commerce ministry - Global Times",
+      "source": "Global Times",
+      "url": "https://www.globaltimes.cn/page/202506/1335620.shtml",
+      "image_url": "https://www.globaltimes.cn/Portals/0/attachment/2025/2025-05-07/c8d09c36-4914-4e9e-80cc-5bcba99c1881.jpg",
+      "summary": "China, EU enter final stage of EV price commitment talks: Chinese commerce ministry Published: Jun 07, 2025 03:43 PM The Ministry of Commerce Photo: VCG China's Ministry of Commerce (MOFCOM) said in a statement on Saturday that the electric vehicle (EV) price commitment negotiations between China and the EU have entered the final stage, though further efforts are still required...",
+      "published": "Sat, 07 Jun 2025 07:43:00 GMT"
     },
     {
       "id": "0b42a0953d5ef148e9b4b09e849cb40d",

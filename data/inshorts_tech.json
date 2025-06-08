@@ -1,18 +1,27 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-08 03:01:35",
+    "generation_time": "2025-06-08 06:46:38",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "3df87eab953fe79264eb7810888568b3",
-      "title": "Top Stories: What to Expect at Apple's WWDC 2025 'Sleek Peek,' macOS Tahoe Rumors, and More - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2025/06/07/top-stories-what-to-expect-wwdc-2025/",
-      "image_url": "https://images.macrumors.com/t/JKKks70tDw9jI1sTjLBKHpJM5QE=/1600x/article-new/2025/06/top-stories-2025-06-07.jpg",
-      "summary": "iPhone 16eWWDC 2025iOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad minimacOS 26 TahoeApple Watch 10iPhone 18CarPlayApple Pay Top Stories: What to Expect at Apple's WWDC 2025...",
-      "published": "Sat, 07 Jun 2025 13:00:00 GMT"
+      "id": "a4cc46bf7bfaeae0d25b018ca7782dca",
+      "title": "Bill Atkinson, Who Made Computers Easier to Use, Is Dead at 74 - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/07/technology/bill-atkinson-dead.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sun, 08 Jun 2025 00:12:30 GMT"
+    },
+    {
+      "id": "65996a123aa7c5906643737404260f24",
+      "title": "Nintendo Switch 2 sales shatters records, most-sold console in 24-hour period - TweakTown",
+      "source": "TweakTown",
+      "url": "https://www.tweaktown.com/news/105637/nintendo-switch-2-sales-shatters-records-most-sold-console-in-24-hour-period/index.html",
+      "image_url": "https://static.tweaktown.com/news/1/0/105637_89894_nintendo-have-globally-shifted-over-3m-switch-2-units_full.png",
+      "summary": "Nintendo Switch 2 sales shatters records, most-sold console in 24-hour period The Nintendo Switch 2 has reportedly beaten the record for the most-sold console within 24 hours and is on track to shatter the two-month record. Published Jun 7, 2025 10:29 AM CDT Updated Jun 7, 2025 11:17 AM CDT 2 minutes & 15 seconds read time As an Amazon...",
+      "published": "Sat, 07 Jun 2025 15:29:04 GMT"
     },
     {
       "id": "02e5893cedacb47284bb793c7f929d11",
@@ -33,49 +42,31 @@
       "published": "Fri, 06 Jun 2025 20:56:00 GMT"
     },
     {
-      "id": "0ad20489d2dd33be412b87a2074a1ae5",
-      "title": "How to buy the Nintendo Switch 2: Latest stock availability for consoles and games - Engadget",
-      "source": "Engadget",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRkg5VkxFSUQxeTQ5NFhCeG9QeUNOMzFYWU1OODlBdzJwRXRQVjVvcllYbURIUnBXdXVLUzQ5Ri1XckI5cUQ2N2lRM3ZPdlJZbm9ZRG9ZYUtDZFowNVpSemFqZTJUS2hmOUYwTTlGUUtacGozOFNqQ1VPeWFNemd0a3I0OTdoNHJ6cnRYbmxOQ0RrSW05d1h6TGFKbzhGMU82eTI2UENtSGdQN09CNE56cTVLekFGb29lN1k5ZFVsS0ptOFpjTVJ5a3J4NDhIX3ZFaEJj?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 06 Jun 2025 20:57:42 GMT"
+      "id": "0991468e4c5d2c3898f72b620ffebb73",
+      "title": "iFixit says the Switch 2 is even harder to repair than the original - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/681568/ifixit-nintendo-switch-2-repairability",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/ifixit1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "summary": "iFixit says the Switch 2 is even harder to repair than the originalA complete teardown of Nintendo’s new console reveals more components that are harder to remove and replace. iFixit has completed its teardown of the Nintendo Switch 2 and many repairs don’t look easy. Image: iFixit Andrew Liszewski is a senior reporter who’s been covering and reviewing the latest...",
+      "published": "Fri, 06 Jun 2025 18:07:27 GMT"
     },
     {
-      "id": "e7b9591b5bcaa8deea4c1d522ea904f2",
-      "title": "Google preps Pixel ‘Battery health assistance’ setting - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zVzhXLXJuZG43TW1wa3dFNU1xY28weVUyaG5fQmZZOWdXVU55a3N4Nl80b1VmMWNucy1FSENETms5ckFKQUFRMkZFUDFVbjhGSnNlbjZTVTNSNGVwRGJpcnc1SjRrR2J0Vl9PMld5YmF4dDJFUzlPRXZOWGFtXzg?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 07 Jun 2025 19:50:00 GMT"
+      "id": "6975fdb8175d6d48ff9bd26f4754ad87",
+      "title": "A Japanese lander crashed on the Moon after losing track of its location - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2025/06/a-japanese-lander-crashed-on-the-moon-after-losing-track-of-its-location/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/ispace_ceo-1152x648.jpeg",
+      "summary": "A Japanese lander crashed on the Moon after losing track of its location \"It’s not impossible, so how do we overcome our hurdles? \" Takeshi Hakamada, founder and CEO of ispace, attends a press conference in Tokyo on June 6, 2025, to announce the outcome of his company's second lunar landing attempt. Credit: Kazuhiro Nogi/AFP via Getty Images A robotic...",
+      "published": "Fri, 06 Jun 2025 17:30:15 GMT"
     },
     {
-      "id": "55ba5f6f4def630e875bcd1d41b3074c",
-      "title": "Nintendo Switch 2 demonstrates immense performance upgrade for previously near-unplayable games as well as shorter loading times - Notebookcheck",
-      "source": "Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWUkwWmp0NXd0M3dDTlRGSlN6empBVzh6QzRVWE1VcWpxal9WZy0tcU9EdFh1akpSSHRTX2w5Nkh5akNCazlYQTdidVJRZ0MtbVNrYTJ6YmllZXdMM2lBNm5uWlVHU0FLS0lVUVFXanZBYnlGMXF2YU8tckNDbEJ2YVVWc3ZUZXNGRHVKalFLbmJqV3B3bUhtdnI0Tm13YWx1SEw3bm1ZWkJvLUJXU2xKNk9FRXA0MVpRUk55d3lCZ2pESVF0VVdqODJFUVcyT3pXbEE5SUZ0OXpLTmM5Ym9oX3hXTE1xSEQzWTlVb0t4eG5VT1hMRUdyODM4bHlhSWxhOEFz?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 06 Jun 2025 18:29:00 GMT"
-    },
-    {
-      "id": "76baed3ae14e229c79ac1311cfb9470a",
-      "title": "Fortnite Chapter 6 Season 3 Battle Pass: All Skins And Rewards - GameSpot",
+      "id": "8e301569d32194f4dc8b994f71817050",
+      "title": "Fortnite Map Changes In Chapter 6 Season 3: Super - GameSpot",
       "source": "GameSpot",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV0ZEZktzSks5LXZrVHQ4dDFROUVmY1Bjd0dEWTF2S0dPUk5MSnZVZ3l3RUxwUG9ZOWZ3T2ZQS3NyTFM5ek9NSjcwQk55cFdPeG5PNGsyUWwtYVRpQ2p6ME9NZmpBMlpVTWZnQzR0TGFqa184aHotLWV5ZGpxNVljeHZpRmtIalZ1WTRRNHVnSVZiVzhsOWpUYVd0R3ZkYzlVMk9nTjdwNUc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 08 Jun 2025 00:32:39 GMT"
-    },
-    {
-      "id": "9f0f4c88df89898790931732af33ddb1",
-      "title": "Rogue Trader devs Owlcat are making an Expanse RPG with Mass Effect-style combat - Rock Paper Shotgun",
-      "source": "Rock Paper Shotgun",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNenJHTzNGalI1T0lod05KVHpvWF9nVXd1WXRsOVlUdjFERFhBcE5FYUVrLU0yR3ZtcDhCaVhRU2Y2TkdXM2ZpY2JpRjFkUDVUZF9NVUtjbFRSX2dQaVpudDE3SlNKWHJVUENuUDFlckw2T1RuOV9GSEk1Q0hkUmdnMjNnaUtmcGNtSUI2OXJfWGQ3RTJwSXR5ZWpTMDNGLXVKV0l3RGVMdWhLSEhWQU1aTjRiZw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 07 Jun 2025 20:05:00 GMT"
+      "url": "https://www.gamespot.com/gallery/fortnite-map-changes-in-chapter-6-season-3-super/2900-6651/",
+      "image_url": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394540/4508474-c6s3battlepasslineup_en.jpg",
+      "summary": "Fortnite Map Changes In Chapter 6 Season 3: Super By S. E. Doster on June 7, 2025 at 2:11PM PDT GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links. Fortnite's Chapter 6 Season 3: Super arrives with a brand-new season featuring superheroes, new map changes, and a Superman movie crossover. Get...",
+      "published": "Sat, 07 Jun 2025 22:11:54 GMT"
     },
     {
       "id": "1bc2e1831de28901190b430ceb424ca8",
@@ -84,106 +75,115 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45cmJraE9QanZIODE4MlJJVUE1dkU3eVU2eGV5UkRPUk1UVk1kaktHX2NjX0pUd1R3cDVWdk13LWNxNk9xVmZPZEwwWTlWYlY4SjQwWE5haF9SbFBKdFlFN1I5UXpBVVZGWmc?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sat, 07 Jun 2025 22:31:25 GMT"
+      "published": "Sat, 07 Jun 2025 22:48:25 GMT"
+    },
+    {
+      "id": "9f0f4c88df89898790931732af33ddb1",
+      "title": "Rogue Trader devs Owlcat are making an Expanse RPG with Mass Effect-style combat - Rock Paper Shotgun",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/rogue-trader-devs-owlcat-are-making-an-expanse-rpg-with-mass-effect-style-combat",
+      "image_url": "https://assetsio.gnwcdn.com/The_Expanse_Osiris_Reborn_KeyArt_16x9_1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "All Elden Ring: Nightreign bosses and mini-bosses Monster Hunter Wilds best weapons tier list If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News The Expanse: Osiris Reborn Rogue Trader devs Owlcat are making an Expanse RPG with Mass Effect-style combat Osiris Reborn is an original story in...",
+      "published": "Sat, 07 Jun 2025 20:05:00 GMT"
+    },
+    {
+      "id": "e4d64eca642de10fd571f83bbc4d7be7",
+      "title": "Summer Game Fest June 2025: Everything announced - Eurogamer",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/summer-game-fest-june-2025-everything-announced",
+      "image_url": "https://assetsio.gnwcdn.com/Screenshot-from-resident-evil-requiem.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "Genshin Impact 5. 7 Livestream Codes Summer Games Fest & IGN Live Schedule If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News Resident Evil: Requiem Summer Game Fest June 2025: Everything announced Resident Evil Requiem! Wildgate! Deadpool VR! Jurassic World Evolution 3! Code Vein 2! News by...",
+      "published": "Sat, 07 Jun 2025 16:47:23 GMT"
     },
     {
       "id": "27fbf328b7c665e3b0d209af3003c892",
       "title": "The Ford Mustang FX Is The Freshest Pony Since Vanilla's 5.0 - CarBuzz",
       "source": "CarBuzz",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wN3NyZGRZOUotWm03cUNrVmMtUUY3OFhxMkl6MHRVczc3eFBDQlFPX3lRQTNGRXYxNnZrWm03ZnlYU1AwTmstVVZVenlmMW85VFdtQlVEZ0pYcjFQUXpxa01hM2M?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://carbuzz.com/2026-ford-mustang-fx-retro-reveal/",
+      "image_url": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2026-mustang-fx-package_23.jpg",
+      "summary": "The Ford Mustang FX Is The Freshest Pony Since Vanilla's 5. 0 It might be faster, stronger, grippier, more comfortable, and better in just about every way than the 1993 Ford Mustang, but there is one area where the retro car beats the modern one. Teal. You could get your 1993 Ford Mustang Cobra in that most 1990s of paint...",
       "published": "Sat, 07 Jun 2025 10:00:00 GMT"
     },
     {
       "id": "a0828597ffda3b831c255688b72829da",
       "title": "Apple’s latest AirPods Pro with USB-C just received a $70 discount - The Verge",
       "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR0ZBcVp3by05bkY3VWp1Y01KdHc0ZXNITXpUMHpBTXBZTmozLWlzZUZWcUtvaGdLZ0tMeDRwVkl5M19IZV9LYWhiY0otM0ZZOEtmQ0ZZU3hMd2FaVTk2UHB4TEZhSUhnSTVJcE13UHIzaFZ6eVIzUWl3bTEwY3dOM1ZUOTRBcjZRdUE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.theverge.com/tech/681365/apple-airpods-2-usb-c-meta-quest-3s-deal-sale",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/AirPods-Pro-USB-C-Deal-Image.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "Apple’s latest AirPods Pro with USB-C just received a $70 discountPlus, you can save on Meta’s excellent Quest 3S headset and a dirt-cheap location tracker. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Brandon Widder is a senior editor overseeing deals, gift guides, and commerce. He spent six years spearheading...",
       "published": "Sat, 07 Jun 2025 14:10:47 GMT"
-    },
-    {
-      "id": "dfcf20316460e87b1b60769e5e4c1390",
-      "title": "Summer Game Fest: Resident Evil Requiem and Bond among big reveals - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vVy10N1VpeXZ5ZW81ZHdnSFhxVy1ZdG1pUGh3RWl2QzM3RTNsbjBjUDgwNnFDYjRkRW5mTnRaQUc4MUIxanUxN1hOQzJMVUcyN1NZOGpzd1haQdIBX0FVX3lxTE0zcEYtSXY0dXJaVXFIb0FXZUFQY0RwUnREMWU2enQ2OG5CSndxRlZQRV9FRm1WSHBGeDZFQjJNZ1RRTnlMQ1JuTzZWa3JCMUhBUk9VcVRzZU16T2IwcDRN?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 07 Jun 2025 10:06:45 GMT"
     },
     {
       "id": "e76e0247e0052819c3f285ce2650eb4d",
       "title": "Delete Every App On Your Smartphone That’s On This List - Forbes",
       "source": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkFwVnB3al9TM0NfUk96N2VmWUkxOWdJRXVuQUR5eU84SGU5bnhxWjFfbU50WWxjOXk5WGJidFZrZkQwRHZHcDFNOGdNM2FoeVJSUkF4SXFpYW5Od3Q5RmU2cFF5R2o2QlotR3M5MlpMbXBlVHQ2Zmg0Qm05TTNqeDhMcFZHUF9ENk11V1daeUx6OHhUVERJdGtROXZsOFU1RDJFVkhqMXBnZw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 07 Jun 2025 21:24:46 GMT"
-    },
-    {
-      "id": "4a67deb828b7916faf71fdfd27c732f8",
-      "title": "Splitgate 2 Dev Says He's Tired Of Playing Call Of Duty And Wants Titanfall 3 While Wearing A 'Make FPS Great Again' Hat - Kotaku",
-      "source": "Kotaku",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSUR1Vi00OFdDNG5wVjd3ZUhmM09XeFF3S0FVY3BtaUhDbERrQWR2UTA3a2UyMGc5UF9LYlFmNncyZVlCVkNnS1REQWlITFNwVW9sZFdORkNlWEZpVEJPRHdVTU9OS3NqaUp3Zm85UWtzQUc1RkRjQXZFVFVvbFZxRG9jVjh4eGtGWlE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 06 Jun 2025 23:39:00 GMT"
-    },
-    {
-      "id": "c13e386093cb9d8d3537d6c8ed5738a1",
-      "title": "Meta Ray-Ban Glasses are at their Lowest Price Ever: Deal of the Day - NBC News",
-      "source": "NBC News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEw3a0lBUkc4YjVzU21kWjBXVzI2SGs5eHFWc20tQnZla3JKbldTeVVFQzBxLUZQd2FlbF8tbHlvR0RzUmlNUm5PeEROZE5od0lzNC1yUkh2akh0OFlLem5SbC1NdTdrLXhIcjJ5RDFEQlFQNF9JVmlxSlFFQUdCVEhLM3c3OGNfNGllVG5iQTFEajJ2bWxj0gFYQVVfeXFMTnRPUEcycm4yT2hXVy1qRHh4S2t0cnZLLWVuWThVODlabHppdmw3UG5QQm9KY0V5dTVqUTl3dXFQODVIbVplSWljLXB4QUxCTERYakpEWXFTXw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 06 Jun 2025 19:10:37 GMT"
-    },
-    {
-      "id": "e7737507a65bb4668dd82db0760b34db",
-      "title": "Best Dune Awakening Starter Build and Class Guide: Early Game Skills, Gear & Tips for New Players - The Game Post",
-      "source": "The Game Post",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PS25RWnJ4TGpUXzJTUTd0Ri1ZLV85cHRQeUtJLTQ4T01QRk9yVXVhWDFQbjc0V2I4U0s0U1RWbEZOTml0aEZIMEM0MlNsQjNkek16NUVXVXQzNWpNTk5IM29maUhxVFk4RVJ1TUY2RjAzcEk?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 07 Jun 2025 15:22:35 GMT"
-    },
-    {
-      "id": "6ec109128ff328fb4c26c1fd5630cb49",
-      "title": "Sonic Racing: CrossWorlds Switch 2 Version Announced Alongside \"Paid Upgrade\" For Switch - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd2VFWm1tNUdHY0tzczRScDdOMUtOTkxwSlNIM2NhdGpHdmhVYnJuX1NpSkNCeUdlVVd2eHZ5UEhjNUNPYTlMQ0dEVFc1andaWlVWeGszSG5hNlpidm50Ry1ITS1HSWZwUjhsVVRJWWdpQmF3X0pKR0U3NUllOElHZlc1N3BiZWM5akNSS2Yxb0w1RDBPWHJMODhiUlpjdzVpN0lYamRiZXJyVHA2TUtHZjUwb1hGbnlwWFFjOGtvUUZydW01QVE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 07 Jun 2025 02:05:00 GMT"
-    },
-    {
-      "id": "f5199cc91317969f51ed7f730e188f9c",
-      "title": "I tested Apple’s 11th-gen iPad for a week, and it’s still the best tablet - CNN",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YOURiLWpOdDZsclFQS1dEdUlOZEhpNFRsNjNVenJRNm44ei1xZTR3elJqd2YxaFlObGdkU0tmTVN1OUF0OTJUak1ncmhfTW5IbEdVak9MOVNzMTVWU2t3ZdIBZkFVX3lxTFBwOW5JaHE4N3ZMVVYyTmU0Zm5aWFZMMnNJaVlwbVluSHQxMUhmbDZQWGVSYTAzS2xIZUxqOHhIVF85YnNJZHZ1enU1RmRJbFRoVVJkMWY5WGNPVndlY3puVFpQNnprZw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 06 Jun 2025 15:55:00 GMT"
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/06/07/delete-every-app-on-your-smartphone-thats-on-this-list/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/65aeed369be3a016e61b4a9a/0x0.jpg?format=jpg&crop=2599,1462,x298,y197,safe&height=900&width=1600&fit=bounds",
+      "summary": "Delete Every App On Your Smartphone That’s On This List ByZak Doffman, Contributor. Zak Doffman writes about security, surveillance and privacy. Jun 07, 2025, 05:24pm EDTJun 08, 2025, 12:53am EDT You probably have at least 100 apps on your phone — likely more. And there’s plenty of choice, almost 2 million apps on Apple’s App Store and nearer 3 million...",
+      "published": "Sun, 08 Jun 2025 04:53:06 GMT"
     },
     {
       "id": "e0cb5ab0b9b4153975c4df264216ae31",
       "title": "Apple Has a Huge Siri Problem That WWDC 2025 Probably Won’t Fix - Gizmodo",
       "source": "Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUzA0NlZ6VzRhdVFXdEg4NVJoWnN4VWxfVEcxR3NzUUhJRk5PNks2NEVRYURrckNhTWJMZ3U1dlUwYm1ET2hFLU1KV0FKd2dERlBnV3NTcmRJWG41TTg0Um0tM1NqT2N1b3p4UEtDWmJLa2JOb0VfQjhWdkJ6QUFucWpLSlRPZ2I1SzQ1NHA0em52d1p1LW0tWQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://gizmodo.com/apple-has-a-huge-siri-problem-that-wwdc-2025-probably-wont-fix-2000612362",
+      "image_url": "https://gizmodo.com/app/uploads/2025/06/ios19-siri-1200x675.jpg",
+      "summary": "Apple Has a Huge Siri Problem That WWDC 2025 Probably Won’t Fix If Apple is going to address its stumbles with AI, now would be the time, but my hopes aren't super high. Published June 6, 2025 | Comments (10) | Apple’s annual WWDC developer conference is almost here, and it’s shaping up to be an important one. Not just...",
       "published": "Fri, 06 Jun 2025 18:10:14 GMT"
     },
     {
-      "id": "fc0cf9f874aa64e51b28e942ae3827a4",
-      "title": "PS5's Brilliant New State of Play Breaks Records for Sony - Push Square",
-      "source": "Push Square",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVhxbWZHam5LVE53WE90bVJCeUtYNHNPUTFONEtTUFN1NERvUlZ1ZkJKTHJKMjdfN3RFelc4OWh4cWdWWmJnbGl2VDI3R3loV2hmRFFPWkx6N1pjRFVPbEZOMnhkbmtjaGhNajRvOEJqZ2dDbjd6S0UtWHl0a2JRUnNXaWtrR01MWTNFN3M5SWNKSTZzOFlmLTQ3Qzk?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 06 Jun 2025 06:56:34 GMT"
+      "id": "c13e386093cb9d8d3537d6c8ed5738a1",
+      "title": "Meta Ray-Ban Glasses are at their Lowest Price Ever: Deal of the Day - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/select/shopping/meta-ray-ban-glasses-deal-of-the-day-2025-rcna211506",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250606-deal-of-the-day-ray-ban-meta-oo-main-64c87c.jpg",
+      "summary": "Stanley's viral tumbler is 40% off Deal of the day: Samsung Galaxy Buds 3 Lowest price ever: Apple iPad Air (M3) Lululemon's \"We Made Too Much\" sale Select independently determines what we cover and recommend. When you buy through our links, we may earn a commission. Learn more. Deal of the Day: Meta Ray-Ban Glasses are at their lowest price...",
+      "published": "Fri, 06 Jun 2025 19:10:37 GMT"
+    },
+    {
+      "id": "8f3ccc65bb87a3a24955bb47647274c2",
+      "title": "Best Dune Awakening Starter Build and Class Guide: Early Game Skills, Gear & Tips for New Players - thegamepost.com",
+      "source": "thegamepost.com",
+      "url": "https://thegamepost.com/best-dune-awakening-starting-build-guide/",
+      "image_url": "https://thegamepost.com/wp-content/uploads/2025/06/best-dune-awakening-starting-build-guide-4.webp",
+      "summary": "Best Dune Awakening Starter Build and Class Guide: Early Game Skills, Gear & Tips for New Players Image: Funcom via The Game Post Looking for the best starting build in Dune: Awakening? This beginner-friendly guide breaks down the top skills, gear, and tips to help new players survive and thrive from day one. Getting started in Dune Awakening can feel...",
+      "published": "Sat, 07 Jun 2025 15:22:35 GMT"
+    },
+    {
+      "id": "08c8bcf8bf07fe20e6001cbe6b1d2f8b",
+      "title": "Splitgate 2 Dev Says He's Tired Of Playing Call Of Duty And Wants Titanfall 3 While Wearing A 'Make FPS Great Again' Hat: 'I’m Not Here To Apologize' - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/splitgate-2-battle-royale-trump-hat-summer-game-fest-1851783949",
+      "image_url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/fcdd8b2e789c52a35ad3ddd99fd88558.png",
+      "summary": "Splitgate 2 Dev Says He's Tired Of Playing Call Of Duty And Wants Titanfall 3 While Wearing A 'Make FPS Great Again' Hat: 'I’m Not Here To Apologize' The portal shooter launches a surprise battle royale mode Image: Summer Game Fest / Kotaku 1047 Games cofounder Ian Proulx took the stage at Summer Game Fest on Friday to promote his...",
+      "published": "Sat, 07 Jun 2025 15:56:23 GMT"
+    },
+    {
+      "id": "6ec109128ff328fb4c26c1fd5630cb49",
+      "title": "Sonic Racing: CrossWorlds Switch 2 Version Announced Alongside \"Paid Upgrade\" For Switch - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2025/06/sonic-racing-crossworlds-switch-2-version-announced-alongside-paid-upgrade-for-switch",
+      "image_url": "https://images.nintendolife.com/9f3a39ce8e65d/large.jpg",
+      "summary": "Sonic News Reviews Features Games Guides Videos Forums Better eShop NewsSonicNintendo Switch 2Nintendo SwitchSEGADLCUpcoming Releases Sonic Racing: CrossWorlds Switch 2 Version Announced Alongside \"Paid Upgrade\" For Switch Guest characters and release date also revealed by Liam Doolan Yesterday, 2:05am Subscribe to Nintendo Life on YouTube819K Sega has now officially locked in a release date for Sonic Racing: CrossWorlds – announcing...",
+      "published": "Sat, 07 Jun 2025 02:05:00 GMT"
+    },
+    {
+      "id": "7f4d01792521a5fed1e3deb3ccbfeab0",
+      "title": "Nintendo has replaced the longtime voice of Peach and Toad - Polygon",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/nintendo-switch-2/604585/nintendo-voice-actor-princess-peach-toad-replaced-new",
+      "image_url": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/Princess-Peach-and-Toads-.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "summary": "Nintendo has replaced the longtime voice of Peach and Toad Donkey Kong’s voice actor was also changed for Mario Kart World. Marc Griffin has been an established gaming and entertainment journalist and associate editor since 2019. He has written for the likes of Grammy. com/The Recording Academy, Fandom Gaming, Gamespew, CBR, The Verge, Billboard, JD Sports, XDA, VIBE Magazine, HotNewHipHop,...",
+      "published": "Fri, 06 Jun 2025 19:32:02 GMT"
+    },
+    {
+      "id": "1fa9ad0832e6ae89ed2e4403a5cdd9a6",
+      "title": "Mario Kart World tech analysis, including frame rate and resolution - Nintendo Everything",
+      "source": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/mario-kart-world-tech-analysis-including-frame-rate-and-resolution/",
+      "image_url": "https://nintendoeverything.com/wp-content/uploads/Mario-Kart-World-frame-rate-resolution.jpg",
+      "summary": "Switch 2SwitchSwitch eShopamiiboMobile [Let’s Talk] First Nintendo Switch 2 impressions Mario Kart World review for Nintendo Switch 2 Mario Kart World tech analysis, including frame rate and resolution Posted on June 7, 2025 by Brian(@NE_Brian) in News, Switch 2 Mario Kart World is the big Nintendo Switch 2 launch game, and Digital Foundry has provided insight from the technical side...",
+      "published": "Sat, 07 Jun 2025 19:15:59 GMT"
     }
   ]
 }
