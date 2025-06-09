@@ -1,37 +1,10 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-06-09 02:09:57",
+    "generation_time": "2025-06-09 06:40:37",
     "total_articles": 20
   },
   "articles": [
-    {
-      "id": "381f5cbbf790bccb79e2fd426ec8e854",
-      "title": "Flying Now Puts You At Risk Of Measles Exposure, CDC Says - Jalopnik",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/1879395/flying-puts-americans-at-risk-measles-cdc/",
-      "image_url": "https://www.jalopnik.com/img/gallery/flying-now-puts-you-at-risk-of-measles-exposure-cdc-says/l-intro-1749222373.jpg",
-      "summary": "© 2025 Static Media. All Rights Reserved Flying Now Puts You At Risk Of Measles Exposure, CDC Says Hinterhaus Productions/Getty Images Airports are full of people, and sadly, far too many people still choose to fly even when they're sick, which means you could get sick. It's been that way for a while, but at the very least, you used...",
-      "published": "Sat, 07 Jun 2025 19:25:00 GMT"
-    },
-    {
-      "id": "aeb6ed0044b0f3f44e4f1163c6ae813c",
-      "title": "Measles in Alabama? Officials investigating possible case that would be state’s first in years - AL.com",
-      "source": "AL.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdGhxQUhoMHZ3RGVQdE1GakVaNnYtNk5lMmFtbzBNZTdoQVpMdm0xYU9GQTl6VW5GZ29IV0dXYUJjbklKYXVJZktKZ29iNHN2UzdaRHFyT2xGeHJLNzNJM2Y5aFBSU2hlTkIzNE1rRU1takE3akxEUDZMVkF1TU1VUmZyRDFYMVBlY2w4S3hfcVloRjk0TVFCV0Q0WHpueEpaRWYxbl8zVXZTLUF0c1YyNkIzeVlQanc5cG5BSzlvUmx2N2Q0NnpmbNIB3AFBVV95cUxNLUlsQUFnZHV6b2wwUFZiQUZXR3VQLWFuVHV5Vmg3ZjQzNHM3YmVoTDZzWE5XZXBOWEVMeDlZV1BmUDREeHNrQUtSLUg4SXRYeHVVUkNtQUk0U2N0Y2RtSUdlbVR3ZHF5Nmo0VXdWQ0QxbnFCNTZJYXBudklnRWVOM1Q2UER1WVdFNE5ZWTZhMHgzd1AyUHdZX21HelgtNUFEZWFnQ2kxZ21kcjJTOEx4eVIwTXJqUWtLY1RjZUUtMzRYWm8tT2kwS3F3MGZYWDVQZFEyMUdKUExKRW14?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 08 Jun 2025 20:31:00 GMT"
-    },
-    {
-      "id": "63a473d60c68c823af55ef489984218b",
-      "title": "Who can get a COVID-19 vaccine this fall? Here’s what we know - OregonLive.com",
-      "source": "OregonLive.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONVh5TXM2VmJubEdJMGJzeEhjZ0FoblU2ZllKdU1tRVpFcEpTXy1qejlnQUlGZnYwMGFfb0F5a3pLcjd5WFl2UkE5SnF5dzFiRkxHa2pPVkw5MGgzak53T0FVcFZKZnVaTVdvUkZVdFZ0QVYtME8tRU1wZ2JpMFUxbmlUMVM5d3J4LXhjWFU3cWdfbklCVXRWNzB2THFVczFJNEkzN0Y3X3dJd9IBvgFBVV95cUxPaE5qTHViNHk3ZnFRYVY3LUoyU0I3QUticFVYeEVDWWNwZW9Ic0U3MmpSQkJoamVyNXpMZXVFcjhwN0piWTdHWHU3UU5fRGZzbVBvQmYwNHRLYnVDMkV0OHlWMGU5eU9LSlNNa1IxMmQ1RHNRRmJidGxkUXQ0akh3cWJwMndXRzFMUzh5UUNaczJpMm50QTFybjU3V09ZTENlMjlBZElKVjJiNEpsNVpyN3Z4Y05MZVptUmdCVVhn?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 07 Jun 2025 13:00:00 GMT"
-    },
     {
       "id": "eb14325cd85e759fc8ae89a6aafee04d",
       "title": "Why men with broken heart syndrome are more likely to die, according to experts - East Idaho News",
@@ -42,39 +15,84 @@
       "published": "Sat, 07 Jun 2025 20:19:00 GMT"
     },
     {
-      "id": "5aa7628ae565496912a29a1004f5ca35",
-      "title": "Novo's Ozempic linked to rare cases of serious eye disorder, EU regulator says - KSL News",
-      "source": "KSL News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2tfNHpJenRiVTJWT3M4bHN3Y0lQOFZ2NGIycHhOeUMtSXB5Wm93bnU4NWI4SWJJR3I4bnNZTFNkNDhhZ3JVY1dsSS14OGxNTWZQaXVKWG1EYWExVG9PTUxmcnczVDZlLWVKR3BGZFZDeldzUmk5VXRJQ0ltOG5reGRjUnU1MklQX05LMTlQUjBWZEtYZU4xOUlzTUhOYU9UNTJ0d2VLUlhJem1oVHJHNGgtYw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "id": "63a473d60c68c823af55ef489984218b",
+      "title": "Who can get a COVID-19 vaccine this fall? Here’s what we know - OregonLive.com",
+      "source": "OregonLive.com",
+      "url": "https://www.oregonlive.com/health/2025/06/who-can-get-a-covid-19-vaccine-this-fall-heres-what-we-know.html",
+      "image_url": "https://www.oregonlive.com/resizer/v2/XGUKHDEXJNDHBBUSK26D3AKLPM.jpg?auth=373a0f1c4d4c6dd46717daffbdd02fe069c3826e3d767a93570204f06111e49a&width=1280&quality=90",
+      "summary": "Summer Sale - Start Today for $1 - Expires 6/30/25 Who can get a COVID-19 vaccine this fall? Here’s what we know Published: Jun. 07, 2025, 6:00 a. m. Health and Human Services Secretary Robert F. Kennedy Jr. , left, and Education Secretary Linda McMahon attend a Make America Healthy Again (MAHA) Commission Event in the East Room of the...",
+      "published": "Sat, 07 Jun 2025 13:00:00 GMT"
+    },
+    {
+      "id": "aeb6ed0044b0f3f44e4f1163c6ae813c",
+      "title": "Measles in Alabama? Officials investigating possible case that would be state’s first in years - AL.com",
+      "source": "AL.com",
+      "url": "https://www.al.com/news/2025/06/measles-in-alabama-officials-investigating-possible-case-that-would-be-states-first-in-years.html",
+      "image_url": "https://www.al.com/resizer/v2/HAACPIGYRBFEXI2JXF6JCXHLUE.jpg?auth=e11105332959ce80fb84cbdf6a1ad8a95fe78c9ee9411558db3c68454820c9e0&width=1280&quality=90",
+      "summary": "Measles in Alabama? Officials investigating possible case that would be state’s first in years Updated: Jun. 08, 2025, 3:37 p. m.|Published: Jun. 08, 2025, 3:31 p. m. By Lawrence Specker | lspecker@al. com According to information released by ADPH, the investigation is taking place in Lee County, involving one person “who was not yet eligible for vaccine. ” The CDC...",
+      "published": "Sun, 08 Jun 2025 20:31:00 GMT"
+    },
+    {
+      "id": "71694afd8040c9d83c1f548903ba33a7",
+      "title": "Novo's Ozempic linked to rare cases of serious eye disorder, EU regulator says - KSL.com",
+      "source": "KSL.com",
+      "url": "https://www.ksl.com/article/51326080/novos-ozempic-linked-to-rare-cases-of-serious-eye-disorder-eu-regulator-says",
+      "image_url": "https://img.ksl.com/slc/3088/308866/30886639.jpeg?filter=kslv2/responsive_story_lg",
+      "summary": "Novo's Ozempic linked to rare cases of serious eye disorder, EU regulator says By Mariam Sunny, Reuters | Updated - June 8, 2025 at 5:03 p. m. | Posted - June 8, 2025 at 3:56 p. m. Novo Nordisk's popular weight-loss and diabetes drugs Wegovy and Ozempic may in very rare cases cause a serious eye condition that can lead...",
       "published": "Sun, 08 Jun 2025 21:59:29 GMT"
     },
     {
-      "id": "74deb06b6ffe82cd4d851c85634741a7",
-      "title": "What’s a sleep paralysis demon? And other facts of the bizarre phenomenon - CNN",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOW1YTTAwRWotTzlhLU9odmxueWpNSzlxTk1waE5fZHFvZUVPdF9URjZFd0EtUklRVFo3TDJGNUtJaEZ6S0gtMndRbmRGQkRIUHJTbGNDVjhxTGIzRFdxN004S2ZHYVIxeTJzOWtLdHhoQ0YwUFBoZ1hoaEZaM0xXa0Y3cEpyeHPSAYwBQVVfeXFMTUk5X213ZXpCNWpaN3NYRHZNek1sd3I2cExLNlhsUFk3Nl92d0NYalF1UXh6dmlTOWgxdWZBdHpvUHRrNmtwNm1nYlJNbVFMRWMxQ0lURHJqekh0N0FXeEs0YXZVLXhpODUzYVRhRXhPejVQZUYxbVR2TjhlRWhzQV9FclJGZXVNMG9rN1k?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 08 Jun 2025 16:00:00 GMT"
+      "id": "769020aba95e2cc083548965340c70da",
+      "title": "New study finds strong link between hearing loss and dementia - WKRC",
+      "source": "WKRC",
+      "url": "https://local12.com/news/nation-world/hearing-loss-dementia-study-link-connection-cognitive-decline-older-elderly-brain-hear-sound-ears-ear-aid-aide-research-science-saying-talking-talk-stimulation-simulated-mild-repeat-community-social-socializing",
+      "image_url": "https://local12.com/resources/media2/16x9/5472/986/0x285/90/00c06d14-1b41-49f5-b72e-5d893f26b772-GettyImages1347733666.jpg",
+      "summary": "New study finds strong link between hearing loss and dementia by KVVU/CNN Newsource/WKRCSun, June 8th 2025 at 12:37 PM A new study found that people with hearing loss could be at a significantly higher risk of developing dementia. (Photo by Joe Raedle/Getty Images) CINCINNATI (WKRC) - A new study found that people with hearing loss could be at a significantly...",
+      "published": "Sun, 08 Jun 2025 16:37:53 GMT"
+    },
+    {
+      "id": "381f5cbbf790bccb79e2fd426ec8e854",
+      "title": "Flying Now Puts You At Risk Of Measles Exposure, CDC Says - Jalopnik",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/1879395/flying-puts-americans-at-risk-measles-cdc/",
+      "image_url": "https://www.jalopnik.com/img/gallery/flying-now-puts-you-at-risk-of-measles-exposure-cdc-says/l-intro-1749222373.jpg",
+      "summary": "© 2025 Static Media. All Rights Reserved Flying Now Puts You At Risk Of Measles Exposure, CDC Says Hinterhaus Productions/Getty Images Airports are full of people, and sadly, far too many people still choose to fly even when they're sick, which means you could get sick. It's been that way for a while, but at the very least, you used...",
+      "published": "Sat, 07 Jun 2025 19:25:00 GMT"
     },
     {
       "id": "ce567583bcfb00d107e33269e9b87d10",
       "title": "Average penis size has increased — and Ozempic could be to blame, experts say - New York Post",
       "source": "New York Post",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0ZyRUc1WHdHckxuTndWbWF1aXl4LWhfaTRJU2g3YmhCc2ZydnRrb2xDd3d6RncyVDA2Yy0zWWpfMG9IWkdpeUJCMWUzbWpXaXB0VXl0OVcxLU1PRkh6X1Q0ckwtdXpYVUpQXzBISmFvR2U3M0FlV2dGZlk0ZUtGdmc4ak5zM1NVeTJSeW1xTDBMWXpYZExDUW52NFRmNTAzVnN6R0h3?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://nypost.com/2025/06/08/lifestyle/average-penis-size-has-increased-and-ozempic-could-be-to-blame/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2025/06/COMP-iStock-1443882702.jpg?quality=75&strip=all&w=1024",
+      "summary": "Sad reason 31-year-old woman has never had a boyfriend United Airlines' new business class offerings may be the best. .. Gen Z says salary norm should be 'banned' — but critics say 'it. .. Airlines hate this sneaky travel hack that can save flyers. .. Average penis size has increased — and Ozempic could be to. .. AMC Theatres announce...",
       "published": "Sun, 08 Jun 2025 19:52:00 GMT"
+    },
+    {
+      "id": "6b28a42c7120b89459410198464fe463",
+      "title": "Buzzy anti-aging supplement beloved by biohackers may not actually be that useful after all - New York Post",
+      "source": "New York Post",
+      "url": "https://nypost.com/2025/06/07/health/supplement-beloved-by-biohackers-may-not-fight-aging-after-all/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2025/06/106036673.jpg?quality=75&strip=all&w=1024",
+      "summary": "Ozempic makes you twice as likely to develop this debilitating. .. I'm a heart surgeon — 3 warning signs you shouldn't ignore,. .. Olive oil can increase the 'fat cell soldiers' in your body —. .. Why so many people are having strokes in their 20s, 30s and 40s:. .. Caffeinated 'workout queen' dies from heart attack at 28 as.",
+      "published": "Sat, 07 Jun 2025 17:07:00 GMT"
+    },
+    {
+      "id": "c7f7546956888c170d47462ce500bc89",
+      "title": "I was tickling my toddler when I realized a devastating truth that nearly killed me... always trust your gut - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/news/article-14776601/doctors-dismissed-pregnancy-symptoms-diagnosis-christine-kalafus-connecticut.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/06/20/99047535-0-image-m-9_1749238749921.jpg",
+      "summary": "I was tickling my toddler when I realized a devastating truth that nearly killed me. .. always trust your gut By JANE RIDLEY FOR DAILYMAIL. COM PUBLISHED: 23:19 EDT, 8 June 2025 | UPDATED: 01:38 EDT, 9 June 2025 One Sunday morning between Christmas and New Year, Christine Kalafus was tickling her four-year-old son, Trevor, when he accidentally elbowed her...",
+      "published": "Mon, 09 Jun 2025 03:19:36 GMT"
     },
     {
       "id": "d2040085e3da42773975076eea1954d5",
       "title": "Truth about if you should be taking fish oil to protect your brain, revealed by DR ELLIE - Daily Mail",
       "source": "Daily Mail",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXE0MDhETUp3aDZvbkxnWGt3WWdKel80U0lDR1E4SjR0cFJ2N1NCQ1RySG0xdVpIa29BZVhqeUktTENmNUZEbGpBMXJKc0Ewbk5QODBQam1kb1QwTHI0UnI3RDFuQmVBdU9HbjgwQ1Y1Y0huaE0tQlJ0S0V2SXFjcVRqYUxfTEhaTHlWNDduclZQcUtpU1ZCaVc4Ty1tU0VHRG1F?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.dailymail.co.uk/health/article-14789999/Truth-taking-fish-oil-protect-brain-DR-ELLIE.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/07/14/99135983-0-image-a-12_1749303311155.jpg",
+      "summary": "Truth about if you should be taking fish oil to protect your brain, revealed by DR ELLIE How concerned should I be about my crusty brown skin patches? Dr Ellie reveals whether you should be worried about cancer PUBLISHED: 11:56 EDT, 7 June 2025 | UPDATED: 11:58 EDT, 7 June 2025 I’m 77 and my pharmacist told me that taking...",
       "published": "Sat, 07 Jun 2025 15:56:31 GMT"
     },
     {
@@ -87,22 +105,13 @@
       "published": "Sun, 08 Jun 2025 11:15:41 GMT"
     },
     {
-      "id": "26f152d943d74cd6ae073aac3d3dd9cb",
-      "title": "How funding cuts could stall efforts to eradicate HIV/AIDS - WLWT",
-      "source": "WLWT",
-      "url": "https://www.wlwt.com/article/status-hiv-aids-in-2025-america/64896415",
-      "image_url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-888296568-683a1e7b6b6aa.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
-      "summary": "How funding cuts could stall efforts to eradicate HIV/AIDS Updated: 9:00 PM EDT Jun 6, 2025 Since the first case of HIV in the U. S. nearly 44 years ago, the country has made significant progress towards eradicating the disease. Now on the cusp of ending the epidemic, roadblocks from President Donald Trump’s second administration may threaten to stall that...",
-      "published": "Sat, 07 Jun 2025 01:00:00 GMT"
-    },
-    {
-      "id": "6b28a42c7120b89459410198464fe463",
-      "title": "Buzzy anti-aging supplement beloved by biohackers may not actually be that useful after all - New York Post",
-      "source": "New York Post",
-      "url": "https://nypost.com/2025/06/07/health/supplement-beloved-by-biohackers-may-not-fight-aging-after-all/",
-      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2025/06/106036673.jpg?quality=75&strip=all&w=1024",
-      "summary": "Olive oil can increase the 'fat cell soldiers' in your body —. .. I'm a heart surgeon — 3 warning signs you shouldn't ignore,. .. Ozempic makes you twice as likely to develop this debilitating. .. Why so many people are having strokes in their 20s, 30s and 40s:. .. Doctor explains why you're making 'old people' noises — even...",
-      "published": "Sat, 07 Jun 2025 17:07:00 GMT"
+      "id": "3e9f93b0e77803f95745973032c6695e",
+      "title": "A Major American Egg Farm Just Lost 90% of its Chickens - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-07/a-major-american-egg-farm-just-lost-90-of-its-chickens",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Sat, 07 Jun 2025 08:00:12 GMT"
     },
     {
       "id": "bc057107c78856e9e1108d6828cadfc8",
@@ -114,49 +123,40 @@
       "published": "Sun, 08 Jun 2025 16:00:00 GMT"
     },
     {
-      "id": "3e9f93b0e77803f95745973032c6695e",
-      "title": "A Major American Egg Farm Just Lost 90% of its Chickens - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-07/a-major-american-egg-farm-just-lost-90-of-its-chickens",
-      "image_url": null,
-      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
-      "published": "Sat, 07 Jun 2025 08:00:12 GMT"
-    },
-    {
-      "id": "769020aba95e2cc083548965340c70da",
-      "title": "New study finds strong link between hearing loss and dementia - WKRC",
-      "source": "WKRC",
-      "url": "https://local12.com/news/nation-world/hearing-loss-dementia-study-link-connection-cognitive-decline-older-elderly-brain-hear-sound-ears-ear-aid-aide-research-science-saying-talking-talk-stimulation-simulated-mild-repeat-community-social-socializing",
-      "image_url": "https://local12.com/resources/media2/16x9/5472/986/0x285/90/00c06d14-1b41-49f5-b72e-5d893f26b772-GettyImages1347733666.jpg",
-      "summary": "New study finds strong link between hearing loss and dementia by KVVU/CNN Newsource/WKRCSun, June 8th 2025 at 12:37 PM A new study found that people with hearing loss could be at a significantly higher risk of developing dementia. (Photo by Joe Raedle/Getty Images) CINCINNATI (WKRC) - A new study found that people with hearing loss could be at a significantly...",
-      "published": "Sun, 08 Jun 2025 16:37:53 GMT"
-    },
-    {
-      "id": "681638e5b0df5c6704e5b35ae3c7b6d0",
-      "title": "10 Times AI And Robots Have Already Done Horrible Things...Including Killing People - Yahoo",
-      "source": "Yahoo",
-      "url": "https://www.yahoo.com/news/10-times-ai-robots-already-133102231.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/SdIE5Mu2Du851dCI0wTk.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/buzzfeed_articles_778/83e6144e7f2b578a5f43e7348b2f812d",
-      "summary": "\"The AI Told Him To Kill Himself And He Did\": 10 Nightmare Things AI And Robots Have Done To Humans Sun, June 8, 2025 at 1:31 PM UTC Warning: this post discusses suicide and disordered eating. 1.Let's start with an early example of AI going haywire. Back in March 2016, Microsoft introduced Tay, an AI chatbot on Twitter that was...",
+      "id": "6cc14fcc58e8843c0516218d46c059e9",
+      "title": "\"The AI Told Him To Kill Himself And He Did\": 10 Nightmare Things AI And Robots Have Done To Humans - BuzzFeed",
+      "source": "BuzzFeed",
+      "url": "https://www.buzzfeed.com/mikespohr/10-times-ai-and-robotics-have-done-horrible-things",
+      "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-06/03/18/thumb/94cHZ2ZYe.jpg?crop=3000:1568;0,0%26downsize=1250:*",
+      "summary": "In the News·Posted 17 hours ago Subscribe to BuzzFeed Daily Newsletter \"The AI Told Him To Kill Himself And He Did\": 10 Nightmare Things AI And Robots Have Done To Humans \"Your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should. \" Warning: this post discusses suicide and disordered eating. 1....",
       "published": "Sun, 08 Jun 2025 13:31:02 GMT"
     },
     {
-      "id": "015ca0bbe5376a3f692715eb4f7e5ca4",
-      "title": "My Husband and I Need Advice/Help - Daily Kos",
-      "source": "Daily Kos",
-      "url": "https://www.dailykos.com/stories/2025/6/8/2326566/-My-Husband-and-I-Need-Advice-Help",
-      "image_url": "https://cdn.prod.dailykos.com/images/1441355/story_image/Ken_dialysis_machine.jpg?1749335905",
-      "summary": "My Husband and I Need Advice/Help Community (This content is not subject to review by Daily Kos staff prior to publication. ) Sunday, June 08, 2025 at 8:08:09p GMT The hemodialysis machine my husband is attached to 4 hours a day, 3 days a week. I was an accountant in my previous life (before 6 years studying meteorology and then...",
-      "published": "Sun, 08 Jun 2025 20:08:09 GMT"
+      "id": "359f45160843436ea7686b8e180453df",
+      "title": "Grandfather, 75, Reveals the 'Tests' He Takes for Fun to Delay Signs of Dementia (Exclusive) - AOL.com",
+      "source": "AOL.com",
+      "url": "https://www.aol.com/grandfather-75-reveals-tests-takes-120000031.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/6b30l_3_9EmrBameaFzhIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_people_articles_471/105977dbdfca24992ab8502eae24b6f9",
+      "summary": "Inside the Trump administration's decision to deploy the National Guard to California The most memorable moments of the 2025 Tony Awards Girl finds a message in a bottle. Her mom can't believe what happens when they text the number At 70, Al Roker reveals his No. 1 tip for weight loss 'as you age' ABC News correspondent suspended after tweet...",
+      "published": "Sun, 08 Jun 2025 12:12:08 GMT"
     },
     {
-      "id": "705df23373a476e52046d98e9c69cac9",
-      "title": "Why prostate cancer screenings matter — what Utah men should know - KSL News",
-      "source": "KSL News",
+      "id": "fe7051ac957e789359f8a907d0adac39",
+      "title": "Why prostate cancer screenings matter — what Utah men should know - KSL.com",
+      "source": "KSL.com",
       "url": "https://www.ksl.com/article/51324925/why-prostate-cancer-screenings-matter--what-utah-men-should-know",
       "image_url": "https://img.ksl.com/slc/3088/308817/30881720.jpeg?filter=kslv2/responsive_story_lg",
       "summary": "Why prostate cancer screenings matter — what Utah men should know By Brynn Carnesecca, KSL. com | Posted - June 7, 2025 at 12:03 p. m. June 11 marks World Prostate Cancer Day. As the leading cancer type for men in Utah, awareness about the disease can make a difference for individuals and families. (Witoon, AdobeStock) Estimated read time: 3-4...",
       "published": "Sat, 07 Jun 2025 18:03:50 GMT"
+    },
+    {
+      "id": "c601ce0ddefd43f05acd6404215d92b0",
+      "title": "Socioeconomic background tied to distinct brain and behavioral patterns - PsyPost",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/socioeconomic-background-tied-to-distinct-brain-and-behavioral-patterns/",
+      "image_url": null,
+      "summary": "Verify you are human by completing the action below. www.psypost. org needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sun, 08 Jun 2025 20:12:30 GMT"
     },
     {
       "id": "0d549178e025f49ecbbb1e4dc758f072",
@@ -164,7 +164,7 @@
       "source": "San Francisco Chronicle",
       "url": "https://www.sfchronicle.com/health/aging-longevity/article/coffee-health-benefit-age-20361845.php",
       "image_url": "https://www.sfchronicle.com/img/logos/black/logo.svg",
-      "summary": "Press & Hold to confirm you are Reference ID cb73a17a-44d6-11f0-b6e6-33f19b3ec930",
+      "summary": "Press & Hold to confirm you are Reference ID 98c58ec4-44fc-11f0-b9f5-9cb3e5515b09",
       "published": "Sat, 07 Jun 2025 11:00:45 GMT"
     },
     {
@@ -173,17 +173,17 @@
       "source": "HuffPost",
       "url": "https://www.huffpost.com/entry/a-new-covid-variant-is-here-and-its-more-transmissible-here-are-the-signs-and-symptoms-goog_l_683ef478e4b02a49cce70a90",
       "image_url": "https://img.huffingtonpost.com/asset/683749671b00002400df417a.jpeg?cache=HXxosNwGB4&ops=1200_630",
-      "summary": "Want To Have Better Conversations? Try 'Trampoline Listening' 7 Relationship Habits That Secretly May Be Signs Of ADHD So, You Misgendered Someone. Here's How To Address The Mistake. Twenty Years of Fearless Reporting A New COVID Variant Is Here, And It's More Transmissible — Here Are The Signs And Symptoms A new COVID variant, known as NB. 1.8.1, has made...",
+      "summary": "Twenty Years of Fearless Reporting A New COVID Variant Is Here, And It's More Transmissible — Here Are The Signs And Symptoms A new COVID variant, known as NB. 1.8.1, has made landfall in the United States, and it's more transmissible than other variants. A new COVID variant known as NB. 1.8.1 has made landfall in the United States. The...",
       "published": "Sat, 07 Jun 2025 11:00:15 GMT"
     },
     {
-      "id": "0cf734131642924009221d608acab377",
-      "title": "Scientists investigate parasite's lifecycle to combat deadly Chagas disease - Phys.org",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2025-06-biologists-lifecycle-deadly-parasite.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 13.85.43.186 : 6b492f90-0c64-44a7-a2c0-b8c62002",
-      "published": "Sun, 08 Jun 2025 11:13:01 GMT"
+      "id": "015ca0bbe5376a3f692715eb4f7e5ca4",
+      "title": "My Husband and I Need Advice/Help - Daily Kos",
+      "source": "Daily Kos",
+      "url": "https://www.dailykos.com/stories/2025/6/8/2326566/-My-Husband-and-I-Need-Advice-Help",
+      "image_url": "https://cdn.prod.dailykos.com/images/1441355/story_image/Ken_dialysis_machine.jpg?1749335905",
+      "summary": "ACTION NEEDED: All across America, Trump and his MAGA allies are pushing hateful bills designed to roll back LGBTQ+ rights and harm LGBTQ+ communities. We need your help fighting back. Will you donate today? This Pride, there has never been a more important time to fight for equality for ALL. Our fundamental freedoms – and our very existence – are...",
+      "published": "Sun, 08 Jun 2025 20:08:09 GMT"
     }
   ]
 }
