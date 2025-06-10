@@ -1,81 +1,72 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-10 04:39:29",
-    "total_articles": 8
+    "generation_time": "2025-06-10 07:53:16",
+    "total_articles": 7
   },
   "articles": [
     {
-      "id": "2bfdb5b44d99d8b4419712b12215f7c3",
-      "title": "WWDC: Apple opens its AI to developers but keeps its broader ambitions modest - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/wwdc-apple-faces-ai-regulatory-challenges-it-woos-software-developers-2025-06-09/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 09 Jun 2025 21:55:52 GMT"
-    },
-    {
-      "id": "ec1d737b6b4800ef414e1bba4c197e82",
-      "title": "Full-screen Xbox handheld UI is coming to all Windows PCs “starting next year” - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2025/06/full-screen-xbox-handheld-ui-is-coming-to-all-windows-pcs-starting-next-year/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/win-handheld-mode-1152x648-1749480696.jpeg",
-      "summary": "Full-screen Xbox handheld UI is coming to all Windows PCs “starting next year” Microsoft has been experimenting with \"handheld mode\" for Windows 11 since 2022. The Windows Handheld Mode proof-of-concept presentation dates back to late 2022. Credit: Microsoft/Twitter user _h0x0d_ One weakness of Valve's Steam Deck gaming handheld and SteamOS is that, by default, they will only run Windows games...",
-      "published": "Mon, 09 Jun 2025 15:20:12 GMT"
-    },
-    {
-      "id": "b62367dd9ae80a43c2dfd9cc6416f22b",
-      "title": "Apple’s big updates for Intel-based Macs will end with Tahoe - The Verge",
-      "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6MVhmM21SV0R6NS1rQkVHSzdxUW4ySFRFTW84R2JZR3dHUzZHYU5WMUszM2dZVjYyYUJFOEdBdzBlNk9ldFJzTXYzN2wwaDd5Q0ZkWXJOUTZWbTRtNlRmME9fZkg5VjQ0ZE5hdUhpQm4yZTFyYmtV?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 09 Jun 2025 22:13:33 GMT"
-    },
-    {
-      "id": "c86f2b72cb017cb3f3d41300666fc39a",
-      "title": "iPadOS 26 makes Apple's tablets more like Macs - Engadget",
+      "id": "8e3508058183292f42c549746018b07a",
+      "title": "WWDC 2025 live: Updates from Apple's keynote including new iOS, iPadOS, Apple Intelligence and more - Engadget",
       "source": "Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWZ2MktJQmtHYTU5MGhuSkdlSndRUlZNRFRQenUxRkp5d28wWVdhaDlRdFEwS1V5OWZBTFI2cWVVMFBuOTg0SzZWYjNzV254SDhWcHg5TFRXejRnbHZTbzZKQWljUHdlSHFXbkl6U1JNRTlqWGdMb1BmR0taZ2NsUThJckxoT21zLVR1cHFUME9ORGdvRUtJRU00cWdzX3h5TFE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 09 Jun 2025 19:26:30 GMT"
+      "url": "https://www.engadget.com/big-tech/wwdc-2025-live-updates-from-apples-keynote-including-new-ios-ipados-apple-intelligence-and-more-141640595.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/NNNC9D3dL.1n9UP5eIfk4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/5dd767e0-4555-11f0-beeb-6f836186cb82",
+      "summary": "WWDC 2025: Everything Apple announced Prime Day 2025: What you need to know How to buy the Nintendo Switch 2 WWDC 2025 live: Updates from Apple's keynote including new iOS, iPadOS, Apple Intelligence and more We're on the ground at Apple Park and bringing you the latest news as it breaks. Updated Tue, Jun 10, 2025, 1:33 AM EDT It's...",
+      "published": "Tue, 10 Jun 2025 05:33:00 GMT"
+    },
+    {
+      "id": "bbaba30c4858fc56b8d2b8c1c4c17831",
+      "title": "Apple details the end of Intel Mac support and a phaseout for Rosetta 2 - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2025/06/apple-details-the-end-of-intel-mac-support-and-a-phaseout-for-rosetta-2/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/macos-finder-faces-sequoia-1152x648.jpg",
+      "summary": "Apple details the end of Intel Mac support and a phaseout for Rosetta 2 Rosetta app translation features for Intel apps won't stay around indefinitely. The support list for macOS Tahoe still includes Intel Macs, but it's been whittled down to just four models, all released in 2019 or 2020. We speculated that this meant that the end was near...",
+      "published": "Mon, 09 Jun 2025 22:37:17 GMT"
+    },
+    {
+      "id": "955e55245238f4413b42eafbb649be03",
+      "title": "PSA: iPadOS 26 removes Split View and Slide Over multitasking features - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2025/06/09/psa-ipados-26-removes-split-view-and-slide-over-multitasking-features/",
+      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/wwdc-2025-14.16.58.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "PSA: iPadOS 26 removes Split View and Slide Over multitasking features iPadOS 26 introduces major new windowing features designed to upgrade the iPad’s multitasking experience. But with those new features, two longstanding multitasking features have been removed: Split View and Slide Over are no longer supported in iPadOS 26. Split View and Slide Over are gone, but Stage Manager lives...",
+      "published": "Mon, 09 Jun 2025 21:04:00 GMT"
     },
     {
       "id": "0c275d0d47222b0e155f1efbceaa3e34",
       "title": "Apple unveils watchOS 26 with new design, wrist-flick gesture, and AI Workout Buddy feature - TechCrunch",
       "source": "TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQam0xaHNiRzZUWGxtMjFmOHU5UTZOaG45c3d1V3JQWF85RFpyX25KRk54aUtZZVljUnNCWUtUQTVvSXhFbUV6UWpHOG03Y1BmaFhrNUVlWVZTVVl3d0RJVGsxeEFzTm5WYi0xb2F2Ymx2cmxXb29zLWt6Zkh1VXZVWGhuOVNyV0ItUzc0UEMtQ2JkZE1Vck9sc0VCdGt4OHFOTFhpTlBXeHVRTDJOa2N2VDlpbmpZN0s2M3hERmZFLVFndw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://techcrunch.com/2025/06/09/apple-unveils-watchos-26-with-new-design-wrist-flick-gesture-and-ai-workout-buddy-feature/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-at-1.43.12PM-1.png?resize=1200,641",
+      "summary": "Apple unveils watchOS 26 with new design, wrist-flick gesture, and AI Workout Buddy feature At Apple’s Worldwide Developers Conference (WWDC 25) on Monday, the tech giant unveiled watchOS 26, the upcoming software overhaul for the Apple Watch. watchOS 26 will launch with a redesigned interface based on Apple’s new Liquid Glass operating system, a wrist-flick gesture, a new Apple Intelligence-powered...",
       "published": "Mon, 09 Jun 2025 18:01:43 GMT"
     },
     {
-      "id": "e74190f3e4b5783c97ae39ba0ab8b44f",
-      "title": "All the New AirPods Features Coming in iOS 26 - MacRumors",
+      "id": "9e7a3091dc30bb99d058c16963cabc32",
+      "title": "WWDC 2025: Apple Says Personalized Siri Features Are Still Not Ready - MacRumors",
       "source": "MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MQ1FLT0dwU1BOS3ZVeTZPcXl0bkRYWENPQTVISFZLU0ZIb0xyUmh3WHFiZDViVUlTQ184eVk4ZTFWQmRnNkw1RjFTbXBOQVhhcTk0cVMtaGpiVmhXOE9pTnZmMWJXX052N2ZRbWtB?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 09 Jun 2025 20:30:09 GMT"
+      "url": "https://www.macrumors.com/2025/06/09/personalized-siri-still-not-ready/",
+      "image_url": "https://images.macrumors.com/t/O2PQxJzVD0_2JrNy6sds2OIjixE=/1600x/article-new/2025/03/iOS-18-Siri-Personal-Context.jpg",
+      "summary": "iPhone 16eWWDC 2025iOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad minimacOS 26 TahoeApple Watch 10iPhone 18CarPlayApple Pay WWDC 2025: Apple Says Personalized Siri Features Are Still...",
+      "published": "Mon, 09 Jun 2025 17:17:00 GMT"
     },
     {
-      "id": "9435a7bbc3e0a0a766995a070ee71d60",
-      "title": "Apple stock dropped as WWDC got going. Here's why. - Business Insider",
-      "source": "Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa0tTekxmczhmekxPUml6Q1pQZlA4aDFfLVRVOHJyR1JqelkxWXFERjA2eG4wRHRNckYyZW9OZGcwY0VLd3RzY3l5WTJIZ2cydzQtNnVnOUNZU3pQREZKdW5Uc1dwRmtONWRnQzhUZVJLSWhJbzBKcHE1WTljZlJ4TmhPMUlUUUo2ejdhS0RjcWtxMTZQcXFjRQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 09 Jun 2025 18:51:00 GMT"
+      "id": "90940328c5df73f79d3efade8efc1d23",
+      "title": "The Xbox Handheld Is Launching at the Worst Possible Moment - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/the-xbox-handheld-is-launching-at-the-worst-possible-moment-2000613111",
+      "image_url": "https://gizmodo.com/app/uploads/2025/06/Xbox-Ally-ROG-Handheld-HEro-1200x675.jpg",
+      "summary": "The Xbox Handheld Is Launching at the Worst Possible Moment The ROG Xbox Ally is stuck between a rock and a hard place: the Switch 2 and Steam Deck. Published June 9, 2025 | Comments (50) | Who has two thumbs and wants to reestablish Windows as the main way to play games on handhelds? It’s Microsoft, which finally revealed...",
+      "published": "Mon, 09 Jun 2025 14:48:57 GMT"
     },
     {
-      "id": "a92167037036444d993cb8f4299c9066",
-      "title": "Apple tvOS 26 adds AirPlay speaker support, karaoke mode, and better user profiles - The Verge",
-      "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CYUZmX1Q1VUZqVjNobTRMaVhQOWhTY1d1MFR2MmxmcFdTWEdaOGtOdHg2dUtSeWE1UlNfb0t0NjNBYXl4NWk1dUtiWWdJdndLd190V0xsaWZsa290Z3FYczJrcmRjNzlJNW9VaG9Udy00aThTdVE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 09 Jun 2025 17:14:23 GMT"
+      "id": "28f3df5c7725af7e22607abb36a0b2d4",
+      "title": "Round Up: The Reviews Are In For The Nintendo Switch 2 - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2025/06/round-up-the-reviews-are-in-for-the-nintendo-switch-2",
+      "image_url": "https://images.nintendolife.com/d90314046bd7d/large.jpg",
+      "summary": "Nintendo Switch 2 News Reviews Features Games Guides Videos Forums Better eShop Round UpNintendo Switch 2Hardware Round Up: The Reviews Are In For The Nintendo Switch 2 Here's what the critics think so far Image: Zion Grassl / Nintendo Life It's almost been a week since the arrival of the Switch 2. Now that more outlets have spent some time...",
+      "published": "Tue, 10 Jun 2025 01:55:00 GMT"
     }
   ]
 }
