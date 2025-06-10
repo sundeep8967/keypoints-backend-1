@@ -1,27 +1,18 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-10 07:53:16",
-    "total_articles": 7
+    "generation_time": "2025-06-10 13:49:14",
+    "total_articles": 15
   },
   "articles": [
     {
-      "id": "8e3508058183292f42c549746018b07a",
-      "title": "WWDC 2025 live: Updates from Apple's keynote including new iOS, iPadOS, Apple Intelligence and more - Engadget",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/big-tech/wwdc-2025-live-updates-from-apples-keynote-including-new-ios-ipados-apple-intelligence-and-more-141640595.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/NNNC9D3dL.1n9UP5eIfk4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/5dd767e0-4555-11f0-beeb-6f836186cb82",
-      "summary": "WWDC 2025: Everything Apple announced Prime Day 2025: What you need to know How to buy the Nintendo Switch 2 WWDC 2025 live: Updates from Apple's keynote including new iOS, iPadOS, Apple Intelligence and more We're on the ground at Apple Park and bringing you the latest news as it breaks. Updated Tue, Jun 10, 2025, 1:33 AM EDT It's...",
-      "published": "Tue, 10 Jun 2025 05:33:00 GMT"
-    },
-    {
-      "id": "bbaba30c4858fc56b8d2b8c1c4c17831",
-      "title": "Apple details the end of Intel Mac support and a phaseout for Rosetta 2 - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2025/06/apple-details-the-end-of-intel-mac-support-and-a-phaseout-for-rosetta-2/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/macos-finder-faces-sequoia-1152x648.jpg",
-      "summary": "Apple details the end of Intel Mac support and a phaseout for Rosetta 2 Rosetta app translation features for Intel apps won't stay around indefinitely. The support list for macOS Tahoe still includes Intel Macs, but it's been whittled down to just four models, all released in 2019 or 2020. We speculated that this meant that the end was near...",
-      "published": "Mon, 09 Jun 2025 22:37:17 GMT"
+      "id": "3a74180d3fd9e89ff66345967195eb1f",
+      "title": "WWDC 2025: Everything that Apple ‘Sherlocked’ this time - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/06/10/wwdc-2025-everything-that-apple-sherlocked-this-time/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2218742646.jpg?resize=1200,800",
+      "summary": "WWDC 2025: Everything that Apple ‘Sherlocked’ this time Apple announced a slew of major design and feature updates for all its operating systems at WWDC 2025, and just like every year, the company has again built in some features that were previously available through third-party apps. In the Apple world, this is called “Sherlocking. ” In the late ’90s, Apple...",
+      "published": "Tue, 10 Jun 2025 10:58:23 GMT"
     },
     {
       "id": "955e55245238f4413b42eafbb649be03",
@@ -33,40 +24,121 @@
       "published": "Mon, 09 Jun 2025 21:04:00 GMT"
     },
     {
-      "id": "0c275d0d47222b0e155f1efbceaa3e34",
-      "title": "Apple unveils watchOS 26 with new design, wrist-flick gesture, and AI Workout Buddy feature - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/06/09/apple-unveils-watchos-26-with-new-design-wrist-flick-gesture-and-ai-workout-buddy-feature/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-at-1.43.12PM-1.png?resize=1200,641",
-      "summary": "Apple unveils watchOS 26 with new design, wrist-flick gesture, and AI Workout Buddy feature At Apple’s Worldwide Developers Conference (WWDC 25) on Monday, the tech giant unveiled watchOS 26, the upcoming software overhaul for the Apple Watch. watchOS 26 will launch with a redesigned interface based on Apple’s new Liquid Glass operating system, a wrist-flick gesture, a new Apple Intelligence-powered...",
-      "published": "Mon, 09 Jun 2025 18:01:43 GMT"
+      "id": "bbaba30c4858fc56b8d2b8c1c4c17831",
+      "title": "Apple details the end of Intel Mac support and a phaseout for Rosetta 2 - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2025/06/apple-details-the-end-of-intel-mac-support-and-a-phaseout-for-rosetta-2/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/macos-finder-faces-sequoia-1152x648.jpg",
+      "summary": "Apple details the end of Intel Mac support and a phaseout for Rosetta 2 Rosetta app translation features for Intel apps won't stay around indefinitely. The support list for macOS Tahoe still includes Intel Macs, but it has been whittled down to just four models, all released in 2019 or 2020. We speculated that this meant that the end was...",
+      "published": "Mon, 09 Jun 2025 22:37:17 GMT"
     },
     {
-      "id": "9e7a3091dc30bb99d058c16963cabc32",
-      "title": "WWDC 2025: Apple Says Personalized Siri Features Are Still Not Ready - MacRumors",
+      "id": "7289df84cc5788f322d6c632b98ae337",
+      "title": "iOS 26’s new ‘adaptive power’ mode dials back performance to save battery - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/683797/ios-26s-new-adaptive-power-mode-dials-back-performance-to-save-battery",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/adaptive-power.jpg?quality=90&strip=all&crop=0%2C23.391962375903%2C100%2C53.239186654513&w=1200",
+      "summary": "iOS 26’s new ‘adaptive power’ mode dials back performance to save batteryThe setting will lower screen brightness and slow down some activities. The “Adaptive Power” option will exist alongside “Low Power Mode. ” Screenshot: Jay Peters / The Verge Emma Roth is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she...",
+      "published": "Mon, 09 Jun 2025 21:30:43 GMT"
+    },
+    {
+      "id": "f758d77849185df4a2695f88638a9636",
+      "title": "Thin, Light and Built to Last: The New Era of the Galaxy Z Series - Samsung Newsroom",
+      "source": "Samsung Newsroom",
+      "url": "https://news.samsung.com/us/thin-light-built-to-last-new-era-of-samsung-galaxy-z-series/",
+      "image_url": "https://img.us.news.samsung.com/us/wp-content/uploads/2025/06/09171449/001_Thin_Light_and_Built_to_Last_The_New_Era_of_the_Galaxy_Z_Series%E2%80%8B_Thumbnail.jpg",
+      "summary": "Thin, Light and Built to Last: The New Era of the Galaxy Z Series While people have long valued smartphones for their power, convenience and usability, they’ve also expected a mobile device that blends versatility with portability. At Samsung Electronics, our drive to deliver the ultimate mobile experience has always been guided by the needs of our users. This unwavering...",
+      "published": "Mon, 09 Jun 2025 23:05:02 GMT"
+    },
+    {
+      "id": "5f103b8ccdda165bc1ec27fe02ad917b",
+      "title": "Apple Unveils AI-Powered 'Workout Buddy' for Apple Watch at WWDC - MacRumors",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2025/06/09/personalized-siri-still-not-ready/",
-      "image_url": "https://images.macrumors.com/t/O2PQxJzVD0_2JrNy6sds2OIjixE=/1600x/article-new/2025/03/iOS-18-Siri-Personal-Context.jpg",
-      "summary": "iPhone 16eWWDC 2025iOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad minimacOS 26 TahoeApple Watch 10iPhone 18CarPlayApple Pay WWDC 2025: Apple Says Personalized Siri Features Are Still...",
-      "published": "Mon, 09 Jun 2025 17:17:00 GMT"
+      "url": "https://www.macrumors.com/2025/06/09/ai-powered-workout-buddy-coming-to-apple-watch/",
+      "image_url": "https://images.macrumors.com/t/9BnVCs-I9d4i7KXHtVjrhZzF0VY=/1600x/article-new/2025/06/f-caf6121f772e58909692fe5dd6e5ef91b9a5768a.jpg",
+      "summary": "iPhone 16eWWDC 2025iOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad minimacOS 26 TahoeApple Watch 10iPhone 18CarPlayApple Pay Apple Unveils AI-Powered 'Workout Buddy' for Apple Watch at...",
+      "published": "Mon, 09 Jun 2025 17:45:00 GMT"
     },
     {
-      "id": "90940328c5df73f79d3efade8efc1d23",
-      "title": "The Xbox Handheld Is Launching at the Worst Possible Moment - Gizmodo",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/the-xbox-handheld-is-launching-at-the-worst-possible-moment-2000613111",
-      "image_url": "https://gizmodo.com/app/uploads/2025/06/Xbox-Ally-ROG-Handheld-HEro-1200x675.jpg",
-      "summary": "The Xbox Handheld Is Launching at the Worst Possible Moment The ROG Xbox Ally is stuck between a rock and a hard place: the Switch 2 and Steam Deck. Published June 9, 2025 | Comments (50) | Who has two thumbs and wants to reestablish Windows as the main way to play games on handhelds? It’s Microsoft, which finally revealed...",
-      "published": "Mon, 09 Jun 2025 14:48:57 GMT"
+      "id": "d3ba63b29c4fe2d5fbdee745a6cf0ab1",
+      "title": "Google confirms Android 16 stable release lands today - Android Police",
+      "source": "Android Police",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1dlS0pPYk0tQnNWSXZDOHB4ZHlBOVhYcG1ScUxpNU5qRUFscHBWSzdQcEtLcm5ERUpxYUoySWhoancybF9tbng1MmpGcVMtZ28wVGppTVV2bmI0WnZXcWVaQjlxWU9PdDFreWVmYWQxeEs4Qm9zVFg0d0V2MEx6WTY5alFRMUxrUGFXVQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 10 Jun 2025 04:37:00 GMT"
     },
     {
-      "id": "28f3df5c7725af7e22607abb36a0b2d4",
-      "title": "Round Up: The Reviews Are In For The Nintendo Switch 2 - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2025/06/round-up-the-reviews-are-in-for-the-nintendo-switch-2",
-      "image_url": "https://images.nintendolife.com/d90314046bd7d/large.jpg",
-      "summary": "Nintendo Switch 2 News Reviews Features Games Guides Videos Forums Better eShop Round UpNintendo Switch 2Hardware Round Up: The Reviews Are In For The Nintendo Switch 2 Here's what the critics think so far Image: Zion Grassl / Nintendo Life It's almost been a week since the arrival of the Switch 2. Now that more outlets have spent some time...",
-      "published": "Tue, 10 Jun 2025 01:55:00 GMT"
+      "id": "602b9ca8851f96754ff9f2011f818a84",
+      "title": "CarPlay in iOS 26: Liquid Glass, app widgets, refreshed apps - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORG5hV2xSYVVjb0NpWDVuR0s5bHQ2V280S3JVaUZjVXlSRnMxVlo5V3M2MVBhTG5TODFESkxSRW1SbTNoOGhNQTdVeFB1RURUbXNsSDJIbi0ySzZrQWhCMFFzN1pHTTgzYzc4VFB3V3ZrQ01xRmlUcVNnakN1bXgwMzNqemtYR29Ma1FiOVVWaUk0aDA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 10 Jun 2025 03:50:00 GMT"
+    },
+    {
+      "id": "3f41dba4b199df0f2565ef461e88f5d7",
+      "title": "Nothing Phone (3) surfaces in leaked render with no visible lights and three cameras - 9to5Google",
+      "source": "9to5Google",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RUmk5ZFJ5WG1rXzR6UGlNY196dmdvdnZLOXlNZVBUaG9STXlYNDhxd3hMeG85R1dHUFVGejNzVFhDbHktRlRlOVNvcHZaUVBHSC1kZzVqcjRDMjRmRnY3MU01NWhUaWFrRXl0aTRsU3pWNDZrSnZCX0VR?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 10 Jun 2025 07:50:00 GMT"
+    },
+    {
+      "id": "d447f17cd04b69c40924c7adfcc119a0",
+      "title": "News Sites Are Getting Crushed by Google’s New AI Tools - WSJ",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SSkRuZTN4VnZxdG4zVXdfMnItU2RGLU0yMzQ0cTAyV2psTUNpZkpOakRDeTFoeWNuQUw5ZGVqeVpLUFVQU09jNmUxVXFGaGRoOU1JdmkzM25tUDYzNW5fU1RBQllJWGlpbWJSLUNSSQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 10 Jun 2025 01:30:53 GMT"
+    },
+    {
+      "id": "0051fbf60eaf0179a0d6978cd59c72d7",
+      "title": "AI-Focused Apple Music Reboot Said to Be in the Works - MacRumors",
+      "source": "MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vdmVVRzFVa0VJM1djRDZyT2pzNUE0SGxFcW1kVVpSLWVaQmg2bXhNNG5QY0pWRUhUYkNzdUtjVW9xTDZfeEtoWDBSN01meW9YamxuakpHa1otOWdZU2JVT3pLMXp4R3IzMjkzdlIySzRxX2k2SG9YVkFR?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 09 Jun 2025 11:00:11 GMT"
+    },
+    {
+      "id": "c4d6070246fa11f92a2b2ef36daf5672",
+      "title": "Switch 2 Review – A Safe But Effective Bet - Game Informer",
+      "source": "Game Informer",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRC1Za0sxazZhT0hYY1ZEazkxcnJ3MEt4LVVQSjZNckhhNW0xLUk3VHFKaEJ0b3I4NmNmMXFGYnJCSDhVc1hqMzZSdUhZMVdVemltQ3RTNUp3Q0k2MUtpRFUwbmNGaU51MFVWck9wMm9pcHQwbVRnZk9HYUYzSmM1RGFHRFVvXzJHZVNBVnp3?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 09 Jun 2025 23:35:00 GMT"
+    },
+    {
+      "id": "d3ef0b699ab14282a616ceb546e31b16",
+      "title": "Liquid Glass tvOS redesign is restricted to second-generation Apple TV 4K and later - AppleInsider",
+      "source": "AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUWRzSTRNMWIxNk0wNDNIcmlIUmhHWjB2YlVqVzVSSkp4bF93eWJlTUs3MEU1Z1V6bFZOQUJjb3daNmo5N0FuSlMza2tfbm9FN1ZVNXF0WUlENHlHdFVhbGJuYm1SNFhqVGREQnlrY0luV2tBdjh4Y1dqQ2xxaElDaHpEQjRISER3YkQ5YTBicHhuLTNwWHI5NEZ1N2VRVFFrVGprMHNoTjVQNUIxZ25QWjIxTktjT3drSTdIcUZVV1NpWXJP0gHLAUFVX3lxTE5kOWNOaTZ6eXUzVTh5bnFvQlYxdEFjZFJidDhPSFRxTmMzV2RYSFV0WFBFWGM0Z1hta0FReF8zQVJ0ZVhjdzA4dmdGNXhKZ2xud3lKSjE1amFoaTJBSW9oSEZpR2FZOTROVWFJc19aQVNUSGlvRHBpcW5iMGxxUFpnTDZaRmhHRWc4VXhXVjNmNktHaEJpTld6UWFMbGJrX1VCRDRYdlh5WWxmUlNQM0ZBZDdUQWYyLTZ4d1lJMkFRUE5iTmRxT3dUWXgw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 09 Jun 2025 19:56:37 GMT"
+    },
+    {
+      "id": "790aed7a579d42ec43d0cf16e380d88b",
+      "title": "A Researcher Figured Out How to Reveal Any Phone Number Linked to a Google Account - WIRED",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/a-researcher-figured-out-how-to-reveal-any-phone-number-linked-to-a-google-account/",
+      "image_url": "https://media.wired.com/photos/6843422a546bf069da32682b/191:100/w_1280,c_limit/security-google-account-phone-number.jpg",
+      "summary": "WIRED uses first- and third-party technologies that provide information about your interactions with this site to others. See our Privacy Policy for more information. A Researcher Figured Out How to Reveal Any Phone Number Linked to a Google Account Phone numbers are a goldmine for SIM swappers. A researcher found how to get this precious piece of information through a...",
+      "published": "Mon, 09 Jun 2025 14:00:00 GMT"
+    },
+    {
+      "id": "995d8b9e21d5a1192c3ec54eb0e2c7ec",
+      "title": "Apple brings Apple Intelligence to the iPhone screen at WWDC 2025 - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/06/09/apple-brings-apple-intelligence-to-the-iphone-screen-at-wwdc-2025/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/apple-visual-intelligence-wwdc-2025.png?resize=1200,572",
+      "summary": "Apple brings Apple Intelligence to the iPhone screen at WWDC 2025 Apple revealed at its WWDC 2025 event that it’s bringing Visual Intelligence, its AI-powered image analysis tech, to the iPhone screen in iOS 26. Visual Intelligence will now make it easier and faster to do more with the content on your iPhone, Apple says, and it works automatically with...",
+      "published": "Mon, 09 Jun 2025 17:50:56 GMT"
     }
   ]
 }

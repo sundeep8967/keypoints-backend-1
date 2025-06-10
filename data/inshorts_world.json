@@ -1,72 +1,90 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-10 07:58:25",
+    "generation_time": "2025-06-10 13:55:10",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "3c53d44d6b0b4af60ea06ace5a609f29",
-      "title": "Israel Plans to Deport Gaza Aid Boat Passengers, Including Greta Thunberg - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/10/world/middleeast/israel-greta-thunberg-deport-gaza-flotilla.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Tue, 10 Jun 2025 05:41:20 GMT"
-    },
-    {
-      "id": "80d8175087fd4d5c4e59a470a5938698",
-      "title": "Russia's latest drone strikes hit Kyiv, maternity ward in Odesa, Ukraine says - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/russias-latest-drone-strikes-hit-kyiv-maternity-ward-odesa-ukraine-says-2025-06-10/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Tue, 10 Jun 2025 05:54:00 GMT"
-    },
-    {
-      "id": "ce6bc1d58ae2eb94f740e42961d95b99",
-      "title": "Airports face little disruption as Trump’s new travel ban takes effect - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/immigration/2025/06/09/trump-travel-ban-takes-effect-countries/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JLKTFJYCHTVJK6AEH2HOWKDYMY_size-normalized.jpg&w=1440",
-      "summary": "Airports face little disruption as Trump’s new travel ban takes effect A few scattered protests greeted the first day of the Trump administration’s restrictions on travelers from 19 countries. Demonstrators gather to protest a sweeping new travel ban announced last week by President Donald Trump, outside the Tom Bradley International Terminal at Los Angeles International Airport on Monday. (Patrick T.",
-      "published": "Tue, 10 Jun 2025 03:21:19 GMT"
-    },
-    {
-      "id": "cf6779a8f5e82d197dea4c65565efc6d",
-      "title": "Low turnout scuttles Italy referendum on citizenship - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/09/g-s1-71526/italy-referendum-citizenship-meloni",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6236x3508+0+509/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2F13%2Fef4ca9ff472cacc91a346a880717%2Fgettyimages-2218078085.jpg",
-      "summary": "Low turnout scuttles Italy referendum on citizenship A woman walks past campaign posters ahead of the referendum in Rome on June 5. FILIPPO MONTEFORTE/AFP via Getty Images ROME — An Italian referendum on granting faster citizenship to certain immigrants and seeking to strengthen labor rights failed because of low turnout, after Italian Prime Minister Giorgia Meloni and leading right-wing political...",
-      "published": "Mon, 09 Jun 2025 17:51:54 GMT"
-    },
-    {
-      "id": "d30f4b95410d3f23b616433b054ee9be",
-      "title": "Russia and Ukraine hold 1st stage of prison swap following peace talks - ABC News",
-      "source": "ABC News",
-      "url": "https://abcnews.go.com/International/polish-allied-planes-briefly-scramble-amid-russian-targeting/story?id=122644087",
-      "image_url": "https://i.abcnewsfe.com/a/a1528529-6099-460b-ab4b-0af1b02f4ef3/ukraine-prisoner-mo_1749502663382_hpMain_16x9.jpg?w=1600",
-      "summary": "Russia and Ukraine hold 1st stage of prison swap following peace talks \"More stages will follow,\" Ukrainian President Volodymyr Zelenskyy said. Russia launches nearly 500 strikes across UkraineA record number of drone and missile strikes were launched across Ukraine by Russia. Ukraine says the large majority of the strikes were shot down or intercepted. LONDON -- Russia and Ukraine held...",
-      "published": "Mon, 09 Jun 2025 15:39:34 GMT"
-    },
-    {
-      "id": "e1cc2e8c0188a00a7dfca3d25ab6abf3",
-      "title": "Teachers can use AI to save time on marking, new guidance says - BBC",
+      "id": "5df8a6608b3119edf1b2ae3646a076f6",
+      "title": "Ten dead in Austria school shooting, police say - BBC",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c1kvyj7dkp0o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/544c/live/391c8370-44fd-11f0-b01b-03d6e6af3a02.jpg",
-      "summary": "Teachers can use AI to save time on marking, new guidance says Education correspondent•@hazelshearing The government says AI should only be used for \"low-stakes\" marking Teachers in England can use artificial intelligence (AI) to speed up marking and write letters home to parents, new government guidance says. Training materials being distributed to schools, first seen exclusively by the BBC, say...",
-      "published": "Tue, 10 Jun 2025 00:51:53 GMT"
+      "url": "https://www.bbc.com/news/articles/ced27g4e6xwo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4e24/live/568ac280-45ef-11f0-b439-cf6fd1574621.jpg",
+      "summary": "Ten dead in Austria school shooting Ambulances and paramedics outside the school where the shooting took place Ten people have been killed in a school shooting in the Austrian city of Graz, police have said. The incident took place at Dreierschützengasse secondary school in the north-west of the city. Police said the gunman was among the dead and Austria's APA...",
+      "published": "Tue, 10 Jun 2025 11:48:40 GMT"
     },
     {
-      "id": "9612524b52b31b6478be482be8545d2a",
-      "title": "GHF says aid site closed due to crowd ‘chaos,’ as Hamas authorities claim 6 killed - The Times of Israel",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/ghf-says-aid-site-closed-due-to-crowd-chaos-as-hamas-authorities-claim-6-killed/",
-      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/AFP__20250609__49MX8CW__v1__HighRes__PalestinianIsraelConflict-e1749475209803.jpg",
-      "summary": "GHF says aid site closed due to crowd ‘chaos,’ as Hamas authorities claim 6 killed Witnesses accuse Israel-backed Abu Shabab militia of firing into crowd at Tel Sultan aid facility; IDF says troops destroyed mile-long tunnel in recent operations Palestinians carry humanitarian aid back from a distribution point at the Bureij refugee camp in the central Gaza Strip, early on...",
-      "published": "Mon, 09 Jun 2025 14:13:00 GMT"
+      "id": "157ab6d306322491818e6b7c9bea3223",
+      "title": "Greta Thunberg departs Israel on flight to Paris after detention aboard aid ship - CNN",
+      "source": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDRSaG5Ob000WlM5MmRxRjgwVk16M1dqOFQwLS1QWFl0QUwyNEpZMXd3ZGpVX1M3aEdEank5REZYMHUweTFMQkctRUFQbVJsZk9rUVNSNXJzZEpYUDd4dElYeGtDZ0JHanIwekpqWUR3U3BKOGRtVV9KYVBXUmdRVl9vT1plQWFRemNGeHZqel9SNUlXVG9QWNIBngFBVV95cUxPbkxFZTRxQ1AxYVBjN20xNWl5Y0IySUhFdXZTeFJqUFJaTVdhYUVqTTJIb1ZhejM4OENqdkhmMEVWZHFLLWhSaUNtSVJ2bnRWY3V0a2RCbG1Wek5IU0k3YVNFZVNpV0R4dVNKQ3ZKY2lCTFVsVFdaNmt1UUp2RkpnNDBlcFNOeUdtUm1acHBEdnVfZWtBMk1pQUM1cEcyUQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 10 Jun 2025 10:17:00 GMT"
+    },
+    {
+      "id": "ed706f3dc639ef6297ced1c7d9ee55ab",
+      "title": "Zelenskyy demands 'action from America' after latest Russian drone, missile attack - ABC News",
+      "source": "ABC News",
+      "url": "https://abcnews.go.com/International/kyiv-rocked-relentless-drone-missile-barrage/story?id=122676000",
+      "image_url": "https://i.abcnewsfe.com/a/571a672a-cd42-4250-b286-54fed79298e5/Kyiv-fire-DB-250610_1749539649699_hpMain_16x9.jpg?w=1600",
+      "summary": "Zelenskyy demands 'action from America' after latest Russian drone, missile attack Kyiv and Odesa were among the cities hit during the latest barrage. ByJason Volack and David Brennan ‘We don't really know if they will stop this war’: ZelenskyyABC News’ Martha Raddatz interviews Ukrainian President Volodymyr Zelenskyy on “This Week. ” At least two people were killed in the Ukrainian...",
+      "published": "Tue, 10 Jun 2025 07:18:45 GMT"
+    },
+    {
+      "id": "191f76538b0541e72d9f917e3268ed53",
+      "title": "Meloni’s coalition taunts left from the beach as low voter turnout scuppers referendum - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/giorgia-meloni-italy-coalition-citizenship-referendum-immigration/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/09/13083167-scaled.jpg",
+      "summary": "Meloni’s coalition taunts left from the beach as low voter turnout scuppers referendum",
+      "published": "Mon, 09 Jun 2025 22:08:00 GMT"
+    },
+    {
+      "id": "35e28f7ebd95edee10bbf0ce4e310e4a",
+      "title": "Group Accuses Hamas of Threatening Aid Workers in Gaza - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/09/world/middleeast/chaos-gaza-aid.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Tue, 10 Jun 2025 01:35:02 GMT"
+    },
+    {
+      "id": "0207b9e591a85a77b0d71063871bff41",
+      "title": "Live Updates: Hegseth to be grilled on Capitol Hill; Trump heading to Fort Bragg - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/06/10/trump-presidency-news/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NET7KEVSKUIHCLPRJPW3UBNYQQ.JPG&w=1440",
+      "summary": "Hegseth to be grilled on Capitol Hill; Trump heading to Fort Bragg Defense Secretary Pete Hegseth appears alongside President Donald Trump in the Oval Office of the White House on March 21. (Demetrius Freeman/The Washington Post) Defense Secretary Pete Hegseth will face a barrage of questions Tuesday as he appears on Capitol Hill for his first public testimony since his...",
+      "published": "Tue, 10 Jun 2025 12:18:38 GMT"
+    },
+    {
+      "id": "03125356789995b28def7112aba74eeb",
+      "title": "Israeli navy attacks rebel-held Yemeni port city of Hodeida, a first in the conflict - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/mideast-wars-yemen-israel-hodeida-attack-7857d9fc0e5293cf6f2573493281bdf7",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Tue, 10 Jun 2025 10:54:00 GMT"
+    },
+    {
+      "id": "647ee99c1f09cb13606b92b83a12273c",
+      "title": "Japan sights two Chinese aircraft carriers in Pacific for first time - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/two-chinese-aircraft-carriers-seen-pacific-first-time-japan-says-2025-06-10/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Tue, 10 Jun 2025 10:20:15 GMT"
+    },
+    {
+      "id": "a6a9cb98e04673a60d33ee8dd2c99bfb",
+      "title": "As Trump’s new travel ban begins, some visitors report extra scrutiny at U.S. airports - PBS",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/politics/as-trumps-new-travel-ban-begins-some-visitors-report-extra-scrutiny-at-u-s-airports",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/2025-06-09T043130Z_956212152_RC2QYEA2AFIN_RTRMADP_3_USA-TRAVEL-1024x683.jpg",
+      "summary": "Urge Congress: Protect PBS Funding Your favorite shows at PBS are in danger of going away. The federal funding that supports local stations and public media is under threat. By — Gisela Salomon, Associated Press As Trump’s new travel ban begins, some visitors report extra scrutiny at U. S. airports Politics Jun 9, 2025 4:45 PM EDT MIAMI (AP) —...",
+      "published": "Mon, 09 Jun 2025 20:45:45 GMT"
     },
     {
       "id": "21d5620234c3045bfd5faf58fd5269e3",
@@ -76,6 +94,15 @@
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f242/live/dc294e90-4520-11f0-835b-310c7b938e84.jpg",
       "summary": "Labour hope to put winter fuel misstep behind them Political editor•@ChrisMasonBBC The final act in this slow motion U-turn has played out. The arc of this row runs to almost a year. It was late July last year when I was among a bunch of reporters called into the Treasury to question the then new chancellor about her out-of-the-blue policy...",
       "published": "Mon, 09 Jun 2025 21:40:29 GMT"
+    },
+    {
+      "id": "9411706b03909df66fbee0111d774849",
+      "title": "Hurricane Barbara Strengthens Near Mexico - Newser",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/369985/hurricane-barbara-strengthens-near-mexico.html",
+      "image_url": "https://img1-azrcdn.newser.com/image/1615400-12-20250609173517.jpeg",
+      "summary": "Hurricane Barbara Strengthens Near Mexico It's the first hurricane of the 2025 eastern Pacific Season By Newser Editors and Wire Services In this satellite image released by NOAA, Tropical Storm Barbara forms off the southwest coast of Mexico. (NOAA via AP) Tropical Storm Barbara has strengthened into a hurricane, the first of the eastern Pacific hurricane season. The National Hurricane...",
+      "published": "Mon, 09 Jun 2025 22:05:00 GMT"
     },
     {
       "id": "ac032bce3ac3502321d4e1b777e6fd34",
@@ -96,22 +123,22 @@
       "published": "Mon, 09 Jun 2025 15:36:00 GMT"
     },
     {
-      "id": "9b7879f7a242cd61bc6949e71895031c",
-      "title": "World fertility rates in 'unprecedented decline' - UN - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clynq459wxgo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/5cce/live/93d0e910-451f-11f0-8bc0-17239219e129.jpg",
-      "summary": "World fertility rates in 'unprecedented decline', UN says Population correspondent•@stephhegarty In a survey of 14,000 people, one in five respondents said they haven't had or expect they won't have the number of children they want Namrata Nangia and her husband have been toying with the idea of having another child since their five-year-old daughter was born. But it always comes...",
-      "published": "Tue, 10 Jun 2025 04:02:41 GMT"
+      "id": "a399cedd048e0cb1ce1d99e3a40f9958",
+      "title": "Why Bamboozled Putin Is Struggling to Avenge Ukraine’s Sneak Attack - The Daily Beast",
+      "source": "The Daily Beast",
+      "url": "https://www.thedailybeast.com/why-bamboozled-vladimir-putin-is-struggling-to-avenge-ukraines-sneak-attack/",
+      "image_url": "https://www.thedailybeast.com/resizer/v2/TPG7AU4DU5AAJMNXR3WAHFBE44.jpg?smart=true&auth=d6d307d19a86a227995252d49a0292d60aafeeb1005cf816d85ab6d6fdab1952&width=1200&height=630",
+      "summary": "Why Bamboozled Putin Is Struggling to Avenge Ukraine’s Sneak Attack Spoiler alert: He doesn’t have a clue how to respond. Published Jun. 9 2025 7:18AM EDT Ever since Ukraine’s devastating drone attack on Russian strategic bombers, the Kremlin has been trying to figure out a fitting response. Ukraine initially claimed 41 Russian aircraft were hit in the sneak June 1...",
+      "published": "Mon, 09 Jun 2025 12:55:00 GMT"
     },
     {
-      "id": "9e96b2d01564495fdedf687aabcfc53f",
-      "title": "Hurricane Barbara plows forward along western coast of Mexico - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/tropical-storm-barbara-cosme-mexico-hurricane-c4085e6d803dfe273f874bc2c16323ce",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Mon, 09 Jun 2025 21:08:00 GMT"
+      "id": "d30f4b95410d3f23b616433b054ee9be",
+      "title": "Russia and Ukraine hold 1st stage of prison swap following peace talks - ABC News",
+      "source": "ABC News",
+      "url": "https://abcnews.go.com/International/polish-allied-planes-briefly-scramble-amid-russian-targeting/story?id=122644087",
+      "image_url": "https://i.abcnewsfe.com/a/a1528529-6099-460b-ab4b-0af1b02f4ef3/ukraine-prisoner-mo_1749502663382_hpMain_16x9.jpg?w=1600",
+      "summary": "Russia and Ukraine hold 1st stage of prison swap following peace talks \"More stages will follow,\" Ukrainian President Volodymyr Zelenskyy said. Russia launches nearly 500 strikes across UkraineA record number of drone and missile strikes were launched across Ukraine by Russia. Ukraine says the large majority of the strikes were shot down or intercepted. LONDON -- Russia and Ukraine held...",
+      "published": "Mon, 09 Jun 2025 15:39:34 GMT"
     },
     {
       "id": "94d2326d22d28d9db3d784569d99ccbe",
@@ -119,17 +146,26 @@
       "source": "Space",
       "url": "https://www.space.com/space-exploration/private-spaceflight/watch-spacex-launch-the-ax-4-private-astronaut-mission-to-the-iss-on-june-10",
       "image_url": "https://cdn.mos.cms.futurecdn.net/WcNyGCWHxE9fbC7ETtgTYK.jpg",
-      "summary": "Space Exploration Private Spaceflight SpaceX delays launch of private Ax-4 astronauts to ISS to June 11. Here's how to watch it live. By Mike Wall published 22 hours ago Liftoff is scheduled for 8:00 a. m. ET. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Watch live! SpaceX launches Ax-4...",
+      "summary": "Space Exploration Private Spaceflight SpaceX delays launch of private Ax-4 astronauts to ISS to June 11. Here's how to watch it live. By Mike Wall published yesterday Liftoff is scheduled for 8:00 a. m. ET. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Watch live! SpaceX launches Ax-4 crew to...",
       "published": "Mon, 09 Jun 2025 10:00:00 GMT"
     },
     {
-      "id": "78dc87138f761c78f1125478e495cc00",
-      "title": "Chinese carrier group entered Japanese waters - Taipei Times",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2025/06/10/2003838344",
-      "image_url": "https://www.taipeitimes.com/images/2025/06/10/P01-250610-316.jpg",
-      "summary": "Chinese carrier group entered Japanese waters A Chinese aircraft carrier group entered Japan’s economic waters over the weekend, before exiting to conduct drills involving fighter jets, the Japanese Ministry of Defense said yesterday. The Liaoning aircraft carrier, two missile destroyers and one fast combat supply ship sailed about 300km southwest of Japan’s easternmost island of Minamitori on Saturday, a ministry...",
-      "published": "Mon, 09 Jun 2025 16:00:00 GMT"
+      "id": "8ff36f53c35d47101cbb0cc01da697bc",
+      "title": "ChatGPT is down — live updates as OpenAI's chatbot and Sora video generator suffer worldwide outage - Tom's Guide",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/news/live/chatgpt-openai-down-outage-6-10-2025",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/dCnZty2hKNmDqjVrvUD2nN.jpg",
+      "summary": "ChatGPT is down — live updates on massive OpenAI outage ChatGPT has suffered an unexpected outage By Jeff Parsons Contributions from Dave LeClair last updated 8 minutes ago When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. A surprise outage has caused ChatGPT to go offline for users around the world...",
+      "published": "Tue, 10 Jun 2025 12:32:38 GMT"
+    },
+    {
+      "id": "121921d86ecc4b28133818e853dcd3fd",
+      "title": "Russia could send \"little green men\" to test NATO's resolve, German intelligence boss warns - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/russia-has-plans-test-natos-resolve-german-intelligence-chief-warns-2025-06-09/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 09 Jun 2025 21:24:50 GMT"
     },
     {
       "id": "ba13a2b53f12637d2a4363a13458621a",
@@ -137,53 +173,17 @@
       "source": "The Hill",
       "url": "https://thehill.com/policy/equilibrium-sustainability/5340239-ocean-acidity-study-climate-change-carbon/",
       "image_url": "https://thehill.com/wp-content/themes/the-hill/assets/the-hill-logo-horizontal.svg",
-      "summary": "Press & Hold to confirm you are Reference ID 98299d7a-45d0-11f0-8dfe-2b3ddd7fa7bf",
+      "summary": "Press & Hold to confirm you are Reference ID 7f58055f-4602-11f0-a4aa-157a9b7c382b",
       "published": "Mon, 09 Jun 2025 15:24:00 GMT"
     },
     {
-      "id": "8d02ad18f325d8d95f48bf8a1378f4ad",
-      "title": "Yvette Cooper yet to agree deal days before spending review - BBC",
+      "id": "e444d2027052565a66df21454995915f",
+      "title": "Palestinians say local gunmen and Israeli forces opened fire near Gaza aid site - BBC",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c861n7vljdgo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/fb6f/live/4820c950-44ab-11f0-a488-3b878a6c82cf.jpg",
-      "summary": "Home secretary yet to agree deal days before spending review BBC chief political correspondent Home Secretary Yvette Cooper has still yet to agree a deal with the Treasury before Wednesday's Spending Review, despite an offer of above inflation increases to police funding in each of the next three years. Ministers have been locked in talks with Rachel Reeves and her...",
-      "published": "Mon, 09 Jun 2025 10:30:46 GMT"
-    },
-    {
-      "id": "f9bd1d0bc17afd4d5df3699c5a69b6bb",
-      "title": "Alibaba, Tencent Freeze AI Tools During High-Stakes China Exam - Bloomberg",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-09/alibaba-tencent-freeze-ai-tools-during-high-stakes-china-exam",
-      "image_url": null,
-      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
-      "published": "Mon, 09 Jun 2025 03:52:00 GMT"
-    },
-    {
-      "id": "755eff53a94eae06bccf6f17f1d5fe13",
-      "title": "A surprising power shift inside Hamas - The Economist",
-      "source": "The Economist",
-      "url": "https://www.economist.com/middle-east-and-africa/2025/06/09/a-surprising-power-shift-inside-hamas",
-      "image_url": "https://www.economist.com/content-assets/images/20250614_MAP501.jpg",
-      "summary": "Middle East & Africa | A report from the strip A surprising power shift inside Hamas Its remaining hardmen inside Gaza are losing their grip",
-      "published": "Mon, 09 Jun 2025 19:58:10 GMT"
-    },
-    {
-      "id": "dbd8a7510e229e206165dc561df2faa4",
-      "title": "Ukraine claims to have damaged Russian fighter jets in night-time raid - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2025/jun/09/ukraine-claims-to-have-damaged-russian-fighter-jets-in-night-time-raid",
-      "image_url": "https://i.guim.co.uk/img/media/2726ae9ff2c5f0adb10f3e09a5342943f2617ed6/243_0_3683_2946/master/3683.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7d5eafb8a533decef1433ee561861a00",
-      "summary": "Fund the free press with $15 per month The airfield is used by Russia to deploy MiG-31K fighters. Photograph: Pavel Golovkin/AP Ukraine claims to have damaged Russian fighter jets in night-time raid Special forces reportedly launched assault on Russian airfield about 400 miles from Ukrainian border First published on Mon 9 Jun 2025 05. 42 EDT Ukrainian special forces claim...",
-      "published": "Mon, 09 Jun 2025 09:42:00 GMT"
-    },
-    {
-      "id": "97aa003e5e3812d7569f6369ef77cb9f",
-      "title": "Sizewell C nuclear plant gets £14.2bn government investment - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c4gr3nd5zy6o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3974/live/4043c300-45c2-11f0-b6e6-4ddb91039da1.jpg",
-      "summary": "Sizewell C nuclear plant gets £14bn go-ahead from government The government has said it will invest £14. 2bn into the Sizewell C nuclear power plant The government has committed £14. 2bn of investment to build the new Sizewell C nuclear plant on the Suffolk coastline, ahead of the Spending Review. Sizewell C will create 10,000 direct jobs, thousands more in...",
-      "published": "Tue, 10 Jun 2025 02:15:24 GMT"
+      "url": "https://www.bbc.com/news/articles/c79e0zxy2lro",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1086/live/2ceae190-457b-11f0-bace-e1270fc31f5e.jpg",
+      "summary": "Palestinians say local gunmen and Israeli forces opened fire near Gaza aid site The Gaza Humanitarian Foundation said it handed out food aid \"without incident\" at two sites in southern and central Gaza on Monday Palestinians in Gaza say they were fired on once again as they headed to one of the aid distribution centres run by the Israeli- and...",
+      "published": "Mon, 09 Jun 2025 22:50:58 GMT"
     }
   ]
 }
