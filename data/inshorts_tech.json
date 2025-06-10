@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-10 13:49:14",
-    "total_articles": 15
+    "generation_time": "2025-06-10 20:16:50",
+    "total_articles": 20
   },
   "articles": [
     {
@@ -15,58 +15,94 @@
       "published": "Tue, 10 Jun 2025 10:58:23 GMT"
     },
     {
-      "id": "955e55245238f4413b42eafbb649be03",
-      "title": "PSA: iPadOS 26 removes Split View and Slide Over multitasking features - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2025/06/09/psa-ipados-26-removes-split-view-and-slide-over-multitasking-features/",
-      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/wwdc-2025-14.16.58.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "summary": "PSA: iPadOS 26 removes Split View and Slide Over multitasking features iPadOS 26 introduces major new windowing features designed to upgrade the iPad’s multitasking experience. But with those new features, two longstanding multitasking features have been removed: Split View and Slide Over are no longer supported in iPadOS 26. Split View and Slide Over are gone, but Stage Manager lives...",
-      "published": "Mon, 09 Jun 2025 21:04:00 GMT"
+      "id": "f728070dacc0b9fc54683b0eb65d7766",
+      "title": "Android 16 is out, complete with live notification updates and new camera features - Engadget",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/mobile/android-16-is-out-complete-with-live-notification-updates-and-new-camera-features-170006072.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/IK62CCT8aFytDNHcVdn4QQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/ee6de000-454a-11f0-bfff-9b8f65514cba",
+      "summary": "WWDC 2025: Everything Apple announced Prime Day 2025: What you need to know How to buy the Nintendo Switch 2 Android 16 is out, complete with live notification updates and new camera features There's also an easier way to activate advanced security protocols. Updated Tue, Jun 10, 2025, 11:00 AM MST·2 min read Google has released Android 16 to the...",
+      "published": "Tue, 10 Jun 2025 17:00:06 GMT"
     },
     {
-      "id": "bbaba30c4858fc56b8d2b8c1c4c17831",
-      "title": "Apple details the end of Intel Mac support and a phaseout for Rosetta 2 - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2025/06/apple-details-the-end-of-intel-mac-support-and-a-phaseout-for-rosetta-2/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/macos-finder-faces-sequoia-1152x648.jpg",
-      "summary": "Apple details the end of Intel Mac support and a phaseout for Rosetta 2 Rosetta app translation features for Intel apps won't stay around indefinitely. The support list for macOS Tahoe still includes Intel Macs, but it has been whittled down to just four models, all released in 2019 or 2020. We speculated that this meant that the end was...",
-      "published": "Mon, 09 Jun 2025 22:37:17 GMT"
+      "id": "7b47c487271ac03ac7903a7d547a5038",
+      "title": "The Top New Features in Apple WatchOS 26 - WIRED",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/top-new-features-in-watchos-26/",
+      "image_url": "https://media.wired.com/photos/68474edf9d10971eb2169cef/191:100/w_1280,c_limit/Top%20New%20Features%20in%20WatchOS%2026.png",
+      "summary": "The Top New Features in WatchOS 26 Apple’s new additions this year include a wrist-flick gesture to dismiss a call and a personalized Workout Buddy to tell you when you “crushed it. ” All products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products through these links. THIS...",
+      "published": "Tue, 10 Jun 2025 12:09:36 GMT"
     },
     {
-      "id": "7289df84cc5788f322d6c632b98ae337",
-      "title": "iOS 26’s new ‘adaptive power’ mode dials back performance to save battery - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/683797/ios-26s-new-adaptive-power-mode-dials-back-performance-to-save-battery",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/adaptive-power.jpg?quality=90&strip=all&crop=0%2C23.391962375903%2C100%2C53.239186654513&w=1200",
-      "summary": "iOS 26’s new ‘adaptive power’ mode dials back performance to save batteryThe setting will lower screen brightness and slow down some activities. The “Adaptive Power” option will exist alongside “Low Power Mode. ” Screenshot: Jay Peters / The Verge Emma Roth is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she...",
-      "published": "Mon, 09 Jun 2025 21:30:43 GMT"
-    },
-    {
-      "id": "f758d77849185df4a2695f88638a9636",
-      "title": "Thin, Light and Built to Last: The New Era of the Galaxy Z Series - Samsung Newsroom",
-      "source": "Samsung Newsroom",
-      "url": "https://news.samsung.com/us/thin-light-built-to-last-new-era-of-samsung-galaxy-z-series/",
-      "image_url": "https://img.us.news.samsung.com/us/wp-content/uploads/2025/06/09171449/001_Thin_Light_and_Built_to_Last_The_New_Era_of_the_Galaxy_Z_Series%E2%80%8B_Thumbnail.jpg",
-      "summary": "Thin, Light and Built to Last: The New Era of the Galaxy Z Series While people have long valued smartphones for their power, convenience and usability, they’ve also expected a mobile device that blends versatility with portability. At Samsung Electronics, our drive to deliver the ultimate mobile experience has always been guided by the needs of our users. This unwavering...",
-      "published": "Mon, 09 Jun 2025 23:05:02 GMT"
-    },
-    {
-      "id": "5f103b8ccdda165bc1ec27fe02ad917b",
-      "title": "Apple Unveils AI-Powered 'Workout Buddy' for Apple Watch at WWDC - MacRumors",
+      "id": "1d426dbb5e19ad3bb977f502a35119c5",
+      "title": "Windowing, Menu Bar, and Pointer Come to iPadOS - MacRumors",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2025/06/09/ai-powered-workout-buddy-coming-to-apple-watch/",
-      "image_url": "https://images.macrumors.com/t/9BnVCs-I9d4i7KXHtVjrhZzF0VY=/1600x/article-new/2025/06/f-caf6121f772e58909692fe5dd6e5ef91b9a5768a.jpg",
-      "summary": "iPhone 16eWWDC 2025iOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad minimacOS 26 TahoeApple Watch 10iPhone 18CarPlayApple Pay Apple Unveils AI-Powered 'Workout Buddy' for Apple Watch at...",
-      "published": "Mon, 09 Jun 2025 17:45:00 GMT"
+      "url": "https://www.macrumors.com/2025/06/09/windowing-menu-bar-and-pointer-come-to-ipados/",
+      "image_url": "https://images.macrumors.com/t/jQc6m8U3lm9q-ma5ZDBQ7VWf28M=/1600x/article-new/2025/06/ipados-26-multitasking.jpg",
+      "summary": "iPhone 16eWWDC 2025iOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad minimacOS 26 TahoeApple Watch 10iPhone 18CarPlayApple Pay Windowing, Menu Bar, and Pointer Come to iPadOS Monday...",
+      "published": "Mon, 09 Jun 2025 18:38:21 GMT"
     },
     {
-      "id": "d3ba63b29c4fe2d5fbdee745a6cf0ab1",
-      "title": "Google confirms Android 16 stable release lands today - Android Police",
-      "source": "Android Police",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1dlS0pPYk0tQnNWSXZDOHB4ZHlBOVhYcG1ScUxpNU5qRUFscHBWSzdQcEtLcm5ERUpxYUoySWhoancybF9tbng1MmpGcVMtZ28wVGppTVV2bmI0WnZXcWVaQjlxWU9PdDFreWVmYWQxeEs4Qm9zVFg0d0V2MEx6WTY5alFRMUxrUGFXVQ?oc=5",
+      "id": "4cd63cfa1be5472c376be0a6797049a2",
+      "title": "Apple’s macOS Tahoe to Be Final Operating System to Work on Intel Macs - Bloomberg",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-09/apple-s-macos-tahoe-to-be-final-operating-system-to-work-on-intel-macs",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Mon, 09 Jun 2025 21:25:00 GMT"
+    },
+    {
+      "id": "86ba59f6f6e95d26e5fe3a62601dc166",
+      "title": "iPhones to finally get charging feature Galaxy phones had for years - SamMobile",
+      "source": "SamMobile",
+      "url": "https://www.sammobile.com/news/iphones-ios-26-charging-time-estimation-galaxy-phones-had-years/",
+      "image_url": "https://www.sammobile.com/wp-content/uploads/2025/04/Galaxy-S25-review-battery-life-1200x675.jpg",
+      "summary": "New deals, Galaxy S25 edge, S25 Ultra, Watch Ultra, and Bespoke AI Jet Ultra! SamMobile has affiliate and sponsored partnerships, we may earn a commission. iPhones to finally get charging feature Galaxy phones had for years It will display the battery's full charging time estimation. During the WWDC 2025 developers conference yesterday, Apple revealed a brand-new UI design language—Liquid Glass—for...",
+      "published": "Tue, 10 Jun 2025 13:08:24 GMT"
+    },
+    {
+      "id": "dc9b133e2d585c4e01da3f97f3123b2e",
+      "title": "At WWDC 2025, Apple sang developers’ praises amid AI letdowns and App Store battles - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/06/10/at-wwdc-2025-apple-sang-developers-praises-amid-ai-letdowns-and-app-store-battles/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/wwdc-2025-song.jpeg?resize=1200,659",
+      "summary": "At WWDC 2025, Apple sang developers’ praises amid AI letdowns and App Store battles At the end of the WWDC 2025 keynote address on Monday, the company literally sang its praises to app developers, as singer-songwriter Allen Stone humorously turned customers’ positive App Store reviews into song lyrics for a tune titled “6 out of 5 stars. ” “Best app...",
+      "published": "Tue, 10 Jun 2025 15:43:28 GMT"
+    },
+    {
+      "id": "906ef506cff6862a621f4c1eae49d3f4",
+      "title": "Latest Galaxy S25 update sets the phone up for One UI 8 - 9to5Google",
+      "source": "9to5Google",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQm94enJ3bEdnRDUtd1J3eEdzRWRUcEhmcnBJMzhlYm1CMmhIaUNQSExRQ3lTOUhrYkVob2R3Y2NSODRvd3hraU5pMWk2RHQ1eHVualNFZ01nVlY3MXBBQjVIODdORlc1a05mVDM5T0luLXlxMVhmS2laZlBrR1hjOXloRTNiTlhLODA3UjNPcFVNaV82?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Tue, 10 Jun 2025 04:37:00 GMT"
+      "published": "Tue, 10 Jun 2025 14:20:00 GMT"
+    },
+    {
+      "id": "880dc8b7e3dc129def38d8b34b8801dc",
+      "title": "Samsung Showing Off Its Insanely Thin Galaxy Z Fold 7 - Droid Life",
+      "source": "Droid Life",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaXFjMzVSdU94bEQwMHRpbFFSU0otZ0dHbXVoX0F1RnhVZi1nX0dhOXFodHktTWdHd1RqVWJPbk9xemVKalFxU3pyc19qRHdvUWgwNGpXdHRYM3owcFIzdGY2aVFBckI2bjhEbW95QXVaeU4xSWZZWWRMS1FaZUdpWkN3b1IzOU5OamFUbmJhcWNkVkhPSVlrNS1SY21WdFNiY1Exa0oweWktN1nSAbABQVVfeXFMUDBQbmVwb3p1ZGtRdTR6Y3EzUjZFYTNQbE1YU2VVTUZKakI4SjEzSDVKRDZNOW1MSXF4NkdyRmdhamRJNnE0Yms0RkNpWGE2b2poNnpjdnJCVm50RGplR3l3ZnJmVGl5RG9kcGx1UXNOSEY0NmFJcW52blpSTDBlbW04UHFmS3J0YXJ5RG5KQXZhWkk0d0JPeHFoNTlNOXF2S08za2xqOTlKb0hFWHdOQlc?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 10 Jun 2025 02:33:13 GMT"
+    },
+    {
+      "id": "bbc7f1025ed4ab7576c0ef0411af2def",
+      "title": "Nintendo Switch 2 restocks live — latest updates and retailers to check today - Tom's Guide",
+      "source": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YOV9YYUd0NjNRa1E2RnJEOGtWemRkb2MyR016aEkyT2pCTzhYZGJxZmJ6d3RrTzNSZkptLWQzcmtnMkIxd3NLWkZIcFNhWURFSVU3NklXSEtZaGliR1VYNmg1YnUwNHpOMk9KOGo0b0lZSkFZcnlyTC1hQ2FPUVk?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 10 Jun 2025 10:57:51 GMT"
+    },
+    {
+      "id": "0fd07749ab42387e145afceea843a2ee",
+      "title": "Splatoon Raiders Is The Series First Spin-Off Game And It's Coming Exclusively To Switch 2 - Game Informer",
+      "source": "Game Informer",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNemVzR2hONmRUQ054RWU5R3oyRF91SHloczlZa2lXa0c5NnluMmV3SW0zN1RVV2xaOXNlWXhLMW1saXJ2X2t0OVZBZXl2MnRyQ01IMFZjSnhNVmpsbHRQejF1dFc3RnJTbWlpWTJlUjVlTzJvcXdDUThyY3owT3lyUENKajY3S2RlMFFwVlVZa21TbEFxWEZaSjNHbW9DS1ZQamo1OF9idzRpOUNVb0hCZkNhdGFXamJ1aDdWM096R09HekNzS0E?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 10 Jun 2025 13:00:00 GMT"
     },
     {
       "id": "602b9ca8851f96754ff9f2011f818a84",
@@ -78,67 +114,76 @@
       "published": "Tue, 10 Jun 2025 03:50:00 GMT"
     },
     {
-      "id": "3f41dba4b199df0f2565ef461e88f5d7",
-      "title": "Nothing Phone (3) surfaces in leaked render with no visible lights and three cameras - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RUmk5ZFJ5WG1rXzR6UGlNY196dmdvdnZLOXlNZVBUaG9STXlYNDhxd3hMeG85R1dHUFVGejNzVFhDbHktRlRlOVNvcHZaUVBHSC1kZzVqcjRDMjRmRnY3MU01NWhUaWFrRXl0aTRsU3pWNDZrSnZCX0VR?oc=5",
+      "id": "7ea6778e964529c7cfba4f7d16bf8d98",
+      "title": "Obsidian's The Outer Worlds 2 looks to fix the problems it always knew the original had - Eurogamer",
+      "source": "Eurogamer",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOFUtQks5Q2RLWDMxQ3hMbmszUF8wRGxzRXI1Rl80X2Rsem8zYTNzQTJubHZpSnRNS3hCVVVjekFFb3FKdTNjTjRjNjdha0dSV0lUQkl3a1dpRDNnVnliX3NtR25wZ2xibUg0RmppdU9nbFNESGFNZDFsN21QRklyS0NuazJfLVNYYzU5MV9NS2JlQ0NSbzNvQlFPRHJKQXBMN19GY3ZMZWVCUFpvUzhwOVNn?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Tue, 10 Jun 2025 07:50:00 GMT"
+      "published": "Tue, 10 Jun 2025 15:00:00 GMT"
     },
     {
-      "id": "d447f17cd04b69c40924c7adfcc119a0",
-      "title": "News Sites Are Getting Crushed by Google’s New AI Tools - WSJ",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SSkRuZTN4VnZxdG4zVXdfMnItU2RGLU0yMzQ0cTAyV2psTUNpZkpOakRDeTFoeWNuQUw5ZGVqeVpLUFVQU09jNmUxVXFGaGRoOU1JdmkzM25tUDYzNW5fU1RBQllJWGlpbWJSLUNSSQ?oc=5",
+      "id": "88b3ae9a049ce7f8a91a2c9bf5b14060",
+      "title": "You can now try Microsoft’s new Start menu for Windows 11 - The Verge",
+      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTJFSGxwRktnWktCM2ZRQ1lrR3RTdkk5X3VQRW5QbjMzbGJOaW9pREpwRFBKa1F1bG1VdExNREQ5S1NqQzFHbTFxaEk2YmxKMUY4aXJWSVJMRGY2Wm1oa09VNTF3RVlhSFdzZ3BodHhmaEFhbXZ5MER0R1RmRGhDWnUxRUYtNy02dkFFSW0wU2VzVkNBY01n?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Tue, 10 Jun 2025 01:30:53 GMT"
+      "published": "Mon, 09 Jun 2025 22:03:51 GMT"
     },
     {
-      "id": "0051fbf60eaf0179a0d6978cd59c72d7",
-      "title": "AI-Focused Apple Music Reboot Said to Be in the Works - MacRumors",
-      "source": "MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vdmVVRzFVa0VJM1djRDZyT2pzNUE0SGxFcW1kVVpSLWVaQmg2bXhNNG5QY0pWRUhUYkNzdUtjVW9xTDZfeEtoWDBSN01meW9YamxuakpHa1otOWdZU2JVT3pLMXp4R3IzMjkzdlIySzRxX2k2SG9YVkFR?oc=5",
+      "id": "c1b2fdca6b3819109dcf2cc77d134d20",
+      "title": "Apple's Finally Adding Call and Message Screening. Better Late Than Never, I Say - CNET",
+      "source": "CNET",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVDBOeFF4YTVTNFRpY0NCckx0ZzhHRmlBNlB5dVpXMlF2cng5TFR1cHA0dVI4SG52OUpad3RRZ3p4NDNzbEtKNm1XWWRfRGpWTnNaLVN3Vk1jX3U1NXRvYk5ncEM0bjU0VnV6OWNMZVZwVjByRjJsT1RtbFRxMGRaSFVWbDMyTjZ6QnpnUmJxM21sTzQtTW9SQTZwQ2tNQzRRYUNjeFIyTXoxa3pubEJwMA?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 09 Jun 2025 11:00:11 GMT"
+      "published": "Mon, 09 Jun 2025 19:10:00 GMT"
     },
     {
-      "id": "c4d6070246fa11f92a2b2ef36daf5672",
-      "title": "Switch 2 Review – A Safe But Effective Bet - Game Informer",
-      "source": "Game Informer",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRC1Za0sxazZhT0hYY1ZEazkxcnJ3MEt4LVVQSjZNckhhNW0xLUk3VHFKaEJ0b3I4NmNmMXFGYnJCSDhVc1hqMzZSdUhZMVdVemltQ3RTNUp3Q0k2MUtpRFUwbmNGaU51MFVWck9wMm9pcHQwbVRnZk9HYUYzSmM1RGFHRFVvXzJHZVNBVnp3?oc=5",
+      "id": "698211df54d32d3f5f22d6bd19c897c3",
+      "title": "Xbox's best studio just can't be stopped, since we're already getting a sequel to my favorite survival game - Windows Central",
+      "source": "Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaHdkN3BWRjV1MC10VjJ1N0hRSXRHR1d6MkdkRmY2MEszZmZlSzMtdE1OTlpIdXpLVUdSaV9hWFo0LVBWb2lIR0dfSTVvZi1LbXFvSUQwVTBHQWY4LTBWZE1TRl9Rb2xlRHFoS3RzSG5uY1dMQUR2ZE9sdEhJamJkOEh2eUlnZFBJRFAzQWMzRzdCWXU2TzZFVQ?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 09 Jun 2025 23:35:00 GMT"
+      "published": "Mon, 09 Jun 2025 20:00:40 GMT"
     },
     {
-      "id": "d3ef0b699ab14282a616ceb546e31b16",
-      "title": "Liquid Glass tvOS redesign is restricted to second-generation Apple TV 4K and later - AppleInsider",
-      "source": "AppleInsider",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUWRzSTRNMWIxNk0wNDNIcmlIUmhHWjB2YlVqVzVSSkp4bF93eWJlTUs3MEU1Z1V6bFZOQUJjb3daNmo5N0FuSlMza2tfbm9FN1ZVNXF0WUlENHlHdFVhbGJuYm1SNFhqVGREQnlrY0luV2tBdjh4Y1dqQ2xxaElDaHpEQjRISER3YkQ5YTBicHhuLTNwWHI5NEZ1N2VRVFFrVGprMHNoTjVQNUIxZ25QWjIxTktjT3drSTdIcUZVV1NpWXJP0gHLAUFVX3lxTE5kOWNOaTZ6eXUzVTh5bnFvQlYxdEFjZFJidDhPSFRxTmMzV2RYSFV0WFBFWGM0Z1hta0FReF8zQVJ0ZVhjdzA4dmdGNXhKZ2xud3lKSjE1amFoaTJBSW9oSEZpR2FZOTROVWFJc19aQVNUSGlvRHBpcW5iMGxxUFpnTDZaRmhHRWc4VXhXVjNmNktHaEJpTld6UWFMbGJrX1VCRDRYdlh5WWxmUlNQM0ZBZDdUQWYyLTZ4d1lJMkFRUE5iTmRxT3dUWXgw?oc=5",
+      "id": "46869f91b2525a6e0366ce622fc85492",
+      "title": "Apple explains Siri delays, teases more new features are coming - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1RWWjk1US1GNm01RVJmTERUdEYyMEZaaXNtUkl5MFlmLW8tbnRZbkxmRmZCWktqSEhSczN5QzZFTzJJbUlEYTA3MWpTNGlUM2lQbGtvUEtwNmY3U29kaFliQi1mUzhvTmMyTTRpU2tzeFo3X2xEQTFfX2VVczJoNnZwTE1HaU9iUVNCYTdoeEhsNXpMTmJVT0x3?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 09 Jun 2025 19:56:37 GMT"
+      "published": "Tue, 10 Jun 2025 16:48:00 GMT"
     },
     {
-      "id": "790aed7a579d42ec43d0cf16e380d88b",
-      "title": "A Researcher Figured Out How to Reveal Any Phone Number Linked to a Google Account - WIRED",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/a-researcher-figured-out-how-to-reveal-any-phone-number-linked-to-a-google-account/",
-      "image_url": "https://media.wired.com/photos/6843422a546bf069da32682b/191:100/w_1280,c_limit/security-google-account-phone-number.jpg",
-      "summary": "WIRED uses first- and third-party technologies that provide information about your interactions with this site to others. See our Privacy Policy for more information. A Researcher Figured Out How to Reveal Any Phone Number Linked to a Google Account Phone numbers are a goldmine for SIM swappers. A researcher found how to get this precious piece of information through a...",
-      "published": "Mon, 09 Jun 2025 14:00:00 GMT"
+      "id": "ec1d737b6b4800ef414e1bba4c197e82",
+      "title": "Full-screen Xbox handheld UI is coming to all Windows PCs “starting next year” - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2ZjUXBxc1lnOFhlZkpoTHZIendfUm5oVmpHczd6cVNrWTNXZTI1NlRPM0kxSTBuWnkyZklLYk43SzZLa3ZFRXhxcXBMdGdvX2xxR0hZSlNNNHFWeHU5MF9jN0xhb29XODVYa0RsbWRYUzRNMkJaWDZDQnNhWnZYUzN1cVY0akF6M0htNjJEMnhNLWhqNXRKd2FJaGg2UVZUc21SV2xxTlVDcl9yT21tREJDZUJseDg?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 09 Jun 2025 15:20:12 GMT"
     },
     {
-      "id": "995d8b9e21d5a1192c3ec54eb0e2c7ec",
-      "title": "Apple brings Apple Intelligence to the iPhone screen at WWDC 2025 - TechCrunch",
+      "id": "91b5395cb8e83da9361e51dc828b5ec1",
+      "title": "Apple brings ChatGPT and other AI models to Xcode - TechCrunch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/06/09/apple-brings-apple-intelligence-to-the-iphone-screen-at-wwdc-2025/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/apple-visual-intelligence-wwdc-2025.png?resize=1200,572",
-      "summary": "Apple brings Apple Intelligence to the iPhone screen at WWDC 2025 Apple revealed at its WWDC 2025 event that it’s bringing Visual Intelligence, its AI-powered image analysis tech, to the iPhone screen in iOS 26. Visual Intelligence will now make it easier and faster to do more with the content on your iPhone, Apple says, and it works automatically with...",
-      "published": "Mon, 09 Jun 2025 17:50:56 GMT"
+      "url": "https://techcrunch.com/2025/06/09/apple-brings-chatgpt-and-other-ai-models-to-xcode/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/Apple-WWDC25-macOS-Tahoe-26-Xcode-26-with-ChatGPT-250609_inline.jpg.large_2x.jpg?resize=1200,800",
+      "summary": "Apple brings ChatGPT and other AI models to Xcode At WWDC 2025, Apple released a new version of Xcode, its app development suite, that integrates OpenAI’s ChatGPT for coding, doc generation, and more. The company also announced that developers can use API keys to bring AI models from other providers to Xcode for AI-powered programming suggestions. “Developers can connect [AI]...",
+      "published": "Mon, 09 Jun 2025 18:32:31 GMT"
+    },
+    {
+      "id": "d445f60b415b53ec4eb53a8f82bfadc4",
+      "title": "The best smart glasses on the market just got a major price cut, dropping to an all-time low - Android Police",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/ray-ban-meta-glasses-239-deal/",
+      "image_url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/06/copy-of-169-7.png",
+      "summary": "The best smart glasses on the market just got a major price cut, dropping to an all-time low Lens height: 46 mm, Frame width: 146 mm The Ray-Ban Meta smart glasses have a 12MP Ultra-wide camera above the left lens that offers 4032x3024 resolution and can record photos or videos up to 60 seconds in length. It can also live...",
+      "published": "Tue, 10 Jun 2025 01:27:00 GMT"
     }
   ]
 }
