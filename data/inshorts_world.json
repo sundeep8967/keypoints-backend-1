@@ -1,72 +1,99 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-11 06:51:49",
+    "generation_time": "2025-06-11 13:04:24",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "2f5aa857942d3b19a9c34a048d155eef",
-      "title": "At least 10 killed in Austrian school shooting, police say - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/06/10/austria-graz-school-shooting-borg-dreischutzengasse/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ONGAWTEUJ44TIDMI5SVY6PQADQ.JPG&w=1440",
-      "summary": "At least 10 killed in Austrian school shooting, police say Police for the state of Styria said at least 10 people were killed and several seriously injured in a high school in Graz, Austria. They said the shooter was also dead. Family members reunite after a deadly school shooting in Graz, Austria, on Tuesday. (Borut Zivulovic/Reuters) By Annabelle Timsit, Kate...",
-      "published": "Wed, 11 Jun 2025 04:54:33 GMT"
+      "id": "5c8f22e511ad4066f8821a3c853e34c6",
+      "title": "Austria’s deadliest mass shooting: Who are the Graz victims, gunman? - Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/6/10/graz-austria-school-shooting-what-we-know-about-the-victims-shooter",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/06/AP25161399114464-1749553865.jpg?resize=1709%2C1080",
+      "summary": "Enrich your Al Jazeera experience by signing in or creating an account. Austria’s deadliest mass shooting: Who are the Graz victims, gunman? Austria to observe three days of mourning after a 21-year-old attacker kills at least 10 people at a school in the country’s second-largest city. Rescuers respond at the scene of a school shooting in Graz, Austria, on June...",
+      "published": "Wed, 11 Jun 2025 04:49:05 GMT"
     },
     {
-      "id": "050de050b8ec5fdd809bf8484476e823",
-      "title": "Intense Russian drone attack on Kharkiv kills 2, injures 54, Ukraine says - Reuters",
+      "id": "1f87eb508f3f8ad0b5d07421553a4253",
+      "title": "Trump administration slams UK over sanctions on Israeli ministers - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/u-s-marco-rubio-condemns-u-k-government-over-sanctions-on-israeli-ministers/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/11/13064728-scaled.jpg",
+      "summary": "Trump administration slams UK over sanctions on Israeli ministers",
+      "published": "Wed, 11 Jun 2025 08:24:00 GMT"
+    },
+    {
+      "id": "385b85aa493ad339a7af6aeb66ab5315",
+      "title": "Hong Kong police accuse mobile game of promoting 'armed revolution' - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/11/nx-s1-5430295/hong-kong-police-video-game-sedition-china",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4080x2295+0+389/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2Fa9%2Fddd565d342e796eb57c605fc2a69%2F1000005602.jpg",
+      "summary": "Hong Kong police accuse mobile game of promoting 'armed revolution' A phone displaying the App Store page for the mobile game Reversed Front: Bonfire. HONG KONG — Hong Kong police on Tuesday warned people against downloading and using a gaming app that it says advocates \"armed revolution\" and the overthrow of the \"fundamental system\" of Mainland China. Four freed from...",
+      "published": "Wed, 11 Jun 2025 09:49:40 GMT"
+    },
+    {
+      "id": "0914eac6fea0526d59e959583b0b6eea",
+      "title": "Here are the winners and losers as the UK unveils spending plans - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/11/uk-spending-review-heres-where-billions-of-public-cash-will-go.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108157687-1749641125186-gettyimages-2219026007-AA_11062025_2282719.jpeg?v=1749641168&w=1920&h=1080",
+      "summary": "UK finance minister set on ‘renewing Britain’ as she unveils spending plans U. K. Chancellor Rachel Reeves is delivering her Spending Review this Wednesday. The review sets out how public money will be divided between government departments and put towards infrastructure projects over the next three to four years. We already know that billions of pounds of funding have already...",
+      "published": "Wed, 11 Jun 2025 11:10:10 GMT"
+    },
+    {
+      "id": "e89ad3e810a157dd0ae12b8ed66348c1",
+      "title": "French doctor says Israeli authorities were ‘abusive’ to Greta Thunberg - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/greta-thunberg-israel-palestine-france-andre-baptiste-flotilla-coalition/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/11/13117817.jpg",
+      "summary": "French doctor says Israeli authorities were ‘abusive’ to Greta Thunberg",
+      "published": "Wed, 11 Jun 2025 09:43:00 GMT"
+    },
+    {
+      "id": "48c240a8b5f7e169a6b06be8af5e4865",
+      "title": "Hungarians declare resistance to Orbán's government with a large protest - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/11/nx-s1-5430267/hungary-viktor-orban-lgbtq-protest",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3132+0+290/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2F5d%2F6959ae7248bc9d98c626b9907c0a%2Fgettyimages-2218940848.jpg",
+      "summary": "Hungarians declare resistance to Orbán's government with a large protest Demonstrator hokds a placard reading \"See you (never) Viktor\" when thousands gather in front of the Parliament in central Budapest, Hungary, on June 10. Ferenc Isza/AFP via Getty Images BUDAPEST, Hungary — Around 15,000 protesters filled a square in Hungary's capital Tuesday in what organizers called the beginning of a...",
+      "published": "Wed, 11 Jun 2025 05:16:19 GMT"
+    },
+    {
+      "id": "891028883781a4c41fddab412daa3b03",
+      "title": "Israeli gunfire kills 17 people near Gaza aid site, health officials say - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israeli-gunfire-kills-17-people-near-gaza-aid-site-health-officials-say-2025-06-10/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Tue, 10 Jun 2025 23:02:34 GMT"
+    },
+    {
+      "id": "67be0e8339d6baf24e7962ee06a0df92",
+      "title": "Russia hits Ukraine's Kharkiv with deadly nighttime barrage of drones - Reuters",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/one-killed-23-injured-russias-drone-attack-ukraines-kharkiv-mayor-says-2025-06-10/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Wed, 11 Jun 2025 02:26:00 GMT"
+      "published": "Wed, 11 Jun 2025 09:37:37 GMT"
     },
     {
-      "id": "1f797467fbc019e95002cc3af9b850fe",
-      "title": "UK sanctions far-right Israeli ministers for 'inciting violence' against Palestinians - BBC",
+      "id": "d9e69b8079890207ed8aee966c155b41",
+      "title": "Senators return the impeachment case against Sara Duterte to the Philippine House - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/philippines-vice-presidential-sara-duterte-impeachment-520c4e4adb6f32975e90efdfbc5165d6",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Wed, 11 Jun 2025 01:08:00 GMT"
+    },
+    {
+      "id": "45a3e05666bf768cc95ac25fcefbb0b8",
+      "title": "Polish PM Donald Tusk prepares for confidence vote - BBC",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c8xgk1ek19lo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ec32/live/81da97a0-4606-11f0-bace-e1270fc31f5e.jpg",
-      "summary": "UK sanctions far-right Israeli ministers for 'inciting violence' against Palestinians Diplomatic correspondent•@BBCJLandale Itamar Ben-Gvir (left) and Bezalel Smotrich are key members of PM Benjamin Netanyahu's right-wing coalition The UK has sanctioned two far-right Israeli ministers over \"repeated incitements of violence against Palestinian communities\" in the occupied West Bank. Itamar Ben-Gvir and Bezalel Smotrich will both be banned from entering the...",
-      "published": "Tue, 10 Jun 2025 21:56:25 GMT"
-    },
-    {
-      "id": "db222d9270c2d8653651c29b35b53b59",
-      "title": "Argentina’s Kirchner to be banned from politics after graft conviction upheld - Financial Times",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e37024ed-8d04-47c2-8e06-7b23d0363646",
-      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F292a2efa-2c4b-45d1-8381-0a579fdaea61.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Argentina’s Kirchner to be banned from politics after graft conviction upheld Peronist leader had remained biggest opposition voice to Javier Milei despite 2022 corruption ruling Argentina’s Kirchner to be banned from politics after graft conviction upheld on x (opens...",
-      "published": "Tue, 10 Jun 2025 20:38:40 GMT"
-    },
-    {
-      "id": "bae9413b7ad365703a841fb1de74372f",
-      "title": "Greta Thunberg gets deported from Israel after ship was seized - OregonLive.com",
-      "source": "OregonLive.com",
-      "url": "https://www.oregonlive.com/nation/2025/06/greta-thunberg-gets-deported-from-israel-after-ship-was-seized.html",
-      "image_url": "https://www.oregonlive.com/resizer/v2/44XC3LDSXZA2NO7GT2ESI46FTU.jpg?auth=dfbc666a7e50f14ea69b88dcf7a6fd97124f03d06ebea4c4e86c1bdf9971a6de&width=1280&quality=90",
-      "summary": "Summer Sale - Start Today for $1 - Expires 6/30/25 Greta Thunberg gets deported from Israel after ship was seized Published: Jun. 10, 2025, 4:19 p. m. Activist Greta Thunberg answers reporters as she arrives from Israel at Charles de Gaulle airport, north of Paris, Tuesday, June 10, 2025. AP JERUSALEM — Israel deported activist Greta Thunberg on Tuesday, a...",
-      "published": "Tue, 10 Jun 2025 23:19:00 GMT"
-    },
-    {
-      "id": "4b44cc4c5f6b96057844ff3a25fc5d40",
-      "title": "Chris Mason: Reeves's spending priorities leave little wiggle room - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c9q0rd1x5l5o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/26ee/live/11bab540-4642-11f0-84b6-6bf0f66205f1.jpg",
-      "summary": "Reeves's spending priorities leave little wiggle room The words Spending Review may not instantly quicken the heart rate of many, but what we hear from the Chancellor Rachel Reeves will have an impact on what your life is like in the UK in the coming years. It could be one of the defining moments between now and the next general...",
-      "published": "Tue, 10 Jun 2025 21:32:12 GMT"
-    },
-    {
-      "id": "9566810291718a6591d0a3dff6edcec6",
-      "title": "Palestinians say 20 killed near aid site; IDF says troops fired at Gazans who posed threat - The Times of Israel",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/idf-says-troops-fired-at-gazans-who-posed-threat-palestinians-say-20-killed-near-aid-site/",
-      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/AP25160667949397-e1749547909767.jpg",
-      "summary": "Palestinians say 20 killed near aid site; IDF says troops fired at Gazans who posed threat Military says toll reported by Palestinian media inconsistent with its data; rocket fired from north Gaza intercepted; IDF says it destroyed 1,200 terror sites in Khan Younis suburb Displaced Palestinians walk past the ruins of destroyed buildings along the Gaza City shoreline, June 9,...",
-      "published": "Tue, 10 Jun 2025 11:13:00 GMT"
+      "url": "https://www.bbc.com/news/articles/cx2ez231mpdo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1c60/live/43c382c0-46a5-11f0-8b61-c7d2e4eb27f6.jpg",
+      "summary": "Polish PM Donald Tusk prepares for confidence vote Poland's prime minister Donald Tusk has called for a vote of confidence in his pro-EU government after his political camp narrowly lost the recent presidential election. Wednesday's vote should be a formality because Tusk's coalition has a 12-seat majority in the lower house, the Sejm, and only a simple majority in the...",
+      "published": "Wed, 11 Jun 2025 09:39:31 GMT"
     },
     {
       "id": "88e0db63b3ba651c25b00dd89418ce70",
@@ -78,22 +105,22 @@
       "published": "Wed, 11 Jun 2025 01:40:00 GMT"
     },
     {
-      "id": "2ec3cf4d4057e12c7761ed44ab208969",
-      "title": "Bolsonaro takes the stand in historic Brazil coup trial - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/10/nx-s1-5428548/bolsonaro-brazil-coup-trial",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3159+0+293/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2F89%2Fd2ec2c514c6687a8fc136ee2fc48%2Fap25161470925434.jpg",
-      "summary": "Bolsonaro takes the stand in historic Brazil coup trial Former Brazilian President Jair Bolsonaro attends his Supreme Court trial along with others charged in an alleged coup plot to keep him in office after his 2022 election defeat, in Brasilia, Brazil, Tuesday, June 10, 2025. RIO DE JANEIRO, Brazil — Brazil's former President Jair Bolsonaro has begun facing cross-examination in...",
-      "published": "Tue, 10 Jun 2025 18:56:48 GMT"
+      "id": "a6a9cb98e04673a60d33ee8dd2c99bfb",
+      "title": "As Trump’s new travel ban begins, some visitors report extra scrutiny at U.S. airports - PBS",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/politics/as-trumps-new-travel-ban-begins-some-visitors-report-extra-scrutiny-at-u-s-airports",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/2025-06-09T043130Z_956212152_RC2QYEA2AFIN_RTRMADP_3_USA-TRAVEL-1024x683.jpg",
+      "summary": "Urge Congress: Protect PBS Funding Your favorite shows at PBS are in danger of going away. The federal funding that supports local stations and public media is under threat. By — Gisela Salomon, Associated Press As Trump’s new travel ban begins, some visitors report extra scrutiny at U. S. airports Politics Jun 9, 2025 4:45 PM EDT MIAMI (AP) —...",
+      "published": "Mon, 09 Jun 2025 20:45:45 GMT"
     },
     {
-      "id": "1d27afec2df86b7f106dd1f966f4265f",
-      "title": "At least 7 dead after wave of explosions hit southwest Colombia, authorities say - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/10/americas/colombia-cali-explosions-intl-latam",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2218930600.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "At least 7 dead after wave of explosions hit southwest Colombia, authorities say By Mitchell McCluskey, Michael Rios, Stefano Pozzebon, Fernando Ramos and Gerardo Lemos, CNN Updated 7:27 PM EDT, Tue June 10, 2025 Police officers work at the site where a bus exploded in front of a police station in Villa Rica, Cauca department, Colombia, on June 10. Joaquin...",
-      "published": "Tue, 10 Jun 2025 23:27:00 GMT"
+      "id": "a1113ec483ed49e71a8c38db44677543",
+      "title": "Rioters attack police and torch houses for a second night in Northern Ireland - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/northern-ireland/rioters-attack-police-torch-houses-second-night-northern-ireland-rcna212267",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250611-Northern-Ireland-RS-4f429b.jpg",
+      "summary": "BREAKING: Price growth holds steady despite Trump’s volatile trade war Rioters attack police and torch houses for a second night in Northern Ireland Some 32 officers have been injured since Monday amid protests over the alleged sexual assault of a teenage girl. Two 14-year-old boys appeared in court Tuesday. A vehicle is set alight during an anti-immigration demonstration in Ballymena,...",
+      "published": "Wed, 11 Jun 2025 10:50:25 GMT"
     },
     {
       "id": "29425c6aad0920d676738ddcd4929df1",
@@ -105,13 +132,13 @@
       "published": "Tue, 10 Jun 2025 18:27:29 GMT"
     },
     {
-      "id": "7390505b2ab4bb7c60ca1c6d73c60506",
-      "title": "Chinese Aircraft Carrier Operating Near Iwo Jima for First Time - USNI News",
-      "source": "USNI News",
-      "url": "https://news.usni.org/2025/06/09/chinese-aircraft-carrier-operating-near-iwo-jima-for-first-time",
-      "image_url": "https://news.usni.org/wp-content/uploads/2023/01/Screenshot-2023-01-02-at-9.30.37-AM.png",
-      "summary": "Chinese Aircraft Carrier Operating Near Iwo Jima for First Time Chinese aircraft carrier Liaoning in the Philippine Sea. JSDF Photo The People’s Liberation Army Navy Liaoning Carrier Strike Group is operating southeast of Iwo Jima for the first time in one of the farthest deployments to date for the Chinese aircraft carrier, according to Japanese officials. On Saturday at 6...",
-      "published": "Mon, 09 Jun 2025 20:59:00 GMT"
+      "id": "db222d9270c2d8653651c29b35b53b59",
+      "title": "Argentina’s Kirchner to be banned from politics after graft conviction upheld - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e37024ed-8d04-47c2-8e06-7b23d0363646",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F292a2efa-2c4b-45d1-8381-0a579fdaea61.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Argentina’s Kirchner to be banned from politics after graft conviction upheld Peronist leader had remained biggest opposition voice to Javier Milei despite 2022 corruption ruling Argentina’s Kirchner to be banned from politics after graft conviction upheld on x (opens...",
+      "published": "Tue, 10 Jun 2025 20:38:40 GMT"
     },
     {
       "id": "03125356789995b28def7112aba74eeb",
@@ -123,67 +150,40 @@
       "published": "Wed, 11 Jun 2025 01:11:00 GMT"
     },
     {
-      "id": "26ad3a0adff6173b1bc05de355d37f0e",
-      "title": "A New Militia Emerges in Gaza, Backed By Israel - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/10/1253920692/a-new-militia-emerges-in-gaza-backed-by-israel",
-      "image_url": "https://media.npr.org/assets/img/2025/06/10/ap25160671898160_wide-576fad0f29326e45551ab23e68b6b07e8994daa4.jpg?s=1400&c=100&f=jpeg",
-      "summary": "A New Militia Emerges in Gaza, Backed By Israel Displaced Palestinians walk trough a makeshift tent camp in the Gaza City port on Monday. A new powerful group has risen in Gaza and they are being armed by Israel. The militia calls itself \"The Popular Forces\" and they are presenting themselves as a counter to Hamas' rule of the territory.",
-      "published": "Tue, 10 Jun 2025 21:35:13 GMT"
+      "id": "6bd676b560d6090d1cea5323d3629ab5",
+      "title": "China Sends Two Aircraft Carriers Into the Pacific for the First Time - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/10/world/asia/china-aircraft-carriers.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Tue, 10 Jun 2025 20:36:51 GMT"
     },
     {
-      "id": "a6a9cb98e04673a60d33ee8dd2c99bfb",
-      "title": "As Trump’s new travel ban begins, some visitors report extra scrutiny at U.S. airports - PBS",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/politics/as-trumps-new-travel-ban-begins-some-visitors-report-extra-scrutiny-at-u-s-airports",
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/2025-06-09T043130Z_956212152_RC2QYEA2AFIN_RTRMADP_3_USA-TRAVEL-1024x683.jpg",
-      "summary": "Urge Congress: Protect PBS Funding Your favorite shows at PBS are in danger of going away. The federal funding that supports local stations and public media is under threat. By — Gisela Salomon, Associated Press As Trump’s new travel ban begins, some visitors report extra scrutiny at U. S. airports Politics Jun 9, 2025 4:45 PM EDT MIAMI (AP) —...",
-      "published": "Mon, 09 Jun 2025 20:45:45 GMT"
+      "id": "1d27afec2df86b7f106dd1f966f4265f",
+      "title": "At least 7 dead after wave of explosions hit southwest Colombia, authorities say - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/10/americas/colombia-cali-explosions-intl-latam",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2218930600.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "LA mayor orders downtown curfew in response to protests. Trump to phase out FEMA after hurricane season. BTS reunion on horizon. At least 7 dead after wave of explosions hit southwest Colombia, authorities say By Mitchell McCluskey, Michael Rios, Stefano Pozzebon, Fernando Ramos and Gerardo Lemos, CNN Updated 7:27 PM EDT, Tue June 10, 2025 Police officers work at the...",
+      "published": "Tue, 10 Jun 2025 23:27:00 GMT"
     },
     {
-      "id": "bd59e44e0f462ae6ece4f0bdd3593586",
-      "title": "Claiming ‘significant progress’ in hostage talks, Netanyahu convenes top officials - The Times of Israel",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/claiming-significant-progress-in-hostage-talks-netanyahu-convenes-top-officials/",
-      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/vlcsnap-2025-06-10-16h50m01s024-copy.jpg",
-      "summary": "Claiming ‘significant progress’ in hostage talks, Netanyahu convenes top officials PM discusses ‘next steps’ with ministers, IDF chief after Trump reportedly demands end to war; Arab official tells ToI optimistic statements meant to forestall coalition collapse Prime Minister Benjamin Netanyahu speaks in a video message on June 10, 2025 (Screencapture/GPO) Prime Minister Benjamin Netanyahu said on Tuesday there has been...",
-      "published": "Tue, 10 Jun 2025 20:49:00 GMT"
+      "id": "f46967f1b9ed4b806058146ef44c5101",
+      "title": "May 2025 was second-hottest on record, EU scientists say - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/2025-second-hottest-global-record-eu-scientists-climate-change-dry-temperature-fossil-fuel-green-deal/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/10/GettyImages-2165961526-scaled.jpg",
+      "summary": "May 2025 was second-hottest on record, EU scientists say",
+      "published": "Wed, 11 Jun 2025 03:01:00 GMT"
     },
     {
-      "id": "f6cea2a0c03aff90469cacec01ce7080",
-      "title": "7,000 activists begin 300-vehicle convoy from Tunisia to Rafah, aim to open corridor - The Jerusalem Post",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-857251",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/667307",
-      "summary": "7,000 activists begin 300-vehicle convoy from Tunisia to Rafah, aim to open corridor The Maghreb Resilience Convoy's 300-vehicle caravan departed from Tunis on Monday morning, before crossing the Libyan border on Tuesday. Over 7,000 pro-Palestinian activists from Mauritania, Morocco, Algeria, Tunisia and Libya, begun a protest convoy on Monday, with the aim to reach the Rafah crossing by land. (photo...",
-      "published": "Tue, 10 Jun 2025 17:36:43 GMT"
-    },
-    {
-      "id": "399666ec157df86bdf723de5c3f5f678",
-      "title": "Trump to ramp up transfers to Guantánamo, including citizens of allies - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2025/06/10/trump-guantanamo-deportations/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CD2OZDLMJ452DG43MRJXFUFAMM.JPG&w=1440",
-      "summary": "Trump to ramp up transfers to Guantánamo, including citizens of allies The administration is preparing to send thousands of foreigners to the infamous detention facility, including people from Britain, France and Italy, with no plans to notify their home governments, officials said. Holding tents at the U. S. military facility in Guantánamo Bay, Cuba, in February. (U.S. Navy/AFN Guantánamo Bay...",
-      "published": "Wed, 11 Jun 2025 04:19:41 GMT"
-    },
-    {
-      "id": "f693f4665af0a292b3267f3f29b36608",
-      "title": "Russia planning attack on Nato ‘to test article 5’, warns Germany - The Times",
-      "source": "The Times",
-      "url": "https://www.thetimes.com/world/russia-ukraine-war/article/attack-nato-germany-9700tn2z2",
-      "image_url": "https://www.thetimes.com/imageserver/image/%2Fa9012c6a-384d-4241-849b-a3394ad0aef4.jpg?crop=1500%2C844%2C0%2C78&resize=1200",
-      "summary": "Now showing content from the last twelve months, not just the past six days. Russia planning attack on Nato ‘to test article 5’, warns Germany Chief of Germany’s foreign intelligence service fears Moscow wants to push the West’s alliance back to its 1990s boundaries and ‘kick out’ the US from Europe President Putin is planning an attack on a Nato...",
-      "published": "Tue, 10 Jun 2025 18:30:58 GMT"
-    },
-    {
-      "id": "8cacc08f2efbb509d89e800fe8f4e4e1",
-      "title": "Forget bombers and combat drones: Ukraine may have just cornered the Russian military with a potentially devas - Diario AS",
-      "source": "Diario AS",
-      "url": "https://en.as.com/latest_news/forget-bombers-and-combat-drones-ukraine-may-have-just-cornered-the-russian-military-with-a-potentially-devastating-loss-n/",
-      "image_url": "https://img.asmedia.epimg.net/resizer/v2/TJMTTJQD4FNH4GRT7P3BAXYZRE.jpg?auth=377792add814d3be6860d16d1a7ddc9f4f418e1bd43990aed2ebdb5738595928&width=1472&height=828&focal=2113%2C826",
-      "summary": "Use as.com with personalized advertising, tracking and cookies free of charge. This model will allow you to continue browsing as before. The acceptance of cookies and similar technologies will involve the collection and use of your browsing information for advertising and personalisation purposes according to your interests. This advertising is essential for us to continue offering quality content, effective services...",
-      "published": "Mon, 09 Jun 2025 23:59:28 GMT"
+      "id": "5c8c3c85191c8d0077f81bd096fba2f2",
+      "title": "Macron says France will ban social media for under-15s if EU does not - Euronews.com",
+      "source": "Euronews.com",
+      "url": "https://www.euronews.com/my-europe/2025/06/10/macron-says-france-will-ban-social-media-access-for-under-15s-if-eu-takes-no-action",
+      "image_url": "https://static.euronews.com/articles/stories/09/32/30/74/1200x675_cmsv2_4a3e3f98-3803-5229-825d-241791049e0e-9323074.jpg",
+      "summary": "With your agreement, we and our 191 partners use cookies or similar technologies to store, access, and process personal data like your visit on this website, IP addresses and cookie identifiers. Some partners do not ask for your consent to process your data and rely on their legitimate business interest. You can withdraw your consent or object to data processing...",
+      "published": "Tue, 10 Jun 2025 19:15:25 GMT"
     }
   ]
 }
