@@ -1,162 +1,117 @@
 {
   "metadata": {
     "source_file": "data/news_sports.json",
-    "generation_time": "2025-06-11 12:54:58",
+    "generation_time": "2025-06-11 18:44:06",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "8ddfe132318809fa26869f5f0ac00b51",
-      "title": "USMNT humiliated by Switzerland 4-0; Pochettino’s squad loses fourth straight - The Athletic - The New York Times",
+      "id": "e3aec84771eb2741387ccfb02b85dc73",
+      "title": "Mock Trade: Kevin Durant ends up in his preferred destination, while the Suns recoup a star-level player in a three-team deal - Bright Side Of The Sun",
+      "source": "Bright Side Of The Sun",
+      "url": "https://www.brightsideofthesun.com/2025/6/11/24446956/kevin-durant-trade-rumors-suns-lauri-markkanen-spurs-jazz-three-team-nba-draft-picks",
+      "image_url": "https://cdn.vox-cdn.com/thumbor/vcP803F8Eupaq3-AjzEaIxM9s8E=/0x244:4471x2585/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/26024321/usa_today_25776411.jpg",
+      "summary": "Follow Bright Side Of The Sun online: Bright Side Of The Sun main menu Mock Trade: Kevin Durant ends up in his preferred destination, while the Suns recoup a star-level player in a three-team deal This one is interesting and fun. Let’s dive into it. By Bruce Veliz Jun 11, 2025, 5:00am MST 22 Comments / 22 New Share this...",
+      "published": "Wed, 11 Jun 2025 12:00:00 GMT"
+    },
+    {
+      "id": "c54c24e9d20b0fb70869e2c86abce725",
+      "title": "U.S. Open 2025: What to know about Oakmont’s top contenders - The New York Times",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/athletic/6417834/2025/06/10/usmnt-switzerland-friendly-pochettino-four-straight-losses/",
-      "image_url": "https://static01.nyt.com/athletic/uploads/wp/2025/06/10213922/AP25162053723151-scaled.jpg?width=1200&height=630&fit=cover",
-      "summary": "USMNT humiliated by Switzerland 4-0; Pochettino’s squad loses fourth straight June 11, 2025Updated 4:17 am UTC In what felt like the lowest the program has been since failing to qualify for the 2018 World Cup eight years ago in Couva, Trinidad, the U. S. men’s national team fell, 4-0, to Switzerland on Tuesday night. The circumstances, of course, were far...",
-      "published": "Wed, 11 Jun 2025 04:17:37 GMT"
+      "url": "https://www.nytimes.com/athletic/6417343/2025/06/11/us-open-2025-top-contenders/",
+      "image_url": "https://static01.nyt.com/athletic/uploads/wp/2025/06/10171139/0611_10things.jpg?width=1200&height=630&fit=cover",
+      "summary": "U.S. Open 2025: What to know about Oakmont’s top contenders Recently, the majors in men’s golf have been particularly top-heavy. Four players — Scottie Scheffler, Rory McIlroy, Xander Schauffele and Bryson DeChambeau — have combined to win the last six contests. Five of the six wins have come when those players were ranked either first, second or third in the...",
+      "published": "Wed, 11 Jun 2025 11:00:54 GMT"
     },
     {
-      "id": "8beea4e80a38fdb3d8f84600bcdc4290",
-      "title": "Micah Parsons will attend training camp but won’t commit to participating without a deal - NBC Sports",
+      "id": "072f7ebb862ef2525d4b9bc6b83ddc1c",
+      "title": "Group of Women Athletes Files Appeal of House v. NCAA Settlement Approval - Front Office Sports",
+      "source": "Front Office Sports",
+      "url": "https://frontofficesports.com/group-of-women-athletes-files-appeal-of-house-v-ncaa-settlement-approval/",
+      "image_url": "https://frontofficesports.com/wp-content/uploads/2025/06/USATSI_25604999_168416386_lowres-scaled.jpg?quality=100",
+      "summary": "Group of Women Athletes Files Appeal of House v. NCAA Settlement Approval It’s the first appeal of the landmark settlement. In it, athletes argue that the terms violate Title IX, the statute governing gender equity in sports. A group of eight women filed an appeal of the House v. NCAA settlement approval on Wednesday, arguing that it violates the Title...",
+      "published": "Wed, 11 Jun 2025 17:10:56 GMT"
+    },
+    {
+      "id": "dd3210e96afa97480630b1dfc1236077",
+      "title": "Deion Sanders says everything is OK as he deals with health issue - NBC Sports",
       "source": "NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-will-attend-training-camp-but-wont-commit-to-participating-without-a-deal",
-      "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/31c4906/2147483647/strip/true/crop/5988x3368+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc9%2F79%2F009d49644f92bce11b93d8aa7361%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D19748816",
-      "summary": "Micah Parsons will attend training camp but won’t commit to participating without a deal Published June 10, 2025 05:25 PM 0 seconds of 6 minutes, 29 seconds Cowboys defensive end Micah Parsons attended the mandatory minicamp Tuesday, but he did not participate as he awaits a contract extension. Parsons spent nearly 30 minutes talking to owner Jerry Jones during the...",
-      "published": "Tue, 10 Jun 2025 21:26:16 GMT"
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-says-everything-is-ok-as-he-deals-with-health-issue",
+      "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/bf69920/2147483647/strip/true/crop/8256x4644+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F3d%2F1a89a044439099bad3a1e893546c%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2211428784",
+      "summary": "Deion Sanders says everything is OK as he deals with health issue Published June 11, 2025 10:56 AM 0 seconds of 4 minutes, 51 seconds Colorado coach Deion Sanders is currently away from his team and recuperating in Texas from an unspecified medical issue, but he put out a statement today saying he is OK. “Wow, I am truly blessed...",
+      "published": "Wed, 11 Jun 2025 14:56:57 GMT"
     },
     {
-      "id": "bf97bbe71da724476b8fdada45565f8e",
-      "title": "2025 NBA Finals: 4 things to watch for in Game 3 - NBA",
-      "source": "NBA",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QOC1qMklnTXB2ZjhwMC1sNVo1V2RSZjZkLWFzX3Nndk4zR21KQk12MExRS29rV2VFMXRBNVZHWkJDRVNNNUZKNTZnZW91Zmx4ZWxZOWRiOFhBcEVpOWRJTEpsc2ZnQQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 10 Jun 2025 16:50:34 GMT"
+      "id": "4aa50490e5a18e33f5ede3aa64d0f4c4",
+      "title": "‘Just another day in the NFL’ as Steelers QB Mason Rudolph lands back in familiar place - Pittsburgh Post-Gazette",
+      "source": "Pittsburgh Post-Gazette",
+      "url": "https://www.post-gazette.com/sports/steelers/2025/06/11/mason-rudolph-aaron-rodgers-backup-steelers/stories/202506110053",
+      "image_url": "https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/20250610SFSteelersMinicampK-8-1749642945.jpg",
+      "summary": "Wednesday, June 11, 2025, 6:41PM |  80° Rudolph is a legitimate NFL backup quarterback, which is really a pretty nice gig. Including his guaranteed money this year he's made about $16 million, and he seems a sure bet to have at least 5 more years in the league, barring the very unlikely event of a serious injury. I wish Mason...",
+      "published": "Wed, 11 Jun 2025 11:55:18 GMT"
     },
     {
-      "id": "a56e21bbc22141c2ed204e40eda2f749",
-      "title": "Aaron Rodgers says decision to sign with Steelers 'was best for my soul' - NFL.com",
-      "source": "NFL.com",
-      "url": "https://www.nfl.com/news/aaron-rodgers-says-decision-to-sign-with-steelers-was-best-for-my-soul",
-      "image_url": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/s5voq8kmcvtganqophq5",
-      "summary": "Aaron Rodgers says decision to sign with Steelers 'was best for my soul' Published: Jun 10, 2025 at 05:44 PM Aaron Rodgers speaks with media after first day of Steelers minicamp | 'Up To The Minute' The second week of June brought the football world their first look at Aaron Rodgers, Pittsburgh Steeler. It's a partnership that was finalized when...",
-      "published": "Tue, 10 Jun 2025 21:44:00 GMT"
-    },
-    {
-      "id": "8d1f07c6b312a68c9cbb39aaa5c50418",
-      "title": "Roman Anthony Shines In Red Sox Win With Family In Attendance - NESN",
-      "source": "NESN",
-      "url": "https://nesn.com/2025/06/roman-anthony-shines-in-red-sox-win-with-family-in-attendance/",
-      "image_url": "https://s47719.pcdn.co/wp-content/uploads/sites/5/2025/06/Roman-Anthony.jpg",
-      "summary": "Roman Anthony Shines In Red Sox Win With Family In Attendance In only his second game for the Boston Red Sox, former number one prospect Roman Anthony has already shown himself to be a difference maker. The 21 year-old hit a double in the first inning, bringing in both Rafael Devers and Carlos Narváez. It was Anthony’s first career MLB...",
-      "published": "Wed, 11 Jun 2025 04:05:52 GMT"
-    },
-    {
-      "id": "6a005c3628db5773794bfdb9d8de8038",
-      "title": "U.S. Open 2025: First-round tee times, groupings and featured groups Thursday at Oakmont - Yahoo Sports",
+      "id": "817312b8266b52b2b12b94a06489ea3d",
+      "title": "NBA Finals 2025: Behind the change in the Thunder's attack that delivered a punch to the Pacers - Yahoo Sports",
       "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/article/u-open-2025-first-round-132453427.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/4aRPViiOYc88DofbZh7E7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/the_golf_channel_404/0a30cc2ed42c1f8c72615b7502fd1262",
-      "summary": "NFL minicamps: Holdouts and live updates U. S. Open 2025: First-round tee times, groupings and featured groups Thursday at Oakmont U. S. Open 2025: First-round tee times, groupings and featured groups Thursday at Oakmont The 125th U. S. Open gets underway Thursday at Oakmont Country Club. USA Network and Peacock will have live action with these featured groups exclusively on...",
-      "published": "Tue, 10 Jun 2025 13:24:53 GMT"
+      "url": "https://sports.yahoo.com/nba/article/nba-finals-2025-behind-the-change-in-the-thunders-attack-that-delivered-a-punch-to-the-pacers-131712846.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/AdgpvIoD.q2AIjoppndlkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/fda2ab90-44d3-11f0-b569-a866b4e6f987",
+      "summary": "NBA Finals 2025: Behind the change in the Thunder's attack that delivered a punch to the Pacers INDIANAPOLIS — After an emphatic 123-107 win over the Indiana Pacers in Game 2 of the 2025 NBA Finals, Oklahoma City Thunder superstar Shai Gilgeous-Alexander credited his team’s bounce-back performance to a willingness to not “just throw the first punch,” but to continue...",
+      "published": "Tue, 10 Jun 2025 13:17:12 GMT"
     },
     {
-      "id": "93c5525bc6d1ca9c5843df46d0e1140f",
-      "title": "How worried should England fans be after defeat by Senegal? - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/articles/c5yg71jw00vo",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7128/live/8ff97190-469b-11f0-bbc5-cd6840bd40cf.jpg",
-      "summary": "How worried should England fans be after defeat by Senegal? England's defeat by Senegal was their first since a 2-1 loss to Greece in October With exactly one year to go until the start of the 2026 World Cup, England do not look like a side ready to end 60 years of hurt. They were beaten 3-1 by Senegal at...",
-      "published": "Wed, 11 Jun 2025 09:54:19 GMT"
+      "id": "42a8253b967a1359078bba4037ba6190",
+      "title": "RandBall: Wolves reportedly shut down Knicks’ attempt to poach Chris Finch - Star Tribune",
+      "source": "Star Tribune",
+      "url": "https://www.startribune.com/randball-wolves-reportedly-shut-down-knicks-attempt-to-poach-chris-finch/601370740",
+      "image_url": "https://arc.stimg.co/startribunemedia/7LMBX5NWKVCI5OVFCFKNUZB6NE.JPG?&w=1200&ar=1.91:1&fit=crop",
+      "summary": "This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. RandBall: Wolves reportedly shut down Knicks’ attempt to poach Chris Finch New York’s search to replace Tom Thibodeau was already comical and nonsensical. Now it’s personal, Michael Rand says in his 10 things to know today. Karl Anthony Towns...",
+      "published": "Wed, 11 Jun 2025 15:33:23 GMT"
     },
     {
-      "id": "0a0ba5cd7e1db1e45a137de9d8a19c43",
-      "title": "Carlie Irsay-Gordon explains her habit of wearing a headset during games - NBC Sports",
-      "source": "NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carlie-irsay-gordon-explains-her-habit-of-wearing-a-headset-during-games",
-      "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/49646f2/2147483647/strip/true/crop/4009x2255+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F60%2F12%2F50ff9aba4f23b2c06ebdcada65ad%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D19747783",
-      "summary": "Carlie Irsay-Gordon explains her habit of wearing a headset during games Published June 10, 2025 08:46 PM 0 seconds of 4 minutes, 13 seconds In the days since Carlie Irsay-Gordon has become the principal owner of the Colts, many have pointed out that she has a habit of wearing a headset during games. Maybe more owners should do it. Via...",
-      "published": "Wed, 11 Jun 2025 00:48:05 GMT"
+      "id": "84b25ba85d7d5e63cfcd905bec272589",
+      "title": "‘Oh f**k’: Sean O’Malley describes how Merab Dvalishvili submitted him, admits ‘I don’t feel sad at all’ after loss - MMA Fighting",
+      "source": "MMA Fighting",
+      "url": "https://www.mmafighting.com/2025/6/11/24447069/oh-f-k-sean-omalley-describes-merab-dvalishvili-submitted-him-admits-dont-feel-sad-at-all-after-loss",
+      "image_url": "https://cdn.vox-cdn.com/thumbor/AylJLRpZAYWTBPloxgAP48knabY=/0x0:4912x2572/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/26024519/2219389037.jpg",
+      "summary": "All 300 communities on Horizontal - White ‘Oh f**k’: Sean O’Malley describes how Merab Dvalishvili submitted him, admits ‘I don’t feel sad at all’ after loss By Damon Martin@DamonMartin Jun 11, 2025, 9:00am EDT 40 Comments / 40 New Damon Martin is a veteran journalist and insider covering combat sports since 2003. Sean O’Malley didn’t think he was in serious...",
+      "published": "Wed, 11 Jun 2025 13:00:00 GMT"
     },
     {
-      "id": "d0792c66dfebbee3933b308d3a32fca3",
-      "title": "Watch Messi for $4 at Club World Cup? FIFA offering drastic discounts to opening game - The Athletic - The New York Times",
+      "id": "ab460cf6c402f349ae1a8c63a8157287",
+      "title": "Anonymous MLB player poll: Shohei Ohtani? Bobby Witt Jr.? Here’s who players love watching most - The Athletic - The New York Times",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/athletic/6417719/2025/06/10/fifa-club-world-cup-messi-tickets/",
-      "image_url": "https://static01.nyt.com/athletic/uploads/wp/2025/05/18221922/GettyImages-2215293717-scaled.jpg?width=1200&height=630&fit=cover",
-      "summary": "Watch Messi for $4 at Club World Cup? FIFA offering drastic discounts to opening game June 11, 2025Updated 3:12 am UTC FIFA’s latest attempts to fill Hard Rock Stadium for the Club World Cup opening match between Inter Miami and Egyptian team Al-Ahly involve offering students at an affiliated local college a single ticket for $20 — but with the...",
-      "published": "Wed, 11 Jun 2025 01:52:18 GMT"
+      "url": "https://www.nytimes.com/athletic/6406626/2025/06/11/mlb-player-poll-ohtani-soto-watch-2025/",
+      "image_url": "https://static01.nyt.com/athletic/uploads/wp/2025/06/10172421/0611_MLB_Polls_Main.png?width=1200&height=630&fit=cover",
+      "summary": "Anonymous MLB player poll: Shohei Ohtani? Bobby Witt Jr. ? Here’s who players love watching most Kaci Borowski and The Athletic MLB Staff June 11, 2025Updated 1:52 pm UTC We’re not exactly sure where the months went, but the calendar tells us that it is indeed June, which means it’s once again time for The Athletic’s annual MLB Player Poll.",
+      "published": "Wed, 11 Jun 2025 13:52:43 GMT"
     },
     {
-      "id": "ce21281dc078ad61d20108132ead6cc0",
-      "title": "Jim Harbaugh underwent cardiac ablation, hip replacement surgery this offseason - NBC Sports",
+      "id": "e991be4afc2c7b637f11f91a9cc936e1",
+      "title": "Roman Anthony’s sister Lia becomes breakout star during top prospect’s second Red Sox game - New York Post",
+      "source": "New York Post",
+      "url": "https://nypost.com/2025/06/11/sports/roman-anthonys-sister-becomes-breakout-star-during-his-second-red-sox-game/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2025/06/newspress-collage-ombkgxyir-1749646188078.jpg?quality=75&strip=all&1749631918&w=1024",
+      "summary": "Bikini-clad Livvy Dunne gives intimate look at her ‘East Coast summer’ in new photos Paulina Gretzky stuns in sultry new photoshoot with shirtless Dustin Johnson ahead of US Open Danica Patrick sets record straight on dating life after detailing ‘emotionally abusive’ Aaron Rodgers relationship Ex-NASCAR driver Danica Patrick weighs in on Riley Gaines and Simone Biles’ social media feud over...",
+      "published": "Wed, 11 Jun 2025 12:59:00 GMT"
+    },
+    {
+      "id": "99adc0f69091a1c21a342f680582882b",
+      "title": "NFL Betting 2025: Win totals for every AFC team - PFF",
+      "source": "PFF",
+      "url": "https://www.pff.com/news/nfl-betting-2025-win-totals-for-every-afc-team",
+      "image_url": "https://media.pff.com/2025/06/Allen-scaled.jpg?w=1200&h=675",
+      "summary": "NFL Betting 2025: Win totals for every AFC team Posted Jun 10, 2025 9:44 am EDT Bills draw favorable schedule, top PFF’s projected win totals: Buffalo benefits from a soft AFC East and NFC South draw, helping propel them to a league-best 11. 6 projected wins, just enough to clear the 11. 5 line. The Aaron Rodgers era begins in...",
+      "published": "Tue, 10 Jun 2025 13:44:36 GMT"
+    },
+    {
+      "id": "3ca9dbe688a7557ce4a50df0187a94f9",
+      "title": "2026 World Cup predictions: With one year to go, here are some (very) early predictions - NBC Sports",
       "source": "NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-underwent-cardiac-ablation-hip-replacement-surgery-this-offseason",
-      "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/9847c56/2147483647/strip/true/crop/8001x4501+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F69%2F13%2F5d48b6b34a24aa1bb5c27d05588f%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D26240996",
-      "summary": "Jim Harbaugh underwent cardiac ablation, hip replacement surgery this offseason Published June 10, 2025 10:26 PM 0 seconds of 4 minutes, 13 seconds Chargers coach Jim Harbaugh underwent two scheduled medical procedures this offseason. Harbaugh, 61, said Tuesday he’s in tip-top shape after a cardiac ablation and hip replacement surgery. “The doctors can’t find anything wrong with me,” Harbaugh said,...",
-      "published": "Wed, 11 Jun 2025 02:31:49 GMT"
-    },
-    {
-      "id": "2e08e273897564ef760c5d62d4f5e558",
-      "title": "Knicks Reportedly Denied Ime Udoka, Chris Finch HC Interviews amid Jason Kidd Rumors - Bleacher Report",
-      "source": "Bleacher Report",
-      "url": "https://bleacherreport.com/articles/25204668-knicks-reportedly-denied-ime-udoka-chris-finch-hc-interviews-amid-jason-kidd-rumors",
-      "image_url": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2213137576_large_image.jpg?w=3800&h=2000",
-      "summary": "Knicks Reportedly Denied Ime Udoka, Chris Finch HC Interviews amid Jason Kidd Rumors The New York Knicks reportedly reached out to the Houston Rockets and Minnesota Timberwolves for permission to speak with head coaches Ime Udoka and Chris Finch, respectively, but were denied by both teams. SNY's Ian Begley reported on the Rockets rumor, and former New York sports radio...",
-      "published": "Wed, 11 Jun 2025 03:05:41 GMT"
-    },
-    {
-      "id": "13f947ebd80707b584d824ed1bb05951",
-      "title": "Sean McVay: Matthew Stafford-Davante Adams relationship is \"cool to watch\" - NBC Sports",
-      "source": "NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-matthew-stafford-davante-adams-relationship-is-cool-to-watch",
-      "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/cbd6957/2147483647/strip/true/crop/3060x1721+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2Fc6%2Faa0aef104f3ab0974400c5f3c3cd%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2217176738",
-      "summary": "Sean McVay: Matthew Stafford-Davante Adams relationship is “cool to watch” Published June 11, 2025 06:49 AM 0 seconds of 7 minutes, 24 seconds Rams quarterback Matthew Stafford is heading into his 17th NFL season and Rams wide receiver Davante Adams is heading into his 12th, but they’ve never played together before. Which makes their work together this offseason particularly important.",
-      "published": "Wed, 11 Jun 2025 10:50:36 GMT"
-    },
-    {
-      "id": "b51fe803b729f39c7a5cd3ef41ad8fa1",
-      "title": "2025 NCAA Men's Outdoor Preview: A Classic 1500, Loaded Steeple, & Can 3 UNM Guys Win the Team Title? - LetsRun.com",
-      "source": "LetsRun.com",
-      "url": "https://www.letsrun.com/news/2025/06/2025-ncaa-mens-outdoor-preview-a-classic-1500-loaded-steeple-can-3-unm-guys-win-the-team-title/",
-      "image_url": "https://www.letsrun.com/wp-content/uploads/2025/01/Murphy-Strand-SF1a-Trials24-1024x768.jpg",
-      "summary": "Where Your Dreams Become Reality 2025 NCAA Men’s Outdoor Preview: A Classic 1500, Loaded Steeple, & Can 3 UNM Guys Win the Team Title? NCAAs start on Wednesday in Eugene and the men's 1500 is shaping up to be an incredible race 2025 NCAA Outdoor Championships View LetsRun. com Event Coverage Theoretically, it shouldn’t be that difficult to predict the...",
-      "published": "Tue, 10 Jun 2025 22:53:37 GMT"
-    },
-    {
-      "id": "4087047e22968cbcb5e8d2315ca30513",
-      "title": "Report: Broncos are signing running back J.K. Dobbins to a one-year deal - Mile High Report",
-      "source": "Mile High Report",
-      "url": "https://www.milehighreport.com/2025/6/10/24446916/report-broncos-are-signing-running-back-j-k-dobbins-to-a-one-year-deal",
-      "image_url": "https://cdn.vox-cdn.com/thumbor/BJ40_g7NtzNZHL0bRIn5SBhXt7g=/0x0:5102x2671/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/26024253/2193254100.jpg",
-      "summary": "Follow Mile High Report online: Report: Broncos are signing running back J. K. Dobbins to a one-year deal The Broncos are signing veteran running back J. K. Dobbins to improve their backfield. By Scotty Payne@Skotty_Payne Jun 10, 2025, 1:46pm MDT 141 Comments / 141 New According to just about every NFL insider, the Denver Broncos have signed veteran running back...",
-      "published": "Tue, 10 Jun 2025 19:46:49 GMT"
-    },
-    {
-      "id": "01c3e8c4116bb0e32fc9025bfb6b4c08",
-      "title": "ESPN’s Jay Bilas predicts NIL settlement will end transfers: ‘Players aren’t going to go anywhere’ - NJ.com",
-      "source": "NJ.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRmtjVDZlVVVaUDl3elVXLUtMLXZLMTBMZF8zUXhNZEEzOWE2YlZEQlJzN1J2LVdGVjQxaWNCQi04WV9QTXdMamUzblRNRHJHV0tLaFhvd2ZaLXdVN0l4NlZQcXNTUVE0dWpaTmpQQlRJQVRfblZtMmV5NkJZWWl6VjFrU0c2a1JwNkJlb1VfQ2lmUEtRVVBjRE5qR0wtV0Fid1h1QVhfRGtiSGZVLXdXZi1HWm5ZMHJQOEZqVXVUSnMtWDNFUmxnZNIB3AFBVV95cUxORmUxWjM2V1kwUDFkU1g0UFpOWVJ2WExPbXVIZzFjOGwySnA5V0FyWnF1bnMwUVJsYXdBZWdjN05YdEZiU20zZ21OSDdSTTlnVjlCc19Rako2TDlHbzA4d0Jxc1BpTEdFQWRxV0lTZ2FnNmMtZW9GQ0xUMnZsdmdsV1FuSGtHaTVockpwZXY3X3Vna25maVBLRDRBZU9acWZwMkQtMmlicGZxQU5NV2FwQXdidDVDeGZhazFLeXNlLTZuX0VvazkxVDN1eTNyNVZJcFJla1QtMTRBOUFL?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 10 Jun 2025 20:01:00 GMT"
-    },
-    {
-      "id": "5687f14462f3e1522268396138456a24",
-      "title": "Everything you need to know about new Le Mans qualifying format - The Race",
-      "source": "The Race",
-      "url": "https://www.the-race.com/endurance/everything-you-need-to-know-about-new-le-mans-qualifying-format/",
-      "image_url": "https://www.the-race.com/content/images/size/w1200/2025/06/XPB_1352536_HiRes.jpg",
-      "summary": "Read for free with ads and cookies I agree to the use of cookies and similar technologies to serve relevant advertising and improve my service Pay to read The Race without adverts or cookies used for personalised ads By logging in, you agree to our use of third-party and analytics cookies to enhance your experience and improve our services. For...",
-      "published": "Wed, 11 Jun 2025 10:25:47 GMT"
-    },
-    {
-      "id": "e5ced02ef8701e99f9cdb38bc17219a6",
-      "title": "Why Browns QB Shedeur Sanders slept with his flashlight on, and where he’s grown the most since the draft - Cleveland.com",
-      "source": "Cleveland.com",
-      "url": "https://www.cleveland.com/browns/2025/06/why-browns-qb-shedeur-sanders-slept-with-his-flashlight-on-and-where-hes-grown-the-most-since-the-draft.html",
-      "image_url": "https://www.cleveland.com/resizer/v2/A3BUZNOACVAWHEWFRISGIX77BU.JPG?auth=e2800eb7d91e176cc32d96112768b0db5a84dc5dd70cb941f2ff5511c8a8386c&width=1280&quality=90",
-      "summary": "Summer Sale - Start Today for $1 - Expires 6/30/25 Why Browns QB Shedeur Sanders slept with his flashlight on, and where he’s grown the most since the draft Updated: Jun. 11, 2025, 8:42 a. m.|Published: Jun. 10, 2025, 8:33 p. m. Cleveland Browns' veteran minicamp, June 10, 2025 By Mary Kay Cabot, cleveland. com BEREA, Ohio — Shedeur Sanders...",
-      "published": "Wed, 11 Jun 2025 01:57:00 GMT"
+      "url": "https://www.nbcsports.com/soccer/news/2026-world-cup-predictions-with-one-year-to-go-here-are-some-very-early-predictions",
+      "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/d472548/2147483647/strip/true/crop/4856x2732+0+2/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2F04%2F4d10ee3de507c4bb54a79d063e34%2Fusatsi-18548417-e1664377358141.jpg",
+      "summary": "2026 World Cup predictions: With one year to go, here are some (very) early predictions Published June 11, 2025 07:17 AM 0 seconds of 12 minutes, 9 seconds The 2026 World Cup kicks off in the USA, Mexico and Canada on June 11, 2026, so that’s one year from today and with that in mind it felt like a good...",
+      "published": "Wed, 11 Jun 2025 11:18:43 GMT"
     },
     {
       "id": "cd5654a1a23f3c1dd7d8b37162ae142f",
@@ -168,22 +123,67 @@
       "published": "Tue, 10 Jun 2025 20:13:33 GMT"
     },
     {
-      "id": "7551275cea56ccd52e132df1205e9b53",
-      "title": "For Connor McDavid and the Oilers, a new ‘dig in’ moment arrives - The Athletic - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/athletic/6415335/2025/06/10/connor-mcdavid-oilers-panthers-nhl-playoffs/",
-      "image_url": "https://static01.nyt.com/athletic/uploads/wp/2025/06/10075821/GettyImages-2219397049-scaled.jpg?width=1200&height=630&fit=cover",
-      "summary": "For Connor McDavid and the Oilers, a new ‘dig in’ moment arrives June 10, 2025Updated 1:47 pm UTC SUNRISE, Fla. — A year ago, Connor McDavid stood inside this building and channelled a lifetime’s worth of hopes, dreams and frustrations into a rallying cry he delivered to his Edmonton Oilers teammates, peppering in 14 F-bombs behind closed doors while urging...",
-      "published": "Tue, 10 Jun 2025 13:47:33 GMT"
+      "id": "93c5525bc6d1ca9c5843df46d0e1140f",
+      "title": "How worried should England fans be after defeat by Senegal? - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/football/articles/c5yg71jw00vo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7128/live/8ff97190-469b-11f0-bbc5-cd6840bd40cf.jpg",
+      "summary": "How worried should England fans be after defeat by Senegal? England's defeat by Senegal was their first since a 2-1 loss to Greece in October With exactly one year to go until the start of the 2026 World Cup, England do not look like a side ready to end 60 years of hurt. They were beaten 3-1 by Senegal at...",
+      "published": "Wed, 11 Jun 2025 09:54:19 GMT"
     },
     {
-      "id": "6f73d635d8b6f4b24e643a2a4cb7af09",
-      "title": "Andy Roddick can't believe what's happened to tennis after Roland Garros finishes, 'I certainly didn't expect it' - The Tennis Gazette",
+      "id": "8ddfe132318809fa26869f5f0ac00b51",
+      "title": "USMNT humiliated by Switzerland 4-0; Pochettino’s squad loses fourth straight - The Athletic - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/athletic/6417834/2025/06/10/usmnt-switzerland-friendly-pochettino-four-straight-losses/",
+      "image_url": "https://static01.nyt.com/athletic/uploads/wp/2025/06/10213922/AP25162053723151-scaled.jpg?width=1200&height=630&fit=cover",
+      "summary": "USMNT humiliated by Switzerland 4-0; Pochettino’s squad loses fourth straight June 11, 2025Updated 4:17 am UTC In what felt like the lowest the program has been since failing to qualify for the 2018 World Cup eight years ago in Couva, Trinidad, the U. S. men’s national team fell, 4-0, to Switzerland on Tuesday night. The circumstances, of course, were far...",
+      "published": "Wed, 11 Jun 2025 04:17:37 GMT"
+    },
+    {
+      "id": "399ab6be7650e88266ffff1fce5248f7",
+      "title": "Ohio State football’s record-breaking running back has found a new home in the NFL: Buckeye Breakfast - Cleveland.com",
+      "source": "Cleveland.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSWp2dVZFWVV1ZDFjRnN2ZlBaNjZfbjloRHhkYkdCMFJoTGJXaEw2Z2pXUXFXd2pBbElScEIteEZ2UlAxU3BXbXVVdlVWQWlPaGo0Zk50THN4TmYwajFCSERmamY0OXJndTZJXzUxbzkxT2d0ZERGS2RwaWtIX09KdUo1dTd2Szk0cHY3X25PUUMySVR2NUpsa3hZY3k4RE9lQW4xcEo0dDMtWGxxaFYzUVN5SVJyQ1hIRFppX3dmcU9lVlN3aGdvRk42UEpmcmJ4alEwcWFhbnVzZ9IB7gFBVV95cUxPRE5hUURTbFRMT09NNUxadlVvM3BDZTc2VmJwUHpRci01RVRScFk4cndvQTRzUlk4RUtuM1NFbXN6d1hPYnFHRjlfNnhwOXhPSGx3VTZtM216bjNGNkVCSDBJck1zSzE4MXFEa1ZmZm44YW8tZXptR1ZNMFVVcThGdGZkTmdSMFNsUG83dW9HcHY1OVVZSW5DakNneUJzbWZXekdnMDBLQkt6RUNTdEN2QXdadzFGZDkwal9PQU5hcHd6MUhacFl6ZFZISVZjeFNUckgtQm1abDh0VmJweWhuU3VtRGt0clV1VDVMNFF3?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 11 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "id": "6c8fdfd0ff5fb22277946777871e4777",
+      "title": "Aaron Rodgers says joining Steelers is ‘best for my soul’ and reveals recent marriage - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2025/jun/11/aaron-rodgers-steelers-nfl",
+      "image_url": "https://i.guim.co.uk/img/media/72b4aaf0013fbcf8ed1cc5b66e4a91d219448913/0_3_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=221331c6df8e0e7d0faa5904135cbc7c",
+      "summary": "Fund the free press with $5 per month Aaron Rodgers works out at the Steelers' minicamp on Tuesday. Photograph: Archie Carpenter/UPI/Shutterstock Aaron Rodgers says joining Steelers is ‘best for my soul’ and reveals recent marriage 41-year-old took time before returning for 21st NFL season Quarterback says he is keen to work with Mike Tomlin Aaron Rodgers says his decision to...",
+      "published": "Wed, 11 Jun 2025 11:41:00 GMT"
+    },
+    {
+      "id": "a327261443393418fd4328c917b87fa3",
+      "title": "With FIFA World Cup one year away, fans and politicians still aren’t sure what to expect - Los Angeles Times",
+      "source": "Los Angeles Times",
+      "url": "https://www.latimes.com/sports/soccer/story/2025-06-11/world-cup-2026-one-year-away-fans",
+      "image_url": "https://ca-times.brightspotcdn.com/dims4/default/021eb82/2147483647/strip/true/crop/5999x3149+1+320/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F4b%2Fcc73009741da959acf7ad51e44ca%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2163988249",
+      "summary": "Brian Wilson, musical genius behind the Beach Boys, dies at 82 With FIFA World Cup one year away, fans and politicians still aren’t sure what to expect Soccer fans watch a friendly match between Manchester United and Arsenal at SoFi Stadium in July 2024. SoFi Stadium is scheduled to host eight matches during the 2026 FIFA World Cup. (Ronald Martinez...",
+      "published": "Wed, 11 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "id": "d0792c66dfebbee3933b308d3a32fca3",
+      "title": "Watch Messi for $4 at Club World Cup? FIFA offering drastic discounts to opening game - The Athletic - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/athletic/6417719/2025/06/10/fifa-club-world-cup-messi-tickets/",
+      "image_url": "https://static01.nyt.com/athletic/uploads/wp/2025/05/18221922/GettyImages-2215293717-scaled.jpg?width=1200&height=630&fit=cover",
+      "summary": "Watch Messi for $4 at Club World Cup? FIFA offering drastic discounts to opening game June 11, 2025Updated 3:12 am UTC FIFA’s latest attempts to fill Hard Rock Stadium for the Club World Cup opening match between Inter Miami and Egyptian team Al-Ahly involve offering students at an affiliated local college a single ticket for $20 — but with the...",
+      "published": "Wed, 11 Jun 2025 03:12:01 GMT"
+    },
+    {
+      "id": "540778527c8ce1f7dc85ad41209ec6f4",
+      "title": "Ben Shelton claims Jannik Sinner has a shot which is so 'underrated' as he compares him to Carlos Alcaraz - The Tennis Gazette",
       "source": "The Tennis Gazette",
-      "url": "https://www.thetennisgazette.com/news/andy-roddick-cant-believe-whats-happened-to-tennis-after-roland-garros-finishes-i-certainly-didnt-expect-it/",
-      "image_url": "https://cdn1.thetennisgazette.com/uploads/78/2025/06/GettyImages-2204469479-scaled.jpg",
-      "summary": "Photo by Tibrina Hobson/Getty Images Andy Roddick can’t believe what’s happened to tennis after Roland Garros finishes, ‘I certainly didn’t expect it’ The 2025 French Open was one for the ages, entertaining fans in Paris and around the world. In the longest Roland Garros final in history, Carlos Alcaraz defeated Jannik Sinner, 4-6, 6-7, 6-4, 7-6, 7-6. Alcaraz’s legendary win...",
-      "published": "Wed, 11 Jun 2025 00:00:00 GMT"
+      "url": "https://www.thetennisgazette.com/news/ben-shelton-claims-jannik-sinner-has-a-shot-which-is-so-underrated-as-he-compares-him-to-carlos-alcaraz/",
+      "image_url": "https://cdn1.thetennisgazette.com/uploads/78/2025/06/generated-image-163.jpg",
+      "summary": "Credit: Julian Finney/Daniel Kopatsch/Getty Images Ben Shelton claims Jannik Sinner has a shot which is so ‘underrated’ as he compares him to Carlos Alcaraz Carlos Alcaraz and Jannik Sinner lit up Court Philippe Chatrier in their thrilling Roland Garros final. Alcaraz beat Sinner in a five-set thriller that is being labelled one of the best Grand Slam finals of all...",
+      "published": "Wed, 11 Jun 2025 10:00:00 GMT"
     }
   ]
 }

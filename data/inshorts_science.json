@@ -1,45 +1,63 @@
 {
   "metadata": {
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-11 13:56:47",
+    "generation_time": "2025-06-11 20:52:20",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "4d4f373b22660d47ed34aea05cc90d32",
-      "title": "'People thought this couldn't be done': Scientists observe light of 'cosmic dawn' with a telescope on Earth for the first time ever - Live Science",
+      "id": "9156445cdd519eef1a94a94f526d0920",
+      "title": "Sun’s south pole revealed for first time, in images from Solar Orbiter spacecraft - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2025/jun/11/suns-south-pole-revealed-for-first-time-in-images-from-solar-orbiter-spacecraft",
+      "image_url": "https://i.guim.co.uk/img/media/ae2ea12c66eb5729018a45f25b20c00263c9b7fc/814_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05aae985fb20e398fc72517caa8a9d91",
+      "summary": "Fund the free press with $5 per month A radiance map of the sun's south pole as recorded by the Solar Orbiter spacecraft. Photograph: European Space Agency/Reuters Sun’s south pole revealed for first time, in images from Solar Orbiter spacecraft Groundbreaking observations map chaotic patchwork of magnetic activity, said to be key to understanding how sun’s field flips Hannah Devlin...",
+      "published": "Wed, 11 Jun 2025 16:15:00 GMT"
+    },
+    {
+      "id": "297a38b62e38f05ff173097c6937e43b",
+      "title": "'Strawberry Moon' in pictures: Major lunar standstill sees June's full moon hang low in the sky - Live Science",
       "source": "Live Science",
-      "url": "https://www.livescience.com/space/astronomy/people-thought-this-couldnt-be-done-scientists-observe-light-of-cosmic-dawn-with-a-ground-based-telescope-for-the-first-time-ever",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/oEcdN2MTeGW6mwnmUXcn2P.jpg",
-      "summary": "'People thought this couldn't be done': Scientists observe light of 'cosmic dawn' with a telescope on Earth for the first time ever By Ben Turner published 8 hours ago For the first time, astronomers have used a ground-based telescope to observe polarized microwave light from the universe's earliest epoch. Their observations could give them a better understanding of how the...",
-      "published": "Wed, 11 Jun 2025 06:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQkxTc25ldFdWdk1sNjlMT3o1OXVyVG1HY2k5b2tfM1g3MC1zTGg0T0hON3JUYnA1bjBmcVhUX2hUNEJnZm9GZlVRU3dxVXU0QjZEUHE3WEF4OHVEalZRcEZhNzJsU01WaV9vZWZOVTJCTlo1YXZCcl9YU1NSNy03ZE1DNHdncERRel9kOEdsa3M0Zzd0empmRFRIUW5UaG1MejdVUkZENW9xM21FVERya2J2bTVDTHZzU2hGbWlCaWdkZmpkY0JYcHo2MU9uanc?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 11 Jun 2025 12:43:09 GMT"
     },
     {
-      "id": "e2b590118874f053f73af715521c7461",
-      "title": "'Strawberry moon' set to dazzle as rare lunar standstill graces the night sky - KOMO",
-      "source": "KOMO",
-      "url": "https://komonews.com/news/local/full-moon-strawberry-native-americans-january-wolf-harvest-lunar-standstill-long-beach-celestial-sight-marine-stratus",
-      "image_url": "https://komonews.com/resources/media2/16x9/1638/986/0x564/90/366469b1-3173-44a6-be17-b41176d2394e-10EricHiller.jpg",
-      "summary": "'Strawberry moon' dazzles as rare lunar standstill graces the night sky ChiefMeteorologistShannon O'DonnellWed, June 11th 2025 at 9:27 PM Updated Wed, June 11th 2025 at 6:38 AM The nearly full moon rising behind the Space Needle, courtesy of Eric Hiller in Seattle. SEATTLE — The full moon that rose overnight was a beauty! The June full moon is known as...",
-      "published": "Wed, 11 Jun 2025 04:27:48 GMT"
+      "id": "835edf5d07d393093880085bb01945ba",
+      "title": "Ancient T. rex ancestor discovered: Khankhuuluu, ‘prince of dragons’ - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX3MzWFpCNnljZzgyZjJGb0dIVGhfRFlVMVd4aUZEbVlaV2hnR2drdENpbTRtdHItSlFCYjYxTVViZDhsMFhSU0xsS2ducDlzeGpQY2M2eDhKOFlWeW81NndVVzNuc3ZOdmVkVVZ5QXlrSnZscGdIVEdSOERXZTNNWkVnQlo2TnVQd0FjZ1dmR0NCUFE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 11 Jun 2025 18:01:07 GMT"
     },
     {
-      "id": "efc34474484ac77726999311ee1fe5ed",
-      "title": "Two different time scales could increase quantum clock accuracy exponentially - Phys.org",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2025-06-scales-quantum-clock-accuracy-exponentially.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.81.157.209 : 77d17a60-22ee-4014-9d86-de99b771",
-      "published": "Tue, 10 Jun 2025 18:40:03 GMT"
+      "id": "dcc8cfda8aa62db240fac21458fd41af",
+      "title": "Saurpod Dinosaur’s Last Meal Perfectly Preserved for 95 Million Years Shows What They Really Ate - ZME Science",
+      "source": "ZME Science",
+      "url": "https://www.zmescience.com/science/news-science/judy-saurpod-dinosaur-diet/",
+      "image_url": "https://cdn.zmescience.com/wp-content/uploads/2025/06/file-20250605-68-fo8mi0.jpg",
+      "summary": "Saurpod Dinosaur’s Last Meal Perfectly Preserved for 95 Million Years Shows What They Really Ate Sauropods were the largest land-living animals of all time. Finding the traces of a sauropod’s last meal is nothing short of extraordinary. byStephen Poropat June 10, 2025 in News, Paleontology Edited and reviewed by Tibi Puiu Artist’s reconstruction of Judy. Travis Tischler Since the late...",
+      "published": "Tue, 10 Jun 2025 11:12:52 GMT"
     },
     {
-      "id": "69b35895c1733bc7efe503736554d7a1",
-      "title": "Prepping for Starship, SpaceX is about to demolish one of ULA’s launch pads - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2025/06/feds-poised-to-approve-spacexs-takeover-of-another-military-launch-pad/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/40860356582_5bd32145da_h-1152x648.jpg",
-      "summary": "Prepping for Starship, SpaceX is about to demolish one of ULA’s launch pads SpaceX may soon have up to nine active launch pads. Most competitors have one or two. A Delta IV Heavy rocket stands inside the mobile service tower at Space Launch Complex-37 in this photo from 2014. SpaceX is set to demolish all of the structures seen here.",
-      "published": "Mon, 09 Jun 2025 19:22:51 GMT"
+      "id": "8d2dd44d23e5421aae26f2a4097112c2",
+      "title": "These glowing axolotls may hold the secret to human limb regeneration - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/climate-environment/2025/06/10/axolotl-limb-regeneration/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HXFHF4F6SJFBDPSERDBGIRUYUY.jpg&w=1440",
+      "summary": "These glowing axolotls may hold the secret to human limb regeneration The adorable salamanders are helping scientists investigate a serious question: Could the human body be coaxed to regrow a lost arm or leg? Researchers at Northeastern University use axolotls to study limb regeneration. (Video: Bryce Van Laanen/Northeastern University) With a silly smile and frilly gills, the axolotl has wriggled...",
+      "published": "Tue, 10 Jun 2025 16:00:00 GMT"
+    },
+    {
+      "id": "671adf636a8d90f274544192f234158a",
+      "title": "Scientists stunned as cameras capture footage of 200-million-year-old creature once thought extinct: 'The whole team was euphoric' - Yahoo",
+      "source": "Yahoo",
+      "url": "https://www.yahoo.com/news/scientists-stunned-cameras-capture-footage-114519954.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/GNR2wpDWSBxLtTZahWaldg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02OTE-/https://media.zenfs.com/en/the_cool_down_737/f7f2ab87a36c33045a24bfb3837a6f13",
+      "summary": "RFK Jr. fires CDC vaccine panel Scientists stunned as cameras capture footage of 200-million-year-old creature once thought extinct: 'The whole team was euphoric' Wed, June 11, 2025 at 11:45 AM UTC A surprising discovery has left the scientific community speechless. According to Inkl, a species previously believed to be extinct has been spotted. The unique 200-million-year-old species, famously named after...",
+      "published": "Wed, 11 Jun 2025 11:45:19 GMT"
     },
     {
       "id": "42515701710f09f2168165baa9065b91",
@@ -51,15 +69,6 @@
       "published": "Wed, 11 Jun 2025 00:07:40 GMT"
     },
     {
-      "id": "9614d48ba8bc607409c2e6f795691a11",
-      "title": "SpaceX launches Starlink satellites to orbit on 70th Falcon 9 flight of the year (photos) - Space",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa25JSE5DbEY2Q2pfT0JoaHdQQUhkLWRaeTQ1ZzdSTG9CdmxaV1JheTBmOG9wd242c0tsZHViUFBUWnFaVnJEZFBibjZfWWlhM000LXN0SFVEQ1Rnem81eWVmZEtxeHRJcDlBMGtNYTM0bzBZZnBINXBKdFlSVHNMd0F6RUVoTTM0NDZnZGZFM2dXc28zZUR5WDUxcEZSZ3dJbGVxWldRbkpzVFpjWWctTGhPaDJzMmotRXByd0wxQ3gtNlpKaDR3NnNRNEdVRWNVM1NWTlFwRHdva1RvLVlqeA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 09 Jun 2025 18:00:00 GMT"
-    },
-    {
       "id": "3e428b1b5992f888a38674ecb75d5889",
       "title": "U.C. Berkeley's Tiny Pogo Robot has a Unique Locomotion Style - Core77",
       "source": "Core77",
@@ -69,58 +78,13 @@
       "published": "Tue, 10 Jun 2025 13:05:44 GMT"
     },
     {
-      "id": "435e4ed499293cf0b9a01ef05f52011c",
-      "title": "A chemical in acne medicine can help regenerate limbs - Yahoo",
-      "source": "Yahoo",
-      "url": "https://www.yahoo.com/news/chemical-acne-medicine-help-regenerate-090000165.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/FI3hsBz_XJT6sK37dHECNg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/popular_science_109/002e4208994928c7a011657330066e24",
-      "summary": "RFK Jr. fires CDC vaccine panel Trump's travel ban takes effect A chemical in acne medicine can help regenerate limbs Tue, June 10, 2025 at 9:00 AM UTC Mapping limb regeneration is an intricate, molecular dance. If an axolotl loses a leg, it gets a new one–complete with a functional foot and all four toes. Over just a few weeks...",
-      "published": "Tue, 10 Jun 2025 09:00:00 GMT"
-    },
-    {
-      "id": "41a76198416f8f25da96b058ca95c43a",
-      "title": "'City-Killer' Asteroid Even More Likely to Hit The Moon in 2032 - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/city-killer-asteroid-even-more-likely-to-hit-the-moon-in-2032",
-      "image_url": "https://www.sciencealert.com/images/2025/06/moon_impact_crash_header.jpg",
-      "summary": "'City-Killer' Asteroid Even More Likely to Hit The Moon in 2032 The odds of a collision between 2024 YR4 and the Moon are high enough to be exciting. (Mark Garlick/Science Photo Library/Getty Images) An asteroid that burst onto the scene with an unusually high risk of striking Earth has just had its collision risk upgraded. In February 2025, asteroid 2024...",
-      "published": "Wed, 11 Jun 2025 04:35:04 GMT"
-    },
-    {
-      "id": "f16eb7e1e9db53d7e912f06648e3fce4",
-      "title": "We’ve Found Sauropod Stomach Contents For The First Time, Revealing They Had Terrible Manners - IFLScience",
-      "source": "IFLScience",
-      "url": "https://www.iflscience.com/world-first-fossil-discovery-of-sauropod-stomach-contents-reveals-they-didnt-chew-their-food-79536",
-      "image_url": "https://assets.iflscience.com/assets/articleNo/79536/aImg/84327/diamantinasaurus-matildae-meta.png",
-      "summary": "World-First Fossil Discovery Of Sauropod Stomach Contents Reveals They Didn't Chew Their Food Thanks to their \"gastric furnace\", these prehistoric giants harnessed the power of fermentation. Writer & Senior Digital Producer With gut contents as steamy as these guys', a long neck may have had many benefits. Image credit: Travis Tischler, CC BY SA 4. 0 he first ever discovery...",
-      "published": "Wed, 11 Jun 2025 12:00:33 GMT"
-    },
-    {
-      "id": "8cb60d4cf6dced64597c8f125d1080e3",
-      "title": "Oldest human DNA ever found reveals missing relative of early modern humans, unknown to science - Earth.com",
-      "source": "Earth.com",
-      "url": "https://www.earth.com/news/oldest-human-dna-ever-found-tells-story-of-lost-branch-on-human-neanderthal-family-tree/",
-      "image_url": "https://cff2.earth.com/uploads/2025/06/10193344/ancient-genomes_oldest-dna_ranis-germany_skull-fossil_zlaty-kun_Credit-Max-Planck_1m.jpg",
-      "summary": "Oldest human DNA ever found reveals missing relative of early modern humans, unknown to science About 45,000 years ago, something unusual happened in Ice Age Europe. A new wave of modern humans wandered in from the southeast and found a continent already home to a very different kind of human: the Neanderthals. These early modern people looked a lot like...",
-      "published": "Wed, 11 Jun 2025 02:08:37 GMT"
-    },
-    {
-      "id": "7283866b2a788450a46c3ee4c74cc81f",
-      "title": "Hammerhead shark falls from sky in South Carolina, interrupting disc golf game - Live Science",
+      "id": "4d4f373b22660d47ed34aea05cc90d32",
+      "title": "'People thought this couldn't be done': Scientists observe light of 'cosmic dawn' with a telescope on Earth for the first time ever - Live Science",
       "source": "Live Science",
-      "url": "https://www.livescience.com/animals/hammerhead-shark-falls-from-sky-in-south-carolina-interrupting-disc-golf-game",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/T5buhQkueuya73x3iXzq5c.jpg",
-      "summary": "Hammerhead shark falls from sky in South Carolina, interrupting disc golf game By Katie Neith published 2 days ago An osprey flying over Myrtle Beach dropped the small shark from a tree after being harassed by crows. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. The hammerhead shark was dropped...",
-      "published": "Mon, 09 Jun 2025 15:54:10 GMT"
-    },
-    {
-      "id": "c539a7b853fd0adabf9ba19c3b1a62b0",
-      "title": "Astronomers left puzzled by high-altitude clouds forming on young planet - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2025/jun/10/astronomers-space-telescope-clouds-planet",
-      "image_url": "https://i.guim.co.uk/img/media/dcbced00390b69417ffc8d155f538651979ef55d/204_0_3100_2480/master/3100.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d198b6c45f706861c08aa9d438f3bc5",
-      "summary": "Fund the free press with $5 per month The YSES-1 system consisting of the sun-like star YSES-1b (centre), and its circumplanetary disk (right), and YSES-1c with silicate clouds in its atmosphere (left). Illustration: Ellis Bogat Astronomers left puzzled by high-altitude clouds forming on young planet Experts say thick slabs of cloud in YSES-1 system could consist of mineral dust and...",
-      "published": "Tue, 10 Jun 2025 15:00:00 GMT"
+      "url": "https://www.livescience.com/space/astronomy/people-thought-this-couldnt-be-done-scientists-observe-light-of-cosmic-dawn-with-a-ground-based-telescope-for-the-first-time-ever",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/oEcdN2MTeGW6mwnmUXcn2P.jpg",
+      "summary": "'People thought this couldn't be done': Scientists observe light of 'cosmic dawn' with a telescope on Earth for the first time ever By Ben Turner published 15 hours ago For the first time, astronomers have used a ground-based telescope to observe polarized microwave light from the universe's earliest epoch. Their observations could give them a better understanding of how the...",
+      "published": "Wed, 11 Jun 2025 06:01:52 GMT"
     },
     {
       "id": "7689eee8ac89a1cc59d3e3d2ba9968b4",
@@ -132,31 +96,22 @@
       "published": "Tue, 10 Jun 2025 12:01:29 GMT"
     },
     {
-      "id": "c164e185984eb0dd3b14a381952ad63c",
-      "title": "Scientists stunned to observe that humpback whales might be trying to talk to us - ZME Science",
-      "source": "ZME Science",
-      "url": "https://www.zmescience.com/science/oceanography/scientists-stunned-to-observe-that-humpback-whales-might-be-trying-to-talk-to-us/",
-      "image_url": "https://cdn.zmescience.com/wp-content/uploads/2025/06/whales-bubbles.png",
-      "summary": "Scientists stunned to observe that humpback whales might be trying to talk to us These whales used bubble rings to seemingly send messages to humans. byMihai Andrei June 10, 2025 in Animals, News, Oceanography Edited and reviewed by Zoe Gordon Example of ring blown by a whale. Image from the study. . We’ve been looking for intelligent aliens for a...",
-      "published": "Tue, 10 Jun 2025 18:31:23 GMT"
+      "id": "c539a7b853fd0adabf9ba19c3b1a62b0",
+      "title": "Astronomers left puzzled by high-altitude clouds forming on young planet - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2025/jun/10/astronomers-space-telescope-clouds-planet",
+      "image_url": "https://i.guim.co.uk/img/media/dcbced00390b69417ffc8d155f538651979ef55d/204_0_3100_2480/master/3100.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d198b6c45f706861c08aa9d438f3bc5",
+      "summary": "Fund the free press with $5 per month The YSES-1 system consisting of the sun-like star YSES-1b (centre), and its circumplanetary disk (right), and YSES-1c with silicate clouds in its atmosphere (left). Illustration: Ellis Bogat Astronomers left puzzled by high-altitude clouds forming on young planet Experts say thick slabs of cloud in YSES-1 system could consist of mineral dust and...",
+      "published": "Tue, 10 Jun 2025 15:00:00 GMT"
     },
     {
-      "id": "4af025ad416bf0e32f6daecad3c6dbc9",
-      "title": "First-ever image of China's mysterious 'quasi moon' probe revealed weeks after it secretly launched into space - Live Science",
-      "source": "Live Science",
-      "url": "https://www.livescience.com/space/space-exploration/first-ever-image-of-chinas-mysterious-quasi-moon-probe-revealed-weeks-after-it-secretly-launched-into-space",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/t9dmKVrybdVn9ejKjQ8NwF.jpg",
-      "summary": "First-ever image of China's mysterious 'quasi moon' probe revealed weeks after it secretly launched into space By Harry Baker published 21 hours ago A new image released by China's space agency offers the first glimpse at the Tianwen 2 spacecraft, which is en route to collect samples from one of Earth's \"quasi-moons\". The photo shows some surprising similarities with a...",
-      "published": "Tue, 10 Jun 2025 16:34:10 GMT"
-    },
-    {
-      "id": "3be1294f94c935e4737b96659d69e308",
-      "title": "Image of giant volcano on Mars captured by NASA orbiter - ABC News",
-      "source": "ABC News",
-      "url": "https://abcnews.go.com/Technology/image-giant-volcano-mars-captured-nasa-orbiter/story?id=122690091",
-      "image_url": "https://i.abcnewsfe.com/a/63d63380-9d45-459d-ad2f-86af9ecbc1a4/arsia-mons-ht-jt-250610_1749571451349_hpMain_16x9.jpg?w=1600",
-      "summary": "Image of giant volcano on Mars captured by NASA orbiter The volcano was seen peeking through the morning clouds. NASA Mars Orbiter captures 12-mile-high volcanoThe new panorama of Mar’s Arsia Mons was captured on May 2. A NASA orbiter has captured a stunning image of a giant volcano on Mars. The panorama, captured on May 2 by NASA’s Mars Odyssey...",
-      "published": "Tue, 10 Jun 2025 17:14:29 GMT"
+      "id": "5a4dd73e89c15493e14017acdbe68509",
+      "title": "Probability of Asteroid 2024 YR4 hitting the Moon increases - theregister.com",
+      "source": "theregister.com",
+      "url": "https://www.theregister.com/2025/06/10/asteroid_2024_yr4_update/",
+      "image_url": "https://regmedia.co.uk/2020/11/18/moon.jpg",
+      "summary": "Probability of Asteroid 2024 YR4 hitting the Moon increases Scientists improve knowledge by 20% thanks to James Webb Space Telescope data The chance of Asteroid 2024 YR4 hitting the Moon has increased, according to boffins making observations from the James Webb Space Telescope. NASA said data from the telescope \"improved our knowledge of where the asteroid will be on Dec.",
+      "published": "Tue, 10 Jun 2025 17:45:00 GMT"
     },
     {
       "id": "81d92abad07a6bcdc8c5d53d5b6036f8",
@@ -168,22 +123,67 @@
       "published": "Wed, 11 Jun 2025 01:26:00 GMT"
     },
     {
-      "id": "48c60dd3d267c4fa505c2ce058444f1e",
-      "title": "Russian scientists discover a new island in the Caspian Sea — the world's largest inland body of water - Live Science",
-      "source": "Live Science",
-      "url": "https://www.livescience.com/planet-earth/rivers-oceans/russian-scientists-discover-a-new-island-in-the-caspian-sea-the-worlds-largest-inland-body-of-water",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/mn2yCs44q62UktFfYE5Sef.jpg",
-      "summary": "Russian scientists discover a new island in the Caspian Sea — the world's largest inland body of water By Sascha Pare published 4 hours ago Researchers have confirmed the existence of a new island in the northern part of the Caspian Sea, but they haven't managed to land on it yet. When you purchase through links on our site, we...",
-      "published": "Wed, 11 Jun 2025 10:12:45 GMT"
+      "id": "4b007c8edfe9e7515e203614af24fac2",
+      "title": "China Set for Critical Orbital Refueling Test With 2 U.S. Satellites Watching Closely - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/china-set-for-critical-orbital-refueling-test-with-2-u-s-satellites-watching-closely-2000613754",
+      "image_url": "https://gizmodo.com/app/uploads/2024/11/Satellite-in-low-earth-orbit.jpg",
+      "summary": "China Set for Critical Orbital Refueling Test With 2 U. S. Satellites Watching Closely The orbital demonstration could be a game-changer for extending the lifespan of satellites in space. Published June 10, 2025 | Comments (6) | An illustration of a satellite in orbit. Getty Images Two Chinese satellites are about to rendezvous in geostationary orbit, docking with one another...",
+      "published": "Tue, 10 Jun 2025 17:50:57 GMT"
     },
     {
-      "id": "50cba4402a5eb8a4ca4130ac67696e95",
-      "title": "Moons of Uranus surprise scientists in Hubble study - Phys.org",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2025-06-moons-uranus-scientists-hubble.html",
+      "id": "e2ea19640c2582aec371cf41546b7b70",
+      "title": "Frigid Exoplanet in Strange Orbit Imaged by NASA’s Webb - NASA Science (.gov)",
+      "source": "NASA Science (.gov)",
+      "url": "https://science.nasa.gov/universe/exoplanets/frigid-exoplanet-in-strange-orbit-imaged-by-nasas-webb/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/webb-STScI-01JWXSMNAY42Z30F85S27VC6MJ-1K.jpg",
+      "summary": "Frigid Exoplanet in Strange Orbit Imaged by NASA’s Webb This image of exoplanet 14 Herculis c was taken by NASA’s James Webb Space Telescope’s NIRCam (Near-Infrared Camera). A star symbol marks the location of the host star 14 Herculis, whose light has been blocked by a coronagraph on NIRCam (shown here as a dark circle outlined in white). Credits: NASA,...",
+      "published": "Tue, 10 Jun 2025 18:15:00 GMT"
+    },
+    {
+      "id": "20b557035751cbe2f2fec449af45714f",
+      "title": "Sun unleashes monster solar storm: Rare G4 alert issued for earth - ScienceDaily",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/06/250610074256.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/NOAA-CCOR-1-Coronagraph-Halo-Coronal-Mass-Ejection.webp",
+      "summary": "Your source for the latest research news New! Sign up for our free email newsletter. Sun unleashes monster solar storm: Rare G4 alert issued for earth A violent solar eruption on May 31 launched a coronal mass ejection (CME) hurtling toward Earth, triggering a rare G4-level geomagnetic storm alert. Captured in real-time by U. S. Naval Research Laboratory instruments, this...",
+      "published": "Tue, 10 Jun 2025 14:02:49 GMT"
+    },
+    {
+      "id": "c164e185984eb0dd3b14a381952ad63c",
+      "title": "Scientists stunned to observe that humpback whales might be trying to talk to us - ZME Science",
+      "source": "ZME Science",
+      "url": "https://www.zmescience.com/science/oceanography/scientists-stunned-to-observe-that-humpback-whales-might-be-trying-to-talk-to-us/",
+      "image_url": "https://cdn.zmescience.com/wp-content/uploads/2025/06/whales-bubbles.png",
+      "summary": "Scientists stunned to observe that humpback whales might be trying to talk to us These whales used bubble rings to seemingly send messages to humans. byMihai Andrei June 10, 2025 in Animals, News, Oceanography Edited and reviewed by Zoe Gordon Example of ring blown by a whale. Image from the study. . We’ve been looking for intelligent aliens for a...",
+      "published": "Tue, 10 Jun 2025 18:31:23 GMT"
+    },
+    {
+      "id": "82089556d73bc410d4427ed0b994ef99",
+      "title": "Embracing The Challenge Of Outreach At NASA. Or Not. - NASA Watch",
+      "source": "NASA Watch",
+      "url": "https://nasawatch.com/exploration/embracing-the-challenge-of-outreach-at-nasa-or-not/",
       "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.81.157.209 : eb338e2b-c689-417c-a756-072004f0",
-      "published": "Tue, 10 Jun 2025 20:42:04 GMT"
+      "summary": "Verify you are human by completing the action below. nasawatch.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Tue, 10 Jun 2025 23:11:44 GMT"
+    },
+    {
+      "id": "8cb60d4cf6dced64597c8f125d1080e3",
+      "title": "Oldest human DNA ever found reveals missing relative of early modern humans, unknown to science - Earth.com",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/news/oldest-human-dna-ever-found-tells-story-of-lost-branch-on-human-neanderthal-family-tree/",
+      "image_url": "https://cff2.earth.com/uploads/2025/06/10193344/ancient-genomes_oldest-dna_ranis-germany_skull-fossil_zlaty-kun_Credit-Max-Planck_1m.jpg",
+      "summary": "Oldest human DNA ever found reveals missing relative of early modern humans, unknown to science About 45,000 years ago, something unusual happened in Ice Age Europe. A new wave of modern humans wandered in from the southeast and found a continent already home to a very different kind of human: the Neanderthals. These early modern people looked a lot like...",
+      "published": "Wed, 11 Jun 2025 02:08:37 GMT"
+    },
+    {
+      "id": "3be1294f94c935e4737b96659d69e308",
+      "title": "Image of giant volcano on Mars captured by NASA orbiter - ABC News",
+      "source": "ABC News",
+      "url": "https://abcnews.go.com/Technology/image-giant-volcano-mars-captured-nasa-orbiter/story?id=122690091",
+      "image_url": "https://i.abcnewsfe.com/a/63d63380-9d45-459d-ad2f-86af9ecbc1a4/arsia-mons-ht-jt-250610_1749571451349_hpMain_16x9.jpg?w=1600",
+      "summary": "Image of giant volcano on Mars captured by NASA orbiter The volcano was seen peeking through the morning clouds. NASA Mars Orbiter captures 12-mile-high volcanoThe new panorama of Mar’s Arsia Mons was captured on May 2. A NASA orbiter has captured a stunning image of a giant volcano on Mars. The panorama, captured on May 2 by NASA’s Mars Odyssey...",
+      "published": "Tue, 10 Jun 2025 17:14:29 GMT"
     }
   ]
 }
