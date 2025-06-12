@@ -1,54 +1,99 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-11 19:20:57",
+    "generation_time": "2025-06-12 02:11:12",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "a18087950a400c81385c4fbd6b3b7153",
-      "title": "Bus fares to jobs: Seven ways the Spending Review affects you - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/czdyzrm99g2o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6d2b/live/45100ac0-4607-11f0-9b27-cd0bc54f64dd.jpg",
-      "summary": "Seven ways the Spending Review will affect you All the talk of departmental budgets and fiscal rules may feel somewhat distant from the cost of food shopping and your finances. The Spending Review is not a Budget in which taxes are changed or a host of new policies announced. But, don't be fooled, it will have an impact on you...",
-      "published": "Wed, 11 Jun 2025 14:48:00 GMT"
-    },
-    {
-      "id": "be6cf8c578bb874af008c092ca3b8935",
-      "title": "Police seek answers as Austria mourns victims of one of the worst shootings in its history - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/11/europe/police-seek-answers-austria-school-shooting-graz-intl",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2025-06-11t091408z-2138141825-rc280fatvt9j-rtrmadp-3-austria-school-attack.JPG?c=16x9&q=w_800,c_fill",
-      "summary": "Police seek answers as Austria mourns victims of one of the worst shootings in its history By Frederik Pleitgen, Claudia Otto, Nadine Schmidt and Sophie Tanno, CNN Updated 8:52 AM EDT, Wed June 11, 2025 Mourners gather to observe a minute of silence for the victims of the school shooting in Graz, Austria, on Wednesday. Leonhard Foeger/Reuters Police in Austria...",
-      "published": "Wed, 11 Jun 2025 12:52:00 GMT"
-    },
-    {
-      "id": "288d3d1406a455a7f456f95d393a2b0d",
-      "title": "Greetings from Palmyra, Syria, with its once-grand hotel named for a warrior queen - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/11/g-s1-70035/syria-palmyra-zenobia-hotel",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F74%2Fe9%2F1aaf782e485d9dcd2210ff19851b%2Ffarflungpostcard-arraf.jpg",
-      "summary": "Greetings from Palmyra, Syria, with its once-grand hotel named for a warrior queen Far-Flung Postcards is a weekly series in which NPR's international correspondents share snapshots of moments from their lives and work around the world. Battered and bullet-ridden but still standing! It doesn't look it now, but this was one of the most elegant hotels in the Middle East.",
-      "published": "Wed, 11 Jun 2025 13:36:08 GMT"
-    },
-    {
-      "id": "65dc92c07295a6a1078b8adb2f61c20b",
-      "title": "Trump Is Pushing Allies Away and Closer into Each Other’s Arms - The New York Times",
+      "id": "6c59a55cb401eb0516183c9ff38ce448",
+      "title": "U.S. to Evacuate Diplomats From Iraq Amid Iran Tensions - The New York Times",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/11/world/canada/g7-trump-us-allies-world-order.html",
+      "url": "https://www.nytimes.com/2025/06/11/us/politics/iran-us-iraq-diplomats-middle-east.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Wed, 11 Jun 2025 14:33:47 GMT"
+      "published": "Thu, 12 Jun 2025 00:50:14 GMT"
     },
     {
-      "id": "afb49b9b52d5b4858a7abbdac254e4f9",
-      "title": "'Historic milestone': EU and UK strike political deal on Gibraltar - Euronews.com",
-      "source": "Euronews.com",
-      "url": "https://www.euronews.com/my-europe/2025/06/11/historic-milestone-eu-and-uk-strike-political-agreement-on-gibraltar",
-      "image_url": "https://static.euronews.com/articles/stories/09/32/43/08/1200x675_cmsv2_972c1654-3b84-51a9-a6e8-af309216f983-9324308.jpg",
-      "summary": "With your agreement, we and our 191 partners use cookies or similar technologies to store, access, and process personal data like your visit on this website, IP addresses and cookie identifiers. Some partners do not ask for your consent to process your data and rely on their legitimate business interest. You can withdraw your consent or object to data processing...",
-      "published": "Wed, 11 Jun 2025 15:11:58 GMT"
+      "id": "84394b0693a0e475656c4dabb7734b3c",
+      "title": "Israel is poised to launch operation on Iran, sources say - CBS News",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/israel-is-poised-to-launch-operation-on-iran-sources-say/",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/06/12/1aa6dbfe-75f1-4ab2-a025-2344b204c8f2/thumbnail/1200x630/0ec35bca1b3eb9645a57b6e1de81d613/gettyimages-2209973945.jpg?v=d2f497bd9339ad99d2e0559414346698",
+      "summary": "Israel is poised to launch operation on Iran, multiple sources tell CBS News Updated on: June 11, 2025 / 9:23 PM EDT / CBS News Israel ready to launch operation into Iran, U. S. officials say U. S. officials have been told Israel is fully ready to launch an operation into Iran, multiple sources told CBS News. The U.S. anticipates...",
+      "published": "Thu, 12 Jun 2025 00:40:49 GMT"
+    },
+    {
+      "id": "489fab377c6473e19d801805c34a3335",
+      "title": "Scotland to get extra £2.9bn from Treasury, says Reeves - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx2q393rwe2o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/bd5d/live/8c06e030-fd95-11ef-aa9d-fb0931fd5a5b.jpg",
+      "summary": "Scotland to get extra £2. 9bn from spending review, says Treasury The St Fergus gas terminal in Aberdeenshire is the planned site of a new carbon capture project Holyrood's budget will rise by £2. 9bn a year on average as a result of Chancellor Rachel Reeves' spending review, according to Treasury officials. Reeves said block grant funding from Westminster would...",
+      "published": "Wed, 11 Jun 2025 19:46:54 GMT"
+    },
+    {
+      "id": "903d6af27ffb85e94206df49db2f3cde",
+      "title": "Netanyahu’s government faces possible collapse as opposition moves to dissolve Knesset - PBS",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/world/netanyahus-government-faces-possible-collapse-as-opposition-moves-to-dissolve-knesset",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/2025-06-11T174043Z_434063044_RC2H0FANN6A0_RTRMADP_3_ISRAEL-ARGENTINA-KNESSET-1024x678.jpg",
+      "summary": "Urge Congress: Protect PBS Funding Your favorite shows at PBS are in danger of going away. The federal funding that supports local stations and public media is under threat. By — Melanie Lidman, Associated Press Netanyahu’s government faces possible collapse as opposition moves to dissolve Knesset JERUSALEM (AP) — Israeli Prime Minister Benjamin Netanyahu’s government faced a major test Wednesday...",
+      "published": "Wed, 11 Jun 2025 18:05:18 GMT"
+    },
+    {
+      "id": "8682650b6615ecc84203587d807ab4a5",
+      "title": "EU, Britain seal post-Brexit deal easing Gibraltar border flow - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/eu-britain-reach-agreement-gibraltar-status-2025-06-11/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 11 Jun 2025 16:15:17 GMT"
+    },
+    {
+      "id": "d1f9f1122e6ae2d1df7d56e6853eb7dd",
+      "title": "Israeli forces kill at least 60 Palestinians seeking food in Gaza, health officials say - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2025/jun/11/israeli-forces-kill-at-least-60-palestinians-seeking-food-aid-in-gaza-health-officials-say",
+      "image_url": "https://i.guim.co.uk/img/media/bbe72de9612eb9a3400e6218fbb17546a1c7429b/560_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b63a3ec0d853b0b31500930be1cf5d76",
+      "summary": "Fund the free press with $15 per month Palestinians mourn those killed in the Israeli attack near Netzarim on 11 June, 2025. Photograph: Anadolu/Getty Images Israeli forces kill at least 60 Palestinians seeking food in Gaza, health officials say Dozens more wounded as crowds approached food distribution centres run by Israel-backed Gaza Humanitarian Foundation Last modified on Wed 11 Jun...",
+      "published": "Wed, 11 Jun 2025 22:33:09 GMT"
+    },
+    {
+      "id": "7740e49ef14193fc73ed9c50b68a357d",
+      "title": "Presiding bishop’s letter responds to Trump’s travel ban, immigration crackdown - Episcopal News Service",
+      "source": "Episcopal News Service",
+      "url": "https://episcopalnewsservice.org/2025/06/11/presiding-bishop-letter-responds-to-trumps-travel-ban-immigration-crackdown/",
+      "image_url": null,
+      "summary": "The webpage at https://episcopalnewsservice. org/2025/06/11/presiding-bishop-letter-responds-to-trumps-travel-ban-immigration-crackdown/ might be temporarily down or it may have moved permanently to a new web address.",
+      "published": "Wed, 11 Jun 2025 20:37:13 GMT"
+    },
+    {
+      "id": "93d14e8ca5e794562db9a75bb345b817",
+      "title": "Israel holding two Gaza boat activists in solitary confinement, NGO claims - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/israel-holding-two-gaza-boat-activists-in-solitary-confinement-ngo-claims/",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/02/AFP__20240529__34U64TN__v1__HighRes__FrancePalestinianIsraelConflictDemo.jpg",
+      "summary": "Israel holding two Gaza boat activists in solitary confinement, NGO claims Brazilian Thiago Avila and French-Palestinian EU lawmaker Rima Hassan said sent to separate prisons; activists seeking attention on the back of Gazan suffering, says French PM European Parliament member Rima Hassan speaks during a rally in central Paris on May 29, 2024, to protest an Israeli strike on a...",
+      "published": "Wed, 11 Jun 2025 19:15:00 GMT"
+    },
+    {
+      "id": "77666e7c47ae56686d7b925efd3c9111",
+      "title": "At least 49 people have died in flooding in South Africa with toll expected to rise, officials say - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/south-africa-flooding-eastern-cape-cb2533d81b14cb214b9eb996873b94b6",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Wed, 11 Jun 2025 23:50:00 GMT"
+    },
+    {
+      "id": "31c70e47c401e037e0034a9ced70c89e",
+      "title": "EU targets Chinese banks over Russian trade links - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c60ee798-872b-44c4-ab1c-3f526dfce11e",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff62e24a7-264c-4833-904f-0950b68b93ac.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. EU targets Chinese banks over Russian trade links Proposed sanctions would be the first time Brussels has moved against third-country lenders supporting Moscow © Kirill Kudryavtsev/AFP/Getty Images EU targets Chinese banks over Russian trade links on x (opens in...",
+      "published": "Wed, 11 Jun 2025 16:54:34 GMT"
     },
     {
       "id": "ba5df2a0748dbf3f228eac5512b31173",
@@ -60,85 +105,49 @@
       "published": "Wed, 11 Jun 2025 14:49:00 GMT"
     },
     {
-      "id": "3c2cd81e54bc4cbb1a17456be77233ad",
-      "title": "What to know after anti-immigrant violence flares in a Northern Ireland town - ABC News",
-      "source": "ABC News",
-      "url": "https://abcnews.go.com/International/wireStory/after-anti-immigrant-violence-flares-northern-ireland-town-122724059",
-      "image_url": "https://i.abcnewsfe.com/a/c5aa5b4a-e70e-4a77-baae-6bdf18210f0d/wirestory_a7b816b977959932cb3bea424d417d7f_16x9.jpg?w=1600",
-      "summary": "BreakingSplit verdict in Harvey Weinstein sex crimes retrial What to know after anti-immigrant violence flares in a Northern Ireland town Police in Northern Ireland say 17 officers were injured during a second night of anti-immigrant violence in the town of Ballymena ByJILL LAWLESS Associated Press International headlines from ABC NewsCatch up on the developing stories from around the globe making...",
-      "published": "Wed, 11 Jun 2025 11:58:52 GMT"
+      "id": "510df149775db30a0c86c486e06032f6",
+      "title": "China Sent 2 Aircraft Carriers Into Pacific. That's Notable - Newser",
+      "source": "Newser",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa2p6WVBHWmp0OVRlYklmSnVUNWRqbFdwU2dBRnRqdXRiMDVnbTQ0SnlsVl9zcThhYVo4QWw3d184bFo3VFY3U1FMamJVTFEzY194NEFLYk9XMlM3VHpta2ZVY0FaWWdPSWZkR20xLVFVVC1uSWlLaG15cktCWjFsaHJZSURkOWJQSFEtSlZtT2JaUVZJYk94REhmdnlUZzA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 11 Jun 2025 16:20:00 GMT"
     },
     {
-      "id": "d216129dad54b6fdd3b114c4350a0542",
-      "title": "Rashid and Omarzai set to miss MLC 2025 - ESPNcricinfo",
-      "source": "ESPNcricinfo",
-      "url": "https://www.espncricinfo.com/story/rashid-and-omarzai-set-to-miss-mlc-2025-1489714",
-      "image_url": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/365100/365144.6.jpg",
-      "summary": "Rashid and Omarzai set to miss MLC 2025 Rashid, who plays for MI New York, has opted out of the tournament to take a break Rashid Khan was MI New York's best bowler in 2024  •  Peter Della Penna Afghanistan allrounder Rashid Khan will be absent from the 2025 edition of Major League Cricket. ESPNcricinfo has learned that Rashid, who...",
-      "published": "Wed, 11 Jun 2025 12:27:55 GMT"
+      "id": "018389131cc8ec76aa56d716d1b33d9d",
+      "title": "Austria Has Lots of Guns, Little Gun Violence, and New Questions - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/11/world/europe/austria-guns-school-shooting-graz.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 11 Jun 2025 12:41:50 GMT"
     },
     {
-      "id": "1577341bc38d7d0c1d3b7af633fd4c0f",
-      "title": "More than 55,000 Palestinians have been killed in the Israel-Hamas war, Gaza health officials say - AP News",
+      "id": "98d030bdcb64f00b63a3bdb36c7255c3",
+      "title": "Violent anti-immigrant riots follow sex assault arrests in Northern Ireland - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/06/11/northern-ireland-violent-riots-immigrants/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-11-2025/t_a8123b15772a4a14884f9b862faf98aa_name_LRYYSIHJKNG7ZGZT3EAQTDMJS4.jpg&w=1440",
+      "summary": "Anti-immigrant riots follow sex assault arrests in Northern Ireland The two nights of rampaging targeted immigrant neighborhoods after the teenage suspects were read the charges by a Romanian interpreter in court. Hundreds of anti-immigrant rioters torched cars and attacked police Tuesday in Northern Ireland's city of Ballymena. (Video: Reuters) LONDON — Rioters broke windows, torched cars and attacked police with...",
+      "published": "Wed, 11 Jun 2025 22:45:09 GMT"
+    },
+    {
+      "id": "4e914cd4a14fe66f66141231a8437b7c",
+      "title": "Tusk’s government survives vote of confidence in Poland as he bids to reassert control - AP News",
       "source": "AP News",
-      "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-hostages-aid-06-11-2025-5c84e29a249b988e1172cfcf4528cdc8",
+      "url": "https://apnews.com/article/poland-politics-tusk-confidence-vote-a498cc51b5f79d9da1c5bdba10cebe2a",
       "image_url": "https://apnews.com/favicon.ico",
       "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 11 Jun 2025 12:56:00 GMT"
+      "published": "Wed, 11 Jun 2025 15:37:00 GMT"
     },
     {
-      "id": "e89ad3e810a157dd0ae12b8ed66348c1",
-      "title": "French doctor says Israeli authorities were ‘abusive’ to Greta Thunberg - politico.eu",
-      "source": "politico.eu",
-      "url": "https://www.politico.eu/article/greta-thunberg-israel-palestine-france-andre-baptiste-flotilla-coalition/",
-      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/11/13117817.jpg",
-      "summary": "French doctor says Israeli authorities were ‘abusive’ to Greta Thunberg",
-      "published": "Wed, 11 Jun 2025 09:43:00 GMT"
-    },
-    {
-      "id": "f271887eba054b00bdaab12e5d3ee019",
-      "title": "EU faces uphill battle to pass new Russia sanctions - politico.eu",
-      "source": "politico.eu",
-      "url": "https://www.politico.eu/article/eu-uphill-battle-pass-new-russia-sanctions/",
-      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/11/13116698-scaled.jpg",
-      "summary": "EU faces uphill battle to pass new Russia sanctions",
-      "published": "Wed, 11 Jun 2025 11:12:00 GMT"
-    },
-    {
-      "id": "2d2c9a5c12c5e0f933454cc9c1c8d753",
-      "title": "Netanyahu Under Pressure as Ultra-Orthodox Parties Threaten to Dissolve Parliament - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/11/world/middleeast/israel-knesset-vote-orthodox-draft-law.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Wed, 11 Jun 2025 15:48:30 GMT"
-    },
-    {
-      "id": "47974c63727d53d2bf8f2c745e4ef4a9",
-      "title": "Polish PM Donald Tusk wins confidence vote - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cx2ez231mpdo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1c60/live/43c382c0-46a5-11f0-8b61-c7d2e4eb27f6.jpg",
-      "summary": "Polish PM Donald Tusk wins confidence vote Poland's Prime Minister Donald Tusk has won a vote of confidence in his pro-EU government after his political camp narrowly lost the recent presidential election. Some 243 parliamentarians voted in favour of the coalition government, with 210 voting against and no abstentions. This vote has been seen by some as a piece of...",
-      "published": "Wed, 11 Jun 2025 14:56:17 GMT"
-    },
-    {
-      "id": "c026c458ae2873aa114a1e25fb9fcbc3",
-      "title": "Britain sanctions Israeli far-right ministers over Gaza comments - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/uk/uk-sanction-israel-ministers-ben-gvir-smotrich-times-reports-2025-06-10/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Tue, 10 Jun 2025 21:51:40 GMT"
-    },
-    {
-      "id": "74b51150d22d72f0fb41333fb061885d",
-      "title": "Attack leaves Kyiv choked in smoke, hits Odessa maternity hospital - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/06/10/ukraine-russia-war-drones-kyiv/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SZ7ADAYXPBHIO3MHMQM5MCZ5HU_size-normalized.JPG&w=1440",
-      "summary": "Attack leaves Kyiv choked in smoke, hits Odessa maternity hospital By Lizzie Johnson, Serhii Korolchuk and David L. Stern Get concise answers to your questions. Try Ask The Post AI. It was the second large-scale drone attack in two days and followed a , with Moscow claiming retaliation for an on distant airfields in Russia on June 1. The renewed...",
-      "published": "Tue, 10 Jun 2025 22:42:24 GMT"
+      "id": "120bf49086c1f17e2391170b6f4b845e",
+      "title": "Pakistan used Chinese weapons in its fight with India. The impact may be far-reaching - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/10/nx-s1-5421262/pakistan-used-chinese-weapons-in-its-fight-with-india-the-impact-may-be-far-reaching",
+      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "summary": "Pakistan used Chinese weapons in its fight with India. The impact may be far-reaching For the first time, a Chinese fighter plane made a debut in an active conflict. Pakistani pilots manned the Chinese J-10c during four days of clashes against India in May. For the first time, a Chinese fighter plane made a debut in an active conflict. UNIDENTIFIED...",
+      "published": "Tue, 10 Jun 2025 22:16:58 GMT"
     },
     {
       "id": "6fdb85164ab211c714f0ec84881e2824",
@@ -150,13 +159,22 @@
       "published": "Wed, 11 Jun 2025 16:50:02 GMT"
     },
     {
-      "id": "77666e7c47ae56686d7b925efd3c9111",
-      "title": "At least 49 people have died in flooding in South Africa with toll expected to rise, officials say - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/south-africa-flooding-eastern-cape-cb2533d81b14cb214b9eb996873b94b6",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 11 Jun 2025 18:14:00 GMT"
+      "id": "f89d4e5831c96cdcf9eecb011848de15",
+      "title": "U.N. Report Says We’re Missing the Real Fertility Crisis - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/11/world/fertility-crisis-un-report.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 11 Jun 2025 20:54:54 GMT"
+    },
+    {
+      "id": "fd441b5cf31a9098c600b06d2862cdcb",
+      "title": "Where wildfire smoke will lower air quality across the Midwest and Northeast - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/weather/2025/06/11/wildfire-smoke-air-quality-maps/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D2KXGVAHN7P3SQ6K4R4BVJQPFE_size-normalized.jpg&w=1440",
+      "summary": "Where wildfire smoke will lower air quality across the Midwest and Northeast New plumes of smoke from Canada’s fires will bring hazy skies across the United States through the end of the week, maps show. Updated yesterday at 6:53 a. m. EDT We and our third-party partners process personal data including through the use of cookies, pixels, and other tracking...",
+      "published": "Wed, 11 Jun 2025 17:53:06 GMT"
     },
     {
       "id": "767b1ee8cbf3833254609f64327e5e32",
@@ -166,24 +184,6 @@
       "image_url": "https://spacenews.com/wp-content/uploads/2025/06/ax4crewdragon.jpeg",
       "summary": "Covering the business and politics of space Booster leak delays Ax-4 private astronaut mission to ISS The Crew Dragon for the Ax-4 mission atop its Falcon 9 rocket on the launch pad at the Kennedy Space Center. Credit: SpaceX WASHINGTON — A propellant leak in a Falcon 9 booster has delayed the launch of a fourth Axiom Space private astronaut...",
       "published": "Wed, 11 Jun 2025 10:32:23 GMT"
-    },
-    {
-      "id": "90825c4abb7de7830fabc260ae7b0cf3",
-      "title": "Hamas Plans Attacks on US Aid Sites In Gaza, Telegram Messages Show - freebeacon.com",
-      "source": "freebeacon.com",
-      "url": "https://freebeacon.com/israel/hamas-plans-attacks-on-us-aid-sites-in-gaza/",
-      "image_url": "https://freebeacon.com/wp-content/uploads/2021/05/Hamas2-scaled-e1622045816116.jpeg",
-      "summary": "Do you want coverage of the enemies of freedom you can't get from the mainstream media? Sign up for our free email, The Morning Beacon, for our top reporting",
-      "published": "Tue, 10 Jun 2025 09:02:17 GMT"
-    },
-    {
-      "id": "db222d9270c2d8653651c29b35b53b59",
-      "title": "Argentina’s Kirchner to be banned from politics after graft conviction upheld - Financial Times",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e37024ed-8d04-47c2-8e06-7b23d0363646",
-      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F292a2efa-2c4b-45d1-8381-0a579fdaea61.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Argentina’s Kirchner to be banned from politics after graft conviction upheld Peronist leader had remained biggest opposition voice to Javier Milei despite 2022 corruption ruling Argentina’s Kirchner to be banned from politics after graft conviction upheld on x (opens...",
-      "published": "Tue, 10 Jun 2025 20:38:40 GMT"
     }
   ]
 }
