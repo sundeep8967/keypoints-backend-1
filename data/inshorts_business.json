@@ -1,18 +1,18 @@
 {
   "metadata": {
     "source_file": "data/news_business.json",
-    "generation_time": "2025-06-13 09:17:32",
+    "generation_time": "2025-06-13 14:35:35",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "241c4a1893a29bd7c69a8f9b2b7241c6",
-      "title": "Oil Prices Surge and Stock Markets Stumble After Israel’s Attack - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/12/business/energy-environment/israel-iran-oil-stock-markets.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 06:20:00 GMT"
+      "id": "76c024ddce14e7b75f1cbaab497a49d5",
+      "title": "Dow futures fall more than 300 points after Israel strikes Iran, spiking oil prices: Live updates - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/12/stock-market-today-live-updates.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108151353-1748447651804-Traders-Photo-MW-20250528-PRESS-4.jpg?v=1748448631&w=1920&h=1080",
+      "summary": "Shares of scandal-plagued Brazilian meat giant JBS open at $13. 65 in U.S. public debut Dow falls 600 points after Israel strikes Iran, spiking oil prices: Live updates Traders work on the floor of the New York Stock Exchange on May 28, 2025. Stocks tumbled early Friday after Israel launched a wave of airstrikes on Iran, pushing energy prices higher...",
+      "published": "Fri, 13 Jun 2025 12:39:00 GMT"
     },
     {
       "id": "107be2798ed906723d9f7eb892475b25",
@@ -21,23 +21,77 @@
       "url": "https://www.reuters.com/business/finance/meta-finalizes-investment-scale-ai-valuing-startup-29-billion-2025-06-13/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 05:17:00 GMT"
+      "published": "Fri, 13 Jun 2025 11:53:25 GMT"
+    },
+    {
+      "id": "8ca37f867dac6aaa4854af2a84a2c74c",
+      "title": "HBO Family, ThrillerMax and Other Multiplex Channels to Be Shut Down by Warner Bros. Discovery - variety.com",
+      "source": "variety.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb3pIbmR0Q2RXY0IzUkNMVDc5REtRR2lkTC1TQWdJYkNiTk44dmt6cC1VSFNPUjBoazRIYWtUQkprSUt5aWZSbmFMLXlKWlcwdENzaV9RVFphWVNObXF5R2w3X2tZdXg4U0l5RnkyLTkzYndLRV93Qmd0RkJ3bFRBV1hVcndhRXM2YmQxYjk2M2VNWXVMN1kxc0NPQ00?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 13 Jun 2025 00:31:00 GMT"
+    },
+    {
+      "id": "441a8d73e6e6e840a825967356962bfe",
+      "title": "Exclusive | Walmart and Amazon Are Exploring Issuing Their Own Stablecoins - WSJ",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/finance/banking/walmart-amazon-stablecoin-07de2fdd",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 13 Jun 2025 09:30:00 GMT"
+    },
+    {
+      "id": "66ea2b32698ec7f35b0d5fc04542079f",
+      "title": "Where’s the Inflation From Tariffs? Just Wait, Economists Say. - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/13/business/economy/tariff-trade-war-inflation.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 13 Jun 2025 09:01:42 GMT"
+    },
+    {
+      "id": "0ce1ffc14990b276566e78c8e3184cdc",
+      "title": "The world’s biggest food company plans to beef up in America - The Economist",
+      "source": "The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdk5FN1g0UktMOWVPUHFUZ3lHTmNFdHZqWVNlTUcyNms2NnNZN1VzUk9kcnFydC0weE9mOUtHWUQ3bVpsQkdsdm0tbkV5d0VlX29VUXYzR1JxZ1pjcUpiSmxrVkRMWEZMT2hFLURhNG1xQ3hUaWJFeHdIX2pnaFllSlFiVm5wQS1wdm9DYkpnSkFXX053bm1OT00yZ3VXMWhYaGFZVjRYUXY?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 13:00:23 GMT"
+    },
+    {
+      "id": "1f7b8d5699da5627c4d36e2ceb31e0a2",
+      "title": "Anker Recalls More Than 1 Million PowerCore 10000 Power Banks: What to Know - CNET",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/mobile/anker-recalls-more-than-1-million-powercore-10000-power-banks-because-of-fire-risks-what-to-know/",
+      "image_url": "https://www.cnet.com/a/img/resize/1141272738c91334be78834426649fdbde1bb1da/hub/2025/06/12/f836e0dc-ed0b-4510-b875-21a8dcdd64f0/anker-power-bank-recall.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "summary": "Anker Recalls More Than 1 Million PowerCore 10000 Power Banks: What to Know The recall affects more than 1. 1 million Powercore units sold in the US. The A1263 model of Anker's PowerCore 10000 has been recalled. The electronics maker Anker recalled its PowerCore 10000 power banks with the model number A1263 after receiving 19 reports of fires and explosions.",
+      "published": "Thu, 12 Jun 2025 17:12:00 GMT"
     },
     {
       "id": "70618c82e9c71f589380f3726e819b8e",
       "title": "Google Cloud outages: Spotify, Discord, Snapchat and more were down for hours - Engadget",
       "source": "Engadget",
-      "url": "https://www.engadget.com/big-tech/google-cloud-outages-spotify-discord-snapchat-and-more-were-down-for-hours-193156868.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/ZgjRHqReyxFEaQbEx3oWjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/7d82bc00-47c3-11f0-bedd-a59c2c9f4284",
-      "summary": "WWDC 2025: Everything Apple announced Prime Day 2025: What you need to know How to buy the Nintendo Switch 2 Google Cloud outages: Spotify, Discord, Snapchat and more were down for hours Google's Cloud suite experienced issues for over five hours on Thursday. Updated Thu, Jun 12, 2025, 6:23 PM CDT·2 min read Google Cloud experienced outages today that led...",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMGJaanZtNjJrVkdzSUlqWkZaOHI5dGdWYy1la1hOa3ZNUUdGT2xtbVZIbzJ6VzFEVXZaZjltMVlCQnVjSHVaZU1iQkF5aUZOTlltSVhBeXM2VC02OExmMHl0bGJLN0xsYVhwaXZxZ1g1dDItMmxjQ3JjTHVzTzNHby1BTGxVZ0RiVnlpeE5hTnF6SDZEbDhPUGN1enFfX2lLR3k1SDhobXVCell2S1dSbzlFOUN2ZXNZNFdIaVY2V0E?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Thu, 12 Jun 2025 23:23:35 GMT"
+    },
+    {
+      "id": "a0c4069211674b22b8f55220f51fa391",
+      "title": "Watch These Oracle Price Levels as Stock Surges to Record High on Cloud Growth Outlook - Investopedia",
+      "source": "Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeUNsTHh5eENUWTJpSkJwNGFhT0c3ck5xNXh5Y291QWtCTGhhZnpnRUt3ZnNRSEdyZVlMZi10S2ZtQnV4T0UydFVrLXl0a0Q3NjAyc0FRTlkzcHU0cktHWEF3MTN3cUZ4RHlOaUNIMnAyR1pxMlRjbFg3Z2g2azlBc1pTRU5VVU4tQ2lmbXpHSkxXaHdYU3gtRzFNdm9QMEpHT1hGdERHeGE2Q2pXenZVcEpvcDhLSEpJLUE4?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 13 Jun 2025 02:39:52 GMT"
     },
     {
       "id": "45d1bdc64f1cb1c65f6b7d649fd43bbe",
       "title": "Chime Financial Is the Latest IPO to Soar in Debut - WSJ",
       "source": "WSJ",
-      "url": "https://www.wsj.com/finance/stocks/chime-financial-ipo-shares-stock-f6c5ad38",
-      "image_url": null,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVU5uQzI4d19NMTVtcGZhdGpIZ1dYWW9ZNGJGOWJmdjFjYzk3ZDFTSkV1MS1DNlpzR0lLZ204M1ZTSG8xdVI1YUM3ZEZhcjVYUXNrU1J5c0FsWEVORzZRXzdlZGRWVHRIalkxOVZVZlkyZ2stYkU0VE1TVV9vSldmTlZR?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
       "published": "Thu, 12 Jun 2025 23:16:00 GMT"
     },
@@ -45,145 +99,91 @@
       "id": "a3c5f8b126d95fd46901936ce5304670",
       "title": "GameStop Announces Pricing of Upsized Private Offering of $2.25 Billion of Convertible Senior Notes - Business Wire",
       "source": "Business Wire",
-      "url": "https://www.businesswire.com/news/home/20250612275872/en/GameStop-Announces-Pricing-of-Upsized-Private-Offering-of-%242.25-Billion-of-Convertible-Senior-Notes",
-      "image_url": "https://www.businesswire.com/bw-logo.png",
-      "summary": "Jun 12, 2025 6:58 PM Eastern Daylight Time GameStop Announces Pricing of Upsized Private Offering of $2. 25 Billion of Convertible Senior Notes GRAPEVINE, Texas--(BUSINESS WIRE)--GameStop Corp. (NYSE: GME) (“GameStop”), today announced the pricing of its upsized $2. 25 billion aggregate principal amount of 0. 00% Convertible Senior Notes due 2032 (the “notes”) in a private offering (the “offering”) to...",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZHloNUM3VUNFdVVhbXQ0WHBsNmg2QW9XTTl2RjZZYVpqNXdqczlOdk1JUFZvd1NheWpsYk11aVRNNlh5UzN6QkI2aldQamJhazFLRDU3bllZUFRzRGpmNlJ2UXpuUk5Ed2VqY0wteGZnUmVjZ2VXOUFnWEl3TVNZUlRJZi04cEdnWWc3NF9Sel96MGg3UzNrcWVxbURVREJMb1NvU1NvRmRITUE0UU9SS2xmVWxYUWVrVUNhbGlpb0VvdTJxbjg1NndNMjN4MVptRW1vMVFIeUxmNjk5NWZDNjlneTg4ZlVzMDE0V1laWQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Thu, 12 Jun 2025 22:58:00 GMT"
     },
     {
-      "id": "f369e926d839e0ccdc7311b81ea366a1",
-      "title": "Dollar Index Falls Below 98 for First Time in Three Years, Gives Room for Crypto Run - CoinDesk",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2025/06/12/dollar-index-falls-below-98-for-first-time-in-three-years-gives-room-for-crypto-run",
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/14871b867415e5f0a9f8d85d4e23dfbe31b2d123-2876x1734.png",
-      "summary": "Dollar Index Falls Below 98 for First Time in Three Years, Gives Room for Crypto Run Weaker dollar sparks optimism for risk assets as inflation eases. Updated Jun 12, 2025, 1:56 p. m. Published Jun 12, 2025, 11:08 a. m. Market now pricing in 99. 8 percent chance of June rate cut to 4. 25 to 4.50 percent. Softer inflation...",
-      "published": "Thu, 12 Jun 2025 11:11:24 GMT"
-    },
-    {
-      "id": "d7b690ef22a9c7c5670200c89f6110ec",
-      "title": "Oracle Stock Leads S&P 500 Gainers Thursday on Better-Than-Expected Results - Investopedia",
-      "source": "Investopedia",
-      "url": "https://www.investopedia.com/oracle-stock-leads-s-and-p-500-gainers-thursday-on-better-than-expected-results-update-11753120",
-      "image_url": "https://www.investopedia.com/thmb/10z52-IZKLFK2bg_-6B9Yoqkr2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2217725505-577606c6e2ed45feaf342d9f72f0a9d8.jpg",
-      "summary": "Stocks Rise, on Pace for Weekly Gains Oracle Stock Soars on Strong Growth Projection Boeing Stock Drops After 787-8 Plane Crashes in India Trump Suggests Industries' Concerns Could Lead to Immigration Policy Changes Oracle Stock Leads S&P 500 Gainers Thursday on Better-Than-Expected Results Updated June 12, 2025 06:38 PM EDT Oracle shares entered Thursday up just 6% since the start...",
-      "published": "Thu, 12 Jun 2025 22:38:33 GMT"
-    },
-    {
-      "id": "bb20bf03061e9a1cec4354a415486f22",
-      "title": "Trump Calls Fed Chair Powell A ‘Numbskull’ In Latest Attack Over Interest Rate Cuts - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/dereksaul/2025/06/12/trump-calls-fed-chair-powell-as-numbskull-in-latest-attack-over-interest-rate-cuts/",
-      "image_url": "https://imageio.forbes.com/specials-images/imageserve/684af8e83d31e0c6f50c7ad4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "summary": "Trump Calls Fed Chair Powell A ‘Numbskull’ In Latest Attack Over Interest Rate Cuts ByDerek Saul, Forbes Staff. Derek Saul has covered markets for the Forbes news team since 2021. Jun 12, 2025, 12:11pm EDTJun 12, 2025, 05:49pm EDT President Donald Trump name called Federal Reserve Chairman Jerome Powell for declining to lower interest rates, as Trump has continuously demanded,...",
-      "published": "Thu, 12 Jun 2025 16:11:00 GMT"
+      "id": "373ccfc526049846c98b1f63bb05a339",
+      "title": "Nvidia: Will See You At $100 Soon Once Again (Technical Analysis) (NASDAQ:NVDA) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0RoYkEyY3MwcVJmelU1a19UdGFsUEpCZHZTQXUxUkxYa1R0RlE3Z0c5SHNUdVRmSE1fMGlzakZ4THo0b2RNZzNRczNVM0dIajFFVFYxN3JRZnRLQVdwT0o4Q2dRYjJzRy1zd1ZCVmlnMFl3b21DMGJONkptT3FSNUNIWXE3RjVETzAwaG1DWXlHbFJxT3VNTnFkYlJ4VDNmMkVVLQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 13:41:00 GMT"
     },
     {
       "id": "97008ddec41fed9d8b7882994e7d5913",
       "title": "California Opens Investigation Into State Farm - The New York Times",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/12/realestate/state-farm-california-insurance-investigation.html",
-      "image_url": null,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS1U1X2ozUHZBWWdIRms4YjhRU2p4UlRzWUljM2hHNkdrVi1KTkJuMUZSMmNZV3lFQUEyZmlEZC1GcDBZZ2tuV1hacjBlRnBPakw4Yk04RFF0dEhkVnlGb3N5ZjJMYjNoUnhYUzVTMFd2cTkzU1E1WVhoeXZiZWZTemtLdjJkVHUtc3V2X3VpQWtMM3c4cllRZVk5WGU?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
       "published": "Thu, 12 Jun 2025 22:56:05 GMT"
     },
     {
-      "id": "c6f94df64badcc77008a27fee29182fe",
-      "title": "Why there's an unexpected surge in people claiming Social Security - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/12/nx-s1-5401054/trump-social-security-claims",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa3%2Fdb%2F1a34f8f44df6a74e9ad607575df5%2Fbill-armstrong-03.jpg",
-      "summary": "Why there's an unexpected surge in people claiming Social Security Bill Armstrong is among the 62-year-olds who have filed for Social Security retirement benefits in recent months. \"I decided I better get in the system before they move that age higher,\" he says. Social Security retirement claims tend to follow a seasonal pattern each year, and they increase over time...",
-      "published": "Thu, 12 Jun 2025 16:00:00 GMT"
-    },
-    {
-      "id": "4215345a934c8f8360bdd451d57aef31",
-      "title": "JetBlue flight from Chicago rolls off runway and into grass in Boston - Chicago Tribune",
-      "source": "Chicago Tribune",
-      "url": "https://www.chicagotribune.com/2025/06/12/jetblue-runway-chicago-boston/",
-      "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/06/Plane_Rolled_Boston_12207-1.jpg?w=1024&h=683",
-      "summary": "JetBlue flight from Chicago rolls off runway and into grass in Boston",
-      "published": "Thu, 12 Jun 2025 18:56:56 GMT"
-    },
-    {
-      "id": "91c19afe69356c1c92ac7d612fcf7cee",
-      "title": "US Treasury’s 30-Year Bond Auction Is Met With Solid Demand - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-12/us-treasury-s-30-year-bond-auction-is-met-with-solid-demand",
-      "image_url": null,
-      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
-      "published": "Thu, 12 Jun 2025 20:29:58 GMT"
-    },
-    {
-      "id": "6d008109699166692f026e26c8edc289",
-      "title": "Trump says he’ll pick a Fed chair soon. Will he do it? What’s it mean for markets? - MarketWatch",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-says-hell-pick-a-new-fed-chair-very-soon-what-a-shadow-chair-would-mean-for-the-stock-market-eb7286fa",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 20:23:00 GMT"
-    },
-    {
-      "id": "5c37745653d7fb6d3ba670acff916afd",
-      "title": "Adobe Beats Targets, Raises Full-Year Outlook. But Stock Wavers. - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/adobe-stock-adbe-fiscal-q2-2025-earnings/",
-      "image_url": "https://www.investors.com/wp-content/uploads/2019/03/IBD-logo-216x36.png",
-      "summary": "Access to this page has been denied because we believe you are using automation tools to browse the website. This may happen as a result of the following: Javascript is disabled or blocked by an extension (ad blockers for example) Your browser does not support cookies Please make sure that Javascript and cookies are enabled on your browser and that...",
-      "published": "Thu, 12 Jun 2025 21:02:00 GMT"
-    },
-    {
-      "id": "4442191ac80d5bb2e75113a6f78b82a4",
-      "title": "JetZero plans to build $4.7B plant in North Carolina, aims to create 14,500 jobs - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/north-carolina-airplane-plant-jetzero-fdb49ed6c9d38981765ef1f421e3357a",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Fri, 13 Jun 2025 01:51:00 GMT"
-    },
-    {
-      "id": "6cb44749759cf5a0365048642b161a41",
-      "title": "US producer prices rebound less than expected in May - Reuters",
+      "id": "7555bbe17f827dc4d93d96e0e53313b2",
+      "title": "Trading Day: Dollar despair deepens - Reuters",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/us-producer-prices-rebound-less-than-expected-may-2025-06-12/",
-      "image_url": null,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa19WM2x2cTZuNFc5UUJ5cjdmNFNkMzhtMlJlU3V4RFdvbzVqdTRCVlNlWDFvSWZ5REEtVk0tczM1ZVptUDctTENCQnZDRmw2SHVVT3JVdlVUT1dsUGxxVTdFQ25FVDN2dXpXYV9DMlI5Z0RTSUNOZ0thN0JJNEJ3Vk5XRHd5Y3Y5eGNxOFpqMW5oeVpXWkZyTWExN3VIRmlyZkdz?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 13:07:41 GMT"
-    },
-    {
-      "id": "f9b609cf844fb63f6f997a799bde2af4",
-      "title": "Data Centers Pose Threat to Electric Grids, US Regulator Says - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-12/data-centers-pose-threat-to-electric-grids-says-us-regulator",
-      "image_url": null,
-      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
-      "published": "Thu, 12 Jun 2025 17:30:00 GMT"
-    },
-    {
-      "id": "61800c3168c99ab970eef39093abfeb1",
-      "title": "AMD Unveils Its Latest Chips, With ChatGPT Maker OpenAI Among Its Customers - Investopedia",
-      "source": "Investopedia",
-      "url": "https://www.investopedia.com/amd-unveils-its-latest-chips-with-chatgpt-maker-openai-among-its-customers-11753789",
-      "image_url": "https://www.investopedia.com/thmb/KPgF1lmVs41RlZiT_K1M4_rEUtM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Screenshot2025-06-12at4.58.35PM-2a3e218f561c45d09abce715571008a6.jpeg",
-      "summary": "Stocks Rise, on Pace for Weekly Gains Oracle Stock Soars on Strong Growth Projection Boeing Stock Drops After 787-8 Plane Crashes in India Trump Suggests Industries' Concerns Could Lead to Immigration Policy Changes AMD Unveils Its Latest Chips, With ChatGPT Maker OpenAI Among Its Customers By ANDREW KESSEL Published June 12, 2025 05:30 PM EDT Advanced Micro Devices CEO Lisa...",
-      "published": "Thu, 12 Jun 2025 21:30:33 GMT"
-    },
-    {
-      "id": "5a4e8a474d82b4d8fdf86039f37a0a96",
-      "title": "Nvidia Stock Is Rising. What’s Curbing Its Gains. - Barron's",
-      "source": "Barron's",
-      "url": "https://www.barrons.com/articles/nvidia-stock-trade-tariffs-huang-ai-8581ed06",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 14:10:00 GMT"
+      "published": "Thu, 12 Jun 2025 21:04:38 GMT"
     },
     {
       "id": "14fe3bdafe4fe8ed40446cc00f905ce0",
       "title": "House GOP plan to gut green energy tax credits meets resistance in Senate - NPR",
       "source": "NPR",
-      "url": "https://www.npr.org/2025/06/12/g-s1-72209/senate-republican-green-energy-tax-credits",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4729x2660+0+247/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2F33%2Fb528ab6c4701b38f1db9fac95f81%2Fgettyimages-2193477346-1.jpg",
-      "summary": "House GOP plan to gut green energy tax credits meets resistance in Senate Republican Sen. John Curtis of Utah, seen here on Capitol Hill in January, wants to see a careful evaluation of the merit of each tax credit and thoughtful phase-outs. Andrew Caballero-Reynolds/AFP via Getty Images As Republicans on the Senate Finance Committee prepare to release their portion of...",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNE5zeGdpalRqZ0k5THFWUUdZTmhhR004REZNd0s3NmtjMVdyRVlBQVB2ek1UdmxobE9TOWNOX3B3OXNmald2U0dRdENWR1o3U2xTc2plWmRWUjcwTVJGeERzVGlFTWxvcThnY3BER2ZJZjFXQWotMWViVHB1MXZaeEh5UVBYTllkZGZwbw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Thu, 12 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "id": "97bee4660eadfce0eefa1c52e2d44ef3",
+      "title": "Elon Musk's Stunning U-Turn After Explosive Spat Reveals Something Telling... About Trump - HuffPost",
+      "source": "HuffPost",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWM1SFlvMmRGV0NvWW0wc2tlVlpFNnR5R2M0ZXpqTlI0YXNwMEVfTDJrcHZlUXNJOG5WckxMOGFUaVgwNGw1UmEyMVJweERIei12UVFMclBtZm1hamIxUkN0UHBsYVVpMDNEb0gyejlVXzRqVEZmU1ZGN0hWMG5kV1U0RmhvSmtVTDNDZTMtX0pGMHI2SmpoMjFiV0JfSFVz0gGmAUFVX3lxTFBPNndiZllta0NsQ1BoMHVrTUhsWXNIazBtQ0dhdEJJN21waDR1eTl1b1VzY2F0dk9NaUxTUkNVUDh5VURrbS1RZnkxdXlOaWRNUE9ZT3ROeWpZZlZCZjNPZExQRGg5S1VvSHMtVHNrMnpRQnJTcTA2V0VJZlJjSkgtRE02X0ZLNFoteUkxZks2V2szXzBTWTUzbmY0QnRNeGs0NFp0bnc?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 17:05:10 GMT"
+    },
+    {
+      "id": "8b820b11366156bfb1fbdcad2b82c602",
+      "title": "US Treasury’s 30-Year Bond Auction Is Met With Solid Demand - Bloomberg",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObDdvRVhVM3NDLVRUcjNBRUFwSEZMamdfSkVwTklkdGRKR1FBRS1wWFpOaTZ3eXFQcjNTSTc0dndWSWE3UDUyaTRhbFg1ZGpITFBObUlpTDNTdmhvQloxTWxhekNPM3FHQndRbWpVa0NqUktwTHJyenM4OERDejNxZllkcWpuRkMxR3puOF9qWDBRX0E5WUR1ZExjT0lOOTdzM3F0RWJZNU5Uanp6UFh3?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 20:29:58 GMT"
+    },
+    {
+      "id": "fb48be11802946b4a45ec1cba208e071",
+      "title": "U.S. FDA Approves UroGen’s ZUSDURI™ (mitomycin) for Intravesical Solution as the First and Only Medication for Recurrent Low-Grade Intermediate-Risk Non-Muscle Invasive Bladder Cancer (LG-IR-NMIBC) - Business Wire",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPRDVRcFZUbHhQYWxyVk9oZlVoMUhTVFdxS2xvY2hEYTItNmtTQ2c1LUduOGxtbk9ac3hDeTk0YmgtTnd3MnhFWEVPLV91M2V6UFdyV2s4MXZhWnF4al9TUnVVN1ViTUVvM3g4UUpDdzRMVHBSZUVKdk0xNG9ySlcxX1FIYTk1TmpneVdrNWhZYXZCYlBGSjJuSG51TVdSVHU0aHA0d0tpcmhkOU8tVnI4SU5PZXA3ejZ0VTZycFh0VEpTemJaYnFxSWdkNUZtTm5tSVctTXBQRWJUaWR6eXpleXJJZ1BWMzNHaWNYVnhsSXU4ckp4NjZjRkNETWdXZVd0V2ttQnhnZ2hFc1BSVU5ub2dDNmVjREZXdEg3eHc4ZzFJN3o2NmJHT2dtZHZpNU04Zzl1aVN0cncyQnZjYXlVRW00Wi1FUDhCSnJ1ZW44Sl9QM3ZCaEwxUnlaOTBFSkVjYWNvRUpKWQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 17:28:00 GMT"
+    },
+    {
+      "id": "8f74649399cfc7cc798ab1455dfaed44",
+      "title": "Meta cracks down on nudify apps after being exposed - The Verge",
+      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VQWhsbGJKNFhUTW1yLXFDczNBbjdmY1lsYWdiSUpXVlJUcWlEVUhaeUZoMThDSzlUTTFGRHFkSno0b0NRZnBnTTRGTkZGdWR4MTVVTFFqWnBTbnZWRDVCSVhjN01vTWhHSm9sY1JTeUpxb2RlOG1kdGZhOHY?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 12:46:12 GMT"
+    },
+    {
+      "id": "f89aaf8e8cfa02a64266101609d2deb8",
+      "title": "Jobless Claims Show Cool Labor Market Needs Fed Help; S&P 500 Slips - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2ZPM2VDZl9fNXFuYkNNQVBwNl9wZE5xQ1c0VWJQbzIzQTAzUEliaEF5cWdVWEhDaENCbGlpYUNLcUxaaU5LLWlsSDltcEpyWml0c2FaNFNXSGU1Z0FIQng5MUd4d2xhMFVIdHNXQnRaTEpPRy1aOUFOZmpMdjFEVmkyLXY4dHRfQm80Rk9nZHlvLV9hU3p3ZVdEZ0dSaDJCWFd1N2RsRFJmdw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 13:34:00 GMT"
     }
   ]
 }

@@ -1,36 +1,18 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-13 08:50:55",
+    "generation_time": "2025-06-13 13:58:13",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "629a758cdf78dd1835c20d91cfceea1e",
-      "title": "Bloomberg: Apple now targeting iOS 26.4 for long-delayed Siri AI upgrade - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2025/06/12/apple-now-targeting-ios-26-4-for-siri-ai-upgrade/",
-      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/siri-ios19-white.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "summary": "Bloomberg: Apple now targeting iOS 26. 4 for long-delayed Siri AI upgrade This morning, we noted that in a new interview, Apple’s Greg ”Joz” Joswiak confirmed that the new AI Siri upgrade would arrive in 2026. Now, Bloomberg’s Mark Gurman is out with a new report offering more details on the delay, including Apple’s internal timeline. According to the report,...",
-      "published": "Thu, 12 Jun 2025 21:15:00 GMT"
-    },
-    {
-      "id": "df5b9ca7e0f2b72515053fb64451bebf",
-      "title": "Switch 2 size comparison: Nintendo’s latest up next to a whole lot of consoles - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/nintendo/685920/nintendo-switch-2-size-comparison-steam-deck-playstation-xbox-consoles",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257796_Nintendo_Switch_2_size_comparison_ADiBenedetto_0039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "Switch 2 size comparison: Nintendo’s latest up next to a whole lot of consoles The Switch 2 is bigger than the original, but how does it compare to a GameCube? If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. New kid on the block. | Photo: Antonio G. Di Benedetto /...",
-      "published": "Thu, 12 Jun 2025 17:30:00 GMT"
-    },
-    {
-      "id": "8890141bbb690f61f486f0d3952fd9d5",
-      "title": "Here are Apple’s top AI announcements from WWDC 2025 - TechCrunch",
+      "id": "4199f15fe95c7e9e7833d895368f5474",
+      "title": "The Meta AI app is a privacy disaster - TechCrunch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/06/12/here-are-apples-top-ai-announcements-from-wwdc-2025/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800",
-      "summary": "Here are Apple’s top AI announcements from WWDC 2025 Last year, Apple’s WWDC keynote highlighted the company’s ambitious strides in AI. This year, the company toned down its emphasis on Apple Intelligence and concentrated on updates to its operating systems, services, and software, introducing a new aesthetic it calls “Liquid Glass” along with a new naming convention. Nevertheless, Apple still...",
-      "published": "Thu, 12 Jun 2025 17:53:12 GMT"
+      "url": "https://techcrunch.com/2025/06/12/the-meta-ai-app-is-a-privacy-disaster/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/12/dripping-meta-logo.jpg?resize=1200,675",
+      "summary": "The Meta AI app is a privacy disaster It sounds like the start of a 21st-century horror film: Your browser history has been public all along, and you had no idea. That’s basically what it feels like right now on the new stand-alone Meta AI app, where swathes of people are publishing their ostensibly private conversations with the chatbot. When...",
+      "published": "Thu, 12 Jun 2025 20:49:02 GMT"
     },
     {
       "id": "3275236b97c9a3fdf9fe187a7cf8704b",
@@ -38,26 +20,116 @@
       "source": "GSMArena.com",
       "url": "https://www.gsmarena.com/samsung_galaxy_z_fold7_flip7_and_watch8_series_bag_more_certifications-news-68232.php",
       "image_url": "https://fdn.gsmarena.com/imgroot/news/25/06/samsung-galaxy-z-fold7-flip7-watch8-certified/-952x498w6/gsmarena_000.jpg",
-      "summary": "Samsung Galaxy Z Fold7, Flip7 and Watch8 series bag more certifications Samsung Android Smart wearables Wear OS Samsung is expected to unveil the Galaxy Z Fold7, Flip7, and Watch8 series in early or mid-July at a special Unpacked event in New York, and ahead of that all of these devices have been doing the certifications dance. It's no different today,...",
+      "summary": "We use technology such as cookies on our site to collect and use personal data to personalize content and ads, to provide social media features and to analyse our traffic. We may share your cookies with third party vendors and service providers. Samsung Galaxy Z Fold7, Flip7 and Watch8 series bag more certifications Samsung Android Smart wearables Wear OS Samsung...",
       "published": "Thu, 12 Jun 2025 19:01:03 GMT"
     },
     {
-      "id": "4f260fac583c83f5a5b259a731e6ce17",
-      "title": "Samsung releases One UI 8.0 Beta 2 for Galaxy S25 series with ‘major’ changes - Sammy Fans",
-      "source": "Sammy Fans",
-      "url": "https://www.sammyfans.com/2025/06/12/samsung-releases-one-ui-8-0-beta-2-for-galaxy-s25-series/",
-      "image_url": "https://www.sammyfans.com/wp-content/uploads/2025/03/galaxy-s25-img31-1000x576.jpg",
-      "summary": "Samsung releases One UI 8. 0 Beta 2 for Galaxy S25 series with ‘major’ changes Published 24 hours ago on June 12, 2025 Samsung starts rolling out the One UI 8. 0 Beta 2 update for the Galaxy S25 series. The company is pushing ZYF3 build to the S25, S25+, and S25 Ultra in South Korea, with more qualifying markets...",
-      "published": "Thu, 12 Jun 2025 08:17:29 GMT"
-    },
-    {
-      "id": "3089334214c4c9a4516dc6be83720ca9",
-      "title": "Android 16 is out, complete with new features for Pixel phones including live notification updates - Engadget",
-      "source": "Engadget",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSmIwMzZlVWpjV3p3elcxaTdqN2JtRjFfUHczVVJWQk1MSktSeUV1R3MzTEE0VjJkY0lDVFNGdGJxNVpCY0xaSW9JZ3p4cnVFX3dYVGNWZmZfM2N3T3ktdGNlV1BIT2dENHYwaDdyMC1ENFpMU0JheXozdTRWb3lZT0EwU3Z5LWtuQl8wS3AtYkVmazNVZ200OW5Md3VieUs5eUNnakxqSmY0MXpzRFNMNkF0aENzV1pNeFdpVllLVFdLOGp5T1NIcm9aOGxPY0lEWVJhRjI5SVFVMl9y?oc=5",
+      "id": "211db2e0d1e314302cc6f422991d9fca",
+      "title": "watchOS 26 adds new wrist flick gesture for these Apple Watch models - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUVFBdnc4MktlOENTWjdObE52dVNIczRiM083c3hOQVJ1bUE1YTFUQW5FS051UlpsbmdQNmNGeVpyLVZMcldPeC1MTXZLZG1jMHpPNVFoSGR4M2JZLVRET3NmUFlfYVpQbHllRXBwZTVmUUVGOWR6amNBek5OV0FPTXRTRDlvSHdpMVhrbDgtM1JlRXUwWlhFSGhBWnFCelJrRVE?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 15:40:32 GMT"
+      "published": "Wed, 11 Jun 2025 19:01:00 GMT"
+    },
+    {
+      "id": "028982d673a73c11fa22955e1c240c62",
+      "title": "PCIe 7.0 is coming, but not soon, and not for you - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/686560/pcie-7-0-specification-launch-bandwith-speed",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS505_QUANTUM_COMPUTING_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "PCIe 7.0 is coming, but not soon, and not for you﻿Unless you’re a datacenter or quantum computer. PCIe 7.0 is earmarked for data-heavy applications rather than consumer computing hardware. Image: Getty Images Jess Weatherbed is a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews. The PCIe 7.",
+      "published": "Fri, 13 Jun 2025 09:22:06 GMT"
+    },
+    {
+      "id": "56df46e420d3e840fc8eaba84ecb0cda",
+      "title": "Google is shutting down Android Instant Apps over ‘low’ usage - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/686573/google-android-instant-apps-shutdown",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "Google is shutting down Android Instant Apps over ‘low’ usage﻿The installation-free apps will join the Google graveyard in December. Illustration: Alex Castro / The Verge Dominic Preston is a news editor with over a decade’s experience in journalism. He previously worked at Android Police and Tech Advisor. Google has confirmed that it plans to shut down Android’s Instant Apps later...",
+      "published": "Fri, 13 Jun 2025 11:47:23 GMT"
+    },
+    {
+      "id": "90d59f0d53540d2fe607d5df6bac2ee7",
+      "title": "Android 16 QPR1 Beta 2 updates status bar chip for phone calls, Gemini Live - 9to5Google",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2025/06/12/android-16-qpr1-call-chip/",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Android-16-new-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Android 16 QPR1 Beta 2 updates status bar chip for phone calls, Gemini Live With Android 16 QPR1 Beta 2, it’s slightly easier to manage ongoing calls, including Gemini Live, from the status bar chip. Previously, tapping the pill-shaped chip when in a call would open the responsible app. With Android 16 QPR1 Beta 2 (via Android Authority), this action...",
+      "published": "Thu, 12 Jun 2025 22:50:00 GMT"
+    },
+    {
+      "id": "458f7f4d080579c20903f6f01cfe7968",
+      "title": "Apple Plans to Release Delayed Siri Apple Intelligence Features in Spring 2026 - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/06/12/apple-intelligence-siri-spring-2026/",
+      "image_url": "https://images.macrumors.com/t/eNxYmCA1u77ZdJovI2KACUQ_lN0=/2500x/article-new/2024/06/Apple-Intelligence-General-Feature.jpg",
+      "summary": "iPhone 16eWWDC 2025iOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad minimacOS 26 TahoeApple Watch 10iPhone 18CarPlayApple Pay Experience incredible savings & book your dream vacation with...",
+      "published": "Thu, 12 Jun 2025 21:06:47 GMT"
+    },
+    {
+      "id": "6aa3dee906c685ee49d88c4c557cbf55",
+      "title": "iPadOS 26 is perfect for the larger iPad model that’s coming - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2025/06/12/ipados-26-is-perfect-for-apples-larger-ipad-thats-coming/",
+      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/ipados-26-foldable-ipad-fold.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "iPadOS 26 is perfect for the larger iPad model that’s coming iPadOS 26 is a huge update for iPad users, with the biggest productivity changes ever introduced on the platform. While its new windowing system should be great for existing iPads, it also looks like a perfect fit for the larger iPad model Apple has on the way. ‘iPad Fold’...",
+      "published": "Thu, 12 Jun 2025 20:59:00 GMT"
+    },
+    {
+      "id": "457f2d15e8d506079ddbafe036949d44",
+      "title": "Japanese Charts: Switch 2 Crushes PS2 To Become Fastest-Selling Console Ever - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2025/06/japanese-charts-switch-2-crushes-ps2-to-become-fastest-selling-console-ever",
+      "image_url": "https://images.nintendolife.com/59bdf11a1b69a/large.jpg",
+      "summary": "Nintendo Switch News Reviews Features Games Guides Videos Forums Better eShop Nintendo SwitchJapanChartsSales Japanese Charts: Switch 2 Crushes PS2 To Become Fastest-Selling Console Ever Nearly 1 million consoles sold! by Ollie Reynolds Yesterday, 3:45pm The latest Japanese boxed charts are here, courtesy of Famitsu, and golly gosh, would you believe it, Mario Kart World has stormed to the top with...",
+      "published": "Thu, 12 Jun 2025 15:45:00 GMT"
+    },
+    {
+      "id": "498addd2cf319d38739c643f7c3b2fd8",
+      "title": "A tiny detail in Apple's new software is driving designers round the bend - Creative Bloq",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/web-design/ux-ui/of-course-designers-are-losing-it-over-apples-corner-radiuses-in-macos-tahoe",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/oCfw6ChySqWTiAfNx2pdFj.jpg",
+      "summary": "Of course designers are losing it over Apple's corner radiuses in macOS Tahoe By Daniel John published yesterday This one's like a red rag to a designer. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. (Image credit: Linus Ekenstam via X) While the fanfare of Apple's WWDC announcements are always...",
+      "published": "Thu, 12 Jun 2025 11:14:19 GMT"
+    },
+    {
+      "id": "040eb99c1b17ee05ccc1221e2131812e",
+      "title": "Razer's new Kishi V3 controllers can fit up to a 13-inch iPad - Engadget",
+      "source": "Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY3ZFY3hfQ2VTZ2QxTzJWTHFUS29Qd2JZVUpHOVVLaGZmbUxVck1oaVNydHBFemVMRDMzZ3NMdWt1bjVPVTFrTm5RSzR2UjRlVzlLUm1wR1dZX2VKZXBPcEdvZXRaRUMta182Z19Cd2R3MHBhbDRNNU1tLXlCdlpPZW1LVjJPMFgwZWE3ODlOTVB0WE1ZNlNHWFRHY3E3S3JNZ3duZnhKYVliS1U?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 17:03:17 GMT"
+    },
+    {
+      "id": "8890141bbb690f61f486f0d3952fd9d5",
+      "title": "Here are Apple’s top AI announcements from WWDC 2025 - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1RXUVdLVjJxNVZzUl9vRGlqZ1NhRlFqVHBON25DZXo4bEFPNm9iY3Q4NFkzVG1EUnFKNnFlbVVuejRkRUZtc3ZZRUFENXFfbmxCRDdlUEswbjJOX3lCa0ozbl9id0JydEgtNW4zbGExTmdtRS1SM0ZmaVoyUURKbXpBN3hzSGVHZ3QyRlJJOA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 17:53:12 GMT"
+    },
+    {
+      "id": "8e170db34e1fa111c3433a329bf8b798",
+      "title": "YES: Google is Finally Embracing Magnets - Droid Life",
+      "source": "Droid Life",
+      "url": "https://www.droid-life.com/2025/06/11/report-google-to-finalize-embrace-magnets-qi-2-wireless-charging/",
+      "image_url": "https://www.droid-life.com/wp-content/uploads/2025/03/Pixel-10-Pro-XL-Render-1200x628-cropped.jpg",
+      "summary": "Report: Google to Finalize Embrace Magnets, Qi 2 Wireless Charging We may earn a commission when you click links to retailers and purchase goods. More info. It has been some time since Apple introduced MagSafe, even making it available to the Wireless Power Consortium in early 2023. Since then, we have seen hardly any movement on the Android side to...",
+      "published": "Wed, 11 Jun 2025 18:55:30 GMT"
+    },
+    {
+      "id": "d79f8bca86eb8835a31695253c62ec57",
+      "title": "Google will reduce Pixel 6A battery capacity due to overheating issues - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/685738/google-pixel-6a-battery-overheating-update",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/vpavic_220708_5335_0008.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "Google will reduce Pixel 6A battery capacity due to overheating issuesThere will be a mandatory update for a ‘subset’ of Pixel 6A phones. Photo by Vjeran Pavic / The Verge Jay Peters is a news editor covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme. Earlier this year, Google shipped a Pixel...",
+      "published": "Wed, 11 Jun 2025 21:10:39 GMT"
     },
     {
       "id": "e56ca8870744fc27f9c95feb2d339624",
@@ -69,121 +141,49 @@
       "published": "Thu, 12 Jun 2025 13:25:15 GMT"
     },
     {
-      "id": "712fa07997debf50f9b6899e5dd4fd92",
-      "title": "Here’s the $2,000 fully AI-generated ad that aired during the NBA Finals - The Verge",
-      "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVE1NUXc2YzJkbVpEWGhFLVJqeVE5ZmRKSTQ1NFVYUk5tQjdrSDNrV2ZGcTdjcEUzLVRzZlVpNXRvbld5VXJsUFlqNHFRSGJHZjQ0QmdQaVRyY1pNT1pCUWU3NFZqRmkwYldOaVlrSW9tbGhhT0lfcFFvNW9kbjMwMy1acUZEWEd4VXRJ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 21:33:28 GMT"
+      "id": "40bbd541a6808e4ee1dddc5cf406f59c",
+      "title": "Apple Watch Ultra 2 With Black Titanium is Now Available Refurbished - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/06/12/refurbished-black-apple-watch-ultra-2/",
+      "image_url": "https://images.macrumors.com/t/P4LdECugnko3tpuGqLbffEs9dJ0=/2500x/article-new/2024/09/apple-watch-ultra-2-new-black.jpg",
+      "summary": "iPhone 16eWWDC 2025iOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad minimacOS 26 TahoeApple Watch 10iPhone 18CarPlayApple Pay Apple Watch Ultra 2 With Black Titanium is Now...",
+      "published": "Thu, 12 Jun 2025 17:34:42 GMT"
+    },
+    {
+      "id": "87b3ee6693bfd99ff3ba76b3eb9dfe12",
+      "title": "MindsEye studio ‘heartbroken’ over buggy launch, as PlayStation issues refunds - Video Games Chronicle",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/mindseye-studio-heartbroken-over-buggy-launch-as-playstation-issues-refunds/",
+      "image_url": "https://www.videogameschronicle.com/files/2025/06/GtGapOnXcAAYPqM.jpg",
+      "summary": ".cls-1{fill:url(#linear-gradient)}. cls-2{fill:#fff} GO AD-FREE! Support VGC on Patreon MindsEye studio ‘heartbroken’ over buggy launch, as PlayStation issues refunds MindsEye studio Build a Rocket Boy says it’s “heartbroken” over the buggy experience many launch players have suffered, as PlayStation appears to be issuing refunds to some who are dissatisfied with the game. The Edinburgh-based studio has been scrambling to fix bugs...",
+      "published": "Thu, 12 Jun 2025 15:42:28 GMT"
     },
     {
       "id": "53691d7bed3ee2656e6026dfcba13c65",
       "title": "Microsoft’s new Copilot Vision can ‘see’ your apps on Windows - The Verge",
       "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDFTZUNOV01lekljSGlKY1pXWkdfLW5TXzlqeEJOdV9nUnV5WUs2bHdRdTZzUG1zLU9La2U5UXdpTVQtR0ROWGtUM3RPODlFUGI2XzNBYjM2LTl2cXVKZjRXLU10RE1yVC1jel9fQ0dJbUpuR0poWl9FY08xWDRheU1B?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.theverge.com/news/685963/microsoft-copilot-vision-windows-launch",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Copilot-Vision-on-Windows.png?quality=90&strip=all&crop=0%2C3.5043662306087%2C100%2C92.991267538783&w=1200",
+      "summary": "Microsoft’s new Copilot Vision can ‘see’ your apps on WindowsCopilot Vision is now available to all Windows users in the US. Tom Warren is a senior editor and author of Notepad, who has been covering all things Microsoft, PC, and tech for over 20 years. Microsoft is launching Copilot Vision for Windows today, an extension of its AI assistant that...",
       "published": "Thu, 12 Jun 2025 16:00:00 GMT"
     },
     {
-      "id": "a4de1dbacd8c6507338a976386bf61d2",
-      "title": "MindsEye Dev 'Heartbroken' Amid Troubled Launch as Players Report Success With Refunds and Sponsored Streams Are Canceled Last Minute - IGN",
-      "source": "IGN",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNzdKd0FkRlZ1SmZYSzdjSEREdGExMktXdTFwd2JlWWVHOUpKb01GdHBXQ2IxbHZfWWhGcW5VUm85STJSa2QxNW1OV2xiRWJiN0dMZzk1cHNlNDZ1bDRnMVNzZnZGNXB2dF9ZODc1VHVmVFNTR3lJb3JLTjFjT3RfLTNSWGo0WGpQZDlwd0hqekhwaUFlQTl4emw2THQ2eHo2QklzX0ZpSnRYNGpIc05nX2pNdjVpV1JpMFZUcDRxN3d3YVZ3Qjl3eGNmWVNmSjFWU2MzV0RENU1mbDRFNVVnX2lwU3piUHVmTDhUQlhEeDNFQQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 14:53:01 GMT"
-    },
-    {
-      "id": "ef3efad885fd9839820c15bc211427ac",
-      "title": "GTA newest update lets players run car wash fronts to launder money - Boing Boing",
-      "source": "Boing Boing",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3Z3dk1QUVJELXFwbElmbFBvTmpvQzU3eFFxTF9ibzZ5cjRsNU9rbXBLcERwVDlFVkRKZnhDWkdsaFJOS01mM0kzcHRxY3JPQm1PeWtPbUhEQUFzbm51ZXRUTGstb3dKZm9NYTRfUUJRQ3BUTFlQRTZXOWV3MmZaWkRHWDAyRm51eFlTb3RzTkduSkZrYUpZRDlxVEFJVTViSkhCWmUxOXVXd9IBrwFBVV95cUxPaDhNcVFRamxZTG1rQUQ2UFJtQnFBMlFpQTllMzhjdkFGVG55cG8tenA5aDVxWGtDUjgtV0c0NUVmUWV0YUI3VzJKbFhpWWVsc2JVOUItR2xtMk54VThtbGxsbXdqZHRMZk1aLUpqd1AtWmtuV19GQ0FQdlp3YXFUZmpDcmQxdU44TWtVRjhFZDZEOTcwV3Zrellwb05zZVJCcGI4N0dGOGFtN185VWhr?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 15:51:24 GMT"
-    },
-    {
-      "id": "6aa3dee906c685ee49d88c4c557cbf55",
-      "title": "iPadOS 26 is perfect for the larger iPad model that’s coming - 9to5Mac",
+      "id": "cd00ff5d9f4cdae5e62e89ef45ae8c64",
+      "title": "Steam finally goes native on Apple Silicon, here’s how to try it - 9to5Mac",
       "source": "9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ05xeURsUW1aRjVZbFFTck9HZmpSWnBUbmtNdWZUbDUxbHBBZmJfS2tjdWU0UHdtNnpoUHRIR2Y2YjJ0NFhEMUx4QW44ZjBPdWsxN1NXOWk1VGVnbng1WTNWdzJtMElOTDF3cG5BZVgtVXVkZEkwNXpKV3ZmMllYWnM0bW1UaUN3bmlYdFdLa05WZw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 20:59:00 GMT"
+      "url": "https://9to5mac.com/2025/06/12/steam-finally-goes-native-on-apple-silicon-heres-how-to-try-it/",
+      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Steam.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Steam finally goes native on Apple Silicon, here’s how to try it After a years-long wait, Steam for Mac is finally a native Apple Silicon app. Or about to be. Valve quietly rolled out the new version as part of a beta update, and you can try it right now. Until now, Steam has relied entirely on Rosetta 2 to...",
+      "published": "Fri, 13 Jun 2025 00:53:00 GMT"
     },
     {
-      "id": "44d0fb2fd5105f1504242b6143bd928d",
-      "title": "Silent Hill remake from Bloober Team and Konami announced - Polygon",
-      "source": "Polygon",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Db3FWSmh2QVdxTmNJYUtTcmhZMXpMV3QzMlJJTGtidjg5YXdYNV9VNmU3Q193ZWoxYU5HZGJLcmJNcDAwTGl2RWFyNDk1enYwckVLYkdSaTViMk5zM2w1dE1MTEhPcWpHVkFBQV9Pak5nNUwyMm1ma0xMTW1wb0U?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 14:05:16 GMT"
-    },
-    {
-      "id": "f80e9f71a43fd73e578a9f4a542c088e",
-      "title": "2025 Ford Mustang GTD Starts At An Eye-Watering $327,960 - Jalopnik",
-      "source": "Jalopnik",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOHR2MFM2bkxSZVFVeVc4LUxqeVhlc29YV0FOcERKV3dJdnBOT05YZW0wOUg2aWxkbnMxODh0UmxmR2EyMFl1U29LY3pMVmcxcnF0R093NW9WZ3o1R0Z6RmhaQU9sbHFfa1lINWdoSW1zblozZWRvdUtOR3dVdWI4RmhOQnpscVJm?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 17:18:59 GMT"
-    },
-    {
-      "id": "db1c18b28f74c8685482912b07b6a568",
-      "title": "iOS 26 and macOS Tahoe Expand AutoFill Feature for One-Time Codes - MacRumors",
-      "source": "MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRTVRZ0Jvb0Fya0JpbXlXLXVOdW5qY0o0Z2Jyc2JJejZQeWFWUDBmSi16SmJiN2hpcDBEcDBhN2RFWlowakJvRldvYjVoTE5LemJhRkJvajFDazBtRkFsdEp6clFlek1ZanN5U0Q2Z1BpNUZxNldzMndXX1duMjJjVUxBZ3B5TzRxY1Zid2dYMA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 15:27:50 GMT"
-    },
-    {
-      "id": "09da0eba1b2917a74e98e3f7eb1f2c15",
-      "title": "10 Things I Wish I Knew When I Started ‘Stellar Blade,’ 2025 PC Edition - Forbes",
-      "source": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT3NEZ2V2eVZQYzJtbEN3bGdERUQ1bkpmYnduNG4xR0hFUjdJLTFnSTZlT0R2QllaTjhlNWJHTjJVb3FBUnZRQmRkdGptX0otV2JDRF9TUWVha0RFMUprbXZiSGZtTmtFUXdfN0REbmVGcnp2SlY4ZVVmRDlXMlJaTGttTnZuNE5DWmVGSzUtaDU2d1BkaVFiVmd5YW1wYjdreVYwYUI3MjF5TDN3ejJPdUxaU2Exb3BrVjlr?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 15:53:56 GMT"
-    },
-    {
-      "id": "9c960fbf2be6a4d64dc67e5dca398d9b",
-      "title": "Mario Kart World’s Journeys Are Smooth and Unremarkable - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtSXRfLV9rSVI5LUJzQkVuc2dkaWhfRS1TbW5MVFd0LVhEbHRYMy1tZ2ExRkw2LVhzZzZ3RzVJZndxUU5VMzhzMGJtdTJLbGIzNEVpcnhnVFBiYUVnanRXZFE5TnJRM245WTJnUU04YnVicFZZRENJ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 09:00:19 GMT"
-    },
-    {
-      "id": "98bfa5c7e5970a48a077fcfb3cfc72a8",
-      "title": "New Fantasy Life i Update Lands On Switch 1 & 2, Here Are The Full Patch Notes - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNm9ETXVjZ216MmJLRTdKWmpVS3FMeUNZWE1DdDR1VW1uQUR4WW5RUFAtbEJSNEhEYUFRVEV4aTJ3N3ZUbGpsSjFJc3hEV3dYZTVPT0NPNXRsTWdzSXJYQVFOM3VTeUpqbTVuWHJvVnJYYXluMU90c3RRZjNyREdSRDkzTHZoYW5kRGF1Umw0d2R3WG03WlhoRjhNZWVaTVhsSzVaV2xhMnNvZjM2MFpVRXAwbkVLQkdpZkdYZnZR?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 10:02:57 GMT"
-    },
-    {
-      "id": "25b53059f12e564e7504cde4016a9f3e",
-      "title": "The Alters brings Kojima-esque weirdness to a tale of sci-fi survival - The Verge",
-      "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTdfdjAzVjRhcFVQMlFLWURTdUh1cUtzZzBwR0hCMGJyWmZpVDFtYXpaVnl3R0dVM1ZYQmNncTI3eUllODNnRnBzOW5FS0NrbTRpZTJDQlJJcHJVeUZRc1BuMl81S3AzNGVjMGkxeVl3WDctRlNzY0otSFF5ek9aTHpPYw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "id": "69442959c57b7725857f24db4dd81a92",
+      "title": "11 bit studios' The Alters changed my mind about sci-fi games - Windows Central",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/the-alters-pc-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/bw6p9vNqeZhiRL57xZNguf.jpg",
+      "summary": "The Alters PC review: I'm rethinking my own life paths after falling in love with a sci-fi game I don’t know that I ever expected a video game to completely uproot any sense of self that I had, but The Alters managed to do it. By Cole Martin published yesterday When you purchase through links on our site, we may...",
       "published": "Thu, 12 Jun 2025 12:00:00 GMT"
-    },
-    {
-      "id": "181d05fae057a8539b3aecedccce3ada",
-      "title": "Think before you click: Experts warn email \"Unsubscribe\" links pose security risks - TechSpot",
-      "source": "TechSpot",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbmpKdngyTWxwbnAxM0lsYVA2b05hM1l3bkpIUVpBd2V5LTllVHVKT09rR00yUHprWm5DMVdfdHJZRFFpb2FyRG9yaUZOdmxSaVI4NFQ4Q0VHRDVIblFBeTdQQWowQ182dlNBSkVwUV9DSkRCeDFhVzR0azJRZlh1Qmx0XzhoTE51LXBpM2p0Y3V2aG95UGlucklXRQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 11 Jun 2025 17:10:00 GMT"
     }
   ]
 }

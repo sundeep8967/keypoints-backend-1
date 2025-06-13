@@ -1,27 +1,36 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-13 07:47:40",
-    "total_articles": 2
+    "generation_time": "2025-06-13 13:25:58",
+    "total_articles": 3
   },
   "articles": [
     {
-      "id": "51f02df30aa084a2ecb60b920aa42299",
-      "title": "Israel conducts airstrike in Iran - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2025/06/13/israel-strike-iran-trump-nuclear-talks",
-      "image_url": "https://images.axios.com/tyTl_Wa6dVN27LaowQSGkAxk4dQ=/0x337:4032x2605/1366x768/2025/06/13/1749782170665.jpg",
-      "summary": "Israel strikes Iran's nuclear sites, kills military chiefs and scientists A building in Iran that was hit during Israel's attack. Photo: Fatemeh Bahrami/Anadolu via Getty Israel launched a massive wave of attacks across Iran on Thursday night, bombing nuclear and missile sites, targeting military leaders and nuclear scientists, and conducting covert sabotage operations on missile and air defense sites. Why...",
-      "published": "Fri, 13 Jun 2025 05:56:18 GMT"
+      "id": "1c0cf1241d9f99fa33494b870156ec0a",
+      "title": "Middle East airspace shut after Israel strikes Iran, airlines cancel flights - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/after-israel-strikes-iran-airlines-divert-flights-airspace-closed-2025-06-13/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 13 Jun 2025 12:33:04 GMT"
     },
     {
-      "id": "b4396b5316d3354b66f722917cf21c0f",
-      "title": "The lone passenger who survived the deadly Air India crash sparks interest in other sole survivors - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/plane-crash-sole-survivors-b5db9319ffa815005d21f5a09eff8cf3",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Fri, 13 Jun 2025 02:15:00 GMT"
+      "id": "2118a943fa887adc36ec9b912bc4af67",
+      "title": "'I thought I would die': Sole survivor from Air India plane crash speaks out - ABC News",
+      "source": "ABC News",
+      "url": "https://abcnews.go.com/International/thought-die-sole-survivor-air-india-plane-crash/story?id=122806797",
+      "image_url": "https://i.abcnewsfe.com/a/3844aa71-67e8-48dc-b00e-5627599ad77d/sole-survivor-speaks_1749809476070_hpMain_16x9.jpg?w=1600",
+      "summary": "'I thought I would die': Sole survivor from Air India plane crash speaks out \"Everything happened in front of my eyes,\" Vishwaskumar Ramesh said. Investigation after hundreds killed in Air India plane crash An urgent investigation is underway to determine how an Air India jet carrying 230 passengers and 12 crew crashed just after takeoff, killing everyone but one person...",
+      "published": "Fri, 13 Jun 2025 10:31:53 GMT"
+    },
+    {
+      "id": "8e7ecb232827a6bf6bd79cd2e37adbe7",
+      "title": "North Korea claims warship launch successful on second try - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1mgd0252kpo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/bca4/live/a5fc4b90-481a-11f0-ae33-a1e238717da7.jpg",
+      "summary": "North Korea claims warship launch successful on second try Pyongyang says it has successfully relaunched its new warship North Korea says it has successfully relaunched its new 5,000-ton naval destroyer, less than a month after it capsized during the first attempted launch, state media reports. The country's leader, Kim Jong Un, had reacted furiously to the warship's failed launch in...",
+      "published": "Fri, 13 Jun 2025 05:51:28 GMT"
     }
   ]
 }

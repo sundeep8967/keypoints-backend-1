@@ -1,96 +1,140 @@
 {
   "metadata": {
     "type": "topic",
-    "timestamp": "2025-06-13T06:35:26.379890",
+    "timestamp": "2025-06-13T12:49:53.859905",
     "info": "topic: world",
-    "count": 2
+    "count": 3
   },
   "articles": [
     {
-      "title": "Israel conducts airstrike in Iran - Axios",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsbHF3WlF6V1pYd29GYXdNLUVQcHYxRzMtQUJlZzNyMzFaVC1hMl9VUDhjWHZfM3k2QmptSVZzQ0tRZHltQXNVa0FPRUN3d1NOZEFsMWthb19yRDRfTFJMeGlwMEtMb1Fmd055VGdNTXp0Q0xfM1ZqRkdOdw?oc=5",
-      "published": "Fri, 13 Jun 2025 05:56:18 GMT",
+      "title": "Middle East airspace shut after Israel strikes Iran, airlines cancel flights - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGdYZWNMa1BhMXlPeUg3aXF2TU1SX1JMbko4bU9Ud3M2T3VVWGZCLXhYSzVjemlnMFBTS0lscFVsbFAzUmktRzNRYl9hMDhVZFVuMXhZN3N5Q2cyaS1aWUFjbjJCZ2ZJR2VLckN1M0ZjVHNpOXNZNUhwa01jekZaX1hPUjR1V0RHd2IxMklLYW5pM1hBWHpPZURkUUFnMXlMR0FWRnA2Qm9DaFZyVDh3TFJ2UkU?oc=5",
+      "published": "Fri, 13 Jun 2025 12:33:04 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        13,
+        12,
+        33,
+        4,
+        4,
+        164,
+        0
+      ],
+      "source": "Reuters",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGdYZWNMa1BhMXlPeUg3aXF2TU1SX1JMbko4bU9Ud3M2T3VVWGZCLXhYSzVjemlnMFBTS0lscFVsbFAzUmktRzNRYl9hMDhVZFVuMXhZN3N5Q2cyaS1aWUFjbjJCZ2ZJR2VLckN1M0ZjVHNpOXNZNUhwa01jekZaX1hPUjR1V0RHd2IxMklLYW5pM1hBWHpPZURkUUFnMXlMR0FWRnA2Qm9DaFZyVDh3TFJ2UkU?oc=5",
+          "title": "Middle East airspace shut after Israel strikes Iran, airlines cancel flights",
+          "publisher": "Reuters"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hWjhIYklJUmthekFCMXhWdV9KOURKVkU5M29LSG9nUmwzcng4TFh0U2sta041bEpqd2drbHFVaS0yemMxc0RBaXlOUk1rVE5IdVRBcExfdENER2tVeFA4Ynp5RS0wb2pSdUJpcERqMWtfMWswcm8w?oc=5",
+          "title": "Israel Strikes Iran's Nuclear Program, Killing Top Military Officials: Live Updates",
+          "publisher": "The New York Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb2pncjFHeXRjTzhUSUhnNzhja2tVNG1vR004ZEN0RmdGZUt4QWE0dlYwdl8zMUNxTTVfbm9ETVFvekFhTC0wWEoyaUxfRUpEOTFhcTNoWDd6dmk4RmJUZmxkb2hLS0ZaVmxZajczc3FYUk1VV0w1YWFCWjJMMG4zcWo2Sl85Wk54MVJhNF9YQnY3YlMya1VsZEdZUVpNaDFIQ2tfXy16Mk5XMEVMWjY1MVB1Z0NaY20yYjR0WjlnM0JMUUZXUUxyb0UzOGQ5NGkwNXB0TDdsQ2Voa0xpcEhsNWp0dFlMdEU?oc=5",
+          "title": "Iran says Israel’s strikes on its nuclear facilities are a ‘declaration of war’ as Trump warns of ‘even more brutal attacks’ to come – live",
+          "publisher": "The Guardian"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU1BvT1hzcHhrM1hONlZ0ejN6ZktkdjFxVlZMeDM4Wm0tZDlQUmlRbmhEaFl0c1oxT01sOFV2SzdTZWk3c29iZG9lUF9yLTY2Nkt1cHhzazlmckx0WDRKRDJ5RGE0ajBqZndMWXNSOG52aUc2YllaREhFR0cxdHpCMElkMUNranBQUGNKTg?oc=5",
+          "title": "Israel attacks Iran's nuclear and missile sites, prompting retaliation from Tehran",
+          "publisher": "NPR"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWno5TG1HUzQzTGVOYW0ySUN1UnI4SFp5WWVPSkhQZmJPNVNDZjZUaTlkeWhrRWFkX3B5WHEyaWl3R2dkcEhwYTBiTlU0dmdRcVZmdU9UMUE0aG1UNnNNWDNXSUMzWUxTdUM0SVFLYTE1bE5ONjVBUVpqZXlqV1kzaUFNV25nZ2tGRFVvTHAyaVJuVHZLcHd6UlJTMkl4TEROTmZ4LXZ4R09NQnBfOHYwVUoyNjh4VW9XMFlF?oc=5",
+          "title": "After years of waiting, Israel's Netanyahu finally makes his move on Iran",
+          "publisher": "Reuters"
+        }
+      ]
+    },
+    {
+      "title": "'I thought I would die': Sole survivor from Air India plane crash speaks out - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGJxcUd4Z0pOemtZQjFyeGJITkRaMVdaZk8wdTNZNVJhU2lPN1NtdGJhdWtVRFNaTFp3Ni1rRURSQjl0dERLOTZScGxrWkJBcGdROUhCSlNHVzcya0c2UHdtQXVBR3lwMjZXYm8tcXBIeW5aeWFBak1ZVVEyMzlnYlFiazBrS21vejdsaEhBZXZ5Q2c4OGphZW4xYXNmWERlS3hVSmxB0gGrAUFVX3lxTFB5VmlQcXgyWll3V3EzR2NDQUdLNnZXNlJjT0VhVW1US3NmOUVHUWZxS2hpajJnalpFeTV3bUJvYzkxdDFzMHB1azdQVzdPU1c2QnlWVFBqMkJhUUtxcWt0UVZVdHRfNXFzQktNUGR0SlVObWgwZnowaGFXaWJTTm5PckwwWndEUnBJdUpmelVWeGNFSWEzdEVCLVhaSzE1TUNkaU5HVFRxTzhSbw?oc=5",
+      "published": "Fri, 13 Jun 2025 10:31:53 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        13,
+        10,
+        31,
+        53,
+        4,
+        164,
+        0
+      ],
+      "source": "ABC News",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGJxcUd4Z0pOemtZQjFyeGJITkRaMVdaZk8wdTNZNVJhU2lPN1NtdGJhdWtVRFNaTFp3Ni1rRURSQjl0dERLOTZScGxrWkJBcGdROUhCSlNHVzcya0c2UHdtQXVBR3lwMjZXYm8tcXBIeW5aeWFBak1ZVVEyMzlnYlFiazBrS21vejdsaEhBZXZ5Q2c4OGphZW4xYXNmWERlS3hVSmxB0gGrAUFVX3lxTFB5VmlQcXgyWll3V3EzR2NDQUdLNnZXNlJjT0VhVW1US3NmOUVHUWZxS2hpajJnalpFeTV3bUJvYzkxdDFzMHB1azdQVzdPU1c2QnlWVFBqMkJhUUtxcWt0UVZVdHRfNXFzQktNUGR0SlVObWgwZnowaGFXaWJTTm5PckwwWndEUnBJdUpmelVWeGNFSWEzdEVCLVhaSzE1TUNkaU5HVFRxTzhSbw?oc=5",
+          "title": "'I thought I would die': Sole survivor from Air India plane crash speaks out",
+          "publisher": "ABC News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbS0taXk4YjFkclpUNFFjSk42QVNJaTNZUThiZkpIYks0U0Z2ZFBObmsxdkd4dERfSWRtLS1FVUFRblNDTXFpYjBkSjhGY0dwVU9IX3ZSaWFLRGdNOE9vVDhObWkyd002NlQtS0hqcVVUZ1pMUHl0Q1c4TmRHcGdQc2pUb2dsbFdVNmdWU2RkSEFNOGRVelZ6Z2VVSGgzUlRGNldvMTR4T1UzZw?oc=5",
+          "title": "How the Passenger in Seat 11A Became the Only Survivor of the Air India Plane Crash",
+          "publisher": "The New York Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHandaVUZvMzUzVWxpaHBZUHdrT201TVUtNWR0UmNRNHZPT2F0V1VibWNuMG1ub0VoXzNKM2FVNE53MnYzaGt6cGZYZlhleGVXSENyUVN1eEVyZw?oc=5",
+          "title": "'Traffic saved me': Student missed Air India flight by just 10 minutes",
+          "publisher": "BBC"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2JOUG51WFo2dkZQSkJmTWxPTTZWSHlwMlhZRkxOcUhaQmNRME5QYnZORUdJQnhVZHA2dmFBMW5aQ0xlZGN2azR2QTY0bEZEbnRPZThWY2kwN3JNYXhfenVvU2t3UGtQUjJVeE51VVNZelYwU0dtanlzV21JRC1CVzQxNjdrTG1NVE9LaWlMUU85LTZOMDJjVDFkZ1puM1pSNlJRWVFycFkxVFU?oc=5",
+          "title": "Air India Crash Probe Puts Early Focus on Engine Thrust",
+          "publisher": "WSJ"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOemhBbl80UWNKOHYtRlVKdERqOFhwVGpCbDQtN0ROWlZpQ0RVcmFUNmpnVjEtSW5DZXdZYkE4cWRyRWlvS3hOQU9WUk04U0J3X1d6REgwRXVHeVpqcGc0M1R6X0ZoRnJMeHpWalVLazlXblVITkxLa3pSalNPUnJrOFdUVzBvS3VUMjRoUHNCYjVocE5Xa1kxTWd2TWgxTGUyZ19Dbm9YVl9Wbmg1NVl4T0dtLU0wYktBTWlBLWhlWVdkcTF5VXhzTlBYcFhBdjEyeWRIY1NhaFUwM1FfMUJXRlNLVFkxNnh0SnZWbHJjeUhtNnJZaVlSbUlaSlhUQllwZDJWWDNDdEdHSlFJMm80bzhsWjlmcWwyYmM2R2FhUEFRMkZnSThtLTQxQzEtcnBvMHlOaVZaMUJVNWlyZVYxMDNONk5QVEN3UHU4RFNKNkZsdTB1UzVLWWhsd9IB4AJBVV95cUxQUXRZSUs4VW9HYmdWVktfUElmRTVHc1YtUHl3ZFFTQ25tV0puVkV6MXdqY1F3MHQ4aFZBSlN0eGxpbzdFNXdNN1lNLW94SnY0MlhPYnF0RUdYRXZGcjAzcW9aU2dYYWtOUjh6aDJUMUJvUEk0SmY5LVlIeXJ6V0pybVBaRzFlaFg1Y210TnRSQ0h2UV82dV9HTmJrSVAtM0JlTFVpS2pSekhYSEd0ODczd3Y4ZnFsNVl6TFRlSU9JVmdIUjlVZzRVdVhVYzNLVFVPdkUxYW1IaHNGNkFIQndGNUFaa3FlT3lUeVRWM24yYWhkQjhMaHlGR1BXYk5xbmx4OURZd1pEd0ZwQ2dZTXdpYlh5VlZCaWF0REZjYklrTHAyNW9FcjlRd2pTNVlCUTZ5VjZzZEQ0ZFl5WGExd1Rtc1g4MzNVMlNheUs3OWJucVplNjNCRENNdmx2a0YtSHlJ?oc=5",
+          "title": "Air India Ahmedabad Plane Crash Live Updates: Black box found on hostel rooftop; probe team on site",
+          "publisher": "Times of India"
+        }
+      ]
+    },
+    {
+      "title": "North Korea claims warship launch successful on second try - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4ZE9ZTnR2bkFCRV9weUhoRm0zOUZnaThKd18yZnZKVmZjSFpHbHEzbURIdUJ3RDkzMGk1UDR6UGxPYlo5NWxmSy0wYXpmT0hOZHBUVENJOXpEUdIBX0FVX3lxTE9wMWZIblNZVzRZSUJMZHVwZkZqcTZXOE4ybFpjWkQ1UkdxZDFvZWJFTGtaQzY0QXdDZndoaE9TNnVqd2RDb3E0ODJYZGx1eG1HTXJzZF82T2tWYWY3ek9F?oc=5",
+      "published": "Fri, 13 Jun 2025 05:51:28 GMT",
       "published_parsed": [
         2025,
         6,
         13,
         5,
-        56,
-        18,
+        51,
+        28,
         4,
         164,
         0
       ],
-      "source": "Axios",
+      "source": "BBC",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsbHF3WlF6V1pYd29GYXdNLUVQcHYxRzMtQUJlZzNyMzFaVC1hMl9VUDhjWHZfM3k2QmptSVZzQ0tRZHltQXNVa0FPRUN3d1NOZEFsMWthb19yRDRfTFJMeGlwMEtMb1Fmd055VGdNTXp0Q0xfM1ZqRkdOdw?oc=5",
-          "title": "Israel conducts airstrike in Iran",
-          "publisher": "Axios"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4ZE9ZTnR2bkFCRV9weUhoRm0zOUZnaThKd18yZnZKVmZjSFpHbHEzbURIdUJ3RDkzMGk1UDR6UGxPYlo5NWxmSy0wYXpmT0hOZHBUVENJOXpEUdIBX0FVX3lxTE9wMWZIblNZVzRZSUJMZHVwZkZqcTZXOE4ybFpjWkQ1UkdxZDFvZWJFTGtaQzY0QXdDZndoaE9TNnVqd2RDb3E0ODJYZGx1eG1HTXJzZF82T2tWYWY3ek9F?oc=5",
+          "title": "North Korea claims warship launch successful on second try",
+          "publisher": "BBC"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUkNmMDJVZGZGQ1JMaTVObjhTenA5Ymo3LVFReHM1YzNKVjdrNWFuSnBNelEwYkZzc3p5cENoZ0N0bVNweVd2eVloUVZ4UXp2RkstbnU2WThlby1MdUxkWUQyY3NEMGdvWVAyeXVXWDd6T1pSRFBYSC1TOGJIRzl0VDBhTWdjdng5NkRqVG9oYklBTURjb244ZVI2YzF0dmZRMmR4ZlFLMGtIMTZsZGhrZ2xXYmRtQlpUQi0xcA?oc=5",
-          "title": "Live updates: Israel strikes Iran's nuclear facilities and missile factories, Iran retaliates with drones",
-          "publisher": "Reuters"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUtJek9pMU5pRWFDYnBXaFBpYTA4V1NNdG9rQmFHX1BZMXo4TkxfOUVkVzc3cFFzczNuSDdvbDgyQ3k3bXdYbWx5bmlhQnBzeXF6V3lDYkx5UXdRcmI3MVdFZkZVenpvbldoT2pOQ1JNYzQ0UkQ3cGNjWUhoU1Q0N1FpMmQtQdIBiwFBVV95cUxQRGM5TFBrVkdEV1JEWVJ1R0F6RDZRMWpGRUp0Y0xMZmJUeF9hUlJ2WlJlMnVZWkJKUU9zUThiV2dtSVhobU1vN0N6UUNOMWhXLWFBV1FLWlBxU2IxSGdmdzUxOEpKY091M1VDX3F4M3JIUFh4ZXF0b25iM29oaERhUjQxblYyY3Y1Z29z?oc=5",
-          "title": "Israel attacks Iran: What we know so far",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3MxQllvUmRWZ3FNQm53SlRsbHhBYThGOHNxTmJTWkNTdlEtLU5ld0Z6NEoweS1XVExUZjdmaDlxNlZrQlFFUU5laV82NS12M3RQYlpMQS1maEpFbkw2NVUzcmhMQldkY012aTVFVmNEVlVpVURyNXowQmlQMWJLanByWko5Y1g5S1NuTTBuMDlIdzlfTExHONIBngFBVV95cUxNem5fb0JXLWtYV0RFc2U4Mk5SeVBfVDBscHlsVGEtYXM0WTR4N1ZoZmxwWVdOZG4xeXNVQ1luWWtodWFfbE1kR1d3Vjdnb3JobmVIbVhWLTVpNndYWGNER05YTGxNaTBPZGJQS3ZicjVKamdheWNLOWdzODByVGN6SDF0c2cySlRoT3dyM25MbWVQbjc0RnIyYjdmWlduZw?oc=5",
+          "title": "N Korea’s Kim eyes more warships as damaged destroyer relaunched",
           "publisher": "Al Jazeera"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmJFZEdhR3MwLXBsNlotMkx5UjRFZWpBcmlTanFGNzduckl5dFJnNk5hV3U3WUFsWHZRWXlKWHU3ZmlUbzloLVljemJzeE9JQXJYcFlQbVRuX2g4UU5SQlVZbnMtQkI3WW5yNHFZZVBjaC1wWHJBTHlrMDR3LXhKWEd3WGRqUm0xcE4yMmszaWtiNUExSnVaSw?oc=5",
-          "title": "Who Are the Iranian Generals Killed by Israel? Here’s What We Know.",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUpyZWFMb1pfQ3hCOTJCY29NQUNLZTFMeG5ncWRBbTlhcmxaOVJ0Y2NJc05mRXlMVF9kaExYb2tOcWYwOElsNDJxSzlRa0l4WVRYMXZRcmNSMy12YnFCQU55VHJxRzJiQzNVQzhxM014ajJjQkJTVmJQaC1QSnFoaGFQeFZZaUlkSjVrZjBLN2RXeUtUYkpYSmRZYzd0UGI2SmNn0gGoAUFVX3lxTE1GTFd4MVZkVGJnNzBscUZadmkwV0p2WUlXX2p6OHZaeGFTdjlLc1dGaHNrNXF3MFpJMWxFcFRIeHJESTlvRW9CYlF5YW1walZzS2I2VVA3NzV6aWRaWGNpTG1EZzQ5VkxQckFzSjViR1VDNzhnUkdjRy1nZjllQ3RqOHN4UGx3dkFPbThLX0wxWWpPT1RsbW9DVWM0bkRidHcwNlJhWkYtTg?oc=5",
+          "title": "Satellite images show damaged North Korean warship moved to drydock near Russian border",
+          "publisher": "CNN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVUZqc05aUkJOdkd5QTVpaHlkTnVTY1JocFZhSnlxcWh4YTE4QVhSSm51YlNaQTJTODRSUk15YW5FV1d4Z2lpX3l6MVl5STVwZ1RYOUVWQ1dTc01xMVNiSHB1XzF0bnl0YnhVWW4wWlRPM2xwRTRfTFQ2Y3dWb2NjWFBLRVV3TWdSUmszc0hOSQ?oc=5",
+          "title": "Balloons and Human Strength: How North Korea Righted a Toppled Warship",
           "publisher": "The New York Times"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qREhkZWhxMGFmZ1Y4UG1JbEN2N2hBUHZvaDlEc01FQW45bFktTHdpTlV0ODNfYkt1TlhYUkRfVnA3VkpmckdkczdUU25HVkpVX1dtaHVTeE5lMFJGaWJCeTVNT0w0Y3RhTGIwOWRxTzM5NnlsdGo0?oc=5",
-          "title": "Exclusive: Top U.S. official warns of mass casualty retaliation by Iran",
-          "publisher": "Axios"
-        }
-      ]
-    },
-    {
-      "title": "The lone passenger who survived the deadly Air India crash sparks interest in other sole survivors - AP News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMG5ZY05QczJsdloydUFJTTl6eE9icW1xdzkwUHY0TTEwVFVBajhETE5BR3RKZGQyVjk4Y1VfYnBFWmgxUGNheUZPcXVUaWQ3c2t0eU5sYzFZNnFvS1R1MlYxS0FYUlhZTEUwMEsxMERHY2N0ZDlRcURuRDVkQWJYX3lVLU0tQnVoQ1BFaEwwTQ?oc=5",
-      "published": "Fri, 13 Jun 2025 02:15:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        13,
-        2,
-        15,
-        0,
-        4,
-        164,
-        0
-      ],
-      "source": "AP News",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMG5ZY05QczJsdloydUFJTTl6eE9icW1xdzkwUHY0TTEwVFVBajhETE5BR3RKZGQyVjk4Y1VfYnBFWmgxUGNheUZPcXVUaWQ3c2t0eU5sYzFZNnFvS1R1MlYxS0FYUlhZTEUwMEsxMERHY2N0ZDlRcURuRDVkQWJYX3lVLU0tQnVoQ1BFaEwwTQ?oc=5",
-          "title": "The lone passenger who survived the deadly Air India crash sparks interest in other sole survivors",
-          "publisher": "AP News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lTXEzVldSNEpOZTNXakhDbDNHVm5IRC15TW9KYkJUR3JGbmM4OEVwbTYwT2lZd3ZkZ1hJbWlsWE5TRTgzeFp3N25waTB6TVdJY3BEN19Yb2tObjR3enpBRm9EcGNjUnYybllHOEJQck93VGNQMTZVNUFiY2RlZw?oc=5",
-          "title": "Deadly Air India Plane Crash: Photos and Video",
-          "publisher": "The New York Times"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQczV1aUFwbVdsR3JfUkZoMndITjNsNWFQSkdDb0lUMGFTMmYzLW8zb2tSWVZlRG5GY0hoa3ZzNFhSeko3UnIxMzd1SWhvM0NCaXpaWUdtaFI5dzRub0owVFN1Yk0zUlhncjJ2bDViejVfaDk1aVdRTzVqTjBfX2JuV3lvdmdVTXhKMzlCblktdjZWQjJNZE91UkFrMENaM1ozellqRS12d2RQLURfQUpvX1k4NmdndDcyaDVhOTdLdl9xNXRqZnluT05ueG5LbE9PdUpEaGdOR29jc2ZNaEpFOHNOY1NTM1NkT1dIQjE0eDhMM1Z3eDg4NjBuckZJU0lLQUdndVRVMGM2bk1CQ3NLU3pVMVoxeF94S2o0YUlZUWhxVVBqV1pFYXB6Mlhfb1HSAbQCQVVfeXFMUDgxTTZQcDVfQmVpcVpjRWg4amJmWTZlbk51OGxZU2RHMzBHenBEME1CYk16TjdLNWNrVVlNSThMcm5vRnY5dnFrcjVmaW9BclExMVR2cUNTTk96UnJ4ejZyVkM1bzNmYUVzbnY5ZkFNbHNnTlBDVVBhUmJSTUdaMUlRaGNkWmctYnJlT3ZOd2RJdVU4UlBKV24zdi1fdERVTXlxRnkyY1BnMDA0NzdwbnNpX19KcElKaFd6OE0zZ2hQZTJBMlVZRXVFTUJ0c3hpLS1vT2FmNmM2Qk5CbUNzdWpudkl6MlZQMHN3cFRyVG9sYVZSdE9zc2xYdXJJanItVlY2Uk5fMXViNXJUQy1KVkZIN0lJMVRycjRxaENaamlzWjVjTUxJLXRkMy1abFNhZXVzcjE?oc=5",
-          "title": "'Don't know how I survived': Vishwaskumar Ramesh, lone survivor in Air India crash, says he crawled out o",
-          "publisher": "Times of India"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcHRDWVZ4WkJVZnF1N1V0SzVvZ3A0OVk0ODFOdkhQcW1wV1VrbnREZTFzSWRnSDk3QWpVMm45Wm9DUUM2eXJsaGlEY0VXejNKZmJseUJ1QW9yaDlsU0NBZjM0Q2pEQVh3YVRuWmZJNVpzcG1zWFlxT1RyT3d2MWh3R0JFNA?oc=5",
-          "title": "Fiery Air India crash kills 241 people aboard, leaving 1 survivor, airline says",
-          "publisher": "AP News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0Jia0tLTnVINThZMnAzTXY2azdmQTBqNThSNmhramtXczgyNFVEcGN5OXd1MVJrbHVVbllvTmpwLWxfNW16MVp1QWNVMTVjeXl4d1RJSDRxajl2UF9JSHBGUjk1WHJ2bC1Pa1N0eTJjclRTSTdndVIyZ0h1Qzh5bVl3S1RrUU5KcUt1cEFlQXN4MDJkdEV4bTBLdzFpSE8zODI2WGZNc04?oc=5",
-          "title": "One of the Dreamliners That Gave a Boeing Manager Nightmares Just Crashed",
-          "publisher": "The American Prospect"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdG5pYjBDb3czY09Hb1FwWHh3dDdpMjBteU5mS0hqaHB6a2hhaHdzSE1ndjN4UE5PemhSS3JkeWthRFJNeGNDZE5pcXM3U2Fmc241d2k3ZW0zRmQ4MWlyZnhDQzZsQ05CbmhnbUV2bUVNX0dQX05LTFU4M1l5bTNfWHhlRlJPQW94eFhZcDRZY9IBlAFBVV95cUxOYlVCYmJkbFZmd29wRzVUQTI0OVJGbGtMdzBaM3lRMXYtLVVGYmZHSVpPZzVjSU9iR0ZHOTRZVE5TT0xwMmNxTGZyM2R5ajZTai1UUzJ0QVhsTDNXZkxaT0hGUXRyeWZaSnhSNmJsQzFDTVBUYjdfQkVtWGtRSEJyRGNFVGJkSkItam1nVWpVRFhqcV9T?oc=5",
+          "title": "North Korea claims to have successfully repaired and relaunched into the water its damaged destroyer",
+          "publisher": "CNN"
         }
       ]
     }
