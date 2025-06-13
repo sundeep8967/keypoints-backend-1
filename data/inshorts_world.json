@@ -1,36 +1,27 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-13 13:25:58",
-    "total_articles": 3
+    "generation_time": "2025-06-13 18:44:39",
+    "total_articles": 2
   },
   "articles": [
     {
-      "id": "1c0cf1241d9f99fa33494b870156ec0a",
-      "title": "Middle East airspace shut after Israel strikes Iran, airlines cancel flights - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/after-israel-strikes-iran-airlines-divert-flights-airspace-closed-2025-06-13/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 12:33:04 GMT"
+      "id": "6fd40bf2e11c2b7ac8e2a9317cf4449a",
+      "title": "Putin Condemns Israeli Strikes on Iran, Says Ready to Mediate - The Moscow Times",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2025/06/13/putin-condemns-israeli-strikes-on-iran-says-ready-to-mediate-a89438",
+      "image_url": "https://static.themoscowtimes.com/image/og/21/89438__2100ceaeef788bccf0c8af3a20880883.jpg",
+      "summary": "Putin Condemns Israeli Strikes on Iran, Says Ready to Mediate A damaged building in the Iranian capital, Tehran, following an Israeli attack on June 13, 2025. Fatemeh Bahrami / Anadolu/ABACAPRESS. COM Russian President Vladimir Putin condemned Israel's wave of strikes on Iran, the Kremlin said Friday, following separate phone calls with Israeli Prime Minister Benjamin Netanyahu and Iranian President Masoud...",
+      "published": "Fri, 13 Jun 2025 17:03:00 GMT"
     },
     {
-      "id": "2118a943fa887adc36ec9b912bc4af67",
-      "title": "'I thought I would die': Sole survivor from Air India plane crash speaks out - ABC News",
-      "source": "ABC News",
-      "url": "https://abcnews.go.com/International/thought-die-sole-survivor-air-india-plane-crash/story?id=122806797",
-      "image_url": "https://i.abcnewsfe.com/a/3844aa71-67e8-48dc-b00e-5627599ad77d/sole-survivor-speaks_1749809476070_hpMain_16x9.jpg?w=1600",
-      "summary": "'I thought I would die': Sole survivor from Air India plane crash speaks out \"Everything happened in front of my eyes,\" Vishwaskumar Ramesh said. Investigation after hundreds killed in Air India plane crash An urgent investigation is underway to determine how an Air India jet carrying 230 passengers and 12 crew crashed just after takeoff, killing everyone but one person...",
-      "published": "Fri, 13 Jun 2025 10:31:53 GMT"
-    },
-    {
-      "id": "8e7ecb232827a6bf6bd79cd2e37adbe7",
-      "title": "North Korea claims warship launch successful on second try - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c1mgd0252kpo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/bca4/live/a5fc4b90-481a-11f0-ae33-a1e238717da7.jpg",
-      "summary": "North Korea claims warship launch successful on second try Pyongyang says it has successfully relaunched its new warship North Korea says it has successfully relaunched its new 5,000-ton naval destroyer, less than a month after it capsized during the first attempted launch, state media reports. The country's leader, Kim Jong Un, had reacted furiously to the warship's failed launch in...",
-      "published": "Fri, 13 Jun 2025 05:51:28 GMT"
+      "id": "66b1f507d3d95fce79bef14ceacab194",
+      "title": "'I just walked out': The sole survivor of the Air India crash shares his story - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/13/nx-s1-5432566/india-plane-crash-survivor",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/624x351+0+107/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2F5a%2Fd5885d764e7a99b7ed0914b09716%2Fap25164295139732.jpg",
+      "summary": "'I just walked out': The sole survivor of the Air India crash shares his story Viswashkumar Ramesh, the sole survivor of Thursday's Air India crash, meets with Home Affairs Minister Amit Shah at a hospital in Ahmedabad. Indian Ministry of Home Affairs/AP The sole survivor of the Air India crash that killed over 240 people also doesn't know how he...",
+      "published": "Fri, 13 Jun 2025 15:44:11 GMT"
     }
   ]
 }
