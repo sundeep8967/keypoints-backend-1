@@ -1,81 +1,54 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-13 03:02:21",
+    "generation_time": "2025-06-13 08:50:55",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "e9b2169e1c485e0d719317e746a41f3b",
-      "title": "All the Android features Apple announced at WWDC 2025 - The Verge",
+      "id": "629a758cdf78dd1835c20d91cfceea1e",
+      "title": "Bloomberg: Apple now targeting iOS 26.4 for long-delayed Siri AI upgrade - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2025/06/12/apple-now-targeting-ios-26-4-for-siri-ai-upgrade/",
+      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/siri-ios19-white.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Bloomberg: Apple now targeting iOS 26. 4 for long-delayed Siri AI upgrade This morning, we noted that in a new interview, Apple’s Greg ”Joz” Joswiak confirmed that the new AI Siri upgrade would arrive in 2026. Now, Bloomberg’s Mark Gurman is out with a new report offering more details on the delay, including Apple’s internal timeline. According to the report,...",
+      "published": "Thu, 12 Jun 2025 21:15:00 GMT"
+    },
+    {
+      "id": "df5b9ca7e0f2b72515053fb64451bebf",
+      "title": "Switch 2 size comparison: Nintendo’s latest up next to a whole lot of consoles - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/apple-wwdc/686247/apple-wwdc-ios-26-android-features",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/DSC02062.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "summary": "All the Android features Apple announced at WWDCA little Dub Dub deja vu. The latest edition of iOS Doing Android Things. Photo: Allison Johnson / The Verge Allison Johnson is a reviewer with 10 years of experience writing about consumer tech. She has a special interest in mobile photography and telecom. Previously, she worked at DPReview. Apple announcing Android features...",
-      "published": "Thu, 12 Jun 2025 19:00:00 GMT"
+      "url": "https://www.theverge.com/nintendo/685920/nintendo-switch-2-size-comparison-steam-deck-playstation-xbox-consoles",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257796_Nintendo_Switch_2_size_comparison_ADiBenedetto_0039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "Switch 2 size comparison: Nintendo’s latest up next to a whole lot of consoles The Switch 2 is bigger than the original, but how does it compare to a GameCube? If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. New kid on the block. | Photo: Antonio G. Di Benedetto /...",
+      "published": "Thu, 12 Jun 2025 17:30:00 GMT"
     },
     {
-      "id": "457f2d15e8d506079ddbafe036949d44",
-      "title": "Japanese Charts: Switch 2 Crushes PS2 To Become Fastest-Selling Console Ever - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRWExaE90anBaUzdVM3pvWmFoaGR0eUNFd2VHbmNBRWlJYTZDQ1RlZWc4RER0Z1AtY011dV9jajFEY0taNm5mTlBfYUZHTkZaMEo5cmVZUWllX052YWktekg5TVotM1JMaWFxSTNWVENHOW5IRkI5elM1cVZfOXphQmpmOXEwVmRhb2JYTWNTczJKUUxFQnNNT0hRdUhVbE8wOEF0MVVGQU00RExWRVE4OUZtbDdzMDV1?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 15:45:00 GMT"
-    },
-    {
-      "id": "70049b637ada578bcd2329f8552be30e",
-      "title": "Apple Targets Spring 2026 for Release of Delayed Siri AI Upgrade - Bloomberg",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-12/apple-targets-spring-2026-for-release-of-delayed-siri-ai-upgrade",
-      "image_url": null,
-      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
-      "published": "Thu, 12 Jun 2025 20:45:31 GMT"
-    },
-    {
-      "id": "111d37a8bdea7c66e9447ff24a705704",
-      "title": "Samsung rolling out second One UI 8 beta as the program expands to new regions - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2025/06/12/samsung-one-ui-8-beta-2-galaxy-s25/",
-      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/One-UI-8-Beta-Download-Galaxy-S25-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "summary": "Samsung rolling out second One UI 8 beta as the program expands to new regions Following its launch last month, Samsung has just rolled out the second One UI 8 beta while also expanding the program to some new regions around the globe. One UI 8 is Samsung’s Android 16 update for Galaxy phones. It’s not nearly as big of...",
-      "published": "Thu, 12 Jun 2025 13:55:00 GMT"
-    },
-    {
-      "id": "8220729ae600f3e0a62b2da1f955b72b",
-      "title": "Bose's second-gen QuietComfort Ultra Earbuds have AI-enhanced adaptive ANC - Engadget",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/audio/headphones/boses-second-gen-quietcomfort-ultra-earbuds-have-ai-enhanced-adaptive-anc-130057912.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/vHwPpxFRW2Y2HYLZG8KBow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/796ba180-4620-11f0-b52b-bd8bf3e8fbcf",
-      "summary": "WWDC 2025: Everything Apple announced Prime Day 2025: What you need to know How to buy the Nintendo Switch 2 Bose's second-gen QuietComfort Ultra Earbuds have AI-enhanced adaptive ANC The company also has two new Bluetooth speakers. Thu, Jun 12, 2025, 6:00 AM MST·3 min read On Thursday, Bose unveiled its next-gen premium wireless earbuds. The latest QuietComfort Ultra Earbuds...",
-      "published": "Thu, 12 Jun 2025 13:00:57 GMT"
+      "id": "8890141bbb690f61f486f0d3952fd9d5",
+      "title": "Here are Apple’s top AI announcements from WWDC 2025 - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/06/12/here-are-apples-top-ai-announcements-from-wwdc-2025/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800",
+      "summary": "Here are Apple’s top AI announcements from WWDC 2025 Last year, Apple’s WWDC keynote highlighted the company’s ambitious strides in AI. This year, the company toned down its emphasis on Apple Intelligence and concentrated on updates to its operating systems, services, and software, introducing a new aesthetic it calls “Liquid Glass” along with a new naming convention. Nevertheless, Apple still...",
+      "published": "Thu, 12 Jun 2025 17:53:12 GMT"
     },
     {
       "id": "3275236b97c9a3fdf9fe187a7cf8704b",
       "title": "Samsung Galaxy Z Fold7, Flip7 and Watch8 series bag more certifications - GSMArena.com news - GSMArena.com",
       "source": "GSMArena.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdS04MFEzNVJHQnpqSnNpMk4xRHV2YWlVSmpaRFpwX05vUzJCQy10QkZVMVlUeWVCMmkxOG9XLXlkVWFVRVc2N0pXVXJQbVdpckpGYk8wd3VWanBPVDdRLXAzNkN1dkRZLUtRZU44TkE1U2x4QmlZZUtDaWlrUGktLXFmYTFmUDdBLUptZzVqYjY0MmhHNWsyNnZOclNjTXdYcDVoeDRzMG5MOFFuUXkw0gGrAUFVX3lxTFBuUC1DTVd5cWtBUGtKVVFCTEdldEduLTNMWHR5VnJKcGR5MWdBQ1FYdnUyd0lPVWt5UTlBb1k5TUMxUXlONWI4VEUyQ3VETlphTmJIUzduaDNXeG91Q0dLZ0d0Q2Q4N1pIVDBMd2RZUDJRQ1dtM0I4Q005Q2VkSkRPSXgzcWM3bWJZRmZJem9ZZ19qSUdnUEc3T252bXBuY3c1YW9za21GcTB6RQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold7_flip7_and_watch8_series_bag_more_certifications-news-68232.php",
+      "image_url": "https://fdn.gsmarena.com/imgroot/news/25/06/samsung-galaxy-z-fold7-flip7-watch8-certified/-952x498w6/gsmarena_000.jpg",
+      "summary": "Samsung Galaxy Z Fold7, Flip7 and Watch8 series bag more certifications Samsung Android Smart wearables Wear OS Samsung is expected to unveil the Galaxy Z Fold7, Flip7, and Watch8 series in early or mid-July at a special Unpacked event in New York, and ahead of that all of these devices have been doing the certifications dance. It's no different today,...",
       "published": "Thu, 12 Jun 2025 19:01:03 GMT"
     },
     {
-      "id": "9ae7283602011c683adcf19df3135f3a",
-      "title": "Google Pixel 10 may fail to live up to our MagSafe dreams, after all - Android Authority",
-      "source": "Android Authority",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9naTNKWThhVUlQRDdkU0RqWVpYZk9FTHQwSjB1ejNvNXg4UXkwMHBOWGZ4NElrLWZoU3l3MGZSTndKNW8xUDg4amMxdDlhdVlvOW5hNnlJa29kTmFZeEt0VTZkZ1F5Rkk4OGc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 16:57:53 GMT"
-    },
-    {
-      "id": "dc37408c6002e36195717cca696917b7",
-      "title": "FUJIFILM X-E5 Announced - Rangefinder Style Camera With In-Body Stabilisation and Film Simulation Dial - CineD",
-      "source": "CineD",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRE1qNm03UERmWk1xUTN4b1RiZDdYb2hGbDdBRFlWODJnVUVobmZtajhXNWtwc0M5VFJSc0UyODllNTYzelV6dHdsY3FHWm9DY3RCV2JEeU5PUDVPMnJ0NTd5NlFuNGZLazg0akVqck9ybkk3aVdPRDBuZXZjZ1EtVG02eTZhaHhyOWRsa3liejIwMTFlN2VLR2tsYXBINXFzRHpuN0NHUVV3ekEySUhaRkdXdW15aWhHTTRFSjdjcnA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 10:05:04 GMT"
+      "id": "4f260fac583c83f5a5b259a731e6ce17",
+      "title": "Samsung releases One UI 8.0 Beta 2 for Galaxy S25 series with ‘major’ changes - Sammy Fans",
+      "source": "Sammy Fans",
+      "url": "https://www.sammyfans.com/2025/06/12/samsung-releases-one-ui-8-0-beta-2-for-galaxy-s25-series/",
+      "image_url": "https://www.sammyfans.com/wp-content/uploads/2025/03/galaxy-s25-img31-1000x576.jpg",
+      "summary": "Samsung releases One UI 8. 0 Beta 2 for Galaxy S25 series with ‘major’ changes Published 24 hours ago on June 12, 2025 Samsung starts rolling out the One UI 8. 0 Beta 2 update for the Galaxy S25 series. The company is pushing ZYF3 build to the S25, S25+, and S25 Ultra in South Korea, with more qualifying markets...",
+      "published": "Thu, 12 Jun 2025 08:17:29 GMT"
     },
     {
       "id": "3089334214c4c9a4516dc6be83720ca9",
@@ -87,31 +60,22 @@
       "published": "Thu, 12 Jun 2025 15:40:32 GMT"
     },
     {
-      "id": "0558b928c6eb9911beea27fcd67e52ed",
-      "title": "Steve Jobs' Iconic Speech at Stanford Now Available in Higher Quality - MacRumors",
-      "source": "MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VMFZ2RDBzcTJydUZIVkFqTjVUV1FyS0VNSXdJdkpkd2ZZS3E1WUpiWFVrdm1OampBcGl4V0lqRGZUQkZIcDZ6RW1HSEg2QUx0bXZVLVhBaUtrbm83TnNLRkVOWUQtZ25pQkhSMy0zZmZfQTF5Ulh2Z0pfU3EwUQ?oc=5",
+      "id": "e56ca8870744fc27f9c95feb2d339624",
+      "title": "Amazon Slashes AirPods 4 Prices Just Before Prime Day, Now Closer to $0 Than $200 - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa01Vdld3QnRKV1BmbkZfMkF4S0RnLXkyaUQ5MG5qTUVsdTJwa3Rid0Y0NXpfV0NDUEI1TUVYY3BQcGRfR3lCcTVHM3VhMllDWGpud01xeXN1UlNTaWtNSFhHMkZMU2txR3RRTFlOYXRvNFlBTmwydzhKcUJ1VGxZeDczRWRBRzBWSENvZ1c4WUFkb1VfQ1NFV3VoN2hJN01DOVpUbDJoRjkxTU9Yanc?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 16:02:03 GMT"
+      "published": "Thu, 12 Jun 2025 13:25:15 GMT"
     },
     {
-      "id": "ca57d4d70f95cab237234fb72bde0b57",
-      "title": "Apple Highlights Two Smaller CarPlay Changes on iOS 18.4 and iOS 26 - MacRumors",
-      "source": "MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRjFoa3NKS2hhWjlTUHhDaWgxSW94MlhjQUVuNFBkdk5MXzRDc1NBdHdmY0NTZVhkTUtIdUNkRnpIUXdfc3M2ZURCTzdORkQ5WXZGUTJ3SmRENUw0U0RqU2lueVduQ3VBNmhleWhVYjV4WVdMMHlpaE9URExEcXBDY0diMFN5VWZKNHc?oc=5",
+      "id": "712fa07997debf50f9b6899e5dd4fd92",
+      "title": "Here’s the $2,000 fully AI-generated ad that aired during the NBA Finals - The Verge",
+      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVE1NUXc2YzJkbVpEWGhFLVJqeVE5ZmRKSTQ1NFVYUk5tQjdrSDNrV2ZGcTdjcEUzLVRzZlVpNXRvbld5VXJsUFlqNHFRSGJHZjQ0QmdQaVRyY1pNT1pCUWU3NFZqRmkwYldOaVlrSW9tbGhhT0lfcFFvNW9kbjMwMy1acUZEWEd4VXRJ?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 14:16:59 GMT"
-    },
-    {
-      "id": "d98a8591a82b5e3621e4e821b6fdb0ea",
-      "title": "Nothing’s new Phone 3 will be available for general sale in the US - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbnE1UV9tRVVmUlpXQXFVZW1CUUJaNzNROWZlS2JqcmV6TmtwTFh3QlB5dzBmQXQwdHllbU9ESktEdGRFVnk2SG96ZlBuWXVnWUxGZEJMdTR4emFUcm5pMGwtcjZPU09JOGdIOU9lMFFaWFVib3JVOEVGOUFva3pFWkpjMWxBZHJfLXhhdk54NW1ELXotakUwZUlwMmNwaVhWSmc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 16:00:00 GMT"
+      "published": "Thu, 12 Jun 2025 21:33:28 GMT"
     },
     {
       "id": "53691d7bed3ee2656e6026dfcba13c65",
@@ -123,42 +87,6 @@
       "published": "Thu, 12 Jun 2025 16:00:00 GMT"
     },
     {
-      "id": "615a4ee332a85c462d1a5a43646fc747",
-      "title": "iOS 26 makes Apple Music Replay fully native inside the app - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSVJaakFuZ1RZUXFlYjNUNzkwSDgwZlJINS1xR1FjcW5Tci1IdVVpcVdzLWVQdjZvQUJfZkROVG1JUjNINDhEMFQ0dmlWSFRqZjRGcFB4WDN4LUFDbTV1Ujc4SU80azlHbWlOVHJpejFSM045MjZhenZ2aktHd2s0R1ZobU5zSS1qNkxJc2RNazJCV1doU2c?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 20:39:00 GMT"
-    },
-    {
-      "id": "43c85c46749757fc7375fb414cecece0",
-      "title": "The ‘Most Unhinged’ AI-Generated Gambling Ad Ran During the NBA Finals - PetaPixel",
-      "source": "PetaPixel",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVU1JN0JRTFFNOVU3UUh5RVJWQ3Z6LTk4Y0p0eDJLdnhJSzVLeXlUd015MHVfLTRSdldzUWdCck1BRHAyckNMdmNQeUZScDlZMFFucE4xcWc4NWNOZVc2WUZjT3FDNWt1c3d0N0lpZUkwY0RXeGFIVnd2eDUtSFRYTVY2Z3VCTVc4b1RmcnJrbWptajk1WnlJNGxidmpuN1RFb25Lcw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 16:05:13 GMT"
-    },
-    {
-      "id": "e56ca8870744fc27f9c95feb2d339624",
-      "title": "Amazon Slashes AirPods 4 Prices Just Before Prime Day, Now Closer to $0 Than $200 - Gizmodo",
-      "source": "Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa01Vdld3QnRKV1BmbkZfMkF4S0RnLXkyaUQ5MG5qTUVsdTJwa3Rid0Y0NXpfV0NDUEI1TUVYY3BQcGRfR3lCcTVHM3VhMllDWGpud01xeXN1UlNTaWtNSFhHMkZMU2txR3RRTFlOYXRvNFlBTmwydzhKcUJ1VGxZeDczRWRBRzBWSENvZ1c4WUFkb1VfQ1NFV3VoN2hJN01DOVpUbDJoRjkxTU9Yanc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 13:25:15 GMT"
-    },
-    {
-      "id": "a8a901c1fcfe53bafc7f36c0a317ebe2",
-      "title": "New Garmin Venu X1 is an ultra-thin smartwatch you can wear all day - BikeRadar",
-      "source": "BikeRadar",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWYxMDJaajI0YTMwNy1OaV9FSkRWSVJQUnBzbHdXOVZlNkowbWZIal9pS2tGdEtSbk13UUZYMzFYTGFRSWdTRHlGcGhBTHluRjZIOGRLekwyd1ozMWRwYU5TZWh1aTRrLU9LRVgtNHBTWmx5ZG1iYTU4VkRSOEI2RTFybWZ3QnU2a3F3cXdSUGtLVlo4WjVmZWhUbG5fZWM?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 05:04:00 GMT"
-    },
-    {
       "id": "a4de1dbacd8c6507338a976386bf61d2",
       "title": "MindsEye Dev 'Heartbroken' Amid Troubled Launch as Players Report Success With Refunds and Sponsored Streams Are Canceled Last Minute - IGN",
       "source": "IGN",
@@ -168,13 +96,22 @@
       "published": "Thu, 12 Jun 2025 14:53:01 GMT"
     },
     {
-      "id": "f97f4a195a5bb67aec7e5056e7a3e3b6",
-      "title": "Aurora alert! Moderate geomagnetic storm could spark northern lights as far south as New York and Idaho on June 14 - Space",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZjlRLUJDNmNFVkg3cUZJVWJHYkswcW1mdFlDT2NNS2VKMjEtbDVJY0wyQmRycF9CSS1yWU9DamJleE9DclR5T2lLempRQmV4WWhpX1ZpeGg1RjAxTVZxa2xwaVZLV0JHcnlrZjg5NEY5WkFoaHh2UGtETTI2VUhBeFczMHRrRWlaQkYzWHN1N05uWnZPTmhvem5TUUhKWUJNZElvVGZRRl9OMjhkQXM5MHVRNFhwNDhKcS1xd25CRklqYzRjanNWeVFUOU9fRU5wU2lHTnVnTEJTaDBEUk9kTVBOdHhyZUg4WlE?oc=5",
+      "id": "ef3efad885fd9839820c15bc211427ac",
+      "title": "GTA newest update lets players run car wash fronts to launder money - Boing Boing",
+      "source": "Boing Boing",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3Z3dk1QUVJELXFwbElmbFBvTmpvQzU3eFFxTF9ibzZ5cjRsNU9rbXBLcERwVDlFVkRKZnhDWkdsaFJOS01mM0kzcHRxY3JPQm1PeWtPbUhEQUFzbm51ZXRUTGstb3dKZm9NYTRfUUJRQ3BUTFlQRTZXOWV3MmZaWkRHWDAyRm51eFlTb3RzTkduSkZrYUpZRDlxVEFJVTViSkhCWmUxOXVXd9IBrwFBVV95cUxPaDhNcVFRamxZTG1rQUQ2UFJtQnFBMlFpQTllMzhjdkFGVG55cG8tenA5aDVxWGtDUjgtV0c0NUVmUWV0YUI3VzJKbFhpWWVsc2JVOUItR2xtMk54VThtbGxsbXdqZHRMZk1aLUpqd1AtWmtuV19GQ0FQdlp3YXFUZmpDcmQxdU44TWtVRjhFZDZEOTcwV3Zrellwb05zZVJCcGI4N0dGOGFtN185VWhr?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 14:34:04 GMT"
+      "published": "Thu, 12 Jun 2025 15:51:24 GMT"
+    },
+    {
+      "id": "6aa3dee906c685ee49d88c4c557cbf55",
+      "title": "iPadOS 26 is perfect for the larger iPad model that’s coming - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ05xeURsUW1aRjVZbFFTck9HZmpSWnBUbmtNdWZUbDUxbHBBZmJfS2tjdWU0UHdtNnpoUHRIR2Y2YjJ0NFhEMUx4QW44ZjBPdWsxN1NXOWk1VGVnbng1WTNWdzJtMElOTDF3cG5BZVgtVXVkZEkwNXpKV3ZmMllYWnM0bW1UaUN3bmlYdFdLa05WZw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 20:59:00 GMT"
     },
     {
       "id": "44d0fb2fd5105f1504242b6143bd928d",
@@ -184,6 +121,69 @@
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
       "published": "Thu, 12 Jun 2025 14:05:16 GMT"
+    },
+    {
+      "id": "f80e9f71a43fd73e578a9f4a542c088e",
+      "title": "2025 Ford Mustang GTD Starts At An Eye-Watering $327,960 - Jalopnik",
+      "source": "Jalopnik",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOHR2MFM2bkxSZVFVeVc4LUxqeVhlc29YV0FOcERKV3dJdnBOT05YZW0wOUg2aWxkbnMxODh0UmxmR2EyMFl1U29LY3pMVmcxcnF0R093NW9WZ3o1R0Z6RmhaQU9sbHFfa1lINWdoSW1zblozZWRvdUtOR3dVdWI4RmhOQnpscVJm?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 17:18:59 GMT"
+    },
+    {
+      "id": "db1c18b28f74c8685482912b07b6a568",
+      "title": "iOS 26 and macOS Tahoe Expand AutoFill Feature for One-Time Codes - MacRumors",
+      "source": "MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRTVRZ0Jvb0Fya0JpbXlXLXVOdW5qY0o0Z2Jyc2JJejZQeWFWUDBmSi16SmJiN2hpcDBEcDBhN2RFWlowakJvRldvYjVoTE5LemJhRkJvajFDazBtRkFsdEp6clFlek1ZanN5U0Q2Z1BpNUZxNldzMndXX1duMjJjVUxBZ3B5TzRxY1Zid2dYMA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 15:27:50 GMT"
+    },
+    {
+      "id": "09da0eba1b2917a74e98e3f7eb1f2c15",
+      "title": "10 Things I Wish I Knew When I Started ‘Stellar Blade,’ 2025 PC Edition - Forbes",
+      "source": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT3NEZ2V2eVZQYzJtbEN3bGdERUQ1bkpmYnduNG4xR0hFUjdJLTFnSTZlT0R2QllaTjhlNWJHTjJVb3FBUnZRQmRkdGptX0otV2JDRF9TUWVha0RFMUprbXZiSGZtTmtFUXdfN0REbmVGcnp2SlY4ZVVmRDlXMlJaTGttTnZuNE5DWmVGSzUtaDU2d1BkaVFiVmd5YW1wYjdreVYwYUI3MjF5TDN3ejJPdUxaU2Exb3BrVjlr?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 15:53:56 GMT"
+    },
+    {
+      "id": "9c960fbf2be6a4d64dc67e5dca398d9b",
+      "title": "Mario Kart World’s Journeys Are Smooth and Unremarkable - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtSXRfLV9rSVI5LUJzQkVuc2dkaWhfRS1TbW5MVFd0LVhEbHRYMy1tZ2ExRkw2LVhzZzZ3RzVJZndxUU5VMzhzMGJtdTJLbGIzNEVpcnhnVFBiYUVnanRXZFE5TnJRM245WTJnUU04YnVicFZZRENJ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 09:00:19 GMT"
+    },
+    {
+      "id": "98bfa5c7e5970a48a077fcfb3cfc72a8",
+      "title": "New Fantasy Life i Update Lands On Switch 1 & 2, Here Are The Full Patch Notes - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNm9ETXVjZ216MmJLRTdKWmpVS3FMeUNZWE1DdDR1VW1uQUR4WW5RUFAtbEJSNEhEYUFRVEV4aTJ3N3ZUbGpsSjFJc3hEV3dYZTVPT0NPNXRsTWdzSXJYQVFOM3VTeUpqbTVuWHJvVnJYYXluMU90c3RRZjNyREdSRDkzTHZoYW5kRGF1Umw0d2R3WG03WlhoRjhNZWVaTVhsSzVaV2xhMnNvZjM2MFpVRXAwbkVLQkdpZkdYZnZR?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 10:02:57 GMT"
+    },
+    {
+      "id": "25b53059f12e564e7504cde4016a9f3e",
+      "title": "The Alters brings Kojima-esque weirdness to a tale of sci-fi survival - The Verge",
+      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTdfdjAzVjRhcFVQMlFLWURTdUh1cUtzZzBwR0hCMGJyWmZpVDFtYXpaVnl3R0dVM1ZYQmNncTI3eUllODNnRnBzOW5FS0NrbTRpZTJDQlJJcHJVeUZRc1BuMl81S3AzNGVjMGkxeVl3WDctRlNzY0otSFF5ek9aTHpPYw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 12:00:00 GMT"
+    },
+    {
+      "id": "181d05fae057a8539b3aecedccce3ada",
+      "title": "Think before you click: Experts warn email \"Unsubscribe\" links pose security risks - TechSpot",
+      "source": "TechSpot",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbmpKdngyTWxwbnAxM0lsYVA2b05hM1l3bkpIUVpBd2V5LTllVHVKT09rR00yUHprWm5DMVdfdHJZRFFpb2FyRG9yaUZOdmxSaVI4NFQ4Q0VHRDVIblFBeTdQQWowQ182dlNBSkVwUV9DSkRCeDFhVzR0azJRZlh1Qmx0XzhoTE51LXBpM2p0Y3V2aG95UGlucklXRQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 11 Jun 2025 17:10:00 GMT"
     }
   ]
 }

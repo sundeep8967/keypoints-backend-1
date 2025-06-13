@@ -1,21 +1,65 @@
 {
   "metadata": {
     "type": "topic",
-    "timestamp": "2025-06-13T01:58:52.304906",
+    "timestamp": "2025-06-13T06:35:18.966903",
     "info": "topic: technology",
-    "count": 32
+    "count": 31
   },
   "articles": [
     {
-      "title": "All the Android features Apple announced at WWDC 2025 - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ0M4STlubmx0dkkxZzN5QXduaUNFSVYwdGJIaEoyQXdJd3M1RFRJVHF0OEZBQ3Q4Uk9OR0w2NUdpTTRBaUlxMC10bU1vT1pQV2VUanVQeHp1bm53TXRYWUswd0JMSUhBLTJmMXRyWF9Fbi1IaHhtQUZqV0I5UlFIRUdKUQ?oc=5",
-      "published": "Thu, 12 Jun 2025 19:00:00 GMT",
+      "title": "Bloomberg: Apple now targeting iOS 26.4 for long-delayed Siri AI upgrade - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY29Bd1o0ZXE5bUNZc2FJdnFYNGhMVk55OVF2MEE3d0hvN2E4X2pIMk9ndVU4eXpoMlZBM2p2cFRVQ00zaU9ESENPOVEzOGJ4ZWxMNkoxUl9SNmFQVVMwc1pSRXFKc2FKMTMtSDBIa0wteVhKSWp4bV9mQjQzOWFsMHlXRWJZV0k?oc=5",
+      "published": "Thu, 12 Jun 2025 21:15:00 GMT",
       "published_parsed": [
         2025,
         6,
         12,
-        19,
+        21,
+        15,
         0,
+        3,
+        163,
+        0
+      ],
+      "source": "9to5Mac",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY29Bd1o0ZXE5bUNZc2FJdnFYNGhMVk55OVF2MEE3d0hvN2E4X2pIMk9ndVU4eXpoMlZBM2p2cFRVQ00zaU9ESENPOVEzOGJ4ZWxMNkoxUl9SNmFQVVMwc1pSRXFKc2FKMTMtSDBIa0wteVhKSWp4bV9mQjQzOWFsMHlXRWJZV0k?oc=5",
+          "title": "Bloomberg: Apple now targeting iOS 26.4 for long-delayed Siri AI upgrade",
+          "publisher": "9to5Mac"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmpDZ1MxVDM4Y3VEMG1PX0JDVWNUV29BNFhmQkFhdjNwVEdZYkt6YkRpc29jN08taXU5MGNYVWdGQlktUlRpVXVuMjdMVXJXc1Q0aTVaRUJGMmxTc3ZVQ3k4amtIVzBvclIxTEdHUmV5Y0NCUUNETDFET0ZzbnFhY2tLLWNjekw1eGNELQ?oc=5",
+          "title": "In the age of AI, Apple needs to open up",
+          "publisher": "The Economist"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUk1ejg1Mk52ZjBPMlhpbDU5VGdCM25RR05pQ1VQalQ2YU1mQ09BQXItX2otdk41WVVoLXRNVG1ROF92RkxGVE1STHktOXhQNjZ2b085SHJXbGwzU0t1R09vRmEySC0xU21QNVBjMzFpcklSVEcwcnRWazlCLWYzbjJvcFV3UHprMzMwUHJ3OVlQbVZ0cmQ0NnMzLS1rS25saWYybTc4enNHeTRDSHBXaVRDck5yZw?oc=5",
+          "title": "Apple Targets Spring 2026 for Release of Delayed Siri AI Upgrade",
+          "publisher": "Bloomberg.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kQ0FOek5vM1FxcE9SZUVYWUwzX2NGblE0Y1JpeDZuOTVaQnFFeDljaTVHUnlnSndMNUtqZGVuUndHQmFHdmxLYkpVS0ZJWFpIX01MbVhDWVpoZFZGY1IyNW53QTRjckx2bEtxdEYwRE1MSlU?oc=5",
+          "title": "Apple’s upgraded Siri might not arrive until next spring",
+          "publisher": "The Verge"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQejJucWhocER4WnItMDhqbHdWZjc0S0RPUEtXM2ZoU1ZyTEpkWHBjUXpPdkNnUmpZME4teVg3YkFIcm5odGJlakJNV2ZPQW5jWFNzZ0poVHJ5emJpcjhTVVdBdHhwcXQ5VlZvUy1HMU43dV9idGVUYTBtMHp4NXJnYUxnU0xhSWx1eWd6anRSdlM0eDFHY3pzaUdyWQ?oc=5",
+          "title": "Apple Knows AI Isn’t What People Really Want, but It Can’t Say That",
+          "publisher": "Gizmodo"
+        }
+      ]
+    },
+    {
+      "title": "Switch 2 size comparison: Nintendo’s latest up next to a whole lot of consoles - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmZHZm1JSEVUZURpYzRvS3BReUplVE0xOGRtQ013UEpXSzV3MHo1VkFMTms0Q3l1Mi00aDdHNmhwT0E0Z2VZYzdLemRGbXlONWJQTlFaY0lIWkJJV0NTOEZyRzVmb1ZUQnFDWS1fMnZ5M1BXTEJ2QWdydVpUVURTajlKeHJmSlR3X25uSzdJMm1scWdHVEFNaVUya1ZvTmlEWmhlalI0a09uNUFvVERWeg?oc=5",
+      "published": "Thu, 12 Jun 2025 17:30:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        12,
+        17,
+        30,
         0,
         3,
         163,
@@ -24,58 +68,19 @@
       "source": "The Verge",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ0M4STlubmx0dkkxZzN5QXduaUNFSVYwdGJIaEoyQXdJd3M1RFRJVHF0OEZBQ3Q4Uk9OR0w2NUdpTTRBaUlxMC10bU1vT1pQV2VUanVQeHp1bm53TXRYWUswd0JMSUhBLTJmMXRyWF9Fbi1IaHhtQUZqV0I5UlFIRUdKUQ?oc=5",
-          "title": "All the Android features Apple announced at WWDC 2025",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmZHZm1JSEVUZURpYzRvS3BReUplVE0xOGRtQ013UEpXSzV3MHo1VkFMTms0Q3l1Mi00aDdHNmhwT0E0Z2VZYzdLemRGbXlONWJQTlFaY0lIWkJJV0NTOEZyRzVmb1ZUQnFDWS1fMnZ5M1BXTEJ2QWdydVpUVURTajlKeHJmSlR3X25uSzdJMm1scWdHVEFNaVUya1ZvTmlEWmhlalI0a09uNUFvVERWeg?oc=5",
+          "title": "Switch 2 size comparison: Nintendo’s latest up next to a whole lot of consoles",
           "publisher": "The Verge"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52aFh3cV9fZkpTQjRZbzJLdzhTSlo3QW93X1RfYTBMcm5tQUd6ZVMxbVBrMFNxeHpBczdkWWJ0eThPeEdQVlZ0Z1pELW9Gc2R2aXZwM08tTTJONEw5SW1vd3I4NGpEVG16bk1YellSZnA3Q3NQSlRSNHVB?oc=5",
-          "title": "Apple Just Showed Off a New Look for iPhones. Here’s Everything Coming in iOS 26.",
-          "publisher": "The New York Times"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcVFNd3Fyc3IyVFpnRksyNUk0c3dZOGpMWTJwRUltV3RnajNSdXlPSXZ3bF9VelRUNy1zczV0M0dxLTBvZjhOOWF3Y2s4RWlZQ3lNc1RpWmpSbVROMFlnd2ZiQVRPek9Vc2FtR1k2eHRSLWpwcTlGME5pMFBRMUNBTG12SGl1SDJ5SjY2d2dZaGJxdkU?oc=5",
-          "title": "Your iPhone is about to get uglier",
-          "publisher": "vox.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOTdXLVdFUDdMNzV0cTRwUmRFcVFyMzh3TzZJdjY3Qy0ycXBfYlNjd2NMT1VWVlVqbzBMdEc5Z0VaV3I0elNQcWZieGFCLXNzd3dQNUNLdTVJb0l6dW16N3d1d0h5ajVjYXJfM2Q1S2VLUTltNS1wU29MOWxRRmk3YzkxbXV3TmFhZV81SWUxME1fbUs0T3h1czVaM1pLYmsxRFEw?oc=5",
-          "title": "Apple introduces a delightful and elegant new software design",
-          "publisher": "Apple"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTJRUno0M3ZnY0pqZ0gwc093MEFUdGE3NktLUmhhb3B3TFFyT3AzUnkwcWVHbUxwQWdmQ1Y1Yk41SUx0cjBETXU1RVd3eFFhSkh2WjJySnZoVmt0dGxzVzh0bVNYa2E5MXhMekg4dHBfOWRLenB3cmh3RktQd1czTkVObTJZV2g1T1NzX3RjQ2xwT3MyaHZpVW5KaG0?oc=5",
-          "title": "Apple's Liquid Glass is Windows Vista done well",
-          "publisher": "Engadget"
-        }
-      ]
-    },
-    {
-      "title": "Japanese Charts: Switch 2 Crushes PS2 To Become Fastest-Selling Console Ever - Nintendo Life",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRWExaE90anBaUzdVM3pvWmFoaGR0eUNFd2VHbmNBRWlJYTZDQ1RlZWc4RER0Z1AtY011dV9jajFEY0taNm5mTlBfYUZHTkZaMEo5cmVZUWllX052YWktekg5TVotM1JMaWFxSTNWVENHOW5IRkI5elM1cVZfOXphQmpmOXEwVmRhb2JYTWNTczJKUUxFQnNNT0hRdUhVbE8wOEF0MVVGQU00RExWRVE4OUZtbDdzMDV1?oc=5",
-      "published": "Thu, 12 Jun 2025 15:45:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        12,
-        15,
-        45,
-        0,
-        3,
-        163,
-        0
-      ],
-      "source": "Nintendo Life",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRWExaE90anBaUzdVM3pvWmFoaGR0eUNFd2VHbmNBRWlJYTZDQ1RlZWc4RER0Z1AtY011dV9jajFEY0taNm5mTlBfYUZHTkZaMEo5cmVZUWllX052YWktekg5TVotM1JMaWFxSTNWVENHOW5IRkI5elM1cVZfOXphQmpmOXEwVmRhb2JYTWNTczJKUUxFQnNNT0hRdUhVbE8wOEF0MVVGQU00RExWRVE4OUZtbDdzMDV1?oc=5",
-          "title": "Japanese Charts: Switch 2 Crushes PS2 To Become Fastest-Selling Console Ever",
-          "publisher": "Nintendo Life"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3pNMUJLUHJTVnJsckltTlNZQ3BaNDZORFdHdnh6dF85Zm1DeThzRVo3R0RkazRaUlhQdDNDTzV4UGo5bkVtSFJNY09UQl93cVFUOVZ3clZZeEJMSmhzQkFKOExIeTJxRlc3NmNNVDlvU0dEOTJqamdtOEZKNTNDbHB4M25sMEdVc3cyTUZua2JvRDBFSXpWdHRnb1JCcVNmdzN5Ng?oc=5",
           "title": "Nintendo Switch 2 review: More of what you love",
           "publisher": "Engadget"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOFRTU0JYNnBBTzdvc3JxakJQa0NxbjBsWnByeVNSMktyN2pfa0V0RFFsRGRnbzdQUGVVLTktTXZRd3kwcWtvRUZOcWw1eFRxX3ZVVzRVRzFIa2hYcktlazVJSXE2WElLSmRfNTg3MElpRVltWXpSOTFqVkR0elVlY3pmaFM5TlQ1Qlg4YmlMV1laSVpqbGhR?oc=5",
+          "title": "Nintendo Switch 2 restock tracker: Walmart has the console in stock",
+          "publisher": "Mashable"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYnRCekI0dDFCM1hmWFFFbVpXcmUyZ3R3ZGxPQ0IyLU5HaXZWdlhIWXRhMHZhVVFWYThadlVkcnNBTHJweVo5djdUUGViRi15UTVQdy12MUpIaFR4OElYRjN2S2xwdElaVElUWGtiRnZpOTFpRnFfNjNWbjJfNktFRkIydElsSjlZWkRqalA2U2lwdWxTaXpndnNfbw?oc=5",
@@ -85,144 +90,51 @@
         {
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ0t1d3NGMF9HY1ItcHBUdGZ4ZDR6VDdIdC1hV3psUmEtZnVRRUZGaVdKNm14S0lKdjNnb2hWOHM1Qm5ZeU5LajdFbWRrdm9nckhhRzdyT1VUTDVGQmNfT19iLVduODRzVkphcGRmMlJpSXFBZnNUaGZXS3JsT1phMmVsZURyZEtUa3U5RnBjZjExZFExQlltLTdONTJaT3FLWWNSWDJObWlWR2RKTjk0S2UtVmJhZw?oc=5",
           "title": "Nintendo Switch 2 Sets Sales Record in Boon for Games Sector",
-          "publisher": "Bloomberg"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb3d6ZE5LY1h2SS1FdE9TOU5PanRBVlhyNHpEbGFPSGpUVTJDLXFjVHVKYjhaVk9KdHRIM1B1QzdRdGU3dVg5RWFoM3hjcXNTYlNLWkZuSTNHYUs2VC1nNm9tdlZJLWdwM2tKN0pmZVhldEl6WVU0Y29rSHVSS2dHRUV4LUMxNnJFMFVyM1BlTWVRN2hhQWJyd0NEUnZRcmRFVlhWNjBUTzdZN25lTWpjUi1HZE03bF8yVTgzUkpIbGpGWVlf?oc=5",
-          "title": "Nintendo Switch 2 sets record, selling over 3.5 million units globally in first four days - News - Nintendo Official Site",
-          "publisher": "Nintendo"
+          "publisher": "Bloomberg.com"
         }
       ]
     },
     {
-      "title": "Apple Targets Spring 2026 for Release of Delayed Siri AI Upgrade - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUk1ejg1Mk52ZjBPMlhpbDU5VGdCM25RR05pQ1VQalQ2YU1mQ09BQXItX2otdk41WVVoLXRNVG1ROF92RkxGVE1STHktOXhQNjZ2b085SHJXbGwzU0t1R09vRmEySC0xU21QNVBjMzFpcklSVEcwcnRWazlCLWYzbjJvcFV3UHprMzMwUHJ3OVlQbVZ0cmQ0NnMzLS1rS25saWYybTc4enNHeTRDSHBXaVRDck5yZw?oc=5",
-      "published": "Thu, 12 Jun 2025 20:45:31 GMT",
+      "title": "Here are Apple’s top AI announcements from WWDC 2025 - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1RXUVdLVjJxNVZzUl9vRGlqZ1NhRlFqVHBON25DZXo4bEFPNm9iY3Q4NFkzVG1EUnFKNnFlbVVuejRkRUZtc3ZZRUFENXFfbmxCRDdlUEswbjJOX3lCa0ozbl9id0JydEgtNW4zbGExTmdtRS1SM0ZmaVoyUURKbXpBN3hzSGVHZ3QyRlJJOA?oc=5",
+      "published": "Thu, 12 Jun 2025 17:53:12 GMT",
       "published_parsed": [
         2025,
         6,
         12,
-        20,
-        45,
-        31,
-        3,
-        163,
-        0
-      ],
-      "source": "Bloomberg",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUk1ejg1Mk52ZjBPMlhpbDU5VGdCM25RR05pQ1VQalQ2YU1mQ09BQXItX2otdk41WVVoLXRNVG1ROF92RkxGVE1STHktOXhQNjZ2b085SHJXbGwzU0t1R09vRmEySC0xU21QNVBjMzFpcklSVEcwcnRWazlCLWYzbjJvcFV3UHprMzMwUHJ3OVlQbVZ0cmQ0NnMzLS1rS25saWYybTc4enNHeTRDSHBXaVRDck5yZw?oc=5",
-          "title": "Apple Targets Spring 2026 for Release of Delayed Siri AI Upgrade",
-          "publisher": "Bloomberg"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmpDZ1MxVDM4Y3VEMG1PX0JDVWNUV29BNFhmQkFhdjNwVEdZYkt6YkRpc29jN08taXU5MGNYVWdGQlktUlRpVXVuMjdMVXJXc1Q0aTVaRUJGMmxTc3ZVQ3k4amtIVzBvclIxTEdHUmV5Y0NCUUNETDFET0ZzbnFhY2tLLWNjekw1eGNELQ?oc=5",
-          "title": "In the age of AI, Apple needs to open up",
-          "publisher": "The Economist"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa0tTekxmczhmekxPUml6Q1pQZlA4aDFfLVRVOHJyR1JqelkxWXFERjA2eG4wRHRNckYyZW9OZGcwY0VLd3RzY3l5WTJIZ2cydzQtNnVnOUNZU3pQREZKdW5Uc1dwRmtONWRnQzhUZVJLSWhJbzBKcHE1WTljZlJ4TmhPMUlUUUo2ejdhS0RjcWtxMTZQcXFjRQ?oc=5",
-          "title": "Apple stock dropped as WWDC got going. Here's why.",
-          "publisher": "Business Insider"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQejJucWhocER4WnItMDhqbHdWZjc0S0RPUEtXM2ZoU1ZyTEpkWHBjUXpPdkNnUmpZME4teVg3YkFIcm5odGJlakJNV2ZPQW5jWFNzZ0poVHJ5emJpcjhTVVdBdHhwcXQ5VlZvUy1HMU43dV9idGVUYTBtMHp4NXJnYUxnU0xhSWx1eWd6anRSdlM0eDFHY3pzaUdyWQ?oc=5",
-          "title": "Apple Knows AI Isn’t What People Really Want, but It Can’t Say That",
-          "publisher": "Gizmodo"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qT3lrU1FwSzZHOVhNbXowb2MxaEt5Nk9kZHZtRE9kbExaZS11cUI4WWlYSmlEdXZHZDBOanhsX1JvNkgwbDhTVnNsTk5zekpaejZEUmt2NktmYkl1STVPdHZNVdIBaEFVX3lxTE96a3UtenNFNmhueUpPUGJvYkhmRVA3bUN4c3JqUzM4NFhpWFVydlZDU3lTOFBBMXpSaTBxSm5rNW1JbzFNUTFDT2JCRFEtUHFtbjdzZDVSMUo3SU0wQUNNVGYzZkxnbFJu?oc=5",
-          "title": "Apple may be the only tech company getting AI right, actually",
-          "publisher": "CNN"
-        }
-      ]
-    },
-    {
-      "title": "Samsung rolling out second One UI 8 beta as the program expands to new regions - 9to5Google",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3ZFRfdXVHeldMbzlhbVFPOFRJakdUZm1jeWxEUi1oWEhtTG1seVNoT3QwTEdDekRpU2dvOFdDX042ZTRaQ0NKa0pvS1BDS2U1cjdwN04zM0ttNlU0NVllRTJKQUpUeEJyN3dSdkhVTXhNeFJJRGkyUQ?oc=5",
-      "published": "Thu, 12 Jun 2025 13:55:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
+        17,
+        53,
         12,
-        13,
-        55,
-        0,
         3,
         163,
         0
       ],
-      "source": "9to5Google",
+      "source": "TechCrunch",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3ZFRfdXVHeldMbzlhbVFPOFRJakdUZm1jeWxEUi1oWEhtTG1seVNoT3QwTEdDekRpU2dvOFdDX042ZTRaQ0NKa0pvS1BDS2U1cjdwN04zM0ttNlU0NVllRTJKQUpUeEJyN3dSdkhVTXhNeFJJRGkyUQ?oc=5",
-          "title": "Samsung rolling out second One UI 8 beta as the program expands to new regions",
-          "publisher": "9to5Google"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1RXUVdLVjJxNVZzUl9vRGlqZ1NhRlFqVHBON25DZXo4bEFPNm9iY3Q4NFkzVG1EUnFKNnFlbVVuejRkRUZtc3ZZRUFENXFfbmxCRDdlUEswbjJOX3lCa0ozbl9id0JydEgtNW4zbGExTmdtRS1SM0ZmaVoyUURKbXpBN3hzSGVHZ3QyRlJJOA?oc=5",
+          "title": "Here are Apple’s top AI announcements from WWDC 2025",
+          "publisher": "TechCrunch"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMzIwclUyNzBNd1BjWmx6V3k4cDE2NTZFcXplb2V1b1dlYlZidktkRFpCcEhJMU8zcnVLYmhPNU9FeW1QV3V3YmU1aG1HSGZ3anRnQXdKMkt4NXJRdll2YkozdExNS2lsX2ZGZ2t5c3pjcTlPRU5sQzFkMkRoMkk3WV8tOU91UmRaTkE?oc=5",
-          "title": "Galaxy S25 June update hints at new One UI 8 beta coming soon",
-          "publisher": "SamMobile"
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcVFNd3Fyc3IyVFpnRksyNUk0c3dZOGpMWTJwRUltV3RnajNSdXlPSXZ3bF9VelRUNy1zczV0M0dxLTBvZjhOOWF3Y2s4RWlZQ3lNc1RpWmpSbVROMFlnd2ZiQVRPek9Vc2FtR1k2eHRSLWpwcTlGME5pMFBRMUNBTG12SGl1SDJ5SjY2d2dZaGJxdkU?oc=5",
+          "title": "Your iPhone is about to get uglier",
+          "publisher": "vox.com"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUFJwa2xvYTBUZTZxYWdieWxFMklINVh4RVlCOEtLT04taU5DS1JqN3lKb1N2YUstWE1XeUpJSmtiYmR3RENDelBQQVpzYzlXSlpHRTRpN09lVG5ST0lRRmE5dXFyQjJDc3ZJWmszSDdvTzBEUV9qZU1XMG85VXVraGJpdW5lMXJ2MkJzMUF3RF96WXlkdmJzUTE5YmZKQ1pjMm5YVGMxRE1pYVBCbVBITktRWElzS3ZkV2c0RFdIa19RRElvTVloWEQwQ1NBR2_SAdQBQVVfeXFMTnR2QWpSWkZkRjNhTTRybWJDaUVGaDdmMnlFTXJYaWVaekUtNzFTLVpHTG1tNlFvMjF1QW1yaGZITXE3TUFmaC04YXczN0M2Z0QyVVp6T1cxYlRtall5YkJPbHkwT1cxQy1IVy1lUmNJTXYzSXF5UTRUR0J5dDdLbVgwSUc4YnU1STlWYzlWRjJxQjBVVFVYakxka2syZTJ3eUV6X1lJWjJvU3BIR2JxY0RqNVF3MXNvRmRJajdOcUIySTVxMjFTZDAteEVJSEM3dC1mZ0Y?oc=5",
-          "title": "Android 16 is here early, but Samsung Galaxy users still have to wait a month or two for One UI 8",
-          "publisher": "Sammy Fans"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oTXlBaGl0bkNiR2pYeHR3M1oxbmxxdVVISkJ2T0ZTRkJQVV9nWFdOOHpHTzhxLXZhRG5zLVh4OUNIZFFINkFTSXUyU0xqdWE1UEhwd2hTVU91bzhfelFLWElSeGJPT2otVmdqVFhYMmpYUkdO?oc=5",
+          "title": "‘Beautiful’ and ‘Hard to Read’: Designers React to Apple’s Liquid Glass Update",
+          "publisher": "WIRED"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMnB4Sm95ZFpZcVZ4dWxSS3F5c1FEWDRNUlRTay1pNDdCX283TWxqaG9vYWUwOHVKeGtRanFhaHpjSi1tcWctOVphb0FiUXc4d3I0WDFhZGJRaUF4TUh0eUpmZVBlRzF4UkFWT3hqb1J1ajAwdGhNbFNteHRzWFJCVl9UNloxTnJwcXVTMTg0Q1ctUmNNcXBaTGwwSEQ1eHBLS1gzcHpFVktSd0xPWHFoVFljdUZ0cTZJTzlycjdyVEVRRFVHWkVwcjlyck9kcHZtbE14Vko5UW00cHZhWDZ2TGRIMnlzeVVBNldRZi0tX0FLeS10MzJmQ3Y0THpWV2pMSFhKb3FqS2I0RlY5ZnY5Nkw2R1lzU1nSAZwCQVVfeXFMTTlXbXlSblduYVlhQW5IUkZ5UkRTdk43MDBzMFdPRFJqZV9ISy1VOG9VU0pZcnFtTV9ZdDNNOEowVU1GRnNhT2N6aGY5X3dUMU0tREJLNlMwQ0pYNmZMN0hmYjRxSVJpaTZFWjBwUkdMS3FtN0Y3eU54cE1DUDZmWmhKcFNYa1ByN0xxUGxQT1B0RmEza0t5SGpTRmZGaXpodG5Za2s1Wm5hdXVGdXVVeWZxSUFTXzZqWlAxM0VCd1kxUHFyWEN3UUJjZnl0UGJXWUpKRjZmSVdIZTVWNzFyQjlnM215eUhCVUh1aE9PMkF6bmJIX0xES29MSVRMLWdhUlFKSmZ6STNZLUNxV2VWV3RqeVJPTnlOcU1tZTY?oc=5",
-          "title": "Samsung One UI 8 Update Release Date, Time In India, Supported Devices, New Features And Changes, All You Need",
-          "publisher": "Times Now"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTU9ybzVjWEQ3dXh3OV9qZGVERFRZRmJxMEFMWVU5aUZmQkQ2djdKZEN2cEhETVNRakNVY0x3N254MUktekdjZmVSZHpLR2VFSDFfNVA4aXpva05jRnR3eHZqZmE4ajQ0SHZvNmhNdHA5N2N0SjBGSzYwczVvRHpFOThfUEFLY1ZzV0YyUlZQaEJVM1NMYzBvYXFQVVJlMXlZX09XdmZKaHNueUpObUdLbHZIeFlkLTZVaV9rWm4yV2tVMUVGeWI0UFVzTXNCVUJRejFNQ2JB?oc=5",
-          "title": "Samsung begins One UI 8 beta rollout for Galaxy S25 series in India: Here’s how to download",
-          "publisher": "MSN"
-        }
-      ]
-    },
-    {
-      "title": "Bose's second-gen QuietComfort Ultra Earbuds have AI-enhanced adaptive ANC - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSGRzRHZSSzJJYVg4VFJWd09PM2tfbjdadEd3MkVCTEwyRjlEN1dsalNCV0RRMGZiVGVRLUstSklJVWl5UHBmYkJvaWd5bG9YWHRvTnFELWRKS2lCcnJsaTFLTVFDNzEtaDdLb0JYZzB6dkxaRmtkRXN3dDNlX1haYVprNkxaRUFQYXlCTVV0MU5WVjc4NDN0TzRrMFpNUWlfNWFUT05xM3ZrbnFmQl93SzJLWDBoTm1LMUxQV1IwbEw0RWlYSUFCdVFR?oc=5",
-      "published": "Thu, 12 Jun 2025 13:00:57 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        12,
-        13,
-        0,
-        57,
-        3,
-        163,
-        0
-      ],
-      "source": "Engadget",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSGRzRHZSSzJJYVg4VFJWd09PM2tfbjdadEd3MkVCTEwyRjlEN1dsalNCV0RRMGZiVGVRLUstSklJVWl5UHBmYkJvaWd5bG9YWHRvTnFELWRKS2lCcnJsaTFLTVFDNzEtaDdLb0JYZzB6dkxaRmtkRXN3dDNlX1haYVprNkxaRUFQYXlCTVV0MU5WVjc4NDN0TzRrMFpNUWlfNWFUT05xM3ZrbnFmQl93SzJLWDBoTm1LMUxQV1IwbEw0RWlYSUFCdVFR?oc=5",
-          "title": "Bose's second-gen QuietComfort Ultra Earbuds have AI-enhanced adaptive ANC",
-          "publisher": "Engadget"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVF5b1NfbWRWNVVnWWVhbXZybW9hTUUxUmdjbXdoVWxSZDZvYjUzbDhaanJiUnFXX3R1XzkyYW9XZVVNWVVjQXBBdjQwOTZvbXZRaFhVbFVibXN5NzVFdDJZM3J4TkFYdlJTWGV0T3gxQjNDUU9LVURqQ3FHYjhkb3JvYjZQSHgxY1RuSlRJT0I5U3NnNkNPeTJGQkpoQnRWMm0xODlmUUZNOGVVNFJSbWVR?oc=5",
-          "title": "Bose Launches New QuietComfort Earbuds with Wireless Charging",
-          "publisher": "Bloomberg"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSFFwdTBDV0RBdE9fQktDQ1htOWpZTERUemd5U3BHUHdyR190VnE0UllhNm4zbURqbUlReGc1ZVNGbGJlQkJtekRRZU1mYVA1OXJ4eWZ5MzVhM2NFTEIwUmgyWlZlMklBNklFOC12YVduWDNaRENKM1R2a01WcU8zSmphMmRzYW1sM2x3MWZPQWhUSDEtREVXMWs3RkpId1JsbDk2QzNDUFN2dXFtLWRxdjBhcw?oc=5",
-          "title": "Bose’s New Bluetooth Speaker Looks Like a Solid Way to Annoy Everybody at the Beach",
-          "publisher": "Gizmodo"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUkdFb2txMWZSVzdoQjJ5QWFjcnIzT0Y1d0ZZeUhhZkJIM1U1aGM3SEw5WlpRQngyMzc1R2Z4aEtQQzZpeXdnZmx0VlkwcVB2YjBhUDhYMGljM3VJU2NHWmI3dVVSZFotYV9FSzhDQ2NEejNKT29oLWhRbHpCSnoyM0xobjU4aUlPbjZleHFzc1dRT013U3BLeVA0cXV1STg?oc=5",
-          "title": "Bose introduces new QuietComfort earbuds, SoundLink speakers, and a summery yellow colorway",
-          "publisher": "Mashable"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEo3aENsOEFCU1FLZE9McnMwNFozTmZaUzZZbVBMSjFSX05tSnhxa21iWTI1d0VMS3huZlRsZTloODR1LXpvN05wQVNiczRZRTlmZ2tIeWdkUTlhNzhCakpKUzdXVXpKUzhDT1ViV09GWW5uU0RJT3B3UTY5SVJNMDFab1JEOTRqSDFPY3hnNXkwbWx2Z3ZXVkpSM25TWnhsdWhBTFVhSlFZWHJtRGRFbEZ5WFpmeVk?oc=5",
-          "title": "Bose upgraded the adaptive ANC on its new QuietComfort Ultra earbuds",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ0M4STlubmx0dkkxZzN5QXduaUNFSVYwdGJIaEoyQXdJd3M1RFRJVHF0OEZBQ3Q4Uk9OR0w2NUdpTTRBaUlxMC10bU1vT1pQV2VUanVQeHp1bm53TXRYWUswd0JMSUhBLTJmMXRyWF9Fbi1IaHhtQUZqV0I5UlFIRUdKUQ?oc=5",
+          "title": "All the Android features Apple announced at WWDC 2025",
           "publisher": "The Verge"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR1NwbEh0cVZWUXFodTFkZC1Pc013TDdXYnMzY195VmtRdlBZNjFkNEFWa3BpMHBXQVlQd3NKclJONS1vdk55OXU1Z2VwTXNKeDRGdlhrcXJJNEVqaVNNT2lSdndHcHRvcDY5cXdKSDdZR1Y1M3ZHQm5fc19LT1NOd3FMek82N3lpQlF5OUdmaDc1U3M?oc=5",
+          "title": "These 3 iOS Updates Are a Bigger Deal than Liquid Glass",
+          "publisher": "CNET"
         }
       ]
     },
@@ -249,8 +161,8 @@
           "publisher": "GSMArena.com"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc3lXRHpsWVEyM0U5WFJET2RZMkxVNGhlWnpNTkxfWG9XUUNFWThhOUxVdlRoNlBhd2tlU3FMcEU4aXJJQ3B1M0t4XzhyX044cTBpS19tNlJnQzUtX01JckdKaUtxMEw1cXVrYUpfV0NYcmF0dWpHb2psRE5ONXJjMmZNVDNVbHJJeGUzR3NabXcwTDlTYXh6ajNhLVRybFN6ZHhsNmhjTkItMElQdDVQei1sQ1MzbTl2X29z?oc=5",
-          "title": "Your Smartphone Camera Now Gets What You’re Looking At — and Responds",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTGhZbXVmc1dhSmI4elhpQUl2SkR1blBsQU9SbTZnT1JFRWpveFNqSDBuWnAtN09uODYwSEUzMTlXU19FR1Q2azZTbEFpZnJzTHk2bnR4WHFfYzIwMkJLbzNId2dKaFNUajIxSm1pcFk4TVd6Ym5uQmFnRllCZGhkMjR0QVFEUFY5Ym5sTTJnczllbDFQNGt5U3VTb3BFX3VxX3h5NkhXOE9rbGZkQ3MwZlpScms?oc=5",
+          "title": "Thin, Light and Built to Last: The New Era of the Galaxy Z Series",
           "publisher": "Samsung Mobile Press"
         },
         {
@@ -259,102 +171,58 @@
           "publisher": "Forbes"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdnBNRGxrWHB3MUhIcDVpeDVEQ3Rrd3haS1ZhaG9acGFkaXpxdG1kekhKV054UlkyU3JTUE1oUUo4SEhTMmhfNHZNazVWOEJURElZMkVneVRuM2xDd3hEczVJNkZraWY0b21YczhXRG5ubWJRbWl5Z1A0Nm1pMG4wa0p4SVdyd1BPZWpGX1RjRmFCdHhyUmhiSmZR0gGfAUFVX3lxTE91VWg2WGdBMFZaRnFuOFh5a24zamZkdlA2ZkltSmFiX3EwZmtqTE1JVl9Ea1M2QXN5eEJ2OVpjLTR0NzNsVVhYWFVSNEFZa3Z6YlhNMXFWU2pBRjMwOHV3a0E3czQtM2xKX0dvRWU4aUp4REt4dnJKeE9ZcjNEMU5UeUdBVXBpbS1Ld3RveUYyMEd4aEF4OWE0bnQxdmVjaw?oc=5",
-          "title": "Samsung: Galaxy Z Fold 7 Cameras are Much Ultra",
-          "publisher": "Droid Life"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMzVralo4bWVacHNKa1pQdWN3cEJjOG1JNVJFYUptNzA2T1Nna08wWkIwOUJiSmRZbDh6c3dBcktWVkFGNmlpaWh0dmx2cFduLVNPaHpjR25nOVZMN2hLWkYxM1oxb19KSWt3NS1RaUM1ZXBpTGJsMDRfYUNRdmFua1ZoLWVlbVZYdWZvQVRvRTd3RUhJLWUzeGI0OEp3ZDRlZnpTSUJNZw?oc=5",
+          "title": "Samsung Says Its Next Galaxy Z Foldables Will Be Its 'Thinnest, Lightest'",
+          "publisher": "CNET"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPalpmSzZaejB6YS1wZ3JMbEtLTW5FT0NHN1Y3UmhwWXB6S0I3N1ZvcGNMbXdRUGtfaXF3WTUxRnZKckluMTFBUFNMRkRxeVZMMUhPTUREV0RZTC1CNFJ2QmpXd3ZRRUkzXzhXNjZXWkhmLWJNR0dJZUtFV2JLOVhUN0hVM09rZ1hKY0xVYk9CNmJWVW9oRkRRM3RpaTdqS25OWjZrNm11Y3BtOVhFY2JaM9IBrAFBVV95cUxQU3hLbXpneFgyY3B5dFhZYUJ0UVB0RDBFUU96OC1teURILUxvVGh5RkprRUNQTndjNG5Wb1FMUGhqVzkzSndIdUJvR1FZX0ZHUEg0ZUJoOE1QLWhfamNqWTdWdjVoMTFDWHRiRDM1ZHNjM0wySHFuVGpCcHBSb1lwbGhaV21mWnJyWGNFSkI3dlp2NlYzQUVjSG9mbkprdW1ka2pRN0J2MGxOVGZr?oc=5",
-          "title": "Samsung Galaxy Z Fold7 passes through the FCC, has its chipset confirmed - GSMArena.com news",
-          "publisher": "GSMArena.com"
-        }
-      ]
-    },
-    {
-      "title": "Google Pixel 10 may fail to live up to our MagSafe dreams, after all - Android Authority",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9naTNKWThhVUlQRDdkU0RqWVpYZk9FTHQwSjB1ejNvNXg4UXkwMHBOWGZ4NElrLWZoU3l3MGZSTndKNW8xUDg4amMxdDlhdVlvOW5hNnlJa29kTmFZeEt0VTZkZ1F5Rkk4OGc?oc=5",
-      "published": "Thu, 12 Jun 2025 16:57:53 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        12,
-        16,
-        57,
-        53,
-        3,
-        163,
-        0
-      ],
-      "source": "Android Authority",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9naTNKWThhVUlQRDdkU0RqWVpYZk9FTHQwSjB1ejNvNXg4UXkwMHBOWGZ4NElrLWZoU3l3MGZSTndKNW8xUDg4amMxdDlhdVlvOW5hNnlJa29kTmFZeEt0VTZkZ1F5Rkk4OGc?oc=5",
-          "title": "Google Pixel 10 may fail to live up to our MagSafe dreams, after all",
-          "publisher": "Android Authority"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbDZCSzZQODFVSW5IS1lZeWxCZE9aMHFjZTBhWkpOcUZKbEdZQUtKVjlyTTJENzNCbUx6RmdfU0Y0X091Q2Y1cm5peERyYk5ESkcwaTh2ZHBwMnRCNFhoOWptd3ppMjlCQ1ZEQnZRWDJBRzNvZXNZeTRLS1hoU0tmVDhOWklWUGZHNElTakE3SEU3RXJWLTJWZA?oc=5",
-          "title": "Google Pixel 10 might debut Qi 2 support and magnetic “Pixelsnap” accessories",
-          "publisher": "Android Authority"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORHlVOGdGM2RtZmZmNGFiMmdhaG14MFRia1FQWWtUS0FId3BaenVzUzZBVkZ2S3JMZ2FsdVJPeDRWWVV5emdsZDR0aVhPcnVabEhxX2QxcXExLWh1QWpfRm9JeUdjNGxFbGprMXdPaUFjUllXd1JpT3VCcDZiNE5ZbTdtbWRkN1NHd1NMSWNXbkZqb2da0gGaAUFVX3lxTE1kN08yYlJLQlZNeUJRQ1Z0TElWTm1CdGE4VUUzZzRwOFdOUHdvN3R0cExlNEVWY2RBRWtyTHVFa3hfdDNkNU12Rllib181VnFDU3NqOGlVVlhYSG9lRDFVT2dpZVUxWGhuVUYwSi01dkVVZDNyd1pRbE45R05zNHBLbkJHWEtUVml6UldnZ2R4MXBXWlBBMmplWmc?oc=5",
-          "title": "Improved Speakers Rumored for Google's New Pixel",
-          "publisher": "Droid Life"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNUtTNm9rQjRUVHdjVmZGbHZuQWlEWGFqZXJfUEY0aFZ6emZqNjhhX0EtcnhzVEpUaEFnbktfdy1Xb1M5VXZtVDl4SkFWTmZmNHhydF9TdFZ4TmltNmJzS1k1dm9CTVVtYmtYMTNPSzljZG04dnhoLUthanVVbVZoVlRZQ0N2NGh5RmtuMmI1cnNReUctNDdBTWRmbV9oQ3cwLWZnZEo5UkIxay12Mm5yVGFsMmZONlJaMUJoOG9zR1pjSGhscTNRRFVRak50dGpMYnNhdg?oc=5",
-          "title": "Pixelsnap, Google's belated answer to MagSafe, could arrive alongside the Pixel 10",
-          "publisher": "Engadget"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVmFRS1FyQTR3b2p4TVZfVGZwNmM2MXRGREhGb21yLTN0eDZxZVF0VEJsMk0zR1pzeXlNZUJUdEh1V2E5UzlFZkRMa2tENzNLSDhBQzBpVEIxTmZ2TTZGY2VPZ0JnY29wVkxLeG1MZmNtU0JsQ2JPSWFXS2NNZzlKRGhXVTZVSEZPZGxmQzBvZkZMcUhPd01fOFVB?oc=5",
-          "title": "Google Prepares New Colors For Pixel 10 Family",
-          "publisher": "Forbes"
-        }
-      ]
-    },
-    {
-      "title": "FUJIFILM X-E5 Announced - Rangefinder Style Camera With In-Body Stabilisation and Film Simulation Dial - CineD",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRE1qNm03UERmWk1xUTN4b1RiZDdYb2hGbDdBRFlWODJnVUVobmZtajhXNWtwc0M5VFJSc0UyODllNTYzelV6dHdsY3FHWm9DY3RCV2JEeU5PUDVPMnJ0NTd5NlFuNGZLazg0akVqck9ybkk3aVdPRDBuZXZjZ1EtVG02eTZhaHhyOWRsa3liejIwMTFlN2VLR2tsYXBINXFzRHpuN0NHUVV3ekEySUhaRkdXdW15aWhHTTRFSjdjcnA?oc=5",
-      "published": "Thu, 12 Jun 2025 10:05:04 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        12,
-        10,
-        5,
-        4,
-        3,
-        163,
-        0
-      ],
-      "source": "CineD",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRE1qNm03UERmWk1xUTN4b1RiZDdYb2hGbDdBRFlWODJnVUVobmZtajhXNWtwc0M5VFJSc0UyODllNTYzelV6dHdsY3FHWm9DY3RCV2JEeU5PUDVPMnJ0NTd5NlFuNGZLazg0akVqck9ybkk3aVdPRDBuZXZjZ1EtVG02eTZhaHhyOWRsa3liejIwMTFlN2VLR2tsYXBINXFzRHpuN0NHUVV3ekEySUhaRkdXdW15aWhHTTRFSjdjcnA?oc=5",
-          "title": "FUJIFILM X-E5 Announced - Rangefinder Style Camera With In-Body Stabilisation and Film Simulation Dial",
-          "publisher": "CineD"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWW1lVkZUUWo5dmJaT1V3REhtRVZaVzlwcU5MOXdUV0VUb0FIdFVxOElYbEVESXJSSlp4WEIzQW1FS3BWc2JXQmdCUWNRRlJRUlh4TVByMFRVSWRrLTJ4SlJZY1NSVm54QU80U1FKa3Y3U1NwcGNSc0Z4UTVXRDhoT2xXS3dkNHNPd3BCYg?oc=5",
-          "title": "Fujifilm’s new X-E5 is one of its sleekest mirrorless cameras yet",
-          "publisher": "The Verge"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmpuSUE0VnRrQmRGRm1NRmZ2NnFXbTN1UzdVS3hxVWNna3J3cE9kc2Z2cnh6WF94RFZ5RV9NLWN0VUZQZmEwTk41QmJNQXFzWW53UmhfclpQSl9VMmNoa2ZQZGdlSncxcTh1X3NPOEplQ2pNVGFMcUFaM056OTdqQUJUVi1uZjNqMmZFalFBelhXUzA?oc=5",
-          "title": "Fujifilm X-E5 Review: No Longer a Beginner’s Basic Camera",
-          "publisher": "PetaPixel"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNXzVmdTBqLVo2TUhJdjZ2ZFNaYjUybFZJLVc5Nk56dVdmSjIzWkk3bGRnbF9naldCb1U0ZlBRbUF1Z0Q1T1BCZDc0QVJkcy14SEU3WlE5REc0SktHUnFVVVY2aW9ud3NIQ1B0TFRsRFRhMzl6aGtYcnBia2VHVFJZb3NqSEpUdGZDNDJBcnZXSm1RYWVNaktRcURXT0RzcHpUd0s5WGxnR08xMTJjQ0E?oc=5",
-          "title": "The Fujifilm X-E5 is basically an interchangeable lens X100VI",
-          "publisher": "Engadget"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNzVRYXY5VnY0YmNzYTJjcFhFejZPZEpETWxMQUJpLXdndDQ0VWx5ZFRsVmpsTjlyaGdhVUk3YlJ2dEVvcklVNE9fWjVCc1k0eUxHcWJKZUJYNDBlRV9od2U1NTg0alYyR2dlanZacXAyOF94WDBLX29nN0RpV3NseUNzandIV1F5Y3lfeE94ZlhIbm45b3FsMDVBMlhpMzhsaEhMLWNjLUdlM0ExbW9aSzlxZ1JINWFEY2VESjktYjNtRmI5V0lRelNZTWNENG9sRk5WZzU2ZTFNdHBQNjJIbEYzNmpLRm1UYmJ0akg4d3NFRDQ?oc=5",
-          "title": "I took the new Fujifilm X-E5 and pancake lens on a city break, and they're a dream pairing for travel photography",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWXZ1TGJvcE5LcmhoQzVMNDczNEdGYzdnel9wTkNEZHhDaW9UMDA2QzU5QmMyMXMyb1hSdV84QlBUeXRsN3lON2FyQ3RVTnowQjdqdHZoajcwZTkxN3dUUFpueVdweUthM05udV82amxnSEE1d3diS3pWYkdwUDJaaU9yYnBTYUFRSEFlSUlRYTRRdzg3N2dLYU9BdDNxcE9fZWRwTTB3bGhHTFdaNmFXc3p3WkpONmpDV2twak9iR05ZbDU5M2tpRE44UHhsNUFid3lfTEpwUll6VExjcFh6eDJYNUh3N3hjOF9lRw?oc=5",
+          "title": "I’ve tried Apple CarPlay Ultra – and it’s the closest thing to an Apple Car experience that we’re going to get",
           "publisher": "TechRadar"
+        }
+      ]
+    },
+    {
+      "title": "Samsung releases One UI 8.0 Beta 2 for Galaxy S25 series with ‘major’ changes - Sammy Fans",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWTV0a0NCUGdnUEZGcGxLZmRuMzUxT1J3eV9SQjFXbTBnNklpbWZmSkZsUGtQRzZpRndLUk9UOFRBOTlGQnIwV1A4b0NwUHYwZ1dlTW1sTHFPd1ZNZ0VORTBmdkc1LWFEVWRtajB0ZVkxWWJ5cGdaQzV2eDRPWWltdHp0WWd4LTg4U2F2RzVSZTVoX0R2WVVZUnVR0gGfAUFVX3lxTE9UYWtVMVljdkRqVGg5bTdLM0ZqaW1rN1hGVDBQcGN6d1JYYnpHS2xqOUgwTjhaeVpCVTBzQ0QtWE5KMThDVFRkS28zM3RRN2l5Tk90NEpiMW5UUUJySF9DMVM5WlJhSzVGQUt4aUtWN1ZMXzZIelpubGlrN19BSk9ZRFpxT2sxUVh4TW1abVRyZFhtdW5LQ0F4bVR0bGstMA?oc=5",
+      "published": "Thu, 12 Jun 2025 08:17:29 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        12,
+        8,
+        17,
+        29,
+        3,
+        163,
+        0
+      ],
+      "source": "Sammy Fans",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWTV0a0NCUGdnUEZGcGxLZmRuMzUxT1J3eV9SQjFXbTBnNklpbWZmSkZsUGtQRzZpRndLUk9UOFRBOTlGQnIwV1A4b0NwUHYwZ1dlTW1sTHFPd1ZNZ0VORTBmdkc1LWFEVWRtajB0ZVkxWWJ5cGdaQzV2eDRPWWltdHp0WWd4LTg4U2F2RzVSZTVoX0R2WVVZUnVR0gGfAUFVX3lxTE9UYWtVMVljdkRqVGg5bTdLM0ZqaW1rN1hGVDBQcGN6d1JYYnpHS2xqOUgwTjhaeVpCVTBzQ0QtWE5KMThDVFRkS28zM3RRN2l5Tk90NEpiMW5UUUJySF9DMVM5WlJhSzVGQUt4aUtWN1ZMXzZIelpubGlrN19BSk9ZRFpxT2sxUVh4TW1abVRyZFhtdW5LQ0F4bVR0bGstMA?oc=5",
+          "title": "Samsung releases One UI 8.0 Beta 2 for Galaxy S25 series with ‘major’ changes",
+          "publisher": "Sammy Fans"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMzIwclUyNzBNd1BjWmx6V3k4cDE2NTZFcXplb2V1b1dlYlZidktkRFpCcEhJMU8zcnVLYmhPNU9FeW1QV3V3YmU1aG1HSGZ3anRnQXdKMkt4NXJRdll2YkozdExNS2lsX2ZGZ2t5c3pjcTlPRU5sQzFkMkRoMkk3WV8tOU91UmRaTkE?oc=5",
+          "title": "Galaxy S25 June update hints at new One UI 8 beta coming soon",
+          "publisher": "SamMobile"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUFJwa2xvYTBUZTZxYWdieWxFMklINVh4RVlCOEtLT04taU5DS1JqN3lKb1N2YUstWE1XeUpJSmtiYmR3RENDelBQQVpzYzlXSlpHRTRpN09lVG5ST0lRRmE5dXFyQjJDc3ZJWmszSDdvTzBEUV9qZU1XMG85VXVraGJpdW5lMXJ2MkJzMUF3RF96WXlkdmJzUTE5YmZKQ1pjMm5YVGMxRE1pYVBCbVBITktRWElzS3ZkV2c0RFdIa19RRElvTVloWEQwQ1NBR2_SAdQBQVVfeXFMTnR2QWpSWkZkRjNhTTRybWJDaUVGaDdmMnlFTXJYaWVaekUtNzFTLVpHTG1tNlFvMjF1QW1yaGZITXE3TUFmaC04YXczN0M2Z0QyVVp6T1cxYlRtall5YkJPbHkwT1cxQy1IVy1lUmNJTXYzSXF5UTRUR0J5dDdLbVgwSUc4YnU1STlWYzlWRjJxQjBVVFVYakxka2syZTJ3eUV6X1lJWjJvU3BIR2JxY0RqNVF3MXNvRmRJajdOcUIySTVxMjFTZDAteEVJSEM3dC1mZ0Y?oc=5",
+          "title": "Android 16 is here early, but Samsung Galaxy users still have to wait a month or two for One UI 8",
+          "publisher": "Sammy Fans"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMnB4Sm95ZFpZcVZ4dWxSS3F5c1FEWDRNUlRTay1pNDdCX283TWxqaG9vYWUwOHVKeGtRanFhaHpjSi1tcWctOVphb0FiUXc4d3I0WDFhZGJRaUF4TUh0eUpmZVBlRzF4UkFWT3hqb1J1ajAwdGhNbFNteHRzWFJCVl9UNloxTnJwcXVTMTg0Q1ctUmNNcXBaTGwwSEQ1eHBLS1gzcHpFVktSd0xPWHFoVFljdUZ0cTZJTzlycjdyVEVRRFVHWkVwcjlyck9kcHZtbE14Vko5UW00cHZhWDZ2TGRIMnlzeVVBNldRZi0tX0FLeS10MzJmQ3Y0THpWV2pMSFhKb3FqS2I0RlY5ZnY5Nkw2R1lzU1nSAZwCQVVfeXFMTTlXbXlSblduYVlhQW5IUkZ5UkRTdk43MDBzMFdPRFJqZV9ISy1VOG9VU0pZcnFtTV9ZdDNNOEowVU1GRnNhT2N6aGY5X3dUMU0tREJLNlMwQ0pYNmZMN0hmYjRxSVJpaTZFWjBwUkdMS3FtN0Y3eU54cE1DUDZmWmhKcFNYa1ByN0xxUGxQT1B0RmEza0t5SGpTRmZGaXpodG5Za2s1Wm5hdXVGdXVVeWZxSUFTXzZqWlAxM0VCd1kxUHFyWEN3UUJjZnl0UGJXWUpKRjZmSVdIZTVWNzFyQjlnM215eUhCVUh1aE9PMkF6bmJIX0xES29MSVRMLWdhUlFKSmZ6STNZLUNxV2VWV3RqeVJPTnlOcU1tZTY?oc=5",
+          "title": "Samsung One UI 8 Update Release Date, Time In India, Supported Devices, New Features And Changes, All You Need",
+          "publisher": "Times Now"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3ZFRfdXVHeldMbzlhbVFPOFRJakdUZm1jeWxEUi1oWEhtTG1seVNoT3QwTEdDekRpU2dvOFdDX042ZTRaQ0NKa0pvS1BDS2U1cjdwN04zM0ttNlU0NVllRTJKQUpUeEJyN3dSdkhVTXhNeFJJRGkyUQ?oc=5",
+          "title": "Samsung rolling out second One UI 8 beta as the program expands to new regions",
+          "publisher": "9to5Google"
         }
       ]
     },
@@ -391,252 +259,14 @@
           "publisher": "Forbes"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdzJ4Q3pDakF3LWwzX1JwUjdsekYzOHdLYURzVkR1SFhRRkZGR3Uta3FmWlhDSWVNLTVQZFlzcVNqQkMtWEFyUG1PbFFiSjFNQ2JtVVpGV1hpWnZvMERnTWpJczJKNVp2X0hQMkZCZWU3QTUwaGp2WnF5VEQ0cTdGMXVvaw?oc=5",
-          "title": "The Top New Android 16 Features (2025): How to Install, Features, Release Date",
-          "publisher": "WIRED"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZUZCWVpYR3RYanZJZnVjbjlFQ3NUUFVwOWhGaTY3X1hfQlhWMWx6TGhvbU5Kc2FwOXlnRHJySW1yNmhHdE9pR2wtZzJCbmZWTXRET0VPU3B0dzZESHJIVnc2NEh0aGE1Rmx3TlpFN3J2eFlPS3pjZFBvbzVnMEFfQ1RVSUQwV3VXVG1XQmlCWlFlSGdGRjZDNEU4QVh2Zw?oc=5",
+          "title": "6 new Android ecosystem treats that have this gadget geek grinning",
+          "publisher": "ZDNet"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdWVuWHlZTWZHdC0tZko5RTdtX2VYbmVkLXduRnZ6N0hjSTRnUklVX0VqUjBRZjFrTkZ3ckFCeTVjS214M0NGTEI0R2VaalRSTXBoMjBMYXBIMDFRcHpKVXhjZU1YeTN0VDJsOFNWbENhSGwya0VwdjVRNXEwd25yMEx3?oc=5",
-          "title": "Pixel Gets New Features and Android 16: Should You Hold GOOGL Stock?",
-          "publisher": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "title": "Steve Jobs' Iconic Speech at Stanford Now Available in Higher Quality - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VMFZ2RDBzcTJydUZIVkFqTjVUV1FyS0VNSXdJdkpkd2ZZS3E1WUpiWFVrdm1OampBcGl4V0lqRGZUQkZIcDZ6RW1HSEg2QUx0bXZVLVhBaUtrbm83TnNLRkVOWUQtZ25pQkhSMy0zZmZfQTF5Ulh2Z0pfU3EwUQ?oc=5",
-      "published": "Thu, 12 Jun 2025 16:02:03 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        12,
-        16,
-        2,
-        3,
-        3,
-        163,
-        0
-      ],
-      "source": "MacRumors",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VMFZ2RDBzcTJydUZIVkFqTjVUV1FyS0VNSXdJdkpkd2ZZS3E1WUpiWFVrdm1OampBcGl4V0lqRGZUQkZIcDZ6RW1HSEg2QUx0bXZVLVhBaUtrbm83TnNLRkVOWUQtZ25pQkhSMy0zZmZfQTF5Ulh2Z0pfU3EwUQ?oc=5",
-          "title": "Steve Jobs' Iconic Speech at Stanford Now Available in Higher Quality",
-          "publisher": "MacRumors"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdFh5cFVsdFVwaWYzcTRCdE14N1hLTUgyX1hkZVlDSW1yZDZRcHpkdXViYjd4NUktdzR3TF92bXdzWWN3QWlEZE5pY0tfcEstYi1CcTRMbmpuN1FpdDY1QlFvM0t3c0NadFJKcDQ3V3BZbEF6UE5iQU5yOElEZVo5UkVCUVJXQkJxSlJrYnpIZEs?oc=5",
-          "title": "How Steve Jobs Wrote the Greatest Commencement Speech Ever",
-          "publisher": "WIRED"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY0NaTUdYYzRmWl83cXJ1azZMbDd4VExnbW8tSVpSaTYtT3lJSkdlYm5SaFZUUElBZWxrTXo3bGlYZjI1N3ZmakxUcENZV2VmdkJDTE5RZzF2QWJBZ0tqaS10ZGlUY1hROFZ1WncyQ2FsVDBjVFp2clc1bVVsMm5Gd2gzcERIZ1F5cVlXMzVybEJTWWhIQzM2ZlZrSTVkTDhJa1FwV2pabXVCZ2l2UUdwVVZJektOWnNabnJVNjhzdTFtcUU4cHc?oc=5",
-          "title": "To Be Happier and More Successful, Steve Jobs (and Science) Says Stop Trying to Specialize",
-          "publisher": "Inc.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVlFsanVldzZfSzByZkZxT3hnLWVCcWdhOTAtUVE2ZFQzaTJ1ajE0cUs0R2ZXaWtnRFVPMGJSS2drcnhRZHBuV1lxblVmdnZlX2NyQ1I5NWRpcnd6Z0NXNGJFZDJNdzJLbFFFaEhtVlNaNkVHRTAxYzIyR2N6QjlWQ05pOV9RSE9QcUNJQ3BWNDZaSUVFdUZXMVFYVFpENlBLUEltWmFQRnJyU3dKNGc?oc=5",
-          "title": "See the bullet points behind Steve Jobs’ famous Stanford speech, plus new video",
-          "publisher": "9to5Mac"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rY2lrbTQyalJvMEsyX19zTElkYW5OQmRCY0xqZUFsRW1SMWZ4N0p4WUJycXVza1l5RWtHVmpuNmJsUTFGQS1pYm1WWmVWNjVaNUp4c3dLTXZiTnlDMVBmZ3lpOXNmV2tTaEs4ZHdHNXFKMlh5djNLcFBmTl8?oc=5",
-          "title": "20 years of ‘Stay Hungry, Stay Foolish’",
-          "publisher": "Six Colors"
-        }
-      ]
-    },
-    {
-      "title": "Apple Highlights Two Smaller CarPlay Changes on iOS 18.4 and iOS 26 - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRjFoa3NKS2hhWjlTUHhDaWgxSW94MlhjQUVuNFBkdk5MXzRDc1NBdHdmY0NTZVhkTUtIdUNkRnpIUXdfc3M2ZURCTzdORkQ5WXZGUTJ3SmRENUw0U0RqU2lueVduQ3VBNmhleWhVYjV4WVdMMHlpaE9URExEcXBDY0diMFN5VWZKNHc?oc=5",
-      "published": "Thu, 12 Jun 2025 14:16:59 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        12,
-        14,
-        16,
-        59,
-        3,
-        163,
-        0
-      ],
-      "source": "MacRumors",
-      "sub_articles": []
-    },
-    {
-      "title": "Nothing’s new Phone 3 will be available for general sale in the US - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbnE1UV9tRVVmUlpXQXFVZW1CUUJaNzNROWZlS2JqcmV6TmtwTFh3QlB5dzBmQXQwdHllbU9ESktEdGRFVnk2SG96ZlBuWXVnWUxGZEJMdTR4emFUcm5pMGwtcjZPU09JOGdIOU9lMFFaWFVib3JVOEVGOUFva3pFWkpjMWxBZHJfLXhhdk54NW1ELXotakUwZUlwMmNwaVhWSmc?oc=5",
-      "published": "Thu, 12 Jun 2025 16:00:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        12,
-        16,
-        0,
-        0,
-        3,
-        163,
-        0
-      ],
-      "source": "TechCrunch",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbnE1UV9tRVVmUlpXQXFVZW1CUUJaNzNROWZlS2JqcmV6TmtwTFh3QlB5dzBmQXQwdHllbU9ESktEdGRFVnk2SG96ZlBuWXVnWUxGZEJMdTR4emFUcm5pMGwtcjZPU09JOGdIOU9lMFFaWFVib3JVOEVGOUFva3pFWkpjMWxBZHJfLXhhdk54NW1ELXotakUwZUlwMmNwaVhWSmc?oc=5",
-          "title": "Nothing’s new Phone 3 will be available for general sale in the US",
-          "publisher": "TechCrunch"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZTBNdFUwbnAyRGRSM3Z6MFEzV0pQVlFzbHM3ajVmeWUwRkJkbklPVm1WZVlhcnRNZ21KNzZId3pJUmJvODNraVR2QjhYUUZaVUFlcmlvWG04d1Z2N2RSRkk0OFBCdUQwVllLbzZPS0l2cEJfc0RxanlzdlVORjJJc0I2MjUxN0hUNFFaZk5UUEZvYU9hNDNDVDJld2xJZ25WSlloNTdIZzgzVTVHbE14R3Nxa20wZ0lO?oc=5",
-          "title": "The Nothing Phone 3 will be available in the US via Amazon",
-          "publisher": "Engadget"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckgtSldGSDR1Mk5xaE1WWlJDbnkwQ25IeGhNakI2N2NRbTFvR185U25sLVNEQXN6eXhLV0hERkI3NFRzNUVybXhYRjFkRHlnWjl4LVVNeFlUZkdQbzd1M2ttSWc3cDhubG5JRGFkTVZKZ1VUdGFJekRrS2tvUGFQZFJCVmxfNzlWcVVPcnV3S0sxYVpTeURxNERiSmQ3R0tJV0IzRm51clhZczhwS2fSAaoBQVVfeXFMT05HaTNzRTVxUkxnSzRwbjd0Z2lYTGVhMkxqbUFJWURqRko1VWo0M0FIZ01vRk50SlI5eDdZcmNHOC1OMTE3MXJRZ0dteW52OGIwNE9EZDdhZ211Yy1yQlhsTGxQQjlyUU9ScVdZSWJOeWxPT2VqSHI2TTloOGplTUl3OGEzal93aGdXYld0MDMtNHoxTkg5ajkwSmlZdGRaSUdDQkUtcU5KcHc?oc=5",
-          "title": "Leaked Nothing Phone (3) image shows a surprisingly small camera island - GSMArena.com news",
-          "publisher": "GSMArena.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZVQ2VTVwN1dHS3FySkotMjdocEdXdHZGdXN0cEFJNVdVc1NHOUo1R2lucEItb282MUJBTGZVdjVmXy1zUWFpVnNWMlNKME5FNnh4VGRVM2JtemM2SURoYmZTNklFU1k3SVBXZVBXQUFnak9Zc1RHQXlualNLODNQTF9aMDNIQVpFYlhGNGQtM3RUVXllTzVVY1BRMUVhY0ZSeDREb29uWF9hM0ZSMEpaV0ZaaEtLWjBFVTlDUnZEM2psS2NDUEtZUHRaSnRhd9IB1gFBVV95cUxNbjRNMFVRaGM4bnUtclNnRkRhS2wwOUM3OXBqMjdvaTNYcW5NLWRUbHdiS3F5LWRVZnhuTTlJZnp0QnJPdTJBVHpnY1BiUzNqSzVoLWFKeUhxSTBjb0lYSXp5V1ZCQVRWb2xBQU9YZGUtS1J6M0xTdzhvZDlSSXBwMnQ0Mm5FTllHVkRZbDNDSmxEZDduSUFOOFFPRVQzUkQ1VUJSTjNxR195SGZjLTJJYTlGRzRDci1XQk9ZU19Delo2dnk4OENUV1NLRk0wRGxSeDh4X2VB?oc=5",
-          "title": "Nothing strengthens India strategy with local manufacturing, investment, and expansion plans",
-          "publisher": "TelecomLead"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVENQWXNmbWRrRXJWOW1tUlRfbk9rWlV6ajJ0MkdZM3ozVDBQN0hsTVRZenlFbTdkZXNBRG5VOWN6ZXg2WC1OZEZCb2J4YjdQOUdhQ2VLMjFkNnVKR0ltMHN0dUxyU25kYnJ3clBRNGU1cWw4OG5xeV92Szhpd1VqRGF0Z0hybUtSbUhHeEtBcF80LW56UjhJUFVKN3hWd0RSaUtGSmdpbVZCUjdZdjdwM0tub9IBuAFBVV95cUxNdXN1aHAtLVJIS0RrUFk0eUFVY2U0aWltTUhqc3JTdGFTM2hmU21fNktqYTR2bTVmMzNfLTdGak04cUJqaV9BZlN5bm9aQW5xV2RFRl9VVFM1REpIVXVmclJkVGE1UW5VYlJYeG15TEVQTy1sZGg5SXNCSGJnZlEwU2hFNl9IUDcyLTJELVBld2tpVWRpUjZISnNvek9lbkNqMjRFcWVKZVRUTjJoQlpwdjBPTVhYeHpa?oc=5",
-          "title": "Yes, You Can Buy Nothing's Next Phone in US",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuM3ZONGU2a3dGT0ZQcFBOR2JBRnpWN3ZmMUVpZWNRRnVyT191VjM0eHAzTVdEdmIyVy1tb3gwakpMQmE2RTYwTFNTR2FKakhkNFFSaHVleU95S0JxcDZQOXVmeHJpTmQyd0luOWl1QklLUGppem9KRnY2NNIBgAFBVV95cUxQUDk4d2ZMSTB6T0MyeWViRHA5NUlJeWNRWDFmWE1USXdweWFnbGR2MzB4Umo1bUUtN0ZLanJKYXM4NHMzV2tSa0F5bkcybWJRTkw5T1o5ZGs0STdNcktnTVhYaHc1blNkUFlySlJLTVJQUy1pZ0xFcDJaaTVmWFlGSw?oc=5",
+          "title": "Android 16's Secret Desktop Mode is Looking Slick Here",
           "publisher": "Droid Life"
-        }
-      ]
-    },
-    {
-      "title": "Microsoft’s new Copilot Vision can ‘see’ your apps on Windows - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDFTZUNOV01lekljSGlKY1pXWkdfLW5TXzlqeEJOdV9nUnV5WUs2bHdRdTZzUG1zLU9La2U5UXdpTVQtR0ROWGtUM3RPODlFUGI2XzNBYjM2LTl2cXVKZjRXLU10RE1yVC1jel9fQ0dJbUpuR0poWl9FY08xWDRheU1B?oc=5",
-      "published": "Thu, 12 Jun 2025 16:00:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        12,
-        16,
-        0,
-        0,
-        3,
-        163,
-        0
-      ],
-      "source": "The Verge",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDFTZUNOV01lekljSGlKY1pXWkdfLW5TXzlqeEJOdV9nUnV5WUs2bHdRdTZzUG1zLU9La2U5UXdpTVQtR0ROWGtUM3RPODlFUGI2XzNBYjM2LTl2cXVKZjRXLU10RE1yVC1jel9fQ0dJbUpuR0poWl9FY08xWDRheU1B?oc=5",
-          "title": "Microsoft’s new Copilot Vision can ‘see’ your apps on Windows",
-          "publisher": "The Verge"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPakhaTnhKaHU5cnVtbzZ5RWdNNmI5X21YZVFjMy1GUy1fM0p4ZWxna2tBUGR5SUVkbmFteF85aDd4MlpXc0MxWms1MHlUREVKX21ZNGpvWjVaSHYzbWVhQW9ESVM1cEk3SjJXWERxSXNHc0FvTjJkd3ZaR3doTG40emdLTFJtaEVGLThyWlZRT3ByWXlBSlZLNlVRMWlyQXFueUtCcGxWaXB1WmpxUTgwYURBT1cyN1FHd19aS3ByQ1dHanNWaDFzb2ROTU9ZOEJpOFE?oc=5",
-          "title": "Copilot Vision on Windows with Highlights is now available in the U.S.",
-          "publisher": "Microsoft"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUWx0V3lYelVHc2xEanZubjM5RlR5SFdrNTdUZHZrbExIV1FtalJnUTB5ZzIzSmtBUUJ2dmpYMVk1cko4Tm9XWmRKNUlOLWkyd3dSRlN1bzBkOUZ0NHJjRTdDdkVxVW95ZHFMQXRGMUFVZ3ZHYjhLdk9rd3hXdnd3T2tVbl82RENhVXI2ZGFhZmJHWFNRWnhBZnVyVml6N045SU9kM29SMWR5dzI5cDRnaTU5R2Z4X2M?oc=5",
-          "title": "Microsoft's Copilot Vision AI helper is now available on Windows in the US",
-          "publisher": "Engadget"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOEluQmRROElZUmQteTZWbElGcGFieHV5TWJnZ1VnTEdqVnY2Q1JRemVhb1V0c2FHVzg1Ny1hYmxPMlVjUVlyLVp6UG9FaUg0Y3JzdGt3MXpxTzA0RWtyS1lUdU5YekJjM2xuUWFHT05BTm9FSmxaVVhBeUhhUVRwLXEyWkZCbENoU0dWQWYxeWlUVnhqQjJBMnJmb3NabmRxMkxkVkVBbFpldUpYTHMxR3NJNUtIdFRSREdWa2Vza0dDdkk?oc=5",
-          "title": "Microsoft's Copilot Vision can now see and analyze your entire PC screen - not just what's in Edge",
-          "publisher": "ZDNET"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd0hmODhlYkpEbjlCcWxaTk5oR2NjcWpXVGhrWXpDSlltNGlVMllSSGhHRmZOOTZGSlJnMnNra0c3ZFhTdUQ4WFVtRE5uOFZCY0VMNk52QjhnZHBRSEdMNTQtWXA3Z29qcEIxS2tqQUd0ZVZqTFNIS0NBNFdkRDBKMk11cWxSNkdWM2x2Nm9HM1ZfR21fZjh5VXE5UmZIVnltVzQ2X1ZsZW5VVzY2YnROam5oVGtOMWduYU11ZkczcUQ3QjR2X3c?oc=5",
-          "title": "Copilot Vision is live on Windows in the US — AI companion can see two apps at once",
-          "publisher": "Tom's Hardware"
-        }
-      ]
-    },
-    {
-      "title": "iOS 26 makes Apple Music Replay fully native inside the app - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSVJaakFuZ1RZUXFlYjNUNzkwSDgwZlJINS1xR1FjcW5Tci1IdVVpcVdzLWVQdjZvQUJfZkROVG1JUjNINDhEMFQ0dmlWSFRqZjRGcFB4WDN4LUFDbTV1Ujc4SU80azlHbWlOVHJpejFSM045MjZhenZ2aktHd2s0R1ZobU5zSS1qNkxJc2RNazJCV1doU2c?oc=5",
-      "published": "Thu, 12 Jun 2025 20:39:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        12,
-        20,
-        39,
-        0,
-        3,
-        163,
-        0
-      ],
-      "source": "9to5Mac",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSVJaakFuZ1RZUXFlYjNUNzkwSDgwZlJINS1xR1FjcW5Tci1IdVVpcVdzLWVQdjZvQUJfZkROVG1JUjNINDhEMFQ0dmlWSFRqZjRGcFB4WDN4LUFDbTV1Ujc4SU80azlHbWlOVHJpejFSM045MjZhenZ2aktHd2s0R1ZobU5zSS1qNkxJc2RNazJCV1doU2c?oc=5",
-          "title": "iOS 26 makes Apple Music Replay fully native inside the app",
-          "publisher": "9to5Mac"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa0FLZU5RNVJXNmd3QTEyRFk0aEpidmF3Zkt1cnZ2RVEwRk5iZ2c3bVcydjVrZldCU1Ywbm1sLUpsZ2o2VW9yNUVNczlNWlQ0M2VLREVrS0NFZmV2bXAwNzR2R3lDdHBNYlFQQlRCTnJ5ZW5hZDIzLTRxWlJhRmZVTVNlYUlZYWxRSzFLUVE2SVppam80ellrYUN5UDhLOGp1d2dRemNXYWNycmJkNV9Ca24zVTJwQW5nSFRySEpCQQ?oc=5",
-          "title": "Apple Music's AutoMix Feature Is Making Me Rethink My Spotify Subscription",
-          "publisher": "CNET"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVXZDcXd1QUo4THRoS2luTV9rZ18xSTc2V2xvOC1NWDY0d0NtSHBFZG9nc0pOOVBfRk5vWlhlc0hzeWFXVFNPc3duNkgxMWp0REl0dWs4LUxGQ2N6SGNLY1c1aDZtQUtLc3Bkc3NmOS10VVJReHRaZzBZQWhQQWZNU05WQzc3bGtfcjdMbWtxZG5WWVFpYkI5dkdlWlQ?oc=5",
-          "title": "Apple Music adds lyrics translation and karaoke features",
-          "publisher": "Music Business Worldwide"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqeERrTklZdkRfSUEtSWtnVzJ3c2o2SkM2MTR4WHctcDFoTGp0R1ZWMHl6V20wZDNSeFhFM1dldWlXVnJBZWVJaEtLSjM1ZE1KbUFfeWh2YWtZcG9BMi1KaGRsTjRKNG80dTF3MjNpenl0NWdobFNBZ2tENTFrSVk?oc=5",
-          "title": "The best iOS 26 update? It might just be hiding in this one app",
-          "publisher": "PhoneArena"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMzA1N2tKWmlzNFo0bjcycGpTcXZ3LTZmbW5NcVpaeXkyVVF6M0dOUW9peVdJc0RBZnRIYkpFNjFOODNWV3ZkNFp5SW5HUm1ZR0tGcGZPWW9Gb1AzalNPNWI1WDUwRkNPWkRUb3piQjBTcktzWkVrM3Rrck8zZUFvZGJKd2Q3NXNWSkx0MzRacXBsamJmMWJXTERWYnZDS0l6ZnFHMHotNTdUbGVPckRhTjZTRjBvV01VcC05dElrZnlvWTZ0VGJNQ1dGb2xPSEc5WHdSdi1NMGc4Y0ZsVTRsc05JZm50S0xKQkRVT19NeTEwTk8yNUszaDhxUWp3WUFqVU9PYmk2NA?oc=5",
-          "title": "Apple Music just got 3 great new features at WWDC 2025 – here's what to look out for",
-          "publisher": "TechRadar"
-        }
-      ]
-    },
-    {
-      "title": "The ‘Most Unhinged’ AI-Generated Gambling Ad Ran During the NBA Finals - PetaPixel",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVU1JN0JRTFFNOVU3UUh5RVJWQ3Z6LTk4Y0p0eDJLdnhJSzVLeXlUd015MHVfLTRSdldzUWdCck1BRHAyckNMdmNQeUZScDlZMFFucE4xcWc4NWNOZVc2WUZjT3FDNWt1c3d0N0lpZUkwY0RXeGFIVnd2eDUtSFRYTVY2Z3VCTVc4b1RmcnJrbWptajk1WnlJNGxidmpuN1RFb25Lcw?oc=5",
-      "published": "Thu, 12 Jun 2025 16:05:13 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        12,
-        16,
-        5,
-        13,
-        3,
-        163,
-        0
-      ],
-      "source": "PetaPixel",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVU1JN0JRTFFNOVU3UUh5RVJWQ3Z6LTk4Y0p0eDJLdnhJSzVLeXlUd015MHVfLTRSdldzUWdCck1BRHAyckNMdmNQeUZScDlZMFFucE4xcWc4NWNOZVc2WUZjT3FDNWt1c3d0N0lpZUkwY0RXeGFIVnd2eDUtSFRYTVY2Z3VCTVc4b1RmcnJrbWptajk1WnlJNGxidmpuN1RFb25Lcw?oc=5",
-          "title": "The ‘Most Unhinged’ AI-Generated Gambling Ad Ran During the NBA Finals",
-          "publisher": "PetaPixel"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNajZVdkdEWTZHLUhZME5lTU9Rd3RNMmxVTW5BRnc5VWpJMTJ3SDBVVEt1c2s5Z29jVDVWRlVGUFlMekJzU1RXR2ZCQzY5OU93UENoZ2VlYVFwSnBCQWs5ZHRQLVdfV28ySFZmZWs1MXdmVHVvZGEyRERkd3FGbjJ5UExUZHJXd3dnU01HazJnN0JpejRa?oc=5",
-          "title": "How Kalshi made an AI ad using Google Veo 3",
-          "publisher": "Ad Age"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVE1NUXc2YzJkbVpEWGhFLVJqeVE5ZmRKSTQ1NFVYUk5tQjdrSDNrV2ZGcTdjcEUzLVRzZlVpNXRvbld5VXJsUFlqNHFRSGJHZjQ0QmdQaVRyY1pNT1pCUWU3NFZqRmkwYldOaVlrSW9tbGhhT0lfcFFvNW9kbjMwMy1acUZEWEd4VXRJ?oc=5",
-          "title": "Here’s the $2,000 fully AI-generated ad that aired during the NBA Finals",
-          "publisher": "The Verge"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjNpVHBITnB0Y1FWV2FxLW1XWG9OcnhCUV9qX3piTVhpUk5jUS1HZ09qR19IVWxzTi1NakVjekRPSEtzUy1rSm02V3lrWEVlbDltQlN3ZjZ0cHVETlBuYmFxQS03MnktMHNrLWljVzl0LTNnSUNSakptSGZZYW1DY3Qzb3ZYZ1RtWE41amdYZnhtWWdZZWVsMA?oc=5",
-          "title": "Kalshi broadcasts AI-powered advert during NBA Finals game",
-          "publisher": "EGR North America"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS3BqWTVGLXpiSEhsQW1UQS1OVU8zXzU0eTBFVUo3MWx3R3RHX0F1U2x6bDU2bnFoN2tqRmF5N2tVOGNYM29KYzRpXzVOZ3o3bVdkMnJJYVN6aEU2clpYUjk0Tlpkc3FpbWtQLVExdFpFYkViLTdvckFBOExSSEpVMTZmT0VtWEtvajhjU1JMNVF4MXdpRVo4aTFVOVVmbDZXSU5fWGRDWVlWeGpaaUlqOE1zOFkwQU1BUlVDMi1aYw?oc=5",
-          "title": "Kalshi NBA Finals commercial, explained: Inside prediction company's 'unhinged' AI-produced ad for Pacers-Thunder",
-          "publisher": "sportingnews.com"
         }
       ]
     },
@@ -685,46 +315,90 @@
       ]
     },
     {
-      "title": "New Garmin Venu X1 is an ultra-thin smartwatch you can wear all day - BikeRadar",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWYxMDJaajI0YTMwNy1OaV9FSkRWSVJQUnBzbHdXOVZlNkowbWZIal9pS2tGdEtSbk13UUZYMzFYTGFRSWdTRHlGcGhBTHluRjZIOGRLekwyd1ozMWRwYU5TZWh1aTRrLU9LRVgtNHBTWmx5ZG1iYTU4VkRSOEI2RTFybWZ3QnU2a3F3cXdSUGtLVlo4WjVmZWhUbG5fZWM?oc=5",
-      "published": "Thu, 12 Jun 2025 05:04:00 GMT",
+      "title": "Here’s the $2,000 fully AI-generated ad that aired during the NBA Finals - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVE1NUXc2YzJkbVpEWGhFLVJqeVE5ZmRKSTQ1NFVYUk5tQjdrSDNrV2ZGcTdjcEUzLVRzZlVpNXRvbld5VXJsUFlqNHFRSGJHZjQ0QmdQaVRyY1pNT1pCUWU3NFZqRmkwYldOaVlrSW9tbGhhT0lfcFFvNW9kbjMwMy1acUZEWEd4VXRJ?oc=5",
+      "published": "Thu, 12 Jun 2025 21:33:28 GMT",
       "published_parsed": [
         2025,
         6,
         12,
-        5,
-        4,
+        21,
+        33,
+        28,
+        3,
+        163,
+        0
+      ],
+      "source": "The Verge",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVE1NUXc2YzJkbVpEWGhFLVJqeVE5ZmRKSTQ1NFVYUk5tQjdrSDNrV2ZGcTdjcEUzLVRzZlVpNXRvbld5VXJsUFlqNHFRSGJHZjQ0QmdQaVRyY1pNT1pCUWU3NFZqRmkwYldOaVlrSW9tbGhhT0lfcFFvNW9kbjMwMy1acUZEWEd4VXRJ?oc=5",
+          "title": "Here’s the $2,000 fully AI-generated ad that aired during the NBA Finals",
+          "publisher": "The Verge"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNajZVdkdEWTZHLUhZME5lTU9Rd3RNMmxVTW5BRnc5VWpJMTJ3SDBVVEt1c2s5Z29jVDVWRlVGUFlMekJzU1RXR2ZCQzY5OU93UENoZ2VlYVFwSnBCQWs5ZHRQLVdfV28ySFZmZWs1MXdmVHVvZGEyRERkd3FGbjJ5UExUZHJXd3dnU01HazJnN0JpejRa?oc=5",
+          "title": "How Kalshi made an AI ad using Google Veo 3",
+          "publisher": "Ad Age"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTjRERXRxX1JlSWZ1MFRWSWltNE44SDlTMThSa0pLcXd1SE1XNUE0NXJaWjVSaENqQV9laTZvSHhIOXJTaGxWMUxBd2JtY1UyYmZjaHhndDNEd1dQNTlicGs0WG1feWpnQ3RGS0gxT1lPblNkYU1QYWJ0WWxuT1RpVTFjaTRsSUpybWV5U1gzQU5MOFFhMW83bUFadGh0cFM2T3BnN1RtOXlGR1BBWHE2QVBtRko3UWfSAbwBQVVfeXFMTWRtNF8xemhlNFZISXRhT3h5UEh4Qm9iVDVqMzJldUVOaUx1bHNrRmI3SXV1VUJDcDhaemVLdzFXOUZVTEtvdDVQbThZZHZhWGVnY2NKZmpjYmR2cXJYYzdkTWxXVzlkSVpKTTFpeHlDckZ3U19MTXZuRU5zSGZnZWFTSktQVkM5YmEtZWhXblNtZTMtLVFzeFZFV0pBZmxhRm5JZnZTQTBkNW0teV9DcnNxS0xmTHhnci16ODc?oc=5",
+          "title": "Artificial Intelligence News Live: Hong Kong AI and robotics innovators showcased at VivaTech 2025 by HKSTP debut delegation",
+          "publisher": "Moneycontrol"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjNpVHBITnB0Y1FWV2FxLW1XWG9OcnhCUV9qX3piTVhpUk5jUS1HZ09qR19IVWxzTi1NakVjekRPSEtzUy1rSm02V3lrWEVlbDltQlN3ZjZ0cHVETlBuYmFxQS03MnktMHNrLWljVzl0LTNnSUNSakptSGZZYW1DY3Qzb3ZYZ1RtWE41amdYZnhtWWdZZWVsMA?oc=5",
+          "title": "Kalshi broadcasts AI-powered advert during NBA Finals game",
+          "publisher": "EGR North America"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVU1JN0JRTFFNOVU3UUh5RVJWQ3Z6LTk4Y0p0eDJLdnhJSzVLeXlUd015MHVfLTRSdldzUWdCck1BRHAyckNMdmNQeUZScDlZMFFucE4xcWc4NWNOZVc2WUZjT3FDNWt1c3d0N0lpZUkwY0RXeGFIVnd2eDUtSFRYTVY2Z3VCTVc4b1RmcnJrbWptajk1WnlJNGxidmpuN1RFb25Lcw?oc=5",
+          "title": "The ‘Most Unhinged’ AI-Generated Gambling Ad Ran During the NBA Finals",
+          "publisher": "PetaPixel"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft’s new Copilot Vision can ‘see’ your apps on Windows - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDFTZUNOV01lekljSGlKY1pXWkdfLW5TXzlqeEJOdV9nUnV5WUs2bHdRdTZzUG1zLU9La2U5UXdpTVQtR0ROWGtUM3RPODlFUGI2XzNBYjM2LTl2cXVKZjRXLU10RE1yVC1jel9fQ0dJbUpuR0poWl9FY08xWDRheU1B?oc=5",
+      "published": "Thu, 12 Jun 2025 16:00:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        12,
+        16,
+        0,
         0,
         3,
         163,
         0
       ],
-      "source": "BikeRadar",
+      "source": "The Verge",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWYxMDJaajI0YTMwNy1OaV9FSkRWSVJQUnBzbHdXOVZlNkowbWZIal9pS2tGdEtSbk13UUZYMzFYTGFRSWdTRHlGcGhBTHluRjZIOGRLekwyd1ozMWRwYU5TZWh1aTRrLU9LRVgtNHBTWmx5ZG1iYTU4VkRSOEI2RTFybWZ3QnU2a3F3cXdSUGtLVlo4WjVmZWhUbG5fZWM?oc=5",
-          "title": "New Garmin Venu X1 is an ultra-thin smartwatch you can wear all day",
-          "publisher": "BikeRadar"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPenRYNmdFalB6WXd1QVhjc2dHRVkwcHphWHNPMVJ3ekNjUU9oS2JNajdlUlIxcTEzTlNKWW53eWhnemVzVE5oNHhkWm5iTXdRckZaQTJISm5UX3l0RWxyV1VfYUFKbEtPeGwyUzhhX05ucWd4ZFJET1h6d1NyUTAxT0k4RmkwY2Y1NU1qTw?oc=5",
-          "title": "Garmin’s Venu X1 smartwatch has its biggest display and smallest case yet",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDFTZUNOV01lekljSGlKY1pXWkdfLW5TXzlqeEJOdV9nUnV5WUs2bHdRdTZzUG1zLU9La2U5UXdpTVQtR0ROWGtUM3RPODlFUGI2XzNBYjM2LTl2cXVKZjRXLU10RE1yVC1jel9fQ0dJbUpuR0poWl9FY08xWDRheU1B?oc=5",
+          "title": "Microsoft’s new Copilot Vision can ‘see’ your apps on Windows",
           "publisher": "The Verge"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vNl9KNG9FdEpVQ1dJOFNrMmxqUmZqSHYzbTd1dVZsSnd3YmZqQm9QX3Y5T1dJWFFhQUd2b0RWdk5Jc2xDY3JCYkgwa1ZTYWs5QllXaGE1VVllU3dnVUp0SlNqWjRpYjJMRWgzS2Q4SDZwS0NYRE5CcDl4MUU?oc=5",
-          "title": "Garmin Just Announced Its Answer to the Apple Watch Ultra",
-          "publisher": "Lifehacker"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPakhaTnhKaHU5cnVtbzZ5RWdNNmI5X21YZVFjMy1GUy1fM0p4ZWxna2tBUGR5SUVkbmFteF85aDd4MlpXc0MxWms1MHlUREVKX21ZNGpvWjVaSHYzbWVhQW9ESVM1cEk3SjJXWERxSXNHc0FvTjJkd3ZaR3doTG40emdLTFJtaEVGLThyWlZRT3ByWXlBSlZLNlVRMWlyQXFueUtCcGxWaXB1WmpxUTgwYURBT1cyN1FHd19aS3ByQ1dHanNWaDFzb2ROTU9ZOEJpOFE?oc=5",
+          "title": "Copilot Vision on Windows with Highlights is now available in the U.S.",
+          "publisher": "Microsoft"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1M4U0pwUUNiUWZFd3o1YUZ0dm56NGl3UHBOMmpNekIyb1RqMGlnMS1rbU1lZFVIcVVRVXBLWkpfdG55dkZXbWdoRTVHVV8tRDl1RkhuM1hXenhXWUxheEd1ejhxZm8wb1dBeFg3OEYxZWpBQ3RMS2hUTDZtSDJBU1ByVEdUcXlxdWF5WTNQWmY4ZGFYazh3?oc=5",
-          "title": "Garmin unveils its Apple Ultra Watch 2 competitor, the Venu X1",
-          "publisher": "ZDNET"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUWx0V3lYelVHc2xEanZubjM5RlR5SFdrNTdUZHZrbExIV1FtalJnUTB5ZzIzSmtBUUJ2dmpYMVk1cko4Tm9XWmRKNUlOLWkyd3dSRlN1bzBkOUZ0NHJjRTdDdkVxVW95ZHFMQXRGMUFVZ3ZHYjhLdk9rd3hXdnd3T2tVbl82RENhVXI2ZGFhZmJHWFNRWnhBZnVyVml6N045SU9kM29SMWR5dzI5cDRnaTU5R2Z4X2M?oc=5",
+          "title": "Microsoft's Copilot Vision AI helper is now available on Windows in the US",
+          "publisher": "Engadget"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWTlQQVVRUzZGU3JJT3NoajdDNXJiRmRVcFZtYzJ5TjdJdUxYOWM5eWRCQnM3VEpnVnhqdnYwYldzZ08wWVN2aXFOTjN0M1hSLVdxMWVaNWJoOURCWVItWEpkSWtCcjdWbnlSMDhyb3ZIWmFkWktESWcwUldQRU5ZZldhY2ZDWUk?oc=5",
-          "title": "Garmin Venu X1 Hands On: Everything You Need to Know!",
-          "publisher": "DC Rainmaker"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOEluQmRROElZUmQteTZWbElGcGFieHV5TWJnZ1VnTEdqVnY2Q1JRemVhb1V0c2FHVzg1Ny1hYmxPMlVjUVlyLVp6UG9FaUg0Y3JzdGt3MXpxTzA0RWtyS1lUdU5YekJjM2xuUWFHT05BTm9FSmxaVVhBeUhhUVRwLXEyWkZCbENoU0dWQWYxeWlUVnhqQjJBMnJmb3NabmRxMkxkVkVBbFpldUpYTHMxR3NJNUtIdFRSREdWa2Vza0dDdkk?oc=5",
+          "title": "Microsoft's Copilot Vision can now see and analyze your entire PC screen - not just what's in Edge",
+          "publisher": "ZDNet"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcC1tdWh6bnIwRHhUNGwwblBkUmpzX3NFSWUzQXpLbmtYb0NWdFFPYXJxUDNDQldfZC1zWExvbzdCSWV3eEdseU9aUTNFNHlkLTloTXNvck5TQy1aR2N4Tk9WX3dGelV1NGFVZGpiRnNjdmVYUlRveURSSXRXNjV1dm4zb2c2bVZCeTVrbGV2LXg4RUdQ?oc=5",
+          "title": "One of Microsoft Copilot's most useful features has finally released in the US",
+          "publisher": "XDA"
         }
       ]
     },
@@ -751,9 +425,9 @@
           "publisher": "IGN"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JR3RZQS1sUkdsZFE3YkdpQjZxLWRzWHpIVm8td3VVVGxua0RfS05MQTR1YThabFoyVVB5QzZwTjU3VWVXRkk1VWN1RlpmcDFndVRxZ0RjOFNhQ2pGNTRBUVFYdnhEcXM5YmpzMFZPVTdTeW8wZG1z?oc=5",
-          "title": "The debacle of MindsEye is ending in Sony refunds",
-          "publisher": "Polygon"
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOSG1fbmo1MlBBS0ZMdnpSekEyRGQ1SzNDNlo4ZklBYWJPZXNQcF9JdnZIVU16VzZFdEhSWnlLRDViMlo0YlZSVE5UdEt1WGpsTFBTdllPRnIwbnA1RnkyN1h4Ym50ZjZfTGczdzFqNHdjYk4yN2c2UHdOck1WbzlxZy1qZ3ZEOFVrdnBoelBITUpYSG1OTnZ0Z1ZzcUU1eDFBN3I3UWtBYnAyMjJQaWhLTnVFVmxVd3dueUxqNGhSdTN4OHZkSnpMWmhJdDg2bUlJWDNITHFoWHZ1dy1pcUhnSEw5VjBkVFA4SDF3QTZOSDV1cGRmSFlrMlJKMW14MmVObGZXNmx6ak1sdjhudjFpY0RYUURhM1pZc05oeUhTRV8?oc=5",
+          "title": "Disastrous MindsEye launch plagued by performance issues — even an RTX 5090 can't deliver 60 fps despite 19GB VRAM usage, developer working on a fix",
+          "publisher": "Tom's Hardware"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcE55cy1lQl9TQ1BHTnNiQjhLQjVOWHJaYkEyNkpnckV4Z0tWUlRoekFfSUxFN01YZndsQTMyaHZ6d3dFNkcxMEpJY0kxOC14a1BDVHJtZ0I2UmlyVmJzNHVpbFJucXlPakJKUHBld2FJVVc0YmV4U3ZRZGJhN3FqQUlhZjhhVkJ6dkZzRHpPS09nMnBFT1BfOGVra1dfTk9zWXl4R3RXMXBoeGpaamwzZVNxTnhET2VoeDRSX042M2Q2WWtC?oc=5",
@@ -761,9 +435,9 @@
           "publisher": "IGN"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRksxV2Z0VDZjOFQxa2xaNEl2QU03czI2Vi1icURRY2RYZEJZeEVVZU5DRElmdG1JWjFwYVhGMDBlSm5XLXNUNjRuS2VWT2drTEFaYXdVR3l4cVByMmttVERIMWpwU2FCd0RPUVRITTY4ZExrX2FKTW1BRk5IRm9mVm9DaXdvRHV3U3JNcHkyX0ducnRMcFpQeF8wVHBnMHVvb0VSdjZNUDl1SVhs?oc=5",
-          "title": "‘MindsEye’ Promises Huge Fixes As Its Playercount Flatlines",
-          "publisher": "Forbes"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JR3RZQS1sUkdsZFE3YkdpQjZxLWRzWHpIVm8td3VVVGxua0RfS05MQTR1YThabFoyVVB5QzZwTjU3VWVXRkk1VWN1RlpmcDFndVRxZ0RjOFNhQ2pGNTRBUVFYdnhEcXM5YmpzMFZPVTdTeW8wZG1z?oc=5",
+          "title": "The debacle of MindsEye is ending in Sony refunds",
+          "publisher": "Polygon"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZTcxUWtnVUlxNzY5ajFYTjFGZTY0X3JXejRRZUFxQmNISjJybWtWc2NPTkpiQmJXSEZmbEduUlZJUjBUSGtjcEViNnZTWWtiT1I2YlM3SmM5SU9XZmtpOHp0NmFwR1ZxQVVzZC1qcTV0ZWEtSVJ0Nlg2bl9qWXlkN19Ob09say1NRzFj?oc=5",
@@ -773,46 +447,90 @@
       ]
     },
     {
-      "title": "Aurora alert! Moderate geomagnetic storm could spark northern lights as far south as New York and Idaho on June 14 - Space",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZjlRLUJDNmNFVkg3cUZJVWJHYkswcW1mdFlDT2NNS2VKMjEtbDVJY0wyQmRycF9CSS1yWU9DamJleE9DclR5T2lLempRQmV4WWhpX1ZpeGg1RjAxTVZxa2xwaVZLV0JHcnlrZjg5NEY5WkFoaHh2UGtETTI2VUhBeFczMHRrRWlaQkYzWHN1N05uWnZPTmhvem5TUUhKWUJNZElvVGZRRl9OMjhkQXM5MHVRNFhwNDhKcS1xd25CRklqYzRjanNWeVFUOU9fRU5wU2lHTnVnTEJTaDBEUk9kTVBOdHhyZUg4WlE?oc=5",
-      "published": "Thu, 12 Jun 2025 14:34:04 GMT",
+      "title": "GTA newest update lets players run car wash fronts to launder money - Boing Boing",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3Z3dk1QUVJELXFwbElmbFBvTmpvQzU3eFFxTF9ibzZ5cjRsNU9rbXBLcERwVDlFVkRKZnhDWkdsaFJOS01mM0kzcHRxY3JPQm1PeWtPbUhEQUFzbm51ZXRUTGstb3dKZm9NYTRfUUJRQ3BUTFlQRTZXOWV3MmZaWkRHWDAyRm51eFlTb3RzTkduSkZrYUpZRDlxVEFJVTViSkhCWmUxOXVXd9IBrwFBVV95cUxPaDhNcVFRamxZTG1rQUQ2UFJtQnFBMlFpQTllMzhjdkFGVG55cG8tenA5aDVxWGtDUjgtV0c0NUVmUWV0YUI3VzJKbFhpWWVsc2JVOUItR2xtMk54VThtbGxsbXdqZHRMZk1aLUpqd1AtWmtuV19GQ0FQdlp3YXFUZmpDcmQxdU44TWtVRjhFZDZEOTcwV3Zrellwb05zZVJCcGI4N0dGOGFtN185VWhr?oc=5",
+      "published": "Thu, 12 Jun 2025 15:51:24 GMT",
       "published_parsed": [
         2025,
         6,
         12,
-        14,
-        34,
-        4,
+        15,
+        51,
+        24,
         3,
         163,
         0
       ],
-      "source": "Space",
+      "source": "Boing Boing",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZjlRLUJDNmNFVkg3cUZJVWJHYkswcW1mdFlDT2NNS2VKMjEtbDVJY0wyQmRycF9CSS1yWU9DamJleE9DclR5T2lLempRQmV4WWhpX1ZpeGg1RjAxTVZxa2xwaVZLV0JHcnlrZjg5NEY5WkFoaHh2UGtETTI2VUhBeFczMHRrRWlaQkYzWHN1N05uWnZPTmhvem5TUUhKWUJNZElvVGZRRl9OMjhkQXM5MHVRNFhwNDhKcS1xd25CRklqYzRjanNWeVFUOU9fRU5wU2lHTnVnTEJTaDBEUk9kTVBOdHhyZUg4WlE?oc=5",
-          "title": "Aurora alert! Moderate geomagnetic storm could spark northern lights as far south as New York and Idaho on June 14",
-          "publisher": "Space"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3Z3dk1QUVJELXFwbElmbFBvTmpvQzU3eFFxTF9ibzZ5cjRsNU9rbXBLcERwVDlFVkRKZnhDWkdsaFJOS01mM0kzcHRxY3JPQm1PeWtPbUhEQUFzbm51ZXRUTGstb3dKZm9NYTRfUUJRQ3BUTFlQRTZXOWV3MmZaWkRHWDAyRm51eFlTb3RzTkduSkZrYUpZRDlxVEFJVTViSkhCWmUxOXVXd9IBrwFBVV95cUxPaDhNcVFRamxZTG1rQUQ2UFJtQnFBMlFpQTllMzhjdkFGVG55cG8tenA5aDVxWGtDUjgtV0c0NUVmUWV0YUI3VzJKbFhpWWVsc2JVOUItR2xtMk54VThtbGxsbXdqZHRMZk1aLUpqd1AtWmtuV19GQ0FQdlp3YXFUZmpDcmQxdU44TWtVRjhFZDZEOTcwV3Zrellwb05zZVJCcGI4N0dGOGFtN185VWhr?oc=5",
+          "title": "GTA newest update lets players run car wash fronts to launder money",
+          "publisher": "Boing Boing"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSUVweVY4QzZqVng3bXl3c0VaUDU2R2o3enJ3aXZWVllhdkQtZGRLS2pyU2d6ZXBlY3BBcnhlYVB1ejJxejZCeUtLWUkxQ01MelM4SjdTRUJVeTNCVlNfcE1fREVoUW5BOHBybGdOV3VLZjFRdllvV1RKQkl4R21PWkhfSmJXTlU3aloyMzBja3lrTXhGZlJoSUtGbGlQaUQxT0EzREExaGNHSUV4ZV9HUkV3c2YyVU1RUGdNcWJUWGtLQXF5T180VVBMVdIB0AFBVV95cUxOYUo4S1c2RXhqTTlySk9mYmlXajRXM3ZFTmo0S1NaeUNRUWhZeUFTZXlCSEZwZkNQT2phc2lQSUhYYmEzREx3NV9uMFJQeWdLWlViaUJnMHh4TUtKbEkyejhQYlNaRW8yMDhBUkJReEp1ZlZtbEFhcWpYRzFLdWJDT3pnWjl2T1RvYVg3TDc5MFJ3dmVHam5mTWViREczMngtYU5SZWdYNmczNllqQmtESTVKNVZtMTZzUUJnR2RDdUVUd1lKSGo0Y2tMWklGbHRN?oc=5",
-          "title": "Geomagnetic storming could spark northern lights this weekend: What to know",
-          "publisher": "The Hill"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXpCVGxBclZHVG4wd3MtMjBKbjlqWkR1aHR0QkJoWTdrUnlPVkMtaEhjMkJsOG9PY2U0cHdlMWJhTkFUSktzbE5UOHlzWnlucmg4R0U3OUpqSEwtQzhOS0kySjNENmNTR25qQ21RNlUzdFVSLVVJYkRGQkI3ejNNME1qendVaWdIWS1JS2V6YURLWFhwbFRFRnlNXzFvU0M4ZlE?oc=5",
+          "title": "GTA Online: Money Fronts Coming June 17",
+          "publisher": "Rockstar Games"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBabFJWRFM0RUp6RE9Nd0NqRGtQdXVDWko5Z241SDRJMFhSRVBuX1dPZTdDckRvNEUtWElqQzNBVUVEMkMxUXZ4Q3ZRUWYzbGRUQ1dqNXNldzlzZldJenFJ?oc=5",
-          "title": "Capturing magic",
-          "publisher": "The Planetary Society"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblpFcThRMThMbnJiNm5lZm5iZTRId0NTN09YbEFTWE1VVjVuT01xN09JWEdBekRibEdMUFl0OVFQa244NTRickZ5Wm5YeE1UU0xzNmNYRkRWbS1lUUhwTlpIX2ZpdVQyNGQ3d21fT0JPSGZwMzh3QTJzUlUwdFhuTTlJQmp0QkRGWEx2QzloOWdIQzhUQUlQSUFHbHh4TU9OZkhJ?oc=5",
+          "title": "GTA 5's Next Major Update Revealed, And It's Coming Soon",
+          "publisher": "GameSpot"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY0EwMmRacVFOWlZPWG03ZVM3eFBHZXp6eno5TXFrSVhaTVoxYnFBMnpJUlc4cGI5elk0b29uQUFoLXV1WURqZXlrR2lIZ2JtcElPN1dkdjlpeVM3eTRWU2wxb2FTNS1CeEN5TXMwOEQxLWR5RHlNdDh1T3BxNHVTWUtNWVBNZGp4X0tKZjJ2UUUycTgxX25oeUJaWXhVV0hnMmc?oc=5",
-          "title": "How to Watch the Northern Lights for the Second Time This Week",
-          "publisher": "People.com"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hbnphRkVmSDF3MDF4c2lob0VYMmRPbHJmbHgycFdYTExPWFhlSTd5WVZ3UTUxdjRnMXBPcDdvbUhGYzlxNjRsTWptNHl4eU9iMEp4elQ1dDQySEVsTVlucWNTQ1FOZ2g3ZWdzYQ?oc=5",
+          "title": "June 17 is Going to Be a Big Day for GTA Online",
+          "publisher": "Game Rant"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PaTZPOW9zSDZOWGZqN1hZcVVDSktEQWlUT3VTWGZoTWFORzFfakFMYThPTEcwLTBTX3VyQk9fVHZYd3JOYmd4MWptYkF1Q3gwVGVVWDVKVnBBeGFhQVE?oc=5",
-          "title": "Catch 2 Massive Chances for Northern Lights in New York",
-          "publisher": "WIBX 950"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaUhhSmJMYUV0S0tHR0lwQ0RBcXZGQ3EzQ25Hd1hLbVpjWUN3bEcxVlhDcjd5RXEtWGJNUG5Sdl9HUTN0M2J3UUw3TFJ4Y2g5S1hxT3BBbzZXdDhpbUtnQ0syWmY4MkpWVnZDLTJkZjZRU2x6amFiZkJhdEdfc0dCZm1BTzdIQmZrVHUtdjl4TnI5VnVIN3NDUVNTeWhQUWRkRkdWWW1OZlBpSVlac2tHdU5iWG13MU4zYy04YTlB?oc=5",
+          "title": "GTA 5 Online Summer Update 2025 DLC release date, features, and more",
+          "publisher": "MSN"
+        }
+      ]
+    },
+    {
+      "title": "iPadOS 26 is perfect for the larger iPad model that’s coming - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ05xeURsUW1aRjVZbFFTck9HZmpSWnBUbmtNdWZUbDUxbHBBZmJfS2tjdWU0UHdtNnpoUHRIR2Y2YjJ0NFhEMUx4QW44ZjBPdWsxN1NXOWk1VGVnbng1WTNWdzJtMElOTDF3cG5BZVgtVXVkZEkwNXpKV3ZmMllYWnM0bW1UaUN3bmlYdFdLa05WZw?oc=5",
+      "published": "Thu, 12 Jun 2025 20:59:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        12,
+        20,
+        59,
+        0,
+        3,
+        163,
+        0
+      ],
+      "source": "9to5Mac",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ05xeURsUW1aRjVZbFFTck9HZmpSWnBUbmtNdWZUbDUxbHBBZmJfS2tjdWU0UHdtNnpoUHRIR2Y2YjJ0NFhEMUx4QW44ZjBPdWsxN1NXOWk1VGVnbng1WTNWdzJtMElOTDF3cG5BZVgtVXVkZEkwNXpKV3ZmMllYWnM0bW1UaUN3bmlYdFdLa05WZw?oc=5",
+          "title": "iPadOS 26 is perfect for the larger iPad model that’s coming",
+          "publisher": "9to5Mac"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lY29DSHJyYTk0ODQ1dEtJM25VSUtjZ2xrWlRhM083am5YeFZtcEthV3hEbTZ3aS10WUllUHdpODh6RDFBeHJLR1NoM1RlRmhFNVBVOHM1MzVoQmJZa2tzR1FGUHQ4N0kyUUxkdDRDZEtFaGt0SFM3MUo5UDVIdGs?oc=5",
+          "title": "RIP to the almost future of computing: Apple just turned the iPad into a Mac",
+          "publisher": "Fast Company"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVdDS2tNNDJyNHNLRG9TUnktdkM3UllxSVIyZWZWbGJLTUNncGFyRWNjeDZyV2kzOTg4eDVtZi1CZWd4a1NURkkwT2M5dzVDX0RoS1FFOXZEYjA3Z2YzQXFTUTNyYzdkeEViTEhLQmFvc0VGV3N2LXRtWlM4ZmZ2T3JTOHNLUHNDUWpaY21xSGtFaFdncWxCaFJIZ2FKcjRTUjBzMnJta2p4YWpiY1BxS3pxOFhzZw?oc=5",
+          "title": "Apple’s Craig Federighi on the long road to the iPad’s Mac-like multitasking",
+          "publisher": "Ars Technica"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEYWlqZUUtcWtzYUJURkR5aVFvb2JoZ1FHMFVRWUlhZjk2QmdCb2FaLUpzU1lUc1NkUG94d2EwbTcwTTJiZUNhN0thX2o5a0I3Wk1pS0hRQ3FWVm5TUURqQ0UwM214cGZRaXk2cmgya1NaMWctYzR0TXgzVUo?oc=5",
+          "title": "Hang on, did the iPad just become a computer?",
+          "publisher": "The Verge"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jMGF5VlFqRHhyS29WWGsxbkkyTlI2c0JIazBKTFhkQUQ0a3BuV3NkaHpBcF9COGg0a1I1aldmZzVCZjVMOVIycjRYWXNKNHNIQkszYW1HVTJ5S3BELW90WE5RQVN5RmV4eDBpUmtrM2Q?oc=5",
+          "title": "The iPad Is a Full-On Computer Now",
+          "publisher": "WIRED"
         }
       ]
     },
@@ -854,9 +572,224 @@
           "publisher": "Rock Paper Shotgun"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZUFVZU0zVEoyTUt2cEdJbmc2WTYydW44cDdBVW04TDNCYl9hTXJCWFBoazlVNkMzMkhIT0N5MW80cGRhQzY0NTZiVUJrNjktVjFmaktUT3lGcGpPREhzMVZmXzhzZUxuMHZFN0RzRXBKTWdWVVpXZnZvNkNWSExGSWlWbG1rZXYwNW51d1llMzVya0M3eXp2Rm56b3piMDNaZ09oZl92NlYtSFZW?oc=5",
-          "title": "Konami and Bloober Team are remaking the original Silent Hill",
-          "publisher": "Engadget"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWjB1eW5HYWtFcl9zOFllTlVVbHFwVk9kaEVodk1wSl9hSVkxOXp1a194QVFhOXV6alFwdkZoR0ZRWTVQVlAyc3RFT3dLMEE3OGktN3ZrV0Z5N18wWGRRVlFRQzFaWXRnZXpCSGtBTHVDc0ltMkprOXQtSGhlMkZMZ09XbThxV0lya1E4?oc=5",
+          "title": "Silent Hill 1 Remake in the Works at Bloober Team",
+          "publisher": "Crunchyroll"
+        }
+      ]
+    },
+    {
+      "title": "2025 Ford Mustang GTD Starts At An Eye-Watering $327,960 - Jalopnik",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOHR2MFM2bkxSZVFVeVc4LUxqeVhlc29YV0FOcERKV3dJdnBOT05YZW0wOUg2aWxkbnMxODh0UmxmR2EyMFl1U29LY3pMVmcxcnF0R093NW9WZ3o1R0Z6RmhaQU9sbHFfa1lINWdoSW1zblozZWRvdUtOR3dVdWI4RmhOQnpscVJm?oc=5",
+      "published": "Thu, 12 Jun 2025 17:18:59 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        12,
+        17,
+        18,
+        59,
+        3,
+        163,
+        0
+      ],
+      "source": "Jalopnik",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOHR2MFM2bkxSZVFVeVc4LUxqeVhlc29YV0FOcERKV3dJdnBOT05YZW0wOUg2aWxkbnMxODh0UmxmR2EyMFl1U29LY3pMVmcxcnF0R093NW9WZ3o1R0Z6RmhaQU9sbHFfa1lINWdoSW1zblozZWRvdUtOR3dVdWI4RmhOQnpscVJm?oc=5",
+          "title": "2025 Ford Mustang GTD Starts At An Eye-Watering $327,960",
+          "publisher": "Jalopnik"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZGJpR2JITlhIQkZlcElGTXA4cUh0bTZsWVp3cndFSmk4S01KRDh3TFI0OE14X2FYSGNqNFR2S05HQ204d19qYm9aMTQyS2prbW1Ga3FZZmpJNGN0eVY3dlctblFSYkY1YTJpRHNBV2ZDMVBqM2tzSE9Dc2hhQ3BLM2o2VlUwcmtw?oc=5",
+          "title": "2025 Ford Mustang GTD's Official Monroney Shows $327,960 Price Before Options",
+          "publisher": "Car and Driver"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnbEptVHZlaWhlVTNXU08tV3dFRS1XQmtYMFNIWF9sYlhPVjBXMEJpY1Q5cTE3N0tfTHVKRHBFcTZGUUVMQVlOYW55aXJzOTNWenV1THR1S0laUkp2WWpfMl9CS3Z6WWc?oc=5",
+          "title": "We Finally Know The Mustang GTD's Official Starting Price",
+          "publisher": "CarBuzz"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNekI5SjVfSGk4RmpwTnJmWE53SEdvaEhCRzhZR3ducVFYQUh2dVpQTlhDd3IxNDlCbXVuTE5xUlNYNWpYRUdOdE1WV25fMk5zaUdyMmNQaHZ4aURUNjdJdUNQeTR3Y1hHWUYwMy1JY1ZfV1Zib2NJMjFtTzY4eWhOUC1NeldRV1FMQ3h5YTVB?oc=5",
+          "title": "Leaked Mustang GTD Window Sticker Reveals Pricing And Shocking MPG",
+          "publisher": "Carscoops"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWjdfZUdrUWZyZkVPdVhFS05KQ3lnZ01HZEJzNjFraW9aR21LTDR5NHZJbEROaDdITzdyUVlMcmpIcG1KQi04eUR4dU9LOWw1V3FfaVFhdWQxSDlKMENJc29hMzNTZXFkRThpOWE3QWRIQnBqYm10LUxhMFJvUXhIUF90UTJoNDlNeHEtS2xMWTZDRHJHSlVEQ3Ita3FCbXNkamtHSmMtQjhVREtweFRVOUh1X2xBOHRvV2RzM3lhTHFEdld6MXBEVjRDUQ?oc=5",
+          "title": "The 815 Horsepower Ford Mustang GTD Will Cost Nearly Twice As Much As The 1064 Horsepower Corvette ZR1",
+          "publisher": "The Autopian"
+        }
+      ]
+    },
+    {
+      "title": "iOS 26 and macOS Tahoe Expand AutoFill Feature for One-Time Codes - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRTVRZ0Jvb0Fya0JpbXlXLXVOdW5qY0o0Z2Jyc2JJejZQeWFWUDBmSi16SmJiN2hpcDBEcDBhN2RFWlowakJvRldvYjVoTE5LemJhRkJvajFDazBtRkFsdEp6clFlek1ZanN5U0Q2Z1BpNUZxNldzMndXX1duMjJjVUxBZ3B5TzRxY1Zid2dYMA?oc=5",
+      "published": "Thu, 12 Jun 2025 15:27:50 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        12,
+        15,
+        27,
+        50,
+        3,
+        163,
+        0
+      ],
+      "source": "MacRumors",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRTVRZ0Jvb0Fya0JpbXlXLXVOdW5qY0o0Z2Jyc2JJejZQeWFWUDBmSi16SmJiN2hpcDBEcDBhN2RFWlowakJvRldvYjVoTE5LemJhRkJvajFDazBtRkFsdEp6clFlek1ZanN5U0Q2Z1BpNUZxNldzMndXX1duMjJjVUxBZ3B5TzRxY1Zid2dYMA?oc=5",
+          "title": "iOS 26 and macOS Tahoe Expand AutoFill Feature for One-Time Codes",
+          "publisher": "MacRumors"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaFcyRXpvOUxzVTBELVM1UEYyTFBMdkJRNWtseEEzTHZPNnVVdVc5OTlVNXU2ZDN1UW8tZ1JOd1d0SmJ6R3VYekE3M25xNjU0TXdaSFFaZHlSNm5fc1F2aHJTS3owRDN3UGJxNHhoZ3FNdUdQWklCdG1fcUhWTVpFZWd2RDZfWHRBbllaOG1wM0hoZjVkaGtMbWVablA1Z2s0aTlaWGhB?oc=5",
+          "title": "Apple’s macOS 26 Tahoe shows where Windows has lost its way",
+          "publisher": "PCWorld"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTkzNDBCTGVuTG9LY25LSl9WNWdzbWJaYk9vQ1JCN2pPcVM1VXNmTW5HZ082Nmp1RWMyenRieUJGQWFBSzJZcDdDRXVUUXE1c3lCQWlfZGxlUjJsbzN0Q1Q5b0NwekFtbGtNdkpnenVyanRpVUsxT2RvTUxzUkR4amlDMURHZER3THlWdTFBZktvRGRWRThkOUVVazNpVU9h?oc=5",
+          "title": "Your old MacBook's days are numbered, as Apple confirms end of support",
+          "publisher": "ZDNet"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRkxtYVZjSGxFdVZfRk5JR1VxU2kxNm1hLWVZUjVkYXlOYkROaXA4N2lITURnU3pwbHVaYlN2X1pNNm95UXU4T3YxV0lVNDY0NUpDNDlMelVpTUs3dzRiR1N0TVNhLUJpSFhsV0dQN0lyXzAwXzdSS2pWZ1pFSzZVeEhaTUFYQVpfM3RFTFFZcTNBTWZpVkd6M1gwZWpDRzRFNWdOckd1dlpyVkgyZ3NWRmJhYW1GUl9nWVE?oc=5",
+          "title": "macOS Tahoe 26 makes the Mac more capable, productive, and intelligent than ever",
+          "publisher": "Apple"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNER1dE1GUnY2VkczZE00dnduUlYyYjFFT25CWUV5bktuUGZzNXB6VGVqaGxjZDlFTnczRnZ3Q2VNeXRRbGFGWjUyLVBQTzZPSDl0UXc5WjZVRmxkUEdoaGZiWE1XaWlZa0dDUlJTa3JUbnAtTjhPdHZWSVc1Y1RVUTh2SjZfYVJmc1E?oc=5",
+          "title": "Intel Stock (NASDAQ:INTC) Blasts Up as Mac Support Dies",
+          "publisher": "TipRanks"
+        }
+      ]
+    },
+    {
+      "title": "10 Things I Wish I Knew When I Started ‘Stellar Blade,’ 2025 PC Edition - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT3NEZ2V2eVZQYzJtbEN3bGdERUQ1bkpmYnduNG4xR0hFUjdJLTFnSTZlT0R2QllaTjhlNWJHTjJVb3FBUnZRQmRkdGptX0otV2JDRF9TUWVha0RFMUprbXZiSGZtTmtFUXdfN0REbmVGcnp2SlY4ZVVmRDlXMlJaTGttTnZuNE5DWmVGSzUtaDU2d1BkaVFiVmd5YW1wYjdreVYwYUI3MjF5TDN3ejJPdUxaU2Exb3BrVjlr?oc=5",
+      "published": "Thu, 12 Jun 2025 15:53:56 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        12,
+        15,
+        53,
+        56,
+        3,
+        163,
+        0
+      ],
+      "source": "Forbes",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT3NEZ2V2eVZQYzJtbEN3bGdERUQ1bkpmYnduNG4xR0hFUjdJLTFnSTZlT0R2QllaTjhlNWJHTjJVb3FBUnZRQmRkdGptX0otV2JDRF9TUWVha0RFMUprbXZiSGZtTmtFUXdfN0REbmVGcnp2SlY4ZVVmRDlXMlJaTGttTnZuNE5DWmVGSzUtaDU2d1BkaVFiVmd5YW1wYjdreVYwYUI3MjF5TDN3ejJPdUxaU2Exb3BrVjlr?oc=5",
+          "title": "10 Things I Wish I Knew When I Started ‘Stellar Blade,’ 2025 PC Edition",
+          "publisher": "Forbes"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1ejR0NF9GQXFYaTZPY0FHN0Y0c1VidmNJOFpTbGdvREVxdDByVXVyekFkcVlpc21LRDV5M3RrWUlRZkhtRUR4clZ4VjlHTmJ3dTc0aGlUZUwwRjJ2VHk4Zm5YNlBocEY4?oc=5",
+          "title": "Stellar Blade is Playstation’s biggest single-player port as Steam reviews sing",
+          "publisher": "PCGamesN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWxTMjdpZ0RValAzSGd5Z0NERWV3djNkR0VCZEF3LUxpaXJYbDRzQ0lvRElBd0htWjZjQWdkazUyZlN2Rl8wTVNwUHlVVkVfRkFhLXFpcXoxMTNra1dfdW03MVQtX3lmSlI0elhBZHZlR2czRTYwUkVPbFByQlJKbVZRX2FYdF93QWNCeXQzTThqVkROMUFfTEpiZ2hPN3d3dmtJam1MOWc?oc=5",
+          "title": "Stellar Blade is now Sony's biggest ever game on Steam by concurrent players",
+          "publisher": "GamesIndustry.biz"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFlpTGx4WGtMR1VkSzh4bC03TVU3Yy11RUFZQ01QbHBZTV82MWpISTY5blZQdHJSVDdhUXhYblQ0NEZ0MEl1Q05rN2F4d3lSN256TUtTTWFrQ0k2TnBSV2tQX3ozSDB2MFA4bmcxMzRHMW1fdTN1TmxzWkh0QlBKWTVEN2NON1kwbGU2dzFJUU9CTnBNQzIyTTZBVV85U1JN?oc=5",
+          "title": "Stellar Blade Benchmarks & PC Performance Analysis",
+          "publisher": "DSOGaming"
+        }
+      ]
+    },
+    {
+      "title": "Mario Kart World’s Journeys Are Smooth and Unremarkable - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtSXRfLV9rSVI5LUJzQkVuc2dkaWhfRS1TbW5MVFd0LVhEbHRYMy1tZ2ExRkw2LVhzZzZ3RzVJZndxUU5VMzhzMGJtdTJLbGIzNEVpcnhnVFBiYUVnanRXZFE5TnJRM245WTJnUU04YnVicFZZRENJ?oc=5",
+      "published": "Thu, 12 Jun 2025 09:00:19 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        12,
+        9,
+        0,
+        19,
+        3,
+        163,
+        0
+      ],
+      "source": "The New York Times",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtSXRfLV9rSVI5LUJzQkVuc2dkaWhfRS1TbW5MVFd0LVhEbHRYMy1tZ2ExRkw2LVhzZzZ3RzVJZndxUU5VMzhzMGJtdTJLbGIzNEVpcnhnVFBiYUVnanRXZFE5TnJRM245WTJnUU04YnVicFZZRENJ?oc=5",
+          "title": "Mario Kart World’s Journeys Are Smooth and Unremarkable",
+          "publisher": "The New York Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wRGgtWmRkd0VscHB0VU5KNmMzZ1dXRF9iVkN4Z3U4dG40bGhMaHhCekV0U3VPekZyVWlhYjRQdURfUWRVUnZVN1RUamtXT3Y3STdpbVIySGxzQkJiS3VZVFR3?oc=5",
+          "title": "Mario Kart World Review",
+          "publisher": "IGN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPam94VVRKWVJiTlVON0Z6bGU2NkFuVTl5Tmducm1FNVF1VEVoX0l3aktYQWFsTzhkV2UyazNNRkNOb011SzhEU0Rwd2prRGFLMnppcGd4TXJPdGtHWjlTa2tiQWJJaTlobi1YbkptcTF6LW5PTmFKOVlVd0JXR3BjWFQ4QWs5VGs0VkU1RThPbVNRdw?oc=5",
+          "title": "Nintendo Switch 2 Review: Bigger and Better, for a Higher Price",
+          "publisher": "The New York Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS2NTWGxjajNnb0Y4bU1jSUY0bEhIVWV5azFlY2lEZ3NZUGtFSk82blNONjMtU0RwaDdXamEtbDNmMEZBZEYwdEFVelNIRU50aUV0OEQwbXNHaFZ2anV4QS1RRzMxYWZ2T2dNUWhieGJnWERNa1NyYTZtdjhjbDJQdkNkSjJENDF0ckdzNWt6aVF1bnY5SGo0?oc=5",
+          "title": "Nintendo Switch 2 review – more than good enough",
+          "publisher": "The Guardian"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGJ5c0dLZl9wTmxSZk9vRHp1cU1JckNKWmRoNGxFQ3ppZm9Wa2Q4N1JSbF9yWEY3SjdSNDVhMFAtbjNTNE1oVFBMUF80Q3JXbFhDUE1uOXhVUzBLdUNyRVowMGJlRnJMa01Td0hLT1lyY1FkVm1wZEh3UEF5TFVWbXNPNVh0MVNKRDN1R0M3S2F4OVpvb09jUXFpNVNrUzVrZzRLNlRWTjd0QjhvVm5zOQ?oc=5",
+          "title": "3…2…1…GO!! Mario Kart World is here—and available only on Nintendo Switch 2",
+          "publisher": "Nintendo"
+        }
+      ]
+    },
+    {
+      "title": "New Fantasy Life i Update Lands On Switch 1 & 2, Here Are The Full Patch Notes - Nintendo Life",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNm9ETXVjZ216MmJLRTdKWmpVS3FMeUNZWE1DdDR1VW1uQUR4WW5RUFAtbEJSNEhEYUFRVEV4aTJ3N3ZUbGpsSjFJc3hEV3dYZTVPT0NPNXRsTWdzSXJYQVFOM3VTeUpqbTVuWHJvVnJYYXluMU90c3RRZjNyREdSRDkzTHZoYW5kRGF1Umw0d2R3WG03WlhoRjhNZWVaTVhsSzVaV2xhMnNvZjM2MFpVRXAwbkVLQkdpZkdYZnZR?oc=5",
+      "published": "Thu, 12 Jun 2025 10:02:57 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        12,
+        10,
+        2,
+        57,
+        3,
+        163,
+        0
+      ],
+      "source": "Nintendo Life",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNm9ETXVjZ216MmJLRTdKWmpVS3FMeUNZWE1DdDR1VW1uQUR4WW5RUFAtbEJSNEhEYUFRVEV4aTJ3N3ZUbGpsSjFJc3hEV3dYZTVPT0NPNXRsTWdzSXJYQVFOM3VTeUpqbTVuWHJvVnJYYXluMU90c3RRZjNyREdSRDkzTHZoYW5kRGF1Umw0d2R3WG03WlhoRjhNZWVaTVhsSzVaV2xhMnNvZjM2MFpVRXAwbkVLQkdpZkdYZnZR?oc=5",
+          "title": "New Fantasy Life i Update Lands On Switch 1 & 2, Here Are The Full Patch Notes",
+          "publisher": "Nintendo Life"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVXpyNjJwWEdsTlNUbXZYNHJWSVl0YW4zLWl5dHRwanNQaDRzMWZpa0RQYnZUTVJtYUlTbkNMdWk0QWZ0MlFnak9DZTEzenU0SXRFMnUwVDdKUE1EYmkyTFl1LUp6OHk4ZFhlYXFfXzROYUlhVzJLLXVQbTRhNEhBQ3REbUlmXzF6Q0JxV3JOMk5JSmZWX241bkxkdWRrTDdjRUJHbnZjWQ?oc=5",
+          "title": "The relaxing cute world of Fantasy Life i: The Girl Who Steals Time ignited my hardcore side",
+          "publisher": "Polygon"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MSEt4YWoyaEhGMjc5Qm8tcXBidjQyek1TWXNBQ1JCR1ZxU3pKdVlGNE5jUm11TGtYSUxsdlNCdnRNLTVHeXAyZ19xMXVGeVB6bW1NY1c2MUZva0p4ZjdlRGhsU1pnTlpKd0RiQmRzbGZPa1otWHZvWW9pNy1PQUk?oc=5",
+          "title": "Fantasy Life I: The Girl Who Steals Time Immediately Told Me To Get A Job",
+          "publisher": "aftermath.site"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMEx2dF9mTFpJWWs4a3hiT2c5WkoxMkdYY21QbEFLa29VYllidGJJekdhbmVuWkVmTlhqRm1WUzdWb3AyMWpnUW5pakNhTjdrVlRicDlGMVR2YXROZkhiNUpvUHdMakVIQVd0bHlZUURyVDhyeWFoODA5TmRfTWdERzZjLWp5MGdpYklBVE5lMU43S0N5a1FqaQ?oc=5",
+          "title": "FANTASY LIFE i: The Girl Who Steals Time sales top one million",
+          "publisher": "Gematsu"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSGpwSTlpTzdmQUxxTC1NSUppV25WTUtiMFg5MV9MbDBWeEdGTzNPcmFIMGNNNVU3WGhlZlptbmRPLS1lNGo3WlV2VmVVaDdOMUpjZF9rOFFjU3VBekl5VEhzR2FhRWpyX2FfNDZDT3JKblUxMnBUU3Vkdk02M1MxYXRhLXdOR0c0?oc=5",
+          "title": "Fantasy Life i Postgame: Things to Do After Beating the Game",
+          "publisher": "Game Rant"
         }
       ]
     },
@@ -905,90 +838,126 @@
       ]
     },
     {
-      "title": "A tiny detail in Apple's new software is driving designers round the bend - Creative Bloq",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR0hYaklsd1Z6TFRCeW0wempOa1MyX0dxMmNJWXM4Nm1FZ2tjZ2V3TndGRG1yTURhdEhnNDR4VHhTd0tTU3ExNDNpbVdXRml2ZnJEdHFzSHVtOHVwYmJCazBRa3JHME13eUN5XzZXVVlDbGh4cGd2bmx2YnN3R2FPTm5vdDRudWRDVThYQ1VSMzVoWDFEbXhJeHBqSEhNcmRaSUNZZTVscHR0VmdsdWJDUGZUUFhzMTVwVFVmSlE5OA?oc=5",
-      "published": "Thu, 12 Jun 2025 11:14:19 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        12,
-        11,
-        14,
-        19,
-        3,
-        163,
-        0
-      ],
-      "source": "Creative Bloq",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR0hYaklsd1Z6TFRCeW0wempOa1MyX0dxMmNJWXM4Nm1FZ2tjZ2V3TndGRG1yTURhdEhnNDR4VHhTd0tTU3ExNDNpbVdXRml2ZnJEdHFzSHVtOHVwYmJCazBRa3JHME13eUN5XzZXVVlDbGh4cGd2bmx2YnN3R2FPTm5vdDRudWRDVThYQ1VSMzVoWDFEbXhJeHBqSEhNcmRaSUNZZTVscHR0VmdsdWJDUGZUUFhzMTVwVFVmSlE5OA?oc=5",
-          "title": "A tiny detail in Apple's new software is driving designers round the bend",
-          "publisher": "Creative Bloq"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaFcyRXpvOUxzVTBELVM1UEYyTFBMdkJRNWtseEEzTHZPNnVVdVc5OTlVNXU2ZDN1UW8tZ1JOd1d0SmJ6R3VYekE3M25xNjU0TXdaSFFaZHlSNm5fc1F2aHJTS3owRDN3UGJxNHhoZ3FNdUdQWklCdG1fcUhWTVpFZWd2RDZfWHRBbllaOG1wM0hoZjVkaGtMbWVablA1Z2s0aTlaWGhB?oc=5",
-          "title": "Apple’s macOS 26 Tahoe shows where Windows has lost its way",
-          "publisher": "PCWorld"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTkzNDBCTGVuTG9LY25LSl9WNWdzbWJaYk9vQ1JCN2pPcVM1VXNmTW5HZ082Nmp1RWMyenRieUJGQWFBSzJZcDdDRXVUUXE1c3lCQWlfZGxlUjJsbzN0Q1Q5b0NwekFtbGtNdkpnenVyanRpVUsxT2RvTUxzUkR4amlDMURHZER3THlWdTFBZktvRGRWRThkOUVVazNpVU9h?oc=5",
-          "title": "Your old MacBook's days are numbered, as Apple confirms end of support",
-          "publisher": "ZDNET"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRkxtYVZjSGxFdVZfRk5JR1VxU2kxNm1hLWVZUjVkYXlOYkROaXA4N2lITURnU3pwbHVaYlN2X1pNNm95UXU4T3YxV0lVNDY0NUpDNDlMelVpTUs3dzRiR1N0TVNhLUJpSFhsV0dQN0lyXzAwXzdSS2pWZ1pFSzZVeEhaTUFYQVpfM3RFTFFZcTNBTWZpVkd6M1gwZWpDRzRFNWdOckd1dlpyVkgyZ3NWRmJhYW1GUl9nWVE?oc=5",
-          "title": "macOS Tahoe 26 makes the Mac more capable, productive, and intelligent than ever",
-          "publisher": "Apple"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcGN0TlhTSE9QTzJSem9GVF9hMkYwNktvRFZkTjUzQjN4YjFZX0Jxb09lLXp3dS1DRE5mb0RMOXp3TTNLTWlqdmozcDdFT2tZeG9GYVc2Ti1od2ZLMzNzbUxGMk9hUzQtay1jdElRdEZkZTV4SUxub0ZONHowSGY3eWkxbWxDRGs0U2NFQmMycw?oc=5",
-          "title": "macOS 26 Tahoe Is the End of the Road for Intel Macs",
-          "publisher": "PetaPixel"
-        }
-      ]
-    },
-    {
-      "title": "Snapchat rolls out a new $8.99 Lens+ subscription tier - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmEzMmdYaEZFSGl1OHE5cm51aGR3NEpfNWNIemJrU0JNUXNKY1dDci1qOHkxN3BkLWlYcEJDN2NFY00xODJuQ3gtVnpFVExGQ3ZqTlFGblg3bm9MRk5kem00azJaN3VVX3FIWDUzcktVV0Z6al95bENOYWtUWmNETUdUNHJqZmNiaFVoOWFtQno?oc=5",
-      "published": "Wed, 11 Jun 2025 17:54:14 GMT",
+      "title": "Think before you click: Experts warn email \"Unsubscribe\" links pose security risks - TechSpot",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbmpKdngyTWxwbnAxM0lsYVA2b05hM1l3bkpIUVpBd2V5LTllVHVKT09rR00yUHprWm5DMVdfdHJZRFFpb2FyRG9yaUZOdmxSaVI4NFQ4Q0VHRDVIblFBeTdQQWowQ182dlNBSkVwUV9DSkRCeDFhVzR0azJRZlh1Qmx0XzhoTE51LXBpM2p0Y3V2aG95UGlucklXRQ?oc=5",
+      "published": "Wed, 11 Jun 2025 17:10:00 GMT",
       "published_parsed": [
         2025,
         6,
         11,
         17,
-        54,
-        14,
+        10,
+        0,
         2,
         162,
         0
       ],
-      "source": "TechCrunch",
+      "source": "TechSpot",
+      "sub_articles": []
+    },
+    {
+      "title": "The Fujifilm X-E5 Brings X100VI Style to an Interchangeable Lens Camera - PetaPixel",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlBjai1XTDhxMFEyazJIU3NlX1N0a2E3ODdBTzJMejh1RXVXa1BzN1lRMWNRaEpMY19lLXR4aWtiXzNRRTFRRlFLWmhVRGFwaGloNjQ1V0FHaHZFNjRiNnhINXpRMEFZdUFXNHJBWHNkMEFoVFZKR0lrRmRqeUxVUlFVa1laZ0FhZ2xpdldPMF9yMXVEaDRHZ3dwajVTbWJqTFhWRDMwdlo?oc=5",
+      "published": "Thu, 12 Jun 2025 10:00:35 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        12,
+        10,
+        0,
+        35,
+        3,
+        163,
+        0
+      ],
+      "source": "PetaPixel",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmEzMmdYaEZFSGl1OHE5cm51aGR3NEpfNWNIemJrU0JNUXNKY1dDci1qOHkxN3BkLWlYcEJDN2NFY00xODJuQ3gtVnpFVExGQ3ZqTlFGblg3bm9MRk5kem00azJaN3VVX3FIWDUzcktVV0Z6al95bENOYWtUWmNETUdUNHJqZmNiaFVoOWFtQno?oc=5",
-          "title": "Snapchat rolls out a new $8.99 Lens+ subscription tier",
-          "publisher": "TechCrunch"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlBjai1XTDhxMFEyazJIU3NlX1N0a2E3ODdBTzJMejh1RXVXa1BzN1lRMWNRaEpMY19lLXR4aWtiXzNRRTFRRlFLWmhVRGFwaGloNjQ1V0FHaHZFNjRiNnhINXpRMEFZdUFXNHJBWHNkMEFoVFZKR0lrRmRqeUxVUlFVa1laZ0FhZ2xpdldPMF9yMXVEaDRHZ3dwajVTbWJqTFhWRDMwdlo?oc=5",
+          "title": "The Fujifilm X-E5 Brings X100VI Style to an Interchangeable Lens Camera",
+          "publisher": "PetaPixel"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdXhfZWJwTVpFeHFOX3JqLUh3LVJ2amk3YThQaUhzZkxfVllfdGJCSUxtanBfejRaclBuanpUNzF1TXowQjVLM3RDVlQ3MDhOZndaY0s0WmNtVHBTRUNOaWdlS2trcWI0UXl1dE1td0FjNWpnd1pTc1VfV0lhWC13a0xR?oc=5",
-          "title": "Snapchat’s latest subscription tier will get you ‘hundreds’ of lenses",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWW1lVkZUUWo5dmJaT1V3REhtRVZaVzlwcU5MOXdUV0VUb0FIdFVxOElYbEVESXJSSlp4WEIzQW1FS3BWc2JXQmdCUWNRRlJRUlh4TVByMFRVSWRrLTJ4SlJZY1NSVm54QU80U1FKa3Y3U1NwcGNSc0Z4UTVXRDhoT2xXS3dkNHNPd3BCYg?oc=5",
+          "title": "Fujifilm’s new X-E5 is one of its sleekest mirrorless cameras yet",
           "publisher": "The Verge"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRjJhZTRES0VaOHhhUzRBQXBYUTEwM0NRekI5VjEzeE5VTFBVNkhHOFE2eUhFSDVlQXRnYnpzOHpfS3RxejkydHlJaEFnWm1rY0VtZG1YRmFIMHJpYm1SbTNzZ3p4QjVta0Y2Y0diZVM2WjUwT2dPZ1RYeTQ3dGIyMUEwaExFUFRJUmZNRWRzcjlSWHfSAZMBQVVfeXFMTUYyYWU0REtFWjh4YVM0QUFwWFExMDNDUXpCOVYxM3hOVUxQVTZIRzhRNnlIRUg1ZUF0Z2J6czh6X0t0cXo5MnR5SWhBZ1pta2NFbWRtWEZhSDByaWJtUm0zc2d6eEI1bWtGNmNHYmVTNlo1ME9nT2dUWHk0N3RiMjFBMGhMRVBUSVJmTUVkc3I5Ulh3?oc=5",
-          "title": "Snap’s Lens Plus and Specs Lead the Augmented Reality Future",
-          "publisher": "NewsWatchTV"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNXzVmdTBqLVo2TUhJdjZ2ZFNaYjUybFZJLVc5Nk56dVdmSjIzWkk3bGRnbF9naldCb1U0ZlBRbUF1Z0Q1T1BCZDc0QVJkcy14SEU3WlE5REc0SktHUnFVVVY2aW9ud3NIQ1B0TFRsRFRhMzl6aGtYcnBia2VHVFJZb3NqSEpUdGZDNDJBcnZXSm1RYWVNaktRcURXT0RzcHpUd0s5WGxnR08xMTJjQ0E?oc=5",
+          "title": "The Fujifilm X-E5 is basically an interchangeable lens X100VI",
+          "publisher": "Engadget"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqMUdZN0tZMHY0RVpYM0NnQlBFbTA2T0JRVXBRNk1LUWUyQjJjblhSMmNEdmtjUWdWUzVfODQ4aFU0Nl8xVDNDSHlKMlBVQlpVeVZTMkN0QkUwUk02V2V1eg?oc=5",
-          "title": "Introducing Lens+, a new Snapchat+ experience",
-          "publisher": "WebWire"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWWdCVEQyNmt3RWxqZF9XQlk2SlBNLW43MHFvTEpRc0MyeFFkMWZuSGIxVEpmR05jelZYU2lZaU16dXljZVpCaWNkeEsxcmxHNXAyUUhKd3VSWFNnNjdqZGd0c3FDMmJVMWJwU0xvOVptTmRpNWM0am1aZEtqZVdGVzltSEZGbW5jdVdtUGNn?oc=5",
+          "title": "I compared the new Fujifilm X-E5 with the X100VI for travel photography – here's which camera I'd go for",
+          "publisher": "TechRadar"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSGFkQjZoMU9xYlU1UG1oNXl1U3QxMkVwZmQteFVpM1AybFVOLWFhdk9sN1lpak9VVXk3NDA3YjFSWUhuclVNdFZuMDlfbEpVaG9CVGxKNU5sX2NQeW9aMHJOQUs0S2pFN0l0d1E0UUQ0SGVjV1VyQVo0eXNhZ3NsZVV1dVBZc256WGc?oc=5",
-          "title": "Snap Launches ‘Lens+‘ Paid Subscription Offering for Advanced AR Features",
-          "publisher": "Yahoo Finance"
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmpuSUE0VnRrQmRGRm1NRmZ2NnFXbTN1UzdVS3hxVWNna3J3cE9kc2Z2cnh6WF94RFZ5RV9NLWN0VUZQZmEwTk41QmJNQXFzWW53UmhfclpQSl9VMmNoa2ZQZGdlSncxcTh1X3NPOEplQ2pNVGFMcUFaM056OTdqQUJUVi1uZjNqMmZFalFBelhXUzA?oc=5",
+          "title": "Fujifilm X-E5 Review: No Longer a Beginner’s Basic Camera",
+          "publisher": "PetaPixel"
+        }
+      ]
+    },
+    {
+      "title": "Engineer creates first custom motherboard for 1990s PlayStation console - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWZQcWdBMFdQZEFMakdqcmNSUUJzVDFVMkcxNXQzMjFpTlRzbUgtWW1RbUFjY3ZYQVpuZ1ZCZUZoaVN3LTV5TGpqanNPaW9NWm9GM0tzd0U3aU4tLWtHUGIwdmc5OGUtSnZOczZaMHR6SEY0ZU02ejlpMEV2Y0xVWWU5ZTU5NmJjZUhVSU9leEIweHRMRkFHRFB1VHQzcDVKVGNPcHFCS2NwaXhBaVpadg?oc=5",
+      "published": "Thu, 12 Jun 2025 18:51:04 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        12,
+        18,
+        51,
+        4,
+        3,
+        163,
+        0
+      ],
+      "source": "Ars Technica",
+      "sub_articles": []
+    },
+    {
+      "title": "Microsoft just teased its next-gen Xbox console, and nobody noticed - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLURpSzF5cGk0MlEzZGlxQU9aWERjTnpuLTI0VndRRkdWRkNsbUFxNndWY1NyVDMwUGxBWnhrYloxeTBILXpkRFBaOGdFdFNUR2dpbG1RNXJaU2YyNkgzVlA5S1NLakp6ZkV4cnhFcmt1OVRHY0pRRE4tRThjaE1LbjRtQlVHdjREVWkyZ3Z4eDNrZGVNSDFPaTdsU0swWkVuZWg5b3ExVFdtby1wUHFnYUlkMDEtUQ?oc=5",
+      "published": "Thu, 12 Jun 2025 16:00:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        12,
+        16,
+        0,
+        0,
+        3,
+        163,
+        0
+      ],
+      "source": "The Verge",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLURpSzF5cGk0MlEzZGlxQU9aWERjTnpuLTI0VndRRkdWRkNsbUFxNndWY1NyVDMwUGxBWnhrYloxeTBILXpkRFBaOGdFdFNUR2dpbG1RNXJaU2YyNkgzVlA5S1NLakp6ZkV4cnhFcmt1OVRHY0pRRE4tRThjaE1LbjRtQlVHdjREVWkyZ3Z4eDNrZGVNSDFPaTdsU0swWkVuZWg5b3ExVFdtby1wUHFnYUlkMDEtUQ?oc=5",
+          "title": "Microsoft just teased its next-gen Xbox console, and nobody noticed",
+          "publisher": "The Verge"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91QWxTelc0RGdsYURzeV82bkROZ2xJaDFzaU1IMm9LV21VQ1RZUDVHX3RtMG82M1BlWjNzbGRzZUZNaFppYm1RT3pnc2VtMUs2T1N0VTN4RWRRdw?oc=5",
+          "title": "Xbox handheld console finally revealed after a decade of speculation",
+          "publisher": "BBC"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRWF1MG1ic0sxQjVIRnFyOGs2ZHc1ckF3a20xM1NtMGgwSFVvRkZwV092anE1b0k1eEpBLW9laU5XLW0tcTJUZE5PQzNReHNqOGNaUmdEc3ptbXFINTVRazBNbWVfU1VLRjZyUXlVQkV3dHY5dEtsQ0dSc0ZEMi02bGdFUXExRmRzamk2NmVGSHI2UVQ0a21kZjJqOURVVzZ3QUEwbXpqYjFKNkVYQ0VuUnhiRGI0akF6NlItRms3bXptZUMwalQ0MlY0LUpSUkdla0NNNVEzNF9jNUcwckktMU1rbmU?oc=5",
+          "title": "ROG Xbox Ally handheld gaming devices are real and will be released during the 2025 holiday season",
+          "publisher": "Engadget"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQkxYQjM1LUk1NFFweTJORW1nenc3cExJamktNjQyZjFpeU5DZXp6Z3hqVU02VjRYUnJWMFE0OTRqRC1FVEY1OEVhRDBSenE1cmpJdm10M1FHYng5a2N3UUxmb1BBbjhFMmYyY1Q1SFFudlo2cTBTVkFMcjJvdGszeVYyR1NyZk1QZENMM9IBkgFBVV95cUxNRVU2MWczcmhhbmFmbVNGSHB1eFJPQUNLRnp4eF9mWTJ2T0hQZ19BbUpLeDIzOGp1MU5ubTJ1WF9BaHdVaE5Ud19meC1LWFM3UUNHZzNZMG9jR19ZVEVRemtqX2t1MUo2WFI0QXZiOTh1SjZ3QmozVUxPMVlRQjlYMFpPYTh0V3hTY21laExiZlZxUQ?oc=5",
+          "title": "ASUS Explains Why the ROG Xbox Ally Doesn’t Have an OLED Screen",
+          "publisher": "Wccftech"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNW1hWHZSTUFMNkNuMnpBZ3pMbkJZYkNKRkFqczlHV2NLUEhzanJmc3M0bGMyRWVqYjRFWlNVVmU3cGk1X1doMnNxSGtQZWp3R3hkdkhYT0FyY3g0eUVmdUtBX2lPUjJjcUpzZmU5WEgwdE9jN0hGZjVHUFNJU0FVMERhZkpCQ1RlZzNBSDFEVjhvUGZ3bWtSRDhSeV8?oc=5",
+          "title": "Xbox Handheld Device \"Essentially Canceled\" - Report",
+          "publisher": "GameSpot"
         }
       ]
     },
@@ -1037,52 +1006,16 @@
       ]
     },
     {
-      "title": "Think before you click: Experts warn email \"Unsubscribe\" links pose security risks - TechSpot",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbmpKdngyTWxwbnAxM0lsYVA2b05hM1l3bkpIUVpBd2V5LTllVHVKT09rR00yUHprWm5DMVdfdHJZRFFpb2FyRG9yaUZOdmxSaVI4NFQ4Q0VHRDVIblFBeTdQQWowQ182dlNBSkVwUV9DSkRCeDFhVzR0azJRZlh1Qmx0XzhoTE51LXBpM2p0Y3V2aG95UGlucklXRQ?oc=5",
-      "published": "Wed, 11 Jun 2025 17:10:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        11,
-        17,
-        10,
-        0,
-        2,
-        162,
-        0
-      ],
-      "source": "TechSpot",
-      "sub_articles": []
-    },
-    {
-      "title": "Engineer creates first custom motherboard for 1990s PlayStation console - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWZQcWdBMFdQZEFMakdqcmNSUUJzVDFVMkcxNXQzMjFpTlRzbUgtWW1RbUFjY3ZYQVpuZ1ZCZUZoaVN3LTV5TGpqanNPaW9NWm9GM0tzd0U3aU4tLWtHUGIwdmc5OGUtSnZOczZaMHR6SEY0ZU02ejlpMEV2Y0xVWWU5ZTU5NmJjZUhVSU9leEIweHRMRkFHRFB1VHQzcDVKVGNPcHFCS2NwaXhBaVpadg?oc=5",
-      "published": "Thu, 12 Jun 2025 18:51:04 GMT",
+      "title": "Apple Highlights Two Smaller CarPlay Changes on iOS 18.4 and iOS 26 - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRjFoa3NKS2hhWjlTUHhDaWgxSW94MlhjQUVuNFBkdk5MXzRDc1NBdHdmY0NTZVhkTUtIdUNkRnpIUXdfc3M2ZURCTzdORkQ5WXZGUTJ3SmRENUw0U0RqU2lueVduQ3VBNmhleWhVYjV4WVdMMHlpaE9URExEcXBDY0diMFN5VWZKNHc?oc=5",
+      "published": "Thu, 12 Jun 2025 14:16:59 GMT",
       "published_parsed": [
         2025,
         6,
         12,
-        18,
-        51,
-        4,
-        3,
-        163,
-        0
-      ],
-      "source": "Ars Technica",
-      "sub_articles": []
-    },
-    {
-      "title": "Apple Explains Why iPad Multitasking Took So Long to Arrive - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnBRLWlvOGtMNHducHhKb2NpOGtqaThYVHd3d0plUHdBYXdpTjhMd01OU2psWmtJeDFRYXBYZnFSZmZPMC1LSDNaZXhUcFlYYWlxeVBRbkI4Z1ZsUm5nVGg1YXFHcHg4Zl9hQjNSVnlPSGs1cXZFWlZKMEpCaFkxRlBqM014eS1ZaFFV?oc=5",
-      "published": "Thu, 12 Jun 2025 11:09:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        12,
-        11,
-        9,
-        0,
+        14,
+        16,
+        59,
         3,
         163,
         0
@@ -1090,181 +1023,204 @@
       "source": "MacRumors",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnBRLWlvOGtMNHducHhKb2NpOGtqaThYVHd3d0plUHdBYXdpTjhMd01OU2psWmtJeDFRYXBYZnFSZmZPMC1LSDNaZXhUcFlYYWlxeVBRbkI4Z1ZsUm5nVGg1YXFHcHg4Zl9hQjNSVnlPSGs1cXZFWlZKMEpCaFkxRlBqM014eS1ZaFFV?oc=5",
-          "title": "Apple Explains Why iPad Multitasking Took So Long to Arrive",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRjFoa3NKS2hhWjlTUHhDaWgxSW94MlhjQUVuNFBkdk5MXzRDc1NBdHdmY0NTZVhkTUtIdUNkRnpIUXdfc3M2ZURCTzdORkQ5WXZGUTJ3SmRENUw0U0RqU2lueVduQ3VBNmhleWhVYjV4WVdMMHlpaE9URExEcXBDY0diMFN5VWZKNHc?oc=5",
+          "title": "Apple Highlights Two Smaller CarPlay Changes on iOS 18.4 and iOS 26",
           "publisher": "MacRumors"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lY29DSHJyYTk0ODQ1dEtJM25VSUtjZ2xrWlRhM083am5YeFZtcEthV3hEbTZ3aS10WUllUHdpODh6RDFBeHJLR1NoM1RlRmhFNVBVOHM1MzVoQmJZa2tzR1FGUHQ4N0kyUUxkdDRDZEtFaGt0SFM3MUo5UDVIdGs?oc=5",
-          "title": "RIP to the almost future of computing: Apple just turned the iPad into a Mac",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52aFh3cV9fZkpTQjRZbzJLdzhTSlo3QW93X1RfYTBMcm5tQUd6ZVMxbVBrMFNxeHpBczdkWWJ0eThPeEdQVlZ0Z1pELW9Gc2R2aXZwM08tTTJONEw5SW1vd3I4NGpEVG16bk1YellSZnA3Q3NQSlRSNHVB?oc=5",
+          "title": "Apple Just Showed Off a New Look for iPhones. Here’s Everything Coming in iOS 26.",
+          "publisher": "The New York Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1FJeEE3RDQxQUZ6VTJmV3J4Tmt1aHpKVThjbHM0bV9vVFNSSjdZdkVVVnFQQlpzODMxdG5kUUhjLU83bi1vY2Frc21xZVM5bmZiY2hEOV9XclZkN3FSU255RzVBcDVJOEtBVlFXU0VyZTFTS21SVEh0NTVkcE11MDFPUXBvYW8?oc=5",
+          "title": "Apple will let you play video in CarPlay with iOS 26",
+          "publisher": "The Verge"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRHdzNFRueHJTdndnbzlpVWhKZm8xWS1qSXlSUjJFbVpwUzBFWXdNRTlNcWtwSThkOW9Eb2ViWWRMdWc4cEpyc0hTbzExTXNjY3M5YUF1TTRob2JlOTNZT1lzaE1JUU52MEFPMjdHeEJuc1J4NzNZNE8xS1lVZDlLdTFSMnV2dkt0a2VWc25TbXYwdTRXdnVmQUhncFpvTl84bVh5LU11c01WSzA?oc=5",
+          "title": "When can I download iOS 26? iPhone update timeline as beta and general release dates near",
           "publisher": "Fast Company"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVdDS2tNNDJyNHNLRG9TUnktdkM3UllxSVIyZWZWbGJLTUNncGFyRWNjeDZyV2kzOTg4eDVtZi1CZWd4a1NURkkwT2M5dzVDX0RoS1FFOXZEYjA3Z2YzQXFTUTNyYzdkeEViTEhLQmFvc0VGV3N2LXRtWlM4ZmZ2T3JTOHNLUHNDUWpaY21xSGtFaFdncWxCaFJIZ2FKcjRTUjBzMnJta2p4YWpiY1BxS3pxOFhzZw?oc=5",
-          "title": "Apple’s Craig Federighi on the long road to the iPad’s Mac-like multitasking",
-          "publisher": "Ars Technica"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE1MQ1I0cWtGYV9HajM5SEtCNE1oNk1XR1JxTzlIdnUwTEc4UHB6N2wzSGg1amdsRjRoSW9pcHFXWUxUeFFSSy05NGZxTThzZk8zVDhYMnF5UzJDNS1VTnVsYnI2M2hIVGZPYjFBMTk2eEpES1c5c0tGQzRnTDRyYnQ4c3c1N3JlUElkb0ppQ3hvcGc1UHJCaC1NNEdaUkZOSU10OEhmMHlUNnFHYTVn?oc=5",
-          "title": "iPadOS 26 introduces powerful new features that push the capabilities and versatility of iPad even further",
-          "publisher": "Apple"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jMGF5VlFqRHhyS29WWGsxbkkyTlI2c0JIazBKTFhkQUQ0a3BuV3NkaHpBcF9COGg0a1I1aldmZzVCZjVMOVIycjRYWXNKNHNIQkszYW1HVTJ5S3BELW90WE5RQVN5RmV4eDBpUmtrM2Q?oc=5",
-          "title": "The iPad Is a Full-On Computer Now",
-          "publisher": "WIRED"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZc1kzNFhtc1FKaEVCaWpkdk1pUUd2TWxhUzZDWnBFTVVFZTQxaUt2RnFvYkE3bm9MZTRHcjRtaWVZaThweGczTFNjdlZYWlJNcWR2MEQ0Vi1LSDhOZzlGcHJTOGYyMmJQUnBEcmVpVG8teGo3VU9z?oc=5",
+          "title": "Apple CarPlay iOS 26 Update Brings New Looks, New Features, More Utility",
+          "publisher": "MotorTrend"
         }
       ]
     },
     {
-      "title": "iOS 26: Apple will expand family tools with smarter child account setup, age-based app filters, more - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVNmOWxaMXExRm9BUDB4TU1HV3drR1dBOGFuN1BfeDFuMzlWcHZsU29XVnFCcVpsMmpsT0ZQTFVxXzJkZEdNNnY1amgyN25GR0RIT2ppWHZqeTlxU3A4ZWpTYmh3RG1seTdtN3RFb1pycEY4UzBNMUV5aVRjMm5RUVNHa1oxc0ZZLVFuSF9ROHJwY0hPUTVz?oc=5",
-      "published": "Wed, 11 Jun 2025 16:41:00 GMT",
+      "title": "Resident Evil Requiem – The First RE Game to Make Me Jump - Anime News Network",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMU1IdU1yLU9uNGcxMGVmaEJpelJNQTVUdXZBUGdHX0ZuVlNHdEltXzh1V3F2dFI1WEpnY0JkMHhpLVRHQzkzVmVWTUpPU1ZJQzllSUtwYTVrOFJJN2g0clhxa0U2X2J6Qy0tQndha2pRTUlrLXdieGthM0Vjby15aEtLb0tfdVN5c3pJLWdsQzBDb1lsbUoteGRtNWZObHVRVXd2eHhOa2NqWkRWcFJQME95SVI3dw?oc=5",
+      "published": "Thu, 12 Jun 2025 19:00:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        12,
+        19,
+        0,
+        0,
+        3,
+        163,
+        0
+      ],
+      "source": "Anime News Network",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMU1IdU1yLU9uNGcxMGVmaEJpelJNQTVUdXZBUGdHX0ZuVlNHdEltXzh1V3F2dFI1WEpnY0JkMHhpLVRHQzkzVmVWTUpPU1ZJQzllSUtwYTVrOFJJN2g0clhxa0U2X2J6Qy0tQndha2pRTUlrLXdieGthM0Vjby15aEtLb0tfdVN5c3pJLWdsQzBDb1lsbUoteGRtNWZObHVRVXd2eHhOa2NqWkRWcFJQME95SVI3dw?oc=5",
+          "title": "Resident Evil Requiem – The First RE Game to Make Me Jump",
+          "publisher": "Anime News Network"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02Wi0wNURJRDQzdEg1S2hDT0I1bmRMUFRWWHJ5aWpoVDJIN2NMZmpmc0k4aTg1VzFUYWNhNEJTMlFSUlAwdzQ1TzJybEI1RnZDemd2Sjlac3kwNDVhWDhxWFBJMHpLZkt1bnQ2aVUzakZ5TkZjZVRqTg?oc=5",
+          "title": "We Played Resident Evil Requiem In Both First-Person And Third-Person",
+          "publisher": "IGN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SblpibV9tV3o2MDI3X19XZHhybkpSbkFnRUhDaGwyMTl0bjhkUFdrbVI4TjVZMFRIbEtGR1ZsS3ZPUFplbFoxdnNjQ25fTng1SDFySmJ4VVNqc1dVc1FTNVc4bkItV3ZVclNBTzR4SG5tdw?oc=5",
+          "title": "Resident Evil Requiem Preview - Back To Raccoon City",
+          "publisher": "Game Informer"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vVy10N1VpeXZ5ZW81ZHdnSFhxVy1ZdG1pUGh3RWl2QzM3RTNsbjBjUDgwNnFDYjRkRW5mTnRaQUc4MUIxanUxN1hOQzJMVUcyN1NZOGpzd1haQQ?oc=5",
+          "title": "Summer Game Fest: Resident Evil Requiem and Bond among big reveals",
+          "publisher": "BBC"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0ZLZzA5THNHdGJYaE5XaHp0MXV1WnlZVkx0NU91OUx0OGhJUkJnREU3VmgteEpCa3d5UUlCN19EczNIQkptM0lnc3g0UVNtenV2LTVOSlNVV1M0VGZLV3NmZFZydFo5ZjZ6a3VLUm5ITDdsQXlsUjh4V2l3MFlRSlNJUVVvQkc0a19MWFZLa1NPRnI2enZPM3hJM1BkaGpETGc?oc=5",
+          "title": "Resident Evil Requiem features terror in first and third-person views",
+          "publisher": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "title": "Zelda: Tears Of The Kingdom And Breath Of The Wild Updates Now Live, Here Are The Full Patch Notes - Nintendo Life",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcEs2cy1zMVdzTnJqVERablN1cXZucTBhV05FRTk5Ni1nZS1veHZRV1FEbkdkNDZIYnFkZ3B6U3dsb21sUldFUUZNemRHbWdGVmNOdHFSUFBnSWdQR2Q5QWJqeVRVaGNwTklwaUY0UzA5SjlfMFBmOWFXNU5BMHFBdlctYXY2c0JObTRYVjE3WHNPSlZoWGxFMWk1cVVhSWFYZFhUUzdoZEwtMG1yWWZkbWhGb3lrZkVkLWhWUTFzOXNmbEhaMkstSC10dExnM1hGc0wwWg?oc=5",
+      "published": "Fri, 13 Jun 2025 03:30:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        13,
+        3,
+        30,
+        0,
+        4,
+        164,
+        0
+      ],
+      "source": "Nintendo Life",
+      "sub_articles": []
+    },
+    {
+      "title": "Xbox Has Started Giving Out Free Gears Of War: Reloaded Codes To 'Ultimate Edition' Owners - Pure Xbox",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX3lMNzN5Yi1ab1pmcThBamc5WldGYmlMTmIzNXNRLXF2aDlXQzRZYXRqdVRMWjhHZHFDTG1KUVNsY2gyeUhwNDIxdDBqSm9IcnphQWYwTUhpSDl4aTNzVmVNTGxYR010RWczcUh6NHZvRVN1QWlwNWtZVzF1SkpfRlZFTkNnaUFibjhocG1NTWVuckNCT01ieFpLREZjR3B2VTd5a1A4Z3lBYVNpdmx1NUVNZG1ONzlDb3kyUEh1Z1NnUXc?oc=5",
+      "published": "Wed, 11 Jun 2025 21:05:00 GMT",
       "published_parsed": [
         2025,
         6,
         11,
-        16,
-        41,
+        21,
+        5,
         0,
         2,
         162,
         0
       ],
-      "source": "9to5Mac",
+      "source": "Pure Xbox",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVNmOWxaMXExRm9BUDB4TU1HV3drR1dBOGFuN1BfeDFuMzlWcHZsU29XVnFCcVpsMmpsT0ZQTFVxXzJkZEdNNnY1amgyN25GR0RIT2ppWHZqeTlxU3A4ZWpTYmh3RG1seTdtN3RFb1pycEY4UzBNMUV5aVRjMm5RUVNHa1oxc0ZZLVFuSF9ROHJwY0hPUTVz?oc=5",
-          "title": "iOS 26: Apple will expand family tools with smarter child account setup, age-based app filters, more",
-          "publisher": "9to5Mac"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX3lMNzN5Yi1ab1pmcThBamc5WldGYmlMTmIzNXNRLXF2aDlXQzRZYXRqdVRMWjhHZHFDTG1KUVNsY2gyeUhwNDIxdDBqSm9IcnphQWYwTUhpSDl4aTNzVmVNTGxYR010RWczcUh6NHZvRVN1QWlwNWtZVzF1SkpfRlZFTkNnaUFibjhocG1NTWVuckNCT01ieFpLREZjR3B2VTd5a1A4Z3lBYVNpdmx1NUVNZG1ONzlDb3kyUEh1Z1NnUXc?oc=5",
+          "title": "Xbox Has Started Giving Out Free Gears Of War: Reloaded Codes To 'Ultimate Edition' Owners",
+          "publisher": "Pure Xbox"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHJweG1ydi1DR2VhNnljM29iNnJ2YS15Wm1vZ3FFdzZwZ3J3d3ZiUHRNYU52cmNCdzZocDN4NlM5c0RkNHY4aUppdDdQNkNSZ1BfSzFGc0RNQTNmdzJaTjlQdlhpeUlCdXVwV3hlS2xEeG8wdENpeE50MlZOQzdSaEV0bV9fbG5fSlBIbXctTVRlQWFDWEhXVWgtY01VOE9uS3NqWGdDZDk?oc=5",
-          "title": "Apple expands tools to help parents protect kids and teens online",
-          "publisher": "Apple"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkV1Sl9zUkotWVBUdDNiZHJHWlV2ZFlNbS11eHZLUTBwc1QySTg3TXRHUjNid0hqSVVSRFlSQ0xERDdvOGdldHpFaFRfR3V2LW1xTFVTd2ViQzZzZXh2a0VzNnhGcGZWSVNidUo0VDFTSzdfWFJlUDBDRUtvcEt2b1g3N0NYMGRkV3hSZWNTa04zWVVyMHIxVVdjWVNDcWdSOTl5Q201S0puT2xKODgwc01oOVVvbi0tQWtZ?oc=5",
-          "title": "Apple's iOS 26 requires kids to get parental permission to text new numbers",
-          "publisher": "Engadget"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVJlVllkLWRlajdnUkU5bmcwWHZxb0N2MlQtVFdaUjliemNqT0RSMW9VRW5sLU9MNFF1Z2kzSHhudnFMX05SZ3pCZ3JJMTVmVGswMTNsMWxQWWdnb0JjZWwtRUFmb3VwOF94WWNOcFJDdVhuLXlBbGdIcHA5UkJiWnJiVl82cTRwNXJDRWxEWkVGQXRrYjUyeUhhWldidVU?oc=5",
-          "title": "Apple’s updated parental controls will require kids to get permission to text new numbers",
-          "publisher": "The Verge"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMExRU2ZQeVF0dUtCejFwMmp3OURaV3RBbnVld2czZUs1REpZbW52akJ1Y21fQlY4UEdEMVVuYWpzOXRrOUk4eld0a3VtNmZsMXBJQTBaczc4dEpsWk9tM1RnZXc0RXdib2FNUVh1UHB4Ulp0VWpZaU9FdUZLZ0hVOWNQRVEwaTRzOVJqaUF2d3M0aFRxWXNmdmcxNno2UVg1VVhGWGo5MlVhZlJiV2VVZtIBtwFBVV95cUxOR2ZwY1RYOTZMS1RJQXBQNWpqWF90WG1GSUFBaExMMGo1dlNKVjU3bWFaMmF4Z0VHb2xmWVRCVmp6X2MyUG1YYmdKZWdsbFJFN2EtVUQ3dWpZbHllaTdlRFNMS1BaVEdpcXhwUmRJUWFPd0NwNFpOYzRBVC1GeC13UWY0cEktSW1uR1FubF9TMVFic0xiX1hxVm9wZU9lTHkxZFVDRjJMOW01dHdneE5wQ1J1VEUzZVU?oc=5",
-          "title": "Apple makes Child Accounts in iOS 26 safer with new management tools",
-          "publisher": "AppleInsider"
-        }
-      ]
-    },
-    {
-      "title": "Mario Kart World’s Journeys Are Smooth and Unremarkable - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtSXRfLV9rSVI5LUJzQkVuc2dkaWhfRS1TbW5MVFd0LVhEbHRYMy1tZ2ExRkw2LVhzZzZ3RzVJZndxUU5VMzhzMGJtdTJLbGIzNEVpcnhnVFBiYUVnanRXZFE5TnJRM245WTJnUU04YnVicFZZRENJ?oc=5",
-      "published": "Thu, 12 Jun 2025 09:00:19 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        12,
-        9,
-        0,
-        19,
-        3,
-        163,
-        0
-      ],
-      "source": "The New York Times",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtSXRfLV9rSVI5LUJzQkVuc2dkaWhfRS1TbW5MVFd0LVhEbHRYMy1tZ2ExRkw2LVhzZzZ3RzVJZndxUU5VMzhzMGJtdTJLbGIzNEVpcnhnVFBiYUVnanRXZFE5TnJRM245WTJnUU04YnVicFZZRENJ?oc=5",
-          "title": "Mario Kart World’s Journeys Are Smooth and Unremarkable",
-          "publisher": "The New York Times"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wRGgtWmRkd0VscHB0VU5KNmMzZ1dXRF9iVkN4Z3U4dG40bGhMaHhCekV0U3VPekZyVWlhYjRQdURfUWRVUnZVN1RUamtXT3Y3STdpbVIySGxzQkJiS3VZVFR3?oc=5",
-          "title": "Mario Kart World Review",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UaENsdWpJMVlwRzhpZGRVZEZTVloxQUpvdUhWVk1OR1hqRVozMTd0bjlQemU2ZGYtTENScUQyODlHYU1ZXzQwc0E5VmtFek5kX0FxekdXb1FBdk94ZW1XVTlqSE9RTWIwTDJFeGhLbDlRcUVmUGc?oc=5",
+          "title": "Gears of War: Reloaded - Here's What Comes in Each Edition",
           "publisher": "IGN"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX1EyWmtpN2xycXR4X3c4UGs1ZGgwY3c3NEdjWGVOYl81NTQyOXdyNnJ4c0FaSG9nMHJEZ2hfcGxrZ0wzckp5QnlCNzExeVFEUUZ6Tm5Vc1k1V2NHNFNRYmtBTnlaZWV6MUU1ZXlsSm5nTDFxamVLN1JGX0toT3hGQnhhaThudDBNQWJZYmJZS0FkN1l0VGc?oc=5",
-          "title": "How to unlock characters in Mario Kart World",
-          "publisher": "Polygon"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2wwR3Y1c3ZDcVFLOEZzWG12M2d0MTYxYkx0OF8xY1hHUFU5ZjBhN0NuZVNFdWZ0NzJSZm1LdVRndTVvWFpkVjY4b0NlcjBZM2hYc1pMbnNDOVl3QmctUy0tbXREb3Q1ckhwVUZiLW13TlAwNW1RREtsTUFscXFxVHUwRzE3ZmdhMFFCTG10enBZTFFtT2t1OG1RcHM3UQ?oc=5",
+          "title": "Xbox gamers surprised with free game as 'thank you' from Microsoft",
+          "publisher": "GAMINGbible"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTHdDeTZyczQ2SG1vZ2Nfb2Y2NmN0aFVyYVgybFk1Y1FLR1RfNXFhcTJaTTM2V3VDWFlJdXNFNTQwclJkWl83ZldpM250cjByN09US1pfTzd4ek05Qmh4MjZyQ25NT2FhQllYVkdDeHdXa0s5WktqaXRWSlhTV1hWN3NBZ0hfYmZUa2ZyS1F2bkRrSGc1VW92cHhUR0RZWWZpejNWRHJGMVpnZw?oc=5",
-          "title": "Mario Kart World review – a riotous road trip for every player | Nintendo Switch 2",
-          "publisher": "The Guardian"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVHFOdFEtRkFVM3dKUWdnNjJzNlN6UkFvMDRHN3dKSThjY0ZOVkVranNNaHVzRzhheVAyVXhsT29qWGtSeWRtUjJFdDZKS1Ffb3lTY1ViSk5HTUdNSmtfSEY1Sy1LdWJqMGlXT1hDQnN0eHNzWVVXVkZ6V3ZyOTBBZXVHYk9tS2tUM1dNQ2VMTVUycXZGT1RoOGdyM1JxbkFGUTh3WFY3MUp6ZnltUTlyX2ZqYVI1QnB6TC04bWhNdlNrUG1rcHJ6dkFLeF9XUQ?oc=5",
+          "title": "Gears of War Reloaded Multiplayer Beta - How To Get In, What's In It, Start Times, And More",
+          "publisher": "GameSpot"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VclFLQVlZYTAtd0d6Qk9NUHZQX090TlpVSWJleGtTVVVRZ2dpNXB3M1Roa0E4RWJ1Z0U5Ykg4VXpGbmdxZWlYLUNHUmRiN1ZsQktNeUVVaXFZeDFvUDJpNFJ5WmhrQQ?oc=5",
-          "title": "No more Liquid Ass.",
-          "publisher": "The Verge"
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XMm5LYVJhaWs4aXF4Tll6X0pGZEpuM2xMVXBsT0Q5dDdCSHZmUlJXUlJmRF95WUJUbWxTTXh2dF9Ub2RIMlEycWV3bVVXRGJibkViREFBbEJ6X2czaDhSWTlwYUo5dWk1bExWVE1Daw?oc=5",
+          "title": "Gears of War: Reloaded",
+          "publisher": "playstation.com"
         }
       ]
     },
     {
-      "title": "Microsoft just teased its next-gen Xbox console, and nobody noticed - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLURpSzF5cGk0MlEzZGlxQU9aWERjTnpuLTI0VndRRkdWRkNsbUFxNndWY1NyVDMwUGxBWnhrYloxeTBILXpkRFBaOGdFdFNUR2dpbG1RNXJaU2YyNkgzVlA5S1NLakp6ZkV4cnhFcmt1OVRHY0pRRE4tRThjaE1LbjRtQlVHdjREVWkyZ3Z4eDNrZGVNSDFPaTdsU0swWkVuZWg5b3ExVFdtby1wUHFnYUlkMDEtUQ?oc=5",
-      "published": "Thu, 12 Jun 2025 16:00:00 GMT",
+      "title": "Every New Detail About Dragon Age: The Veilguard's Development Shows Why It's A Defining Game For BioWare - Kotaku",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVi1TM0NqYjJKdkUta3hhcHhncTEzVmtHalNvdHAxSGZqeTBvd2g3OFFyS2tYREdyR1RONDhaNDhVNlllRUdVNEh1d0swME1wSXoybmlKb1BMMFJrTFlMVl81WVVsMXM0NEJSbVJyTDkzZEFFNlJjODNSM0R2MmlsTzRmblhEUld0NWc?oc=5",
+      "published": "Thu, 12 Jun 2025 18:00:41 GMT",
       "published_parsed": [
         2025,
         6,
         12,
-        16,
+        18,
         0,
-        0,
+        41,
         3,
         163,
         0
       ],
-      "source": "The Verge",
+      "source": "Kotaku",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLURpSzF5cGk0MlEzZGlxQU9aWERjTnpuLTI0VndRRkdWRkNsbUFxNndWY1NyVDMwUGxBWnhrYloxeTBILXpkRFBaOGdFdFNUR2dpbG1RNXJaU2YyNkgzVlA5S1NLakp6ZkV4cnhFcmt1OVRHY0pRRE4tRThjaE1LbjRtQlVHdjREVWkyZ3Z4eDNrZGVNSDFPaTdsU0swWkVuZWg5b3ExVFdtby1wUHFnYUlkMDEtUQ?oc=5",
-          "title": "Microsoft just teased its next-gen Xbox console, and nobody noticed",
-          "publisher": "The Verge"
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVi1TM0NqYjJKdkUta3hhcHhncTEzVmtHalNvdHAxSGZqeTBvd2g3OFFyS2tYREdyR1RONDhaNDhVNlllRUdVNEh1d0swME1wSXoybmlKb1BMMFJrTFlMVl81WVVsMXM0NEJSbVJyTDkzZEFFNlJjODNSM0R2MmlsTzRmblhEUld0NWc?oc=5",
+          "title": "Every New Detail About Dragon Age: The Veilguard's Development Shows Why It's A Defining Game For BioWare",
+          "publisher": "Kotaku"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRWF1MG1ic0sxQjVIRnFyOGs2ZHc1ckF3a20xM1NtMGgwSFVvRkZwV092anE1b0k1eEpBLW9laU5XLW0tcTJUZE5PQzNReHNqOGNaUmdEc3ptbXFINTVRazBNbWVfU1VLRjZyUXlVQkV3dHY5dEtsQ0dSc0ZEMi02bGdFUXExRmRzamk2NmVGSHI2UVQ0a21kZjJqOURVVzZ3QUEwbXpqYjFKNkVYQ0VuUnhiRGI0akF6NlItRms3bXptZUMwalQ0MlY0LUpSUkdla0NNNVEzNF9jNUcwckktMU1rbmU?oc=5",
-          "title": "ROG Xbox Ally handheld gaming devices are real and will be released during the 2025 holiday season",
-          "publisher": "Engadget"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa09XM2J0bWo5azd1TThCZDVhRDhXM3lZODR4U2xfTFFiTHpmbG54cWpGU1ZhVzlnVzk0bGt3VGRXX0NsamlVbk5mQWZXOUc1ck5RSzJ1OGxwSW9tTl9LQWNzbl9PbklVRWV5ZUczM0pXbjAyS3ZCeF8wOEh1N2dGWm1JVURHRU9UQ1ZpRnBWNjNhMVBhVllFcWRsM2pnUndsM2JwejZfbWc1RFN5dWdCNUNB?oc=5",
+          "title": "Inside the ‘Dragon Age’ Debacle That Gutted EA’s BioWare Studio",
+          "publisher": "Bloomberg.com"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQkxYQjM1LUk1NFFweTJORW1nenc3cExJamktNjQyZjFpeU5DZXp6Z3hqVU02VjRYUnJWMFE0OTRqRC1FVEY1OEVhRDBSenE1cmpJdm10M1FHYng5a2N3UUxmb1BBbjhFMmYyY1Q1SFFudlo2cTBTVkFMcjJvdGszeVYyR1NyZk1QZENMM9IBkgFBVV95cUxNRVU2MWczcmhhbmFmbVNGSHB1eFJPQUNLRnp4eF9mWTJ2T0hQZ19BbUpLeDIzOGp1MU5ubTJ1WF9BaHdVaE5Ud19meC1LWFM3UUNHZzNZMG9jR19ZVEVRemtqX2t1MUo2WFI0QXZiOTh1SjZ3QmozVUxPMVlRQjlYMFpPYTh0V3hTY21laExiZlZxUQ?oc=5",
-          "title": "ASUS Explains Why the ROG Xbox Ally Doesn’t Have an OLED Screen",
-          "publisher": "Wccftech"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZjdSbWNnclRjSVJuUndTQ1R5Q1huN3NpVmtjUXZFcWF1UHZBck5hWEQyZ2RGc0c0Z2JIVTBmT293WVdXNFk0SjZvN2FJT0RIZ0pTY0Y3bWRxUHBjSmExNGxaVjB5Z1NZQnM4dnU4aDZGdzRhblF4dFRqSS1RTldyNW13UQ?oc=5",
+          "title": "Good Day To Everyone Except The Senior Management At Electronic Arts",
+          "publisher": "aftermath.site"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaEhFUmFGbHA4RzZua2hUQjB4YmVUREtZTlV4SFpBUWJXalIwMWJlaDRwODZUZlVDWm5FSmwwQ21yM2YxbFlESlI5WFNBcDZxSnZVODJ1OHNBVUxFZnlVeVJuUHIzYlo0bzRHUTV0TDNrdEhiWkRya0tyeXhnam5BVC1LT1c5bkRHZVlYbGR0MA?oc=5",
-          "title": "God Of War is coming to Xbox in a move we never saw coming",
-          "publisher": "GAMINGbible"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONFlmUjhiSnlHX2llVXdaeDhWZ3R5WC1HNnpYNXlEVzU5cE5Wcnc1bWxTanRfMjFURzlHQ0tuOGlTS1ZGS1MwcTBCNWZWYnhibFRsdkl4WmtmYlNvQ3NLT2F3elBXaURjV1lnaHhyVGZQOEhYekRrNXNsTW5IdnltRWt6TnNXdXpYWldCLWVkZHhXOS1iTmNFTVZ2SDlTaW01aUpNclJad1pOLXF2enVwM0JMNA?oc=5",
+          "title": "Report: Veilguard's late pivot from live service spelled doom for Dragon Age sequel sales",
+          "publisher": "Game Developer"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeWJmeUZXaEZnbWctZVNiSG9rNDVFb1BMRVdlbXVBbE1NbzNPOUplc2JyMmN1X2VZV0RHRnI4OFdIdFRYUWN6czRQYVlqSlRVbnVzUjdFRzR2eXY4YlJxcmZqRU4xWFIzM2E3emlzVDJsc0EyT2ZKN3hlUDZ4NngyRWtR?oc=5",
-          "title": "Microsoft’s Xbox Handheld “Essentially Canceled,” According to New Report",
-          "publisher": "The Game Post"
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNS2NEbG5LQVg3UTByTElkalRfTENMQWpKLUktR05aejRoTk5BNW4zaXdjTzB1SEpaWFNrNHluZlRoYUFwVTlraC1ETThkOFJTQkhqUGxaYjhFbkQ5MlQ2ekI0T2JJM1h1cVkwVnVEM0g3bFU2bFNTeU9LNWsxTjhLSEp6WWRJS0hxbklzczgzbXRUT3NoN0pvTFdLQXlXeC1abkk2a1pOQmRkOFU4NC0yQXNqTXRJMm1qV0l0V3lsWDJJSElOU0VMTWdtcm15VG9tazBuSzN3eXgzakxxV0IxZEUtQ3hMQjJpb25B?oc=5",
+          "title": "Report Sheds New Light on Dragon Age: The Veilguard’s Development Turmoil, Reveals Dialogue Rewrite Sparked by Forspoken’s Failure",
+          "publisher": "IGN"
         }
       ]
     },
     {
-      "title": "Konami Press Start Live June 2025: Everything Announced - IGN",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3dYTHJHby1mSEFIQi0wMWpydVRJM0o1UmJYQW1jUXBXdWNEWVlXUzV6WTBFTzdwOUFReDZPV2d6TGtrZnB1cTlqMENFczdRdVV0OTlmRllic3dlVl9wU0lRTEt1ZmxxWWpIcEJ2OEZwWFF1Rl8xd1VPck8zUlU3enRucFZtRmN1N1lF?oc=5",
-      "published": "Thu, 12 Jun 2025 15:58:23 GMT",
+      "title": "All Xbox reveals from the Konami Press Start 2025 showcase - TrueAchievements",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRDZjYzBUTUZ1OGE4cFY3U3dHNF9Hei0wNFJiLVp1R0QxaU9lcGVYMVJXaE92cWlNRmZmWFd1eDJDSUFHeEpiZDh0LVF1LTV0aDV0TGlZZm11NUZRQWpNZjRvb0JmVk1fR3ZFcVBZTXpLMVd5TXA0NkxOMVd3cEZKQmVoT2lLUU05?oc=5",
+      "published": "Thu, 12 Jun 2025 15:53:03 GMT",
       "published_parsed": [
         2025,
         6,
         12,
         15,
-        58,
-        23,
+        53,
+        3,
         3,
         163,
         0
       ],
-      "source": "IGN",
+      "source": "TrueAchievements",
       "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRDZjYzBUTUZ1OGE4cFY3U3dHNF9Hei0wNFJiLVp1R0QxaU9lcGVYMVJXaE92cWlNRmZmWFd1eDJDSUFHeEpiZDh0LVF1LTV0aDV0TGlZZm11NUZRQWpNZjRvb0JmVk1fR3ZFcVBZTXpLMVd5TXA0NkxOMVd3cEZKQmVoT2lLUU05?oc=5",
+          "title": "All Xbox reveals from the Konami Press Start 2025 showcase",
+          "publisher": "TrueAchievements"
+        },
         {
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3dYTHJHby1mSEFIQi0wMWpydVRJM0o1UmJYQW1jUXBXdWNEWVlXUzV6WTBFTzdwOUFReDZPV2d6TGtrZnB1cTlqMENFczdRdVV0OTlmRllic3dlVl9wU0lRTEt1ZmxxWWpIcEJ2OEZwWFF1Rl8xd1VPck8zUlU3enRucFZtRmN1N1lF?oc=5",
           "title": "Konami Press Start Live June 2025: Everything Announced",
@@ -1284,57 +1240,26 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMlVhSFctZmNTWnlHNkt5X2U5T0pKOWxlbGRvX0lNcmZNN3RZMndfYm1qYzhjeFM2RC0ybGpha3FzSFR1TlBDV3h3Mlh5X1lva2cwamRYenpSVkhRV1k3OWFJeURqY2FNaFNaaWQzdkIwMURpOExnUXVEZzlwOUZKSGJocl9MeUVJQjRDNk5acG1KMFpRV3FrUW03NW9IeFAzNllxZVhhZEVXbnRVR0lPaU9lR1E1aW8?oc=5",
           "title": "Watch Konami's Press Start Metal Gear and Silent Hill stream at 9AM ET",
           "publisher": "Engadget"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORXVDdFl5S3lxSENtYjdsYjI4OHpSWjJINEc3dGl0UXVleEtIWDYzc0Fpb3V4TU9rRlEzUWE1bGZvTzRSZHBZczdTX3VBXzZrc0RFY2Jsc0hWel84VWRDVTJxWUsxQ2hkeXJvb2ZZOGZnOWExVHhzODZNMHdWZTNaSXV4bGtuM3NacnVpdXlxbzAzY1FvOW9iQ0JrUENhQ2lYMGJnUkdzNDV3dw?oc=5",
-          "title": "Konami Press Start as it happened: original Silent Hill remake confirmed, plus updates on Metal Gear Solid Delta: Snake Eater and Silent Hill f",
-          "publisher": "TechRadar"
         }
       ]
     },
     {
-      "title": "Android 16 QPR1 Beta redesigns the Pixel Launcher search bar, adds AI Mode - 9to5Google",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUUdETnVrWFU3YXQ4YU15N2VfdFdoZm8xM1NiTHZORW5CeTQyRWZTbXRNc0Q5bE9ock1QZndaZHk2MUI2dGVnVEhZRVhSUFZYdVRQVlFWVW0yMk95Nm5SeFJBZnJFRjNRUUFHOHlXbXRCMTVDZkpjQXJwR0doRTd0aTBOclpoa0NqMFlWN1BTM2J2dw?oc=5",
-      "published": "Thu, 12 Jun 2025 00:03:00 GMT",
+      "title": "She was a Disney star with platinum records, but Bridgit Mendler gave it up to change the world - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN0lMU0NFMER1aXJjS2V6SkFnRk5BTXFMTzFzVEZwNFI5V0NJbGRTS2xSeFhXNVVLSWRWbHRnTHVnczF6WGQ0N2ZZUThDVXI3TkN5TEVkbFRlM2NQX2E0NG1vakF1ajRLY0xuZGpRMEZnTjg1a0t6NmhhaWFiSGUtRmliZ1NUMTlPOE1vS2RKRUpqNVB1RmpiMTg3bDVmREY3SDg0azJwTGg3ZkpRTi1tdnBMYUxaYVY5SmRNVlN3TDJ0d1FOUDRYVDJsc1pWQQ?oc=5",
+      "published": "Wed, 11 Jun 2025 11:00:09 GMT",
       "published_parsed": [
         2025,
         6,
-        12,
+        11,
+        11,
         0,
-        3,
-        0,
-        3,
-        163,
+        9,
+        2,
+        162,
         0
       ],
-      "source": "9to5Google",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUUdETnVrWFU3YXQ4YU15N2VfdFdoZm8xM1NiTHZORW5CeTQyRWZTbXRNc0Q5bE9ock1QZndaZHk2MUI2dGVnVEhZRVhSUFZYdVRQVlFWVW0yMk95Nm5SeFJBZnJFRjNRUUFHOHlXbXRCMTVDZkpjQXJwR0doRTd0aTBOclpoa0NqMFlWN1BTM2J2dw?oc=5",
-          "title": "Android 16 QPR1 Beta redesigns the Pixel Launcher search bar, adds AI Mode",
-          "publisher": "9to5Google"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZeUl5Rl9QWDNkMzFzaWlQYXc2NTE0MVFxaElsTlJmZTRmTUVxcURWMzFSdUlKMEVXRmM4TS15TWZCQlZFaE54MWFvbi0xVDhIeWItLTBBZ3BEVlpIdHdNalNtdXJpV1FGUmZkNVFzNmo1QVk?oc=5",
-          "title": "Google tests a new Pixel Launcher search bar, but it's still missing the feature you want",
-          "publisher": "Android Police"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRENtaDFLaTJrTzMyOGFOSEpWRUpfQ1d2MzlSaFh0Q2xHZTNQQVNKYnhRUDRoZzlqQW9pQnJ5NEtjTzRRNy02SU51MTBVZGtpV1o2MkpiOWNISW1CTENyYnRBOWpRN3JERlBLNGM5aTlUbnpKSzRQS21HTmV0N2Z6N0NNN3hxc0doT3FSNVg0ck00X0E?oc=5",
-          "title": "Google’s latest AI mode appears in Pixel Launcher: Report",
-          "publisher": "Daily Jang"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUpPb0tGQ014NFV5Z0Ixa1VPc0hqbUZfOXRtQW5CSlhERHZra1BHaWpRWHY3QklDbzJkcWNPZk91MUl4dlA3Mi1RYWZON1Nzd3h1SE8tcmhfQlpqTjVlbDRmSW5WZ19EZVVUcjF5LVF4T2dyQXVuaGYwZDNpZG83eVh4ZHRwdTZsa2ZUdGhJVDFXWHA1UEs1Rnk1V1BBcEdfRW8tSGdhanJ6TGEyQzdOVTdCMFc?oc=5",
-          "title": "Change to Pixel Launcher spotted after latest Android 16 QPR1 Beta release",
-          "publisher": "PhoneArena"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU0V4dXpOQS1udjRhRk5zQ09GWi02X0pfOU5INXZucGxxUGtZNUtGWlZOTTVqT2k2TVRtVmY0bjVHbmZVczBnSGRJT0RNR09KMF95UzdLa0c5UG1pWWZjc1FmS1ZOSkROT1E2dHRBWjhlQzVrZHItbThhbi1HUWtkcjduMA?oc=5",
-          "title": "Here's an early look at Pixel's upcoming AI Mode home screen shortcut (APK teardown)",
-          "publisher": "Android Authority"
-        }
-      ]
+      "source": "Ars Technica",
+      "sub_articles": []
     }
   ]
 }

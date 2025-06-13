@@ -1,36 +1,27 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-13 02:26:57",
-    "total_articles": 3
+    "generation_time": "2025-06-13 07:47:40",
+    "total_articles": 2
   },
   "articles": [
     {
-      "id": "799fea944de4aac2f62e043f5cd99b6a",
-      "title": "Dow futures fall 600 points after Israel launches attack on Iran: Live updates - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/06/12/stock-market-today-live-updates.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108157945-17496590052025-06-11t162032z_573808496_rc2e0fawqvy7_rtrmadp_0_usa-stocks.jpeg?v=1749659063&w=1920&h=1080",
-      "summary": "Iran’s Revolutionary Guard Corps chief Hossein Salami killed in Israeli strike Dow futures fall 600 points after Israel launches attack on Iran: Live updates Traders work on the floor at the New York Stock Exchange (NYSE) in New York City, U. S., June 11, 2025. U.S. stock futures fell on Thursday night after Israel launched an airstrike attack on Iran.",
-      "published": "Fri, 13 Jun 2025 01:25:00 GMT"
+      "id": "51f02df30aa084a2ecb60b920aa42299",
+      "title": "Israel conducts airstrike in Iran - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2025/06/13/israel-strike-iran-trump-nuclear-talks",
+      "image_url": "https://images.axios.com/tyTl_Wa6dVN27LaowQSGkAxk4dQ=/0x337:4032x2605/1366x768/2025/06/13/1749782170665.jpg",
+      "summary": "Israel strikes Iran's nuclear sites, kills military chiefs and scientists A building in Iran that was hit during Israel's attack. Photo: Fatemeh Bahrami/Anadolu via Getty Israel launched a massive wave of attacks across Iran on Thursday night, bombing nuclear and missile sites, targeting military leaders and nuclear scientists, and conducting covert sabotage operations on missile and air defense sites. Why...",
+      "published": "Fri, 13 Jun 2025 05:56:18 GMT"
     },
     {
-      "id": "496ccfb4475ec12c417f78cd5ffa57e7",
-      "title": "‘I Don’t Know How I Am Alive,’ Air India Crash Survivor Tells Family - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/12/world/asia/viswash-kumar-ramesh-air-india-survivor.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 00:44:17 GMT"
-    },
-    {
-      "id": "25d930a37800623d8f7e6095bc29efcf",
-      "title": "Gaza Aid Group Says 8 Local Workers Killed and 21 Wounded - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/12/world/middleeast/israel-iran.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 11:29:41 GMT"
+      "id": "b4396b5316d3354b66f722917cf21c0f",
+      "title": "The lone passenger who survived the deadly Air India crash sparks interest in other sole survivors - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/plane-crash-sole-survivors-b5db9319ffa815005d21f5a09eff8cf3",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Fri, 13 Jun 2025 02:15:00 GMT"
     }
   ]
 }
