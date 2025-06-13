@@ -1,27 +1,18 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-12 19:41:09",
+    "generation_time": "2025-06-13 03:02:21",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "bec928e8e181c3c498146282dbb4a49c",
-      "title": "Your iPhone is about to get uglier - vox.com",
-      "source": "vox.com",
-      "url": "https://www.vox.com/technology/416501/apple-wwdc-announcements-iphone-mac-google-ai-glass",
-      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/06/GettyImages-2218819304.jpg?quality=90&strip=all&crop=0%2C11.99909887569%2C100%2C76.001802248619&w=1200",
-      "summary": "Your iPhone is about to get uglier And that’s not even Apple’s biggest problem right now Apple CEO Tim Cook took the stage at WWDC on June 9 to announce a sweeping redesign of Apple’s operating systems. Josh Edelson/AFP via Getty Images Adam Clark Estes is a senior technology correspondent at Vox and author of the User Friendly newsletter. He’s...",
-      "published": "Thu, 12 Jun 2025 11:30:00 GMT"
-    },
-    {
-      "id": "0568efab16f30ce6306941a7e2755d36",
-      "title": "Your iPad is your new computer - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zZDVTdEpyY1RlOFdEN0NyeTQ3QUFPR2xJN09vU2NDejJjUkZoRi1MQ1lySlEwUGNVZzZSaFlyQTFiY0MwTGthV1JQRzRQbTA5ei1qZ21rMVlYazBhdFhETjR6Sm5mS3hrUllDUml5azB0UGc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 15:37:07 GMT"
+      "id": "e9b2169e1c485e0d719317e746a41f3b",
+      "title": "All the Android features Apple announced at WWDC 2025 - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/apple-wwdc/686247/apple-wwdc-ios-26-android-features",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/DSC02062.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "summary": "All the Android features Apple announced at WWDCA little Dub Dub deja vu. The latest edition of iOS Doing Android Things. Photo: Allison Johnson / The Verge Allison Johnson is a reviewer with 10 years of experience writing about consumer tech. She has a special interest in mobile photography and telecom. Previously, she worked at DPReview. Apple announcing Android features...",
+      "published": "Thu, 12 Jun 2025 19:00:00 GMT"
     },
     {
       "id": "457f2d15e8d506079ddbafe036949d44",
@@ -33,121 +24,85 @@
       "published": "Thu, 12 Jun 2025 15:45:00 GMT"
     },
     {
-      "id": "53691d7bed3ee2656e6026dfcba13c65",
-      "title": "Microsoft’s new Copilot Vision can ‘see’ your apps on Windows - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/685963/microsoft-copilot-vision-windows-launch",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Copilot-Vision-on-Windows.png?quality=90&strip=all&crop=0%2C3.5043662306087%2C100%2C92.991267538783&w=1200",
-      "summary": "Microsoft’s new Copilot Vision can ‘see’ your apps on WindowsCopilot Vision is now available to all Windows users in the US. Tom Warren is a senior editor and author of Notepad, who has been covering all things Microsoft, PC, and tech for over 20 years. Microsoft is launching Copilot Vision for Windows today, an extension of its AI assistant that...",
-      "published": "Thu, 12 Jun 2025 16:00:00 GMT"
+      "id": "70049b637ada578bcd2329f8552be30e",
+      "title": "Apple Targets Spring 2026 for Release of Delayed Siri AI Upgrade - Bloomberg",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-12/apple-targets-spring-2026-for-release-of-delayed-siri-ai-upgrade",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Thu, 12 Jun 2025 20:45:31 GMT"
     },
     {
-      "id": "13623d492d87d35beb6b69ade96020bb",
-      "title": "Razer’s new mobile controller can stretch wide enough to fit an iPad Pro - The Verge",
-      "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdG55el9uMl8wWmk4NGl2T0xXSUN4SjVJOGFPSGVQQl9EYVAwYmJVTElwM3RCX0wtMVhJd2VzQmtrU29CLXM1RzhTendpQXV6WUhVNlRjVlRpTDBibVZsc29wM3dMR3lraFBtNS0xQXFCRUU5b2d6TW4wVGI0c1FUb1MwT2poVUJrNDBMQ3doaG4yQjhpeUE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 15:00:00 GMT"
-    },
-    {
-      "id": "144999d446d0766db7d2e430ca351677",
-      "title": "Exclusive: Samsung Galaxy Watch 8 Series Renders Reveal Bold Redesign Across Entire Lineup - Android Headlines",
-      "source": "Android Headlines",
-      "url": "https://www.androidheadlines.com/samsung-galaxy-watch-8",
-      "image_url": "https://www.androidheadlines.com/wp-content/uploads/2025/06/samsung-galaxy-watch-8-series-AH.jpg",
-      "summary": "Get the latest Android News in your inbox every day . cls-1{fill:#e32329}. cls-2{fill:#fff} Buy the Samsung Galaxy S25 Edge Exclusive: Samsung Galaxy Watch 8 Lineup Adopts Ultra-Inspired Design By Alexander MaxhamJune 12, 2025 Next month, Samsung will debut the Galaxy Watch 8, 8 Classic, and Ultra 2025—all sporting the squircle design first seen on last year’s Ultra, with returning favorites...",
-      "published": "Thu, 12 Jun 2025 14:02:54 GMT"
-    },
-    {
-      "id": "6436c780aca0afd4a1aa699f9c115cdb",
-      "title": "Metal Gear Solid Delta: Snake Eater Has an Online Multiplayer Mode Called Fox Hunt With Completely Different Gameplay Than Metal Gear Online - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/metal-gear-solid-delta-snake-eater-has-an-online-multiplayer-mode-called-fox-hunt-with-completely-different-gameplay-than-metal-gear-online",
-      "image_url": "https://assets-prd.ignimgs.com/2025/06/12/mgs-1749723318793.png?width=1280",
-      "summary": "Metal Gear Solid Delta: Snake Eater Has an Online Multiplayer Mode Called Fox Hunt With Completely Different Gameplay Than Metal Gear Online Konami is bringing back Metal Gear multiplayer with Metal Gear Solid Delta: Snake Eater, but don’t expect it to play like Metal Gear Online. Metal Gear Online is the fondly remembered multiplayer spin-off bundled with 2008’s Metal Gear...",
-      "published": "Thu, 12 Jun 2025 13:11:45 GMT"
-    },
-    {
-      "id": "c88416c860b4a6dac0e14bc1fc650623",
-      "title": "Google left months-old dark mode bug in Android 16, fix planned for next Pixel Drop - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2025/06/google-left-months-old-dark-mode-bug-in-android-16-fix-planned-for-next-pixel-drop/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Pixel-dark-mode-1-1152x648.jpg",
-      "summary": "Google left months-old dark mode bug in Android 16, fix planned for next Pixel Drop Despite introducing the bug in March, it may be September before Google fixes it. Toggling your theme still breaks dark mode schedules in Android 16. Credit: Ryan Whitwam Google's Pixel phones got a big update this week with the release of Android 16 and a...",
-      "published": "Thu, 12 Jun 2025 16:51:02 GMT"
-    },
-    {
-      "id": "222eb8356c0071a24e04af436db2c746",
-      "title": "iOS 26 screenshots could be an intriguing preview of Apple's delayed Siri rework - Engadget",
-      "source": "Engadget",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPajl0dzd2dXpKTEVyR0o0QklveTVFSi1Da0lybG55ODBTMjFzdHpDRkdwVFk2RWlwb3lEcTNGZ2J5TUFKSGp3OWhIMlZXeVBGMjFJUENHWW9kSkJMRG5iZUV0aWtNX0J4MlNqSDRJRkF2Y1RTRzNMVEVSQU1MY2pNV0ZMbzRhS0JWLTdrNG5mYUZEaU83QlRIZGY5S19IQTZxdW5qbHBDNW5Rc3FSdTRjQVZJZHhPTWZ1UGlEQWtaSQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 11 Jun 2025 18:30:05 GMT"
-    },
-    {
-      "id": "5d4a12fe8b10fac172d2c4c68ec8f163",
-      "title": "Apple confirms Siri’s delayed features won’t ship until 2026 - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2025/06/12/apple-confirms-siris-delayed-features-wont-ship-until-2026/",
-      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/siri-ios19-white.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "summary": "Apple confirms Siri’s delayed features won’t ship until 2026 In a new interview, Apple executives have narrowed the timeline of when to expect Siri’s delayed AI upgrades, confirming they will release in 2026 and no sooner. Here are the details. Joz confirms Siri’s 2026 release date in new interview When Apple first delayed the new Siri features that were supposed...",
-      "published": "Thu, 12 Jun 2025 15:25:00 GMT"
-    },
-    {
-      "id": "498addd2cf319d38739c643f7c3b2fd8",
-      "title": "A tiny detail in Apple's new software is driving designers round the bend - Creative Bloq",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/web-design/ux-ui/of-course-designers-are-losing-it-over-apples-corner-radiuses-in-macos-tahoe",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/oCfw6ChySqWTiAfNx2pdFj.jpg",
-      "summary": "Of course designers are losing it over Apple's corner radiuses in macOS Tahoe By Daniel John published 8 hours ago This one's like a red rag to a designer. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. (Image credit: Linus Ekenstam via X) While the fanfare of Apple's WWDC announcements...",
-      "published": "Thu, 12 Jun 2025 11:14:19 GMT"
-    },
-    {
-      "id": "d12c251bd58262e72a3a5d106cdb643c",
-      "title": "Samsung teases a ‘smarter’ Galaxy Z Fold 7 camera amid rumors of upgraded hardware - 9to5Google",
+      "id": "111d37a8bdea7c66e9447ff24a705704",
+      "title": "Samsung rolling out second One UI 8 beta as the program expands to new regions - 9to5Google",
       "source": "9to5Google",
-      "url": "https://9to5google.com/2025/06/11/samsung-galaxy-z-fold-7-camera-ai-teaser/",
-      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/galaxy-z-fold-7-camera-teaser-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "summary": "Samsung teases a ‘smarter’ Galaxy Z Fold 7 camera amid rumors of upgraded hardware Samsung is in full hype mode around the launch of the Galaxy Z Fold 7 (and, to a lesser extent, Flip 7), with its latest teaser hinting at camera improvements, but only ones related to AI. In its continued “The Ultra experience is ready to unfold”...",
-      "published": "Wed, 11 Jun 2025 18:05:00 GMT"
+      "url": "https://9to5google.com/2025/06/12/samsung-one-ui-8-beta-2-galaxy-s25/",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/One-UI-8-Beta-Download-Galaxy-S25-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Samsung rolling out second One UI 8 beta as the program expands to new regions Following its launch last month, Samsung has just rolled out the second One UI 8 beta while also expanding the program to some new regions around the globe. One UI 8 is Samsung’s Android 16 update for Galaxy phones. It’s not nearly as big of...",
+      "published": "Thu, 12 Jun 2025 13:55:00 GMT"
     },
     {
-      "id": "fd6828f8f4d34f259b3df25723959be0",
-      "title": "Google’s latest AOSP move spells doom for custom ROMs on Pixel phones - Android Police",
-      "source": "Android Police",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTy05VS1ZTFBHRjd6akcwOFNVZVNodHIxU201UkVNY2Y2d1U5WUxGaFdVdm9Da0t2MGs0ZDRjT0tpQlJqRUNSNVRiakszek8yZWFzdG5xRHFqd2dRcnZZMGNMM3UxZ3dTOEsyVnZSR0djdlZhQjVMWFdISFZTaVR4WFdFUGlHbWU1OWthNW5lY1JzSHc?oc=5",
+      "id": "8220729ae600f3e0a62b2da1f955b72b",
+      "title": "Bose's second-gen QuietComfort Ultra Earbuds have AI-enhanced adaptive ANC - Engadget",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/audio/headphones/boses-second-gen-quietcomfort-ultra-earbuds-have-ai-enhanced-adaptive-anc-130057912.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/vHwPpxFRW2Y2HYLZG8KBow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/796ba180-4620-11f0-b52b-bd8bf3e8fbcf",
+      "summary": "WWDC 2025: Everything Apple announced Prime Day 2025: What you need to know How to buy the Nintendo Switch 2 Bose's second-gen QuietComfort Ultra Earbuds have AI-enhanced adaptive ANC The company also has two new Bluetooth speakers. Thu, Jun 12, 2025, 6:00 AM MST·3 min read On Thursday, Bose unveiled its next-gen premium wireless earbuds. The latest QuietComfort Ultra Earbuds...",
+      "published": "Thu, 12 Jun 2025 13:00:57 GMT"
+    },
+    {
+      "id": "3275236b97c9a3fdf9fe187a7cf8704b",
+      "title": "Samsung Galaxy Z Fold7, Flip7 and Watch8 series bag more certifications - GSMArena.com news - GSMArena.com",
+      "source": "GSMArena.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdS04MFEzNVJHQnpqSnNpMk4xRHV2YWlVSmpaRFpwX05vUzJCQy10QkZVMVlUeWVCMmkxOG9XLXlkVWFVRVc2N0pXVXJQbVdpckpGYk8wd3VWanBPVDdRLXAzNkN1dkRZLUtRZU44TkE1U2x4QmlZZUtDaWlrUGktLXFmYTFmUDdBLUptZzVqYjY0MmhHNWsyNnZOclNjTXdYcDVoeDRzMG5MOFFuUXkw0gGrAUFVX3lxTFBuUC1DTVd5cWtBUGtKVVFCTEdldEduLTNMWHR5VnJKcGR5MWdBQ1FYdnUyd0lPVWt5UTlBb1k5TUMxUXlONWI4VEUyQ3VETlphTmJIUzduaDNXeG91Q0dLZ0d0Q2Q4N1pIVDBMd2RZUDJRQ1dtM0I4Q005Q2VkSkRPSXgzcWM3bWJZRmZJem9ZZ19qSUdnUEc3T252bXBuY3c1YW9za21GcTB6RQ?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 08:36:00 GMT"
+      "published": "Thu, 12 Jun 2025 19:01:03 GMT"
     },
     {
-      "id": "05af4087671852f3fc03620a18029fa0",
-      "title": "Google TV Streamer gets rare discount in limited Amazon sale - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2025/06/12/google-tv-streamer-gets-rare-discount-in-limited-amazon-sale/",
-      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Google-TV-Streamer-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "summary": "Google TV Streamer gets rare discount in limited Amazon sale While the Google TV Streamer isn’t the outright best Android TV box, it is a solid set-top box that is now a little more enticing as part of a limited Amazon sale. Despite the fact that there are cheaper and more capable options littering the market, discounts on the Google...",
-      "published": "Thu, 12 Jun 2025 11:23:00 GMT"
+      "id": "9ae7283602011c683adcf19df3135f3a",
+      "title": "Google Pixel 10 may fail to live up to our MagSafe dreams, after all - Android Authority",
+      "source": "Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9naTNKWThhVUlQRDdkU0RqWVpYZk9FTHQwSjB1ejNvNXg4UXkwMHBOWGZ4NElrLWZoU3l3MGZSTndKNW8xUDg4amMxdDlhdVlvOW5hNnlJa29kTmFZeEt0VTZkZ1F5Rkk4OGc?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 16:57:53 GMT"
     },
     {
-      "id": "1462ef30c54fd4780c3cdbfa306b5714",
-      "title": "Google Pixel 10 might catch up to the iPhone in one area Android fans have been wanting for years - PhoneArena",
-      "source": "PhoneArena",
-      "url": "https://www.phonearena.com/news/google-pixel-10-might-catch-up-to-the-iphone-in-one-area-android-fans-have-been-wanting-for-years_id171253",
-      "image_url": "https://m-cdn.phonearena.com/images/article/171253-wide-two_1200/Google-Pixel-10-might-catch-up-to-the-iPhone-in-one-area-Android-fans-have-been-wanting-for-years.jpg",
-      "summary": "Refurbished iPhone 14 Pro from $461 Google Pixel 10 might catch up to the iPhone in one area Android fans have been wanting for years A small but long-requested hardware shift may finally bring Pixel users closer to a true MagSafe-like experience. Referential image of the Google Pixel 9 Pro. | Image credit — PhoneArena Google is reportedly preparing to...",
-      "published": "Wed, 11 Jun 2025 23:27:33 GMT"
+      "id": "dc37408c6002e36195717cca696917b7",
+      "title": "FUJIFILM X-E5 Announced - Rangefinder Style Camera With In-Body Stabilisation and Film Simulation Dial - CineD",
+      "source": "CineD",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRE1qNm03UERmWk1xUTN4b1RiZDdYb2hGbDdBRFlWODJnVUVobmZtajhXNWtwc0M5VFJSc0UyODllNTYzelV6dHdsY3FHWm9DY3RCV2JEeU5PUDVPMnJ0NTd5NlFuNGZLazg0akVqck9ybkk3aVdPRDBuZXZjZ1EtVG02eTZhaHhyOWRsa3liejIwMTFlN2VLR2tsYXBINXFzRHpuN0NHUVV3ekEySUhaRkdXdW15aWhHTTRFSjdjcnA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 10:05:04 GMT"
     },
     {
-      "id": "45b0ed2f0bdc8c3e0a47bebfb845577f",
-      "title": "Google will reduce battery life for some Pixel 6a phones to prevent overheating - Engadget",
+      "id": "3089334214c4c9a4516dc6be83720ca9",
+      "title": "Android 16 is out, complete with new features for Pixel phones including live notification updates - Engadget",
       "source": "Engadget",
-      "url": "https://www.engadget.com/mobile/smartphones/google-will-reduce-battery-life-for-some-pixel-6a-phones-to-prevent-overheating-225355736.html",
-      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-06/ecd2c780-4714-11f0-9fff-3202f5a3f1e5",
-      "summary": "WWDC 2025: Everything Apple announced Prime Day 2025: What you need to know How to buy the Nintendo Switch 2 Google will reduce battery life for some Pixel 6a phones to prevent overheating Owners will be notified if their smartphone needs the mandatory update. Wed, Jun 11, 2025, 6:53 PM EDT·1 min read Google's Pixel 6a has been a winner...",
-      "published": "Wed, 11 Jun 2025 22:53:55 GMT"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSmIwMzZlVWpjV3p3elcxaTdqN2JtRjFfUHczVVJWQk1MSktSeUV1R3MzTEE0VjJkY0lDVFNGdGJxNVpCY0xaSW9JZ3p4cnVFX3dYVGNWZmZfM2N3T3ktdGNlV1BIT2dENHYwaDdyMC1ENFpMU0JheXozdTRWb3lZT0EwU3Z5LWtuQl8wS3AtYkVmazNVZ200OW5Md3VieUs5eUNnakxqSmY0MXpzRFNMNkF0aENzV1pNeFdpVllLVFdLOGp5T1NIcm9aOGxPY0lEWVJhRjI5SVFVMl9y?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 15:40:32 GMT"
+    },
+    {
+      "id": "0558b928c6eb9911beea27fcd67e52ed",
+      "title": "Steve Jobs' Iconic Speech at Stanford Now Available in Higher Quality - MacRumors",
+      "source": "MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VMFZ2RDBzcTJydUZIVkFqTjVUV1FyS0VNSXdJdkpkd2ZZS3E1WUpiWFVrdm1OampBcGl4V0lqRGZUQkZIcDZ6RW1HSEg2QUx0bXZVLVhBaUtrbm83TnNLRkVOWUQtZ25pQkhSMy0zZmZfQTF5Ulh2Z0pfU3EwUQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 16:02:03 GMT"
+    },
+    {
+      "id": "ca57d4d70f95cab237234fb72bde0b57",
+      "title": "Apple Highlights Two Smaller CarPlay Changes on iOS 18.4 and iOS 26 - MacRumors",
+      "source": "MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRjFoa3NKS2hhWjlTUHhDaWgxSW94MlhjQUVuNFBkdk5MXzRDc1NBdHdmY0NTZVhkTUtIdUNkRnpIUXdfc3M2ZURCTzdORkQ5WXZGUTJ3SmRENUw0U0RqU2lueVduQ3VBNmhleWhVYjV4WVdMMHlpaE9URExEcXBDY0diMFN5VWZKNHc?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 14:16:59 GMT"
     },
     {
       "id": "d98a8591a82b5e3621e4e821b6fdb0ea",
@@ -159,31 +114,76 @@
       "published": "Thu, 12 Jun 2025 16:00:00 GMT"
     },
     {
-      "id": "c15a785c41673508b7adfd87caad714c",
-      "title": "Snapdragon 8 Elite 2: Latest performance leak raises hype with monstrous multi-core numbers - Notebookcheck",
-      "source": "Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNREFYZ1RMQjdBbFBKdnhEakNFdUdKZzNhLXlfdUQ0QVl4aEJ3Z200dldGX293ZkY5QWZuaWJ5c2YyWU9PNjNVNEVYaUFFaXFMZTNCOTE3c01XaGk3WkxDMjBETUJCLWJia3M0dE1DMFhoMldlT3hXWEdHbXRnY3EtRE16SXg2b1c4ckJ3NXRQTWZuak54QXZQQ2Q5X2F0aHlkSEk3bWZIdzZFMGdzQzIwYkFPT1RHamVaZVQwZGd3Zm1qQlFxdHV5b09kcDdsZXVZ?oc=5",
+      "id": "53691d7bed3ee2656e6026dfcba13c65",
+      "title": "Microsoft’s new Copilot Vision can ‘see’ your apps on Windows - The Verge",
+      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDFTZUNOV01lekljSGlKY1pXWkdfLW5TXzlqeEJOdV9nUnV5WUs2bHdRdTZzUG1zLU9La2U5UXdpTVQtR0ROWGtUM3RPODlFUGI2XzNBYjM2LTl2cXVKZjRXLU10RE1yVC1jel9fQ0dJbUpuR0poWl9FY08xWDRheU1B?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 06:22:00 GMT"
+      "published": "Thu, 12 Jun 2025 16:00:00 GMT"
     },
     {
-      "id": "7d2dd59231cfb7f3095830149f4d35a0",
-      "title": "Apple’s updated parental controls will require kids to get permission to text new numbers - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/685582/apple-parental-controls-child-safety-features-permission-text",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Apple-WWDC25-iOS-26-communication-limits-and-safety.jpg?quality=90&strip=all&crop=0%2C5.1422031624089%2C100%2C89.715593675182&w=1200",
-      "summary": "Apple’s updated parental controls will require kids to get permission to text new numbers﻿Parents will also be able to share a child’s age range with apps. Jay Peters is a news editor covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme. Apple is introducing a suite of updated child safety features, including...",
-      "published": "Wed, 11 Jun 2025 18:07:46 GMT"
+      "id": "615a4ee332a85c462d1a5a43646fc747",
+      "title": "iOS 26 makes Apple Music Replay fully native inside the app - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSVJaakFuZ1RZUXFlYjNUNzkwSDgwZlJINS1xR1FjcW5Tci1IdVVpcVdzLWVQdjZvQUJfZkROVG1JUjNINDhEMFQ0dmlWSFRqZjRGcFB4WDN4LUFDbTV1Ujc4SU80azlHbWlOVHJpejFSM045MjZhenZ2aktHd2s0R1ZobU5zSS1qNkxJc2RNazJCV1doU2c?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 20:39:00 GMT"
     },
     {
-      "id": "ee6c0bd32752cc2d470a3558a0040aca",
-      "title": "Amazon’s note-taking Kindle Scribe is the cheapest it’s ever been - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/685049/kindle-scribe-beats-powerbeats-pro-2-deal-sale",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Amazon-Kindle-Scribe-Deal-Header.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "Amazon’s note-taking Kindle Scribe is the cheapest it’s ever beenPlus, we found deals on the Powerbeats Pro 2 and Ring’s Floodlight Cam Wired Pro. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Sheena Vasani writes about tech news, reviews gadgets, and helps readers save money by highlighting deals and product...",
-      "published": "Wed, 11 Jun 2025 16:15:13 GMT"
+      "id": "43c85c46749757fc7375fb414cecece0",
+      "title": "The ‘Most Unhinged’ AI-Generated Gambling Ad Ran During the NBA Finals - PetaPixel",
+      "source": "PetaPixel",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVU1JN0JRTFFNOVU3UUh5RVJWQ3Z6LTk4Y0p0eDJLdnhJSzVLeXlUd015MHVfLTRSdldzUWdCck1BRHAyckNMdmNQeUZScDlZMFFucE4xcWc4NWNOZVc2WUZjT3FDNWt1c3d0N0lpZUkwY0RXeGFIVnd2eDUtSFRYTVY2Z3VCTVc4b1RmcnJrbWptajk1WnlJNGxidmpuN1RFb25Lcw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 16:05:13 GMT"
+    },
+    {
+      "id": "e56ca8870744fc27f9c95feb2d339624",
+      "title": "Amazon Slashes AirPods 4 Prices Just Before Prime Day, Now Closer to $0 Than $200 - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa01Vdld3QnRKV1BmbkZfMkF4S0RnLXkyaUQ5MG5qTUVsdTJwa3Rid0Y0NXpfV0NDUEI1TUVYY3BQcGRfR3lCcTVHM3VhMllDWGpud01xeXN1UlNTaWtNSFhHMkZMU2txR3RRTFlOYXRvNFlBTmwydzhKcUJ1VGxZeDczRWRBRzBWSENvZ1c4WUFkb1VfQ1NFV3VoN2hJN01DOVpUbDJoRjkxTU9Yanc?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 13:25:15 GMT"
+    },
+    {
+      "id": "a8a901c1fcfe53bafc7f36c0a317ebe2",
+      "title": "New Garmin Venu X1 is an ultra-thin smartwatch you can wear all day - BikeRadar",
+      "source": "BikeRadar",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWYxMDJaajI0YTMwNy1OaV9FSkRWSVJQUnBzbHdXOVZlNkowbWZIal9pS2tGdEtSbk13UUZYMzFYTGFRSWdTRHlGcGhBTHluRjZIOGRLekwyd1ozMWRwYU5TZWh1aTRrLU9LRVgtNHBTWmx5ZG1iYTU4VkRSOEI2RTFybWZ3QnU2a3F3cXdSUGtLVlo4WjVmZWhUbG5fZWM?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 05:04:00 GMT"
+    },
+    {
+      "id": "a4de1dbacd8c6507338a976386bf61d2",
+      "title": "MindsEye Dev 'Heartbroken' Amid Troubled Launch as Players Report Success With Refunds and Sponsored Streams Are Canceled Last Minute - IGN",
+      "source": "IGN",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNzdKd0FkRlZ1SmZYSzdjSEREdGExMktXdTFwd2JlWWVHOUpKb01GdHBXQ2IxbHZfWWhGcW5VUm85STJSa2QxNW1OV2xiRWJiN0dMZzk1cHNlNDZ1bDRnMVNzZnZGNXB2dF9ZODc1VHVmVFNTR3lJb3JLTjFjT3RfLTNSWGo0WGpQZDlwd0hqekhwaUFlQTl4emw2THQ2eHo2QklzX0ZpSnRYNGpIc05nX2pNdjVpV1JpMFZUcDRxN3d3YVZ3Qjl3eGNmWVNmSjFWU2MzV0RENU1mbDRFNVVnX2lwU3piUHVmTDhUQlhEeDNFQQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 14:53:01 GMT"
+    },
+    {
+      "id": "f97f4a195a5bb67aec7e5056e7a3e3b6",
+      "title": "Aurora alert! Moderate geomagnetic storm could spark northern lights as far south as New York and Idaho on June 14 - Space",
+      "source": "Space",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZjlRLUJDNmNFVkg3cUZJVWJHYkswcW1mdFlDT2NNS2VKMjEtbDVJY0wyQmRycF9CSS1yWU9DamJleE9DclR5T2lLempRQmV4WWhpX1ZpeGg1RjAxTVZxa2xwaVZLV0JHcnlrZjg5NEY5WkFoaHh2UGtETTI2VUhBeFczMHRrRWlaQkYzWHN1N05uWnZPTmhvem5TUUhKWUJNZElvVGZRRl9OMjhkQXM5MHVRNFhwNDhKcS1xd25CRklqYzRjanNWeVFUOU9fRU5wU2lHTnVnTEJTaDBEUk9kTVBOdHhyZUg4WlE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 14:34:04 GMT"
+    },
+    {
+      "id": "44d0fb2fd5105f1504242b6143bd928d",
+      "title": "Silent Hill remake from Bloober Team and Konami announced - Polygon",
+      "source": "Polygon",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Db3FWSmh2QVdxTmNJYUtTcmhZMXpMV3QzMlJJTGtidjg5YXdYNV9VNmU3Q193ZWoxYU5HZGJLcmJNcDAwTGl2RWFyNDk1enYwckVLYkdSaTViMk5zM2w1dE1MTEhPcWpHVkFBQV9Pak5nNUwyMm1ma0xMTW1wb0U?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 12 Jun 2025 14:05:16 GMT"
     }
   ]
 }

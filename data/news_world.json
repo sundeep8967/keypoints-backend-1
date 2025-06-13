@@ -1,57 +1,101 @@
 {
   "metadata": {
     "type": "topic",
-    "timestamp": "2025-06-12T18:33:23.102222",
+    "timestamp": "2025-06-13T01:59:01.839669",
     "info": "topic: world",
-    "count": 5
+    "count": 3
   },
   "articles": [
     {
-      "title": "Chaos At Site of Air India Plane Crash - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN1JXUUpGLVFpcWN4SlA1QmZKT1k1YTByaTl0ZVFNUFlFUW1DZTlTeXAwLWpqRzRRUFRyekVaYzV1QkNKRHZjSDM4RDJkLVdKRjlYMHBZNlBCcTNaNk54TzBwdGdwZzlMb2d4dHEycDdrRjVmXzVOTlNhajk2a0tRdVZwVQ?oc=5",
-      "published": "Thu, 12 Jun 2025 16:56:24 GMT",
+      "title": "Dow futures fall 600 points after Israel launches attack on Iran: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RTE1IcmJfQjF1VkFwSk9jNkEyZWpkQW1qNUswTVZBclR0VjNnVXd1ZnNOcW9NVVZRSnQ5ZnRGTjBuOExJRWhEaXZWZ3dRSkpoaVFxZldpdVh4aWtRUG1DMm4ybXRyUEtJdWlZdmpjUnk2eWFhRXFr?oc=5",
+      "published": "Fri, 13 Jun 2025 01:25:00 GMT",
       "published_parsed": [
         2025,
         6,
-        12,
-        16,
-        56,
-        24,
-        3,
-        163,
+        13,
+        1,
+        25,
+        0,
+        4,
+        164,
+        0
+      ],
+      "source": "CNBC",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RTE1IcmJfQjF1VkFwSk9jNkEyZWpkQW1qNUswTVZBclR0VjNnVXd1ZnNOcW9NVVZRSnQ5ZnRGTjBuOExJRWhEaXZWZ3dRSkpoaVFxZldpdVh4aWtRUG1DMm4ybXRyUEtJdWlZdmpjUnk2eWFhRXFr?oc=5",
+          "title": "Dow futures fall 600 points after Israel launches attack on Iran: Live updates",
+          "publisher": "CNBC"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVc0ZkI4eGRqZy1reEg2b0pOd0QzNVpFQm1adzV1R3hpVGtIQUtDN0xFSVlLN1NranhycEtqNFl3TFdONVZpU1J6NW8teERVMmdGOXMxRlRnWkphbkN5Q3NaVXFKSHhRZGI3eXF4dl8yRGdfMVdGWS1hcTlrNWdBc2c1OFg?oc=5",
+          "title": "Live updates: Explosions reported in Tehran as Israel strikes Iran",
+          "publisher": "CNN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hWjhIYklJUmthekFCMXhWdV9KOURKVkU5M29LSG9nUmwzcng4TFh0U2sta041bEpqd2drbHFVaS0yemMxc0RBaXlOUk1rVE5IdVRBcExfdENER2tVeFA4Ynp5RS0wb2pSdUJpcERqMWtfMWswcm8w?oc=5",
+          "title": "Israeli Strikes Target Iran's Nuclear Program: Live Updates",
+          "publisher": "The New York Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nUEkyelptTzBXV3dKdW5ISmU0MW9nZk4tQUh0Q1FNWE02cVY0S0M4ZFJIcWNkdjJEYVBMVy01OXhmS3FTOXljZllSVjhLWk83YnJlZlJ3UU5qUHBsQkFHNmFkTlExbGdBeFJRU3pGTHVXTGFWQy1Naml3?oc=5",
+          "title": "U.S. told Israel it won't participate in an Israeli strike on Iran",
+          "publisher": "Axios"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXBDR1c5ZVpvQURTWkFFSFlTMUhVRFZ1NV9ORERFbDV2NzlrTmloZU9UR0RBNjY0bEZROGR6OW14RGFseDB1MnhJSzBvQWwxaVFaaDRxZklQbktxX2UzMHk0blJxMm5RbVhfWklMNjFBLVQ0czlKeUhLNTEtME5EaTBkRW5Vd29QcFd0SW1IUEtMYjJqbEHSAZsBQVVfeXFMTmYxRUJiMW42X1FkX21zYmxQaFF6MjNzTFBjMldjMGhxcGJUZGxmQ0dTWlN1NzZoNG96bm4wR2ltZ3Z5RTJWNkUtN3o1eVRqMXp6bDNTTjB6Q2dQYk9FdEIwaXA3Qm1tX09LeVdHX0tuZkhCSEp2UWZxeC1hS2FqX1MxNnd5NVRiTDNiRWl2NUlreG5MVDNEUl81NzQ?oc=5",
+          "title": "Sounds of explosions heard in Iran’s capital, Tehran",
+          "publisher": "Al Jazeera"
+        }
+      ]
+    },
+    {
+      "title": "‘I Don’t Know How I Am Alive,’ Air India Crash Survivor Tells Family - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMDBJaWVQZlpIZjVGaUpDbVc3RlNkSWRZWUM4YXJVckVMQTNlakI3dlBXc3BBX2pIYS1oQWR6b25LNFFXMXU3cnE2VzQ4OGRXemExcHl5RGdfR0dRN0o2dmx5cXRzTUhmZ1F3SUcyY2RJQTNQSm9ybFhaZ0R3bGtIaEVyaGRDd095Y3BRbXB5MktmNTRO?oc=5",
+      "published": "Fri, 13 Jun 2025 00:44:17 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        13,
+        0,
+        44,
+        17,
+        4,
+        164,
         0
       ],
       "source": "The New York Times",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN1JXUUpGLVFpcWN4SlA1QmZKT1k1YTByaTl0ZVFNUFlFUW1DZTlTeXAwLWpqRzRRUFRyekVaYzV1QkNKRHZjSDM4RDJkLVdKRjlYMHBZNlBCcTNaNk54TzBwdGdwZzlMb2d4dHEycDdrRjVmXzVOTlNhajk2a0tRdVZwVQ?oc=5",
-          "title": "Chaos At Site of Air India Plane Crash",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMDBJaWVQZlpIZjVGaUpDbVc3RlNkSWRZWUM4YXJVckVMQTNlakI3dlBXc3BBX2pIYS1oQWR6b25LNFFXMXU3cnE2VzQ4OGRXemExcHl5RGdfR0dRN0o2dmx5cXRzTUhmZ1F3SUcyY2RJQTNQSm9ybFhaZ0R3bGtIaEVyaGRDd095Y3BRbXB5MktmNTRO?oc=5",
+          "title": "‘I Don’t Know How I Am Alive,’ Air India Crash Survivor Tells Family",
           "publisher": "The New York Times"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtQnMtVldzc2pvanNqZndTUTNBSklEcVdqZzBlYk5CVFhBWkNlZUtCclcyaWlxcS1ZMHFRZmJqdWl6UWdTSFppeVllX3p6YmtyN2RBUXY4Z0JUUHpwSE9VaU5hbkFSOFhkalNIMU1BY3ctR3FqM3lz?oc=5",
-          "title": "Air India crash live updates: Plane headed to London crashes with more than 240 onboard",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcHRDWVZ4WkJVZnF1N1V0SzVvZ3A0OVk0ODFOdkhQcW1wV1VrbnREZTFzSWRnSDk3QWpVMm45Wm9DUUM2eXJsaGlEY0VXejNKZmJseUJ1QW9yaDlsU0NBZjM0Q2pEQVh3YVRuWmZJNVpzcG1zWFlxT1RyT3d2MWh3R0JFNA?oc=5",
+          "title": "Fiery Air India crash kills 241 people aboard, leaving 1 survivor, airline says",
           "publisher": "AP News"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTVW5TVWw4MjcySF95WjBtR3pqWmJmUkUyZktESTFqOTd0T0pWUGwwSHZVN0RkU3dJMXNrV005eXptVS1DV2J4Q2l6dVoxcWVkRURoSW1XMWZVd2ZLNEMxTmE5eXctQjRKRFZrNC1nZzdNVnctZUVtbXE3R3ZhZw?oc=5",
-          "title": "What Caused the Air India Crash? Experts Study Video of Plane’s Descent.",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOG1RZU9KYUU4enFNTE5XUFRjWW4zWEUwS09xd3NyRFg1cU0xR0x5QVhNcUQ5LXZuQnJDSEpmdXBnX3hlVld4SmFkQkJPLTQwSzhmTU5PeTJWRXBUX1VmbVRacmtULUl3TkhvaXEtdXkzVkk3YVRKcmhTRHVaZXpNTnRxUE82QlE2YlHSAY8BQVVfeXFMUDV5czlvOU1PSXZzOXlGNl8yQW15RGhRRWFvU0h0SFRCTUVXQnBfQlNiRHVfR2hLQ24wa3hsWGhfUi1RMnFuRnBpU3dzd055MmM4WHc5Z3RGeGZaTTFRU1hMMW9NZVN6U2xMek0xNzQxaW1teEVUM29VYnBTZHhEaTNpNnFwQzV6ZGYxZEwyMEE?oc=5",
+          "title": "Who is the sole survivor of Indian airline crash that killed 241",
+          "publisher": "The Hill"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lTXEzVldSNEpOZTNXakhDbDNHVm5IRC15TW9KYkJUR3JGbmM4OEVwbTYwT2lZd3ZkZ1hJbWlsWE5TRTgzeFp3N25waTB6TVdJY3BEN19Yb2tObjR3enpBRm9EcGNjUnYybllHOEJQck93VGNQMTZVNUFiY2RlZw?oc=5",
+          "title": "Deadly Air India Plane Crash: Photos and Video",
           "publisher": "The New York Times"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHNneV9TUjFPbW5ta0ROQUFYMVJaZDF5Y3NVX2JKS3g0cnRTWnBOWkVSMEdId0NnUEsxVHl2T3UtR2NMZ0Etdm9mM3luX3Zrb1RfUDRUdEZCR1RBX3FQUm5TQXBac3ozMFVGQWRHMjJNMjIxWm1TSGFuNGVVbFQtR0tPa2VsOWdCUzNEQUw1aHppRVZhcnRLMzI5d2dhVDkxWDc0ZHNmQTA?oc=5",
-          "title": "Air India Dreamliner crashes into Ahmedabad college hostel, kills over 290",
-          "publisher": "Reuters"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTTFXTVU3SzF6OGl5ZWc5NUdMcU1ZRENCUTZkX2JUZXh2R3pSLV9LNnBieGZzWjZIeWxrLXpvd1dQY2pjMndoOXdwZHdCNjJwUHlGeExiTlNkUUtzaUo4U2hFQzlPTkVIaHdJVUxPM2M3dHo5QTdsRU5NRzczVEZ2bHVhRW55RGw3WnpmU1pneGNCbnZ5VHBocWYyREplUXRRTnhR?oc=5",
-          "title": "Air India Crash Is First Fatal Incident Involving a Boeing 787 Dreamliner",
-          "publisher": "People.com"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVjJJYTlwYlF2UnZkUF8yc2VyTjBoS3VwdkVGUUxGek9UczRkNkZtUnl1bF9seVNQNm83d0Z5OXNGVWVOTUJRRGd0Q3FuSTd4c0VCWGItUlA3ang2eXotbHFNVzdKWGt2M2Z5SzFwYnZtcHhNZlZVYlo2N0NuMVRLb2RBQQ?oc=5",
+          "title": "British passenger in seat 11A survives India plane crash, reports say",
+          "publisher": "Yahoo"
         }
       ]
     },
     {
-      "title": "U.S. Embassy in Jerusalem Braces for Possible Israeli Strike on Iran - The New York Times",
+      "title": "Gaza Aid Group Says 8 Local Workers Killed and 21 Wounded - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QOUJBa0hwRjhSV2oxM0VfOTd5djlfUU1HdVE2OXhlSVpZZmtZQUdwRlVEc0RjcjNTZVBLU3BrUzd1QWcxb1ctTFZCZ09ad014dDVZZ2ZGNHdZbS1fcFdvWUpqWlFoNVVEMFlNRU0zWi1nM2NCakpz?oc=5",
       "published": "Thu, 12 Jun 2025 11:29:41 GMT",
       "published_parsed": [
@@ -69,160 +113,28 @@
       "sub_articles": [
         {
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QOUJBa0hwRjhSV2oxM0VfOTd5djlfUU1HdVE2OXhlSVpZZmtZQUdwRlVEc0RjcjNTZVBLU3BrUzd1QWcxb1ctTFZCZ09ad014dDVZZ2ZGNHdZbS1fcFdvWUpqWlFoNVVEMFlNRU0zWi1nM2NCakpz?oc=5",
-          "title": "U.S. Embassy in Jerusalem Braces for Possible Israeli Strike on Iran",
+          "title": "Gaza Aid Group Says 8 Local Workers Killed and 21 Wounded",
           "publisher": "The New York Times"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yYkVzZlhGdExtZnNqV1JiaEw3eEdHcEZwaUxTZWZaQXZFU05xMTZ4Z2d0TGF1b2hsSmZrRlNTbFRFXzhTVFI0M1pYZ2NmeW92SVhqZUpMZjNLWU11elk0dlREcDJ2VFdVY2pBa0szZHVkM3VQbHJPOFlkb1HSAYIBQVVfeXFMTkZpeUFzeFZIaGMzbUducE8tcnAtTHdaOU1mcndhSUpvVWNFNGdIeDFZMElsbE5RRXZHU1o4U1NQd0pkYmo0TnZwY0tRUEZUNHA1ZDI1aTRFR054ZzV4Nk5BMXdNNlRyVTVzWU0wa3ZCZno1X21fMjVZanZmeHpFWnRLdw?oc=5",
-          "title": "US withdraws some diplomats and military families from Middle East amid Iran tensions",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMXY0cnE1VGUtSWl2d1NObE1mT19vNXYzNEZuVVVRd09GOWF1RlJ5d2paQnBuNHUybG9Ob3NDSkU0a0VMV1BkYnFLZDVBSlFSVjdnMzFPNkY1QW85SzZobk5VVmllOFNlMk1RVTRlQm9fNm5VRGJwQk1hQjI1bWRqVnpLM09YQdIBiwFBVV95cUxNNzdWN0hxR0p4UHEtSmtYR3IwUWVBSFNENGhsQm9uWjlIeXNHRDU5Q0tJT3Fxd21wSHUtY3VfeUROZS1kX0ZZMmNYNm1aWngta1ZjVDZiNGNiZ25GcWJianh3Q0IwVXo3a1hiYkQ5UkJBRHJKRF8yQmVFY3Y1Z2JmZW1NNnlydzdDZUdr?oc=5",
+          "title": "Gaza Humanitarian Foundation says Hamas attack has killed multiple aid workers",
           "publisher": "CNN"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTWlNRkZoeVNRNlgtWEF3cjN1dmVEOGhGNmNfdXRidHp3SXJ2aFFsRm9qbW5VWEFJNG96YjZ5SWhoVGFpS1A0S1psd3phLS10bXhvUC1NQTBGRGpLYi1mOVNZVE9PMHJtdWVmYVI4Y1NkYk83NjA1LWZ5NEZzNEpfdTI5c2hNeGtweUZMb0ZUQlRXODU3MHViUFZjT2RVRmtYQWFTQlprUllfUGlJR2I2b3RsV3hnRjdHS1AwMFVCYVVKR25RQ0RrZmtrR2xfWFk5cEZQRzF0VjhWdw?oc=5",
-          "title": "US advises citizens in Mideast, North Africa to exercise increased caution amid regional tensions",
-          "publisher": "The Times of Israel"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0VUR1FjekxicHJTZlBZazh0aVpkT2YwWnI5c2tmb2trUXpQUUpOT0s1VWZGVzdtdm1DS2Nad0JMNGZyVFYxTUhZYndDQV8tUXFwdEMzRlNJY0UtVGpoVmlyRk42cWttVTYteFhoZ2l6am5XS2U4bzBwVGdGTC0yQndYR1RTY1hsRVRpSjNrT19zcWgxMEtvOEhXZzlkMmZ5MEh3d2RZUlZxWlpsaG1KLWZB?oc=5",
-          "title": "US to Pull Some Embassy Staff From Middle East as Tensions Rise",
-          "publisher": "Bloomberg"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUxqWWxqTG1Ea1d4TnBvNU5sWWw2WWhfa0JtTzBYMUhqWV9EZTRQZ3FsRkhGbjc0MG9jemZKdzY0cWJZRVdzZ2RXakk4cWFPLV91WVVMbnZfLTRQQjhYWWZLVElrbXBZbUlKM204akEwSS1hQUZUb0laNzM4TWVzRUU3ZFdGa0VpY0FRbTJtZUtOUQ?oc=5",
-          "title": "U.S. shrinks presence in Middle East amid fears of Israeli strike on Iran",
-          "publisher": "The Washington Post"
-        }
-      ]
-    },
-    {
-      "title": "Anti-Migrant Rioters in Northern Ireland Set Homes Ablaze, Then Refuge Site - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbVFEb1JKLTlkU1U3TlVrX0YwY2xIejVOWkpWMU1hcnpNblFaVjB4SVFUUGpfampPN01XSWl6Y1hSckVqazI0VWRSWmlFT2d4Q0tIRm5PWW9zbDJQYjR2dGtBMWFPdEdLRnRwWUlDVlVma0FqUU1HWmh0eG81S3FHT2RBaGNCRWtBSzdRclNlS3VGVjNMMWlPb3dwRQ?oc=5",
-      "published": "Thu, 12 Jun 2025 09:40:22 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        12,
-        9,
-        40,
-        22,
-        3,
-        163,
-        0
-      ],
-      "source": "The New York Times",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbVFEb1JKLTlkU1U3TlVrX0YwY2xIejVOWkpWMU1hcnpNblFaVjB4SVFUUGpfampPN01XSWl6Y1hSckVqazI0VWRSWmlFT2d4Q0tIRm5PWW9zbDJQYjR2dGtBMWFPdEdLRnRwWUlDVlVma0FqUU1HWmh0eG81S3FHT2RBaGNCRWtBSzdRclNlS3VGVjNMMWlPb3dwRQ?oc=5",
-          "title": "Anti-Migrant Rioters in Northern Ireland Set Homes Ablaze, Then Refuge Site",
-          "publisher": "The New York Times"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ydGRqbkR1Vk4wXzNRUDBfNnAydjVkSGd6V0xHekVnSlpXWXI3b2c0MnhkU2ZneWdGZDZrNkMxYnNHZUhaNTctaTQ1R2hLR2pqRl9ndm9lSjBTdw?oc=5",
-          "title": "Chief Constable: Families hide in attics during 'race motivated' disorder",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmbWtJVDhmb3I0bmhsNXJ5Mzc2M1cwNXNwLUlTNWIzeXBJUVpwbHo3eHFVMFV6LUctWTVJbVExSUl3QVl2S1FnT0hmYTBpbnhIOUtFeWhwM3JCQQ?oc=5",
+          "title": "US-backed aid group says Hamas killed at least eight Palestinian staff in bus attack",
           "publisher": "BBC"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVVJ6QVF4ZC12OFJDMVFXZVNBcHd4VnFSNV9USld5WEdBVTgxTXRweGE3VW5kNVRfenljOUpQUEpzVFFUZUlLM29yZjhEM2JVcU9DV3JDbVR0dy1mb1A0OXAwUF9MaGpSZ2lhYVN5VXlHQmplVFdDb0tNSFhNNGdFc2ZzVDJjRjJnakZZRnlUTUxsYlBQRkxKZDB3cjBGYTg?oc=5",
-          "title": "Ballymena riots: History is repeating itself in my hometown and it’s terrifying to watch",
-          "publisher": "The Independent"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHJyenFQU1JtamZqbFY2bnZiOUtZZFVTSnd4QmgwSEVyMEo5VzV3aUhPRHVaVFgwZTB6c0RVTm52LXJhNHVWT2dhOVdFaGhXNzl1TUQ0X0h6SkNoNVVFdmdBZnJ5UTA1VXQ1Z2lnMUl6YTR5dS1UTFV3S3k1QlRMb0ZZQ0VldmlzSUwzZmZCa2NNVVdzc1FZSVNxNFp6QmZHLXd0bEp5eDNHT1RlZ2pHdXJn0gG3AUFVX3lxTE40V3lnYUVad2cyT2V0a3kwbjhUTG1VdnhXRTN2UGlpeWRxeWcyVWZHaE5PSEkzOUVhQzEzVjFXSFo1NnZHdHhsOHlVRF8zUUtpZk5NUEwycUVWbHdrSGRCenE2SHpKeVZfSXFmWm8xYzVndHozdFhhV2FpU2gxRHlVNFFWVE9KVnU0RWJzWF85ajdfc2xtXzB4VWVYNEtaeTlxUm1XVnFpX1hURzZ1cV9RbTFEaVo5SQ?oc=5",
+          "title": "Hamas police says it killed 12 members of Gaza’s Israeli-backed Abu Shabab militia",
+          "publisher": "The Times of Israel"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbXpjbThYVWxhRTlvVGpONUhhX1JodEZYeTlpTjJ4dFVVYkxqQkZ5ajVERWEzU1I4SVdlbFlGTTRmT1Y2YXg2WmhMQ1ZycXlDMXJvWWhiWWhTVmdENUpVLUFRcVVaYkxHVUY4LW5pM3ZTYVFVTDJrWTBHOHlzeGQxVElLTnpqSnNqQTBfUXVVZWZmSHlnc0g1R0NhUjhFRXlvLTBNSUhzR2laUXNDR3ViVlF1SmgyOHNDbUtReFdNMWs?oc=5",
-          "title": "Filipino families flee Northern Irish home after night of anti-immigrant violence",
-          "publisher": "Reuters"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON1NLbHBiNnlhYWwzWThXTkdrOEFSaW9OYjlSSWRnbWM3dFgxdG5zOExPa04zeS1XRmlwV2VSUEZRNnRFLXNDSkRBZVZGbHRNSzd6WGRQRjh1VzhXejdlMlVnNjU5V1FDZ0xIcEtMcmJTaTFuQlZwWFlPUkZpSGVsZTlLU2lybkJfbmtwbVpNdGVYc0J0S3c2Zk5RWlZESW9tcDJMUjJkZDZmZjI2T3B2Sjhlcw?oc=5",
-          "title": "Northern Ireland town is engulfed in racist riots for a third day",
-          "publisher": "NBC News"
-        }
-      ]
-    },
-    {
-      "title": "Exclusive: Top U.S. official warns of mass casualty retaliation by Iran - Axios",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qREhkZWhxMGFmZ1Y4UG1JbEN2N2hBUHZvaDlEc01FQW45bFktTHdpTlV0ODNfYkt1TlhYUkRfVnA3VkpmckdkczdUU25HVkpVX1dtaHVTeE5lMFJGaWJCeTVNT0w0Y3RhTGIwOWRxTzM5NnlsdGo0?oc=5",
-      "published": "Thu, 12 Jun 2025 16:03:21 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        12,
-        16,
-        3,
-        21,
-        3,
-        163,
-        0
-      ],
-      "source": "Axios",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qREhkZWhxMGFmZ1Y4UG1JbEN2N2hBUHZvaDlEc01FQW45bFktTHdpTlV0ODNfYkt1TlhYUkRfVnA3VkpmckdkczdUU25HVkpVX1dtaHVTeE5lMFJGaWJCeTVNT0w0Y3RhTGIwOWRxTzM5NnlsdGo0?oc=5",
-          "title": "Exclusive: Top U.S. official warns of mass casualty retaliation by Iran",
-          "publisher": "Axios"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMYm96Y0ZlaGU3bTJENzRiZnNlWjlZVjlYV0R4S2FTc3RLMVZGTkVBX19aazZfUWYycHJfNExVYU1HdV82YVZLZFI3aXBrR25xZ3J6bHlfTko2RnRjUHY5Rm1fVnlDQlJLRnBBUFY5bkxEd9IBd0FVX3lxTE5Ray1TQm5CMnc2RHdPbHRNVjEyd3VKa3VnYmlIWGl6N0hVRjh5WUtFVVl2c1JWSHpkbjVkdFhMS2w1TUdTM3ZVcHRRV1BfUGZaNzdMX0ZQNjduZDlrM21uUnBSU2hOWFMzQTF2RlZJbml3YXNBMzJB?oc=5",
-          "title": "Trump says Israeli strike on Iran ‘could very well happen’ and warns of possible ‘massive conflict’ in Middle East",
-          "publisher": "CNN"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KX1RRUGlyVGV2TlRUSERZVk83Q3FNT1lHS3lJdEhoMTRNRHJLelVJdGRZUDgzeHZIeXpkZ2h5NGtXLTZoVTBMenhoZWsxemVlbEN5THFOdHFOSHF1TnhkS1JaNGxGMzF1bW1B?oc=5",
-          "title": "Why Israel May Be Considering an Attack on Iran",
-          "publisher": "The New York Times"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU1cwY3VueThqbGF1MnJCTGJ2TExvNERULXFkVjdnZTAzc2I0aU00T1p2M1ltODJDLTR1ZjBNLVotSmZVUjItTzFlVGpaS2dZcFBfNTlNNXo2bkhlbXNOaEFrbXdGU1RQOGRMeFBOZEN5Q3h6WGxvYWdqWE9ORmNtNHg0SHc4bWxlSEllOENMLWVpMFFVcFlieHNyVVUwVG0tWE1Ud1NvU091Y01TWmRiRzhVRk90MFJYQWlJSHdrRdIBxAFBVV95cUxNQjhmQVI0dFBwbHEyRlRmc09TUEJQSDVMTFJJeTZTY2FaRmNlclA4NUpXOXVZTVl3QkczUzN5UktGUHhaU3oxSWhEanRWbTNybGdJMnFCS19lN1d0OFgwNEVneV92RG5TZWVtSHN2dGNCYndCaFZwb2lrMzlBaW9EMGxzOGtoZ1pLN0NOblRXM3I3LWh5UVZkSmtaYXdySG5hdFN2bWpoTmp0VV9vSGhDMGNKcE1GNmFnUjBZUVJNTnJCcTNh?oc=5",
-          "title": "Trump warns Israel strike on Iran 'could happen' amid Middle East evacuation, nuclear negotiations",
-          "publisher": "Fox News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVlJpSHVGXzR5THd2amxGckhvd2k2MVFxTzJtOHotbTl6TTJjZ29wQ0R1V1FJd3VFZjJuUkZNQmRIQ0JhV2poaXNSWVhTMUZCb2hUbmVxcTB2SGczS3BhS2lXNVVRSV90cWt1ZkZlWmZaUjdpYk14ZlVZRE1ORFV5WFRkN2FmTjNYVHUzdktCcWszTkpwNGtRSm9vQ205SmV0cHVBMF9B0gGrAUFVX3lxTFAzaHprRmdEUHAyak1qUGZDLVFnMmtGeFFMTTNfUkVwOW9kbUNFREc1dEdmaFdqaVNxTjZRTnlHUmpvX3MtWU1YMkRQSzl5XzFpbkpOa1o4a091akVrV3FTOVlZdzNNN0ZaYnNwWDZVUDZzZTFmVDdEREhuaUowSzdNZDhpQXZvZk02QlZET2pVNDJRdE9taUM4YUpjWDRnRERFV05lYWpyWTcyZw?oc=5",
-          "title": "Israel considering military action against Iran in coming days: Sources",
-          "publisher": "ABC News"
-        }
-      ]
-    },
-    {
-      "title": "Iran says it will create a new uranium enrichment facility after a vote at the IAEA - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc0xveVUyRnE5UDB1eGRaVEx0dC04UEVmMmhaQXU0N1cyTTc4MUVvbXdVa2ctb3NvUTQ1alpYODFmNVlNeGVFZ3pqNDlOT2wxWTA0bzROR3JoejF1and2Y3Axb3pyS3N0WFlscUxQdFFxZnlVUm5PelExVkRaaXYzZ2tFMk1Ic0QwTEE?oc=5",
-      "published": "Thu, 12 Jun 2025 08:47:44 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        12,
-        8,
-        47,
-        44,
-        3,
-        163,
-        0
-      ],
-      "source": "NPR",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc0xveVUyRnE5UDB1eGRaVEx0dC04UEVmMmhaQXU0N1cyTTc4MUVvbXdVa2ctb3NvUTQ1alpYODFmNVlNeGVFZ3pqNDlOT2wxWTA0bzROR3JoejF1and2Y3Axb3pyS3N0WFlscUxQdFFxZnlVUm5PelExVkRaaXYzZ2tFMk1Ic0QwTEE?oc=5",
-          "title": "Iran says it will create a new uranium enrichment facility after a vote at the IAEA",
-          "publisher": "NPR"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkF6UGxUUzJpM0pyaC00cWlDRlQ3ejFJa1phMXgtS2hZVXlQNFlVYzFFQmJiMGFQMmgyNG9rMHFKcnNkWE1ONlVmYVdqTXdSRFJYd1psYXpVejNISnA2Z3ZLZDlCeDhsaTZRODF4VVVzX1hNMzJKWVIyUFlXTmlEaXh0Q0FWaXBjaDh1OFN3?oc=5",
-          "title": "U.N. Watchdog Rules That Iran Is Not Complying With Nuclear Obligations",
-          "publisher": "The New York Times"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0R6aEh5XzhsUGEzeDVpZDF6N1NERFZ3THo2a3RwbWliaUNHY2RWSFBvSy04VTM4NTZFM29jMmg3c3d6Z1FTeFVnN3V3c1hGWjZHX0ZGSnFsV0EyUzRETEN3NGtrRUJ6bnpuaE9meGU3RURQSkg0ZTVPZHhwcWhMMllWYzlZVmFuVzBWeEJIWW54NWFpU0FmZUFlS252QUxS0gGmAUFVX3lxTFBWcUFBV3M2MWpxWVpnZ0luX1cwVFZMM1B6YkJNMjBxeUJTWXBqS09ETFpfaFQxM1ZFSDlnaXVMa1dnTXVqMGJMWDFRN1pLTGxIVzdtSlF6NlMwTGZqSS1CZjhpNm11RE9LWG9vVXd4eEkwM21XdE50MFU2emNVUUlWc3FHbTRCaExCLVg1SnZDajQ4M0J2akZEdDJoa1ZRZ1RFN3dMSnc?oc=5",
-          "title": "Iran vows new uranium enrichment facility after watchdog determines noncompliance",
-          "publisher": "The Hill"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbENfYkhianFVbWEzZFJhMHpMQ21qS3huX09RUVZQOEJtR1loS0txb01ST1N3bThBSURGd29nQXNxQUlZcFJjN0ZQTnVoVllLOUNDMFQyc2JjT2hIWnl6SzQ2MHNNVVZpY1N5TFcyeFJEbF85NVk2Wnp2Y1dYZFdReG1acXdFSy1MRl93Mkl0am9xZ0FkaUNQYTUzLU10UzBJdE1ELWt3UWYwdkpFYzlJZkJaTFFfOFdTSHFjelZyUkJzeDlEemxMWTYtT1Z1bnc?oc=5",
-          "title": "Trump says Israeli strike on Iran could happen but wants to avoid conflict",
-          "publisher": "Reuters"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS0ZETDZuYWR1Ymcyd0c0andMQjhfT09jYVdHM1NVOHBpY0VLVEtENU1BdHdoS3I3eW02OTBLZHFxRlBsS2RlX3hNZzFDbU5HWkF3NGFqa3I4WkZ0YnB4cXNLR19XV1NkS3UxQTE1LThJaFc5NS1BbHluSUl2TU1BUU5RQzFDeWVrd3RBc1lR?oc=5",
-          "title": "Iran not complying with nuclear obligations, U.N. watchdog says",
-          "publisher": "The Washington Post"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnAtNEptUFZtcE9VTkswWF9nYmRRRVVxTXp3d3FIVHhpbm4wSkZWcHJNZVJGc213S0hqLXNFd29ULU40TVBhdFVXcjllelU3Y2lFQVotMkJib25wYXNWRW9xbWRUeUR2WEZIVjdwUlVJa3g0RU5yZEF2M1d6SzFFY3Zqdlo3Q0NyMEZHTU5CTi1Pa2J3Ui0yTVlpTmtLbFY5TFE?oc=5",
+          "title": "More mass casualties near Gaza food points as GHF says five staff killed",
+          "publisher": "The Guardian"
         }
       ]
     }

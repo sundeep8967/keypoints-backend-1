@@ -1,54 +1,36 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-12 18:46:10",
-    "total_articles": 5
+    "generation_time": "2025-06-13 02:26:57",
+    "total_articles": 3
   },
   "articles": [
     {
-      "id": "3e6bd949bea81e0f8632cedc36af1643",
-      "title": "Chaos At Site of Air India Plane Crash - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/12/world/asia/air-india-plane-crash-site.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 16:56:24 GMT"
+      "id": "799fea944de4aac2f62e043f5cd99b6a",
+      "title": "Dow futures fall 600 points after Israel launches attack on Iran: Live updates - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/12/stock-market-today-live-updates.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108157945-17496590052025-06-11t162032z_573808496_rc2e0fawqvy7_rtrmadp_0_usa-stocks.jpeg?v=1749659063&w=1920&h=1080",
+      "summary": "Iran’s Revolutionary Guard Corps chief Hossein Salami killed in Israeli strike Dow futures fall 600 points after Israel launches attack on Iran: Live updates Traders work on the floor at the New York Stock Exchange (NYSE) in New York City, U. S., June 11, 2025. U.S. stock futures fell on Thursday night after Israel launched an airstrike attack on Iran.",
+      "published": "Fri, 13 Jun 2025 01:25:00 GMT"
     },
     {
-      "id": "35aecd2b3963017dcaefeecea82ebca6",
-      "title": "U.S. Embassy in Jerusalem Braces for Possible Israeli Strike on Iran - The New York Times",
+      "id": "496ccfb4475ec12c417f78cd5ffa57e7",
+      "title": "‘I Don’t Know How I Am Alive,’ Air India Crash Survivor Tells Family - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/12/world/asia/viswash-kumar-ramesh-air-india-survivor.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 13 Jun 2025 00:44:17 GMT"
+    },
+    {
+      "id": "25d930a37800623d8f7e6095bc29efcf",
+      "title": "Gaza Aid Group Says 8 Local Workers Killed and 21 Wounded - The New York Times",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2025/06/12/world/middleeast/israel-iran.html",
       "image_url": null,
       "summary": "No content available for summarization.",
       "published": "Thu, 12 Jun 2025 11:29:41 GMT"
-    },
-    {
-      "id": "cb2f092fbba8456e1382c47e30dce36b",
-      "title": "Anti-Migrant Rioters in Northern Ireland Set Homes Ablaze, Then Refuge Site - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/12/world/europe/northern-ireland-violence-police-ballymena.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 09:40:22 GMT"
-    },
-    {
-      "id": "828cd6553ffc2e674cc975e58476f6b4",
-      "title": "Exclusive: Top U.S. official warns of mass casualty retaliation by Iran - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2025/06/12/israel-strike-iran-response-witkoff",
-      "image_url": "https://images.axios.com/_B9y6qhUvEUv1nIpK9uehMMMbxM=/0x426:5375x3449/1366x768/2025/06/12/1749741594005.jpg",
-      "summary": "Exclusive: U. S. fears Iran's response to Israeli strike would be mass casualty event A 'Fattah' missile is displayed during an annual military parade in Tehran. (Photo: Atta Kenare/AFP via Getty White House envoy Steve Witkoff privately warned top Senate Republicans last week that Iran could unleash a mass casualty response if Israel bombs their nuclear facilities, according to a...",
-      "published": "Thu, 12 Jun 2025 16:03:21 GMT"
-    },
-    {
-      "id": "08757442af224fd660881e2ec2b33e0b",
-      "title": "Iran says it will create a new uranium enrichment facility after a vote at the IAEA - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/12/nx-s1-5431395/iran-nuclear-enrichment-un-compliance",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7664x4311+0+400/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2Fc0%2Fe68e10bb449b9e2831cfa4b071c6%2Fap25163283711007.jpg",
-      "summary": "Iran says it will create a new uranium enrichment facility after a vote at the IAEA The flag of the International Atomic Energy Agency flies in front of its headquarters during an IAEA Board of Governors meeting in Vienna, Austria. VIENNA — The U. N. nuclear watchdog's board of governors on Thursday formally found that Iran isn't complying with its...",
-      "published": "Thu, 12 Jun 2025 08:47:44 GMT"
     }
   ]
 }
