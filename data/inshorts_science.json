@@ -1,27 +1,27 @@
 {
   "metadata": {
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-14 03:20:25",
+    "generation_time": "2025-06-14 08:25:43",
     "total_articles": 20
   },
   "articles": [
+    {
+      "id": "b486c4e292b34066981d139e466bba41",
+      "title": "Thousands of galaxies captured in a single Webb Telescope image - Earth.com",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/news/thousands-of-galaxies-revealed-in-a-single-webb-image/",
+      "image_url": "https://cff2.earth.com/uploads/2025/06/13083028/COSMOS-Web_thousands-galaxies_Webb-telescope_NASA_1m.jpg",
+      "summary": "Thousands of galaxies captured in a single Webb Telescope image It is astounding how a single image can hold such a wealth of information. This new view from the James Webb Space Telescope (JWST) showcases a crowded landscape of stars and galaxies, each one shedding a little more light on the story of the universe. The scene includes objects that...",
+      "published": "Fri, 13 Jun 2025 13:23:19 GMT"
+    },
     {
       "id": "abd606cec70ce697b818c21a83bc26cc",
       "title": "500 Falcon missions! SpaceX sends 26 Starlink satellites to orbit on landmark launch - Space",
       "source": "Space",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-6-b1081-vsfb-ocisly",
       "image_url": "https://cdn.mos.cms.futurecdn.net/z2DzCJceVWxYhtxFD6pgM3.jpg",
-      "summary": "Space Exploration Launches & Spacecraft 500 Falcon missions! SpaceX sends 26 Starlink satellites to orbit on landmark launch By Robert Z. Pearlman last updated 12 hours ago \"Falcon completes its 500th overall mission! Congratulations to the entire SpaceX team for making the impossible possible on the road to rapidly reusable rockets! \" When you purchase through links on our site,...",
+      "summary": "Space Exploration Launches & Spacecraft 500 Falcon missions! SpaceX sends 26 Starlink satellites to orbit on landmark launch By Robert Z. Pearlman last updated 17 hours ago \"Falcon completes its 500th overall mission! Congratulations to the entire SpaceX team for making the impossible possible on the road to rapidly reusable rockets! \" When you purchase through links on our site,...",
       "published": "Fri, 13 Jun 2025 15:26:17 GMT"
-    },
-    {
-      "id": "cd3b4843dc8a0cfaa448844f5c8a1510",
-      "title": "Friday the 13th solar storm could bring auroras to 18 US states this weekend - Live Science",
-      "source": "Live Science",
-      "url": "https://www.livescience.com/space/the-sun/friday-the-13th-solar-storm-could-bring-auroras-to-18-us-states-this-weekend",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/6bBgHSBUo4ty5T2o2t42xX.jpg",
-      "summary": "California's faults overdue earthquakes Friday the 13th solar storm could bring auroras to 18 US states this weekend By Harry Baker published 10 hours ago Space weather experts warn that a \"moderate\" geomagnetic storm could rock Earth over the weekend, potentially lighting the skies with vibrant auroras across large parts of the U. S. and Europe. When you purchase through...",
-      "published": "Fri, 13 Jun 2025 16:44:16 GMT"
     },
     {
       "id": "090e188438850568c3530425b9a6d4cc",
@@ -33,6 +33,15 @@
       "published": "Thu, 12 Jun 2025 10:26:54 GMT"
     },
     {
+      "id": "4b9489ccdd70a1a66247ebe48e2b68e2",
+      "title": "Northern Lights Alert: Auroras Set to Illuminate the Skies Across 18 U.S. States This Weekend - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/northern-lights-18-u-s-states-this-weekend/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Northern-Lights-Alert-Auroras-Set-to-Illuminate-the-Skies-Across-18-U.S.-States-This-Weekend-1200x727.jpg",
+      "summary": "Northern Lights Alert: Auroras Set to Illuminate the Skies Across 18 U. S. States This Weekend Get ready for a rare celestial show as the northern lights are set to illuminate the skies across 18 U. S. states this weekend! Image credit: Canva | The Daily Galaxy --Great Discoveries Channel The northern lights, or auroras, are set to put on...",
+      "published": "Fri, 13 Jun 2025 16:32:00 GMT"
+    },
+    {
       "id": "06ce0bf5a47f804ce4303d4abf74133a",
       "title": "Vantablack Paint Might Have A Legitimate Use Case In Space - Jalopnik",
       "source": "Jalopnik",
@@ -42,85 +51,58 @@
       "published": "Fri, 13 Jun 2025 16:25:00 GMT"
     },
     {
-      "id": "e05a163d4fe5c88077627152e6cf5efa",
-      "title": "Scientists make stunning discovery hidden along 2,000-mile stretch of ancient Antarctic mountains: 'More dynamic … history than previously recognized' - Yahoo",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmI4a1hYbG5yYkhMSTE1LWJSTUFkck93YmpnTXQ4b185YTA4bWR5Y0U5SzIwcTlqRnBfWkxwYXBBY1hHNlNLREtWdWhGWXVTTDZDMTRhNW1scnBXNmdXYVprUWZoVmgzLVVneENxaER6Zm9wZjQ1NG1Dbjl5MzBXUDBSVmhiYk1ZRW9SWA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 11:15:29 GMT"
-    },
-    {
-      "id": "533620db62296797879039c44fc9f645",
-      "title": "There’s another leak on the ISS, but NASA is not saying much about it - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYzNfX2N1aVJBMy0wRzdXNWEzQ2RjUzNfM0tPekQtU1djY1VFTWZndS1peEhITWhQOFZTUVpUa285UE1ZOWphZGZEU0NtTWlXYl9KaXcxblJUSUZsUzBNSU9Ic2E5Nk5abWc4TDVxTmNnN2FXUGxLZVhnM293ZzR6bERMUzdXSFVQMWZ0MGFnOHpKbU9LQUdlWF9SMzJ2bUFYdWV5VjRVcXFOZw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 17:12:49 GMT"
+      "id": "096c09605c711acd6250e4e1842115b5",
+      "title": "NASA's PUNCH delivers knockout views of colossal solar storms erupting from sun (video) - Space",
+      "source": "Space",
+      "url": "https://www.space.com/astronomy/sun/nasas-punch-delivers-knockout-views-of-colossal-solar-storms-erupting-from-sun-video",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/cGNdNc9KELLiYQQYrSbCZN.jpg",
+      "summary": "NASA's PUNCH delivers knockout views of colossal solar storms erupting from sun (video) By Daisy Dobrijevic published 2 days ago \"These first images are astonishing, but the best is still yet to come. \" When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. NASA's PUNCH spacecraft view of the sun in...",
+      "published": "Thu, 12 Jun 2025 09:00:00 GMT"
     },
     {
       "id": "f95c6b1675659fb4da15e154b3512f9a",
       "title": "Behold! Humanity has captured our first look at the Sun's South Pole - theregister.com",
       "source": "theregister.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0M2VHE1Z1RScEYtdVdjSmVrUDdjQ0w0T0dSdU45VDFKQ1VqUENYUGNiMWdfcU1hekpTNFFKYXR2alJBTGxZa3B6V3dxci1lbFRYLWNrRVJfeEJsVmJCbmFKMVQ5cTBmNU82UzgzSzB0MnNVMmFLS05saW1MRjhiTtIBhgFBVV95cUxOZ0x1QWM5b3BXVndPeHBxdzRBY1MtX24wR09mdklkcVhmU2RKVlVCOHA3TmxHWkJmYXhJNm15ckFOWllfTWJoZVZtSWIwVGRzUkNlMWdSOUlKTzNybnFrLWRwN081anBVR29abWNaSjQ0TTBmZmR3MUlJLWttVmVXalY0N09zQQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.theregister.com/2025/06/12/solar_orbiter_south_solar_pole_pics/",
+      "image_url": "https://regmedia.co.uk/2025/06/11/supplied_esa_sun_south_pole.jpg",
+      "summary": "Behold! Humanity has captured our first look at the Sun's South Pole Confusingly, the magnetic north and south poles are both down there, where the Solar Orbiter can see them Occupants of planet Earth can’t see the Sun’s poles – unless they look at images the Solar Orbiter spacecraft has just sent home. The Orbiter, a joint NASA/European Space Agency...",
       "published": "Thu, 12 Jun 2025 06:30:00 GMT"
+    },
+    {
+      "id": "e05a163d4fe5c88077627152e6cf5efa",
+      "title": "Scientists make stunning discovery hidden along 2,000-mile stretch of ancient Antarctic mountains: 'More dynamic … history than previously recognized' - Yahoo",
+      "source": "Yahoo",
+      "url": "https://www.yahoo.com/news/scientists-stunning-discovery-hidden-along-111529573.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/JHiH4SfzAbKz5FSlPPKTjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the_cool_down_737/108669c67791f5b8783d93b731d1f327",
+      "summary": "New tax could hit family abroad Scientists make stunning discovery hidden along 2,000-mile stretch of ancient Antarctic mountains: 'More dynamic … history than previously recognized' Fri, June 13, 2025 at 11:15 AM UTC Scientists make stunning discovery hidden along 2,000-mile stretch of ancient Antarctic mountains: 'More dynamic … history than previously recognized' Novel findings from University of Wisconsin, Oshkosh, geologist...",
+      "published": "Fri, 13 Jun 2025 11:15:29 GMT"
     },
     {
       "id": "76774c6da916f161528a1d4604b1c069",
       "title": "How scientists confirmed the existence of 200-million-year-old species thought to be extinct - ABC News",
       "source": "ABC News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDJabE1hSkRveEdiNzJHaHd3VV9zNnZGWnV0SHViT01tYUQwWUlWbHgyWkZsWUQzQ05OOUZmN0JZUmplYm11UHBiNi1SQUtObWM4aWh0cTFwZ2tHNEwzYWR3Q0ZfdnFlczNTblFmemxZVl95UWlOQzl1VG1Qc243S0FwS3JDNHFZM2tScXFEQzJPRURMTnBmTjN3TmY2cjl0NFZhLTNnXzEycHdK0gGyAUFVX3lxTE9jTEt0cFhpNE1vZ1FZcWVaVWJCWWZLMDdRREFuSzYxRVlPaVBJN25UX045Ty1Mb2JLdWtEeS1aSS1hSXJ3MVRFeG90NWpTeHRiM01IWmtwMkN4M0xzNmVtMWlkSnZHZmNPMW9oSmlXWkNjeG9kdUxKV0kzaFVmeDVVNFlLQVFQbkRGbFNNTTJVUlVMSHp0QnVYVkJnODBZeEE0Zll0WVJDZC1Id0tPenhqeUE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://abcnews.go.com/US/scientists-confirmed-existence-200-million-year-species-thought/story?id=122773046",
+      "image_url": "https://i.abcnewsfe.com/a/0d8448e2-37d4-4fdc-8d64-228a387efbde/Echidna-gty-er-250612_1749747473616_hpMain_16x9.jpg?w=1600",
+      "summary": "How scientists confirmed the existence of 200-million-year-old species thought to be extinct The long-beaked echidna had not been documented since the 1960s. Exclusive look inside lab trying to revive extinct speciesColossal Biosciences claims to have brought back the dire wolf from extinction. The species last roamed the Earth 10,000 years ago. Biologists have confirmed the existence of a 200-million-year-old species...",
       "published": "Thu, 12 Jun 2025 21:00:00 GMT"
+    },
+    {
+      "id": "533620db62296797879039c44fc9f645",
+      "title": "There’s another leak on the ISS, but NASA is not saying much about it - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2025/06/theres-another-leak-on-the-iss-but-nasa-is-not-saying-much-about-it/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/iss056e201248large-1152x648.jpg",
+      "summary": "There’s another leak on the ISS, but NASA is not saying much about it A crew mission has been delayed until next Wednesday at the earliest. This photo of the International Space Station was captured by a crew member on a Soyuz spacecraft. Credit: NASA/Roscosmos There's another leak on the International Space Station, and NASA has already delayed one crew...",
+      "published": "Fri, 13 Jun 2025 17:12:49 GMT"
     },
     {
       "id": "cc0aa436e9fa7c707c0d28fc7b02cd1b",
       "title": "How recurrent fluorescence helps organic molecules survive extreme interstellar conditions - Phys.org",
       "source": "Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnNmSkZXTDBlZldBWVhVLVd6X2VsVUZ5bi1IeDRlekR0eUs1emctUC1TR2pvZzB3ZFp6Zk1uVFlsbWpnN2NjdENGdmZNOFVtOUxnYmVuNEpodUFaMHo1S09EeEdZTFBaYUVoemFRdHJ0NllER2pvRmFacVowZFhQRGxyRVF4YjBJLTFz0gGKAUFVX3lxTE94X1RQclI3REo1Si15aDFmQmRWaFRLeHRTWk9kTmFwYXRlQWZVOGFsYzQzNHo5TXVOOW1CSU0yTFpaMlBPOVo0ZTRBWEhMWFNSQlBiSFZFNEF6TWFlNVRuTEszRjNBUENacF9mLXRrVlZaYmZ1bWtYQmxiNWNjTXMzYVlvb3dfempFdw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://phys.org/news/2025-06-recurrent-fluorescence-molecules-survive-extreme.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.42.48.123 : a5a7bb5b-45c1-4134-917a-9d4af209",
       "published": "Thu, 12 Jun 2025 14:30:04 GMT"
-    },
-    {
-      "id": "096c09605c711acd6250e4e1842115b5",
-      "title": "NASA's PUNCH delivers knockout views of colossal solar storms erupting from sun (video) - Space",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbFlOSG9JallqdjFESlY0UjlyT0VxeUVTRVVBbERaQ1o3dDlzUHNHRDg1ZVp1RjBWTjgtU3Q5Um5aQ2hIMlExUkdPdjAtSUVyTVE2WkhZVWFqYWlEbmJRSE9uMnNhaVpPUGF4RS0tYi1vbDRDeUJ6RXFfdWdDeklBODBMa1FLUEpRd3hYdXpFU2d3d0xXTEpIaHBFTkt3NXhJaW9ZY1M2ZmxSMU5RdkxPcjU5ekU3TnA3NEYyNg?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 09:00:00 GMT"
-    },
-    {
-      "id": "f8f1cb3800c9f68339ecd3dd63417ad4",
-      "title": "When the Universe Broke the Rules: Webb Spots “Impossible” Galaxies at Cosmic Dawn - SciTechDaily",
-      "source": "SciTechDaily",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTEhIRUIxYnd5aUU3X3BmdVdMZjJjYUl3Yk16a0pJOEU1VXpaZGtRYWdoWkwzbWpCUUJ6SXcxZ0NlZ3U3RUtma0ZFNHNkSHAwNzZOby1mMEhVRjllNmFwa2JKRE1FOG04NmNMSENqSlYtY042SEV3QTNpekdMcHBxVmdhV0JGMG0waTNscTFnVHdzUTRMcGZ0WTZpTy0wV2lwQ0tONUtDWi0?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 09:41:43 GMT"
-    },
-    {
-      "id": "9a7663f1edfd28347af894d8d357d3ee",
-      "title": "End of an era: Space Launch Complex 37 gets demolished - Spectrum News 13",
-      "source": "Spectrum News 13",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON0sxQzU3ekMxZ2hCdndFSUlRbnhQbzgxbFhzeU52eTZkcmY5WU1NdGFtOUxpelJpallXb05Vc1d2U2Q2U3ZYMmUyd1BiN1IzdEtYTy1yVEJKMXItMmRzbnB2cklMekZSQ0Yydm9DZFpMRXc5UENFWlhqek0xQWVfT2Q3d3VWSUwyQzY4Smk5Y2t1dw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 17:46:00 GMT"
-    },
-    {
-      "id": "6e72391ba95220392a67962a36ab1252",
-      "title": "NASA sounds alarm over massive planetary anomaly spreading worldwide traced to unknown forces beneath Earth’s crust - Glass Almanac",
-      "source": "Glass Almanac",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZVhPSFpzdDFoLUpNX05JVTRWX1RxaHl5QVFHeWh0RzBhSjRyRUE0ZWNaVzNKVW4tQTFULURBeUxKanp1ZUpMbktyY3dpVjNqNjVPM2pXM3pKeDl4OWJHWDFYNTJremw2c0tYY0JWVU1pamRpME1WR3daUGpZbU50YkhTTUFGeERXR1pSYkVoRlBNZVBiWlNEVTFEd3pMZTJ5dEhwRFZiN1l1MTVleUQtQTZ3MUpoSHR2TnZicjJmV1dOeDMtSFBqSGZ3WnFHQUZTUi14VG12RQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 19:30:21 GMT"
     },
     {
       "id": "055b9131800deee54a525a3e2c536034",
@@ -132,58 +114,76 @@
       "published": "Thu, 12 Jun 2025 15:37:00 GMT"
     },
     {
-      "id": "f63a9dbe360575f9c730e76f8f43a588",
-      "title": "Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look. - Quanta Magazine",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/",
-      "image_url": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Entropic-Grvaity_crDVDP-Social.jpg",
-      "summary": "Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look. A new argument explores how the growth of disorder could cause massive objects to move toward one another. Physicists are both interested and skeptical. Isaac Newton was never entirely happy with his law of universal gravitation. For decades after publishing it in 1687, he sought to understand how, exactly, two...",
-      "published": "Fri, 13 Jun 2025 13:53:12 GMT"
-    },
-    {
       "id": "bb7940048882ccb09b44f8a6d2ba1913",
       "title": "Strange radio pulses detected coming from ice in Antarctica - Phys.org",
       "source": "Phys.org",
       "url": "https://phys.org/news/2025-06-strange-radio-pulses-ice-antarctica.html",
       "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.161.78.104 : 982c19ee-834b-4f6d-85be-5f2c8e6f",
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.42.48.123 : be6ea6f0-5427-4181-8514-93c1fed1",
       "published": "Fri, 13 Jun 2025 17:28:04 GMT"
     },
     {
-      "id": "6af9f7bc93f0ad4126558c460e32bd92",
-      "title": "Double Speak About NASA Science - NASA Watch",
-      "source": "NASA Watch",
-      "url": "https://nasawatch.com/space-science-news/double-speak-about-nasa-science/",
-      "image_url": null,
-      "summary": "Verify you are human by completing the action below. nasawatch.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Fri, 13 Jun 2025 17:46:33 GMT"
+      "id": "20a4d6688520f0d867ff269ccaad0a6f",
+      "title": "END OF AN ERA: Space Launch Complex 37 gets demolished - Spectrum News 13",
+      "source": "Spectrum News 13",
+      "url": "https://mynews13.com/fl/orlando/space/2025/06/12/space-launch-complex-37-gets-demolished",
+      "image_url": "https://s7d2.scene7.com/is/image/TWCNews/06-12-2025_ULA_Space_Launch_Complex_37_Blockhouse_By_Michael_Seeley",
+      "summary": "Israel attacks Iran's nuclear and missile sites, prompting Iranian drone-strike retaliation FORMER HOME TO DELTA ROCKETS: ULA's Space Launch Complex 37 blockhouse, home to the company's famed Delta rockets, was demolished on Thursday, June 12, 2025. (Photo courtesy of Michael Seeley) END OF AN ERA: Space Launch Complex 37 gets de­mol­ished CAPE CANAVERAL SPACE FORCE STATION — It was a...",
+      "published": "Thu, 12 Jun 2025 17:46:00 GMT"
     },
     {
-      "id": "d0c58ccaa61d0d668d83388aee836909",
-      "title": "Scientists Discover Mysterious Human Lineage with No Descendants - The Daily Galaxy",
-      "source": "The Daily Galaxy",
-      "url": "https://dailygalaxy.com/2025/06/scientists-discover-human-no-descendants/",
-      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Scientists-Discover-Mysterious-Human-Lineage-with-No-Descendants.jpg",
-      "summary": "Scientists Discover Mysterious Human Lineage with No Descendants Credit: Credit: Marek Jantač/National Museum, Prague | The Daily Galaxy --Great Discoveries Channel Around 45,000 years ago, something unusual occurred in Ice Age Europe. A wave of modern humans, having migrated from the southeast, arrived in a continent already populated by Neanderthals. These early humans, who shared many physical traits with us,...",
-      "published": "Fri, 13 Jun 2025 18:00:00 GMT"
+      "id": "0608187d5a5fb287cb3ad48a4433b31c",
+      "title": "Parkgoers See Two Ducks Swimming Together — Then Realize One Is In Danger - The Dodo - For Animal People",
+      "source": "The Dodo - For Animal People",
+      "url": "https://www.thedodo.com/daily-dodo/parkgoers-see-two-ducks-swimming-together-then-realize-one-is-in-danger",
+      "image_url": "https://assets3.thrillist.com/v1/image/3196285/1200x600/crop;;webp=auto;jpeg_quality=85.jpg",
+      "summary": "Parkgoers See Two Ducks Swimming Together — Then Realize One Is In Danger “[T]his poor girl wanted to be saved …” Published on June 13, 2025 at 7:01 PM While walking through Michigan’s Hines Park last month, sisters Jessica Lee and Kimberly Ann spotted something seemingly heartwarming in a nearby river. Two ducks swam side-by-side as if they were family...",
+      "published": "Fri, 13 Jun 2025 23:01:36 GMT"
+    },
+    {
+      "id": "6e72391ba95220392a67962a36ab1252",
+      "title": "NASA sounds alarm over massive planetary anomaly spreading worldwide traced to unknown forces beneath Earth’s crust - Glass Almanac",
+      "source": "Glass Almanac",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZVhPSFpzdDFoLUpNX05JVTRWX1RxaHl5QVFHeWh0RzBhSjRyRUE0ZWNaVzNKVW4tQTFULURBeUxKanp1ZUpMbktyY3dpVjNqNjVPM2pXM3pKeDl4OWJHWDFYNTJremw2c0tYY0JWVU1pamRpME1WR3daUGpZbU50YkhTTUFGeERXR1pSYkVoRlBNZVBiWlNEVTFEd3pMZTJ5dEhwRFZiN1l1MTVleUQtQTZ3MUpoSHR2TnZicjJmV1dOeDMtSFBqSGZ3WnFHQUZTUi14VG12RQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 13 Jun 2025 19:30:21 GMT"
     },
     {
       "id": "b67def4f8f592dd637413f6800080a08",
       "title": "This Chinese Spacecraft Is Traveling to One of Earth’s Quasi-Moons - WIRED",
       "source": "WIRED",
-      "url": "https://www.wired.com/story/chinese-spacecraft-earths-quasi-moons-china-tianwen-2/",
-      "image_url": "https://media.wired.com/photos/6846b517daa7e6dc47ffe1c4/191:100/w_1280,c_limit/tianwen.jpg",
-      "summary": "This Chinese Spacecraft Is Traveling to One of Earth’s Quasi-Moons The Tianwen-2 probe has sent a self-portrait as it heads toward one of the most enigmatic objects in our space neighborhood: the quasi-moon Kamo‘oalewa. Tianwen 2’s camera captured the solar wing in its fully deployed position. PHOTOGRAPH: CHINA NATIONAL SPACE ADMINISTRATION (CNSA) All products featured on WIRED are independently selected...",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaTY0VXBZSFZXd25MYUNMeGdjV1FuR0VTRkhaRll3UElNQVpHUlgzdlhEVHpXZlg5ZXBxbUF4UDdzZ0x4YjE2RDBvRHJyeGhUa3ZRZVlUOXg4SURYQ3RqS0toTDVFeEwyMlJyTTNiTTM4V0FYNFFUbjMzd0IzYUM3d2VXRjBCQS1sUVE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Fri, 13 Jun 2025 09:00:00 GMT"
     },
     {
-      "id": "e8763da28d2eb54592b76708b8037e86",
-      "title": "“Mars in 2026 is 50/50”: Elon Musk Unveils Plan for SpaceX's Biggest Starship Yet Launching by Year's End, Raising Global Curiosity - Rude Baguette",
-      "source": "Rude Baguette",
-      "url": "https://www.rudebaguette.com/en/2025/06/mars-in-2026-is-50-50-elon-musk-unveils-plan-for-spacexs-biggest-starship-yet-launching-by-years-end-raising-global-curiosity/",
-      "image_url": "https://www.rudebaguette.com/wp-content/uploads/2025/06/mars-in-2026-is-5050-elon-musk-unveils-plan-for-spacexs-biggest-starship-yet-launching-by-years-end-raising-global-curiosity.jpg",
-      "summary": "“Mars in 2026 is 50/50”: Elon Musk Unveils Plan for SpaceX’s Biggest Starship Yet Launching by Year’s End, Raising Global Curiosity SpaceX's audacious plan to establish a human colony on Mars is rapidly advancing, as Elon Musk announces the imminent launch of the largest Starship yet, despite recent test flight challenges. Avi Cohen,June 13, 2025 at 4:56 PM1 Illustration of...",
-      "published": "Fri, 13 Jun 2025 20:58:53 GMT"
+      "id": "d0c58ccaa61d0d668d83388aee836909",
+      "title": "Scientists Discover Mysterious Human Lineage with No Descendants - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92cm12cHBocjBkQ1d3RW05Tm9Qd3FjMTgyY19aTGFfMzgtdlBmZnlPaVFla2hVc1dxd245bHhZbm9SSnNNbHVVX1k5eDBqWHdWNkZCcVJHalB0SGZuNE9NSHVtREdDcVJnM2tVQU9hNV9wZU53YzN0OEdybXVNdw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 13 Jun 2025 18:00:00 GMT"
+    },
+    {
+      "id": "6af9f7bc93f0ad4126558c460e32bd92",
+      "title": "Double Speak About NASA Science - NASA Watch",
+      "source": "NASA Watch",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UYkhYdDBaa2hva0h2M3g0bFJERUQ2MnpnU2xjbXR3bVJvRE13a2ZPekxpdGRmMHhVYXliaUtZNUJ4SWxpbnNtaGduV1NDSnVsQWgxdW1GeG5WeVhLV3l5c2M0RDRlZzFHcVhKaVZFRlFjTFdqV2pWS25Oc0tsQQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 13 Jun 2025 17:46:33 GMT"
+    },
+    {
+      "id": "2ab1efee6c3cea4a0948e7e04713a183",
+      "title": "Scientists discover strong, unexpected link between Earth's magnetic field and oxygen levels - Live Science",
+      "source": "Live Science",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbkFtbmRzMFdubmZ2bVhSTTZpSW1abm9tb2RjNFpoSkpveUtnM0xtUTVWNlFEXzdvN0liWkIwZ3ozYUh1aTdqUTlhUm9aalgyS21nSFp4TzFEZEc2c1p2TWlzdXBrYUZjWi1CWEt3dUpPdEt2dWpkMGdmY1Z3dUhSZElHREx3Njlqd0Q1a01XTHh1UWJlU1FtMU1pTTRQYVU3Tm5OZWZaQXNjQXI4RFNoV0ZSa2d1S296VkMtYVBpZkVKbXlsRVNXVDd3Q09oY1drTDd2Q09B?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 13 Jun 2025 18:00:00 GMT"
     }
   ]
 }
