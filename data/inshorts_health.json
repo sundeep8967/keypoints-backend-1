@@ -1,10 +1,19 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-06-13 18:44:25",
+    "generation_time": "2025-06-14 02:04:00",
     "total_articles": 20
   },
   "articles": [
+    {
+      "id": "728edc0c40c4d67a4dae330eaa25d7ae",
+      "title": "Measles case reported in Boulder County resident who used public transportation - 9News",
+      "source": "9News",
+      "url": "https://www.9news.com/article/news/health/measles-boulder-county-colorado/73-08d6d64c-a5b4-4a9d-958e-57718cf3ea48",
+      "image_url": "https://media.9news.com/assets/KUSA/images/5f3d3c19-977a-40b0-841a-c0dc21d95756/20250426T042313/5f3d3c19-977a-40b0-841a-c0dc21d95756_1140x641.jpg",
+      "summary": "Fully vaccinated Boulder County resident contracts measles Health officials say the public could have been exposed at several Denver and Boulder locations. Published: 5:48 PM MDT June 13, 2025 Updated: 5:48 PM MDT June 13, 2025 BOULDER, Colo. — Public health officials are reporting a case of measles in a Boulder County resident who used public transportation. The Colorado, Boulder...",
+      "published": "Fri, 13 Jun 2025 23:48:00 GMT"
+    },
     {
       "id": "f60317498d3e10284d4977ac96a8239e",
       "title": "“Razor Blade Throat” And A Traveling “Nimbus”: What's Up With The NB.1.8.1 COVID-19 Variant? - IFLScience",
@@ -13,6 +22,15 @@
       "image_url": "https://assets.iflscience.com/assets/articleNo/79589/aImg/84398/sore-throat-meta.jpg",
       "summary": "“Razor Blade Throat” And A Traveling “Nimbus”: What's Up With The NB. 1.8.1 COVID-19 Variant? Anyone get the feeling we’ve been down this road before? People are describing their sore throats as feeling like \"razor blades\". Image credit: Phuangphech/Shutterstock. com hought we’d seen the last of it? Sorry to disappoint, but there’s a new COVID-19 variant gallivanting across the globe.",
       "published": "Thu, 12 Jun 2025 11:27:10 GMT"
+    },
+    {
+      "id": "55ab38e3012a951610f2fff1e1b095b9",
+      "title": "Kennedy’s HHS sent Congress ‘junk science’ to defend vaccine changes, experts say - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/13/health/kennedy-hhs-congress-vaccine-changes",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2210910482.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Iran and Israel exchange strikes as conflict escalates Kennedy’s HHS sent Congress ‘junk science’ to defend vaccine changes, experts say By Jackie Fortiér, KFF Health News US Health and Human Services Secretary Robert F. Kennedy Jr. announced May 27 that the CDC would no longer recommend Covid vaccines for pregnant women or healthy children. Andrew Harnik/Getty Images/File A document the...",
+      "published": "Fri, 13 Jun 2025 19:40:00 GMT"
     },
     {
       "id": "ff948067d8acc980b4b32960018f9630",
@@ -24,49 +42,13 @@
       "published": "Fri, 13 Jun 2025 12:50:40 GMT"
     },
     {
-      "id": "b7097894758102803a6cf58f71aa10b0",
-      "title": "Simple blood test detects cancer up to 3 years before symptoms appear - Earth.com",
-      "source": "Earth.com",
-      "url": "https://www.earth.com/news/simple-blood-test-detects-cancer-before-symptoms-appear/",
-      "image_url": "https://cff2.earth.com/uploads/2025/06/11041414/Simple-blood-test-spots-cancer-years-before-we-feel-sick.jpg",
-      "summary": "Simple blood test detects cancer up to 3 years before symptoms appear Some cancers slip under the radar and remain undetected for years – silently progressing without noticeable symptoms. Researchers have been studying new ways to reveal these hidden problems in the body, and recent findings show that cancer can sometimes be detected well before symptoms appear. A new investigation...",
-      "published": "Fri, 13 Jun 2025 17:59:46 GMT"
-    },
-    {
-      "id": "2ca0ff477058bf2315b351e8dd4fc22c",
-      "title": "Exercise Rewires Alzheimer’s-Affected Brain Cells - Neuroscience News",
+      "id": "94b064018cfe46ef2ec070648f13f3b4",
+      "title": "Your Unique Breathing Patterns May Reveal Your Identity and Mental Health - Neuroscience News",
       "source": "Neuroscience News",
-      "url": "https://neurosciencenews.com/exercise-alzheimers-genetics-29267/",
-      "image_url": "https://neurosciencenews.com/files/2025/06/exercise-genetics-Alzheimers-neurosicnce.jpg",
-      "summary": "Exercise Rewires Alzheimer’s-Affected Brain Cells FeaturedGeneticsNeurologyNeuroscience·June 13, 2025 Summary: Using cutting-edge RNA sequencing, researchers mapped how exercise affects specific brain cell types in a model of Alzheimer’s disease. They found that physical activity alters gene activity in microglia and a newly identified type of astrocyte linked to blood vessels, which may protect memory. The metabolic gene Atpif1 emerged as a...",
-      "published": "Fri, 13 Jun 2025 13:09:43 GMT"
-    },
-    {
-      "id": "845facf76eb563fa01c3e68633ce283a",
-      "title": "RFK Jr. sent Congress 'medical disinformation' to defend COVID vaccine schedule change - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/13/nx-s1-5431935/rfk-hhs-covid-vaccine-schedule-faq",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+53/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8a%2F5a%2Feb33eaa44d06bac4a4822c7e9c50%2Fgettyimages-2196795261.jpg",
-      "summary": "RFK Jr. sent Congress 'medical disinformation' to defend COVID vaccine schedule change Robert F. Kennedy Jr. , testifies during his Senate Committee on Health, Education, Labor and Pensions confirmation hearing. A document the Department of Health and Human Services sent to lawmakers to support Secretary Robert F. Kennedy Jr. 's decision to change U. S. policy on COVID vaccines cites...",
-      "published": "Fri, 13 Jun 2025 09:00:00 GMT"
-    },
-    {
-      "id": "e7cc9db90317da2aaaeb389c88f782e5",
-      "title": "Guest column | Doctors said I was ‘too young’ to be seriously ill. I had Stage 4 cancer. - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/health/2025/06/12/lung-cancer-diagnosis-generation-c-comic/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/66T5QGZLOVE6PAUGZ6OHYHA27U.jpg&w=1440",
-      "summary": "Doctors said I was ‘too young’ to be seriously ill. I had Stage 4 cancer. What it took to finally get doctors to listen to me — and what I’ve learned since. (Illustrations by Lara Antal for The Washington Post) Three years ago, before I learned that I had metastatic cancer, doctors repeatedly told me I was “too young” to...",
-      "published": "Thu, 12 Jun 2025 17:00:38 GMT"
-    },
-    {
-      "id": "0adcc3adf47a04b56894881ec0f6535d",
-      "title": "The nose knows: Humans’ nasal breathing patterns are like fingerprints, Israeli scientists find - The Times of Israel",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/the-nose-knows-humans-nasal-breathing-patterns-are-like-fingerprints-israeli-scientists-find/",
-      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/OferPerl2Weizmann.jpg",
-      "summary": "The nose knows: Humans’ nasal breathing patterns are like fingerprints, Israeli scientists find Weizmann Institute of Science researchers develop device to recognize people’s unique respiration, allowing scientists to determine physical health, depression and anxiety A Weizmann Institute device to identify respiratory 'fingerprints. ' (Ofer Perl/Weizmann Institute) Weizmann Institute of Science researchers say that they can identify individuals based solely on...",
-      "published": "Thu, 12 Jun 2025 18:54:00 GMT"
+      "url": "https://neurosciencenews.com/breathing-mental-health-identity-29266/",
+      "image_url": "https://neurosciencenews.com/files/2025/06/breathing-mental-health-neurosciencce.jpg",
+      "summary": "We consider this as a brain readout. Credit: Neuroscience News Your Unique Breathing Patterns May Reveal Your Identity and Mental Health FeaturedNeurosciencePsychology·June 13, 2025 Summary: New research reveals that each person has a unique breathing “fingerprint” that can be used to identify them with nearly 97% accuracy. By continuously monitoring nasal airflow over 24 hours using a lightweight wearable, scientists...",
+      "published": "Fri, 13 Jun 2025 12:38:25 GMT"
     },
     {
       "id": "6986737877810e047d141c6d3f4c7998",
@@ -76,6 +58,51 @@
       "image_url": "https://static.independent.co.uk/2025/05/14/16/52/iStock-1209635844.jpeg?width=1200&height=800&crop=1200:800",
       "summary": "We are 8 logo (opens in a new tab) American deaths from this alcohol-linked disease have doubled in 20 years Thursday 12 June 2025 17:09 BST Mortality rates from alcohol-associated liver disease surged from 6. 7 to 12.5 deaths per 100,000 (Getty/iStock) Alcohol-related liver disease deaths in the U. S. have roughly doubled between 1999 and 2022, with a significant...",
       "published": "Thu, 12 Jun 2025 16:09:00 GMT"
+    },
+    {
+      "id": "32819f3e1e4fa008e98b1c7100bc95df",
+      "title": "Scientists pinpoint way to check if you're going to get early-onset colon cancer with up to 92% accuracy - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/health/article-14809655/test-early-onset-colon-cancer-symptoms-experts-epidemic.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/13/15/99345095-0-image-m-17_1749824097563.jpg",
+      "summary": "Friday, Jun 13th 2025 10PM 73°F Scientists pinpoint way to check if you're going to get early-onset colon cancer with up to 92% accuracy READ MORE: Millions more Americans told to get earlier colon cancer screening By LUKE ANDREWS SENIOR HEALTH REPORTER FOR DAILYMAIL. COM PUBLISHED: 14:24 EDT, 13 June 2025 | UPDATED: 14:24 EDT, 13 June 2025 A little-known...",
+      "published": "Fri, 13 Jun 2025 18:24:11 GMT"
+    },
+    {
+      "id": "cee71270be84c32aa0d813f163d1ffa2",
+      "title": "One Risk Of White Wine You’ve Never Heard Of, Research Reveals - MindBodyGreen",
+      "source": "MindBodyGreen",
+      "url": "https://www.mindbodygreen.com/articles/research-reveals-the-link-between-white-wine-and-cancer",
+      "image_url": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_800,h_400,g_auto,q_85,fl_lossy,f_jpg/org/feq5wg53elzcsw2m8.jpeg",
+      "summary": "One Risk Of White Wine You've Never Heard Of, Research Reveals Image by EASY-2-SHOOT / Stocksy This article is from our longevity-focused newsletter, the long game, where we help you stay up to date on the latest research in the health space, with actionable, low-lift recommendations to put those lessons into practice. For access to our latest editions as soon...",
+      "published": "Fri, 13 Jun 2025 10:23:39 GMT"
+    },
+    {
+      "id": "48b949f0c919576790f0acb81a8a02d9",
+      "title": "What Happens to Your Body When You Eat Watermelon Regularly - Verywell Health",
+      "source": "Verywell Health",
+      "url": "https://www.verywellhealth.com/benefits-of-watermelon-11750170",
+      "image_url": "https://www.verywellhealth.com/thmb/eObbMr9kK4kbRQKxGT3O6ZPHs5g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-179026693-e3ff5dc14c7b47a3bee44816be4b4654.jpg",
+      "summary": "What Happens to Your Body When You Eat Watermelon Regularly By Maggie O'Neill Published on June 13, 2025 Medically reviewed by Sohaib Imtiaz, MD Eating watermelon can hydrate you and replenish lost fluids from sweating. There’s a reason you always crave watermelon when it’s hot outside. It’s not just a nice treat; it's hydrating, nutritious, and helps your body replenish...",
+      "published": "Fri, 13 Jun 2025 12:03:50 GMT"
+    },
+    {
+      "id": "71411ced4a40a5ce889290a02a6bd7f0",
+      "title": "Texas public health departments brace for another $119 million in federal cuts - The Texas Tribune",
+      "source": "The Texas Tribune",
+      "url": "https://www.texastribune.org/2025/06/12/texas-dshs-public-health-funding-cuts/",
+      "image_url": "https://thumbnails.texastribune.org/U0uiymqfrkdq16C0uii-8kvs9dw=/1200x630/filters:quality(95):focal(2x204:2999x2000)/static.texastribune.org/media/files/f3fa10472cb075a4026d432b6d7537b7/0501%20Measles%20HHS%20Lab%20IPL%20TT%2035.jpg",
+      "summary": "Texas public health departments brace for another $119 million in federal cuts Three months ago, Texas lost $700 million in unspent federal pandemic-era funding. Texas Department of State Health Services Laboratory staff members test mosquitoes for the West Nile virus, among other diseases, on May 1, 2025. Ilana Panich-Linsman for The Texas Tribune Audio recording is automated for accessibility. Humans...",
+      "published": "Thu, 12 Jun 2025 20:48:49 GMT"
+    },
+    {
+      "id": "ea235f6c660760ae0971de759eb4621e",
+      "title": "2 women diagnosed with colon cancer in their 30s share their symptoms that were missed - Business Insider",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/colon-cancer-symptoms-young-people-misdiagnosed-hemorrhoids-women-worldclass-2025-6",
+      "image_url": "https://i.insider.com/68494956f748d8c055f374c4?width=806&format=jpeg",
+      "summary": "2 women diagnosed with colon cancer in their 30s share their symptoms that were missed . save-icon-fill { display: none; } . save-icon.is-active . save-icon-fill, . save-icon-fill. is-active { display: block; fill: currentColor; } Rates of colon cancer in people under 50 have grown in recent decades. One study found that 82% of young colon cancer patients were misdiagnosed initially.",
+      "published": "Fri, 13 Jun 2025 12:01:00 GMT"
     },
     {
       "id": "ab1028e1850381d4f806b90217489491",
@@ -92,8 +119,53 @@
       "source": "Daily Mail",
       "url": "https://www.dailymail.co.uk/sciencetech/article-14809271/What-TOENAILS-say-you-according-experts.html",
       "image_url": "https://i.dailymail.co.uk/1s/2025/06/13/12/99340535-0-image-m-10_1749815049255.jpg",
-      "summary": "Revealed: What your TOENAILS say about you, according to experts READ MORE:  What the length of your fingers means, according to science By XANTHA LEATHAM, EXECUTIVE SCIENCE EDITOR PUBLISHED: 07:06 EDT, 13 June 2025 | UPDATED: 07:45 EDT, 13 June 2025 You probably don't pay them much attention on a daily basis. But your toenails could tell you a lot...",
+      "summary": "Friday, Jun 13th 2025 10PM 73°F Revealed: What your TOENAILS say about you, according to experts READ MORE:  What the length of your fingers means, according to science By XANTHA LEATHAM, EXECUTIVE SCIENCE EDITOR PUBLISHED: 07:06 EDT, 13 June 2025 | UPDATED: 07:45 EDT, 13 June 2025 You probably don't pay them much attention on a daily basis. But your...",
       "published": "Fri, 13 Jun 2025 11:06:42 GMT"
+    },
+    {
+      "id": "1ff677f8cc643d073a64b508d9c6826d",
+      "title": "I tested an AI-powered glucose monitor against a traditional monitor for two weeks. Here's my verdict - ZDNET",
+      "source": "ZDNET",
+      "url": "https://www.zdnet.com/article/i-tested-an-ai-powered-glucose-monitor-against-a-traditional-monitor-for-two-weeks-heres-my-verdict/",
+      "image_url": "https://www.zdnet.com/a/img/resize/be0a865e5aba7d92fa7798eb68caaf67d65451cd/2025/04/11/787a04f2-84a0-4675-84ef-e99974f63041/facetune-10-04-2025-17-24-54.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "summary": "tomorrow belongs to those who embrace it today Why you can trust ZDNET : Our process I tested an AI-powered glucose monitor against a traditional monitor for two weeks. Here's my verdict The Stelo by Dexcom is an over-the-counter continuous glucose monitor that uses AI-powered insights to help you understand, assess, and manage your metabolic health. Written by Allison Jewell,...",
+      "published": "Thu, 12 Jun 2025 14:18:00 GMT"
+    },
+    {
+      "id": "f7a4f766a79895daf152883ed4c9643e",
+      "title": "WA whooping cough cases soar as vaccination rates drop - The Seattle Times",
+      "source": "The Seattle Times",
+      "url": "https://www.seattletimes.com/seattle-news/health/wa-whooping-cough-cases-soar-as-vaccination-rates-drop/",
+      "image_url": "https://images.seattletimes.com/wp-content/uploads/2025/06/06132025_tzr_tzr_113724.jpg?d=1200x630",
+      "summary": "HealthLocal NewsNorthwestPuget Sound WA whooping cough cases soar as vaccination rates drop This 2016 illustration provided by the Centers for Disease Control and Prevention, based on electron microscope imagery, depicts Bordetella pertussis bacteria, which causes whooping cough. (Meredith Newlove / CDC via The Associated Press) This 2016 illustration provided by the Centers for Disease Control and. .. (Meredith Newlove /...",
+      "published": "Fri, 13 Jun 2025 18:58:45 GMT"
+    },
+    {
+      "id": "141389a11ab5d9a5198913728ed59e47",
+      "title": "Major sugar substitute found to impair brain blood vessel cell function, posing potential stroke risk - Medical Xpress",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2025-06-major-sugar-substitute-impair-brain.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.161.78.104 : c5286a0b-db79-472a-a413-312fc970",
+      "published": "Thu, 12 Jun 2025 14:30:01 GMT"
+    },
+    {
+      "id": "952a1fdac152a1218ccc9b81ea4be85f",
+      "title": "A Forgotten Cancer Is Surging in Young People, And Experts Are Puzzled - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/a-forgotten-cancer-is-surging-in-young-people-and-experts-are-puzzled",
+      "image_url": "https://www.sciencealert.com/images/2019-05/processed/appendix_parkinsons_debate_1024.jpg",
+      "summary": "A Forgotten Cancer Is Surging in Young People, And Experts Are Puzzled By JUSTIN STEBBING, THE CONVERSATION Appendix cancer is a condition that, until recently, was so rare that most people never gave it a second thought. For decades, it was the kind of disease that doctors might encounter only once or twice in a career, and it was almost...",
+      "published": "Thu, 12 Jun 2025 01:58:47 GMT"
+    },
+    {
+      "id": "ad98ae7f6839d24d2813413376049efd",
+      "title": "A doctor shares the 7 supplements he takes a day to reduce inflammation, prevent heart disease, and support metabolism - Business Insider",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/how-to-pick-right-supplements-doctors-7-step-daily-routine-2025-6",
+      "image_url": "https://i.insider.com/684ae41ff748d8c055f38f1d?width=1200&format=jpeg",
+      "summary": "A doctor shares the 7 supplements he takes a day to reduce inflammation, prevent heart disease, and support metabolism Courtesy of Gareth Morris-Stiff/Getty Images/Songboon Ramsak . save-icon-fill { display: none; } . save-icon.is-active . save-icon-fill, . save-icon-fill. is-active { display: block; fill: currentColor; } Supplements like herbs, vitamins, and minerals can backfire if you don't use them correctly. Mixing too...",
+      "published": "Fri, 13 Jun 2025 13:51:00 GMT"
     },
     {
       "id": "eea702d6421de4a425b48c7fe544ff3f",
@@ -105,85 +177,13 @@
       "published": "Fri, 13 Jun 2025 10:00:42 GMT"
     },
     {
-      "id": "a903cd1960c338d8fc4b34f56bc9e389",
-      "title": "Healthy Habits May Offset Brain Aging Linked to Shorter Telomeres - Neuroscience News",
-      "source": "Neuroscience News",
-      "url": "https://neurosciencenews.com/telomere-brain-aging-29258/",
-      "image_url": "https://neurosciencenews.com/files/2025/06/telomere-brain-aging-neuroscinece.jpg",
-      "summary": "Healthy Habits May Offset Brain Aging Linked to Shorter Telomeres FeaturedGeneticsNeurologyNeuroscience·June 12, 2025 Summary: New research shows that healthy lifestyle choices can reduce the risk of stroke, dementia, and depression, even in people with biologically shortened telomeres. Telomeres are protective DNA caps that naturally shrink with age and environmental stress, increasing vulnerability to age-related brain diseases. In a study of...",
-      "published": "Thu, 12 Jun 2025 13:26:13 GMT"
-    },
-    {
-      "id": "1acf7aea79087a1e57680ac93a1b2d05",
-      "title": "COVID-19 patients with reduced kidney function who are vaccinated are more likely to survive: Study - ABC News",
-      "source": "ABC News",
-      "url": "https://abcnews.go.com/Health/covid-19-patients-reduced-kidney-function-vaccinated-survive/story?id=122790259",
-      "image_url": "https://i.abcnewsfe.com/a/c1f0b5aa-a1f7-4405-b670-b215428208ca/covid-vaccine-01-gty-jef-250521_1747837810093_hpMain_16x9.jpg?w=1600",
-      "summary": "BreakingIran retaliates with missile barrage against Israel COVID-19 patients with reduced kidney function who are vaccinated are more likely to survive: Study Unvaccinated patients were 5. 54 times more likely to die in the hospital. RFK Jr. cuts COVID-19 vaccine recommendation for healthy kids, pregnant womenHHS Secretary Robert F. Kennedy Jr. has announced the department will no longer recommend the...",
-      "published": "Fri, 13 Jun 2025 04:07:30 GMT"
-    },
-    {
-      "id": "48b949f0c919576790f0acb81a8a02d9",
-      "title": "What Happens to Your Body When You Eat Watermelon Regularly - Verywell Health",
-      "source": "Verywell Health",
-      "url": "https://www.verywellhealth.com/benefits-of-watermelon-11750170",
-      "image_url": "https://www.verywellhealth.com/thmb/eObbMr9kK4kbRQKxGT3O6ZPHs5g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-179026693-e3ff5dc14c7b47a3bee44816be4b4654.jpg",
-      "summary": "What Happens to Your Body When You Eat Watermelon Regularly By Maggie O'Neill Published on June 13, 2025 Medically reviewed by Sohaib Imtiaz, MD Eating watermelon can hydrate you and replenish lost fluids from sweating. There’s a reason you always crave watermelon when it’s hot outside. It’s not just a nice treat; it's hydrating, nutritious, and helps your body replenish...",
-      "published": "Fri, 13 Jun 2025 12:03:50 GMT"
-    },
-    {
-      "id": "141389a11ab5d9a5198913728ed59e47",
-      "title": "Major sugar substitute found to impair brain blood vessel cell function, posing potential stroke risk - Medical Xpress",
-      "source": "Medical Xpress",
-      "url": "https://medicalxpress.com/news/2025-06-major-sugar-substitute-impair-brain.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 128.85.161. 163 : a2d53314-cb2f-428e-bdb8-2130d526",
-      "published": "Thu, 12 Jun 2025 14:30:01 GMT"
-    },
-    {
-      "id": "8a8706c257e68e487e2adf87b8dae6e6",
-      "title": "I Had an Orgasm in the Most Embarrassing Place Possible. Now I’m Confused—and Curious. - Slate Magazine",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/advice/2025/06/sex-advice-orgasm-embarrassing-doctor-confused-ear.html",
-      "image_url": "https://compote.slate.com/images/bf80eaa6-d89b-4b2c-ad43-828c8a26ae4a.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "summary": "Light Activating this button will toggle the display of additional content I Had an Orgasm in the Most Embarrassing Place Possible. Now I’m Confused—and Curious. Photo illustration by Slate. Photo by ronstik/iStock/Getty Images Plus. Our advice columnists have heard it all over the years—so we’re diving into the How to Do It archives to share classic letters with our readers.",
-      "published": "Fri, 13 Jun 2025 12:00:00 GMT"
-    },
-    {
-      "id": "77e5510a56b978813709dac002b76070",
-      "title": "Hantavirus, the disease that killed Gene Hackman's wife, is spreading - HOLA",
-      "source": "HOLA",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdExQUVlRdUxRNndKUFJPSmFYSVprZzlZWFZIdGlBaE9sWlY4bHZldDR2QThZS29LZmVEYVlyMFhuc2pXUnFkbkRKbVNJQjJlVjhMZ09TYkI5ckxRSTc2QkloS1lDaW9LcC1oNGwtVkZLNklvWmhOelFtM2E5bWtRS2VRUWdrTE4yWnlQcDZYYlh6TjBsSEFBWGFTQTRRcmhiZTNlcll0dzlrZ9IBuAFBVV95cUxOOTQwT0tsWmVBQ1FMMFljTVRlQkVuLV81X3JPUEhCRmRheTlyQ0x3czBmUG9WdW4xNnBrc3pLSVZ4ai1JcVlUeTBCak14SVJZUkVFZU1QQnkyaUFlR2NaWkFhUS1wUWJKSE9XdkJRXzAycE9EcHBuZG5CR2Yyb1AtYXBGNlgwYkM3cUdaSUlMdG51Q0UtRXJhWEVaUWhiV2pHTFR4UVg5b3B4eElUX0F0cjlveE1ocGNo?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 01:43:00 GMT"
-    },
-    {
-      "id": "531de4cd2d0f46af7428d7abd942a382",
-      "title": "An AIDS orphan, a pastor and his frantic search for the meds that keep her alive - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/sections/goats-and-soda/2025/06/13/g-s1-70964/trump-africa-hiv-aids-orphan-usaid",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/9504x5346+0+495/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F27%2F7a313122433c847b28506696893f%2Fdiana-and-billy-3.jpg",
-      "summary": "An AIDS orphan, a pastor and his frantic search for the meds that keep her alive Pastor Billiance Chondwe has known 9-year-old Diana Lungu since she was born. He helped her mother through a rough pregnancy and during Diana's early years. Diana's mother died of AIDS when Diana was nearing her third birthday. Night had fallen hours ago, but Billiance...",
-      "published": "Fri, 13 Jun 2025 09:00:00 GMT"
-    },
-    {
-      "id": "df43cc9cb4c7bbb232a63f24e5a4747e",
-      "title": "New Pill Slashes “Bad” Cholesterol and Heart Attack Risk in Just 12 Weeks - SciTechDaily",
-      "source": "SciTechDaily",
-      "url": "https://scitechdaily.com/new-pill-slashes-bad-cholesterol-and-heart-attack-risk-in-just-12-weeks/",
-      "image_url": "https://scitechdaily.com/images/Man-Holding-White-Pill-Crop.jpg",
-      "summary": "Home»Health»New Pill Slashes “Bad” Cholesterol and Heart Attack Risk in Just 12 Weeks New Pill Slashes “Bad” Cholesterol and Heart Attack Risk in Just 12 Weeks A once-daily pill, Obicetrapib, significantly reduced both LDL cholesterol and lipoprotein(a) levels, two major but challenging contributors to cardiovascular disease. Credit: Shutterstock A new cholesterol-lowering pill may offer a breakthrough for those at risk...",
-      "published": "Thu, 12 Jun 2025 21:24:37 GMT"
-    },
-    {
-      "id": "ad98ae7f6839d24d2813413376049efd",
-      "title": "A doctor shares the 7 supplements he takes a day to reduce inflammation, prevent heart disease, and support metabolism - Business Insider",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/how-to-pick-right-supplements-doctors-7-step-daily-routine-2025-6",
-      "image_url": "https://i.insider.com/684ae41ff748d8c055f38f1d?width=1200&format=jpeg",
-      "summary": "A doctor shares the 7 supplements he takes a day to reduce inflammation, prevent heart disease, and support metabolism . save-icon-fill { display: none; } . save-icon.is-active . save-icon-fill, . save-icon-fill. is-active { display: block; fill: currentColor; } Unlimited access. Unlimited possibility. Subscribers get unlimited access to: Insights & advice to propel your career Pitch decks that raised millions",
-      "published": "Fri, 13 Jun 2025 13:51:00 GMT"
+      "id": "e7cc9db90317da2aaaeb389c88f782e5",
+      "title": "Guest column | Doctors said I was ‘too young’ to be seriously ill. I had Stage 4 cancer. - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/06/12/lung-cancer-diagnosis-generation-c-comic/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/66T5QGZLOVE6PAUGZ6OHYHA27U.jpg&w=1440",
+      "summary": "Doctors said I was ‘too young’ to be seriously ill. I had Stage 4 cancer. What it took to finally get doctors to listen to me — and what I’ve learned since. The comments reflect widespread frustration with the healthcare system, particularly regarding the dismissal of symptoms by medical professionals, especially for women and young people. Many commenters shared personal...",
+      "published": "Thu, 12 Jun 2025 17:00:38 GMT"
     }
   ]
 }
