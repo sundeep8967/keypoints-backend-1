@@ -1,27 +1,36 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-14 06:42:17",
-    "total_articles": 2
+    "generation_time": "2025-06-14 12:53:16",
+    "total_articles": 3
   },
   "articles": [
     {
-      "id": "b6d10f7fe49d614d4b0a3a6fd0da6342",
-      "title": "Iran’s nuclear facilities damaged but not destroyed, experts say - The Washington Post",
+      "id": "74548b5d7ac5628b693ab248253d192a",
+      "title": "Live updates: Iran attacks Israel with missile barrages; explosions reported in Tehran - The Washington Post",
       "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2025/06/13/iran-nuclear-damage-natanz-fordow/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EVPHD5LQAML5LJERKB3RAT5BAA.jpg&w=1440",
-      "summary": "Iran’s nuclear facilities damaged but not destroyed, experts say By Karen DeYoung, Nilo Tabrizy, Evan Hill and Warren P. Strobel The comments reflect skepticism and concern about the effectiveness of Israel's airstrikes on Iran's nuclear facilities, particularly given that key sites like Fordow remain intact. Some commenters advocate for more aggressive measures, such as using bunker buster bombs, while. .....",
-      "published": "Sat, 14 Jun 2025 03:26:37 GMT"
+      "url": "https://www.washingtonpost.com/world/2025/06/14/israel-iran-attacks-live-tehran-tel-aviv/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KFAGYR7G3U2AUJ7LPDDQUR6MLY_size-normalized.JPG&w=1440",
+      "summary": "Iran attacks Israel with missile barrages; explosions reported in Tehran Iran launched multiple waves of fresh missile barrages at Israel early Saturday, while Israel continued airstrikes on Iran. (Video: Reuters) Iran launched multiple waves of fresh missile barrages at Israel early Saturday, while Israel continued airstrikes on Iran, in the most sustained, direct attacks ever between the two regional rivals.",
+      "published": "Sat, 14 Jun 2025 11:27:05 GMT"
     },
     {
-      "id": "7720adc90ec193d9a54974d643c9d277",
-      "title": "Air India black box recovered after crash that killed 241 onboard and several others on the ground - Politico",
-      "source": "Politico",
-      "url": "https://www.politico.com/news/2025/06/13/air-india-black-box-recovered-after-crash-that-killed-241-onboard-and-several-others-on-the-ground-00406120",
-      "image_url": "https://static.politico.com/6d/3e/16008eda479196bba6b91823358a/india-plane-crash-21834.jpg",
-      "summary": "Air India black box recovered after crash that killed 241 onboard and several others on the ground Investigators hope the device will provide clues about the cause of the accident that killed 241 passengers and crew, and a number of others on the ground. Police personnel work at the site of an Air India plane crash in Ahmedabad, India, Friday,...",
-      "published": "Sat, 14 Jun 2025 02:37:58 GMT"
+      "id": "ee13585e303f88ca235221ad4029a0ea",
+      "title": "What is known about the Air India crash and its investigation - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/what-is-known-about-air-india-crash-its-investigation-2025-06-14/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sat, 14 Jun 2025 11:13:48 GMT"
+    },
+    {
+      "id": "a2ba1fc6c4742dab9d2a8043120c1df0",
+      "title": "Was Iran months away from producing a nuclear bomb? - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn840275p5yo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3d0e/live/0ced2c00-48d1-11f0-8feb-e38ae274979f.jpg",
+      "summary": "Was Iran months away from producing a nuclear bomb? Iran insists its nuclear programme is entirely peaceful and that it enriches uranium to produce fuel for power plants like Bushehr Israel has struck dozens of targets across Iran, damaging the uranium enrichment plant at Natanz and assassinating top military commanders and nuclear scientists in Tehran. After the first wave of...",
+      "published": "Sat, 14 Jun 2025 09:15:17 GMT"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-14 07:59:34",
+    "generation_time": "2025-06-14 13:42:06",
     "total_articles": 20
   },
   "articles": [
@@ -15,13 +15,67 @@
       "published": "Fri, 13 Jun 2025 21:35:47 GMT"
     },
     {
-      "id": "7436ca3d8509efa58cdcd2a246bebdfc",
-      "title": "Report: Apple Aims to Release AI-Powered Upgrade of Siri in Spring 2026 - PYMNTS.com",
-      "source": "PYMNTS.com",
-      "url": "https://www.pymnts.com/apple/2025/report-apple-aims-to-release-ai-powered-upgrade-of-siri-in-spring-2026/",
-      "image_url": "https://www.pymnts.com/wp-content/uploads/2025/06/Apple-Siri.jpg",
-      "summary": "Report: Apple Aims to Release AI-Powered Upgrade of Siri in Spring 2026 Apple reportedly aims to bring an artificial intelligence (AI)-powered upgrade of its Siri voice assistant to market in spring 2026, after facing delays and failing to meet its original goal of fall 2024. The new Siri features could be previewed in the fall before being released in the...",
-      "published": "Fri, 13 Jun 2025 10:37:21 GMT"
+      "id": "304ff5b2d0a434e56c4ddd2d5f1e697b",
+      "title": "Apple Now Selling Refurbished M4 MacBook Air Models - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/06/13/apple-refurbished-m4-macbook-air/",
+      "image_url": "https://images.macrumors.com/t/-msxKZYMwSlYjjxY4thm1X5kEKg=/2500x/article-new/2025/05/m4-macbook-air-pink.jpeg",
+      "summary": "iPhone 16eWWDC 2025iOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad minimacOS 26 TahoeApple Watch 10iPhone 18CarPlayApple Pay Apple Now Selling Refurbished M4 MacBook Air Models Friday...",
+      "published": "Fri, 13 Jun 2025 22:34:55 GMT"
+    },
+    {
+      "id": "bdb2684d42f43efb4c65711af31d91c5",
+      "title": "Google can now generate a fake AI podcast of your search results - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2025/06/google-begins-testing-ai-powered-audio-overviews-in-search-results/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/438220d8-2216-427d-b440-b47de107a2e1-1152x648.jpg",
+      "summary": "Google can now generate a fake AI podcast of your search results Because you wanted this, right? You can now listen to search results, as summarized by AI. Credit: Google NotebookLM is undoubtedly one of Google's best implementations of generative AI technology, giving you the ability to explore documents and notes with a Gemini AI model. Last year, Google added...",
+      "published": "Fri, 13 Jun 2025 19:19:55 GMT"
+    },
+    {
+      "id": "d2bd30177e535ca1502f0f4f5759e71d",
+      "title": "Apple’s Spin on the Personalized Siri Apple Intelligence Reset - Daring Fireball",
+      "source": "Daring Fireball",
+      "url": "https://daringfireball.net/2025/06/apples_spin_on_the_personalized_siri_apple_intelligence_reset",
+      "image_url": "https://daringfireball.net/graphics/df-wide-card.png",
+      "summary": "New look? Mock up SwiftUI designs on your iPhone while watching the keynote. Apple’s Spin on the Personalized Siri Apple Intelligence Reset Michael Tsai, “Apple’s Spin on AI and iPadOS Multitasking”: I do want to call out that, in multiple interviews, they are kind of setting up strawmen to knock down. They keep saying that people say Apple is behind...",
+      "published": "Thu, 12 Jun 2025 23:41:45 GMT"
+    },
+    {
+      "id": "9efaf4e356e252d31c03542b1e04daaa",
+      "title": "Instagram will finally let you rearrange your grid - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/06/12/instagram-will-finally-let-you-rearrange-your-grid/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/instagram-GettyImages-2150186181.jpg?resize=1200,889",
+      "summary": "Instagram will finally let you rearrange your grid Instagram announced on Thursday that it will finally allow users to rearrange their grid and is testing a way for users to quietly post to their profile without having the content appear in users’ feeds. The social network is also launching the ability to stream songs from Spotify directly to your Instagram...",
+      "published": "Thu, 12 Jun 2025 16:00:00 GMT"
+    },
+    {
+      "id": "d04e8a904991500562c23bf4638a603a",
+      "title": "Apple releases new iOS 26 beta 1 build to developers - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2025/06/13/apple-releases-new-ios-26-beta-1-build-to-developers/",
+      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iOS-26-b1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Apple releases new iOS 26 beta 1 build to developers Apple unveiled iOS 26 earlier this week alongside the first developer beta, but now it has released a revised build to beta testers for select iPhone models. iOS 26 beta 1 gets updated build just days after release In an unusual move for a major new OS version, Apple has...",
+      "published": "Fri, 13 Jun 2025 17:13:00 GMT"
+    },
+    {
+      "id": "e56ca8870744fc27f9c95feb2d339624",
+      "title": "Amazon Slashes AirPods 4 Prices Just Before Prime Day, Now Closer to $0 Than $200 - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/amazon-slashes-airpods-4-prices-just-before-prime-day-now-closer-to-0-than-200-2000614817",
+      "image_url": "https://gizmodo.com/app/uploads/2025/02/airpods4-1200x675.jpg",
+      "summary": "We may earn a commission when you buy through links on the site. Amazon Slashes AirPods 4 Prices Just Before Prime Day, Now Closer to $0 Than $200 Amazon is emptying its AirPods 4 stock in mid-June, and no one knows why. AirPods 4 are dominating Amazon this June and both Active Noise Cancellation (ANC) models and the non-ANC models...",
+      "published": "Thu, 12 Jun 2025 13:25:15 GMT"
+    },
+    {
+      "id": "7ba81a2bdbb1041292d597dec9fd59d1",
+      "title": "Man Killed by Police After Spiraling Into ChatGPT-Driven Psychosis - futurism.com",
+      "source": "futurism.com",
+      "url": "https://futurism.com/man-killed-police-chatgpt",
+      "image_url": "https://wordpress-assets.futurism.com/2025/06/man-killed-police-spiraling-chatgpt-psychosis-1.jpg",
+      "summary": "JUN 13, 10:59 AM EDT by VICTOR TANGERMANN Man Killed by Police After Spiraling Into ChatGPT-Driven Psychosis / Artificial Intelligence/ Ai Chatbots/ Chatgpt/ Mental Health As we reported earlier this week, OpenAI's ChatGPT is sending people spiraling into severe mental health crises, causing potentially dangerous delusions about spiritual awakenings, messianic complexes, and boundless paranoia. Now, a wild new story in...",
+      "published": "Fri, 13 Jun 2025 14:59:43 GMT"
     },
     {
       "id": "afaddbf7c8884d22c5152aec07bc8fef",
@@ -33,75 +87,12 @@
       "published": "Fri, 13 Jun 2025 23:20:58 GMT"
     },
     {
-      "id": "0bbfcb7dcbd26abae8eb6ee3eb5681af",
-      "title": "New iOS 26 design makes me want an iPhone 17 Air more than ever - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjFTVC0yel9SeDdrZmQwNU5nT3hERnpIaEZsZWZFeFdtVjU5emM1WFhsVllNUFpBZHpGQXZsSlNWbHJGejF3NUg5Mkh6MVNPY1JLa1NJTmJPQ3YxSXZNSkRhWGJabFBxOHNoYVJkVXEyVEhWNXFJbmtjM0hWT1YzZ1h0WFp5eTRPQkJ6TG5YQlFPTkhDT2c?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 20:42:00 GMT"
-    },
-    {
-      "id": "457ff6915bf4232941cda628fcec8a98",
-      "title": "Steam Beta Adds Native Apple Silicon Support for Mac - MacRumors",
-      "source": "MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWjU1bDN1bzUtdkVTdEJZUFJ2WTNRdlFla0E4OEF1SkZfbnoyRWlHRTYyVncwemo1RjlzVTRaU3dBM0UxcFBmcmRPSUEzWDNZel84T3JNc3dYQk1Vc1ZrdC1PSEFSMUxlc2gyMTU1TmxXd3JtOTh4akFIdUZMb3V2a0h4czNMbUM5eGc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 11:41:06 GMT"
-    },
-    {
-      "id": "1a77ef152f1466d892f9fd99022ddfc2",
-      "title": "The Galaxy Z Fold 7’s camera bump looks massive in early leak - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LM2F1ZDRPcnNROUxoNWxxY2xneUJnNmtQcFU0cU1tZndpeXVqVEUxVzF6X0JVQlY2UHl6OU1BUjFhSmRUcXZLYWxHcWhnX0k4QXY0NjJ0cXJDZjNpV1YtMmF0dmQtOGVXLWZCX2w3TGZ5QkRvWUE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 18:08:00 GMT"
-    },
-    {
-      "id": "45ffd0261b1296cd2f71396bc726aa34",
-      "title": "iOS 26 will fit CarPlay to better match the shape of your car's screen - Engadget",
-      "source": "Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1ZTS2FndWFJenZ4RGhEN053M1hEbkdvcUZwdHJHajE5TUI2SUlPc0xPc0ZrZFR4WU14SW5YNFJ4SXc3MjVySTkwR0FjTW5JV0g5U1c3SENCTlZJZENuVGtHZ2psYXdfcVNxMHgyQU5rOG1EWDFLb2FUVEJkOE5GTkJ2OVNlVVV3NGl1dV85T0NGaVg0c3hxTU5SNGRWNWhNb1RLUW8tWWo5T09wOUp5WkdJV3FpeE41aEo4Y1Y5UkQ5UQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 12:00:36 GMT"
-    },
-    {
-      "id": "bf116d5f95d5315a228ea40cc64daf08",
-      "title": "ChatGPT Tells Users to Alert the Media That It Is Trying to ‘Break’ People: Report - Gizmodo",
-      "source": "Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWFVDdkZnQXdxUUF0UE4xVUR4MW9HZGdNUlNmaEhZT2N0cm9WdzRzbHd0NGM1LUpEQVZ5eVlwZkszUk9Nd0VmREZZN2dHZmlCZkdnOHZUaDVra2FONEtUYnI0YzZmck9jbk4xUWRnUnhpMU1mdFRZLWZqQ1lJMU9haC13SWN3QVEwcmt2alVXQ01rZk9Od21FUWhfRGVnSnFZTE9zYVpZVE4wZTNyMFc0?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 18:30:31 GMT"
-    },
-    {
-      "id": "e56ca8870744fc27f9c95feb2d339624",
-      "title": "Amazon Slashes AirPods 4 Prices Just Before Prime Day, Now Closer to $0 Than $200 - Gizmodo",
-      "source": "Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa01Vdld3QnRKV1BmbkZfMkF4S0RnLXkyaUQ5MG5qTUVsdTJwa3Rid0Y0NXpfV0NDUEI1TUVYY3BQcGRfR3lCcTVHM3VhMllDWGpud01xeXN1UlNTaWtNSFhHMkZMU2txR3RRTFlOYXRvNFlBTmwydzhKcUJ1VGxZeDczRWRBRzBWSENvZ1c4WUFkb1VfQ1NFV3VoN2hJN01DOVpUbDJoRjkxTU9Yanc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 13:25:15 GMT"
-    },
-    {
-      "id": "1f4f3a833ed5e33583365c3ad395804a",
-      "title": "The AI-generated ad that aired during the NBA finals took $2,000 and 2 days to make - Mashable",
-      "source": "Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8ya0ViUFZ3OWVPU3UzQWpzTV9ybmhUYXVweW03YWRyZlMtUDk3bFRtcUZrYko1NFpoYWVxa0FNc0xzTXd0WDBHT2ViWWE2UGswdlplc2lvOGRlNUlwUnc5S2VYZGMwR3Z3bGstVzlwX0FPY2FzVlNHa0lR?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 15:05:07 GMT"
-    },
-    {
       "id": "cd3b4843dc8a0cfaa448844f5c8a1510",
       "title": "Friday the 13th solar storm could bring auroras to 18 US states this weekend - Live Science",
       "source": "Live Science",
       "url": "https://www.livescience.com/space/the-sun/friday-the-13th-solar-storm-could-bring-auroras-to-18-us-states-this-weekend",
       "image_url": "https://cdn.mos.cms.futurecdn.net/6bBgHSBUo4ty5T2o2t42xX.jpg",
-      "summary": "California's faults overdue earthquakes Friday the 13th solar storm could bring auroras to 18 US states this weekend By Harry Baker published 15 hours ago Space weather experts warn that a \"moderate\" geomagnetic storm could rock Earth over the weekend, potentially lighting the skies with vibrant auroras across large parts of the U. S. and Europe. When you purchase through...",
+      "summary": "California's faults overdue earthquakes Friday the 13th solar storm could bring auroras to 18 US states this weekend By Harry Baker published 21 hours ago Space weather experts warn that a \"moderate\" geomagnetic storm could rock Earth over the weekend, potentially lighting the skies with vibrant auroras across large parts of the U. S. and Europe. When you purchase through...",
       "published": "Fri, 13 Jun 2025 16:44:16 GMT"
     },
     {
@@ -114,40 +105,58 @@
       "published": "Fri, 13 Jun 2025 16:30:00 GMT"
     },
     {
-      "id": "5656f90d677cc64fddc823d2b764bcf8",
-      "title": "Chevy Corvette Looking To Steal Mustang GTD Nurburgring Record: Report - The Drive",
-      "source": "The Drive",
-      "url": "https://www.thedrive.com/news/chevy-corvette-looking-to-steal-mustang-gtd-nurburgring-record-report",
-      "image_url": "https://www.thedrive.com/wp-content/uploads/2025/06/SB15233-e1749829375168.jpg",
-      "summary": "Chevy Corvette Looking To Steal Mustang GTD Nurburgring Record: Report Chevrolet Corvette Zora prototypes are attacking the 'Ring right now. Published Jun 13, 2025 11:20 AM EDT Get The Drive’s daily newsletter The latest car news, reviews, and features. Terms of Service & Privacy Policy. General Motors might be looking to make history, or, it’s just wrapping up development on...",
-      "published": "Fri, 13 Jun 2025 15:20:21 GMT"
+      "id": "1f4f3a833ed5e33583365c3ad395804a",
+      "title": "The AI-generated ad that aired during the NBA finals took $2,000 and 2 days to make - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/article/ai-generated-video-veo3-nba-finals-kalshi",
+      "image_url": "https://helios-i.mashable.com/imagery/articles/00eZbdnohQElHpg5hmRd0YN/hero-image.fill.size_1200x675.v1749827106.jpg",
+      "summary": ".animate #euSMf1FbiNs11_to{animation:euSMf1FbiNs11_to__to 1s linear 1 normal forwards}. animate-reverse #euSMf1FbiNs11_to{animation:euSMf1FbiNs11_to__back 1s linear 1 normal forwards}@keyframes euSMf1FbiNs11_to__to{0%{transform:translate(2326. 395841px,218. 229656px)}45%{transform:translate(2326. 395841px,218. 229656px)}73%{transform:translate(662. 384075px,215. 434656px)}100%{transform:translate(662. 384075px,215. 434656px)}}@keyframes euSMf1FbiNs11_to__back{0%{transform:translate(662. 384075px,215. 434656px)}45%{transform:translate(662. 384075px,215. 434656px)}73%{transform:translate(2326. 395841px,218. 229656px)}100%{transform:translate(2326. 395841px,218. 229656px)}}. animate #euSMf1FbiNs15_to{animation:euSMf1FbiNs15_to__to 1s linear 1 normal forwards}. animate-reverse #euSMf1FbiNs15_to{animation:euSMf1FbiNs15_to__back 1s linear 1 normal forwards}@keyframes euSMf1FbiNs15_to__to{0%{transform:translate(144. 277373px,1260. 854733px)}41%{transform:translate(144. 277373px,331. 868153px)}100%{transform:transla. ..",
+      "published": "Fri, 13 Jun 2025 15:05:07 GMT"
     },
     {
-      "id": "5479de029c4f375f6860f396e67ad955",
-      "title": "A Creature From the Dinosaur Age Was Just Caught on Camera - The Daily Galaxy",
-      "source": "The Daily Galaxy",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xVjUyZWMtcWZkb2tMZEsxZHZ0aEthTmk3VkxWVGxBQnNSUmxKR05FSmpiYjlLdjUtMnFJbjZmcHNkYXV3YWRaWTlveG5CQV9tUkpjZUVLZFVxamFXUmNwajI2OVg5Q2VRN09FVmdLRkdPN090Vm8zLVJiRQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 19:00:00 GMT"
+      "id": "33974aaaa339692df919529b25befdce",
+      "title": "Here come the glassholes, part II - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9c21af68-28ba-489e-81a6-552aff61ddbb",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff2fcf198-f251-4bb5-8975-85c25551b5eb.jpg?source=next-barrier-page",
+      "summary": "Here come the glassholes, part II Subscribe to unlock this article Get 2 months free with an annual subscription at Access to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on FT. com and receive the FT Edit newsletter. See why over a million readers pay to read the...",
+      "published": "Fri, 13 Jun 2025 04:00:36 GMT"
     },
     {
       "id": "204b98b4e19328e6d76e28b26575ac39",
       "title": "Microsoft confirms auth issues affecting Microsoft 365 users - BleepingComputer",
       "source": "BleepingComputer",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYkVoMlFYVms0NWFDb2UwcDdTSFA1WmVSbnAtOTJnYklJazBJUGZtRlRjRDNia2QzXzZQaGdqS3JkWWtqSWNjdTh1Skh0b1d1OWQ4WVppaV8zS3lWTVBFOF85T193M2FYNmJqUWtQcnVhSS1DUkhneUd0V3pHa3I3d3Q1THRURnJUX1pJZkdlRHBJZVlFVExnc25BN1RwT3lBdHdKbFZLVmc4SlFZSmfSAbMBQVVfeXFMTnpBdVkta0w5ek5DTjlMNGx0NmI5Y2pDWW5lejNqT19OX0tKLXBEM2laUW5zbW5Dc2QzVHdVMWNERXEyZ2szZFBCQV8yczlGRVg1aFdHcVIwSHNZTmdYZGJGanRLODZHY2xHbjkxOXZ3a3lZMEFjYlNlRjQxak90SWR3QVJmNjRqejFFYUxtamt3aVB6OVRQcWRDQmkzb0YtaU5lUkJCZDZaN05iZ1FNeXhmSXM?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-auth-issues-affecting-microsoft-365-users/",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2025/05/06/Microsoft-365.jpg",
+      "summary": "HomeNewsMicrosoftMicrosoft confirms auth issues affecting Microsoft 365 users Microsoft confirms auth issues affecting Microsoft 365 users Microsoft is investigating an ongoing incident that is causing users to experience errors with some Microsoft 365 authentication features. As the company revealed earlier today in an incident alert published in the admin center, users may experience errors during self-service password resets and when...",
       "published": "Fri, 13 Jun 2025 12:37:06 GMT"
     },
     {
-      "id": "eeae90deef5dd3a43d20c50c1adbba24",
-      "title": "Halo fans losing their minds over surprise return of Halo 3 - GAMINGbible",
-      "source": "GAMINGbible",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRVh3YWVHT3hUS2pCYi01MXR2WmpCX00tTlZDaWZ1WkZQRkVhVVpQZk5uR0JNVTJybkgwVlhLV0NWYmFoOGNYbjlVcTRvMERCR05BUkdpeVZjbkdMSHZMVVE1VlZGamZiRnNubmRCU0plTzZEektqVHdPZFk1S2lIb0kwdmlqeTBsUXdsRDhlb2xUcl9MZnotWnJrOA?oc=5",
+      "id": "5656f90d677cc64fddc823d2b764bcf8",
+      "title": "Chevy Corvette Looking To Steal Mustang GTD Nurburgring Record: Report - The Drive",
+      "source": "The Drive",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU01jVm9qNk52a1pHS2dlcm13Qk9lSHRqWVJCYlJtLUcyeEVVb0tnYUtfYWRvaU1ybzhYWGtTaS1YdENBT2IzaTh3bnpld1hkRnlfUF9CSDR0NXBEZ3h5N0J1Wnp1NmFaNDIzdDJYNkFqM2pDZWo4aU52Skg0ejBGb1BudU1sdUFWcTNKaUsxakVNdGVGcXV5NlY4Z1VseEJt?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 08:57:06 GMT"
+      "published": "Fri, 13 Jun 2025 15:20:21 GMT"
+    },
+    {
+      "id": "809d02c256d5817fd021e2697e343380",
+      "title": "Stellar Blade More Than Doubles Sony’s Previous Steam CCU Record for Single Player Games - Wccftech",
+      "source": "Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNmIxS1VYdzdjRDlLZ0U2eHBuR0ZTdnlaUlRJRTI0QllaWXNBdWpsa0k4SjdhTV9LaFkyNmJtQzJUaTdfZFFSMDBtNlBHU29kVnlEdk1zOEUwNnExOHBQS0NYenlCWlBmdl9KRklZczdvaU00MEdsNWJoNlo0Q0RBcXptUmVNT3JMTXpMYW9nLWtNSmNzbTMzY1VnbzZiQkNYQU1jSDRsLXVHN0pXcUHSAbMBQVVfeXFMTzJ2S1NFV0k5b05keFh5NjFjRXhXZExiOFlWNXNUbFlaZmFmek95bVpaQ2d5UG9vb2JIWVBfMGlZQzFJbmpNUzBCRU1Vdmk0QmVoNmlqTFBCZy1KNnRSQlJUMmZrRG9nUzl3M2lKVGxGTWNMTzY5c25ha1lqUXktdFhWbWY2ZktDYXZET2NTRkY1S08zSXJTbGdUUE5FSEREUC1BU2RHeVJoel9aTnZkRnJGYVE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 13 Jun 2025 09:30:00 GMT"
+    },
+    {
+      "id": "c813d2ce2633c9fe41a54ed56c48c9d2",
+      "title": "PlayStation Studios boss confident Marathon won't repeat the mistakes of Concord - Game Developer",
+      "source": "Game Developer",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd0JaN1hDeHEtXzR2ZnQ2WENmdEhFa3pNNFYtaWVIN3dLazZkM1pjaS0tY0JHTnpRVUZON3NVTUswVXZRMnFSbmVXMUNMaHdwY0FucnEyRWdVYkx2MGEtcnk4cko5MW9RdGRYUkJhYzh3QXpudVlncllvODlMT1hid0dIWUJlNVV6NlA5V2FmM0NNM1k5bHdwNHpBcmRJc2tieHRFQ0NPV1VSTWJXRGR5OWxOTklESHptX0JF?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 13 Jun 2025 11:37:54 GMT"
     },
     {
       "id": "22bacd25cb55c9185495d02387f1459e",
@@ -159,31 +168,22 @@
       "published": "Fri, 13 Jun 2025 17:43:28 GMT"
     },
     {
-      "id": "3b43bc6afa542cc9c301be368feec116",
-      "title": "Apple’s Liquid Glass design is paving the way for AR glasses - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR2Y2UjM4Y0p5d0ZNNlpSUl9iU3c4VEVPY2tOZlpKTEJ5YUFkaWJJeFhjTGF0SE51Z0doRHZYQTdwYXVzSWRkRmo2VUJzXzRnUElUNWM0eWNnQWhaZkJ6djB2UVByT3ZYYVdfMFY0M3AwUXNaTnhpbFdPSE9PWXRKdF95dWc5WmNkTG14UW1FRVpHLTNmNWV5VHBR?oc=5",
+      "id": "d375f2fcca5b488c91b2b2914626036e",
+      "title": "Netflix anime boosts Devil May Cry 5 sales to over 10m - Eurogamer",
+      "source": "Eurogamer",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNG14Z0NRMzFLSzRGRlJ6MC1aNGw0LVQ3Zk1fY29ybDNpaHA1a2NMNTZaTDE4M2tkNHBxVVBZN096bkgyUVdiSUI0djBuM1FKR0hXR0lNV3pMQ1hGN2RYTVM0SVNMSEFrVlVXdno0TjF1dHMxUUcxQmNyRWVlVTNuc0ZHa0ZoMmc?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 18:00:15 GMT"
+      "published": "Fri, 13 Jun 2025 11:10:31 GMT"
     },
     {
-      "id": "72ad889ff5b22afd495175eb460cf72a",
-      "title": "Marvel vs. Capcom Fighting Collection Receives An Update (Version 1.0.4), Here Are The Full Patch Notes - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQkl4dF9VVEpQOE9wWVZEaXlWTi1oenhKakE4U29oR3laRVNoVjhxWkFlZmx3NzNNNWpRTXcySWt0VU1nTndYSVVGVG1zQ2hCRVRCZVlWZlFFd3IyamFuck84MGMzVFFwd2dweEoxZjZMRE50d3NhbXVRenA5MGV0VjlrSXVmOVZnUDNTNDdGWUs2Z1NwRWxmNFJ4dmdBdUtMZXBmb2c4cXVFSlh0R2hreTNCTlVCR0NuT0dhQ1YxNnJNeGpPVWxDdm01blhOQzRTQ3d3VnBVY3M?oc=5",
+      "id": "d1b40895a35756e9a420eb583f63944f",
+      "title": "The tiny Logitech Keys-To-Go 2 keyboard lets me get work done almost anywhere - CNN",
+      "source": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1QVo0WW5ycHNjdlphUk85RVpMN09RWXg3eWhqeUJGR2dXZU9vVmRUVGw3aFFnTlJoaV9zSi1hUHp5QURZd2dYSkxIN2paY3M1YkdDSVl6X1VoenREeW53UThYQkRIZXVuQ3hYQktDN0N5cldCSFRxWnlyc3NVRzTSAYQBQVVfeXFMTllPbm43M1RFeFF0a1Eydi1ZaDVEVmpoQWFmM05Bem5aMW82dFZvb2hjeldmSkRFaDRnZlVQMkY1NWpLOTlrbDFQdnRVc1J6T0Y4dEpkVE9wc216RjdiRHhjYWlDaVNZUG1LVjdodDlPNHE5S0lzUC1oM29YaVdQTVVaelNH?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 04:11:17 GMT"
-    },
-    {
-      "id": "f0a37025a1bf0e4a9b742a47af0b4f40",
-      "title": "Konami Reveals ‘Silent Hill’ Remake Currently in Development From Bloober Team! [Watch] - Bloody Disgusting",
-      "source": "Bloody Disgusting",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdFJYR2E2OGJ5RDRpUXFmcno4Z0RPM1BBMk5PUEdyLWJtZE11RzJvNVR0SDlqWDN5SlRTLVEzSEhJbmxsS21qN3JEUkdzeTlZN2QwN0c0OGNCT0F0c1NkNjhwdm9DT2Nfa0xCTnlqeEhNTzN4ak9kanNNWUp3UzhzdVNBMGoxLWFHUjhJdzlaSUE3UTFDTW5RVVp5aDdsdUZMbXR1dWJGLTRWWC12OTNSOGpmT1k1aFo5SlhOTGM0R0IxVGEtYzQza1lwT195dw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 12 Jun 2025 18:11:15 GMT"
+      "published": "Fri, 13 Jun 2025 16:32:00 GMT"
     }
   ]
 }
