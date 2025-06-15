@@ -1,19 +1,10 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-06-15 13:35:15",
+    "generation_time": "2025-06-15 18:59:00",
     "total_articles": 20
   },
   "articles": [
-    {
-      "id": "866ab1f77ff1ff67b1f9b348c7ef9196",
-      "title": "Genetic variant tied to doubled dementia risk for older men - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/health/2025/06/15/dementia-risk-men-genetic-variant/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/75T3LN6IHJEZLCIXQXBRPBHCTE_size-normalized.jpg&w=1440",
-      "summary": "Genetic variant tied to doubled dementia risk for older men Researchers looked at a gene that is critical to regulating the body’s iron levels. A doctor looks at PET brain scans at Banner Alzheimer's Institute in Phoenix. A recent analysis suggests a link between a common genetic variant and dementia risk in men. (Matt York/AP) A common genetic variant is...",
-      "published": "Sun, 15 Jun 2025 12:01:12 GMT"
-    },
     {
       "id": "48fc4c06170fc4c14c7a2a19bdf89c1a",
       "title": "US measles count nears 1,200 cases as Ohio officials confirm 3 outbreaks are over - AP News",
@@ -29,17 +20,17 @@
       "source": "CNN",
       "url": "https://www.cnn.com/2025/06/13/health/kennedy-hhs-congress-vaccine-changes",
       "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2210910482.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Minnesota Sen. Amy Klobuchar discusses the shootings of two state lawmakers and the ongoing search for the suspect. Watch CNN Kennedy’s HHS sent Congress ‘junk science’ to defend vaccine changes, experts say By Jackie Fortiér, KFF Health News US Health and Human Services Secretary Robert F. Kennedy Jr. announced May 27 that the CDC would no longer recommend Covid vaccines...",
+      "summary": "Kennedy’s HHS sent Congress ‘junk science’ to defend vaccine changes, experts say By Jackie Fortiér, KFF Health News US Health and Human Services Secretary Robert F. Kennedy Jr. announced May 27 that the CDC would no longer recommend Covid vaccines for pregnant women or healthy children. Andrew Harnik/Getty Images/File A document the Department of Health and Human Services sent to...",
       "published": "Fri, 13 Jun 2025 19:40:00 GMT"
     },
     {
-      "id": "a8712451469f93d820f066914ba893b1",
-      "title": "Boulder County resident exposed Flatiron Flyer passengers to measles - The Denver Post",
-      "source": "The Denver Post",
-      "url": "https://www.denverpost.com/2025/06/13/flatiron-flyer-measles-colorado-denver-boulder/",
-      "image_url": "https://www.denverpost.com/wp-content/uploads/2020/07/AP20205833111987.jpg?w=1024&h=690",
-      "summary": "Boulder County resident exposed Flatiron Flyer passengers to measles Contagious passenger, back from Europe, rode RTD line between Boulder and Denver 6 times last week",
-      "published": "Fri, 13 Jun 2025 22:25:01 GMT"
+      "id": "5d273a63c0c8f551725db17f4ce276a5",
+      "title": "The one thing you must discuss with your dad on Father’s Day - The Telegraph",
+      "source": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/news/2025/06/13/the-one-thing-you-must-discuss-with-your-dad-on-fathers-day/",
+      "image_url": "https://www.telegraph.co.uk/content/dam/news/2025/06/13/TELEMMGLPICT000428492246_17498212403260_trans_NvBQzQNjv4Bq7t4Eljyiy6iRMFuEKY2dXEikPYR0xYwuEBLwP9UFqPg.jpeg?impolicy=OG-Comment",
+      "summary": "The one thing you must discuss with your dad on Father’s Day Waiting too long to be checked for prostate cancer is costing lives. That’s why we need a national screening programme Rishi Sunak and his father in Greece On Father’s Day, many of us will call our Dads for a chat. .. To read this article free, enter your...",
+      "published": "Fri, 13 Jun 2025 19:00:00 GMT"
     },
     {
       "id": "ee8e7618ada10e5cbc6635ecb989d87d",
@@ -51,6 +42,51 @@
       "published": "Sat, 14 Jun 2025 23:13:48 GMT"
     },
     {
+      "id": "a8712451469f93d820f066914ba893b1",
+      "title": "Boulder County resident exposed Flatiron Flyer passengers to measles - The Denver Post",
+      "source": "The Denver Post",
+      "url": "https://www.denverpost.com/2025/06/13/flatiron-flyer-measles-colorado-denver-boulder/",
+      "image_url": "https://www.denverpost.com/wp-content/uploads/2020/07/AP20205833111987.jpg?w=1024&h=690",
+      "summary": "Boulder County resident exposed Flatiron Flyer passengers to measles Contagious passenger, back from Europe, rode RTD line between Boulder and Denver 6 times last week",
+      "published": "Fri, 13 Jun 2025 22:25:01 GMT"
+    },
+    {
+      "id": "f9a4a69583e8a1effd7131183ae0a30c",
+      "title": "Gen X, millennials are about three times more likely than their parents to be diagnosed with appendix cancer, study finds - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/15/health/appendix-cancer-young-adults-us-wellness",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/chris-in-fort-greene-photo-by-toni-dubois.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Gen X, millennials are about three times more likely than their parents to be diagnosed with appendix cancer, study finds Chris Williams was 48 when he was diagnosed with appendix cancer. Courtesy Toni Dubois The pain was so sharp that Chris Williams took himself to the hospital. It was a Tuesday evening in September 2021 when Williams started to feel...",
+      "published": "Sun, 15 Jun 2025 12:00:00 GMT"
+    },
+    {
+      "id": "761367815cd32bd1118b263f832f8a2e",
+      "title": "I Thought My Husband Had a Good Reason to Avoid Sex. Then I Saw Something I Wish I Hadn’t. - Slate Magazine",
+      "source": "Slate Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdi1nbkhuMEc1RHp0LVcteHFFVnhiRGVIa0owVXpmNy1xLVljMkF6SVk3WlhEaVlBUEpta2hHNVZLd21RLXBOV0VMNzdVLTJZbjBLX0phS3BhN3JiVXpJN0tIVGVTWTlLOTQ3d2F6Z2xxQWNfUnFBRUpRMTVDVVNFblpn?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 15 Jun 2025 13:00:00 GMT"
+    },
+    {
+      "id": "314f21007ae7b420bc6b5040c271ace9",
+      "title": "DC health officials confirm case of measles - WTOP",
+      "source": "WTOP",
+      "url": "https://wtop.com/dc/2025/06/dc-health-officials-confirm-case-of-measles/",
+      "image_url": "https://wtop.com/wp-content/uploads/2024/04/Measles-Explainer_56497-scaled-e1748123740649.jpg",
+      "summary": "This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. Privacy Policy This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. Privacy Policy This website utilizes technologies such as cookies to enable essential site functionality, as well...",
+      "published": "Sun, 15 Jun 2025 01:08:38 GMT"
+    },
+    {
+      "id": "eafca4f9f5a72c2b6bdbfba9abbdbd4b",
+      "title": "Nutritionists Rank The Best (And Worst) Packaged Deli Meats For Your Health - HuffPost",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/nutritionists-rank-the-best-and-worst-packaged-deli-meats-for-your-health-goog_l_68499378e4b0f2259d605b7e",
+      "image_url": "https://img.huffingtonpost.com/asset/682756081700002500aa06e1.jpeg?ops=1200_630",
+      "summary": "9 Rude Comments Stay-At-Home Dads Get All The Time 16 Too-Real Tweets About Mother's Day vs. Father's Day 23 Pics That Prove Your Dad Has Always Been Way Cooler Than You Twenty Years of Fearless Reporting Nutritionists Rank The Best (And Worst) Packaged Deli Meats For Your Health See how the 10 most popular deli meats rate. (Sorry, bologna lovers.",
+      "published": "Sun, 15 Jun 2025 11:00:04 GMT"
+    },
+    {
       "id": "3c398c147ddc0d2b008c91de1e30af93",
       "title": "Advice for trying GLP-1 drugs for weight loss from a doctor who's been there - NPR",
       "source": "NPR",
@@ -58,6 +94,33 @@
       "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1732x974+0+359/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2Ffa%2F33cbb83846cfbf8dde1c63ea4966%2Fgettyimages-2020907487.jpg",
       "summary": "Advice for trying GLP-1 drugs for weight loss from a doctor who's been there aprott/iStockphoto/Getty Images Dr. David A. Kessler has always been in the business of keeping people healthy – but by his own admission, he hasn't always applied that to himself. Kessler's problem was with food. In medical school, greasy French fries and salted roast beef helped him...",
       "published": "Sun, 15 Jun 2025 11:02:00 GMT"
+    },
+    {
+      "id": "efe11fb29b6571d7c0afd5d8b3e9e7c3",
+      "title": "Ancient miasma theory may help explain Health Secretary Robert F. Kennedy Jr.'s vaccine moves - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/06/14/nx-s1-5429732/ancient-miasma-theory-may-help-explain-health-secretary-robert-f-kennedy-jr-s-vaccine-moves",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+102/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F3c%2F6a4c565941d19ba05c3675aaec15%2Fgettyimages-2216571317.jpg",
+      "summary": "Ancient miasma theory may help explain Health Secretary Robert F. Kennedy Jr. 's vaccine moves Health and Human Services Secretary Robert F. Kennedy Jr. (R) and Food and Drug Administration (FDA) Commissioner Martin Makary at the White House in May, when Kennedy released a Make America Healthy Again Commission report that blamed the rise in chronic illnesses on ultraprocessed foods,...",
+      "published": "Sat, 14 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "id": "4222431d957f792cf7ee807641956f51",
+      "title": "Researchers raise red flag that doctors may be underprepared for devastating new disease emerging in US: 'We want to give the early warning' - Yahoo",
+      "source": "Yahoo",
+      "url": "https://www.yahoo.com/news/researchers-raise-red-flag-doctors-104528437.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/ifPzma.KCWwy7tnK6.dG5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzc-/https://media.zenfs.com/en/the_cool_down_737/0e8335ba020270fd7ca2c9878a72aedb",
+      "summary": "New tax could hit family abroad Researchers raise red flag that doctors may be underprepared for devastating new disease emerging in US: 'We want to give the early warning' Sun, June 15, 2025 at 10:45 AM UTC Researchers raise red flag that doctors may be underprepared for devastating new disease emerging in US: 'We want to give the early warning'...",
+      "published": "Sun, 15 Jun 2025 10:45:28 GMT"
+    },
+    {
+      "id": "896ae96af00a7fcaa67eab8458521fbf",
+      "title": "I'm a scientist who cured my insomnia... and discovered what we've been told about sleep is a lie - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/health/article-14776067/sleep-scientist-cured-insomnia-lifestyle-myths-advice.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/06/19/99121529-0-image-m-45_1749233778324.jpg",
+      "summary": "I'm a scientist who cured my insomnia. .. and discovered what we've been told about sleep is a lie READ MORE: Startling graphs show not getting enough sleep can be DEADLY By EMILY JOSHU STERNE, SENIOR HEALTH REPORTER FOR DAILYMAIL. COM PUBLISHED: 10:46 EDT, 15 June 2025 | UPDATED: 10:51 EDT, 15 June 2025 For decades people have been told...",
+      "published": "Sun, 15 Jun 2025 14:46:57 GMT"
     },
     {
       "id": "2b46530119972c22fd1fb92defd362d0",
@@ -69,6 +132,15 @@
       "published": "Sat, 14 Jun 2025 00:09:00 GMT"
     },
     {
+      "id": "e54bb460478b6cfc30641eb3613d2f64",
+      "title": "Many Older People Embrace Vaccines. Research Is Proving Them Right. - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/14/health/elderly-vaccines-dementia.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sat, 14 Jun 2025 17:21:32 GMT"
+    },
+    {
       "id": "f5b23cae1de4d4fa87371c614a4d4820",
       "title": "‘Razor Blade Throat’ Symptoms As ‘Nimbus’ COVID-19 Variant Spreads - Forbes",
       "source": "Forbes",
@@ -78,112 +150,40 @@
       "published": "Sat, 14 Jun 2025 23:14:54 GMT"
     },
     {
-      "id": "e54bb460478b6cfc30641eb3613d2f64",
-      "title": "Many Older People Embrace Vaccines. Research Is Proving Them Right. - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/14/health/elderly-vaccines-dementia.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 11:21:08 GMT"
-    },
-    {
-      "id": "30fe1bf18279fcc129598b4ab5290f25",
-      "title": "Appendix Cancer Has Quadrupled in Millennials - AOL.com",
-      "source": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qVVQ4bWxsOVIxbUYxUjVwTzZjZ1h3MjVXLVkyMFAzcllhaUM4eUJkNWNUSEoxT090LU5tbFFUN0xULXVaemxXdkRocEFWOWVqSG14Zk1CNlhoOWpBZE5BUzJSM3dlNm94b19PaWVid3J3OWJsWlg4cDRzU3RCZw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 09 Jun 2025 22:03:24 GMT"
-    },
-    {
       "id": "a8e011c2d1706186448a8cdbd76142e0",
       "title": "Quintessential summer drink shockingly linked to aggressive skin cancer - Daily Mail",
       "source": "Daily Mail",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWkxrbVNiSzZEQkxzZUJTcjBfblNLNUp5dXE4R0RMaEZCdm43UDdWQnMtM2VQZ2RMMTZabWQteUttbmdUdURDQmppeFdlcWJfN1FfNGxoZENodnhOdEd4RVBWOEJjcEtGNDRiMzFyM05ON3lmMHE5QTZwR2d5alBPWUw3RThrZmJ0MDJvUXZrcUduN0hDT2VkRlo4ajNxMDdEdm9yWnRsNmh3TU83V1k3OFpQZEFYeVkwZDVtWlp5TFBTb0U?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.dailymail.co.uk/health/article-14810087/Quintessential-summer-drink-shockingly-linked-aggressive-skin-cancer.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/13/21/99359939-0-image-a-48_1749847837334.jpg",
+      "summary": "Quintessential summer drink shockingly linked to aggressive skin cancer READ MORE: Parts of the body men and women are most likely to get skin cancer By ISHITA SRIVASTAVA FOR DAILYMAIL. COM PUBLISHED: 19:39 EDT, 13 June 2025 | UPDATED: 19:56 EDT, 13 June 2025 Summer's here, which means millions will be enjoying a glass of wine on a warm evening.",
       "published": "Fri, 13 Jun 2025 23:39:44 GMT"
     },
     {
-      "id": "5e92717be64b1dba7ad939014739faa5",
-      "title": "Person with measles visited Boston hotel, museum, airport, health officials warn - NBC Boston",
-      "source": "NBC Boston",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUFMajRleU1iQzYxX0dmVzNBSXRRWUxMUzZvWTJGTGwwbGlLM3IzRWFUcTdHbGFEQVI3QTBpZWlkaXJsT0JOdDdfNzRrbjM1QUlXVDJnUE40WUdXN1FqSG1kVTMzSTJYd2RjMm1Ed0VhcmVUQkJfU2E3enNVaENST2sybVk4MC1tXzNSNGt4ZG5QTHU5TkZaOGNPTkpsaE5ocVZkZNIBrAFBVV95cUxPc3hEZHlFUVBOMTBtb0lwX1lNYUJ1MS1VZS1oeXhrSXpPalotRURJM29fZFZoQVNFNlYyUEtfU3Nhb3lxaTJpOXFndHZQSVRXXzVsb1Z4d3praXZiV2tsRFM4YjhrLWhWbEN3QWpfdkszR2U1bnc0TkNSLWN4NUdRM2Z4V0NtVS1DSVRPQVI2TkdHM3ZjTXhITGFSbm1GSlQxc2lydFZiWG1UN2Jw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 02:43:23 GMT"
+      "id": "f4b1ee9e9d17a2f5de87bd3774b27e37",
+      "title": "More dental problems as you get older? Aging may not be the real reason - San Francisco Chronicle",
+      "source": "San Francisco Chronicle",
+      "url": "https://www.sfchronicle.com/health/aging-longevity/article/teeth-oral-health-dentist-20371084.php",
+      "image_url": "https://www.sfchronicle.com/img/logos/black/logo.svg",
+      "summary": "Press & Hold to confirm you are Reference ID c078ae2f-4a1a-11f0-9400-5caf7f01c6f2",
+      "published": "Sun, 15 Jun 2025 11:00:37 GMT"
     },
     {
-      "id": "774b84603cbba788e1c7d38993a0591c",
-      "title": "Walking more may lower your risk for chronic low back pain by 23%, study suggests - KSL.com",
-      "source": "KSL.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONHZBWEVRc1RjMDZaLWtBd1d1S2VzaWd2X3o4eDVDSG8tVnIxakxIUW80eElRR0ExbjBQa3ZGNVZ3NjhoN1FURDhpUzlOODJVbmlOUjhFTFdLMTRxTTZzTWc0TzZZeUlKQXNnbGx3SzktMkJ0Si1lV3JPU1VlWWJVNmJhMUlCc0RVVmZOcmNIUGNfNlR2QjF4eGpQbmh3dG82RU9SaHhYaUVrUXU4akhBUUV4OHMzTEU?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 13:15:55 GMT"
+      "id": "c95ad1320869b6230eafbe845af046f2",
+      "title": "Person contagious with measles visited Boston public spaces - The Boston Globe",
+      "source": "The Boston Globe",
+      "url": "https://www.bostonglobe.com/2025/06/14/metro/contagious-measles-visits-boston/",
+      "image_url": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=557",
+      "summary": "Person contagious with measles visited Boston public spaces logo-white Created with Sketch. You've Been Selected for Our Best Offer Get the news you need, anytime and anywhere. Limited-time offer. Cancel anytime. Already a subscriber? Log in | Home This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about...",
+      "published": "Sat, 14 Jun 2025 22:06:53 GMT"
     },
     {
-      "id": "32819f3e1e4fa008e98b1c7100bc95df",
-      "title": "Scientists pinpoint way to check if you're going to get early-onset colon cancer with up to 92% accuracy - Daily Mail",
-      "source": "Daily Mail",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOGU1dnBOa003N0hrUUNtS19YdS14X1EyTDNWc1RIZU1fV0NzdFhBZmt1T0phZk5NMTNqMVR0Rk1MN3lYY2lxdV80OWlydTJKc2ppTjlTWFJNUVl3ZGlCREdoeWtOdVNLa0NpRTdkUzhaemVMTXNaZG90OENxd3FMcndfanpSQUt1TDFNQ1FOb0FqNGk2OTlvWnFFMW1ON0cwOGphS3ZBZHpaV0tobUxMaFRR0gG3AUFVX3lxTFBvRXJ5ME9kMDJMMUV5SFVUT0k3SmdlRzIzTDBQZksyc2xleVo5MEp3S241R1NBdDJzWnczaHZINXhsN2VQallnNzdmc2c5em9FMks2dXVicmIzWFFiMFowQjZLaHlUZ1ZvWWFWekllbVhTOWNUcU9OSVp6ZXVEalE3UEhjNUdoa1FkU2YzN3BNTGd4UEdJZFVWY0gwdDVlX0phRlpmM2RvMFZXMVVralRsenBhalQ2bw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 18:24:11 GMT"
-    },
-    {
-      "id": "017b60a2a7514d4ae47f9955a6a945cb",
-      "title": "A father of 3 felt healthy. Then a routine screening found a rare, deadly illness. - CBS News",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZncxZGNQNWtFUzEzUHo2dTNlUUZXa1hPOHB4Tk5VZXdfODNLYTdWUUVXTFhGc1VmQndzYzNzem0tNkpiYklmZVRBRVNuZW55amswYWlpeGJGem9EQ3lRckZ0SHNXYmpLSGk4UUlzeFQ5Yl8wMWZOSno1NmxmdkZKTTRaZ2RsY211U0o0MUt1Z2tuVURZSC1aOGJFUXYydmVESnBGeVFXZTNJdkJZZHfSAbMBQVVfeXFMUGpoNGZvR2RVQjhLWHc0TzZhejl3SEpFM0dVdEc0Qm5QRGdIdTllWkZocUc3Vm5jdGo0ZnhpZ21NVlJOQnhtR25oalZxTjY5NDlNaTVLMTdtSmIyMEtHM0FrU1N5cHZXY1RyWUV3MHpTSW1WcDItc1RpUW90YVZwRFFQdXBLeHNDdUlGWk1OZ2hjYmdrYVo4bXdGRWw5NUxyM1kzZlAyem9CT0xuUGhka0FmS0E?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 12:00:00 GMT"
-    },
-    {
-      "id": "ece0f377a29a6516ae377f7d003d4d4c",
-      "title": "If you think “the harder you train, the fitter you’ll get”, you are WRONG, according to this expert—here’s what you need to know - Fit&Well",
-      "source": "Fit&Well",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX1dBWi1wM3lMMGUySWJ6Q2psVEpnaTFVUzJjTXE1NnBKS2hhRkZsWmVSY3owMkVDdm9iWlRwSHRSRzNIN1pkajdHR09ZYU9aZFd5Smk2d1lRTkhxbFJVTFdGV3lGTGdPWElBb3lxVWE2OGM1UFdlaTh2TlNyTS1Zb3F3N19qUURyOVpmeVA0alM4M0RVZjBKZ0htT1N1a3lMZW41MTRYWm9LLTRZRkRSdEZuLVgxd1lnZkQ3ZmxUQWpYOEpyOGgza1hJaGxQSXhZenc5R0l6OExtOVFWeGJDV2FHeE9NNFljc1M2amFn?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 15 Jun 2025 05:00:00 GMT"
-    },
-    {
-      "id": "314f21007ae7b420bc6b5040c271ace9",
-      "title": "DC health officials confirm case of measles - WTOP",
-      "source": "WTOP",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fYi11YU8tbENiSm4xRm5LaVZVTnVPU0J4cFd3c3YteGZ5N0FIcmlCWm44TjJsUWw5NkhSdmM4Z1p6aGlveDQyWkxRVXRwbXFCRTdOUVZvck9mS3dpd2p3NWNQdkg2MnF3VnR5NUNZUmtMbzhwUTVNaGdkanY?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 15 Jun 2025 01:08:38 GMT"
-    },
-    {
-      "id": "1fe862454080b69ec0775af021b9c1af",
-      "title": "5 health issues that can occur due to Vitamin D deficiency - Times of India",
-      "source": "Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeFZVZzZCZHc3NzhoNDlRQ1JEcEFkWnpucGFMV0VzTnNYREVTYmNMR3ByZ0M5UkhoZFJ1WktGQXJkVXJkOWFGN1pOVDRoMS1EeTBhMlpYSmpEZ1JybnQ3blFGaTlmM3JlWTZ0Y3BfeWdyMU5oZ3FYOGRNdU1pOTlONVEtT05tRGJUNWtCTmNZN3VnYXZQQU9RYkpGb0VYM3RiQkQ5TW80X3Jram5MNVl1VWdmSmROSGMtQk12TmMtRi1jSThDdUZ0aFY2NG5mTG9ZZXc1VS0tQjE3Qi1BYk80Mk9yYmRMRTZnb0owNU1n?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 23:30:00 GMT"
-    },
-    {
-      "id": "3742ec85caa360523ea767a8bb1866af",
-      "title": "Revealed: What your TOENAILS say about you, according to experts - Daily Mail",
-      "source": "Daily Mail",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUy1rTlVMeXQtU1J3Sk00ZU9wdjl5R2R4RXpMMFZCSGd2TUtRNmpHSkd2dzZsd3d6QUV3dmU5YzYzNFZ1c1JXMk1LQnc5OE9BaXRXMWt6R01zeWNQRjlIQ0FUSGYyRi1DNVIwb0hjeXBPYnJEbDIxeGRSQ213aUM5T21zMUh0dmtMMXhYSGtnS2lyZDJsZXFWZnpzVFdyeTNmSmZj?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 11:06:42 GMT"
-    },
-    {
-      "id": "c46ecad811cdbd2670c8a9af424c5020",
-      "title": "Climate change leads to spread of infection-causing fungi, scientists say - ABC News",
-      "source": "ABC News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWi1VaDBlVVlvV2dfY214d3ZXbDZBYVJ0aG44Sm5WNEtyeGJoQUdEQTdRN0p6RzZxRXFXNVVRenpNMWVEQjlhWE03VjhDNHdSal9mZXVZMVNTOGhmSGx5Si1PYlRaTmVsMmpJQ2V6dllmMnJrZW5QX19HOTJ1bmdHVDlNYnZ1QzUwSENTaUVoQWMzb0NPS044NDJZc0FyWWZRQ2xuZmdDQTNtMzjSAbABQVVfeXFMTnBENElzVmcwRjdPS3JGY1RRTHNrTlV1VC1CUzQ0cjBubVJGaFR5OEZUc1JiVkFPNEZKZldKTWctb1BxVVRBaUY2bjRSTUpLUmNoVndSMFVFWm9UOXdpdWlwanY2TmFNWUJ3TTVYeHJ0SVlVWlk1cGJyZWMwWGZ6cmZ6YmxtLWdIZDZTTzZOTE42bF93elJCSVR0NkVwdm1ob0l4bXRnVE1hcWhNSG5pQTE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 10:15:39 GMT"
+      "id": "dde49d1024fdd31345978dc93a7dcf93",
+      "title": "The #1 High-Protein Snack for Better Blood Sugar, According to a Dietitian - EatingWell",
+      "source": "EatingWell",
+      "url": "https://www.eatingwell.com/best-high-protein-snack-for-better-blood-sugar-11752239",
+      "image_url": "https://www.eatingwell.com/thmb/EKWnDvQhyMxf75gM95lctKMmAZk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Number-1-High-Protein-Snack-for-Better-Blood-Sugar-5742fafde11444c3b3a763c0bda08938.jpg",
+      "summary": "Never lose a recipe: Save & find faves from EatingWell and more with MyRecipes The #1 High-Protein Snack for Better Blood Sugar, Recommended by Dietitians This plant-based, nutrient dense snack is easy, tasty and helpful for managing blood sugar. By Barbie Cervoni, M. S., RD, CDN, CDE Reviewed by Dietitian Kelli McGrane, M. S., RD Edamame with Aleppo Pepper is...",
+      "published": "Sun, 15 Jun 2025 06:00:00 GMT"
     }
   ]
 }

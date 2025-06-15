@@ -1,63 +1,180 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-15 14:26:33",
+    "generation_time": "2025-06-15 19:22:32",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "ac5dbbbca8283dfae7582e00f99aec1a",
-      "title": "Google just fused NotebookLM's coolest trick right into Search - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/you-can-now-get-custom-podcasts-that-explain-your-google-searches/",
-      "image_url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/03/google-search-widget-shortcut-features-dictionary.jpg",
-      "summary": "Google just fused NotebookLM's coolest trick right into Search Generate a summary of this story NotebookLM might be one of Google’s smartest tools you’ve barely used. It first made waves—not for its research chops—but for its Audio Overviews feature. Instead of dumping information at you, it turns your source material into podcast-style recaps that actually sound like real people talking,...",
-      "published": "Sat, 14 Jun 2025 13:12:00 GMT"
+      "id": "c295a8b25dff1651965926fd5e3bf9c7",
+      "title": "Google Search uses AI-generated podcast hosts to answer your questions - Engadget",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/ai/google-search-uses-ai-generated-podcast-hosts-to-answer-your-questions-161847334.html",
+      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-06/261613f0-4939-11f0-afb7-fd5ae44cba9e",
+      "summary": "WWDC 2025: Everything Apple announced Prime Day 2025: What you need to know How to buy the Nintendo Switch 2 Google Search uses AI-generated podcast hosts to answer your questions The experimental feature creates a customized podcast-like clip in response to your search query. Sat, Jun 14, 2025, 12:18 PM EDT·1 min read Instead of digging through all the top...",
+      "published": "Sat, 14 Jun 2025 16:18:47 GMT"
     },
     {
-      "id": "996fd9981ad2b7b89362e9bb87edb759",
-      "title": "Apple’s SVP Of Software Engineering Craig Federighi Wants To Maintain The iPad’s Simplicity, Making It The Best Touch Computer, As He Responds To The Possibility Of These Tablets Running macOS - Wccftech",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/apple-craig-federighi-interview-why-macos-will-not-come-to-the-ipad/",
-      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2025/06/iPadOS-26-1.jpg",
-      "summary": "We use technology such as cookies on our site to collect and use personal data to personalize content and ads, to provide social media features and to analyse our traffic. We may share your cookies with third party vendors and service providers. Apple’s SVP Of Software Engineering Craig Federighi Wants To Maintain The iPad’s Simplicity, Making It The Best Touch...",
-      "published": "Sat, 14 Jun 2025 09:06:00 GMT"
+      "id": "2f7dd71806c557083950b56a48a63511",
+      "title": "The Switch 2 Pro Controller: Prepare For Glue And Fragile Parts - Hackaday",
+      "source": "Hackaday",
+      "url": "https://hackaday.com/2025/06/14/the-switch-2-pro-controller-prepare-for-glue-and-fragile-parts/",
+      "image_url": "https://hackaday.com/wp-content/uploads/2025/06/switch_2_pro_controller_teardown_vks_channel_youtube.jpg",
+      "summary": "The Switch 2 Pro controller’s battery is technically removable, if you can get to it. (Credit: VK’s Channel, YouTube) For those of us who have worked on SNES and GameCube controllers, we know that these are pretty simple to get into and maintain. However, in the trend of making modern game controllers more complex and less maintainable, Nintendo’s new Switch...",
+      "published": "Sat, 14 Jun 2025 11:00:00 GMT"
     },
     {
-      "id": "92d7b66860f2b31fdf9e0968caf13cd1",
-      "title": "Week in Review: WWDC 2025 recap - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/06/14/week-in-review-wwdc-2025-recap/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/Apple-WWDC25-macOS-Tahoe-26-lifestyle-01-250609_big.jpg.large_2x.jpg?resize=1200,675",
-      "summary": "Week in Review: WWDC 2025 recap Welcome back to Week in Review! We have lots for you this week, including what came out of WWDC 2025; The Browser Company’s AI browser; OpenAI’s partnership with Mattel; and updates to your iPad. Have a great weekend! The Apple experience: We kicked the week off with WWDC 2025, Apple’s Worldwide Developers Conference, where...",
-      "published": "Sat, 14 Jun 2025 17:08:00 GMT"
-    },
-    {
-      "id": "5e22b2ae95b7d41c9a111edda2209361",
-      "title": "Answering the Nintendo Switch 2’s lingering accessibility questions - The Verge",
+      "id": "dd11079d7ceaf88abd876d8701de89f9",
+      "title": "How to build the best keyboard in the world - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/nintendo/686591/nintendo-switch-2-accessibility-features-analysis",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0193_5c29e2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "Answering the Nintendo Switch 2’s lingering accessibility questions Nintendo has kept quiet about the device’s accessibility options, even though it’s off to a good start. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Photo: Amelia Holowaty Krales / The Verge One of the biggest surprises of the Nintendo Switch 2’s...",
-      "published": "Sat, 14 Jun 2025 14:00:00 GMT"
+      "url": "https://www.theverge.com/tech/686441/norbauer-seneca-keyboard-creator",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257654_Norbauer_Seneca_L1002209.jpg?quality=90&strip=all&crop=0%2C10.665762696239%2C100%2C78.668474607522&w=1200",
+      "summary": "How to build the best keyboard in the world Ryan Norbauer spent half a decade and several hundred thousand dollars reinventing the keyboard. It worked. Ryan Norbauer in his garage / workshop. | Photo: Taeha Kim / Norbauer & Co. Nathan Edwards is a senior reviews editor who’s been testing tech since 2007. Previously at Wirecutter and Maximum PC. Current...",
+      "published": "Sun, 15 Jun 2025 13:00:00 GMT"
     },
     {
-      "id": "b1c2ffbada371b3e34ab824f9a8bb05f",
-      "title": "Aurora borealis alert: Rare celestial spectacle to be visible this weekend, when and where to watch - The Indian Express",
-      "source": "The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdG4tM1lMVGgxZjBPb19rSGRVOVdBOVdDSnRocl9jN0d2Z0h2SDYzRlBFQk1tWEh0NEEyaFBLY015UlJiSlRDYjRwMDJvX3J2OEJxN2VYZFplNXA3Mng5NURiczFuVVZQVHVPa09MRWdHaHlWWGs1ZWJjaTR6RVhWd0FOZ2pyampEVFV0N25iaUtUc0RzSkhucXpCOXlra2ZkWkdRUXRNYm9VbV8yOVRZ0gG2AUFVX3lxTE55ZlcydENCRTZpY2E1QkhrRFFTZ1F0ZFZzRGdCc09zTm9fM3d0UzI2SllyOHROWHhEdXNSUFNVQjN6bl9ZaEFDaWQyWGdLWjNtblVhcmY3QW9VT1hCQ1dMVFBtYjdxaG9mQmt4UFhXV1NMRFpUbndrcEZTdklQNENwNnBvSVZmYmI3VEd6YXhsNS0xSnJRZFlmYm55c1pjc2tCemJtY2Fqa19DWDE0Wmg5a2JDeHdn?oc=5",
+      "id": "21d6beac4dbd8c1453572ea74208211f",
+      "title": "Seven replies to the viral Apple reasoning paper and why they fall short - Hacker News",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=44278403",
+      "image_url": "https://news.ycombinator.com/s.gif",
+      "summary": "Hacker News new | past | comments | ask | show | jobs | submit login Seven replies to the viral Apple reasoning paper and why they fall short (garymarcus. substack.com) 320 points by spwestwood 23 hours ago | hide | past | favorite | 270 comments thomasahle 20 hours ago | next [–] > 1. Humans have trouble with...",
+      "published": "Sat, 14 Jun 2025 19:57:12 GMT"
+    },
+    {
+      "id": "9e1d66998156af105fddd105bcb8fc3a",
+      "title": "iOS 26 New Release: Apple Quietly Delivers Unprecedented iPhone Update - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidphelan/2025/06/15/ios-26-new-release-apple-quietly-delivers-unprecedented-iphone-update/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/684ef95cafd135e6e41145a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "summary": "iOS 26 New iPhone Release: Apple Delivers Unprecedented Update ByDavid Phelan, Senior Contributor. I write about lifestyle tech Updated June 15 with more details of the new software. Apple announced the latest iPhone software, iOS 26, on Monday, June 9. The first release for developers came later the same day. Just three days later, Apple released a second build of...",
+      "published": "Sat, 14 Jun 2025 14:30:08 GMT"
+    },
+    {
+      "id": "f43ee041013ef721a27d8b5b22049ff6",
+      "title": "Nintendo Switch 2 sets all-time launch record for hardware in the US, beating PS4 - Video Games Chronicle",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/nintendo-switch-2-sets-all-time-launch-record-for-hardware-in-the-us-beating-ps4/",
+      "image_url": "https://www.videogameschronicle.com/files/2025/06/Nintendo_Switch_2_Experience_NYC_1-2560x1707.jpg",
+      "summary": ".cls-1{fill:url(#linear-gradient)}. cls-2{fill:#fff} GO AD-FREE! Support VGC on Patreon Nintendo Switch 2 sets all-time launch record for hardware in the US, beating PS4 Nintendo Switch 2 has set a new record by enjoying the biggest launch week of any games hardware in US history. The record, previously held by the PS4, has been smashed by Nintendo’s console, which sold 1. 1...",
+      "published": "Sun, 15 Jun 2025 12:30:49 GMT"
+    },
+    {
+      "id": "acdb34e6ce6ca536aea70f0ea2a812f9",
+      "title": "iPhone 17 Pro Launching in Three Months With These 12 New Features - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/06/14/iphone-17-pro-and-pro-max-rumors/",
+      "image_url": "https://images.macrumors.com/t/Ka9AiEjd1-um03YQzxAPPlLN9K8=/2500x/article-new/2025/04/iPhone-17-Pro-Blue-Feature-Tighter-Crop.jpg",
+      "summary": "iPhone 16eWWDC 2025iOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad minimacOS 26 TahoeApple Watch 10iPhone 18CarPlayApple Pay iPhone 17 Pro Launching in Three Months With These...",
+      "published": "Sun, 15 Jun 2025 00:45:00 GMT"
+    },
+    {
+      "id": "07b74bc8361e777784317a6ac20a9aa9",
+      "title": "I moved into my parent's home after they passed away and found a bizarre object with an unusual use - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVHNvWEFTMWRGTWV0Nmdpcm9kTkRXSEF3YWVQQVc1RkQ4SzRPWUotQkM0QlplbGwydk9sWnA4cEhlTUdiaGotTmoxR0ZKV1lmSGx5dmV1VkNiQkxPQU9rd0VneVlsTnhpOFpDR1d5Q0dfQi1XclR6M3hEdk5nRGFjR1ZpVEZEREp4UVBpd1RrUFlUR1pJdHhFbjZ4QUtENWJhNFRKcDVXclRGVm_SAbABQVVfeXFMUDA4ZURPTjR6ZE9YcnZodTRYRWdTdkJmVmRYX1ZmT3pnYWNSR2FXRGs1NEVCQWRiMm1UalItUEgwUG8xTWJXZGhkOG1aRldjQWt4aWFHY3JzMlhkMVNKazlXQ1djRXZpOWI0MU1WLWpUOHg2Qk0wYjZhR2RHd0JERm9pWUFHc0dUT1JhZTlzeW03bzUtYnB5dUh2U0pRRmMxT1g1eF81Sjl6UFo0QktOMnc?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 15 Jun 2025 03:36:00 GMT"
+      "published": "Sun, 15 Jun 2025 14:34:20 GMT"
+    },
+    {
+      "id": "9c4078ff192a5661426b804ec3ddf4f6",
+      "title": "Why is it called iOS 26? What happened to iOS 19 for iPhone - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2025/06/14/why-is-it-called-ios-26-what-happened-to-ios-19-for-iphone/",
+      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/ios-26-what-happened-to-ios-19.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Why is it called iOS 26? What happened to iOS 19 for iPhone So, Apple just held its annual WWDC conference where it announces all the new software for the next year. And the company proudly announced the next version of iOS for the iPhone, iOS 26. If you have an iPhone model newer than the XS, you will be...",
+      "published": "Sat, 14 Jun 2025 15:05:00 GMT"
+    },
+    {
+      "id": "4c32bc5a63f20db2e90760457cd9dfca",
+      "title": "Change Your Gmail Password Now, Google Tells 2 Billion Users - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/daveywinder/2025/06/15/change-your-gmail-password-now-google-tells-2-billion-users/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/6829ad74cc1961429b7f1024/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "summary": "Change Your Gmail Password Now, Google Tells 2 Billion Users ByDavey Winder, Senior Contributor. Davey Winder is a veteran cybersecurity writer, hacker and analyst. Google says change your Gmail password now. Update, June 15, 2025: This story, originally published on June 14, has been updated to include additional technical information on using a passkey to replace your Gmail password. I’ve...",
+      "published": "Sun, 15 Jun 2025 13:32:00 GMT"
     },
     {
       "id": "014dcf903b22f9ef13034eca59bfeec6",
       "title": "ChatGPT Is Telling People With Psychiatric Problems to Go Off Their Meds - futurism.com",
       "source": "futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yVTdSVU54QS10RVlEUGU3S3l0bG52VFJRLVFpLURheTVWaU5VNmppS0ZGUXpDMTZOWlRuRi1PXy1Qd2pJelp6M3hKaUlINXRGQ1hRUU52YlVFZXZrSzZ2dndoVUNhQQ?oc=5",
+      "url": "https://futurism.com/chatgpt-mental-illness-medications",
+      "image_url": "https://wordpress-assets.futurism.com/2025/06/chatgpt-mental-illness-medications.jpg",
+      "summary": "JUN 14, 6:00 AM EDT by NOOR AL-SIBAI ChatGPT Is Telling People With Psychiatric Problems to Go Off Their Meds \"It’s like an even darker version of when people go mad living on WebMD. \" / Artificial Intelligence/ Chatgpt/ Medication/ Mental Illness This week, my colleague Maggie Harrison Dupré published a blockbuster story about how people around the world have...",
+      "published": "Sat, 14 Jun 2025 10:00:08 GMT"
+    },
+    {
+      "id": "b64452cf9a8704aca31a34edf3ce1571",
+      "title": "Skyrim meets Assassin’s Creed: Black Flag in gorgeous new RPG - GAMINGbible",
+      "source": "GAMINGbible",
+      "url": "https://www.gamingbible.com/news/platform/steam/skyrim-assassins-creed-black-flag-new-rpg-973165-20250611",
+      "image_url": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltb5390e5806460c5a/684979911b3f10b12b8c7fb3/davy_x_jones_steam_pc.png",
+      "summary": "Download new RPG on Steam, a game for Skyrim and Black Flag fans",
+      "published": "Sun, 15 Jun 2025 08:00:05 GMT"
+    },
+    {
+      "id": "4ca1befccf2bf4ebbb2871007a852991",
+      "title": "Over 46,000 Grafana instances exposed to account takeover bug - BleepingComputer",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2023/06/23/header-grafana.jpg",
+      "summary": "HomeNewsSecurityOver 46,000 Grafana instances exposed to account takeover bug Over 46,000 Grafana instances exposed to account takeover bug More than 46,000 internet-facing Grafana instances remain unpatched and exposed to a client-side open redirect vulnerability that allows executing a malicious plugin and account takeover. The flaw is tracked as CVE-2025-4123 and impacts multiple versions of the open-source platform used for monitoring...",
+      "published": "Sun, 15 Jun 2025 14:07:56 GMT"
+    },
+    {
+      "id": "9bee2c26ae6f4b10d92d0c8ff2d1cd9f",
+      "title": "Fallout meets BioShock in fascinating new adventure game - GAMINGbible",
+      "source": "GAMINGbible",
+      "url": "https://www.gamingbible.com/news/platform/steam/fallout-meets-bioshock-new-adventure-game-482130-20250612",
+      "image_url": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt9d38855f11027f61/684a9aa5a4b05047a513c811/pvkk.jpg",
+      "summary": "Fallout and BioShock fans should keep an eye on upcoming adventure game PVKK which sounds brilliant.",
+      "published": "Sun, 15 Jun 2025 14:00:06 GMT"
+    },
+    {
+      "id": "6c0b56e78722e2844cae8f15944c585f",
+      "title": "This decades-old Gmail trick is still my favorite email management hack - Android Police",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/gmail-plus-trick/",
+      "image_url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/06/gmail-plus-graphic.jpg",
+      "summary": "This decades-old Gmail trick is still my favorite email management hack Generate a summary of this story Email is a staple of modern life, but it's also generally awful. If you're like most people, your inbox is a hellscape mix of expired 2FA codes, spam, and important information you actually need that's buried under mountains of old junk. There are...",
+      "published": "Sun, 15 Jun 2025 13:37:00 GMT"
+    },
+    {
+      "id": "4882959c2881c8a9f36fef302c776735",
+      "title": "She Spotted a Detail in a Photo and Knew Immediately—Her Marriage Was Over - Jason Deegan",
+      "source": "Jason Deegan",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZDNZS1NRTGRzamNqcDVxajNWZlZMSlJuSXgzeFpYTXhaQ1lPWi1vRHUtNUhHdkJnMVFVU0ctanJjY1dVWm1tS05EdDRrelA1QjZJd1NIS0pua2ZBejJkN3ltb3F6Mk9iWGNjLVdWUVp3R2FBNkg3b1FFWkxpVDhBLUFFM2RZLS1ob1JoQ0p4UkVRXzJHZTB6Z2FXOG4zbGRz?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 10:00:08 GMT"
+      "published": "Sun, 15 Jun 2025 11:00:59 GMT"
+    },
+    {
+      "id": "366a06f3c5b4230039fd63254c43b9a8",
+      "title": "Apple will let third party music apps show animated artwork on the iPhone lock screen, not just Apple Music - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZmg2WWRIVkRUWDViOEk0UzFad1M1b3U5enljSXg1UTJoNEpwcHVuTHhGc2JTeHp1TkVYc3N0dWRCUmRNc0tzMjlqQVlBeFVvbXlFREc1N29QT2ctdy1lbFJ3MnJrRDJmb1JMdWRQQWRLbUtXLVRXcDJTcERrWnhuSDViWVFFcnZad3JWY3F3WXlfb0l6ZVg3RUR5WkY?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 15 Jun 2025 10:51:00 GMT"
+    },
+    {
+      "id": "4192a50d75ec6eb98778391797a38414",
+      "title": "AMD confirms AGESA 1.2.0.3e fixes TPM security flaw - VideoCardz.com",
+      "source": "VideoCardz.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWFIZHlsWkczMEZnRHlVZzhRdktpZzVEVFY0bklYaFZiTTZUUUhkalNrcm1hS1h2QXYwRWZITUh2WkF1STFHdmRHUTNHSlhPNU56ejYtbjE1Y3RDT0lSNWJZMGhkV1d3UVh4V3JKWjRMc243Z2haenh5YUZITkQ1empzakRmUQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 15 Jun 2025 09:56:00 GMT"
+    },
+    {
+      "id": "137cb41e436de33556dd44df5ebdf723",
+      "title": "Mario Kart World wouldn’t be in the running for Game of the Year even if it was perfect - Polygon",
+      "source": "Polygon",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV21UVVNiVkdFX1N1elNfdWpuS1FmUGpna0RJcXR5NWNDcG1PUE11TDduS3NZalFMdjdvY1BaQnNCTG5zMWRobDBnTFNYWTdGcWdEaGRHSjlpMGxBTE85eDRNLVlRQmxWd283VEY0U0tlRzIwRnV0bHVDNWk3Q0M0clpn?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 15 Jun 2025 13:00:00 GMT"
     },
     {
       "id": "7f8960c3c6bdd848c04fbdbaa3a8c76f",
@@ -67,123 +184,6 @@
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
       "published": "Sat, 14 Jun 2025 15:54:17 GMT"
-    },
-    {
-      "id": "69b08f78e06afe271ebf173c4d9f14d6",
-      "title": "Google, Meta and Snap think this tech is the next big thing - CNN",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OdS11NWE0b2ZjcEFnWFZoTjg1SG93c2dLMDdTWjQ5NVdtTTdFNTFJM1pqOTZHYzA2Y3V0cFUzdVFqakVUbWNZelZlR1NPcUdOWWZ0YVZ5VVdrVWhRZTVZaHd3Ym9QMnd2dzI3NlhPcDd2RDZpV3d2QdIBfkFVX3lxTFBTVkpWZER6UC1KNzZMLW0yNG1YOWwxdDFHdmM4XzFwWVhiaWxHblR6U1BtanpySzJNZkJyQUpUc2VaZ1lHWmpTdGF4NTJ0V2FaaHV5TDZVeHN3b1R5Mmd4bU85ekt3Z3NOY21JSUs5R1BFWFBEYUpMa0tMWVZWdw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 09:00:00 GMT"
-    },
-    {
-      "id": "9d341ecf68796b66288c74d1a52bf8a1",
-      "title": "With red carpet and a second line, New Orleans welcomes 6,000 Pokémon competitors - NOLA.com",
-      "source": "NOLA.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3lwU2lNajlNODdCcUhJRGtXbEJHVFdMSkZrd2hKVF9RamJUcEo0cEszRXNNQ29IbU5wTGcxMlM1Wm1IczYzbm1mS0hlTDdmOTRJamRLN0I0blY1Ulh0UEdBWm82bGQ2N1M2VzJoU1I1QmprNTduNnA2blhfUkFzVnZabWZveUVyenkwZTJ2b2YxazA1R010VVNzS2dIRUhoVmFKM1VhSDB5QXdiTkRra1J2bXdJbUVxcG9pZkJ1SjNoZ3fSAcgBQVVfeXFMTVo2c3hIbHlPbExIam9sU3RhbTV3RF9Ka2wweHRmcjZWdTIwUV9hQnh0TEdBZ2ZRTklGYThrc2J3SkRvazZBd0tsZlNfaXMyYkVsZEJCaE1Edm9CeEZrYVVsQ1lmOUIyM1RIR3ZNOHZuVjE4dUN3T2FxY0I5MEVUT2pkd1ZIRHRYTG9Tbkc0d2ZGRGdValFwdjNMVVpldEI1WS1TUEFmcllKb3YwRXAtWkVIRmlKYUs5RWtZTGFBNzNzUkMwblFadlA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 09:00:00 GMT"
-    },
-    {
-      "id": "2d28543196db6ec21f34022f709320d0",
-      "title": "Scale AI founder Alexandr Wang says he's waiting for Elon Musk's Neuralink before he has kids - Business Insider",
-      "source": "Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1FDaUdFTkJUcTlXTGxNR2d3MGFZY3hCUGdMLWkwOTQwQmgtN2laZWRnazVCbnMyYUZaLXVTT1JpbGcycERBWFhDYlpJeUI5V0pnaXBxRDBvZlhHQ1Zlbmd4ZUpaSkZ4XzhPTXByUmZRdjdDbVY1Nm9wc0hfYjNDSGEyRmZneU1XVnRrSVNWU3FWRW5tT1JaRk83QmNTLUZl?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 20:19:00 GMT"
-    },
-    {
-      "id": "ed6642eab5770bda32eb0d72ed9ec82b",
-      "title": "Art of the Pokémon TCG: Scarlet & Violet—Destined Rivals Expansion - Pokemon.com",
-      "source": "Pokemon.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNlNLdHZKTGZES1ZLNmtqTWFmc3lxLURiZDd0MDk1a29qdk1lQzN5NERzOEZ3ZjAtVnREZWFkdjN6dVhWXzRpR0syeDlSSjVtdW1TUXl5SG0zOUJPWE5NZDJNSzRpVTRiWUs3N3NYalpPdDY4OGhFUFNSNVRXNlBGb3g4RVNrUmlTaWYyMy1qOTRCaEtWSTZ5d2o0TjU1VVNkYlo2MExn?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 15:05:47 GMT"
-    },
-    {
-      "id": "3489ba95c1f775096a04ea9f456a05eb",
-      "title": "Pre-orders for the Xbox Rog Ally will reportedly begin in August, with launch expected two months later - Video Games Chronicle",
-      "source": "Video Games Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORHViZE53X1psaEwtcVFIekhfNVk2NnNheDV2VjVtR1BGRjkxdFh3YnpQTHZGckFTTEVYcldvN2lGUHotXzUybFN6VDJkcElKMm5jYTBNRFBlRkRObkFFd2pMZWd6bFplakV5Q1RENkItVlNsV2ctNTliM1NMVGFNckFieTNYaFJadXBzLWVJSFJvYmNPQVlTVUtvRjJfazYwUkhaZUhYdEFYd1VtYWI0T3J1eTdPYjk3RldzQ3RSak5ueWRDT0MzcTJkcVpYV2RNVjlqbU5iTDZHRERJ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 10:28:15 GMT"
-    },
-    {
-      "id": "fd8736f5b371e4acdb9742a60e56a13b",
-      "title": "Google’s Veo 3 AI Slopfest Just Reached New Heights - Gizmodo",
-      "source": "Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSjZmZFRnWkh3QWFvUmJyRlVzLXY1alhOTXU4a19uLWNPTjJIRmM5NnRqVUoxYUVkN19YSnhjY3N0VHpoVjA3eHRBdGE2ak5VenltU3h5OXB0TkRxNEEzM3JKMktSa0k4emp6U1kzcDRMcjRIR2phRzd5emlYYnJhYi1zV1NobFg4?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 17:49:26 GMT"
-    },
-    {
-      "id": "518007e65ea09bb437374fd0bbe93f3f",
-      "title": "Researchers claim spoof-proof random number generator breakthrough - theregister.com",
-      "source": "theregister.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdDU4c0k5c0xBSGZId3N0a2ZLRTN6a3ZFZGt2VHdmNkFialNQRjFKQk5CZnNrajdIVlVoak1fRk0yT2JtX28zR3RpRFZyTXhkcGJ0VTM4VGZJTER0WThwZWdJazFSOWx4dUR6NXRjckN2Z2JzX1hyT2dDS01zY000Y3RFZUd0VEpQSFHSAY8BQVVfeXFMTmV5UEcxUVR6N0dTbU9MZTdlYjN0TnBVcGVlNzdrODc2Q2dYZHJTaDUyQ2ZEWGFnMHdfaGZaVnFFWlpkd0o5TDdQQXZOQUVGb0NsVjFpQlY0dDkySjNMRXM5TmpvbXlqUjctT1VvOWcxUlZpYW9EWFpJTy1Yc0lqN2N0bE05WnVsQmVzZ1NnX28?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 10:41:00 GMT"
-    },
-    {
-      "id": "c7032c40b9f3144344e1acc7485c90ad",
-      "title": "Steve Jobs was brilliant but don’t copy this 'one habit' of him; warns Pixar's Pete Docter - Times of India",
-      "source": "Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNmYxZ3lpSDRzWGptWnEtY2hEQUtDWlFRNnFPdjdHdHp5X3hOZnRKcENOb0cxZnFSWVlQcVh3T0VsQm1vN0VYNC1YZ1p0TDBwYVpZVTFpOGNWUEpjdE5QTFlxV2J4YV9lM252N2J3SmNsRHgwVlNSWnRnVHd0bE96V3dVdWNoWVE2ZXFYSEx4UjgzQWhNUUUyMWlPU1ZKZEFCNHhDalZ0V2xnQ3VldDlxa1ZqU0JFaE10ZEZKQ3M2bDNzamMxbUNlZEwycXhhWktZbGI0bXdTZEFkQnZPQVdWdnA2Umhia3ZBSFVBM3hPQUlGQl95X1FzLTdyM3PSAYICQVVfeXFMTTkwdlU0YXhrYlZfMmFyTFpPQ0RFSjl1ZVNaOXlwQ3ZfQTlDeXVkSXR2bFduZkp4bDhtQ0FjOE1Hc2tzbUhiSnpUQk44Ylc1TjYwMExYZWtwRzVIbjBVbEtzaUZRdmxJRWRZS1llQ2VXU3BFS2pvSDdtNUszWUFpVjdqQWNrbFVoWUtNWVZMb2Q4dklVa0VKaHl3aEM1aG84Y2xfYmJqSVNBbmhDanFoOUhZcEZhLTAycHgyY3ZlQnZXNUlGdlFkZ2txLWZJVTBPb21zNlNNemNMVnk0eU5pYV9jUFlGMmZIeFctVmRxTjY4bGRCRUUzOU5OM19jbGV0cmJB?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 16:05:00 GMT"
-    },
-    {
-      "id": "21d6beac4dbd8c1453572ea74208211f",
-      "title": "Seven replies to the viral Apple reasoning paper and why they fall short - Hacker News",
-      "source": "Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RdmdsTmNuRnZISUFJTWNaUVlDbXI2NGFvXzhOY2EzNEZtd25SSmRUcFRrYm8xbWZveEpWdWRPOGxBcXBBbmEzMlZ1YWhSbGZBYl9VOU0tcnU?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 19:54:29 GMT"
-    },
-    {
-      "id": "b2f3d027328f7405f94e2f1bad80cb3c",
-      "title": "Lithium-Rich Mineral Found In Only One Place On Earth Has Its Recipe Finally Revealed - IFLScience",
-      "source": "IFLScience",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc090UzNNT0pJbEUxUExNSXFCMmFkQWRUMGdnc2dWeURkMmRKbjZWZTBMRTQ0Nnp0dWJQQVFKVmxUOUNqcDkzZGV3cWN6Nkd4QWVfdjZBeEZ4dUJvUWF2RVZOb2Z6X3F6Z0NfQXFFZG84WDlKc2xpdFozOFhZeGhROTBaaEV1a3hOZEdiYlFUYzNGcldiZklrVUQxcllKcWJDOGNPNF93UVZoakw1U2FBSDREQ2x5aGtnWXc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 15 Jun 2025 10:48:04 GMT"
-    },
-    {
-      "id": "acdb34e6ce6ca536aea70f0ea2a812f9",
-      "title": "iPhone 17 Pro Launching in Three Months With These 12 New Features - MacRumors",
-      "source": "MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFVnZobnJ6UzFlX3oyNTlTX3A4TVFubWRaYkpzdEZfWEk1OWVBWWR3d0IxV3hDTGxfWlM0SW84UDYwU1gwZktpTkFHY0M3TnJMTVQxYzdQVy1qYmFDa2dhSE5TOUJfU2F2dEJ6dVBwSmE4bVdBTU1RUHdB?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 15 Jun 2025 00:45:00 GMT"
-    },
-    {
-      "id": "2b6f8bba7492860a825c5b7e573baf7d",
-      "title": "Chevy Teases a New Corvette 'X' to Debut Next Week - Road & Track",
-      "source": "Road & Track",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3BROWpMQXZPY1lpaG9lYU9xVkp5alNoMVlvNU9qeW9YaWNzZExaOWsycWw5NHd4b19MbWhyX2FsWkM3aXNLLXlHNTI3RTEtUmxWUmg4Vklmck9oRG1LclVuSm5GNWJGSnV2R0x6UnlGMm9PdnptUGFSMkVQaHRSR3VnX3h5RThhY3kzRmlkZ2U5eFhRQUE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 17:20:00 GMT"
-    },
-    {
-      "id": "df0f6848daa5718466953ea33c9922c9",
-      "title": "Mario Kart World 150cc Knockout Tour guide – how to easily win - Nintendo Everything",
-      "source": "Nintendo Everything",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14djc2X1FXQ3lxaHUtcWEybC1IWmNxQzZ5VDBEdG5PdDFjQWJTTy01d1N2dDNnYlQ5cjVIdTRVTlZKTF9aNGxtRHlQZnBfanFwQlpTQWkyYWZ3Z0FJdHA0dGlJc3U1NWoyN2QxNTE5RU82dTAzQ1lhNTVkLXdhZ0k?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 18:41:01 GMT"
     }
   ]
 }
