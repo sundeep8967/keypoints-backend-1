@@ -1,10 +1,19 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-06-15 06:52:03",
+    "generation_time": "2025-06-15 13:35:15",
     "total_articles": 20
   },
   "articles": [
+    {
+      "id": "866ab1f77ff1ff67b1f9b348c7ef9196",
+      "title": "Genetic variant tied to doubled dementia risk for older men - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/06/15/dementia-risk-men-genetic-variant/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/75T3LN6IHJEZLCIXQXBRPBHCTE_size-normalized.jpg&w=1440",
+      "summary": "Genetic variant tied to doubled dementia risk for older men Researchers looked at a gene that is critical to regulating the body’s iron levels. A doctor looks at PET brain scans at Banner Alzheimer's Institute in Phoenix. A recent analysis suggests a link between a common genetic variant and dementia risk in men. (Matt York/AP) A common genetic variant is...",
+      "published": "Sun, 15 Jun 2025 12:01:12 GMT"
+    },
     {
       "id": "48fc4c06170fc4c14c7a2a19bdf89c1a",
       "title": "US measles count nears 1,200 cases as Ohio officials confirm 3 outbreaks are over - AP News",
@@ -13,6 +22,15 @@
       "image_url": "https://apnews.com/favicon.ico",
       "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
       "published": "Fri, 13 Jun 2025 19:13:00 GMT"
+    },
+    {
+      "id": "55ab38e3012a951610f2fff1e1b095b9",
+      "title": "Kennedy’s HHS sent Congress ‘junk science’ to defend vaccine changes, experts say - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/13/health/kennedy-hhs-congress-vaccine-changes",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2210910482.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Minnesota Sen. Amy Klobuchar discusses the shootings of two state lawmakers and the ongoing search for the suspect. Watch CNN Kennedy’s HHS sent Congress ‘junk science’ to defend vaccine changes, experts say By Jackie Fortiér, KFF Health News US Health and Human Services Secretary Robert F. Kennedy Jr. announced May 27 that the CDC would no longer recommend Covid vaccines...",
+      "published": "Fri, 13 Jun 2025 19:40:00 GMT"
     },
     {
       "id": "a8712451469f93d820f066914ba893b1",
@@ -24,69 +42,6 @@
       "published": "Fri, 13 Jun 2025 22:25:01 GMT"
     },
     {
-      "id": "55ab38e3012a951610f2fff1e1b095b9",
-      "title": "Kennedy’s HHS sent Congress ‘junk science’ to defend vaccine changes, experts say - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/13/health/kennedy-hhs-congress-vaccine-changes",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2210910482.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Kennedy’s HHS sent Congress ‘junk science’ to defend vaccine changes, experts say By Jackie Fortiér, KFF Health News US Health and Human Services Secretary Robert F. Kennedy Jr. announced May 27 that the CDC would no longer recommend Covid vaccines for pregnant women or healthy children. Andrew Harnik/Getty Images/File A document the Department of Health and Human Services sent to...",
-      "published": "Fri, 13 Jun 2025 19:40:00 GMT"
-    },
-    {
-      "id": "c95ad1320869b6230eafbe845af046f2",
-      "title": "Person contagious with measles visited Boston public spaces - The Boston Globe",
-      "source": "The Boston Globe",
-      "url": "https://www.bostonglobe.com/2025/06/14/metro/contagious-measles-visits-boston/",
-      "image_url": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=557",
-      "summary": "Person contagious with measles visited Boston public spaces logo-white Created with Sketch. You've Been Selected for Our Best Offer Get unlimited access to the news and more, all summer long. Limited-time offer. Cancel anytime. Already a subscriber? Log in | Home",
-      "published": "Sat, 14 Jun 2025 17:37:00 GMT"
-    },
-    {
-      "id": "e54bb460478b6cfc30641eb3613d2f64",
-      "title": "Many Older People Embrace Vaccines. Research Is Proving Them Right. - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/14/health/elderly-vaccines-dementia.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 17:21:32 GMT"
-    },
-    {
-      "id": "2b46530119972c22fd1fb92defd362d0",
-      "title": "Potential measles exposure in Bernalillo, Sandoval and Santa Fe counties - KOAT",
-      "source": "KOAT",
-      "url": "https://www.koat.com/article/potential-measles-exposure-in-bernalillo-sandoval-and-santa-fe-counties/65061318",
-      "image_url": "https://kubrick.htvapps.com/vidthumb/3b2874b7-22bd-4001-88ff-bdea0045b921/4458f178-f2ca-43d0-9989-6d5ee2c41b53.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-      "summary": "SEVERE WEATHER There is currently 1 active weather alert Potential measles exposure in Bernalillo, Sandoval and Santa Fe counties The NMDOH is warning the public of a possible measles exposure in various locations Updated: 6:09 PM MDT Jun 13, 2025 Editorial Standards ⓘ The New Mexico Department of Health is warning the public about a possible measles exposure in Bernalillo,...",
-      "published": "Sat, 14 Jun 2025 00:09:00 GMT"
-    },
-    {
-      "id": "94b064018cfe46ef2ec070648f13f3b4",
-      "title": "Your Unique Breathing Patterns May Reveal Your Identity and Mental Health - Neuroscience News",
-      "source": "Neuroscience News",
-      "url": "https://neurosciencenews.com/breathing-mental-health-identity-29266/",
-      "image_url": "https://neurosciencenews.com/files/2025/06/breathing-mental-health-neurosciencce.jpg",
-      "summary": "We consider this as a brain readout. Credit: Neuroscience News Your Unique Breathing Patterns May Reveal Your Identity and Mental Health FeaturedNeurosciencePsychology·June 13, 2025 Summary: New research reveals that each person has a unique breathing “fingerprint” that can be used to identify them with nearly 97% accuracy. By continuously monitoring nasal airflow over 24 hours using a lightweight wearable, scientists...",
-      "published": "Fri, 13 Jun 2025 12:38:25 GMT"
-    },
-    {
-      "id": "31dd3fc2c02873f3973e6939ba037edd",
-      "title": "Brain Adapts to Neuron Loss Through Rapid Rewiring - Neuroscience News",
-      "source": "Neuroscience News",
-      "url": "https://neurosciencenews.com/brain-rewiring-neurons-29273/",
-      "image_url": "https://neurosciencenews.com/files/2025/06/neuron-rewiring-neuroscinec.jpg",
-      "summary": "Brain Adapts to Neuron Loss Through Rapid Rewiring FeaturedNeuroscience·June 14, 2025 Summary: New research shows that the brain’s cortex can rapidly reorganize itself after losing neurons, allowing other nerve cells to take over lost functions. Scientists studied neural networks in the auditory cortex and found that although sound-processing patterns were briefly disrupted, the brain formed nearly identical patterns within days.",
-      "published": "Sat, 14 Jun 2025 21:29:54 GMT"
-    },
-    {
-      "id": "774b84603cbba788e1c7d38993a0591c",
-      "title": "Walking more may lower your risk for chronic low back pain by 23%, study suggests - KSL.com",
-      "source": "KSL.com",
-      "url": "https://www.ksl.com/article/51329789/walking-more-may-lower-your-risk-for-chronic-low-back-pain-by-23-study-suggests",
-      "image_url": "https://img.ksl.com/slc/3089/308937/30893761.jpg?filter=kslv2/responsive_story_lg",
-      "summary": "Walking more may lower your risk for chronic low back pain by 23%, study suggests By Madeline Holcombe, CNN | Posted - June 14, 2025 at 7:41 a. m. Getting more steps in is linked to a reduced risk of back pain, a new study found. (FG Trade, E+, Getty Images via CNN ) Estimated read time: 3-4 minutes Walking...",
-      "published": "Sat, 14 Jun 2025 13:15:55 GMT"
-    },
-    {
       "id": "ee8e7618ada10e5cbc6635ecb989d87d",
       "title": "Study Reveals How Much Exercise You Need Each Week to Control Blood Pressure - ScienceAlert",
       "source": "ScienceAlert",
@@ -96,49 +51,40 @@
       "published": "Sat, 14 Jun 2025 23:13:48 GMT"
     },
     {
-      "id": "87d37bec43eed7dc768567e9115e03d5",
-      "title": "The 'very painful' symptom which could be a sign of new Covid variant as hospital cases surge - Yahoo",
-      "source": "Yahoo",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_e90ebecd-ade7-479f-9621-bd029b2926b2",
-      "image_url": "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_bestfit_frontpage.png",
-      "summary": "When you use our sites and apps, we use provide our sites and apps to you authenticate users, apply security measures, and prevent spam and abuse, and measure your use of our sites and apps If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency & Consent Framework, will also store and/or...",
-      "published": "Sat, 14 Jun 2025 10:33:36 GMT"
+      "id": "3c398c147ddc0d2b008c91de1e30af93",
+      "title": "Advice for trying GLP-1 drugs for weight loss from a doctor who's been there - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/15/nx-s1-5432864/weight-loss-drugs-glp1-wegovy-mounjaro",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1732x974+0+359/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2Ffa%2F33cbb83846cfbf8dde1c63ea4966%2Fgettyimages-2020907487.jpg",
+      "summary": "Advice for trying GLP-1 drugs for weight loss from a doctor who's been there aprott/iStockphoto/Getty Images Dr. David A. Kessler has always been in the business of keeping people healthy – but by his own admission, he hasn't always applied that to himself. Kessler's problem was with food. In medical school, greasy French fries and salted roast beef helped him...",
+      "published": "Sun, 15 Jun 2025 11:02:00 GMT"
     },
     {
-      "id": "cee71270be84c32aa0d813f163d1ffa2",
-      "title": "One Risk Of White Wine You’ve Never Heard Of, Research Reveals - MindBodyGreen",
-      "source": "MindBodyGreen",
-      "url": "https://www.mindbodygreen.com/articles/research-reveals-the-link-between-white-wine-and-cancer",
-      "image_url": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_800,h_400,g_auto,q_85,fl_lossy,f_jpg/org/feq5wg53elzcsw2m8.jpeg",
-      "summary": "One Risk Of White Wine You've Never Heard Of, Research Reveals Image by EASY-2-SHOOT / Stocksy This article is from our longevity-focused newsletter, the long game, where we help you stay up to date on the latest research in the health space, with actionable, low-lift recommendations to put those lessons into practice. For access to our latest editions as soon...",
-      "published": "Fri, 13 Jun 2025 10:23:46 GMT"
+      "id": "2b46530119972c22fd1fb92defd362d0",
+      "title": "Potential measles exposure in Bernalillo, Sandoval and Santa Fe counties - KOAT",
+      "source": "KOAT",
+      "url": "https://www.koat.com/article/potential-measles-exposure-in-bernalillo-sandoval-and-santa-fe-counties/65061318",
+      "image_url": "https://kubrick.htvapps.com/vidthumb/3b2874b7-22bd-4001-88ff-bdea0045b921/4458f178-f2ca-43d0-9989-6d5ee2c41b53.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "summary": "Action 7 News More in the Morning SEVERE WEATHER There are currently 2 active weather alerts Potential measles exposure in Bernalillo, Sandoval and Santa Fe counties The NMDOH is warning the public of a possible measles exposure in various locations Updated: 6:09 PM MDT Jun 13, 2025 Editorial Standards ⓘ The New Mexico Department of Health is warning the public...",
+      "published": "Sat, 14 Jun 2025 00:09:00 GMT"
     },
     {
-      "id": "017b60a2a7514d4ae47f9955a6a945cb",
-      "title": "A father of 3 felt healthy. Then a routine screening found a rare, deadly illness. - CBS News",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/cholangiocarcinoma-bile-duct-cancer-curtis-jackson-mayo-clinic-liver-transplant/",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/13/b748edc0-b06e-4210-bee1-421bb1c5e0c6/thumbnail/1200x630g2/38406aec49cf52de9ae83171cc52edc0/curtis-jackson-family-4-7-25-aprox-1-mo-post-op.jpg?v=d2f497bd9339ad99d2e0559414346698",
-      "summary": "A father of 3 felt healthy. Then a routine screening found a rare, deadly illness. Updated on: June 14, 2025 / 8:19 AM EDT / CBS News Curtis Jackson was feeling fit and healthy in late 2020 when he decided to update his life insurance policy: He was in better shape than he'd been in a while, but he wanted...",
-      "published": "Sat, 14 Jun 2025 12:00:00 GMT"
+      "id": "f5b23cae1de4d4fa87371c614a4d4820",
+      "title": "‘Razor Blade Throat’ Symptoms As ‘Nimbus’ COVID-19 Variant Spreads - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/brucelee/2025/06/14/razor-blade-throat-symptoms-as-nimbus-covid-19-variant-spreads/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/684d918008bedaffdbb3fd34/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "summary": "‘Razor Blade Throat’ Symptoms As ‘Nimbus’ COVID-19 Variant Spreads ByBruce Y. Lee, Senior Contributor. Bruce Y. Lee, M. D., MBA, covers health, medicine, wellness and science Jun 14, 2025, 07:14pm EDTJun 14, 2025, 08:00pm EDT Recently, there have been informal reports of a symptom described as “razor blade throat” associated . .. More This may be a bit hard to...",
+      "published": "Sat, 14 Jun 2025 23:14:54 GMT"
     },
     {
-      "id": "314f21007ae7b420bc6b5040c271ace9",
-      "title": "DC health officials confirm case of measles - WTOP",
-      "source": "WTOP",
-      "url": "https://wtop.com/dc/2025/06/dc-health-officials-confirm-case-of-measles/",
-      "image_url": "https://wtop.com/wp-content/uploads/2024/04/Measles-Explainer_56497-scaled-e1748123740649.jpg",
-      "summary": "This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy Click to toggle navigation menu. Home » Washington, DC News » DC health officials confirm… DC health officials confirm case of measles Tadiwos Abedje | tadiwos. abedje@wtop. com A case...",
-      "published": "Sun, 15 Jun 2025 01:08:38 GMT"
-    },
-    {
-      "id": "1fe862454080b69ec0775af021b9c1af",
-      "title": "5 health issues that can occur due to Vitamin D deficiency - Times of India",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/5-health-issues-that-can-occur-due-to-vitamin-d-deficiency/photostory/121846994.cms",
-      "image_url": "https://static.toiimg.com/photo/121847050.cms",
-      "summary": "5 Health Issues That Can Occur Due To Vitamin D Deficiency 5 health issues that can occur due to Vitamin D deficiency ETimes. in / Jun 14, 2025, 23:30 IST 5 health issues that can occur due to Vitamin D deficiency Vitamin D, known as the sunshine vitamin, is extremely crucial for our body, as it helps in keeping our...",
-      "published": "Sat, 14 Jun 2025 23:30:00 GMT"
+      "id": "e54bb460478b6cfc30641eb3613d2f64",
+      "title": "Many Older People Embrace Vaccines. Research Is Proving Them Right. - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/14/health/elderly-vaccines-dementia.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sat, 14 Jun 2025 11:21:08 GMT"
     },
     {
       "id": "30fe1bf18279fcc129598b4ab5290f25",
@@ -150,6 +96,33 @@
       "published": "Mon, 09 Jun 2025 22:03:24 GMT"
     },
     {
+      "id": "a8e011c2d1706186448a8cdbd76142e0",
+      "title": "Quintessential summer drink shockingly linked to aggressive skin cancer - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWkxrbVNiSzZEQkxzZUJTcjBfblNLNUp5dXE4R0RMaEZCdm43UDdWQnMtM2VQZ2RMMTZabWQteUttbmdUdURDQmppeFdlcWJfN1FfNGxoZENodnhOdEd4RVBWOEJjcEtGNDRiMzFyM05ON3lmMHE5QTZwR2d5alBPWUw3RThrZmJ0MDJvUXZrcUduN0hDT2VkRlo4ajNxMDdEdm9yWnRsNmh3TU83V1k3OFpQZEFYeVkwZDVtWlp5TFBTb0U?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 13 Jun 2025 23:39:44 GMT"
+    },
+    {
+      "id": "5e92717be64b1dba7ad939014739faa5",
+      "title": "Person with measles visited Boston hotel, museum, airport, health officials warn - NBC Boston",
+      "source": "NBC Boston",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUFMajRleU1iQzYxX0dmVzNBSXRRWUxMUzZvWTJGTGwwbGlLM3IzRWFUcTdHbGFEQVI3QTBpZWlkaXJsT0JOdDdfNzRrbjM1QUlXVDJnUE40WUdXN1FqSG1kVTMzSTJYd2RjMm1Ed0VhcmVUQkJfU2E3enNVaENST2sybVk4MC1tXzNSNGt4ZG5QTHU5TkZaOGNPTkpsaE5ocVZkZNIBrAFBVV95cUxPc3hEZHlFUVBOMTBtb0lwX1lNYUJ1MS1VZS1oeXhrSXpPalotRURJM29fZFZoQVNFNlYyUEtfU3Nhb3lxaTJpOXFndHZQSVRXXzVsb1Z4d3praXZiV2tsRFM4YjhrLWhWbEN3QWpfdkszR2U1bnc0TkNSLWN4NUdRM2Z4V0NtVS1DSVRPQVI2TkdHM3ZjTXhITGFSbm1GSlQxc2lydFZiWG1UN2Jw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 14 Jun 2025 02:43:23 GMT"
+    },
+    {
+      "id": "774b84603cbba788e1c7d38993a0591c",
+      "title": "Walking more may lower your risk for chronic low back pain by 23%, study suggests - KSL.com",
+      "source": "KSL.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONHZBWEVRc1RjMDZaLWtBd1d1S2VzaWd2X3o4eDVDSG8tVnIxakxIUW80eElRR0ExbjBQa3ZGNVZ3NjhoN1FURDhpUzlOODJVbmlOUjhFTFdLMTRxTTZzTWc0TzZZeUlKQXNnbGx3SzktMkJ0Si1lV3JPU1VlWWJVNmJhMUlCc0RVVmZOcmNIUGNfNlR2QjF4eGpQbmh3dG82RU9SaHhYaUVrUXU4akhBUUV4OHMzTEU?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 14 Jun 2025 13:15:55 GMT"
+    },
+    {
       "id": "32819f3e1e4fa008e98b1c7100bc95df",
       "title": "Scientists pinpoint way to check if you're going to get early-onset colon cancer with up to 92% accuracy - Daily Mail",
       "source": "Daily Mail",
@@ -159,22 +132,40 @@
       "published": "Fri, 13 Jun 2025 18:24:11 GMT"
     },
     {
-      "id": "0c641debad5faa209f30b2e62f6db575",
-      "title": "6 Foods You Should Eat More of After 60, According to Dietitians - EatingWell",
-      "source": "EatingWell",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KYzNmM3dibHhJTEtPT3dyM2lBUWJZSzYtbDh4b0NNQktXaHQtaXJjaG80dmd3dzM4b3Y2X3NSNk5qSTFoTnJnVThOSmFOY2dhSWNRMjI3WVA2N1VqOUZvV2VKWERDS0xtRWdDTlVmQURBcnFSbXY2dE9vZFRkZw?oc=5",
+      "id": "017b60a2a7514d4ae47f9955a6a945cb",
+      "title": "A father of 3 felt healthy. Then a routine screening found a rare, deadly illness. - CBS News",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZncxZGNQNWtFUzEzUHo2dTNlUUZXa1hPOHB4Tk5VZXdfODNLYTdWUUVXTFhGc1VmQndzYzNzem0tNkpiYklmZVRBRVNuZW55amswYWlpeGJGem9EQ3lRckZ0SHNXYmpLSGk4UUlzeFQ5Yl8wMWZOSno1NmxmdkZKTTRaZ2RsY211U0o0MUt1Z2tuVURZSC1aOGJFUXYydmVESnBGeVFXZTNJdkJZZHfSAbMBQVVfeXFMUGpoNGZvR2RVQjhLWHc0TzZhejl3SEpFM0dVdEc0Qm5QRGdIdTllWkZocUc3Vm5jdGo0ZnhpZ21NVlJOQnhtR25oalZxTjY5NDlNaTVLMTdtSmIyMEtHM0FrU1N5cHZXY1RyWUV3MHpTSW1WcDItc1RpUW90YVZwRFFQdXBLeHNDdUlGWk1OZ2hjYmdrYVo4bXdGRWw5NUxyM1kzZlAyem9CT0xuUGhka0FmS0E?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 00:00:00 GMT"
+      "published": "Sat, 14 Jun 2025 12:00:00 GMT"
     },
     {
-      "id": "ca671249e843507aa222e60e7fa4e759",
-      "title": "For the Best Fat-Burning Exercises, Slow and Sustainable Wins the Abs Race - GQ",
-      "source": "GQ",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55REk0SU9rLS1JQS1nd3JiQ21KLWR4OU9hVXFfWjZtZlExU1VraEI5R2NVNHRpOXMxaEpUTkVscVdONTJpUnRWNFpSWkowa2RsdkxGWE9Cc3hvM2VPNUZvZ09hWWxFUQ?oc=5",
+      "id": "ece0f377a29a6516ae377f7d003d4d4c",
+      "title": "If you think “the harder you train, the fitter you’ll get”, you are WRONG, according to this expert—here’s what you need to know - Fit&Well",
+      "source": "Fit&Well",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX1dBWi1wM3lMMGUySWJ6Q2psVEpnaTFVUzJjTXE1NnBKS2hhRkZsWmVSY3owMkVDdm9iWlRwSHRSRzNIN1pkajdHR09ZYU9aZFd5Smk2d1lRTkhxbFJVTFdGV3lGTGdPWElBb3lxVWE2OGM1UFdlaTh2TlNyTS1Zb3F3N19qUURyOVpmeVA0alM4M0RVZjBKZ0htT1N1a3lMZW41MTRYWm9LLTRZRkRSdEZuLVgxd1lnZkQ3ZmxUQWpYOEpyOGgza1hJaGxQSXhZenc5R0l6OExtOVFWeGJDV2FHeE9NNFljc1M2amFn?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 15:00:00 GMT"
+      "published": "Sun, 15 Jun 2025 05:00:00 GMT"
+    },
+    {
+      "id": "314f21007ae7b420bc6b5040c271ace9",
+      "title": "DC health officials confirm case of measles - WTOP",
+      "source": "WTOP",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fYi11YU8tbENiSm4xRm5LaVZVTnVPU0J4cFd3c3YteGZ5N0FIcmlCWm44TjJsUWw5NkhSdmM4Z1p6aGlveDQyWkxRVXRwbXFCRTdOUVZvck9mS3dpd2p3NWNQdkg2MnF3VnR5NUNZUmtMbzhwUTVNaGdkanY?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 15 Jun 2025 01:08:38 GMT"
+    },
+    {
+      "id": "1fe862454080b69ec0775af021b9c1af",
+      "title": "5 health issues that can occur due to Vitamin D deficiency - Times of India",
+      "source": "Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeFZVZzZCZHc3NzhoNDlRQ1JEcEFkWnpucGFMV0VzTnNYREVTYmNMR3ByZ0M5UkhoZFJ1WktGQXJkVXJkOWFGN1pOVDRoMS1EeTBhMlpYSmpEZ1JybnQ3blFGaTlmM3JlWTZ0Y3BfeWdyMU5oZ3FYOGRNdU1pOTlONVEtT05tRGJUNWtCTmNZN3VnYXZQQU9RYkpGb0VYM3RiQkQ5TW80X3Jram5MNVl1VWdmSmROSGMtQk12TmMtRi1jSThDdUZ0aFY2NG5mTG9ZZXc1VS0tQjE3Qi1BYk80Mk9yYmRMRTZnb0owNU1n?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 14 Jun 2025 23:30:00 GMT"
     },
     {
       "id": "3742ec85caa360523ea767a8bb1866af",
@@ -184,6 +175,15 @@
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
       "published": "Fri, 13 Jun 2025 11:06:42 GMT"
+    },
+    {
+      "id": "c46ecad811cdbd2670c8a9af424c5020",
+      "title": "Climate change leads to spread of infection-causing fungi, scientists say - ABC News",
+      "source": "ABC News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWi1VaDBlVVlvV2dfY214d3ZXbDZBYVJ0aG44Sm5WNEtyeGJoQUdEQTdRN0p6RzZxRXFXNVVRenpNMWVEQjlhWE03VjhDNHdSal9mZXVZMVNTOGhmSGx5Si1PYlRaTmVsMmpJQ2V6dllmMnJrZW5QX19HOTJ1bmdHVDlNYnZ1QzUwSENTaUVoQWMzb0NPS044NDJZc0FyWWZRQ2xuZmdDQTNtMzjSAbABQVVfeXFMTnBENElzVmcwRjdPS3JGY1RRTHNrTlV1VC1CUzQ0cjBubVJGaFR5OEZUc1JiVkFPNEZKZldKTWctb1BxVVRBaUY2bjRSTUpLUmNoVndSMFVFWm9UOXdpdWlwanY2TmFNWUJ3TTVYeHJ0SVlVWlk1cGJyZWMwWGZ6cmZ6YmxtLWdIZDZTTzZOTE42bF93elJCSVR0NkVwdm1ob0l4bXRnVE1hcWhNSG5pQTE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 14 Jun 2025 10:15:39 GMT"
     }
   ]
 }

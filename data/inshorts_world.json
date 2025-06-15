@@ -1,36 +1,45 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-15 07:01:02",
+    "generation_time": "2025-06-15 13:44:26",
     "total_articles": 6
   },
   "articles": [
     {
-      "id": "83695dd6484ed4faa043d9357fde1d8b",
-      "title": "Israel and Iran strike at each other in new wave of attacks - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israel-iran-strike-each-other-new-wave-attacks-2025-06-14/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sun, 15 Jun 2025 03:09:00 GMT"
+      "id": "cfc76bc77cedf865ef9ea161528eb401",
+      "title": "Live updates: Israel and Iran trade strikes; Tehran energy facilities hit - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/06/15/israel-iran-attacks-live-tehran-tel-aviv/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7IE3GSKL36PD5L7VHTWDSBC32M_size-normalized.JPG&w=1440",
+      "summary": "Israel says many targets remain as it continues to trade strikes with Iran Israeli rescue brigades examine the aftermath of an Iranian strike near Tel Aviv early Sunday. (Heidi Levine/For The Washington Post) Israel has a large list of targets left to strike in Iran, a military official told reporters Sunday, three days into a back-and-forth bombardment that has derailed...",
+      "published": "Sun, 15 Jun 2025 12:08:41 GMT"
     },
     {
-      "id": "771b1c3c0fa094de842ba951e83a0bc6",
-      "title": "Ukraine war briefing: Putin tells Trump in phone call Moscow ready to resume peace talks - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2025/jun/15/ukraine-war-briefing-putin-tells-trump-in-phone-call-moscow-ready-to-resume-peace-talks",
-      "image_url": "https://i.guim.co.uk/img/media/964bb29f85c59c5618d8fdf506081143dcaa6b91/645_0_6446_5157/master/6446.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1038ac8f96c9cf96d9faae5e8bb9c296",
-      "summary": "Fund the free press with $15 per month A Ukrainian soldier hugs his mother after returning from captivity after a POWs exchange between Russia and Ukraine, in Chernyhiv region, Ukraine. Photograph: Evgeniy Maloletka/AP Ukraine war briefing: Putin tells Trump in phone call Moscow ready to resume peace talks President confirms Russia could continue negotiations with Kyiv after current prisoner swaps...",
-      "published": "Sun, 15 Jun 2025 01:36:00 GMT"
+      "id": "440bad6539bcd321675845a6a664720f",
+      "title": "Air India plane crash death toll rises to 270 - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0575me7j82o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3fc2/live/1a5ec140-49ae-11f0-b942-258325d4449f.jpg",
+      "summary": "Air India plane crash death toll rises to 270 Vigils honouring the dead have been taking place across India and the UK Doctors in India say 270 bodies have been recovered from the site of Thursday's plane crash in Ahmedabad. The London-bound aircraft crashed into a residential area shortly after take-off killing all but one of the 242 passengers and...",
+      "published": "Sun, 15 Jun 2025 07:23:17 GMT"
     },
     {
-      "id": "4d3a7077a5d6cf51a8a5346b575fe22e",
-      "title": "Israeli officials say Houthi military chief targeted in Yemen strike - The Times of Israel",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/israeli-officials-say-houthi-military-chief-targeted-in-yemen-strike/",
-      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/05/AP25129511367661.jpg",
-      "summary": "Israeli officials say Houthi military chief targeted in Yemen strike Unclear if attempt to kill Muhammad Al-Ghamari successful; no official comment from the IDF Supporters of the Iran-backed Houthi group in Yemen attend a weekly anti-US and anti-Israel rally in the rebel-held capital Sanaa, on May 9, 2025. (AP Photo/Osamah Abdulrahman) An Israeli strike in Yemen on Saturday night was...",
-      "published": "Sun, 15 Jun 2025 02:40:01 GMT"
+      "id": "917522bf998f9fb114c370d8c923e514",
+      "title": "Trump wants to score trade deals in Canada. He’s unlikely to get them. - Politico",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2025/06/15/trump-g7-trade-deals-expectations-00405578",
+      "image_url": "https://static.politico.com/62/ab/00d9e96c4c16bdef69ccc15a3992/https-delivery-gettyimages.com/downloads/2209067915",
+      "summary": "Trump wants to score trade deals in Canada. He’s unlikely to get them. The president’s first international summit of his second term comes ahead of a new tariff deadline and amid a Middle East crisis. President Donald Trump answers a reporters question in the Oval Office of the White House on April 7, 2025, in Washington. | Kevin Dietsch/AFP via...",
+      "published": "Sun, 15 Jun 2025 11:00:00 GMT"
+    },
+    {
+      "id": "011db2476e837ff5375d9ad4e8332b57",
+      "title": "Trump: The war between Israel and Iran should end - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2025/06/14/trump-putin-nuclear-talks-iran-kremlin",
+      "image_url": "https://images.axios.com/NAKfpiLnljJiOEJvHs23b3N4Sx4=/0x0:5259x2958/1366x768/2025/06/14/1749919841951.jpg",
+      "summary": "Trump: The war between Israel and Iran should end President Trump returns to the White House on June 9 following a Camp David meeting with senior administration members. Photo: Win McNamee/Getty Images President Trump said after a call with Russian President Vladimir Putin on Saturday that the war between Israel and Iran needs to end. Why it matters: Trump's call...",
+      "published": "Sun, 15 Jun 2025 03:21:50 GMT"
     },
     {
       "id": "d532f46c71ed9c32f051364c73215a0f",
@@ -40,15 +49,6 @@
       "image_url": null,
       "summary": "No content available for summarization.",
       "published": "Sat, 14 Jun 2025 22:16:44 GMT"
-    },
-    {
-      "id": "70177ff2d38097faca0687afc315331b",
-      "title": "Wait for bodies deepens pain of families after Air India crash - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c2lk55l9wpgo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3c65/live/0216d460-494f-11f0-a098-8b1a5a128239.jpg",
-      "summary": "Wait for bodies deepens pain of families after Air India crash The plane crashed shortly after takeoff in a residential neighbourhood in the city of Ahmedabad For Mistry Jignesh, 72 hours feel like an eternity. Since Thursday evening, Mr Jignesh and his family have been doing the rounds of the Civil Hospital in Ahmedabad, trying to find details of his...",
-      "published": "Sat, 14 Jun 2025 22:11:05 GMT"
     },
     {
       "id": "f49b4d9663aab9e48951c5a229f14e18",
