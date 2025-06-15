@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-06-15 02:30:38",
+    "generation_time": "2025-06-15 06:52:03",
     "total_articles": 20
   },
   "articles": [
@@ -24,15 +24,6 @@
       "published": "Fri, 13 Jun 2025 22:25:01 GMT"
     },
     {
-      "id": "c95ad1320869b6230eafbe845af046f2",
-      "title": "Person contagious with measles visited Boston public spaces - The Boston Globe",
-      "source": "The Boston Globe",
-      "url": "https://www.bostonglobe.com/2025/06/14/metro/contagious-measles-visits-boston/",
-      "image_url": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=557",
-      "summary": "Person contagious with measles visited Boston public spaces By Ethan Cotler Globe Correspondent,Updated June 14, 2025, 5:37 p. m. A traveler contagious with measles visited multiple public places in Boston from June 7-8, health officials said. logo-white Created with Sketch. You've Been Selected for Our Best Offer Get unlimited access to the news and more, all summer long. Limited-time offer.",
-      "published": "Sat, 14 Jun 2025 22:49:58 GMT"
-    },
-    {
       "id": "55ab38e3012a951610f2fff1e1b095b9",
       "title": "Kennedy’s HHS sent Congress ‘junk science’ to defend vaccine changes, experts say - CNN",
       "source": "CNN",
@@ -40,6 +31,15 @@
       "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2210910482.jpg?c=16x9&q=w_800,c_fill",
       "summary": "Kennedy’s HHS sent Congress ‘junk science’ to defend vaccine changes, experts say By Jackie Fortiér, KFF Health News US Health and Human Services Secretary Robert F. Kennedy Jr. announced May 27 that the CDC would no longer recommend Covid vaccines for pregnant women or healthy children. Andrew Harnik/Getty Images/File A document the Department of Health and Human Services sent to...",
       "published": "Fri, 13 Jun 2025 19:40:00 GMT"
+    },
+    {
+      "id": "c95ad1320869b6230eafbe845af046f2",
+      "title": "Person contagious with measles visited Boston public spaces - The Boston Globe",
+      "source": "The Boston Globe",
+      "url": "https://www.bostonglobe.com/2025/06/14/metro/contagious-measles-visits-boston/",
+      "image_url": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=557",
+      "summary": "Person contagious with measles visited Boston public spaces logo-white Created with Sketch. You've Been Selected for Our Best Offer Get unlimited access to the news and more, all summer long. Limited-time offer. Cancel anytime. Already a subscriber? Log in | Home",
+      "published": "Sat, 14 Jun 2025 17:37:00 GMT"
     },
     {
       "id": "e54bb460478b6cfc30641eb3613d2f64",
@@ -69,6 +69,51 @@
       "published": "Fri, 13 Jun 2025 12:38:25 GMT"
     },
     {
+      "id": "31dd3fc2c02873f3973e6939ba037edd",
+      "title": "Brain Adapts to Neuron Loss Through Rapid Rewiring - Neuroscience News",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com/brain-rewiring-neurons-29273/",
+      "image_url": "https://neurosciencenews.com/files/2025/06/neuron-rewiring-neuroscinec.jpg",
+      "summary": "Brain Adapts to Neuron Loss Through Rapid Rewiring FeaturedNeuroscience·June 14, 2025 Summary: New research shows that the brain’s cortex can rapidly reorganize itself after losing neurons, allowing other nerve cells to take over lost functions. Scientists studied neural networks in the auditory cortex and found that although sound-processing patterns were briefly disrupted, the brain formed nearly identical patterns within days.",
+      "published": "Sat, 14 Jun 2025 21:29:54 GMT"
+    },
+    {
+      "id": "774b84603cbba788e1c7d38993a0591c",
+      "title": "Walking more may lower your risk for chronic low back pain by 23%, study suggests - KSL.com",
+      "source": "KSL.com",
+      "url": "https://www.ksl.com/article/51329789/walking-more-may-lower-your-risk-for-chronic-low-back-pain-by-23-study-suggests",
+      "image_url": "https://img.ksl.com/slc/3089/308937/30893761.jpg?filter=kslv2/responsive_story_lg",
+      "summary": "Walking more may lower your risk for chronic low back pain by 23%, study suggests By Madeline Holcombe, CNN | Posted - June 14, 2025 at 7:41 a. m. Getting more steps in is linked to a reduced risk of back pain, a new study found. (FG Trade, E+, Getty Images via CNN ) Estimated read time: 3-4 minutes Walking...",
+      "published": "Sat, 14 Jun 2025 13:15:55 GMT"
+    },
+    {
+      "id": "ee8e7618ada10e5cbc6635ecb989d87d",
+      "title": "Study Reveals How Much Exercise You Need Each Week to Control Blood Pressure - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/study-reveals-how-much-exercise-you-need-each-week-to-control-blood-pressure",
+      "image_url": "https://www.sciencealert.com/images/2021-04/processed/GettyImages-492708704-Edit_1024.jpg",
+      "summary": "Study Reveals How Much Exercise You Need Each Week to Control Blood Pressure When it comes to exercising for heart's sake, you don't want to peak too early in life. Research suggests that if you want to protect yourself against high blood pressure in your twilight years you need to keep your exercise levels up through middle age. But according...",
+      "published": "Sat, 14 Jun 2025 23:13:48 GMT"
+    },
+    {
+      "id": "87d37bec43eed7dc768567e9115e03d5",
+      "title": "The 'very painful' symptom which could be a sign of new Covid variant as hospital cases surge - Yahoo",
+      "source": "Yahoo",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_e90ebecd-ade7-479f-9621-bd029b2926b2",
+      "image_url": "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_bestfit_frontpage.png",
+      "summary": "When you use our sites and apps, we use provide our sites and apps to you authenticate users, apply security measures, and prevent spam and abuse, and measure your use of our sites and apps If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency & Consent Framework, will also store and/or...",
+      "published": "Sat, 14 Jun 2025 10:33:36 GMT"
+    },
+    {
+      "id": "cee71270be84c32aa0d813f163d1ffa2",
+      "title": "One Risk Of White Wine You’ve Never Heard Of, Research Reveals - MindBodyGreen",
+      "source": "MindBodyGreen",
+      "url": "https://www.mindbodygreen.com/articles/research-reveals-the-link-between-white-wine-and-cancer",
+      "image_url": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_800,h_400,g_auto,q_85,fl_lossy,f_jpg/org/feq5wg53elzcsw2m8.jpeg",
+      "summary": "One Risk Of White Wine You've Never Heard Of, Research Reveals Image by EASY-2-SHOOT / Stocksy This article is from our longevity-focused newsletter, the long game, where we help you stay up to date on the latest research in the health space, with actionable, low-lift recommendations to put those lessons into practice. For access to our latest editions as soon...",
+      "published": "Fri, 13 Jun 2025 10:23:46 GMT"
+    },
+    {
       "id": "017b60a2a7514d4ae47f9955a6a945cb",
       "title": "A father of 3 felt healthy. Then a routine screening found a rare, deadly illness. - CBS News",
       "source": "CBS News",
@@ -78,85 +123,22 @@
       "published": "Sat, 14 Jun 2025 12:00:00 GMT"
     },
     {
-      "id": "87d37bec43eed7dc768567e9115e03d5",
-      "title": "The 'very painful' symptom which could be a sign of new Covid variant as hospital cases surge - Yahoo",
-      "source": "Yahoo",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a917a596-2824-4837-8c7f-979de86b17dd",
-      "image_url": "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_bestfit_frontpage.png",
-      "summary": "When you use our sites and apps, we use provide our sites and apps to you authenticate users, apply security measures, and prevent spam and abuse, and measure your use of our sites and apps If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency & Consent Framework, will also store and/or...",
-      "published": "Sat, 14 Jun 2025 10:33:36 GMT"
+      "id": "314f21007ae7b420bc6b5040c271ace9",
+      "title": "DC health officials confirm case of measles - WTOP",
+      "source": "WTOP",
+      "url": "https://wtop.com/dc/2025/06/dc-health-officials-confirm-case-of-measles/",
+      "image_url": "https://wtop.com/wp-content/uploads/2024/04/Measles-Explainer_56497-scaled-e1748123740649.jpg",
+      "summary": "This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy Click to toggle navigation menu. Home » Washington, DC News » DC health officials confirm… DC health officials confirm case of measles Tadiwos Abedje | tadiwos. abedje@wtop. com A case...",
+      "published": "Sun, 15 Jun 2025 01:08:38 GMT"
     },
     {
-      "id": "c4698ed228caef7e98a320ffa316019a",
-      "title": "One Risk Of White Wine You’ve Never Heard Of, Research Reveals - mindbodygreen.com",
-      "source": "mindbodygreen.com",
-      "url": "https://www.mindbodygreen.com/articles/research-reveals-the-link-between-white-wine-and-cancer",
-      "image_url": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_800,h_400,g_auto,q_85,fl_lossy,f_jpg/org/feq5wg53elzcsw2m8.jpeg",
-      "summary": "One Risk Of White Wine You've Never Heard Of, Research Reveals Image by EASY-2-SHOOT / Stocksy This article is from our longevity-focused newsletter, the long game, where we help you stay up to date on the latest research in the health space, with actionable, low-lift recommendations to put those lessons into practice. For access to our latest editions as soon...",
-      "published": "Fri, 13 Jun 2025 10:23:39 GMT"
-    },
-    {
-      "id": "de3bf7e58b3479deb5acce02b010ab5c",
-      "title": "This Daily Habit May Lower Chronic Back Pain Risk by 23%, New Study Says - EatingWell",
-      "source": "EatingWell",
-      "url": "https://www.eatingwell.com/walking-back-pain-study-11754629",
-      "image_url": "https://www.eatingwell.com/thmb/gIfNjTgW5iQRaDTjpFbfB2DZ9bg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Walking-May-Lower-Chronic-Back-Pain-Risk-New-Study-Says-bfd24741fc8b46bfa53059bcc729b53c.jpg",
-      "summary": "Costco Is Bringing Back a Major Perk Ina Garten Just Shared the Easiest 2-Ingredient Cocktail for Summer Diet Soda May Raise Diabetes Risk, New Study Says Shrimp Recalled Due to Possible Listeria Contamination This Daily Habit May Lower Chronic Back Pain Risk by 23%, New Study Says And getting started only takes a few steps. By Lauren Manaker M. S.,...",
-      "published": "Fri, 13 Jun 2025 21:24:37 GMT"
-    },
-    {
-      "id": "4759ab428744172383755cfdde3c6480",
-      "title": "Warning over hidden danger in compost that rots lungs and kills - The Mirror",
-      "source": "The Mirror",
-      "url": "https://www.mirror.co.uk/news/health/warning-over-hidden-danger-compost-35329063",
-      "image_url": "https://i2-prod.mirror.co.uk/article35369018.ece/ALTERNATES/s1200/0_Compost-Excl.jpg",
-      "summary": "Warning over hidden danger in compost that rots lungs and kills A fungus that thrives in compost is posing an increasing threat to human health because of climate change, experts have warned, and it can rapidly adapt, becoming resistant to drugs Emma Mackenzie Lifestyle Writer Prolific fungus that thrives in compost heaps might increasingly be a threat to human health(Image:...",
-      "published": "Sat, 14 Jun 2025 05:00:00 GMT"
-    },
-    {
-      "id": "32819f3e1e4fa008e98b1c7100bc95df",
-      "title": "Scientists pinpoint way to check if you're going to get early-onset colon cancer with up to 92% accuracy - Daily Mail",
-      "source": "Daily Mail",
-      "url": "https://www.dailymail.co.uk/health/article-14809655/test-early-onset-colon-cancer-symptoms-experts-epidemic.html",
-      "image_url": "https://i.dailymail.co.uk/1s/2025/06/13/15/99345095-0-image-m-17_1749824097563.jpg",
-      "summary": "Saturday, Jun 14th 2025 10PM 70°F Scientists pinpoint way to check if you're going to get early-onset colon cancer with up to 92% accuracy READ MORE: Millions more Americans told to get earlier colon cancer screening By LUKE ANDREWS SENIOR HEALTH REPORTER FOR DAILYMAIL. COM PUBLISHED: 14:24 EDT, 13 June 2025 | UPDATED: 14:24 EDT, 13 June 2025 A little-known...",
-      "published": "Fri, 13 Jun 2025 18:24:11 GMT"
-    },
-    {
-      "id": "73c379d30b70ac5861d7211f5559d17c",
-      "title": "Problematic porn use remains stable over time and is strongly linked to mental distress, study finds - PsyPost",
-      "source": "PsyPost",
-      "url": "https://www.psypost.org/problematic-porn-use-remains-stable-over-time-and-is-strongly-linked-to-mental-distress-study-finds/",
-      "image_url": null,
-      "summary": "Verify you are human by completing the action below. www.psypost. org needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Sat, 14 Jun 2025 18:03:26 GMT"
-    },
-    {
-      "id": "7001bbfa909cbe6da2c756e98b276fd9",
-      "title": "How Much Sun Do You Really Need to Get Enough Vitamin D? - Verywell Health",
-      "source": "Verywell Health",
-      "url": "https://www.verywellhealth.com/sun-exposure-and-vitamin-d-11752637",
-      "image_url": "https://www.verywellhealth.com/thmb/ctvh84XhbsQmQmrjOZKFXE4qP2E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-1318637613-8da22eb16afc49919e6c3d145a9845dc.jpg",
-      "summary": "How Much Sun Do You Really Need to Get Enough Vitamin D? By Fran Kritz Published on June 13, 2025 Brief sun exposure may help your body produce vitamin D, but experts recommend getting vitamin D via diet or supplements instead. Spending just a few minutes in the sun can help your body produce vitamin D, a hormone that supports...",
-      "published": "Fri, 13 Jun 2025 17:46:30 GMT"
-    },
-    {
-      "id": "3cb55a9dcdaadf435041706b29837997",
-      "title": "Scientists discover that dogs can alert humans to this quickly-spreading disease - Earth.com",
-      "source": "Earth.com",
-      "url": "https://www.earth.com/news/scientists-discover-that-dogs-can-alert-humans-to-valley-fever-disease/",
-      "image_url": "https://cff2.earth.com/uploads/2025/06/12030753/scientists-discover-dogs-alert-humans-valley-fever.jpg",
-      "summary": "Scientists discover that dogs can alert humans to this quickly-spreading disease Dogs aren’t just companions who brighten our daily routines. They may also be key players in monitoring how Valley fever moves through certain regions in the United States. This disease, also called coccidioidomycosis, involves inhaling fungal spores found in dry soil conditions. Jane Sykes, lead author of a recent...",
-      "published": "Sat, 14 Jun 2025 18:13:28 GMT"
-    },
-    {
-      "id": "ec40eee45af00dd0911a8de731846ecd",
-      "title": "The everyday habits that raise your risk of cancer - Daily Mail",
-      "source": "Daily Mail",
-      "url": "https://www.dailymail.co.uk/health/article-14799325/addiction-cancer-Crave-book-smoking-alcohol-fast-food.html",
-      "image_url": "https://i.dailymail.co.uk/1s/2025/06/13/21/99359091-0-image-a-41_1749845935787.jpg",
-      "summary": "Saturday, Jun 14th 2025 10PM 70°F Hidden link between cancer and guilty pleasures every American secretly indulges in READ MORE: Experts reveal what's driving explosion in under 50s cancer cases By ISHITA SRIVASTAVA FOR DAILYMAIL. COM PUBLISHED: 20:49 EDT, 14 June 2025 | UPDATED: 20:59 EDT, 14 June 2025 A sip of wine. A craving for pizza. A full calendar.",
-      "published": "Sun, 15 Jun 2025 00:53:24 GMT"
+      "id": "1fe862454080b69ec0775af021b9c1af",
+      "title": "5 health issues that can occur due to Vitamin D deficiency - Times of India",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/5-health-issues-that-can-occur-due-to-vitamin-d-deficiency/photostory/121846994.cms",
+      "image_url": "https://static.toiimg.com/photo/121847050.cms",
+      "summary": "5 Health Issues That Can Occur Due To Vitamin D Deficiency 5 health issues that can occur due to Vitamin D deficiency ETimes. in / Jun 14, 2025, 23:30 IST 5 health issues that can occur due to Vitamin D deficiency Vitamin D, known as the sunshine vitamin, is extremely crucial for our body, as it helps in keeping our...",
+      "published": "Sat, 14 Jun 2025 23:30:00 GMT"
     },
     {
       "id": "30fe1bf18279fcc129598b4ab5290f25",
@@ -165,16 +147,34 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qVVQ4bWxsOVIxbUYxUjVwTzZjZ1h3MjVXLVkyMFAzcllhaUM4eUJkNWNUSEoxT090LU5tbFFUN0xULXVaemxXdkRocEFWOWVqSG14Zk1CNlhoOWpBZE5BUzJSM3dlNm94b19PaWVid3J3OWJsWlg4cDRzU3RCZw?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sat, 14 Jun 2025 15:29:17 GMT"
+      "published": "Mon, 09 Jun 2025 22:03:24 GMT"
     },
     {
-      "id": "98f0a77cc1c5fa8dbd3c6a90ec1e7958",
-      "title": "Cleveland issues public health alert after spike in COVID-19 detected in wastewater - Cleveland.com",
-      "source": "Cleveland.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdVhGbzNDMXdWR3Z3MUlrVUxBRDZlQ3JnR3N5ZVgxNWtPUjZUTlA0bUQyT0oxaEhlajdBSVBhMWpISktmZzlxT09kTG1WcUZjeE03b2c4V2VwZWZhOFdkYllrMUxISld1eDU4RjZEY0E4ZkRCSUpKOGtJWVF3YUJydmVBNWppNG9jOVVLQkxLdF92Zk9mWXQ1ak0yM0RTcGM3MDlmMlQ2cXA5VTZMZklLVjJGQWx6Vm16elNGU0xJSFdpZTNwSnfSAdoBQVVfeXFMTUFYVm1lU0xsU2lUTkVVaW5wSGZ4QUp6NGZONklqdnlJMFVJdzR2dG9SM3JpbzBHbEpObDZHU3pJNjZFeGNjQlZJOWhMNUFBWHhnQ0xzZS13VEtRRXNld0x0R0tmUjBTa05udFpib1FsRVhKUHYtWUpWcWVtNHFHWjdhazFDWUJOakkwYXNfanFXMmpUa0NIVlN4d3lhal9mVHFvN0ZhZXBjWUFTblo1VUNUVDFGYkNXV0NKTWtQNW9tX09ZUzdiTjJYdHNrazZCMjBiQmEzTGdWZ0E?oc=5",
+      "id": "32819f3e1e4fa008e98b1c7100bc95df",
+      "title": "Scientists pinpoint way to check if you're going to get early-onset colon cancer with up to 92% accuracy - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOGU1dnBOa003N0hrUUNtS19YdS14X1EyTDNWc1RIZU1fV0NzdFhBZmt1T0phZk5NMTNqMVR0Rk1MN3lYY2lxdV80OWlydTJKc2ppTjlTWFJNUVl3ZGlCREdoeWtOdVNLa0NpRTdkUzhaemVMTXNaZG90OENxd3FMcndfanpSQUt1TDFNQ1FOb0FqNGk2OTlvWnFFMW1ON0cwOGphS3ZBZHpaV0tobUxMaFRR0gG3AUFVX3lxTFBvRXJ5ME9kMDJMMUV5SFVUT0k3SmdlRzIzTDBQZksyc2xleVo5MEp3S241R1NBdDJzWnczaHZINXhsN2VQallnNzdmc2c5em9FMks2dXVicmIzWFFiMFowQjZLaHlUZ1ZvWWFWekllbVhTOWNUcU9OSVp6ZXVEalE3UEhjNUdoa1FkU2YzN3BNTGd4UEdJZFVWY0gwdDVlX0phRlpmM2RvMFZXMVVralRsenBhalQ2bw?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Fri, 13 Jun 2025 20:57:00 GMT"
+      "published": "Fri, 13 Jun 2025 18:24:11 GMT"
+    },
+    {
+      "id": "0c641debad5faa209f30b2e62f6db575",
+      "title": "6 Foods You Should Eat More of After 60, According to Dietitians - EatingWell",
+      "source": "EatingWell",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KYzNmM3dibHhJTEtPT3dyM2lBUWJZSzYtbDh4b0NNQktXaHQtaXJjaG80dmd3dzM4b3Y2X3NSNk5qSTFoTnJnVThOSmFOY2dhSWNRMjI3WVA2N1VqOUZvV2VKWERDS0xtRWdDTlVmQURBcnFSbXY2dE9vZFRkZw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 14 Jun 2025 00:00:00 GMT"
+    },
+    {
+      "id": "ca671249e843507aa222e60e7fa4e759",
+      "title": "For the Best Fat-Burning Exercises, Slow and Sustainable Wins the Abs Race - GQ",
+      "source": "GQ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55REk0SU9rLS1JQS1nd3JiQ21KLWR4OU9hVXFfWjZtZlExU1VraEI5R2NVNHRpOXMxaEpUTkVscVdONTJpUnRWNFpSWkowa2RsdkxGWE9Cc3hvM2VPNUZvZ09hWWxFUQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 13 Jun 2025 15:00:00 GMT"
     },
     {
       "id": "3742ec85caa360523ea767a8bb1866af",

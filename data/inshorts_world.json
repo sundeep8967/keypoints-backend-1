@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-15 02:39:22",
-    "total_articles": 5
+    "generation_time": "2025-06-15 07:01:02",
+    "total_articles": 6
   },
   "articles": [
     {
@@ -12,25 +12,25 @@
       "url": "https://www.reuters.com/world/middle-east/israel-iran-strike-each-other-new-wave-attacks-2025-06-14/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sun, 15 Jun 2025 01:01:00 GMT"
+      "published": "Sun, 15 Jun 2025 03:09:00 GMT"
     },
     {
-      "id": "7931ba21db761b28932a62903e2b69f6",
-      "title": "Putin and Trump discussed Middle East tensions, Ukraine war in phone call - ABC News",
-      "source": "ABC News",
-      "url": "https://abcnews.go.com/International/wireStory/putin-trump-discussed-middle-east-tensions-ukraine-war-122846492",
-      "image_url": "https://i.abcnewsfe.com/a/31cb5ef5-cf5d-463f-9ff2-b1d20fd458f8/wirestory_498642958089922ffc038330041e9987_16x9.jpg?w=1600",
-      "summary": "Putin and Trump discussed Middle East tensions, Ukraine war in phone call Russian President Vladimir Putin and U. S. President Donald Trump have held a lengthy phone call to discuss the escalating situation in the Middle East and Ukraine peace talks 3 killed in Russian airstrikes as Zelenskyy warns of evolving drone techABC News’ Maggie Rulli reports on the Russian...",
-      "published": "Sun, 15 Jun 2025 00:50:59 GMT"
+      "id": "771b1c3c0fa094de842ba951e83a0bc6",
+      "title": "Ukraine war briefing: Putin tells Trump in phone call Moscow ready to resume peace talks - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2025/jun/15/ukraine-war-briefing-putin-tells-trump-in-phone-call-moscow-ready-to-resume-peace-talks",
+      "image_url": "https://i.guim.co.uk/img/media/964bb29f85c59c5618d8fdf506081143dcaa6b91/645_0_6446_5157/master/6446.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1038ac8f96c9cf96d9faae5e8bb9c296",
+      "summary": "Fund the free press with $15 per month A Ukrainian soldier hugs his mother after returning from captivity after a POWs exchange between Russia and Ukraine, in Chernyhiv region, Ukraine. Photograph: Evgeniy Maloletka/AP Ukraine war briefing: Putin tells Trump in phone call Moscow ready to resume peace talks President confirms Russia could continue negotiations with Kyiv after current prisoner swaps...",
+      "published": "Sun, 15 Jun 2025 01:36:00 GMT"
     },
     {
-      "id": "70177ff2d38097faca0687afc315331b",
-      "title": "Wait for bodies deepens pain of families after Air India crash - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c2lk55l9wpgo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3c65/live/0216d460-494f-11f0-a098-8b1a5a128239.jpg",
-      "summary": "Wait for bodies deepens pain of families after Air India crash The plane crashed shortly after takeoff in a residential neighbourhood in the city of Ahmedabad For Mistry Jignesh, 72 hours feel like an eternity. Since Thursday evening, Mr Jignesh and his family have been doing the rounds of the Civil Hospital in Ahmedabad, trying to find details of his...",
-      "published": "Sat, 14 Jun 2025 22:11:05 GMT"
+      "id": "4d3a7077a5d6cf51a8a5346b575fe22e",
+      "title": "Israeli officials say Houthi military chief targeted in Yemen strike - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/israeli-officials-say-houthi-military-chief-targeted-in-yemen-strike/",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/05/AP25129511367661.jpg",
+      "summary": "Israeli officials say Houthi military chief targeted in Yemen strike Unclear if attempt to kill Muhammad Al-Ghamari successful; no official comment from the IDF Supporters of the Iran-backed Houthi group in Yemen attend a weekly anti-US and anti-Israel rally in the rebel-held capital Sanaa, on May 9, 2025. (AP Photo/Osamah Abdulrahman) An Israeli strike in Yemen on Saturday night was...",
+      "published": "Sun, 15 Jun 2025 02:40:01 GMT"
     },
     {
       "id": "d532f46c71ed9c32f051364c73215a0f",
@@ -42,12 +42,21 @@
       "published": "Sat, 14 Jun 2025 22:16:44 GMT"
     },
     {
+      "id": "70177ff2d38097faca0687afc315331b",
+      "title": "Wait for bodies deepens pain of families after Air India crash - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c2lk55l9wpgo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3c65/live/0216d460-494f-11f0-a098-8b1a5a128239.jpg",
+      "summary": "Wait for bodies deepens pain of families after Air India crash The plane crashed shortly after takeoff in a residential neighbourhood in the city of Ahmedabad For Mistry Jignesh, 72 hours feel like an eternity. Since Thursday evening, Mr Jignesh and his family have been doing the rounds of the Civil Hospital in Ahmedabad, trying to find details of his...",
+      "published": "Sat, 14 Jun 2025 22:11:05 GMT"
+    },
+    {
       "id": "f49b4d9663aab9e48951c5a229f14e18",
       "title": "Trump administration considers adding 36 countries to travel ban list - The Washington Post",
       "source": "The Washington Post",
       "url": "https://www.washingtonpost.com/national-security/2025/06/14/trump-travel-ban-expansion/",
       "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ONND35DIE7BYJJRHQF53DSQLW4_size-normalized.jpg&w=1440",
-      "summary": "Trump administration considers adding 36 countries to travel ban list An internal memo reviewed by The Post sets a 60-day deadline for the targeted nations to conform with certain requirements, or face a full or partial entry ban. The United States is considering restricting entry to citizens of an additional 36 countries in what would be a significant expansion of...",
+      "summary": "Trump administration considers adding 36 countries to travel ban list An internal memo reviewed by The Post sets a 60-day deadline for the targeted nations to conform with certain requirements, or face a full or partial entry ban. President Donald Trump and Secretary of State Marco Rubio during a Cabinet meeting in March. (Jabin Botsford/The Washington Post) The United States...",
       "published": "Sun, 15 Jun 2025 01:19:12 GMT"
     }
   ]
