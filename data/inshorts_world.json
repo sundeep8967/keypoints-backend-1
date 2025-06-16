@@ -1,54 +1,45 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-15 19:00:24",
-    "total_articles": 12
+    "generation_time": "2025-06-16 03:22:48",
+    "total_articles": 15
   },
   "articles": [
     {
-      "id": "0f5e0da2e631cd147874a6cb727180d7",
-      "title": "Extensive strikes in Tehran after IDF warns Iranians near arms plants to evacuate - The Times of Israel",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/idf-warns-iranians-near-arms-plants-to-evacuate-as-strikes-batter-country-for-3rd-day/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sun, 15 Jun 2025 14:57:18 GMT"
+      "id": "c70fdab8cef269d68f8607061d989a3f",
+      "title": "Trump told Israel not to kill Iran's supreme leader - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckg7gl4zegyo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4e8a/live/c2a4cb20-4a34-11f0-839f-77d4cd73e6fe.jpg",
+      "summary": "Trump told Israel not to kill Iran's supreme leader - report US President Donald Trump rejected a plan by Israel to kill Iran's Supreme Leader Ayatollah Ali Khamenei, three US officials have told BBC's US partner CBS News. Trump reportedly told Israeli Prime Minister Benjamin Netanyahu that assassinating Khamenei was \"not a good idea\", according to one official. The president...",
+      "published": "Mon, 16 Jun 2025 00:27:42 GMT"
     },
     {
-      "id": "36034f7d7af93790cec795e742f80bae",
-      "title": "At least 8 dead in shooting near Israeli and US-supported aid sites in Gaza - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/15/nx-s1-5434274/at-least-8-dead-in-shooting-near-israeli-and-us-supported-aid-sites-in-gaza",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+40/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F91%2F64%2F1cc61e494715966dc2b21c997782%2Fap25166445740104.jpg",
-      "summary": "At least 8 dead in shooting near Israeli and US-supported aid sites in Gaza Palestinians carry bags containing food and humanitarian aid packages delivered by the Gaza Humanitarian Foundation, a U. S.-backed organization, in Rafah, southern Gaza Strip, Sunday, June 15, 2025. KHAN YOUNIS, Gaza Strip — At least eight Palestinians were killed and dozens more wounded on Sunday in...",
-      "published": "Sun, 15 Jun 2025 15:18:39 GMT"
+      "id": "cd9287e38a57641f0c7b78d98d1f0eae",
+      "title": "Clash with Iran boosts Netanyahu, but Israelis worry about long fight - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/06/15/israel-iran-conflict-netanyaho-politics/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZXATKLTVBNBJMXHDZFK5FMU6Y_size-normalized.jpg&w=1440",
+      "summary": "Clash with Iran boosts Netanyahu, but Israelis worry about long fight Israelis have been rallying around the flag since the attacks began last week, even if not around Netanyahu himself. Israeli Prime Minister Benjamin Netanyahu addresses an assembly during a session of Israel's parliament in Jerusalem on Wednesday. (Menahem Kahana/AFP/Getty Images) TEL AVIV — Israeli Prime Minister Benjamin Netanyahu’s shaky...",
+      "published": "Mon, 16 Jun 2025 00:21:21 GMT"
     },
     {
-      "id": "22016c26f2b26ce8ead2f1bd26e6d7a7",
-      "title": "Trump vetoed Israeli plan to kill Iran's supreme leader, US officials say - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trump-vetoed-an-israeli-plan-kill-irans-supreme-leader-us-officials-say-2025-06-15/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sun, 15 Jun 2025 16:43:39 GMT"
-    },
-    {
-      "id": "5f97e65e3a8a1fe5223f0cd07499776e",
-      "title": "What to Know About the G7 Summit in Canada - The New York Times",
+      "id": "a9f9fad37cd3b5d35fde3815b9dfa9be",
+      "title": "As Trump Returns to G7, Rift With Allies Is Even Deeper - The New York Times",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/15/world/canada/g7-summit-2025.html",
+      "url": "https://www.nytimes.com/2025/06/15/us/politics/trump-g7-tariffs-trade-israel-ukraine.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sun, 15 Jun 2025 15:18:50 GMT"
+      "published": "Sun, 15 Jun 2025 23:08:20 GMT"
     },
     {
-      "id": "d1ca10a44b718ad121a64cefc6d76ff1",
-      "title": "At least two dead after bridge collapses in India tourist destination - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/15/india/india-bridge-collapse-intl",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2219547276.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "At least two dead after bridge collapses in India tourist destination Published 9:43 AM EDT, Sun June 15, 2025 An iron bridge collapsed over a river in India’s western Maharashtra state. AFP/Getty Images At least two people died and 32 others were injured after an iron bridge over a river collapsed at a popular tourist destination in India’s western Maharashtra...",
-      "published": "Sun, 15 Jun 2025 13:43:00 GMT"
+      "id": "0ad45d274caf82c97d399d0f6d2d5bdc",
+      "title": "In Air India crash, canteen worker hopes for 'second miracle' - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/air-india-crash-canteen-worker-hopes-second-miracle-2025-06-15/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sun, 15 Jun 2025 13:27:07 GMT"
     },
     {
       "id": "d10bf7b7ef4a188d1fb58541b4e85d3a",
@@ -60,58 +51,94 @@
       "published": "Sun, 15 Jun 2025 13:07:39 GMT"
     },
     {
-      "id": "18a7389afae4fb219ffda1b265474a88",
-      "title": "Trump Plots Adding Dozens More Countries to Travel Ban - The Daily Beast",
-      "source": "The Daily Beast",
-      "url": "https://www.thedailybeast.com/trump-mulls-adding-36-more-countries-to-travel-ban/",
-      "image_url": "https://www.thedailybeast.com/resizer/v2/D3HW5CZUVBD4ZEZFIFGYVRUTKU.jpg?smart=true&auth=3219a4b2f3b90567b544c830a5171809b264beba55af3f7453eb3ed3942f16d9&width=1200&height=630",
-      "summary": "Trump Plots Adding Dozens More Countries to Travel Ban The countries flagged for potential inclusion in the travel ban include Egypt, Dominica and Vanuatu. Updated Jun. 15 2025 11:10AM EDT Published Jun. 15 2025 3:56AM EDT President Donald Trump is considering expanding the scope of his controversial travel ban and applying it to an additional 36 countries, according to a...",
-      "published": "Sun, 15 Jun 2025 15:10:00 GMT"
-    },
-    {
-      "id": "440bad6539bcd321675845a6a664720f",
-      "title": "Air India plane crash death toll rises to 270 - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0575me7j82o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3fc2/live/1a5ec140-49ae-11f0-b942-258325d4449f.jpg",
-      "summary": "Air India plane crash death toll rises to 270 Vigils honouring the dead have been taking place across India and the UK Doctors in India say 270 bodies have been recovered from the site of Thursday's plane crash in Ahmedabad. The London-bound aircraft crashed into a residential area shortly after take-off killing all but one of the 242 passengers and...",
-      "published": "Sun, 15 Jun 2025 17:41:09 GMT"
-    },
-    {
-      "id": "d622a830be5e2179957b21e87f2df936",
-      "title": "Live updates: Israeli campaign could lead to regime change in Iran, Netanyahu says; Iranians flee capital amid strikes - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/06/15/israel-iran-attacks-live-tehran-tel-aviv/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7IE3GSKL36PD5L7VHTWDSBC32M_size-normalized.JPG&w=1440",
-      "summary": "Israeli strikes could cause regime change in Iran, Netanyahu says; Iran fires more missiles at Israel Israeli rescue brigades examine the aftermath of an Iranian strike near Tel Aviv early Sunday. (Heidi Levine/For The Washington Post) Israeli Prime Minister Benjamin Netanyahu said Sunday that regime change in Iran “could certainly be the result” of Israel’s military campaign. “Because the Iran...",
-      "published": "Sun, 15 Jun 2025 18:10:35 GMT"
-    },
-    {
-      "id": "f68bedd95444b32eb396ced1413718cf",
-      "title": "Israel is not winning. Trump must not cave to new demands for help. - Responsible Statecraft",
-      "source": "Responsible Statecraft",
-      "url": "https://responsiblestatecraft.org/israel-iran-war/",
-      "image_url": "https://responsiblestatecraft.org/media-library/iranian-attack-on-israel.jpg?id=61011846&width=1200&height=600&coordinates=0%2C647%2C0%2C270",
-      "summary": "Stay Responsible. Subscribe for Global Insights Israel is not winning. Trump must not cave to new demands for help. As Iran mounts an effective response to Israel's war of choice, why should the president now risk US lives to join it? Regions Middle East Israel-Iran Israel’s war of choice with Iran is proving far less decisive than President Donald Trump...",
-      "published": "Sun, 15 Jun 2025 14:17:45 GMT"
-    },
-    {
-      "id": "29b0ee39c5e11d4baef4f7c8fc7ca1f0",
-      "title": "Spaniards packing water guns blame impact of mass tourism for housing crunch - AP News",
+      "id": "d60ee5e4baa716c8d42b063fb5bea0dd",
+      "title": "2 killed and 32 injured after a bridge collapses at a tourist destination in western India - AP News",
       "source": "AP News",
-      "url": "https://apnews.com/article/spain-tourism-housing-airbnb-protest-46250dd17afbfcd270e4f951865ae667",
+      "url": "https://apnews.com/article/india-bridge-collapse-maharashtra-5d5565c2e660a77a094f8f9349be31cc",
       "image_url": "https://apnews.com/favicon.ico",
       "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Sun, 15 Jun 2025 15:36:00 GMT"
+      "published": "Sun, 15 Jun 2025 14:39:00 GMT"
     },
     {
-      "id": "b52b80a51122e4a97fc7154b8eb4ab06",
-      "title": "Macron visits Greenland in show of European unity and signal to Trump - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0j7x2xe54eo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/dbf8/live/fa868ad0-492e-11f0-84b6-6bf0f66205f1.jpg",
-      "summary": "Macron visits Greenland in show of European unity and signal to Trump French President Emmanuel Macron is visiting Greenland to meet the prime ministers of Greenland and Denmark In a sign of Greenland's growing importance, French President Emmanuel Macron is visiting the Arctic island today, in what experts say is a show of European unity and a signal to Donald...",
-      "published": "Sat, 14 Jun 2025 23:43:21 GMT"
+      "id": "dc6b590b616a387342a9913a1598c415",
+      "title": "Trump administration weighs adding 36 countries to travel ban, memo says - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/15/trump-travel-ban.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108158380-1749730091117-gettyimages-2219114444-US-NEWS-TRUMP-TRAVEL-BAN-VENEZUELANS-MI.jpeg?v=1749730124&w=1920&h=1080",
+      "summary": "Suspect Vance Luther Boelter apprehended in Minnesota lawmakers shooting case Trump administration weighs adding 36 countries to travel ban, memo says Travelers from Latin America and the Caribbean arrive at Miami International Airport on Monday, June 9, 2025, as President Donald Trump’s new travel ban takes effect. (Carl Juste/Miami Herald/Tribune News Service via Getty Images) Carl Juste | Miami Herald...",
+      "published": "Sun, 15 Jun 2025 16:22:09 GMT"
+    },
+    {
+      "id": "2634c0b7638f63ff832be875192eacab",
+      "title": "Spain housing crisis: Locals blame tourists and speculators - DW",
+      "source": "DW",
+      "url": "https://www.dw.com/en/spain-housing-crisis-locals-blame-tourists-and-speculators/a-72816676",
+      "image_url": "https://static.dw.com/image/72158297_6.jpg",
+      "summary": "DW uses cookies and similar technologies to measure usage, display personalized advertising and share personal data and information with up to 186 third parties. You decide for yourself whether you agree to this use of your data. You can adjust individual details under “Settings” and change them at any time. You can view all of DW's content without agreeing. Social...",
+      "published": "Sun, 15 Jun 2025 14:01:11 GMT"
+    },
+    {
+      "id": "6489226ba83602d63aab647c29cdd188",
+      "title": "Starmer confirms military buildup in Middle East as Europe urges restraint - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/germany-france-u-k-ready-to-talk-with-iran/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/15/13071070-scaled.jpg",
+      "summary": "Starmer confirms military buildup in Middle East as Europe urges restraint",
+      "published": "Sun, 15 Jun 2025 12:37:00 GMT"
+    },
+    {
+      "id": "96f3281a886da203e4aaa9b379840b2e",
+      "title": "Macron visits Greenland in show of support for territory coveted by Trump - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/06/15/emanuel-macron-greenland-trump-france/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JPZHYIFKLSCRW6OJILHOL6JLCY_size-normalized.jpg&w=1440",
+      "summary": "Macron visits Greenland in show of support for territory coveted by Trump French President Emanuel Macron visited Greenland, sending a pointed message about its sovereignty on his way to a Group of Seven meeting in Canada with President Donald Trump. French President Emmanuel Macron, center, speaks with Greenlandic Prime Minister Jens-Frederik Nielsen, left, and Danish Prime Minister Mette Frederiksen on...",
+      "published": "Mon, 16 Jun 2025 01:29:56 GMT"
+    },
+    {
+      "id": "05ed17af31ebd9171cf549d3749f85ba",
+      "title": "Israel found Iran carried out key tests for nuke design ahead of strikes — report - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/israel-found-iran-carried-out-key-tests-for-nuke-design-ahead-of-strikes-report/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sun, 15 Jun 2025 08:46:00 GMT"
+    },
+    {
+      "id": "36034f7d7af93790cec795e742f80bae",
+      "title": "At least 8 dead in shooting near Israeli and US-supported aid sites in Gaza - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/15/nx-s1-5434274/at-least-8-dead-in-shooting-near-israeli-and-us-supported-aid-sites-in-gaza",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+40/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F91%2F64%2F1cc61e494715966dc2b21c997782%2Fap25166445740104.jpg",
+      "summary": "At least 8 dead in shooting near Israeli and US-supported aid sites in Gaza Palestinians carry bags containing food and humanitarian aid packages delivered by the Gaza Humanitarian Foundation, a U. S.-backed organization, in Rafah, southern Gaza Strip, Sunday, June 15, 2025. KHAN YOUNIS, Gaza Strip — At least eight Palestinians were killed and dozens more wounded on Sunday in...",
+      "published": "Sun, 15 Jun 2025 15:18:39 GMT"
+    },
+    {
+      "id": "aa2adf4623e6f90a1373e9905271bda0",
+      "title": "Huge turnout at a second Dutch protest seeking government action against Israel - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/netherlands-gaza-protest-hague-israel-4976ec568e1b61ad80fd5ab53df5871e",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sun, 15 Jun 2025 19:28:00 GMT"
+    },
+    {
+      "id": "5008dc4a6548b82bc0bc8417a467eb8a",
+      "title": "The Israel-Iran war is now a brutal test of staying power - The Economist",
+      "source": "The Economist",
+      "url": "https://www.economist.com/middle-east-and-africa/2025/06/15/the-israel-iran-war-is-now-a-brutal-test-of-staying-power",
+      "image_url": "https://www.economist.com/content-assets/images/20250621_BLP903.jpg",
+      "summary": "Middle East & Africa | The Middle East The Israel-Iran war is now a brutal test of staying power Both sides have prepared for an air and missile war for decades",
+      "published": "Sun, 15 Jun 2025 18:21:59 GMT"
+    },
+    {
+      "id": "43274c448574034bbc8f4579f8903f1c",
+      "title": "Exclusive: Putin's warning to Iran after Trump call - www.israelhayom.com",
+      "source": "www.israelhayom.com",
+      "url": "https://www.israelhayom.com/2025/06/15/exclusive-putins-warning-to-iran-after-trump-call/",
+      "image_url": "https://www.israelhayom.com/wp-content/uploads/2024/08/2022-07-19T000000Z_512998400_MT1ABCPR818314001.jpg",
+      "summary": "Home News Israel at War Iran War Exclusive: Putin's warning to Iran after Trump call Putin, being told by Trump he won't impose restrain on Israel, warned Iran's Supreme Leader Ali Khamenei, stating that his regime is in danger. by Danny Zaken Published on 06-15-2025 16:59 Last modified: 06-15-2025 18:01 Iranian Supreme Leader Ayatollah Ali Khamenei (R) receiving Russian President...",
+      "published": "Sun, 15 Jun 2025 15:01:36 GMT"
     }
   ]
 }
