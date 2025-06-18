@@ -1,27 +1,63 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-18 13:24:04",
+    "generation_time": "2025-06-18 18:53:28",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "23d2b36f3f3ac3cdca6c1f285a26bc8c",
-      "title": "Nintendo is banning online services on Switch 2 systems that use the Mig cartridge - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/688483/nintendo-switch-2-ban-error-code-mig-flash-cartridge-online",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175_f1b8d7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "Nintendo will take your Switch 2 offline forever if you use a Mig flash cartridgeWhether you’re pirating games, or playing copies of games you own, Nintendo thinks you’re guilty. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Photo: Amelia Holowaty Krales / The Verge Cameron Faulkner is an editor covering...",
-      "published": "Tue, 17 Jun 2025 21:06:34 GMT"
+      "id": "af3cc98ead5ee9b839695ce6c7756bcb",
+      "title": "Oh hey, Pauline is Donkey Kong’s co-op partner in Bananza - Polygon",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/nintendo-switch-2/607651/donkey-kong-bananza-pauline-coop-2-player-nintendo-direct",
+      "image_url": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/NS2_DonkeyKongBananza_SCRN_06.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "summary": "Pauline’s in Donkey Kong Bananza, elevating the game with musical co-op action Nintendo confirms kid Pauline will make Bananza a third-person shouter Michael McWhertor is a journalist with more than 17 years of experience covering video games, technology, movies, TV, and entertainment. We already suspected that New Donk City mayor Pauline might make an appearance in Donkey Kong Bananza on...",
+      "published": "Wed, 18 Jun 2025 14:00:00 GMT"
     },
     {
-      "id": "4f59588a4cace79bb459f7084cbf5e8f",
-      "title": "Future iPhones Could Use Dual Autofocus Sensors To Instantly Capture Perfect Shots, Even Through The Glass Of A Moving Car Or In Challenging Low-Light Conditions - Wccftech",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/future-iphone-with-dual-autofocus/",
-      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2025/06/iPhon-Camera.jpg",
-      "summary": "Future iPhones Could Use Dual Autofocus Sensors To Instantly Capture Perfect Shots, Even Through The Glass Of A Moving Car Or In Challenging Low-Light Conditions Apple could be working on a supercharged camera for the iPhone with a powerful new upgrade and the ability to capture sharper photos with faster focus, so you do not miss a moment. You might...",
-      "published": "Wed, 18 Jun 2025 00:37:00 GMT"
+      "id": "9ba4a8fe896ef5d6f8a3b529ed687ce3",
+      "title": "Framework Laptop 12: An Upgrade-Friendly, Convertible 2-in-1 Linux Laptop Review - Phoronix",
+      "source": "Phoronix",
+      "url": "https://www.phoronix.com/review/framework-laptop-12",
+      "image_url": "https://www.phoronix.net/image.php?id=framework-laptop-12&image=framework_12_1",
+      "summary": "Framework Laptop 12: An Upgrade-Friendly, Convertible 2-in-1 Linux Laptop Written by Michael Larabel in Computers on 18 June 2025 at 11:00 AM EDT. Page 1 of 9. 6 Comments. Back in February the Framework Laptop 12 was announced as the company's first 2-in-1 convertible laptop while still being well-built and upgrade-friendly/modular as we have come to enjoy out of their...",
+      "published": "Wed, 18 Jun 2025 15:00:00 GMT"
+    },
+    {
+      "id": "d5c44cc08fa0612af99fac7ad0789788",
+      "title": "Indigo is a new camera app by the guys who made the Pixel and Google Camera apps - Android Authority",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/adobe-indigo-pixel-camera-google-camera-3568599/",
+      "image_url": "https://www.androidauthority.com/wp-content/uploads/2025/06/Adobe-Indigo-camera-app-on-iPhone.jpg",
+      "summary": "Affiliate links on Android Authority may earn us a commission. Learn more. Indigo is a new camera app by the guys who made the Pixel and Google Camera apps The Adobe Indigo app seems like the Pixel Camera from a parallel universe. Adamya Sharma / Android Authority Adobe has launched the Indigo camera app on the Apple App Store. Two...",
+      "published": "Wed, 18 Jun 2025 13:26:25 GMT"
+    },
+    {
+      "id": "f23b1f244e736316c2fc542b6ac8e857",
+      "title": "Microsoft, AMD partner for multiple devices, including next-gen Xbox consoles - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4459111-microsoft-amd-partner-for-multiple-devices-including-next-gen-xbox-consoles",
+      "image_url": "https://seekingalpha.com/samw/static/images/bull-and-bear.32d6d115c.png",
+      "summary": "Home page Seeking Alpha - Power to Investors Search for Symbols, analysts, keywords Getting lost on Seeking Alpha is annoying; being lost in the stock market is worse. Sign up now. Seeking Alpha - Power to Investors",
+      "published": "Tue, 17 Jun 2025 18:08:00 GMT"
+    },
+    {
+      "id": "6d5dc794fe2f0acd71226193bed8b172",
+      "title": "What Bungie Will Add To ‘Marathon’ After Its Announced Delay - Forbes",
+      "source": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaTBnb0I2ejlUeTNIZ2txemp6emIzOFA5T0lIOHNyYllKYnlWcTNyY0FPbmlnMzNxRnBndy11NFozS084THo0MnhlVGpBOE9IemNyT2xZbWZ5d3Rsc05Oc1ZOaHVXY09ySjdROHhJN2hSSXB4aE9yeHJscW1BUkhQWGhYMW13SU45SmhlU2JGUnVLYmp0VGZjRGJuOXpJQlQ0ZVVqd0VabG5BMmhCTHc?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 18 Jun 2025 13:14:53 GMT"
+    },
+    {
+      "id": "eab726ffb5a253b6367b672c74fed32e",
+      "title": "Adobe made a mobile app for its Firefly generative AI tools - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/688080/adobe-firefly-ai-app-iphone-ios-android-availability",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Adobe-Firefly-mobile-app-hero.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "Adobe made a mobile app for its Firefly generative AI tools﻿The iPhone and Android Firefly app can sync AI image and video projects to desktops via Creative Cloud. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Adobe’s Firefly apps, now available on iPhone and Android. Image: Adobe Jess Weatherbed is...",
+      "published": "Tue, 17 Jun 2025 13:00:00 GMT"
     },
     {
       "id": "b0baff7a0d2bfed7f31997de51b1afea",
@@ -33,13 +69,49 @@
       "published": "Tue, 17 Jun 2025 20:12:56 GMT"
     },
     {
-      "id": "ee01058a244a84c8a0082b9db5cdfe65",
-      "title": "Samsung's Galaxy Watch 4 is now nearing the end of its run - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/samsung-galaxy-watch-4-the-end-is-coming/",
-      "image_url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/03/copy-of-169-1-3.png",
-      "summary": "Samsung's Galaxy Watch 4 is now nearing the end of its run For many, the Galaxy Watch 4 was the perfect smartwatch, offering a sleek profile, plenty of power, and a design that's timeless. With that said, this is a still tech product that we're talking about, which means that after some time, people were already thinking about what's next,...",
-      "published": "Tue, 17 Jun 2025 02:49:00 GMT"
+      "id": "e0d4d6b4d6920806be162d334352e3c1",
+      "title": "One Of Marvel’s Most Exciting Games Right Now Isn’t A Hero Shooter Or Fighting Game - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/marvel-cosmic-invasion-preview-beat-em-up-tribute-games-1851784757",
+      "image_url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6c04e29b0850472abf51e6c4d50a27b2.jpg",
+      "summary": "One Of Marvel’s Most Exciting Games Right Now Isn’t A Hero Shooter Or Fighting Game Marvel Cosmic Invasion is a reminder of a much simpler time for the superhero franchise Marvel has had some big wins and painful losses in the video game space over the past few years. Marvel Rivals took the hero shooter community by storm, and Marvel...",
+      "published": "Wed, 18 Jun 2025 16:45:06 GMT"
+    },
+    {
+      "id": "d6bdb75651f6bd64db62b10b664cbbb7",
+      "title": "Gearbox talks Borderlands 4: Exploration, fixing the meme humor, and entering the series’ ‘Simpsons Era’ - Video Games Chronicle",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/features/gearbox-talks-borderlands-4-exploration-fixing-the-meme-humor-and-entering-the-series-simpsons-era/",
+      "image_url": "https://www.videogameschronicle.com/files/2025/06/Borderlands-4-9.jpg",
+      "summary": ".cls-1{fill:url(#linear-gradient)}. cls-2{fill:#fff} GO AD-FREE! Support VGC on Patreon As a critical and commercial success, few mainstream franchises evoke as polarising a reaction as Borderlands. While most can agree that the series has always been adept at high-quality shooting and games packed with things to do, the Borderlands style of humor has become something so divisive that when Borderlands 4’s narrative...",
+      "published": "Wed, 18 Jun 2025 13:00:03 GMT"
+    },
+    {
+      "id": "d51c64a0205bdfb4c0d0b74c3653b000",
+      "title": "Amazfit releases new premium Active 2 Square smartwatch globally - Notebookcheck",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Amazfit-releases-new-premium-Active-2-Square-smartwatch-globally.1038052.0.html",
+      "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Amazfit-Active-2-Square-smartwatch.png",
+      "summary": "The best smartphones: Summer 2025 Flip phone for little money: Motorola Razr 60 tested ▶ Video: Intel vs. AMD in high-end laptops . .. it doesn't matter! - XMG Neo 16 review Dell 16 Plus 2-in-1 review: Older Inspiron can still be the better deal Zotac RTX 5070 Ti AMP Extreme benchmark check – Is it worth buying? For those...",
+      "published": "Tue, 17 Jun 2025 09:35:00 GMT"
+    },
+    {
+      "id": "5222e7f665cbaea94755029d5103f035",
+      "title": "YouTube TV giving some subscribers a $10 monthly discount – here’s how to find it - 9to5Google",
+      "source": "9to5Google",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOGstVExKblB6c05TT2hPV2ZFOG1NbXNHSGJVN0tNcDJoa1h1MlZLU2R4dVdFWDVIcG8xaHZ0dzBsTVlCVEdtSHZDejk0VUp6LU5za2x5dEVPaGhTX3ZMQzZ1X1A1VmVkYkFWdEwwSWRRelpRdWtMM3VZSlM2ampXNWhnUQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 17 Jun 2025 15:50:00 GMT"
+    },
+    {
+      "id": "06195008379daf8d40085559400654ea",
+      "title": "YouTube Music is borrowing this handy feature from Spotify and Apple Music - Android Central",
+      "source": "Android Central",
+      "url": "https://www.androidcentral.com/apps-software/youtube/youtube-music-is-borrowing-this-handy-feature-from-spotify-and-apple-music",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KmKrgnNUK4XiYTj2BbWkP6.jpg",
+      "summary": "YouTube Music is borrowing this handy feature from Spotify and Apple Music By Brady Snyder published 22 hours ago Lyric sharing is here, and it’ll help you share your favorite lines with friends. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. (Image credit: Andrew Myrick / Android Central) YouTube Music...",
+      "published": "Tue, 17 Jun 2025 21:18:10 GMT"
     },
     {
       "id": "e54d27842c4a15cd1793d130e5a5f8f0",
@@ -51,139 +123,67 @@
       "published": "Tue, 17 Jun 2025 21:12:49 GMT"
     },
     {
-      "id": "a7109da528240791c53c3fb87df143d3",
-      "title": "Nothing says Phone (3) will be a ‘true flagship’ powered by Snapdragon 8s Gen 4 - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2025/06/17/nothing-phone-3-snapdragon-8s-gen-4/",
-      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/nothing-phone-3a-pro-3_dcab1c.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "summary": "Nothing says Phone (3) will be a ‘true flagship’ powered by Snapdragon 8s Gen 4 The Nothing Phone (3) is said to be the brand’s first “true” flagship, but it’ll be missing at least one flagship spec, as the company has just announced that it will forgo the use of Snapdragon 8 Elite and instead use the Snapdragon 8s Gen...",
-      "published": "Tue, 17 Jun 2025 12:15:00 GMT"
+      "id": "0b1d22c028a8666f7919cdbd95877a17",
+      "title": "iOS 26 Improves Screenshots in Three Ways - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/06/17/ios-26-improves-screenshots-in-three-ways/",
+      "image_url": "https://images.macrumors.com/t/svhrPae00rKbhnRktRYM0rFv6FI=/1920x/article-new/2025/06/iOS-26-Screenshots.jpg",
+      "summary": "iPhone 16eiOS 26iPhone 17iPhone 17 AiriPhone 17 ProMacBook ProiPhone 16iPhone 16 ProiOS 18Apple Vision ProMac miniiMaciPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Watch Ultra 2iPadiPhone 15Apple Pro Display XDRHomePod miniMac ProMacBook AirAirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch SEMac StudioiPad Air iPad miniiPadOS 26macOS 26 TahoeApple Watch 10iPhone 18CarPlayApple Pay iOS 26 Improves Screenshots in Three Ways Tuesday June...",
+      "published": "Tue, 17 Jun 2025 21:24:05 GMT"
     },
     {
-      "id": "3c3e5828fe577e6e3f27468c8a1f44fa",
-      "title": "watchOS 26 brings a huge change to the newest Apple Watch models - Boy Genius Report",
-      "source": "Boy Genius Report",
-      "url": "https://bgr.com/tech/watchos-26-brings-a-huge-change-to-the-newest-apple-watch-models/",
-      "image_url": "https://bgr.com/wp-content/uploads/2025/06/wwdc-2025-ios-26-ipados-macos-watchos-116.jpg?quality=82&strip=all",
-      "summary": "watchOS 26 brings a huge change to the newest Apple Watch models Published Jun 16th, 2025 1:10PM EDT If you buy through a BGR link, we may earn an affiliate commission, helping support our expert product labs. At first, watchOS 26 looks like a small upgrade. Unlike iOS, iPadOS, and macOS, which feature a complete revamp of their UI, the...",
-      "published": "Mon, 16 Jun 2025 17:10:00 GMT"
+      "id": "07e623432fbb5ae10663c075513aae21",
+      "title": "Nintendo Switch 2 Consoles Worth $1.4 million Stolen in Brazen GameStop Truck Heist - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-consoles-worth-14-million-stolen-in-brazen-gamestop-truck-heist",
+      "image_url": "https://assets-prd.ignimgs.com/2025/06/18/493123829-1144965191004802-8511426806124975381-n-1750239188585.jpg?width=1280",
+      "summary": "Nintendo Switch 2 Consoles Worth $1. 4 million Stolen in Brazen GameStop Truck Heist Nearly 3,000 Switch 2 consoles have been reported stolen from a truck transporting stock between Nintendo of America's headquarters and a Texas GameStop store. Police investigating the Nintendo Switch 2 theft, discovered while the driver was mid-route in Colorado, said the value of the lost consoles...",
+      "published": "Wed, 18 Jun 2025 09:54:38 GMT"
     },
     {
-      "id": "4c607e8a3f0468d65ce92330f61ae552",
-      "title": "Vivo X Fold5: New foldable unboxed with Apple Stage Manager-like multitasking ahead of schedule while falling short of Oppo Find N5 in early benchmark - Notebookcheck",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Vivo-X-Fold5-New-foldable-unboxed-with-Apple-Stage-Manager-like-multitasking-ahead-of-schedule-while-falling-short-of-Oppo-Find-N5-in-early-benchmark.1037290.0.html",
-      "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Vivo-X-Fold5-geekbench-and-more-kv.jpg",
-      "summary": "The best smartphones: Summer 2025 Flip phone for little money: Motorola Razr 60 tested Setting clear priorities: Motorola Edge 60 review The international eSIM from Yesim impresses in our travel test Robust and with a removable battery – Samsung Galaxy XCover7 Pro review Camera phones: The top 10 options Best camera allrounder? Oppo Find X8 Ultra review The best flip...",
-      "published": "Mon, 16 Jun 2025 19:19:00 GMT"
+      "id": "23d2b36f3f3ac3cdca6c1f285a26bc8c",
+      "title": "Nintendo is banning online services on Switch 2 systems that use the Mig cartridge - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/688483/nintendo-switch-2-ban-error-code-mig-flash-cartridge-online",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175_f1b8d7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "Nintendo will take your Switch 2 offline forever if you use a Mig flash cartridgeWhether you’re pirating games, or playing copies of games you own, Nintendo thinks you’re guilty. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Photo: Amelia Holowaty Krales / The Verge Cameron Faulkner is an editor covering...",
+      "published": "Tue, 17 Jun 2025 21:06:34 GMT"
     },
     {
-      "id": "0465abde5df02ef2bbd9f771c06c1e82",
-      "title": "Microsoft says it's working on next-gen Xbox \"consoles\" you'll play \"in your living room and in your hands\" - Eurogamer",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/microsoft-says-its-working-on-next-gen-xbox-consoles-youll-play-in-your-living-room-and-in-your-hands",
-      "image_url": "https://assetsio.gnwcdn.com/xbox-logo-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "summary": "All Mario Kart World Unlockables Flashpoint Worlds Collide codes If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Microsoft says it's working on next-gen Xbox \"consoles\" you'll play \"in your living room and in your hands\" News by Matt Wales News Reporter If recent reports are true, we likely...",
-      "published": "Tue, 17 Jun 2025 18:33:53 GMT"
+      "id": "ae145f5c97074fad16c01acb6ef8516c",
+      "title": "Apple Slashes 2024 M4 Mac Mini Price Below Black Friday, Feels Like a Surprise Clearout Sale on Amazon - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/apple-slashes-2024-m4-mac-mini-price-below-black-friday-feels-like-a-surprise-clearout-sale-on-amazon-2000616685",
+      "image_url": "https://gizmodo.com/app/uploads/2025/06/Mac-Mini-2024-1200x675.jpg",
+      "summary": "We may earn a commission when you buy through links on the site. Apple Slashes 2024 M4 Mac Mini Price Below Black Friday, Feels Like a Surprise Clearout Sale on Amazon Apple's famous little desktop computer now comes with a huge upgrade, including iPhone mirroring and Apple Intelligence. The Mac Mini blew away the computing world when it debuted in...",
+      "published": "Tue, 17 Jun 2025 12:10:18 GMT"
     },
     {
-      "id": "c4a20a2883606bfe6fb2218de8d00cfc",
-      "title": "Nearly 3,000 Nintendo Switch consoles stolen from semi-truck - 9News",
-      "source": "9News",
-      "url": "https://www.9news.com/article/news/crime/nintendo-switch-theft-truck-colorado/73-27ca5808-6901-4229-b1b4-4862c73b300b",
-      "image_url": "https://media.9news.com/assets/KUSA/images/bc745bd4-05f6-4663-ad66-1ffad46cdcf7/20250617T200950/bc745bd4-05f6-4663-ad66-1ffad46cdcf7_1140x641.jpg",
-      "summary": "Nearly 3,000 Nintendo Switch consoles stolen from semi-truck A semi-truck driver discovered the theft during a pre-trip inspection at a Bennett truck stop. Author: Janet Oravetz (9News), Rachael Krause Published: 2:26 PM MDT June 17, 2025 Updated: 10:26 PM MDT June 17, 2025 BENNETT, Colo. — A high-dollar heist was discovered earlier this month involving the theft of thousands of...",
-      "published": "Tue, 17 Jun 2025 20:26:00 GMT"
+      "id": "244043c775bbb3ebf16beb70a671c938",
+      "title": "How to buy the Nintendo Switch 2: Latest stock updates at Walmart, Best Buy, Target and more - Engadget",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/gaming/nintendo/how-to-buy-the-nintendo-switch-2-latest-stock-updates-at-walmart-best-buy-target-and-more-120039759.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/I6HioEJkg1my8wJI5oAQAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-04/c0bf45a0-0fc5-11f0-beae-5d37e465b63e",
+      "summary": "PS3 emulator hits the Android Play Store Prime Day 2025: What you need to know How to buy the Nintendo Switch 2 Engadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission. Read more about how we evaluate products. How to buy...",
+      "published": "Wed, 18 Jun 2025 14:53:45 GMT"
     },
     {
-      "id": "2f633cebe6b418b0607390a19732672d",
-      "title": "Galaxy Watch 6 series is getting Samsung’s latest update - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2025/06/17/galaxy-watch-6-series-is-getting-samsungs-latest-update/",
-      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/03/Samsung-Galaxy-Watch-6-Classic-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "summary": "Galaxy Watch 6 series is getting Samsung’s latest update The Galaxy Watch 6 and Watch 6 Classic are getting an update that has already begun rolling out for other devices. A new update under the build numbers R940XXS1BYE9 and R960XXS1BYE9 is beginning to roll out for the Galaxy Watch 6 and Watch 6 Classic, respectively. The update comes as a...",
-      "published": "Tue, 17 Jun 2025 17:38:00 GMT"
+      "id": "ee01058a244a84c8a0082b9db5cdfe65",
+      "title": "Samsung's Galaxy Watch 4 is now nearing the end of its run - Android Police",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/samsung-galaxy-watch-4-the-end-is-coming/",
+      "image_url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/03/copy-of-169-1-3.png",
+      "summary": "Samsung's Galaxy Watch 4 is now nearing the end of its run For many, the Galaxy Watch 4 was the perfect smartwatch, offering a sleek profile, plenty of power, and a design that's timeless. With that said, this is a still tech product that we're talking about, which means that after some time, people were already thinking about what's next,...",
+      "published": "Tue, 17 Jun 2025 02:49:00 GMT"
     },
     {
-      "id": "c1af2fe8e3dcc48f86c7a45d5f826f7d",
-      "title": "Adobe brings AI-image generation app to phones, adds partners - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/adobe-brings-ai-image-generation-app-phones-adds-partners-2025-06-17/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Tue, 17 Jun 2025 17:51:06 GMT"
-    },
-    {
-      "id": "1a4f392661a275993db96fb1a3ead7ff",
-      "title": "I’ve played Nintendo Switch 2 for over a week — and I’m already bored - Tom's Guide",
-      "source": "Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHRJT0RiY284ZlV1X3lLX2twQ0lzVWR5ajVLUE9DR3pPLXFmWGpZYXZoUThiTlIwVkZnVWhLU0V6ek1qVHBENWlONVlYMnBxejJzeHFsQ001aml6aW1mT1F0QlVLZ2YyRGRYREJ4NEFDZXVKZ21FQ2JMdEx6OWZ6dWVvN1lmM1FDUHZGSmNzSUlLMGVGSW1BdUpQS0F0U20yZ3l4YW1wU0N5ZVJtOVV4R0trcV8?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 17 Jun 2025 05:15:00 GMT"
-    },
-    {
-      "id": "beea554a69c3266477b7c80cf064146e",
-      "title": "Apple Watch Series 10 now available at discount via Apple’s refurbished store - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2w1bDhQclc3aG5CQUlROWtfaU1sMTBPZUtTWmN0elRYUGw0VGMwY0VlUXpOc2gtUVQwTTVMZDg3NFFrNUJHdzBGczdHTmc4SGRZS0ZYdEt2Ynd5NGI1UTQwNXVNVmR4ZkhqN1BocHZQQUpUMDdfZ0doRTBwU29RTFBmLWZXaGFnUm9OMXNyVFkwbHZPLUtCZ0ZRZTBlN1ZnNlBjM3E0elQwRzJy?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 17 Jun 2025 20:39:00 GMT"
-    },
-    {
-      "id": "6c2d9a18c170565e1f4b3ed6cbac0605",
-      "title": "Bungie's Marathon reboot delayed indefinitely in response to \"passionate\" fan feedback - Eurogamer",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/bungies-marathon-reboot-delayed-indefinitely-in-response-to-passionate-fan-feedback",
-      "image_url": "https://assetsio.gnwcdn.com/marathon-bungie-art-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "summary": "All Mario Kart World Unlockables Flashpoint Worlds Collide codes If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Bungie's Marathon reboot delayed indefinitely in response to \"passionate\" fan feedback More will be shared this autumn. News by Matt Wales News Reporter Bungie has announced an indefinite delay for its...",
-      "published": "Tue, 17 Jun 2025 20:11:09 GMT"
-    },
-    {
-      "id": "21cccad99d7ee7ce09954af637fe8f76",
-      "title": "Mysteries of Skull Rock Update Patch Notes - Disney Dreamlight Valley",
-      "source": "Disney Dreamlight Valley",
-      "url": "https://disneydreamlightvalley.com/news/update-jun-18-2025",
-      "image_url": "https://ddv.assets.gameloft.com/assets/DDV_July19_PN_OFF_01_FB_thumbnail_EN_v2_ba5a6a1e45.png",
-      "summary": "Mysteries of Skull Rock Update Patch Notes We hope you enjoyed uncovering what the rest of 2025 holds, along with a preview of the Mysteries of Skull Rock free update in our latest Developer Update video! From an exciting new roadmap to the arrival of Disney Dreamlight Valley: The Storybook Vale Expansion Pass Part 2 on July 9th, there’s so...",
-      "published": "Tue, 17 Jun 2025 15:01:34 GMT"
-    },
-    {
-      "id": "f764893aa1f41b7e9b994e9835afe636",
-      "title": "10 Cards From MTG — FINAL FANTASY To Watch For At The Pro Tour - Star City Games",
-      "source": "Star City Games",
-      "url": "https://articles.starcitygames.com/magic-the-gathering/10-cards-from-mtg-final-fantasy-to-watch-for-at-the-pro-tour/",
-      "image_url": "https://scg-static.starcitygames.com/articles/2025/06/4c28095f-sc-ff-cards-at-pt.png",
-      "summary": "10 Cards From MTG — FINAL FANTASY To Watch For At The Pro Tour New cards to keep an eye on this weekend at Pro Tour Magic: The Gathering – FINAL FANTASY Vivi Ornitier illustrated by Toni Infante MagicCon: Las Vegas is only a couple days away and with it comes the second Pro Tour of the year, Pro Tour...",
-      "published": "Tue, 17 Jun 2025 15:09:35 GMT"
-    },
-    {
-      "id": "c6921d5cb1a6c1b1d3032a936095ae5a",
-      "title": "Overwatch 2 season 17’s battle pass and new Mythic skins - Polygon",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/overwatch/607459/overwatch-2-season-17-battle-pass-skins-new-mythics",
-      "image_url": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/OVR_PK_S17_Mythic_DVa_HorangLvl4_001.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "summary": "Overwatch 2 season 17’s battle pass and new Mythic skins Summer school’s in session this season Michael McWhertor is a journalist with more than 17 years of experience covering video games, technology, movies, TV, and entertainment. Season 17 of Overwatch 2 will include a fresh batch of skins and other cosmetics to acquire through the game’s premium battle pass, including...",
-      "published": "Tue, 17 Jun 2025 16:21:19 GMT"
-    },
-    {
-      "id": "f7443e42391d357de124a33aee0195b8",
-      "title": "Minecraft's Nintendo Players Request \"Switch 2 Edition\" After Graphics Update Skips Switch - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2025/06/minecrafts-nintendo-players-request-switch-2-edition-after-graphics-update-skips-switch",
-      "image_url": "https://images.nintendolife.com/f96b63a16749c/large.jpg",
-      "summary": "Nintendo Switch 2 News Reviews Features Games Guides Videos Forums Better eShop NewsNintendo Switch 2Nintendo SwitchMinecraftUpdates Minecraft's Nintendo Players Request \"Switch 2 Edition\" After Graphics Update Skips Switch Subscribe to Nintendo Life on YouTube823K As you might recall, earlier this year Mojang lifted the lid on a new visual graphics upgrade for Minecraft known as 'Vibrant Visuals'. It's now officially...",
-      "published": "Wed, 18 Jun 2025 06:30:00 GMT"
-    },
-    {
-      "id": "1a8683a5006963e51f0b0398f243bd58",
-      "title": "GTA+ Members Get Early Access to Claim the New Överflöd Suzume Supercar - Rockstar Games",
-      "source": "Rockstar Games",
-      "url": "https://www.rockstargames.com/newswire/article/9k37kka114k119/gta-members-get-early-access-to-claim-the-new-overflod-suzume-supercar",
-      "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/9k37kka114k119/34ff44f6050015eb1e12fbde6ba50437dac5209f.jpg",
-      "summary": "GTA+ Members Get Early Access to Claim the New Överflöd Suzume Supercar Plus, Money Laundering Bonuses, an Extra Spin on the Lucky Wheel Every Day, and More With the launch of GTA Online: Money Fronts, GTA+ Members get early access to the sizzling new Överflöd Suzume supercar, wrapped in an exclusive livery and yours to claim for free through July...",
-      "published": "Tue, 17 Jun 2025 14:55:18 GMT"
+      "id": "00cd649663dc08ea6a57313b71638438",
+      "title": "Venturi Space announces European lunar rover design - SpaceNews",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/venturi-space-announces-european-lunar-rover-design/",
+      "image_url": "https://spacenews.com/wp-content/uploads/2025/06/monaluna-pas25.jpeg",
+      "summary": "Covering the business and politics of space Venturi Space announces European lunar rover design Antonio Delfino (left), director of space affairs at Venturi Space, shows off a model of the company's Mona Luna rover at the Paris Air Show June 16. PARIS — Venturi Space, a company that has partnered with Astrolab on lunar rover concepts, unveiled an all-European rover...",
+      "published": "Wed, 18 Jun 2025 09:00:19 GMT"
     }
   ]
 }
