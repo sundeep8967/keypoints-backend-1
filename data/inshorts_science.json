@@ -1,27 +1,45 @@
 {
   "metadata": {
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-19 13:14:16",
+    "generation_time": "2025-06-19 18:55:38",
     "total_articles": 20
   },
   "articles": [
     {
+      "id": "168d1461643f781df473abc34adbad8e",
+      "title": "At Chile’s Vera Rubin Observatory, Earth’s Largest Camera Surveys the Sky - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/interactive/2025/06/19/science/rubin-observatory-camera.html",
+      "image_url": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-19-rubin-observatory-index/2025-06-19-rubin-observatory-index-facebookJumbo.jpg",
+      "summary": "Earth’s Largest Camera Takes 3 Billion-Pixel Images of the Night Sky By Jonathan Corum and Kenneth Chang Photographs by Marcos Zegers June 19, 2025 At the heart of the new Vera C. Rubin Observatory in Chile is the world’s largest digital camera. About the size of a small car, it will create an unparalleled map of the night sky. The...",
+      "published": "Thu, 19 Jun 2025 14:53:48 GMT"
+    },
+    {
+      "id": "761cf9fa4e6ccec468d78c64ba9016c8",
+      "title": "1930s 'Dragon Man' Finally Gives Elusive Ancient Human Species a Face - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/1930s-dragon-man-finally-gives-elusive-ancient-human-species-a-face",
+      "image_url": "https://www.sciencealert.com/images/2025/06/dragon-man-skull-on-black-background.jpg",
+      "summary": "1930s 'Dragon Man' Finally Gives Elusive Ancient Human Species a Face The 'dragon man' skull. (Ni et al., The Innovation, 2021) A 146,000-year-old skull known as the 'dragon man', thought to be the sole representative of an ancient human species, actually belongs to a larger group of our extinct relatives, the Denisovans, two new papers claim. It's the first skull...",
+      "published": "Thu, 19 Jun 2025 13:01:21 GMT"
+    },
+    {
       "id": "bd0836b14c079878976f6e27cbe86fec",
       "title": "'The models were right!' Astronomers locate universe's 'missing' matter in the largest cosmic structures - Space",
       "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR3dkM1IxMzQtb25zVlJEWTVIZ0FMaERaa1B0T2J5S2lVQWQ0NFJvZ3hMa3VrNXdBRWRvOXJ0WnNfbWJIZUcwZzFkUzhtVXNLb3JJSHBDNTRlS09KS2FaRzdOWWtHMUpHVHlTOFZkQWRVeDd6NG1NbWJfZGxPLUZ3MkRVbDRvSlk5dkpsamh1eTk5dUhWZWl1WmFfdVBhZTNBRWZIX0pndjhRV2wyVVdsTTdKd2tZUUNtOFBBcUpCSnNwdFViODZF?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.space.com/astronomy/astronomers-turn-up-missing-matter-in-the-largest-structures-in-the-cosmos-the-models-were-right",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/d4zUK2Z7CoSeXJugPM9ydD.png",
+      "summary": "'The models were right! ' Astronomers locate universe's 'missing' matter in the largest cosmic structures By Robert Lea published 9 hours ago \"The 'missing' matter may truly be lurking in hard-to-see threads woven across the universe. \" When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. An illustration of the cosmic...",
       "published": "Thu, 19 Jun 2025 10:00:00 GMT"
     },
     {
-      "id": "5fcc472b4a4500bf68a771f073226931",
-      "title": "‘Dragon Man’ DNA revelation puts a face to a mysterious group of ancient humans - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/18/science/dragon-man-skull-denisovan-dna-evidence",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/harbin.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "‘Dragon Man’ DNA revelation puts a face to a mysterious group of ancient humans Updated 3:57 PM EDT, Wed June 18, 2025 The nearly complete cranium recovered from a well in Harbin, China, dates to at least 146,000 years ago. Hebei GEO University Sign up for CNN’s Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific...",
-      "published": "Wed, 18 Jun 2025 19:57:00 GMT"
+      "id": "5259fd0eae00feed04985594af27dc64",
+      "title": "When Earth iced over, early life may have sheltered in meltwater ponds - Phys.org",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2025-06-earth-iced-early-life-meltwater.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.42.12.199 : 16ad2aa3-0877-4f20-809d-3e47809b",
+      "published": "Thu, 19 Jun 2025 09:00:07 GMT"
     },
     {
       "id": "2fa7cbb8523597e390810e484a39fc3a",
@@ -33,40 +51,13 @@
       "published": "Wed, 18 Jun 2025 17:33:12 GMT"
     },
     {
-      "id": "0491dee6238264f94fe7da5eadd5123e",
-      "title": "Vera C. Rubin debut images: How to see the groundbreaking space photos from the world's largest camera - Live Science",
-      "source": "Live Science",
-      "url": "https://www.livescience.com/space/astronomy/vera-c-rubin-debut-images-how-to-see-the-groundbreaking-space-photos-from-the-worlds-largest-camera",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/UBAhkRwhoY7XJymDWSTtjR.png",
-      "summary": "World's first 'robot boxing tournament' Vera C. Rubin debut images: How to see the groundbreaking space photos from the world's largest camera By Perri Thaler published 18 hours ago The Vera C. Rubin Observatory will share its first highly-detailed images of the sky on Monday. Find details about how to see them here. When you purchase through links on our...",
-      "published": "Wed, 18 Jun 2025 19:04:41 GMT"
-    },
-    {
-      "id": "710cd417dba721a0bb3769994f405eb7",
-      "title": "The U.S. Is Once Again Set to Take the Lead in Global Innovation After Breaking the Record for the Most Powerful Electron Beam - The Daily Galaxy",
-      "source": "The Daily Galaxy",
-      "url": "https://dailygalaxy.com/2025/06/the-u-s-is-once-again-set-to-take-the-lead-in-global-innovation-after-breaking-the-record-for-the-most-powerful-electron-beam/",
-      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Electron-Beam-Processing.jpg",
-      "summary": "The U.S. Is Once Again Set to Take the Lead in Global Innovation After Breaking the Record for the Most Powerful Electron Beam SLAC scientists have just shattered records with an electron beam five times more powerful than ever before. This breakthrough opens new doors in physics, chemistry, and beyond. Electron Beam Processing. Credit: TWI Global | The Daily Galaxy...",
-      "published": "Thu, 19 Jun 2025 11:52:00 GMT"
-    },
-    {
-      "id": "1ba2973976c0b43468510c330156674f",
-      "title": "Colossal solar flare erupts from Earth-facing sunspot, sparking strong radio blackouts over Pacific Ocean (video) - Space",
+      "id": "712cea4cc4951f9a64b57845355bfa2b",
+      "title": "2 Chinese spacecraft just met up 22,000 miles above Earth. What were they doing? - Space",
       "source": "Space",
-      "url": "https://www.space.com/astronomy/sun/colossal-solar-flare-erupts-from-earth-facing-sunspot-sparking-strong-radio-blackouts-over-pacific-ocean-video",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/AdqrhobAj7CGFbLQctptxj.jpg",
-      "summary": "Colossal solar flare erupts from Earth-facing sunspot, sparking strong radio blackouts over Pacific Ocean (video) By Daisy Dobrijevic published yesterday The prolific flare factory doesn't look like stopping anytime soon. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Click here for more Space. com videos. .. Sun blasts powerful X-flare,...",
-      "published": "Wed, 18 Jun 2025 12:16:57 GMT"
-    },
-    {
-      "id": "fd4b77066f02391e38a0ab49b65c0673",
-      "title": "Nearby Sculptor galaxy revealed in ultra-detailed galactic image - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/science/nearby-sculptor-galaxy-revealed-ultra-detailed-galactic-image-2025-06-18/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Wed, 18 Jun 2025 15:25:28 GMT"
+      "url": "https://www.space.com/space-exploration/satellites/2-chinese-spacecraft-just-met-up-22-000-miles-above-earth-what-were-they-doing",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8r9KBfsHgxXjcgQAouDtRb.jpg",
+      "summary": "2 Chinese spacecraft just met up 22,000 miles above Earth. What were they doing? By Andrew Jones published 23 hours ago A space situational awareness company spied satellite close approaches in geosynchronous orbit. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. A Chinese Long March 3B rocket launches the military...",
+      "published": "Wed, 18 Jun 2025 20:00:00 GMT"
     },
     {
       "id": "5a54dfc7e722668f2a2a5feadd6f67d9",
@@ -78,22 +69,22 @@
       "published": "Wed, 18 Jun 2025 20:36:23 GMT"
     },
     {
-      "id": "8541e5aa3c74c3c7d9a413f633749a2b",
-      "title": "Surprising discovery shows a strong link between Earth's magnetic field and atmospheric oxygen levels - Phys.org",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2025-06-discovery-strong-link-earth-magnetic.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 172.183.111. 64 : feff1ebf-ab7b-4b70-975a-3c3dd07a",
-      "published": "Wed, 18 Jun 2025 14:14:17 GMT"
+      "id": "4bf517cb99b544e4f3f57d0ed0236f62",
+      "title": "Scientists Stunned by Massive Structure Beneath the Moon’s Surface - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/massive-structure-beneath-moon-surface/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Scientists-Stunned-by-Massive-Structure-Beneath-the-Moons-Surface.jpg",
+      "summary": "Scientists Stunned by Massive Structure Beneath the Moon’s Surface A massive, mysterious structure has been found beneath the Moon’s surface. What could it reveal about our celestial neighbor? Credit: Canva | The Daily Galaxy --Great Discoveries Channel The Moon has long captivated humanity, inspiring awe with its shifting appearance and mysterious, hidden side. Even though it’s the only celestial body...",
+      "published": "Thu, 19 Jun 2025 17:30:00 GMT"
     },
     {
-      "id": "f4554efb74def8b00642b55148b0d84d",
-      "title": "50 years later, a quantum mystery has finally been solved. - Stewartville Star",
-      "source": "Stewartville Star",
-      "url": "https://thinkstewartville.com/2025/06/18/50-years-later-a-quantum-mystery-has-finally-been-solved/",
-      "image_url": "https://thinkstewartville.com/wp-content/uploads/2025/06/thinkstewartville.com-auto-draft-6480846130354-2025-06-17t092501.730.jpg",
-      "summary": "50 years later, a quantum mystery has finally been solved. Published on 06/18/2025 at 10:31 pm· © Stewartville Star - 50 years later, a quantum mystery has finally been solved. The quantum physics community is buzzing with excitement after researchers at Rice University finally observed a phenomenon that had eluded scientists for over 70 years. This breakthrough, recently published in...",
-      "published": "Thu, 19 Jun 2025 02:31:00 GMT"
+      "id": "fd4b77066f02391e38a0ab49b65c0673",
+      "title": "Nearby Sculptor galaxy revealed in ultra-detailed galactic image - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/science/nearby-sculptor-galaxy-revealed-ultra-detailed-galactic-image-2025-06-18/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 18 Jun 2025 15:25:28 GMT"
     },
     {
       "id": "b4d45b244670fdfade04d013ef38b1c8",
@@ -105,40 +96,40 @@
       "published": "Wed, 18 Jun 2025 10:00:00 GMT"
     },
     {
-      "id": "947fb2cc992bddecbf931277c41ecd91",
-      "title": "The Earth could be soon flung out of orbit or into the sun all thanks to a passing star - The Independent",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/space/earth-sun-orbit-passing-star-b2772878.html",
-      "image_url": "https://static.independent.co.uk/2025/06/18/20/12/54371346378-f762763e96-o.jpeg?trim=0,158,0,157&width=1200&height=800&crop=1200:800",
-      "summary": "The Independent's journalism is supported by our readers. When you purchase through links on our site, we may earn commission. The Earth could be soon flung out of orbit or into the sun - all thanks to a passing star Either way, the sun is likely slated to consume Earth in billions of years Thursday 19 June 2025 09:59 BST...",
-      "published": "Wed, 18 Jun 2025 21:34:00 GMT"
+      "id": "d66cca112312426cde38450218014f8d",
+      "title": "NASA Scientists Find Ties Between Earth’s Oxygen and Magnetic Field - NASA Science (.gov)",
+      "source": "NASA Science (.gov)",
+      "url": "https://science.nasa.gov/earth/earth-oxygen-magnetic-field-linked/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/svs/a020000/a020300/a020310/SolarWind_v03.00050_print.jpg",
+      "summary": "NASA Scientists Find Ties Between Earth’s Oxygen and Magnetic Field The solar wind flows around Earth's magnetic field. A new NASA study suggests that the amount of oxygen in the atmosphere and strength of the magnetic field have been correlated for more than half a billion years. NASA's Goddard Space Flight Center/Conceptual Image Laboratory For 540 million years, the ebb...",
+      "published": "Wed, 18 Jun 2025 17:17:55 GMT"
     },
     {
-      "id": "d500b9079e8f66d34ea327fb6b4fcd29",
-      "title": "NASA Engineers Simulate Lunar Lighting for Artemis III Moon Landing - NASA (.gov)",
-      "source": "NASA (.gov)",
-      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-engineers-simulate-lunar-lighting-for-artemis-iii-moon-landing/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/06/ceb-1407.jpg",
-      "summary": "NASA Engineers Simulate Lunar Lighting for Artemis III Moon Landing Better understanding the lunar lighting environment will help NASA prepare astronauts for the harsh environment Artemis III Moonwalkers will experience on their mission. NASA’s Artemis III mission will build on earlier test flights and add new capabilities with the human landing system and advanced spacesuits to send the first astronauts...",
-      "published": "Tue, 17 Jun 2025 18:05:37 GMT"
+      "id": "1ba2973976c0b43468510c330156674f",
+      "title": "Colossal solar flare erupts from Earth-facing sunspot, sparking strong radio blackouts over Pacific Ocean (video) - Space",
+      "source": "Space",
+      "url": "https://www.space.com/astronomy/sun/colossal-solar-flare-erupts-from-earth-facing-sunspot-sparking-strong-radio-blackouts-over-pacific-ocean-video",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/AdqrhobAj7CGFbLQctptxj.jpg",
+      "summary": "Colossal solar flare erupts from Earth-facing sunspot, sparking strong radio blackouts over Pacific Ocean (video) By Daisy Dobrijevic published yesterday The prolific flare factory doesn't look like stopping anytime soon. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Click here for more Space. com videos. .. Sun blasts powerful X-flare,...",
+      "published": "Wed, 18 Jun 2025 12:16:57 GMT"
     },
     {
-      "id": "81acf2182938486f9339f4005f8acba3",
-      "title": "Trump's plan to kill dozens of NASA missions threatens US space supremacy - Phys.org",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2025-06-trump-dozens-nasa-missions-threatens.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 172.183.111. 64 : c688203a-66ef-4d76-9b9e-dbddcffb",
-      "published": "Wed, 18 Jun 2025 12:00:03 GMT"
+      "id": "c27cfc5d7deace3387f96319a09738ca",
+      "title": "Life on Mars: Humans will live in huge 'space oases' on the Red Planet in just 15 years, European Space Agency predicts - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVjV0MG8tSTJoYVJlOC1aRVQwVElTekRvVmlBdzVjbVdYOEg3WXExQ3R4MlYtcF9hZmkybGkyUnEzaG5NTTBudUpwNFBWNzlYU3FUQ3FTb3l1bWJHZ0lTa0M5dnQyOE9OSnZXWjFBWGJZOTdOdU0temJzOUc5Tk8tWHNOdmFXaW9HSTc2Zmo2djJranBkWlctUFlhalJXWjhCU2Vn0gGoAUFVX3lxTE9iby11UV9DNXF4YWw4SGV6R3Q5TWZDRDQtdzhkSGlaVTJ0OFZvWURfWk5VaHJtVHMySkZmdTllWEY1WnBWQ0NqMGREZURUU0Y3N2xwRjU1dUk0dXRtdEZYcGdiRjdCNi1PWnJjY1dBV1NtbkdBeGVKTkpKb3dFSW1rRmpNVnRWLTJVZ1JyTmpZWndfcHBxTk0yeFo2ZWNPQVZhMTdLT05LNQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 19 Jun 2025 09:28:10 GMT"
     },
     {
-      "id": "987a9ccbccd74bb5e85cd91927eaec68",
-      "title": "SpaceX just launched 26 satellites from California and landed a rocket on a boat like it’s no big deal - supercarblondie.com",
-      "source": "supercarblondie.com",
-      "url": "https://supercarblondie.com/spacex-launched-26-satellites-from-california-landed-rocket-on-boat/",
-      "image_url": "https://supercarblondie.com/wp-content/uploads/Featured-Image-2025-06-17T124625259.png",
-      "summary": "SpaceX just launched 26 satellites from California and landed a rocket on a boat like it’s no big deal Published on Jun 18, 2025 at 6:19 PM (UTC+4) Last updated on Jun 17, 2025 at 4:20 PM (UTC+4) SpaceX just launched 26 satellites from California and, in turn, landed a rocket on a boat like it was no big deal.",
-      "published": "Wed, 18 Jun 2025 14:19:00 GMT"
+      "id": "f4554efb74def8b00642b55148b0d84d",
+      "title": "50 years later, a quantum mystery has finally been solved. - Stewartville Star",
+      "source": "Stewartville Star",
+      "url": "https://thinkstewartville.com/2025/06/18/50-years-later-a-quantum-mystery-has-finally-been-solved/",
+      "image_url": "https://thinkstewartville.com/wp-content/uploads/2025/06/thinkstewartville.com-auto-draft-6480846130354-2025-06-17t092501.730.jpg",
+      "summary": "50 years later, a quantum mystery has finally been solved. Published on 06/18/2025 at 10:31 pm· © Stewartville Star - 50 years later, a quantum mystery has finally been solved. The quantum physics community is buzzing with excitement after researchers at Rice University finally observed a phenomenon that had eluded scientists for over 70 years. This breakthrough, recently published in...",
+      "published": "Thu, 19 Jun 2025 02:31:00 GMT"
     },
     {
       "id": "00cd649663dc08ea6a57313b71638438",
@@ -150,40 +141,49 @@
       "published": "Wed, 18 Jun 2025 09:00:19 GMT"
     },
     {
-      "id": "ce6e3b22e18f0d1ec732856903cf8542",
-      "title": "China's next-gen astronaut capsule for moon missions aces crucial pad-abort test (video) - Space",
-      "source": "Space",
-      "url": "https://www.space.com/astronomy/moon/chinas-next-gen-astronaut-capsule-for-moon-missions-aces-crucial-pad-abort-test-video",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/n6CPLcEjBuvWZT3cP75VVE.jpg",
-      "summary": "Astronomy Solar System The moon China's next-gen astronaut capsule for moon missions aces crucial pad-abort test (video) By Josh Dinner published 2 days ago The country is hoping the next boots on the lunar surface will be those of a taikonaut, not an astronaut. When you purchase through links on our site, we may earn an affiliate commission. Here’s how...",
-      "published": "Tue, 17 Jun 2025 18:00:00 GMT"
+      "id": "a5ced5bcee62d94a3ac344f4081c4a77",
+      "title": "NASA Spacecraft ‘Touches Sun’ For Final Time In Defining Moment For Humankind - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/jamiecartereurope/2025/06/19/nasa-spacecraft-touches-sun-for-final-time-in-defining-moment-for-humankind/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/684036b519a3b949b5d1b73b/0x0.jpg?format=jpg&crop=670,377,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "summary": "NASA Spacecraft ‘Touches Sun’ For Final Time In Defining Moment For Humankind ByJamie Carter, Senior Contributor. An award-winning reporter writing about stargazing and the night sky. The heavily armored Parker Solar Probe has traveled to within just 3. 86 million miles (6. 1 million kilometers) of the sun’s surface — what NASA calls “hyper close. ” It’s the third and...",
+      "published": "Thu, 19 Jun 2025 07:25:00 GMT"
     },
     {
-      "id": "cd302dd899d0a1627f3aab00482cec22",
-      "title": "ESA Satellites Create First Artificial Total Solar Eclipse in Space - PetaPixel",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2025/06/17/esa-satellites-create-first-artificial-total-solar-eclipse-in-space/",
-      "image_url": "https://petapixel.com/assets/uploads/2025/06/proba-3-solar-corona-featured.jpg",
-      "summary": "ESA Satellites Create First Artificial Total Solar Eclipse in Space This image taken by the ASPIICS coronograph aboard the European Space Agency’s Proba-3 spacecraft captured the solar corona in a visible light spectrum, similarly to how the human eye would see it during a total solar eclipse on Earth. | Credit: ESA/Proba-3/ASPIICS/WOW algorithm The European Space Agency’s (ESA) historic Proba-3...",
-      "published": "Tue, 17 Jun 2025 19:49:13 GMT"
+      "id": "c2a442f0077debc1194b52bb1b3df75f",
+      "title": "‘Your bones rattle’: The thrill of chasing rocket launches in this California coastal town - Los Angeles Times",
+      "source": "Los Angeles Times",
+      "url": "https://www.latimes.com/travel/story/2025-06-19/rocket-launches-vandenberg-space-force-base-lompoc-travel",
+      "image_url": "https://ca-times.brightspotcdn.com/dims4/default/7d935e4/2147483647/strip/true/crop/1620x851+0+115/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0d%2F0a%2F42dc570347b0a925dd9b7daf9ca5%2Fwk-the-people-who-travel-to-lompoc-to-watch-rocket-launches-01.JPG",
+      "summary": "Federal agents staging near Dodger Stadium denied entry to parking lot, sources say ‘Your bones rattle’: The thrill of chasing rocket launches in this California coastal town A crowd stands at Surf Beach, just outside Lompoc, waiting for a rocket to launch from Vandenberg Space Force Base. (Keith Plocek / For The Times) The first time Gene Kozicki drove to...",
+      "published": "Thu, 19 Jun 2025 10:00:00 GMT"
     },
     {
-      "id": "c27cfc5d7deace3387f96319a09738ca",
-      "title": "Life on Mars: Humans will live in huge 'space oases' on the Red Planet in just 15 years, European Space Agency predicts - Daily Mail",
-      "source": "Daily Mail",
-      "url": "https://www.dailymail.co.uk/sciencetech/article-14827603/mars-humans-space-oases-european-agency.html",
-      "image_url": "https://i.dailymail.co.uk/1s/2025/06/19/09/99523865-0-image-m-6_1750322769170.jpg",
-      "summary": "Thursday, Jun 19th 2025 6AM 65°F Life on Mars: Humans will live in huge 'space oases' on the Red Planet in just 15 years, European Space Agency predicts READ MORE: Odd 'mushroom' is spotted on the Red Planet by NASA rover By JONATHAN CHADWICK FOR MAILONLINE PUBLISHED: 05:28 EDT, 19 June 2025 | UPDATED: 05:28 EDT, 19 June 2025 Imagine...",
-      "published": "Thu, 19 Jun 2025 09:28:10 GMT"
+      "id": "885bb21a815370739bff6194165118fe",
+      "title": "Message to NASA Goddard Employees: One Departure – Soon, Many - NASA Watch",
+      "source": "NASA Watch",
+      "url": "https://nasawatch.com/personnel-news/message-to-nasa-goddard-employees-one-departure-soon-many/",
+      "image_url": null,
+      "summary": "Verify you are human by completing the action below. nasawatch.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Thu, 19 Jun 2025 00:06:36 GMT"
     },
     {
-      "id": "03987a847cb970cab897b158c22a1e4e",
-      "title": "Previously unknown 76M-year-old, raccoon-sized monstersaur species discovered in Utah - KSL.com",
-      "source": "KSL.com",
-      "url": "https://www.ksl.com/article/51331384/previously-unknown-76m-year-old-raccoon-sized-monstersaur-species-discovered-in-utah",
-      "image_url": "https://img.ksl.com/slc/3089/308976/30897665.jpeg?filter=kslv2/responsive_story_lg",
-      "summary": "Previously unknown 76M-year-old, raccoon-sized monstersaur species discovered in Utah By Carter Williams, KSL. com | Posted - June 17, 2025 at 9:02 p. m. An artist rendering of Bolg amondol roaming the Kaiparowits Formation in Utah back when it would have been a subtropical floodplain, 76 million years ago. The previously unknown species was identified in a study published on...",
-      "published": "Wed, 18 Jun 2025 03:02:34 GMT"
+      "id": "d500b9079e8f66d34ea327fb6b4fcd29",
+      "title": "NASA Engineers Simulate Lunar Lighting for Artemis III Moon Landing - NASA (.gov)",
+      "source": "NASA (.gov)",
+      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-engineers-simulate-lunar-lighting-for-artemis-iii-moon-landing/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/06/ceb-1407.jpg",
+      "summary": "NASA Engineers Simulate Lunar Lighting for Artemis III Moon Landing Better understanding the lunar lighting environment will help NASA prepare astronauts for the harsh environment Artemis III Moonwalkers will experience on their mission. NASA’s Artemis III mission will build on earlier test flights and add new capabilities with the human landing system and advanced spacesuits to send the first astronauts...",
+      "published": "Tue, 17 Jun 2025 18:05:37 GMT"
+    },
+    {
+      "id": "947fb2cc992bddecbf931277c41ecd91",
+      "title": "The Earth could be soon flung out of orbit or into the sun all thanks to a passing star - The Independent",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/space/earth-sun-orbit-passing-star-b2772878.html",
+      "image_url": "https://static.independent.co.uk/2025/06/18/20/12/54371346378-f762763e96-o.jpeg?trim=0,158,0,157&width=1200&height=800&crop=1200:800",
+      "summary": "The Independent's journalism is supported by our readers. When you purchase through links on our site, we may earn commission. The Earth could be soon flung out of orbit or into the sun - all thanks to a passing star Either way, the sun is likely slated to consume Earth in billions of years Thursday 19 June 2025 09:59 BST...",
+      "published": "Wed, 18 Jun 2025 21:34:00 GMT"
     }
   ]
 }

@@ -1,72 +1,18 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-19 13:11:05",
+    "generation_time": "2025-06-19 18:52:26",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "37191469098327b58710eb6cc6969efa",
-      "title": "iPhone 18 Pro, iPhone 18 Pro Max Display Sizes Shared By Tipster, Flagships To Feature LTPO Panels With A Circular Punch-Hole Cutout, Signaling An End To The Pill-Shaped Design - Wccftech",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/iphone-18-pro-max-display-sizes-revealed-with-punch-hole-cutout-instead-of-pill-shape/",
-      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2025/06/iPhone-18-2.jpg",
-      "summary": "iPhone 18 Pro, iPhone 18 Pro Max Display Sizes Shared By Tipster, Flagships To Feature LTPO Panels With A Circular Punch-Hole Cutout, Signaling An End To The Pill-Shaped Design Apple is yet to introduce the iPhone 17 family, and we are already stumbling upon the specifications of the iPhone 18 Pro and iPhone 18 Pro Max. On this occasion, a...",
-      "published": "Thu, 19 Jun 2025 08:27:00 GMT"
-    },
-    {
-      "id": "a553722c1fd7aae92bc992173df350d6",
-      "title": "Facebook Now Supports Passkeys for Passwordless Login on iPhone and iPad - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2025/06/18/meta-facebook-passkey-support/",
-      "image_url": "https://images.macrumors.com/t/9CE4h8qOTWvPED6L4E8x2jiY5r8=/2250x/article-new/2021/03/Facebook-Feature.jpg",
-      "summary": "iOS 26macOS Tahoe 26iPadOS 26iPhone 17iPhone 17 AiriPhone 17 ProiPhone 16eiPhone 16iPhone 16 ProMacBook ProiOS 18Apple Vision ProiMacMac miniiPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Pro Display XDRApple Watch Ultra 2HomePod miniMac ProMacBook AiriPadiPhone 15AirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch 10Apple Watch SEMac StudioiPad Air iPad miniiPhone 18CarPlayApple Pay Facebook Now Supports Passkeys for Passwordless Login on iPhone...",
-      "published": "Wed, 18 Jun 2025 22:46:14 GMT"
-    },
-    {
-      "id": "5efdaca995ce0f880acf168075243e22",
-      "title": "Oh Banana! Donkey Kong Bananza Direct peels back the layers of DK’s transformative new adventure on Nintendo Switch 2 - News - Nintendo Official Site - Nintendo",
-      "source": "Nintendo",
-      "url": "https://www.nintendo.com/us/whatsnew/oh-banana-donkey-kong-bananza-direct-peels-back-the-layers-of-dks-transformative-new-adventure-on-nintendo-switch-2/",
-      "image_url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "summary": "Oh Banana! Donkey Kong Bananza Direct peels back the layers of DK’s transformative new adventure on Nintendo Switch 2 Donkey Kong and His New Partner Pauline Smash, Bash, Climb and Sing Their Way Through a Brand-New 3D Platforming Action Adventure Coming Exclusively to Nintendo Switch 2 on July 17 In today’s Donkey Kong Bananza Direct presentation, Donkey Kong returns to...",
-      "published": "Wed, 18 Jun 2025 14:25:22 GMT"
-    },
-    {
-      "id": "4794bb66fe95b474ad00dd7fb8c5b341",
-      "title": "Samsung’s June 2025 security update is rolling out to these Galaxy devices - 9to5Google",
+      "id": "5e15eebcda5d0b3648d64262288d26b7",
+      "title": "Nothing Phone (3) has ‘Glyph Matrix’ lights in corner, leaked design was likely wrong [Video] - 9to5Google",
       "source": "9to5Google",
-      "url": "https://9to5google.com/2025/06/18/samsung-galaxy-june-2025-security-update/",
-      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/02/Galaxy-S25-review-9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "summary": "Samsung’s June 2025 security update is rolling out to these Galaxy devices Samsung is coming off the release and full rollout of One UI 7, but there are plenty of things to fix on the backend. Samsung is rolling out the June 2025 security update to the following Galaxy devices. Samsung Galaxy June 2025 update – What’s new? Now that...",
-      "published": "Wed, 18 Jun 2025 13:38:00 GMT"
-    },
-    {
-      "id": "4a68f7c563969c9bb55ead6feb622c85",
-      "title": "OpenAI found features in AI models that correspond to different ‘personas’ - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/06/18/openai-found-features-in-ai-models-that-correspond-to-different-personas/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
-      "summary": "OpenAI found features in AI models that correspond to different ‘personas’ OpenAI researchers say they’ve discovered hidden features inside AI models that correspond to misaligned “personas,” according to new research published by the company on Wednesday. By looking at an AI model’s internal representations — the numbers that dictate how an AI model responds, which often seem completely incoherent to...",
-      "published": "Wed, 18 Jun 2025 17:10:58 GMT"
-    },
-    {
-      "id": "3cc253777158dd024f80079803c6de1c",
-      "title": "Exactly When Apple Will Launch iPhone 17, iPhone 17 Air And iPhone 17 Pro - Forbes",
-      "source": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmlfTXpWRkV6RjRLakpIYUxfaEtYVV9ZWmdsS2s3eU5ScDh2Ri1KLUlKTGI3V1dWSDUzTXZwVDBYVkJ0UkhpM1QxZGZ6T2g5Zk1DYXJfTS02X2dERlFKUkVwLW9mU3VEa0FUZDB3Q2gyWHRJRXBibnhJU1NMSUNGU0ZsbjJhTGZOMF9oU1A5SGx1UmNNZkJuUFNpWmQ1bUphNGRIRkRzWElqWkVuVTBzNg?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 17 Jun 2025 16:10:00 GMT"
-    },
-    {
-      "id": "3925c82bb79fc64f720e0c43f3ae4e71",
-      "title": "Leak reveals early details of new compact OnePlus gaming tablet - Notebookcheck",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Leak-reveals-early-details-of-new-compact-OnePlus-gaming-tablet.1038899.0.html",
-      "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Compact-OnePlus-gaming-tablet-leak.jpg",
-      "summary": "Huge and inexpensive: Teclast T70 tablet review Oppo Pad 4 Pro: iPad Pro experience at a mid-range price Cheapest OLED tablet: Acer Iconia X12 review Lots of display for little money: Teclast T60 AI review The alternative to the iPad Pro - Huawei MatePad Pro 13. 2 (2025) review Not just for fans: Samsung Galaxy Tab S10 FE Review Falling...",
-      "published": "Wed, 18 Jun 2025 11:11:00 GMT"
+      "url": "https://9to5google.com/2025/06/19/nothing-phone-3-glyph-matrix-leaked-design/",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/nothing-phone-3-glyph-matrix-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Nothing Phone (3) has ‘Glyph Matrix’ lights in corner, leaked design was likely wrong [Video] After a bunch of teasers, Nothing has offered a first look at the new “Glyph Matrix” lights on the back of Nothing Phone (3), while also disproving a recent leaked design. In a new post, Nothing shows off the “Glyph Matrix” on Phone (3) for...",
+      "published": "Thu, 19 Jun 2025 13:25:00 GMT"
     },
     {
       "id": "28d31b1929c54c2d71fd9525bcf12dd4",
@@ -74,8 +20,134 @@
       "source": "Forbes",
       "url": "https://www.forbes.com/sites/daveywinder/2025/06/19/16-billion-apple-facebook-google-passwords-leaked---change-yours-now/",
       "image_url": "https://imageio.forbes.com/specials-images/imageserve/6687e04c8c1bdb7dd76b1118/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "summary": "16 Billion Apple, Facebook, Google And Other Passwords Leaked — Act Now ByDavey Winder, Senior Contributor. Davey Winder is a veteran cybersecurity writer, hacker and analyst. The biggest password leak in history confirmed. Update, June 19, 2025: This story, originally published on June 18, has been updated with comments from the founders of Keeper Security regarding the 16 billion leaked...",
+      "summary": "Millions Of Windows Users Get Microsoft’s Free Upgrade Offer Microsoft Starts Deleting Your Passwords In 6 Weeks—Act Now Amazon Issues Security Warning As Prime Account Hacks Surge Google Chrome Warning — Windows, Android, Mac And Linux Users Act Now 16 Billion Apple, Facebook, Google And Other Passwords Leaked — Act Now ByDavey Winder, Senior Contributor. Davey Winder is a veteran...",
       "published": "Thu, 19 Jun 2025 11:45:00 GMT"
+    },
+    {
+      "id": "d0ac528a54b8ce3a2f1bbdce12ac9170",
+      "title": "I Tried the Future of Smart Glasses at WWDC. They Weren't Made by Apple - CNET",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/computing/i-tried-the-future-of-smart-glasses-at-wwdc-they-werent-made-by-apple/",
+      "image_url": "https://www.cnet.com/a/img/resize/d8efd8982deee0ce729c8a8c57c89aa2034e7a95/hub/2025/06/18/4cbecd7f-3a18-49fa-abec-58699931b968/selfie-xreal-one-pro-wwdc.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "summary": "I Tried the Future of Smart Glasses at WWDC. They Weren't Made by Apple Sorry, Vision Pro, but I wore the new Xreal One Pro glasses to cover Apple's show live this year. And yeah, they passed the test. Outdoors wearing Xreal's newest display glasses a week ago. Headphones for your eyes are here. On a bright sunny day in...",
+      "published": "Thu, 19 Jun 2025 13:00:00 GMT"
+    },
+    {
+      "id": "b45f51af94eb290bd5553440d03eb5ae",
+      "title": "Samsung aims to catch up to Chinese rivals for thin foldable phones as Apple said to enter the fray - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/19/samsung-aims-to-catch-up-chinese-rivals-for-thin-foldable-phones.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108003184-1720537744351-Samsung_Z_Fold6_Cover_Image.jpg?v=1720627873&w=1920&h=1080",
+      "summary": "Samsung aims to catch up to Chinese rivals for thin foldable phones as Apple said to enter the fray Samsung is set to launch its next foldable smarpthone, likely called the Galaxy Fold7, at an event next month. Chinese players in particular Honor and Oppo, have aggressively released foldables that are thinner and lighter than Samsung’s offerings. Samsung is aiming...",
+      "published": "Thu, 19 Jun 2025 11:34:22 GMT"
+    },
+    {
+      "id": "17221c1cac8aa8bedc737a010559567e",
+      "title": "iPhone 17 Pro launch: After using the iPhone 16 Pro, here are 4 things Apple needs to fix this year - Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/technology/iphone-17-pro-launch-after-using-the-iphone-16-pro-here-are-4-things-apple-needs-to-fix-this-year-101750329558711.html",
+      "image_url": "https://www.hindustantimes.com/ht-img/img/2025/06/19/1600x900/17_p_1744880093305_1750329714029.png",
+      "summary": "iPhone 17 Pro launch: After using the iPhone 16 Pro, here are 4 things Apple needs to fix this year The iPhone 17 Pro is a couple of months away. Here’s what I expect compared to the iPhone 16 Pro. I have had the iPhone 16 Pro since November 2024, and now that the iPhone 17 series is on the...",
+      "published": "Thu, 19 Jun 2025 10:56:26 GMT"
+    },
+    {
+      "id": "b7dab408bea55e4e929cbc500814c0c5",
+      "title": "Video Games Weekly: Mario Kart World is the opposite of punishing - Engadget",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/gaming/video-games-weekly-mario-kart-world-is-the-opposite-of-punishing-110039837.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/9E0EDAlEeTKfkqKbvFVIBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/e96f5b80-4c96-11f0-be3f-71066bc085dc",
+      "summary": "PS3 emulator hits the Android Play Store Prime Day 2025: What you need to know How to buy the Nintendo Switch 2 Video Games Weekly: Mario Kart World is the opposite of punishing The gaming news you need, June 10 - 18. Thu, Jun 19, 2025, 7:00 AM EDT·6 min read Welcome to Video Games Weekly on Engadget. Expect a...",
+      "published": "Thu, 19 Jun 2025 11:00:39 GMT"
+    },
+    {
+      "id": "87c30f028edb22f302c2755cb2efa25e",
+      "title": "Apple Built a Custom Camera With iPhone Parts for 'F1: The Movie' - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/06/19/apple-built-custom-camera-for-f1-movie/",
+      "image_url": "https://images.macrumors.com/t/_4_Xb0VX-ueYBcg54lzw2tO1PtI=/1600x/article-new/2025/06/apple-f1-camera-unit.jpg",
+      "summary": "iOS 26macOS Tahoe 26iPadOS 26iPhone 17iPhone 17 AiriPhone 17 ProiPhone 16eiPhone 16iPhone 16 ProMacBook ProiOS 18Apple Vision ProiMacMac miniiPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Pro Display XDRApple Watch Ultra 2HomePod miniMac ProMacBook AiriPadiPhone 15AirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch 10Apple Watch SEMac StudioiPad Air iPad miniiPhone 18CarPlayApple Pay Apple Built a Custom Camera With iPhone Parts for...",
+      "published": "Thu, 19 Jun 2025 12:35:48 GMT"
+    },
+    {
+      "id": "23f341c456575e41aa05c8cec99447ff",
+      "title": "DK Rap composer wasn't aware \"the worst rap track in the history of rap tracks\" would be included in Donkey Kong Bananza - Eurogamer",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/dk-rap-composer-wasnt-aware-the-worst-rap-track-in-the-history-of-rap-tracks-would-be-included-in-donkey-kong-bananza",
+      "image_url": "https://assetsio.gnwcdn.com/Donkey-Kong-Bananza-Direct-%E2%80%93-18_06_2025-39-41-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "All Mario Kart World Unlockables Flashpoint Worlds Collide codes If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. DK Rap composer wasn't aware \"the worst rap track in the history of rap tracks\" would be included in Donkey Kong Bananza \"Nobody seemed to get the joke except me. \"...",
+      "published": "Thu, 19 Jun 2025 08:55:51 GMT"
+    },
+    {
+      "id": "a0fa8455491b9f73463f25f89f6aaef0",
+      "title": "YouTube TV is giving out a $10 discount, but you have to look for it - Android Police",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/youtube-tv-new-10-dollar-discount/",
+      "image_url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/09/youtube-tv-no-wm-2.jpg",
+      "summary": "YouTube TV is giving out a $10 discount, but you have to look for it Generate a summary of this story YouTube's latest Premium family plan price hike hasn't made its way to the US yet. Inversely, users are getting a solid $10 off their monthly bill for the next six months, adding up to $60 in savings for half...",
+      "published": "Tue, 17 Jun 2025 21:14:00 GMT"
+    },
+    {
+      "id": "61d9f450b859415cd5957a1e237f2cea",
+      "title": "Samsung Galaxy S24 took its first big step toward One UI 8 (Android 16) - Sammy Fans",
+      "source": "Sammy Fans",
+      "url": "https://www.sammyfans.com/2025/06/19/samsung-galaxy-s24-took-its-first-big-step-toward-one-ui-8-android-16/",
+      "image_url": "https://www.sammyfans.com/wp-content/uploads/2025/06/samsung-galaxy-s24-ultra-camera-img1-1000x576.jpg",
+      "summary": "Samsung Galaxy S24 took its first big step toward One UI 8 (Android 16) Published 14 hours ago on June 19, 2025 Samsung is getting ready to release a new beta update for the Galaxy S25 series. Meanwhile, the first internal testing build of One UI 8 has been spotted for the Samsung Galaxy S24 series. This build hints that...",
+      "published": "Thu, 19 Jun 2025 03:59:36 GMT"
+    },
+    {
+      "id": "262d16584593f95f3fa04bcadf9ac122",
+      "title": "Adobe Project Indigo is a new photo app from former Pixel camera engineers - Engadget",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/apps/adobe-project-indigo-is-a-new-photo-app-from-former-pixel-camera-engineers-213453207.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/LCnzEXsmwOBoBoBFC8azFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/9641f1a0-4c89-11f0-baff-b8c140e08437",
+      "summary": "PS3 emulator hits the Android Play Store Prime Day 2025: What you need to know How to buy the Nintendo Switch 2 Adobe Project Indigo is a new photo app from former Pixel camera engineers The app is specifically trying to recreate the look of SLR photos. Updated Wed, Jun 18, 2025, 5:34 PM EDT·2 min read Adobe launched its...",
+      "published": "Wed, 18 Jun 2025 21:34:56 GMT"
+    },
+    {
+      "id": "33e107342df0d9e223d7624514d4aa7f",
+      "title": "Apple's New Transcription APIs Blow Past Whisper in Speed Tests - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/06/18/apple-transcription-api-faster-than-whisper/",
+      "image_url": "https://images.macrumors.com/t/_bPRETWPjONRx9IzuG8sEwhiv-I=/1600x/article-new/2025/06/apple_record_transcribe_phone_calls.jpeg",
+      "summary": "iOS 26macOS Tahoe 26iPadOS 26iPhone 17iPhone 17 AiriPhone 17 ProiPhone 16eiPhone 16iPhone 16 ProMacBook ProiOS 18Apple Vision ProiMacMac miniiPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Pro Display XDRApple Watch Ultra 2HomePod miniMac ProMacBook AiriPadiPhone 15AirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch 10Apple Watch SEMac StudioiPad Air iPad miniiPhone 18CarPlayApple Pay Apple's New Transcription APIs Blow Past Whisper in Speed...",
+      "published": "Wed, 18 Jun 2025 11:01:30 GMT"
+    },
+    {
+      "id": "925395c540f83119914f7b8efb14a9b6",
+      "title": "These are (likely) all the Samsung Galaxy Watch 8, Watch 8 Classic, and Watch Ultra (2025) colorways - PhoneArena",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/samsung-galaxy-watch-8-watch-8-classic-watch-ultra-2025-all-color-options-revealed_id171462",
+      "image_url": "https://m-cdn.phonearena.com/images/article/171462-wide-two_1200/These-are-likely-all-the-Samsung-Galaxy-Watch-8-Watch-8-Classic-and-Watch-Ultra-2025-colorways.jpg",
+      "summary": "Refurbished iPhone 14 Pro from $461 Discussions are now open! Start your own threads and share your thoughts with the community. These are (likely) all the Samsung Galaxy Watch 8, Watch 8 Classic, and Watch Ultra (2025) colorways The rumored color options of Samsung's three upcoming smartwatches don't sound very exciting, but it's what's on the inside that counts the...",
+      "published": "Wed, 18 Jun 2025 12:10:59 GMT"
+    },
+    {
+      "id": "21f602beb0016fa8e9c398225d9739bb",
+      "title": "Third-party Switch 2 game sales have started off slow, with one publisher selling ‘below our lowest estimates’ - Video Games Chronicle",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/third-party-switch-2-game-sales-have-started-off-slow-with-one-publisher-selling-below-our-lowest-estimates/",
+      "image_url": "https://www.videogameschronicle.com/files/2025/04/switch-2-japanese-games.jpg",
+      "summary": ".cls-1{fill:url(#linear-gradient)}. cls-2{fill:#fff} GO AD-FREE! Support VGC on Patreon Third-party Switch 2 game sales have started off slow, with one publisher selling ‘below our lowest estimates’ Third-party games have reportedly struggled to sell on Nintendo Switch 2 at launch, with one publisher claiming that its game has sold “below our lowest estimates”. While the Nintendo Switch 2 hardware has enjoyed record-breaking...",
+      "published": "Thu, 19 Jun 2025 14:46:36 GMT"
+    },
+    {
+      "id": "c8028153cdc457adc1d27c5b7ce5260c",
+      "title": "Rokid’s new AR glasses are pretty much a face-hugging laptop in disguise - Android Central",
+      "source": "Android Central",
+      "url": "https://www.androidcentral.com/gaming/virtual-reality/rokids-new-ar-glasses-are-basically-a-laptop-you-wear-on-your-face",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8Ge3WXJvLCThewfh5MqUCQ.jpg",
+      "summary": "Rokid’s new AR glasses are basically a laptop you wear on your face By Jay Bonggolto published 15 hours ago Rokid's AR Spatial glasses create a massive 300-inch virtual screen for immersive entertainment and work. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Rokid’s AR Spatial glasses ditch the traditional...",
+      "published": "Thu, 19 Jun 2025 04:05:43 GMT"
+    },
+    {
+      "id": "98587cc16450b1c255cba38f26536131",
+      "title": "Gboard will integrate with ‘Pixel Sense’ and offer voice ‘Smart Edits’ - 9to5Google",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2025/06/18/gboard-pixel-sense/",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/Gboard-on-OnePlus-12.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Gboard will integrate with ‘Pixel Sense’ and offer voice ‘Smart Edits’ Last week, a “Magic Cue” capability for the Pixel 10 leaked, and Gboard today revealed upcoming “Pixel Sense” integration. About APK Insight: In this “APK Insight” post, we’ve decompiled the latest version of an application that Google uploaded to the Play Store. When we decompile these files (called APKs,...",
+      "published": "Wed, 18 Jun 2025 21:50:00 GMT"
     },
     {
       "id": "fbafd68e19cf759adb76a75212299ce6",
@@ -87,22 +159,13 @@
       "published": "Thu, 19 Jun 2025 00:40:43 GMT"
     },
     {
-      "id": "d10a21877f4c8dcd9a12948a1c121c72",
-      "title": "YouTube is plugging Veo 3 AI videos directly into Shorts - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/689474/youtube-veo-3-ai-videos-shorts",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "YouTube is plugging Veo 3 AI videos directly into ShortsGoogle’s new AI video generation model will come to Shorts later this summer. Illustration by Alex Castro / The Verge Jay Peters is a news editor covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme. YouTube is bringing its Veo 3 AI video...",
-      "published": "Wed, 18 Jun 2025 18:35:35 GMT"
-    },
-    {
-      "id": "b8c1e7859d3b5cd0b3f16f390600c37f",
-      "title": "Your Samsung Galaxy Watch is about to get a big upgrade for free - 4 features I can't wait to try - ZDNet",
-      "source": "ZDNet",
-      "url": "https://www.zdnet.com/article/your-samsung-galaxy-watch-is-about-to-get-a-big-upgrade-for-free-4-features-i-cant-wait-to-try/",
-      "image_url": "https://www.zdnet.com/a/img/resize/2bb4b1b8ae9a71c0f18519bdb6a3d1c3101da257/2024/10/29/7e4fa714-0229-4aba-b01f-cf0b077ac22f/samsung-galaxy-watch-fe-lte2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "summary": "tomorrow belongs to those who embrace it today Your Samsung Galaxy Watch is about to get a big upgrade for free - 4 features I can't wait to try The new health features coming to your next Galaxy Watch optimize your exercise, sleep time, and more. Written by Nina Raemont, Editor, Wearables & Health Tech It won't be long before...",
-      "published": "Wed, 18 Jun 2025 12:33:00 GMT"
+      "id": "6e83149578b74da3702ca817c30489c8",
+      "title": "REMATCH is out now and works great on Linux, SteamOS and Steam Deck - GamingOnLinux",
+      "source": "GamingOnLinux",
+      "url": "https://www.gamingonlinux.com/2025/06/rematch-is-out-now-and-works-great-on-linux-steamos-and-steam-deck/",
+      "image_url": "https://www.gamingonlinux.com/uploads/articles/tagline_images/575961372id27035gol.jpg",
+      "summary": "Be sure to follow us on Google News! We use affiliate links to earn us some pennies. Learn more. REMATCH is out now and works great on Linux, SteamOS and Steam Deck By Liam Dawe - 19 Jun 2025 at 2:28 pm UTC Last updated: 19 Jun 2025 at 5:08 pm UTC REMATCH is a new competitive Football game from...",
+      "published": "Thu, 19 Jun 2025 14:28:01 GMT"
     },
     {
       "id": "f106f8dc7ba6849152890563e6010f5f",
@@ -114,76 +177,13 @@
       "published": "Thu, 19 Jun 2025 08:30:28 GMT"
     },
     {
-      "id": "036edd7eb858cb12c0223723d0a89efc",
-      "title": "New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions - The Hacker News",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html",
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXov8Cx_igQW4qij-AsFmuK3PvE_68RZF_35cguvWlQV8pWKAVOOf1DIWk6ZpL8eriWkF1Pdwlkx7GmolL2yQeknbGs1F7QwEdF6Bu3dvIl6t7CatxuL7USxwGjM166GTEcOq-XK3g_bteqdnY27DijtddyJhVZ3M8PVBoXN5cqb7_h9UVwKBs0h1O3omK/s728-rw-e365/Linux-LPE.jpg",
-      "summary": "New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions Cybersecurity researchers have uncovered two local privilege escalation (LPE) flaws that could be exploited to gain root privileges on machines running major Linux distributions. The vulnerabilities, discovered by Qualys, are listed below - CVE-2025-6018 - LPE from unprivileged to allow_active in SUSE 15's Pluggable Authentication Modules...",
-      "published": "Thu, 19 Jun 2025 03:33:00 GMT"
-    },
-    {
-      "id": "7d93975d929145f52656136c08520865",
-      "title": "Samsung Galaxy Z Fold 7, Flip 7, and Watch 8 series tipped to launch on July 9 - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTlMxaXFTUk1LSGZER193ZXhGUVQ1QjMtU1lKd0lEa01ER25GTWtHQXhIZ3VXekxlLTJlTV9HdVBTTS0tdngybjVxMzd1Mmg4UmtrZFJ4T2E3cGNJM1BKcFlfeEJyU2pxbGJFWjBwUkIyRkdrUmVXcUUwVVlsWXZ6SWJRemNldDZmZlZ5cA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 18 Jun 2025 20:55:00 GMT"
-    },
-    {
-      "id": "9533b5d2c1752903b06bfda6ca0e35d3",
-      "title": "Apple's Foldable iPhone Production to Begin This Fall for 2026 Release - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2025/06/18/foldable-iphone-manufacturing-2025-start/",
-      "image_url": "https://images.macrumors.com/t/7O_4ilWjMpNSXf1pIBM37P_dKgU=/2500x/article-new/2025/03/Foldable-iPhone-2023-Feature-Homescreen.jpg",
-      "summary": "iOS 26macOS Tahoe 26iPadOS 26iPhone 17iPhone 17 AiriPhone 17 ProiPhone 16eiPhone 16iPhone 16 ProMacBook ProiOS 18Apple Vision ProiMacMac miniiPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Pro Display XDRApple Watch Ultra 2HomePod miniMac ProMacBook AiriPadiPhone 15AirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch 10Apple Watch SEMac StudioiPad Air iPad miniiPhone 18CarPlayApple Pay Apple's Foldable iPhone Production to Begin This Fall for...",
-      "published": "Wed, 18 Jun 2025 17:12:05 GMT"
-    },
-    {
-      "id": "eab726ffb5a253b6367b672c74fed32e",
-      "title": "Adobe made a mobile app for its Firefly generative AI tools - The Verge",
+      "id": "d10a21877f4c8dcd9a12948a1c121c72",
+      "title": "YouTube is plugging Veo 3 AI videos directly into Shorts - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/news/688080/adobe-firefly-ai-app-iphone-ios-android-availability",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Adobe-Firefly-mobile-app-hero.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "Adobe made a mobile app for its Firefly generative AI tools﻿The iPhone and Android Firefly app can sync AI image and video projects to desktops via Creative Cloud. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Adobe’s Firefly apps, now available on iPhone and Android. Image: Adobe Jess Weatherbed is...",
-      "published": "Tue, 17 Jun 2025 13:00:00 GMT"
-    },
-    {
-      "id": "788469d80610aee9b6b79260ddc79c41",
-      "title": "We compare Raidou Remastered on Switch 2, Steam Deck, Switch 1, & ROG Ally covering visuals and performance - RPG Site",
-      "source": "RPG Site",
-      "url": "https://www.rpgsite.net/feature/17744-raidou-remastered-switch-2-vs-switch-vs-steam-deck-pc-port-best-version-rog-ally",
-      "image_url": "https://images.rpgsite.net/image/da49c9a1/153947/article/raidou-remastered-switch-vs-switch-2-steam-deck-pc-port-coffee.jpg",
-      "summary": "We compare Raidou Remastered on Switch 2, Steam Deck, Switch 1, & ROG Ally covering visuals and performance by Mikhail Madnani on 18 June, 2025 Raidou Remastered: The Mystery of the Soulless Army is now available on consoles and PC and despite it being called a remaster, it feels more like a remake of Devil Summoner: Raidou Kuzunoha vs. The...",
-      "published": "Wed, 18 Jun 2025 14:04:14 GMT"
-    },
-    {
-      "id": "24a6bf7bfbe51c114f2b62f261e05bfd",
-      "title": "Rocket League Patch Notes v2.53 - Rocket League",
-      "source": "Rocket League",
-      "url": "https://www.rocketleague.com/en/news/rocket-league-patch-notes-v2-53",
-      "image_url": "https://us-west-2-epicgames.graphassets.com/A0Gpf4ZpfQzaTePr3NRc1z/resize=fit:clip,height:1080,width:1920/output=format:webp/cmbtyzh2k143s07ogznhpc1qf",
-      "summary": "v2.53 prepares Rocket League for Season 19 and our 10th anniversary update! ⁠Platforms: Epic Games Store, Steam, PlayStation, Xbox, Nintendo ⁠Scheduled Release: June 17, 2025 4 PM PT / 11 PM UTC Introducing the 10th Anniversary variant of DFH Stadium DFH Stadium (10th Anniversary) Arena Celebrate 10 years of matches with the DFH Stadium (10th Anniversary) Arena variant! Featuring anniversary...",
-      "published": "Tue, 17 Jun 2025 23:05:04 GMT"
-    },
-    {
-      "id": "9ba4a8fe896ef5d6f8a3b529ed687ce3",
-      "title": "Framework Laptop 12: An Upgrade-Friendly, Convertible 2-in-1 Linux Laptop Review - Phoronix",
-      "source": "Phoronix",
-      "url": "https://www.phoronix.com/review/framework-laptop-12",
-      "image_url": "https://www.phoronix.net/image.php?id=framework-laptop-12&image=framework_12_1",
-      "summary": "Framework Laptop 12: An Upgrade-Friendly, Convertible 2-in-1 Linux Laptop Written by Michael Larabel in Computers on 18 June 2025 at 11:00 AM EDT. Page 1 of 9. 29 Comments. Back in February the Framework Laptop 12 was announced as the company's first 2-in-1 convertible laptop while still being well-built and upgrade-friendly/modular as we have come to enjoy out of their...",
-      "published": "Wed, 18 Jun 2025 15:00:00 GMT"
-    },
-    {
-      "id": "5167e8147259dbe45e5239c2e5bb8ed4",
-      "title": "Google’s AI Mode can now have back-and-forth voice conversations - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/06/18/googles-ai-mode-can-now-have-back-and-forth-voice-conversations/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
-      "summary": "Google’s AI Mode can now have back-and-forth voice conversations Google is rolling out the ability for users to have a back-and-forth voice conversation with AI Mode, its experimental Search feature that lets users ask complex, multi-part questions. With the new Search Live integration, users can have a free-flowing voice conversation with Search and explore links from across the web. Users...",
-      "published": "Wed, 18 Jun 2025 16:00:00 GMT"
+      "url": "https://www.theverge.com/news/689474/youtube-veo-3-ai-videos-shorts",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "YouTube is plugging Veo 3 AI videos directly into ShortsGoogle’s new AI video generation model will come to Shorts later this summer. Illustration by Alex Castro / The Verge Jay Peters is a news editor covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme. YouTube is bringing its Veo 3 AI video...",
+      "published": "Wed, 18 Jun 2025 18:35:35 GMT"
     }
   ]
 }
