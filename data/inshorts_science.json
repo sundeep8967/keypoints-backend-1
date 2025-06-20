@@ -1,19 +1,10 @@
 {
   "metadata": {
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-20 06:57:13",
+    "generation_time": "2025-06-20 14:21:51",
     "total_articles": 20
   },
   "articles": [
-    {
-      "id": "5259fd0eae00feed04985594af27dc64",
-      "title": "When Earth iced over, early life may have sheltered in meltwater ponds - Phys.org",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2025-06-earth-iced-early-life-meltwater.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.43.245.192 : ca6d7eb4-1e1d-4538-949f-343e5d88",
-      "published": "Thu, 19 Jun 2025 09:00:07 GMT"
-    },
     {
       "id": "23d4be5358fc29ac70ebf5eebc66f803",
       "title": "The ocean is changing colors, researchers say. Here's what it means. - ABC News - Breaking News, Latest News and Videos",
@@ -33,6 +24,15 @@
       "published": "Thu, 19 Jun 2025 13:01:21 GMT"
     },
     {
+      "id": "2fa7cbb8523597e390810e484a39fc3a",
+      "title": "How migrating Australian moths find caves hundreds of miles away - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/18/nx-s1-5434328/how-migrating-australian-moths-find-caves-hundreds-of-miles-away",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+208/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2F60%2Fa72ff26842b79405ea62bf8714a4%2Fmoth.jpeg",
+      "summary": "How migrating Australian moths find caves hundreds of miles away Bogong moth, Agrotis infusa. Mt Ginini, ACT Dr. Ajay Narendra (Macquarie University, Australia) The Bogong moths of Australia aren't much to look at, says Andrea Adden, a neurobiologist at the Francis Crick Institute. \"They're small brown moths with arrow-like markings on the wings. They're pretty nondescript. \" 'Like moths to...",
+      "published": "Wed, 18 Jun 2025 17:33:12 GMT"
+    },
+    {
       "id": "168d1461643f781df473abc34adbad8e",
       "title": "At Chile’s Vera Rubin Observatory, Earth’s Largest Camera Surveys the Sky - The New York Times",
       "source": "The New York Times",
@@ -42,76 +42,67 @@
       "published": "Thu, 19 Jun 2025 14:54:46 GMT"
     },
     {
+      "id": "71da5a1f55633880413c8b033a8f1358",
+      "title": "The Moon’s Next Big Secret Revealed: Firefly’s Ocula Will Expose Unseen Lunar Details! - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/fireflys-ocula-expose-unseen-lunar-details/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/The-Moons-Next-Big-Secret-Revealed-Fireflys-Ocula-Will-Expose-Unseen-Lunar-Details.jpg",
+      "summary": "The Moon’s Next Big Secret Revealed: Firefly’s Ocula Will Expose Unseen Lunar Details! Firefly Aerospace’s Ocula service, set to launch by 2026, promises to revolutionize lunar exploration. Image credit: Firefly Aerospace | The Daily Galaxy --Great Discoveries Channel Firefly Aerospace, a Texas-based aerospace company, is on track to unveil its Ocula moon-imaging service, a cutting-edge initiative that could transform the...",
+      "published": "Thu, 19 Jun 2025 15:00:00 GMT"
+    },
+    {
+      "id": "a73eb5c3f0220c14ab2dc6b5e56d84fe",
+      "title": "ESA's XMM-Newton finds huge filament of missing matter - theregister.com",
+      "source": "theregister.com",
+      "url": "https://www.theregister.com/2025/06/19/esas_xmmnewton_finds_filaments/",
+      "image_url": "https://regmedia.co.uk/2025/06/18/filaments.jpg",
+      "summary": "ESA's XMM-Newton finds huge filament of missing matter Veteran X-ray telescope discovery shows that. .. phew, current model of the cosmos still works Astronomers have found a filament of hot gas, ten times as massive as our galaxy, that they reckon could explain where at least some of the universe's \"missing\" matter might be lurking. 'I guess NASA doesn't need...",
+      "published": "Thu, 19 Jun 2025 12:28:00 GMT"
+    },
+    {
+      "id": "5259fd0eae00feed04985594af27dc64",
+      "title": "When Earth iced over, early life may have sheltered in meltwater ponds - Phys.org",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2025-06-earth-iced-early-life-meltwater.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.25.193.196 : 189e1340-24e0-4704-b297-86b44433",
+      "published": "Thu, 19 Jun 2025 09:00:07 GMT"
+    },
+    {
+      "id": "947fb2cc992bddecbf931277c41ecd91",
+      "title": "The Earth could be soon flung out of orbit or into the sun all thanks to a passing star - The Independent",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/space/earth-sun-orbit-passing-star-b2772878.html",
+      "image_url": "https://static.independent.co.uk/2025/06/18/20/12/54371346378-f762763e96-o.jpeg?trim=0,158,0,157&width=1200&height=800&crop=1200:800",
+      "summary": "The Independent's journalism is supported by our readers. When you purchase through links on our site, we may earn commission. The Earth could be soon flung out of orbit or into the sun - all thanks to a passing star Either way, the sun is likely slated to consume Earth in billions of years What If Earth Had a Large...",
+      "published": "Wed, 18 Jun 2025 21:34:00 GMT"
+    },
+    {
       "id": "712cea4cc4951f9a64b57845355bfa2b",
       "title": "2 Chinese spacecraft just met up 22,000 miles above Earth. What were they doing? - Space",
       "source": "Space",
       "url": "https://www.space.com/space-exploration/satellites/2-chinese-spacecraft-just-met-up-22-000-miles-above-earth-what-were-they-doing",
       "image_url": "https://cdn.mos.cms.futurecdn.net/8r9KBfsHgxXjcgQAouDtRb.jpg",
-      "summary": "2 Chinese spacecraft just met up 22,000 miles above Earth. What were they doing? By Andrew Jones published yesterday A space situational awareness company spied satellite close approaches in geosynchronous orbit. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. A Chinese Long March 3B rocket launches the military space debris...",
+      "summary": "2 Chinese spacecraft just met up 22,000 miles above Earth. What were they doing? By Andrew Jones published 2 days ago A space situational awareness company spied satellite close approaches in geosynchronous orbit. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. A Chinese Long March 3B rocket launches the military...",
       "published": "Wed, 18 Jun 2025 20:00:00 GMT"
     },
     {
-      "id": "5efd5f00e2fa8a99baedb196a572e047",
-      "title": "Meet the moths that map the stars to fly long distances - PBS",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/science/meet-the-moths-that-map-the-stars-to-fly-long-distances",
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/2007-10-09T134939Z_1457866525_MT1AAP0005HLBL6_RTRMADP_3_PARLIAMENT-HOUSE-MOTHS-1024x680.jpg",
-      "summary": "By — Adithi Ramakrishnan, Associated Press Meet the moths that map the stars to fly long distances Science Jun 18, 2025 5:51 PM EDT NEW YORK (AP) — An Australian moth follows the stars during its yearly migration, using the night sky as a guiding compass, according to a new study. When temperatures heat up, nocturnal Bogong moths fly about...",
-      "published": "Wed, 18 Jun 2025 21:51:08 GMT"
+      "id": "bee26dff12d6ef430865e1d4da115703",
+      "title": "This ‘Large and Unstable’ Sunspot Just Slammed Earth With Its Strongest Flare Yet - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/this-large-and-unstable-sunspot-just-slammed-earth-with-its-strongest-flare-yet-2000617387",
+      "image_url": "https://gizmodo.com/app/uploads/2025/06/solar-flare-from-sunspot-region-4114-1200x675.jpg",
+      "summary": "This ‘Large and Unstable’ Sunspot Just Slammed Earth With Its Strongest Flare Yet Scientists predict another solar eruption may take place today. Published June 18, 2025 | Comments (10) | The Solar Dynamics Observatory captured the Earth-facing sunspot as it erupted. NASA's Solar Dynamics Observatory An Earth-facing sunspot region has been raging with massive eruptions of hot gas that have...",
+      "published": "Wed, 18 Jun 2025 16:35:32 GMT"
     },
     {
-      "id": "eee32fdecd231fac9b291d39b6805227",
-      "title": "'The models were right!' Astronomers locate universe's 'missing' matter in the largest cosmic structures - Yahoo",
-      "source": "Yahoo",
-      "url": "https://www.yahoo.com/news/models-were-astronomers-locate-universes-100000534.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/CFDx_coCyNxmKL6qE847TQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/space_311/f1b6aaaf78220ec61565895e12d9a413",
-      "summary": "'The models were right! ' Astronomers locate universe's 'missing' matter in the largest cosmic structures Thu, June 19, 2025 at 10:00 AM UTC When you buy through links on our articles, Future and its syndication partners may earn a commission. An illustration of the cosmic web where the universe's missing matter was discovered. | Credit: ESA/XMM-Newton and ISAS/JAXA. Astronomers have...",
-      "published": "Thu, 19 Jun 2025 10:00:00 GMT"
-    },
-    {
-      "id": "807e65cfa8fae84ce7c5e8a02cdd8dc1",
-      "title": "Passing star could send Earth into the sun - The Independent",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/bulletin/news/earth-orbit-hit-sun-star-b2773494.html",
-      "image_url": "https://static.independent.co.uk/2025/01/12/12/iStock-1365125730.jpg?width=1200&height=800&crop=1200:800",
-      "summary": "We are 8 logo (opens in a new tab) Passing star could send Earth into the sun Thursday 19 June 2025 22:16 BST A new study published in the journal Icarus suggests that passing field stars could cause more instability in our solar system than previously believed. Astronomers Nathan Kaib and Sean Raymond found that isolated models underestimate future orbital...",
-      "published": "Thu, 19 Jun 2025 21:16:00 GMT"
-    },
-    {
-      "id": "50c737073dcfb4573c82645542d3c592",
-      "title": "Is the Hubble tension real? Exclusive interview with Wendy Freedman - Big Think",
-      "source": "Big Think",
-      "url": "https://bigthink.com/starts-with-a-bang/hubble-tension-real-interview-wendy-freedman/",
-      "image_url": "https://bigthink.com/wp-content/uploads/2025/06/Hubbles-Great-DiscoveryConcealedaTension-ezgif.com-webp-to-jpg-converter.jpg?resize=1200,630",
-      "summary": "Is the Hubble tension real? Exclusive interview with Wendy Freedman Different methods of measuring the Universe’s expansion rate yield high-precision, incompatible answers. But is the problem robustly real? If you measure the expansion rate of the Universe using an early relic method, like the light from the CMB (top right), you get a value of around 67 km/s/Mpc. If you...",
-      "published": "Wed, 18 Jun 2025 06:00:00 GMT"
-    },
-    {
-      "id": "c27cfc5d7deace3387f96319a09738ca",
-      "title": "Life on Mars: Humans will live in huge 'space oases' on the Red Planet in just 15 years, European Space Agency predicts - Daily Mail",
-      "source": "Daily Mail",
-      "url": "https://www.dailymail.co.uk/sciencetech/article-14827603/mars-humans-space-oases-european-agency.html",
-      "image_url": "https://i.dailymail.co.uk/1s/2025/06/19/09/99523865-0-image-m-6_1750322769170.jpg",
-      "summary": "Thursday, Jun 19th 2025 10PM 52°F Life on Mars: Humans will live in huge 'space oases' on the Red Planet in just 15 years, European Space Agency predicts READ MORE: Odd 'mushroom' is spotted on the Red Planet by NASA rover By JONATHAN CHADWICK FOR MAILONLINE PUBLISHED: 05:28 EDT, 19 June 2025 | UPDATED: 10:58 EDT, 19 June 2025 Imagine...",
-      "published": "Thu, 19 Jun 2025 09:28:10 GMT"
-    },
-    {
-      "id": "4428987a21aa320a01b6f5310fa7a8fc",
-      "title": "Astronomers create a dazzling, elaborate map of nearby galaxy in thousands of colors - KSL News",
-      "source": "KSL News",
-      "url": "https://www.ksl.com/article/51331916/astronomers-create-a-dazzling-elaborate-map-of-nearby-galaxy-in-thousands-of-colors",
-      "image_url": "https://img.ksl.com/slc/3089/308989/30898951.jpg?filter=kslv2/responsive_story_lg",
-      "summary": "Astronomers create a dazzling, elaborate map of nearby galaxy in thousands of colors By Marcia Dunn, Associated Press | Updated - June 18, 2025 at 8:33 p. m. | Posted - June 18, 2025 at 8:33 p. m. This handout provided by the European Southern Observatory shows a detailed, thousand-colour image of the Sculptor Galaxy captured with the MUSE instrument...",
+      "id": "de0fc0e6ba4771c97b57a47477242c67",
+      "title": "Astronomers create a dazzling, elaborate map of nearby galaxy in thousands of colors - KSL.com",
+      "source": "KSL.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNUNVMkdyT2tCZHJSMi1vUzhlRDlHcFBYOHJ1ZkZOOS1GMVg4Z0pLc05JeW5uUmh2YXdoVG9neEZjeHpUZFdoYWN0d3NxSVV4NEFoVzUwMW9SUmdKRGRrT2FZMG5uNmVzYlc5dTZqT1hIal9xRXVyNXZQUU95TzVZZEJEbEJxUExheVlhbjBZczlZdVdFdTVFVHJOcDdRSjJwMHRpWXZ3Q253Z2NVaUR3Mm01SDBJTmdhbHRmTw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Wed, 18 Jun 2025 20:12:11 GMT"
-    },
-    {
-      "id": "eafc154f717a7cbaee5f4bec3b21f74a",
-      "title": "Dress rehearsal for Artemis 2 photo of the day for June 19, 2025 - Space",
-      "source": "Space",
-      "url": "https://www.space.com/space-exploration/dress-rehearsal-for-artemis-2-space-photo-of-the-day-for-june-19-2025",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/4qhb2E9JWAq5vXe9LMUAMJ.jpg",
-      "summary": "Dress rehearsal for Artemis 2 | Space photo of the day for June 19, 2025 By Kenna Hughes-Castleberry published 15 hours ago NASA and the Department of Defense practice recovery procedures for an abort scenario in the upcoming Artemis 2 mission. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. An...",
-      "published": "Thu, 19 Jun 2025 16:00:00 GMT"
     },
     {
       "id": "885bb21a815370739bff6194165118fe",
@@ -123,13 +114,31 @@
       "published": "Thu, 19 Jun 2025 00:06:36 GMT"
     },
     {
-      "id": "5a54dfc7e722668f2a2a5feadd6f67d9",
-      "title": "Firefly announces commercial lunar imagery service - SpaceNews",
-      "source": "SpaceNews",
-      "url": "https://spacenews.com/firefly-announces-commercial-lunar-imagery-service/",
-      "image_url": "https://spacenews.com/wp-content/uploads/2025/06/firefly-ocula.jpeg",
-      "summary": "Covering the business and politics of space Firefly announces commercial lunar imagery service Firefly's planned Ocula service would provide high-resolution imagery of the moon and objects in cislunar space. Credit: Firefly Aerospace PARIS — Firefly Aerospace says it plans to offer a commercial lunar imaging service for use by governments and companies, one that could supplement or replace an existing,...",
-      "published": "Wed, 18 Jun 2025 20:36:23 GMT"
+      "id": "739a6099736b6c1d4dc1c2c9b3bc5344",
+      "title": "NASA to Gather In-Flight Imagery of Commercial Test Capsule Re-Entry - NASA (.gov)",
+      "source": "NASA (.gov)",
+      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-to-gather-in-flight-imagery-of-commercial-test-capsule-re-entry/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/06/screenshot-2025-06-18-at-10-58-55 am.png",
+      "summary": "NASA to Gather In-Flight Imagery of Commercial Test Capsule Re-Entry During the September 2023 daytime reentry of the OSIRIS-REx sample return capsule, the SCIFLI team captured visual data similar to what they're aiming to capture during Mission Possible. Public Affairs Officer, NASA Langley Research Center A NASA team specializing in collecting imagery-based engineering datasets from spacecraft during launch and reentry...",
+      "published": "Wed, 18 Jun 2025 17:22:05 GMT"
+    },
+    {
+      "id": "642f67d671e8f16d2a72b151a127fa12",
+      "title": "Sea Spiders Are Grazing on Methane—They’re Changing What We Know About the Ocean's Depths - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/sea-spiders-are-grazing-on-methane/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Sea-Spiders-Are-Grazing-on-Methane—Theyre-Changing-What-We-Know-About-the-Oceans-Depths.jpg",
+      "summary": "Sea Spiders Are Grazing on Methane—They’re Changing What We Know About the Ocean’s Depths Deep beneath the ocean, a bizarre new discovery has stunned scientists—sea spiders grazing on methane! Credit: Shutterstock | The Daily Galaxy --Great Discoveries Channel Scientists have unveiled three previously unknown species of deep-sea sea spiders that use an unusual source of nutrition: methane. This research, published...",
+      "published": "Wed, 18 Jun 2025 19:00:00 GMT"
+    },
+    {
+      "id": "c27cfc5d7deace3387f96319a09738ca",
+      "title": "Life on Mars: Humans will live in huge 'space oases' on the Red Planet in just 15 years, European Space Agency predicts - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/sciencetech/article-14827603/mars-humans-space-oases-european-agency.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/19/09/99523865-0-image-m-6_1750322769170.jpg",
+      "summary": "Life on Mars: Humans will live in huge 'space oases' on the Red Planet in just 15 years, European Space Agency predicts READ MORE: Odd 'mushroom' is spotted on the Red Planet by NASA rover By JONATHAN CHADWICK FOR MAILONLINE PUBLISHED: 05:28 EDT, 19 June 2025 | UPDATED: 10:58 EDT, 19 June 2025 Imagine a future where humans live in...",
+      "published": "Thu, 19 Jun 2025 09:28:10 GMT"
     },
     {
       "id": "ab4d72645f3179c3caf2fb367500daf9",
@@ -144,9 +153,9 @@
       "id": "381469f1204a0ccd3fc717fb9f70046c",
       "title": "A 'new star' has exploded into the night sky — and you can see it from North America - Live Science",
       "source": "Live Science",
-      "url": "https://www.livescience.com/space/astronomy/a-new-star-has-exploded-into-the-night-sky-and-you-can-see-it-from-north-america",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/WrwvVHNDwkfz93VvZE2vYN.jpg",
-      "summary": "Vera C. Rubin Observatory pictures World's first 'robot boxing tournament' A 'new star' has exploded into the night sky — and you can see it from North America By Harry Baker published 14 hours ago The never-before-seen \"nova,\" dubbed V462 Lupi, recently appeared in the constellation Lupus, after suddenly becoming 4 million times brighter. The shining explosion is visible to...",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNXzlsaTYxbzM3RG5GM1ExVlAzSEYtSjlyZzc3dy1vemRHYnBOa2NpT0wyWXF0QXhEVmZkUHpTY1lKRDVJM05MRUpCdzlOVklaMlhCNUJwV0U2TVNCT1V5M3FEZ3RLZWN6MmFLcnVoTHo0dFJHYUh2UVVCYXFmZ3VTejB6bHZteWx3OGR0Nk8tM2hQcVlYT1J5X0p5VGN3M2pLMlItUml5djhJN05LWG5QTUNZaDlRaFlMLTQtRW03c0NwZw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Thu, 19 Jun 2025 16:36:06 GMT"
     },
     {
@@ -159,31 +168,22 @@
       "published": "Wed, 18 Jun 2025 17:17:55 GMT"
     },
     {
-      "id": "642f67d671e8f16d2a72b151a127fa12",
-      "title": "Sea Spiders Are Grazing on Methane—They’re Changing What We Know About the Ocean's Depths - The Daily Galaxy",
-      "source": "The Daily Galaxy",
-      "url": "https://dailygalaxy.com/2025/06/sea-spiders-are-grazing-on-methane/",
-      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Sea-Spiders-Are-Grazing-on-Methane—Theyre-Changing-What-We-Know-About-the-Oceans-Depths.jpg",
-      "summary": "Sea Spiders Are Grazing on Methane—They’re Changing What We Know About the Ocean’s Depths Deep beneath the ocean, a bizarre new discovery has stunned scientists—sea spiders grazing on methane! Credit: Shutterstock | The Daily Galaxy --Great Discoveries Channel Scientists have unveiled three previously unknown species of deep-sea sea spiders that use an unusual source of nutrition: methane. This research, published...",
-      "published": "Wed, 18 Jun 2025 19:00:00 GMT"
-    },
-    {
       "id": "c2a442f0077debc1194b52bb1b3df75f",
       "title": "‘Your bones rattle’: The thrill of chasing rocket launches in this California coastal town - Los Angeles Times",
       "source": "Los Angeles Times",
       "url": "https://www.latimes.com/travel/story/2025-06-19/rocket-launches-vandenberg-space-force-base-lompoc-travel",
       "image_url": "https://ca-times.brightspotcdn.com/dims4/default/7d935e4/2147483647/strip/true/crop/1620x851+0+115/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0d%2F0a%2F42dc570347b0a925dd9b7daf9ca5%2Fwk-the-people-who-travel-to-lompoc-to-watch-rocket-launches-01.JPG",
-      "summary": "‘Your bones rattle’: The thrill of chasing rocket launches in this California coastal town A crowd stands at Surf Beach, just outside Lompoc, waiting for a rocket to launch from Vandenberg Space Force Base. (Keith Plocek / For The Times) The first time Gene Kozicki drove to Lompoc to see a rocket blast off from Vandenberg Space Force Base, it...",
+      "summary": "Your morning catch-up: 20 years of Crunchwrap Supreme, tensions over immigration raids and more big stories ‘Your bones rattle’: The thrill of chasing rocket launches in this California coastal town A crowd stands at Surf Beach, just outside Lompoc, waiting for a rocket to launch from Vandenberg Space Force Base. (Keith Plocek / For The Times) The first time Gene...",
       "published": "Thu, 19 Jun 2025 10:00:00 GMT"
     },
     {
-      "id": "1ba2973976c0b43468510c330156674f",
-      "title": "Colossal solar flare erupts from Earth-facing sunspot, sparking strong radio blackouts over Pacific Ocean (video) - Space",
-      "source": "Space",
-      "url": "https://www.space.com/astronomy/sun/colossal-solar-flare-erupts-from-earth-facing-sunspot-sparking-strong-radio-blackouts-over-pacific-ocean-video",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/AdqrhobAj7CGFbLQctptxj.jpg",
-      "summary": "Colossal solar flare erupts from Earth-facing sunspot, sparking strong radio blackouts over Pacific Ocean (video) By Daisy Dobrijevic published 2 days ago The prolific flare factory doesn't look like stopping anytime soon. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Click here for more Space. com videos. .. Sun blasts...",
-      "published": "Wed, 18 Jun 2025 12:16:57 GMT"
+      "id": "415d15ab23b1f5aa829aef18958b402c",
+      "title": "'Hard to fathom': Sewage crisis at Calif. coastline can be seen from space - SFGATE",
+      "source": "SFGATE",
+      "url": "https://www.sfgate.com/bayarea/article/sewage-crisis-california-coastline-visible-space-20384048.php",
+      "image_url": "https://www.sfgate.com/img/logos/black/logo.svg",
+      "summary": "Press & Hold to confirm you are Reference ID e5b777c2-4de1-11f0-aaee-ce3f42422526",
+      "published": "Wed, 18 Jun 2025 22:49:13 GMT"
     }
   ]
 }
