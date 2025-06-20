@@ -1,10 +1,19 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-06-20 02:08:26",
+    "generation_time": "2025-06-20 06:44:39",
     "total_articles": 20
   },
   "articles": [
+    {
+      "id": "e31ed6d1e3cb59f71965a7d627dff8c6",
+      "title": "Breakthrough: FDA Approves Injection to Prevent HIV - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/breakthrough-fda-approves-injection-to-prevent-hiv",
+      "image_url": "https://www.sciencealert.com/images/2024/07/HIVParticleBeingDestroyed.jpg",
+      "summary": "Breakthrough: FDA Approves Injection to Prevent HIV Computer illustration depicting destruction of HIV particle. (Kateryna Kon/Science Photo Library/Getty Images) The US Food and Drug Administration on Wednesday approved Gilead Sciences' twice-yearly injection to prevent HIV – a move the company hailed as a major breakthrough in the fight against the sexually transmitted virus. Drugs to prevent HIV transmission, known as...",
+      "published": "Thu, 19 Jun 2025 05:03:02 GMT"
+    },
     {
       "id": "d4d97587ccccee27d3391599971d1bbf",
       "title": "What to know about COVID variant NB.1.8.1 causing 'razor blade throat' - ABC News - Breaking News, Latest News and Videos",
@@ -15,31 +24,22 @@
       "published": "Thu, 19 Jun 2025 21:39:27 GMT"
     },
     {
-      "id": "8adb136366c5351d3e3792c6c146d17d",
-      "title": "Marijuana’s Links to Heart Attack and Stroke Are Becoming Clearer - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/19/well/marijuana-heart-health-risks.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Thu, 19 Jun 2025 21:18:59 GMT"
+      "id": "f2656eff63941c01fbcec9e0f295b9ef",
+      "title": "Marijuana’s links to heart attack and stroke are becoming clearer - The Seattle Times",
+      "source": "The Seattle Times",
+      "url": "https://www.seattletimes.com/nation-world/marijuanas-links-to-heart-attack-and-stroke-are-becoming-clearer/",
+      "image_url": "https://images.seattletimes.com/wp-content/uploads/2025/06/kzTzMdQp.jpg?d=1200x630",
+      "summary": "Marijuana’s links to heart attack and stroke are becoming clearer Cannabis samples a shop in Boulder, Colo. While most Americans consider marijuana safe, new research published in June 2025 finds that use of the drug is associated with a higher risk of stroke and heart attack, including among younger adults. (Joanna Kulesza/The New York Times, 2024) Cannabis samples a shop...",
+      "published": "Fri, 20 Jun 2025 00:29:06 GMT"
     },
     {
-      "id": "2eb4d033007baedba5f9077ece88a6fd",
-      "title": "FDA approves twice-a-year injection for HIV prevention - Yahoo",
-      "source": "Yahoo",
-      "url": "https://www.yahoo.com/news/fda-approves-twice-injection-hiv-191648237.html",
-      "image_url": "https://media.zenfs.com/en/cnn_articles_875/709114d24c617ca5d7cb82cb50650111",
-      "summary": "FDA approves twice-a-year injection for HIV prevention Wed, June 18, 2025 at 7:16 PM UTC Lenacapavir is now approved to prevent HIV infection as well as to treat certain infections. - Gilead Sciences Inc. A drug currently used to treat certain HIV infections has also, on Wednesday, received approval from the US Food and Drug Administration to be used to...",
-      "published": "Wed, 18 Jun 2025 19:16:48 GMT"
-    },
-    {
-      "id": "ace4fcfb81425a20e44c95787cc6dd3e",
-      "title": "When kids use screens, parents worry about the wrong thing, new study suggests - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/18/health/kids-screen-addiction-study-wellness",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1349480283.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "When kids use screens, parents worry about the wrong thing, new study suggests While parents and teachers focus on how much time children are spending on screens, they may also need to look for signs of addiction. Steven Robinson/Moment RF/Getty Images EDITOR’S NOTE:  Kara Alaimo is an associate professor of communication at Fairleigh Dickinson University. Her book “Over the Influence:...",
-      "published": "Wed, 18 Jun 2025 17:11:00 GMT"
+      "id": "56a210c2537c2870e09fe08f3f5b75dd",
+      "title": "Screen addiction and suicidal behaviors are linked for teens, a study shows : Shots - Health News - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/06/18/nx-s1-5436951/jama-screens-teens-addiction-suicide-abcd",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6240x3510+0+69/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F01%2Fffc7e4a0427e9c5ea37f83b2a5b8%2Fgettyimages-1412586538.jpg",
+      "summary": "Screen addiction and suicidal behaviors are linked for teens, a study shows The study asked about signs of addiction to mobile phones, social media and video games. Those signs can include being preoccupied thinking about them and being unable to cut down on using them. Catherine McQueen/Moment RF/Getty Images If you or someone you know is in crisis, contact the...",
+      "published": "Wed, 18 Jun 2025 21:44:07 GMT"
     },
     {
       "id": "d9d23cd085856249f04862d008209fd4",
@@ -47,8 +47,8 @@
       "source": "The Washington Post",
       "url": "https://www.washingtonpost.com/wellness/2025/06/19/vitamin-d-logevity-test-lonely-environment/",
       "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VC7H7TAS3FGC5FDIEM63A4YW2Y.jpg&w=1440",
-      "summary": "Vitamin D, a longevity test and lonely environments: The week in Well+Being Here's The Average Price Of Gutter Protection For Houses In The US We and our third-party partners process personal data including through the use of cookies, pixels, and other tracking technologies to provide, analyze, and improve our services; personalize your experience (including content); and personalize ads on and...",
-      "published": "Thu, 19 Jun 2025 23:28:55 GMT"
+      "summary": "Vitamin D, a longevity test and lonely environments: The week in Well+Being Plus, do you really have to wait 30 minutes post-meal before swimming? (Abbey Lossing for The Washington Post) You are reading our weekly Well+Being newsletter. Sign up here to get it delivered to your inbox every Thursday. Although it might already feel like summer is in full swing,...",
+      "published": "Fri, 20 Jun 2025 06:00:00 GMT"
     },
     {
       "id": "edf88b1f74421db5c680594aaa6e950b",
@@ -60,6 +60,24 @@
       "published": "Wed, 18 Jun 2025 12:45:01 GMT"
     },
     {
+      "id": "be629b3b268fe634b828cf32822379d0",
+      "title": "Strange sign in earwax may predict if you'll get brain disorder that affects 10million - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/health/article-14829341/Strange-sign-earwax-predict-youll-brain-disorder-affects-10million.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/19/17/99541103-0-image-a-30_1750350751131.jpg",
+      "summary": "Thursday, Jun 19th 2025 10PM 52°F Strange sign in earwax may predict if you'll get brain disorder that affects 10million READ MORE: Subtle vision change that is an 'early warning sign' of Parkinson's By CASSIDY MORRISON SENIOR HEALTH REPORTER FOR DAILYMAIL. COM PUBLISHED: 22:03 EDT, 19 June 2025 | UPDATED: 00:15 EDT, 20 June 2025 That gross, waxy stuff in...",
+      "published": "Fri, 20 Jun 2025 02:03:37 GMT"
+    },
+    {
+      "id": "d1eeb28179a9d9a1b7ceac79fa5ab5be",
+      "title": "Tens of millions living on US coast face early death as mysterious toxin invades the nation - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/sciencetech/article-14822253/millions-US-coast-early-death-mysterious-toxin.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/17/21/99469603-0-image-m-17_1750192860234.jpg",
+      "summary": "Thursday, Jun 19th 2025 10PM 52°F Tens of millions living on US coast face early death as mysterious toxin invades the nation READ MORE: Terrifying images reveal what microplastics can do to your body By CHRIS MELORE, ASSISTANT SCIENCE EDITOR FOR DAILYMAIL. COM PUBLISHED: 05:00 EDT, 18 June 2025 | UPDATED: 07:16 EDT, 18 June 2025 Living along America's coastal...",
+      "published": "Wed, 18 Jun 2025 09:00:46 GMT"
+    },
+    {
       "id": "ec68d9091624aa199ca040a8a287a05e",
       "title": "Just 1 dose of magic mushroom compound eases depression for at least 5 years in most patients, small study suggests - Live Science",
       "source": "Live Science",
@@ -69,13 +87,13 @@
       "published": "Wed, 18 Jun 2025 21:31:45 GMT"
     },
     {
-      "id": "d1eeb28179a9d9a1b7ceac79fa5ab5be",
-      "title": "Tens of millions living on US coast face early death as mysterious toxin invades the nation - Daily Mail",
-      "source": "Daily Mail",
-      "url": "https://www.dailymail.co.uk/sciencetech/article-14822253/millions-US-coast-early-death-mysterious-toxin.html",
-      "image_url": "https://i.dailymail.co.uk/1s/2025/06/17/21/99469603-0-image-m-17_1750192860234.jpg",
-      "summary": "Thursday, Jun 19th 2025 4PM 80°F Tens of millions living on US coast face early death as mysterious toxin invades the nation READ MORE: Terrifying images reveal what microplastics can do to your body By CHRIS MELORE, ASSISTANT SCIENCE EDITOR FOR DAILYMAIL. COM PUBLISHED: 05:00 EDT, 18 June 2025 | UPDATED: 07:16 EDT, 18 June 2025 Living along America's coastal...",
-      "published": "Wed, 18 Jun 2025 09:00:46 GMT"
+      "id": "69195d21c7d0596d4f0df3e326558356",
+      "title": "His custom cancer therapy is in an NIH freezer. He may not get it in time. - Yahoo",
+      "source": "Yahoo",
+      "url": "https://www.yahoo.com/news/custom-cancer-therapy-nih-freezer-152302306.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/PI77HzFiGqiNzba_rPMJZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/washington_post_articles_265/218cf37ff408a2b65734e78c236e6c44",
+      "summary": "His custom cancer therapy is in an NIH freezer. He may not get it in time. Carolyn Y. Johnson, (c) 2025 , The Washington Post Wed, June 18, 2025 at 3:23 PM UTC His custom cancer therapy is in an NIH freezer. He may not get it in time. Richard Schlueter, 56, was planting cucumbers and squash in his community...",
+      "published": "Wed, 18 Jun 2025 15:23:02 GMT"
     },
     {
       "id": "6b188f79452f3f35aa2baecfcdf7c6a1",
@@ -83,17 +101,17 @@
       "source": "New York Post",
       "url": "https://nypost.com/2025/06/19/us-news/ducks-return-to-crescent-duck-farm-on-long-island-after-losing-entire-flock-to-bird-flu/",
       "image_url": "https://nypost.com/wp-content/uploads/sites/2/2025/06/106766239.jpg?quality=75&strip=all&w=1024",
-      "summary": "Father and son dead after robbing Connecticut bank together, six-hour standoff with cops Human remains found near Taylor Swift’s mansion identified Fugitive dad Travis Decker claims he never put his girls in danger in eerie audio before alleged murders Depraved Long Island child therapist admits to sharing baby-rape porn: ‘Extremely vile and unthinkable’ Hundreds support Irish group Kneecap at UK...",
+      "summary": "Father and son dead after robbing Connecticut bank together, six-hour standoff with cops Depraved Long Island child therapist admits to sharing baby-rape porn: ‘Extremely vile and unthinkable’ Washington deputy lassos chainsaw-wielding suspect in wild video Hundreds support Irish group Kneecap at UK court terrorism hearing Gov. Hochul rips Zohran Mamdani’s proposed tax on rich, admits soaring costs are pushing New...",
       "published": "Thu, 19 Jun 2025 14:24:00 GMT"
     },
     {
-      "id": "ac1d7c01f52ba27b4d655b68629fdbf5",
-      "title": "His custom cancer therapy is in an NIH freezer. He may not get it in time. - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/science/2025/06/18/nih-cancer-therapy-delay-staff-cuts/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2MZERZMBCEEPHNFLHJQ6WM666E_size-normalized.jpg&w=1440",
-      "summary": "His custom cancer therapy is in an NIH freezer. He may not get it in time. We and our third-party partners process personal data including through the use of cookies, pixels, and other tracking technologies to provide, analyze, and improve our services; personalize your experience (including content); and personalize ads on and off the services. Learn more and manage your...",
-      "published": "Wed, 18 Jun 2025 17:00:00 GMT"
+      "id": "098de1c307e869bc822edcedcbb51a31",
+      "title": "New Genetic Link to OCD Found - Neuroscience News",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com/genetics-ocd-29292/",
+      "image_url": "https://neurosciencenews.com/files/2025/06/genetics-OCD-neuroscience.jpg",
+      "summary": "FeaturedGeneticsNeurosciencePsychology·June 18, 2025 Summary: In a groundbreaking study, researchers have linked rare “de novo” genetic mutations—copy number variants (CNVs)—to pediatric obsessive-compulsive disorder (OCD). Using whole exome sequencing on nearly 1,000 families, they found significantly more of these mutations in children with OCD than in healthy peers. The findings help explain why OCD may arise even without inherited genetic risk and...",
+      "published": "Wed, 18 Jun 2025 19:56:46 GMT"
     },
     {
       "id": "6b2fb624aef83d925baa01eca4e4b1bb",
@@ -114,13 +132,13 @@
       "published": "Wed, 18 Jun 2025 13:41:00 GMT"
     },
     {
-      "id": "098de1c307e869bc822edcedcbb51a31",
-      "title": "New Genetic Link to OCD Found - Neuroscience News",
-      "source": "Neuroscience News",
-      "url": "https://neurosciencenews.com/genetics-ocd-29292/",
-      "image_url": "https://neurosciencenews.com/files/2025/06/genetics-OCD-neuroscience.jpg",
-      "summary": "FeaturedGeneticsNeurosciencePsychology·June 18, 2025 Summary: In a groundbreaking study, researchers have linked rare “de novo” genetic mutations—copy number variants (CNVs)—to pediatric obsessive-compulsive disorder (OCD). Using whole exome sequencing on nearly 1,000 families, they found significantly more of these mutations in children with OCD than in healthy peers. The findings help explain why OCD may arise even without inherited genetic risk and...",
-      "published": "Wed, 18 Jun 2025 19:56:46 GMT"
+      "id": "c6d825dd98244aebfac831b971083831",
+      "title": "Herpes virus reshapes the human genome for its own benefit, but a single enzyme can stop it - Medical Xpress",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2025-06-herpes-virus-reshapes-human-genome.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.43.245.192 : 32eabfbe-dd21-4903-bbb2-98c3cb0b",
+      "published": "Thu, 19 Jun 2025 09:00:02 GMT"
     },
     {
       "id": "f5449202930fe1188a7309eb8231acf9",
@@ -132,24 +150,6 @@
       "published": "Wed, 18 Jun 2025 12:02:08 GMT"
     },
     {
-      "id": "c6d825dd98244aebfac831b971083831",
-      "title": "Herpes virus reshapes the human genome for its own benefit, but a single enzyme can stop it - Medical Xpress",
-      "source": "Medical Xpress",
-      "url": "https://medicalxpress.com/news/2025-06-herpes-virus-reshapes-human-genome.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.43.245.198 : 4e1d2916-b536-4d5f-bcec-160882a5",
-      "published": "Thu, 19 Jun 2025 09:00:02 GMT"
-    },
-    {
-      "id": "bb8889a967619893c355753464bafb6c",
-      "title": "New Report: U.S. drug overdose deaths rise again after hopeful decline - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/18/nx-s1-5436711/overdose-drugs-cdc",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+428/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2F49%2F170298e048958d588415c91b8420%2Fgettyimages-1242380206.jpg",
-      "summary": "New Report: U. S. drug overdose deaths rise again after hopeful decline A view of the sign of Center for Disease Control headquarters is seen in Atlanta, Georgia Nathan Posner/Anadolu Agency via Getty Images For the first time in more than a year, street drug deaths appear to be rising across the U. S. according to a new report from...",
-      "published": "Wed, 18 Jun 2025 09:00:00 GMT"
-    },
-    {
       "id": "56ebe3f0150b437818a97334db34e30a",
       "title": "Scientists Scanned the Brains of Hardcore Gooners and Found Something Ominous - Futurism",
       "source": "Futurism",
@@ -159,31 +159,31 @@
       "published": "Thu, 19 Jun 2025 16:45:42 GMT"
     },
     {
-      "id": "45209391b49ae9cbc3d9e545a8bcb03f",
-      "title": "Popular ‘miracle’ weight loss drug is causing people to lose their vision, lawsuits claim - NJ.com",
-      "source": "NJ.com",
-      "url": "https://www.nj.com/middlesex/2025/06/popular-miracle-weight-loss-drug-is-causing-people-to-lose-their-vision-lawsuits-claim.html",
-      "image_url": "https://www.nj.com/resizer/v2/KVAHOER6HBHBBDM6IC5IXB2WLA.jpg?auth=d1a1a18c3127df41de37224abb6b0c4049a9cba7ea48a95ef4472ae1f3a1fe4e&width=1280&quality=90",
-      "summary": "Summer Sale - Start Today for $1 - Expires 6/30/25 Popular ‘miracle’ weight loss drug is causing people to lose their vision, lawsuits claim Published: Jun. 19, 2025, 11:00 a. m. Both women claim they developed a serious and irreversible condition after using weight-loss drugs. (AP Photo/Amanda Andrade-Rhoades, File)AP By Anthony G. Attrino | NJ Advance Media for NJ. com...",
-      "published": "Thu, 19 Jun 2025 15:00:00 GMT"
+      "id": "66157f22078e5966cce4618be9e33773",
+      "title": "These may be the 3 most effective non-drug ways to treat knee arthritis - Yahoo",
+      "source": "Yahoo",
+      "url": "https://www.yahoo.com/lifestyle/articles/may-3-most-effective-non-180402274.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/Do3S35ngypCqwSUW2d9GeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/ce0837f0-4d21-11f0-bddf-73738f62d832",
+      "summary": "Outdoor uses for indoor cleaners Top countries Americans move to These may be the 3 most effective non-drug ways to treat knee arthritis Wed, June 18, 2025 at 6:04 PM UTC Physiotherapist examining patient, illustration A knee brace appears to be one of the more effective ways to treat the pain - as well as improve function and stiffness -...",
+      "published": "Wed, 18 Jun 2025 18:04:02 GMT"
     },
     {
-      "id": "5c99548254009778ec80ebb037cf0409",
-      "title": "Vaccine RCT spreadsheet aims to show the data, dispel myths about vaccines - CIDRAP",
-      "source": "CIDRAP",
-      "url": "https://www.cidrap.umn.edu/adult-non-flu-vaccines/vaccine-rct-spreadsheet-aims-show-data-dispel-myths-about-vaccines",
-      "image_url": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/iStock-2185805651.jpg?itok=2RYUOtxH",
-      "summary": "Vaccine RCT spreadsheet aims to show the data, dispel myths about vaccines Adult (non-flu) Vaccines COVID-19 Public Health Since late April, an infectious diseases specialist at Stanford University and his colleagues have been volunteering their time on a project they hope will help educate the public, and combat misinformation, about the safety and efficacy vaccines. The project, led by Jake...",
-      "published": "Wed, 18 Jun 2025 17:39:45 GMT"
+      "id": "01456a8100a4d0e007a33e51d7a6786e",
+      "title": "Science Says This Workout Can Make Your Body 8 Years Younger. A Trainer Explains How To Do It - Women's Health",
+      "source": "Women's Health",
+      "url": "https://www.womenshealthmag.com/fitness/a65099004/strength-training-8-years-younger-study-longevity/",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/young-woman-lifting-dumbbells-during-workout-in-a-royalty-free-image-1750241905.pjpeg?crop=1.00xw:0.752xh;0,0.0817xh&resize=1200:*",
+      "summary": "Strength Training Can Make Your Body Eight Years Younger, Study Finds. A Trainer Explains How To Start It may “limit disease and slow the aging of cells. ” By Korin MillerPublished: Jun 18, 2025 6:25 AM EDT Women's Health may earn commission from the links on this page, but we only feature products we believe in. Why Trust Us? For...",
+      "published": "Wed, 18 Jun 2025 10:25:00 GMT"
     },
     {
-      "id": "c5eda23ba84aa23af0c7fd7ea1828c1e",
-      "title": "Scientists find a built-in 'memory janitor' that helps your brain forget some things on purpose - Earth.com",
-      "source": "Earth.com",
-      "url": "https://www.earth.com/news/built-in-memory-janitor-helps-your-brain-forget-some-things-on-purpose/",
-      "image_url": "https://cff2.earth.com/uploads/2025/06/19090422/brain_mind_memory-janitor_humans_1m.jpg",
-      "summary": "Scientists find a built-in 'memory janitor' that helps your brain forget some things on purpose When you juggle a phone number, an address, and directions – all while driving – you will notice that stray memory details, like the jingle on the radio, try to muscle their way in and vie for space and attention in your brain. Neuroscientists have...",
-      "published": "Thu, 19 Jun 2025 15:16:57 GMT"
+      "id": "3fb56068b2d510908ec1e488c67ab546",
+      "title": "4 things everyone must know about vitamin D - Times of India",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/4-things-everyone-must-know-about-vitamin-d/articleshow/121943918.cms",
+      "image_url": "https://static.toiimg.com/thumb/msid-121943918,width-1070,height-580,imgsize-585752,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "summary": "4 Things Everyone Must Know About Vitamin D 4 things everyone must know about vitamin D TOI Lifestyle Desk / etimes. in / Updated: Jun 19, 2025, 14:22 IST Vitamin D, crucial for bone health and immunity, is often deficient globally. Gastroenterologist Dr. Manickam advises 600 IU daily for adults, achievable through sunlight and diet. He recommends 15-30 minutes of...",
+      "published": "Thu, 19 Jun 2025 03:30:00 GMT"
     }
   ]
 }
