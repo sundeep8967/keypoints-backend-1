@@ -1,10 +1,19 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-06-20 13:27:43",
+    "generation_time": "2025-06-20 19:18:31",
     "total_articles": 20
   },
   "articles": [
+    {
+      "id": "0cb847da52fcb06ab7e208b36d09f418",
+      "title": "New COVID variant ‘Nimbus’ spreading in California, causes ‘razor blade throat’ - Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/new-covid-variant-nimbus-spreading-in-california-causes-razor-blade-throat-101750403587016.html",
+      "image_url": "https://www.hindustantimes.com/ht-img/img/2025/06/20/1600x900/photo-1599493758267-c6c884c7071f_1750403721329_1750403729835.jpg",
+      "summary": "New COVID variant ‘Nimbus’ spreading in California, causes ‘razor blade throat’ | Posted by Tuhin Das Mahapatra California faces new Covid-19 threat from subvariant Nimbus, causing severe throat pain and raising concerns among health officials. COVID-19 rages on as a new threat to the state of California. According to recent reports, a deadly subvariant, NB1. 8.1 or “Nimbus,” is on...",
+      "published": "Fri, 20 Jun 2025 07:22:34 GMT"
+    },
     {
       "id": "e31ed6d1e3cb59f71965a7d627dff8c6",
       "title": "Breakthrough: FDA Approves Injection to Prevent HIV - ScienceAlert",
@@ -13,6 +22,33 @@
       "image_url": "https://www.sciencealert.com/images/2024/07/HIVParticleBeingDestroyed.jpg",
       "summary": "Breakthrough: FDA Approves Injection to Prevent HIV Computer illustration depicting destruction of HIV particle. (Kateryna Kon/Science Photo Library/Getty Images) The US Food and Drug Administration on Wednesday approved Gilead Sciences' twice-yearly injection to prevent HIV – a move the company hailed as a major breakthrough in the fight against the sexually transmitted virus. Drugs to prevent HIV transmission, known as...",
       "published": "Thu, 19 Jun 2025 05:03:02 GMT"
+    },
+    {
+      "id": "4e71014fe0c71855e5f7c210cd518348",
+      "title": "Doctors issue warning as common sleep habit is linked to risk of early death in major study - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaDFLLWM2RnpHMi1tUU15Q21sOWtZOHZmSnJHSHZvT2tnd0JaU0phOUw5TFNNbkZUWFYzc2VnOTQ1UFNybXJDU1Q5S0hJVjhrdjZ3TFg1QjNDcGN0VkJaVS1aVGpQaUM3VnFVNUNkdVNHUDE2ZzJCaHVwenQ1UWVsWlJtVi1QNEhCekZMY1haRmhXMUJXcjc4Yi1QVHNvSkXSAaQBQVVfeXFMTk9VU0ozalY1eURtbnUtTXZSc0xTeTRYaHA1Q3o5WXRKWUxLSmtpSDF4S0RvNDc5a2Q0TTZEcmREaDZqOVRHcnFoUVhyRVg3MU1STWhqcXZCUEp0dmVsM2E3M0FDQ2d1ZGxlc3BNUW5tSlpSSGtvWHBLaVIyZG1STHhEUWxxV210bERZU3FVcTlQZ1pWNmhlZUNqTHE5czdPdjdiOFQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 20 Jun 2025 12:45:18 GMT"
+    },
+    {
+      "id": "f2656eff63941c01fbcec9e0f295b9ef",
+      "title": "Marijuana’s links to heart attack and stroke are becoming clearer - The Seattle Times",
+      "source": "The Seattle Times",
+      "url": "https://www.seattletimes.com/nation-world/marijuanas-links-to-heart-attack-and-stroke-are-becoming-clearer/",
+      "image_url": "https://images.seattletimes.com/wp-content/uploads/2025/06/kzTzMdQp.jpg?d=1200x630",
+      "summary": "Marijuana’s links to heart attack and stroke are becoming clearer Cannabis samples a shop in Boulder, Colo. While most Americans consider marijuana safe, new research published in June 2025 finds that use of the drug is associated with a higher risk of stroke and heart attack, including among younger adults. (Joanna Kulesza/The New York Times, 2024) Cannabis samples a shop...",
+      "published": "Fri, 20 Jun 2025 00:29:06 GMT"
+    },
+    {
+      "id": "7a0907443646e6f31d8f0bc4f1b3a533",
+      "title": "Tylenol doesn't work the way we thought it does - Live Science",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/health/we-may-finally-know-how-tylenol-works-and-its-not-how-we-thought",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tGgzRhSnhe63VX4GE68VfM.jpg",
+      "summary": "Vera C. Rubin Observatory pictures We may finally know how Tylenol works — and it's not how we thought By Clarissa Brincat published yesterday According to a new study in rats, a key byproduct of acetaminophen, called AM404, may block pain at the source before it has a chance to reach the brain. When you purchase through links on our...",
+      "published": "Thu, 19 Jun 2025 16:52:00 GMT"
     },
     {
       "id": "aeefe139d68c40330ab58460fe9b56d2",
@@ -24,22 +60,31 @@
       "published": "Thu, 19 Jun 2025 19:57:59 GMT"
     },
     {
-      "id": "f2656eff63941c01fbcec9e0f295b9ef",
-      "title": "Marijuana’s links to heart attack and stroke are becoming clearer - The Seattle Times",
-      "source": "The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3hEdEdUeTk0dUN6OUc5dVFLQlRaVi1XYzh5Sk9Cb3pRNm91YWZCaEd1TEJ6dlJyUGJsMkUxQ2d2dlo3a2l0QVl1dXBidXZoNi1kX3dkZlVSWHRaOTlyNGFiWkEwYnQ4Rl9wUXhaNEhlTDJKTGJ0VFBEbFE1ZWQ0a2RUXzBUTE9oRFpPWFdoZ3Vxcmh0VFJaWVFKeHRoOTkxd0Fxb01GUnlmSFk?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "id": "86c0a8ec47f2e6fcc1e043e5780cad38",
+      "title": "The Wegovy effect: A new drug reshapes the lives of teens with obesity - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/investigates/special-report/health-obesity-teens/",
+      "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 00:29:06 GMT"
+      "published": "Fri, 20 Jun 2025 11:00:00 GMT"
     },
     {
-      "id": "d4d97587ccccee27d3391599971d1bbf",
-      "title": "What to know about COVID variant NB.1.8.1 causing 'razor blade throat' - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Health/covid-variant-nb181-causing-razor-blade-throat/story?id=123004186",
-      "image_url": "https://s.abcnews.com/images/US/omicron-covid-variant-3d-model-tracking-01-gty-llr-211201_1638401833572_hpMain_16x9_992.jpg?w=1600",
-      "summary": "What to know about COVID variant NB. 1.8.1 causing 'razor blade throat' NB 1. 8.1 is allegedly causing more painful sore throats in some patients. What to know about new COVID variant NB. 1.8.1 causing 'razor blade throat'As of the week ending June 7, NB. 1.8.1 is the second most dominant variant in the U. S., accounting for an estimated...",
-      "published": "Thu, 19 Jun 2025 21:39:27 GMT"
+      "id": "ce3e63899c61a2e723082f86c1c06085",
+      "title": "Man in his 20s went for simple neck adjustment at chiropractor and ended up with LOCKED-IN syndrome - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUlENVNwWWk4ZVpKWEstLVhLZGtfR25IcHd0UlpoZjR2UXVWam1vQkxJSjRLZHJNNFkzUXktcGRVWWpZanFUQktTY0toaFFnZ0QxeFFuZlBtZDg2cnZtY1pNTmY0MGVKLW51c1pYY05JQVM5ckU3bktyRmlEb3RVZlhoX0I1cG9XQzB2YjlQT0tUOC14Skx5MkpLX1JpRTV4MVg4azVxd9IBrAFBVV95cUxQa3NLTWtSRlRwRjJhWXY5Ri1tUGNOelBudUU1Sk0zRTNCR0NsalhnSWlfai10NGRQcUxLT0t6aEw4bmh3QjhuVC00QUZkTzM4RWUyTFRrYmhLUlJPbnE5cDlRdkowNE5ocjJmOEJVSldLeGJteEV5NGlHamwtRWpsM1Rva09LUG5BOXpWV1hRZC02MVVJdW1WSGZMcDI5RW9xOHc5SGR0enBORWNL?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 19 Jun 2025 20:03:05 GMT"
+    },
+    {
+      "id": "ddf22cd0252c5c26f9958336f38eda73",
+      "title": "40-year-old man dies of cancer after doctors told him stomach ache was due to stress | Trending - Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/trending/40yearold-man-dies-of-cancer-after-doctors-told-him-stomach-ache-was-due-to-stress-101750415730568.html",
+      "image_url": "https://www.hindustantimes.com/ht-img/img/2025/06/20/1600x900/stomach_ache_1750416253229_1750416253419.jpg",
+      "summary": "40-year-old man dies of cancer after doctors told him stomach ache was due to stress Kyle Ingram-Baldwin, a 40-year-old father, died from advanced bowel cancer after ignoring abdominal pain for a month, believing it was stress. A 40-year-old father of four in the UK died from bowel cancer just eight months after he began experiencing stomach pain, which he initially...",
+      "published": "Fri, 20 Jun 2025 10:48:57 GMT"
     },
     {
       "id": "2feefa013d9a26b15991f0440b924d6d",
@@ -47,17 +92,8 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/jun/20/us-pandemic-preparedness-dramatically-eroding-trump",
       "image_url": "https://i.guim.co.uk/img/media/01843f913eeac40a6204c0007036b485f879a4ac/340_0_2000_1601/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02105d95868bd6b2076d9bf7cfa45b9c",
-      "summary": "Fund the free press with $15 per month A person passes a storefront with a sign posted that masks are required on Oak Street in Copiague, New York, on 18 May 2022. Photograph: Newsday LLC/Newsday/Getty Images Pandemic preparedness ‘dramatically eroding’ under Trump, experts say With misinformation and murky details on bird flu and measles outbreaks, experts worry about the next...",
+      "summary": "Fund the free press with $5 per month A person passes a storefront with a sign posted that masks are required on Oak Street in Copiague, New York, on 18 May 2022. Photograph: Newsday LLC/Newsday/Getty Images Pandemic preparedness ‘dramatically eroding’ under Trump, experts say With misinformation and murky details on bird flu and measles outbreaks, experts worry about the next...",
       "published": "Fri, 20 Jun 2025 11:00:00 GMT"
-    },
-    {
-      "id": "d9d23cd085856249f04862d008209fd4",
-      "title": "Vitamin D, a longevity test and lonely environments: The week in Well+Being - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/wellness/2025/06/19/vitamin-d-logevity-test-lonely-environment/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VC7H7TAS3FGC5FDIEM63A4YW2Y.jpg&w=1440",
-      "summary": "Vitamin D, a longevity test and lonely environments: The week in Well+Being Plus, do you really have to wait 30 minutes post-meal before swimming? (Abbey Lossing for The Washington Post) You are reading our weekly Well+Being newsletter. Sign up here to get it delivered to your inbox every Thursday. Although it might already feel like summer is in full swing,...",
-      "published": "Fri, 20 Jun 2025 06:00:00 GMT"
     },
     {
       "id": "1e59742a72bb482345307e4255c3f800",
@@ -66,34 +102,7 @@
       "url": "https://www.washingtonpost.com/travel/2025/06/18/ozempic-luxury-wellness-retreat/",
       "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JGGXOHKBFBAA7O2ISEDALGUVUI.jpg&w=1440",
       "summary": "The Ozempic era is forcing wellness retreats for the elite to change Attendees might be looking to wean off weight-loss drugs or mitigate side effects such as digestive discomfort and muscle loss. (Illustration by Nada Hayek for The Washington Post) It was 3 p. m., and already Mitra Mechanic had completed a yoga class and a four-hour guided hike. Peeling...",
-      "published": "Fri, 20 Jun 2025 11:30:39 GMT"
-    },
-    {
-      "id": "7e4edd9e3eb4c2361c2e565823afa1d1",
-      "title": "Kids Are in Crisis. Could Chatbot Therapy Help? - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/20/magazine/ai-chatbot-therapy.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 09:00:38 GMT"
-    },
-    {
-      "id": "803b069c09cc6e5ade5ed8a3b5c1cf35",
-      "title": "Girl dies in food poisoning outbreak in northern France - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cql0rd407zwo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6530/live/7b388590-4db0-11f0-84e5-a32bf281c393.jpg",
-      "summary": "Girl dies in food poisoning outbreak in northern France Eight children have been admitted to hospital since the outbreak emerged (file pic) A 12-year-old girl has died and seven other children have been taken to hospital in an outbreak of severe food poisoning centred around a northern French town. Symptoms began to emerge on 12 June in and around Saint-Quentin,...",
-      "published": "Fri, 20 Jun 2025 08:58:24 GMT"
-    },
-    {
-      "id": "7a0907443646e6f31d8f0bc4f1b3a533",
-      "title": "Tylenol doesn't work the way we thought it does - Live Science",
-      "source": "Live Science",
-      "url": "https://www.livescience.com/health/we-may-finally-know-how-tylenol-works-and-its-not-how-we-thought",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/tGgzRhSnhe63VX4GE68VfM.jpg",
-      "summary": "Vera C. Rubin Observatory pictures We may finally know how Tylenol works — and it's not how we thought By Clarissa Brincat published 21 hours ago According to a new study in rats, a key byproduct of acetaminophen, called AM404, may block pain at the source before it has a chance to reach the brain. When you purchase through links...",
-      "published": "Thu, 19 Jun 2025 16:52:00 GMT"
+      "published": "Fri, 20 Jun 2025 17:00:07 GMT"
     },
     {
       "id": "627bb789289b46ce8fe64c1f5a8965d9",
@@ -105,22 +114,67 @@
       "published": "Fri, 20 Jun 2025 05:56:05 GMT"
     },
     {
-      "id": "9161ee98afb10345d36595e3d36933c3",
-      "title": "Cancer could be detected 3 years before symptoms appear with a simple blood test; new study reveals - Times of India",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/cancer-could-be-detected-3-years-before-symptoms-appear-with-a-simple-blood-test-new-study-reveals/articleshow/121968662.cms",
-      "image_url": "https://static.toiimg.com/thumb/msid-121969193,width-1070,height-580,imgsize-34934,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "summary": "Cancer Could Be Detected 3 Years Before Symptoms Appear With A Simple Blood Test; New Study Reveals Cancer could be detected 3 years before symptoms appear with a simple blood test; new study reveals TOI Lifestyle Desk / etimes. in / Jun 20, 2025, 12:22 IST Researchers at Johns Hopkins University have made a significant stride in early cancer detection.",
-      "published": "Fri, 20 Jun 2025 06:52:00 GMT"
+      "id": "f8a83e8d73157eee599e3a231de4bd2e",
+      "title": "Man’s health crashes after getting donated kidney—it was riddled with worms - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2025/06/mans-health-crashes-after-getting-donated-kidney-it-was-riddled-with-worms/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-179793196-1152x648.jpeg",
+      "summary": "Man’s health crashes after getting donated kidney—it was riddled with worms Rare cases like this have led to changes in organ screening protocols. A Strongyloides filariform larva. Credit: Getty | BSIP About two months after receiving a donated kidney, a 61-year-old man ended up back in the hospital. He was tired, nauseous, and vomiting. He was also excessively thirsty and...",
+      "published": "Fri, 20 Jun 2025 17:17:02 GMT"
     },
     {
-      "id": "6b2fb624aef83d925baa01eca4e4b1bb",
-      "title": "Early dementia symptom 'often' includes 2 noticeable changes – not memory loss - Surrey Live",
-      "source": "Surrey Live",
-      "url": "https://www.getsurrey.co.uk/news/health/dementia-alzheimers-symptoms-mood-changes-31888670",
-      "image_url": "https://i2-prod.getsurrey.co.uk/incoming/article31888781.ece/ALTERNATES/s1200/0_gettyimages-1915738426-612x612.jpg",
-      "summary": "Early dementia symptom 'often' includes 2 noticeable changes – not memory loss While many are aware of memory problems as a sign of dementia, there's another early symptom of the disease to be mindful of. ByChanelle GeorginaSenior Audience Writer Enter your postcode for local news and info Dementia symptoms progressively become more noticeable In the earliest stages of Alzheimer's disease...",
-      "published": "Thu, 19 Jun 2025 09:38:00 GMT"
+      "id": "c6d825dd98244aebfac831b971083831",
+      "title": "Herpes virus reshapes the human genome for its own benefit, but a single enzyme can stop it - Medical Xpress",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2025-06-herpes-virus-reshapes-human-genome.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.161.62.65 : ba0d5f00-0f44-45be-9043-8fcaf609",
+      "published": "Thu, 19 Jun 2025 09:00:02 GMT"
+    },
+    {
+      "id": "d9d23cd085856249f04862d008209fd4",
+      "title": "Vitamin D, a longevity test and lonely environments: The week in Well+Being - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/wellness/2025/06/19/vitamin-d-logevity-test-lonely-environment/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VC7H7TAS3FGC5FDIEM63A4YW2Y.jpg&w=1440",
+      "summary": "Vitamin D, a longevity test and lonely environments: The week in Well+Being Plus, do you really have to wait 30 minutes post-meal before swimming? (Abbey Lossing for The Washington Post) You are reading our weekly Well+Being newsletter. Sign up here to get it delivered to your inbox every Thursday. Although it might already feel like summer is in full swing,...",
+      "published": "Fri, 20 Jun 2025 06:00:00 GMT"
+    },
+    {
+      "id": "7e4edd9e3eb4c2361c2e565823afa1d1",
+      "title": "Kids Are in Crisis. Could Chatbot Therapy Help? - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/20/magazine/ai-chatbot-therapy.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 20 Jun 2025 09:00:38 GMT"
+    },
+    {
+      "id": "775b187ed99f6f21e536815d0e012537",
+      "title": "Two butchers closed after girl dies in French food poisoning outbreak - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cql0rd407zwo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6530/live/7b388590-4db0-11f0-84e5-a32bf281c393.jpg",
+      "summary": "Two butchers closed after girl dies in French food poisoning outbreak Eight children have been admitted to hospital since the outbreak emerged (file pic) A 12-year-old girl has died and seven other children have been taken to hospital in an outbreak of severe food poisoning centred around a northern French town. Symptoms began to emerge on 12 June in and...",
+      "published": "Fri, 20 Jun 2025 08:58:24 GMT"
+    },
+    {
+      "id": "05e568893bb205bd4eb27967342e9e99",
+      "title": "Troubling Case Links Vaping to Aggressive Lung Cancer - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/troubling-case-links-vaping-to-aggressive-lung-cancer-2000617491",
+      "image_url": "https://gizmodo.com/app/uploads/2025/06/vapes-1200x675.jpg",
+      "summary": "Troubling Case Links Vaping to Aggressive Lung Cancer A New Jersey man's unusual lung cancer may have been sparked by his decade-plus history of vaping. Published June 20, 2025 | Comments (26) | Two vaping devices. © xyfen via Shutterstock Vaping might be safer than cigarette smoking, but they carry their own health risks. A New Jersey man’s electronic cigarette...",
+      "published": "Fri, 20 Jun 2025 14:20:47 GMT"
+    },
+    {
+      "id": "a501a00ada7f6f11e7fb6eb0640ce893",
+      "title": "‘Stronger’ and ‘On Muscle’: What Goes to Work When We Work Out - WSJ",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/arts-culture/books/stronger-and-on-muscle-what-goes-to-work-when-we-work-out-6898deb9",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 20 Jun 2025 15:11:00 GMT"
     },
     {
       "id": "ec68d9091624aa199ca040a8a287a05e",
@@ -130,60 +184,6 @@
       "image_url": "https://cdn.mos.cms.futurecdn.net/zpjpV9CguFXkFSbyCNDf5n.jpg",
       "summary": "World's first 'robot boxing tournament' 1 psychedelic psilocybin dose eases depression for years, study reveals By Jane Palmer published 2 days ago Half a decade after receiving a psychedelic treatment for depression, two-thirds of patients in a new study remained in remission. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.",
       "published": "Wed, 18 Jun 2025 21:31:45 GMT"
-    },
-    {
-      "id": "c6d825dd98244aebfac831b971083831",
-      "title": "Herpes virus reshapes the human genome for its own benefit, but a single enzyme can stop it - Medical Xpress",
-      "source": "Medical Xpress",
-      "url": "https://medicalxpress.com/news/2025-06-herpes-virus-reshapes-human-genome.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.25.193.196 : 9efd2b97-5d84-439d-a281-4d3a3664",
-      "published": "Thu, 19 Jun 2025 09:00:02 GMT"
-    },
-    {
-      "id": "098de1c307e869bc822edcedcbb51a31",
-      "title": "New Genetic Link to OCD Found - Neuroscience News",
-      "source": "Neuroscience News",
-      "url": "https://neurosciencenews.com/genetics-ocd-29292/",
-      "image_url": "https://neurosciencenews.com/files/2025/06/genetics-OCD-neuroscience.jpg",
-      "summary": "FeaturedGeneticsNeurosciencePsychology·June 18, 2025 Summary: In a groundbreaking study, researchers have linked rare “de novo” genetic mutations—copy number variants (CNVs)—to pediatric obsessive-compulsive disorder (OCD). Using whole exome sequencing on nearly 1,000 families, they found significantly more of these mutations in children with OCD than in healthy peers. The findings help explain why OCD may arise even without inherited genetic risk and...",
-      "published": "Wed, 18 Jun 2025 19:56:46 GMT"
-    },
-    {
-      "id": "ac1d7c01f52ba27b4d655b68629fdbf5",
-      "title": "His custom cancer therapy is in an NIH freezer. He may not get it in time. - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/science/2025/06/18/nih-cancer-therapy-delay-staff-cuts/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2MZERZMBCEEPHNFLHJQ6WM666E_size-normalized.jpg&w=1440",
-      "summary": "His custom cancer therapy is in an NIH freezer. He may not get it in time. How a metastatic cancer patient became collateral damage in federal workforce cuts. Richard and Michelle Schlueter with their dog Irish at their home in the Atlanta suburbs. (Audra Melton/For The Washington Post) Richard Schlueter, 56, was planting cucumbers and squash in his community garden...",
-      "published": "Wed, 18 Jun 2025 17:00:00 GMT"
-    },
-    {
-      "id": "90415ee4e15964600ddba2a5e0e294da",
-      "title": "Rats in Boston are spreading a potentially deadly disease, research says - The Boston Globe",
-      "source": "The Boston Globe",
-      "url": "https://www.bostonglobe.com/2025/06/20/metro/rats-boston-disease-leptospirosis-tufts/",
-      "image_url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/46YCNGHNAOUUKW7XIZLGRKL4XE.jpg?auth=b6256010329430ad4ff9a777cb2479d2d0c57891b3c9bcc4b07c43ea94925ac0&width=1440",
-      "summary": "Rats in Boston are spreading a potentially deadly disease, research says logo-white Created with Sketch. You've Been Selected for Our Best Offer Get the news you need, anytime and anywhere. Limited-time offer. Cancel anytime. Already a subscriber? Log in | Home",
-      "published": "Fri, 20 Jun 2025 04:47:00 GMT"
-    },
-    {
-      "id": "16811c96e3232c74a36539a723e9fe69",
-      "title": "Anti-ageing drug rapamycin may extend life almost as effectively as restricting calories – our new research - The Conversation",
-      "source": "The Conversation",
-      "url": "https://theconversation.com/anti-ageing-drug-rapamycin-may-extend-life-almost-as-effectively-as-restricting-calories-our-new-research-259169",
-      "image_url": "https://images.theconversation.com/files/675121/original/file-20250618-62-tb5vja.jpg?ixlib=rb-4.1.0&rect=0%2C730%2C5360%2C2680&q=45&auto=format&w=1356&h=668&fit=crop",
-      "summary": "There’s a better way. Africa Studio/Shutterstock Anti-ageing drug rapamycin may extend life almost as effectively as restricting calories – our new research Published: June 19, 2025 4:06am EDT Post Doctoral Research Fellow, School of Biological Sciences, University of East Anglia Dr. Zahida Sultanova works for the University of East Anglia and is funded by the Leverhulme Trust. She is a...",
-      "published": "Thu, 19 Jun 2025 08:06:33 GMT"
-    },
-    {
-      "id": "b95d27d4a2ab00220831fc50dbf9e1bc",
-      "title": "Experts pinpoint simple mindset change that could slash the risk of early dementia - Daily Mail",
-      "source": "Daily Mail",
-      "url": "https://www.dailymail.co.uk/health/article-14824985/Staying-positive-slashes-risk-memory-loss.html",
-      "image_url": "https://i.dailymail.co.uk/1s/2025/06/18/16/99497987-0-image-a-10_1750259294115.jpg",
-      "summary": "Experts pinpoint simple mindset change that could slash the risk of early dementia READ MORE:  Is your memory loss usual for your age. .. or a sign of dementia? By SHAUN WOOLLER HEALTH EDITOR FOR THE DAILY MAIL PUBLISHED: 02:33 EDT, 19 June 2025 | UPDATED: 08:21 EDT, 19 June 2025 Staying positive can cut the risk of memory loss...",
-      "published": "Thu, 19 Jun 2025 06:33:04 GMT"
     }
   ]
 }
