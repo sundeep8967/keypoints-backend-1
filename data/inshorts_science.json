@@ -1,27 +1,18 @@
 {
   "metadata": {
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-20 21:44:43",
+    "generation_time": "2025-06-21 03:35:25",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "168d1461643f781df473abc34adbad8e",
-      "title": "At Chile’s Vera Rubin Observatory, Earth’s Largest Camera Surveys the Sky - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/interactive/2025/06/19/science/rubin-observatory-camera.html",
-      "image_url": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-19-rubin-observatory-index/2025-06-19-rubin-observatory-index-facebookJumbo.jpg",
-      "summary": "Earth’s Largest Camera Takes 3 Billion-Pixel Images of the Night Sky By Jonathan Corum and Kenneth Chang Photographs by Marcos Zegers June 19, 2025 At the heart of the new Vera C. Rubin Observatory in Chile is the world’s largest digital camera. About the size of a small car, it will create an unparalleled map of the night sky. The...",
-      "published": "Thu, 19 Jun 2025 14:54:51 GMT"
-    },
-    {
-      "id": "23d4be5358fc29ac70ebf5eebc66f803",
-      "title": "The ocean is changing colors, researchers say. Here's what it means. - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/ocean-changing-colors-researchers-means/story?id=122927595",
-      "image_url": "https://i.abcnewsfe.com/a/18a35c61-3e23-46ea-aeac-b8e754832568/ocean-1-gty-er-250618_1750278662502_hpMain_16x9.jpg?w=1600",
-      "summary": "The ocean is changing colors, researchers say. Here's what it means. Ocean waters toward the poles and the equator are now different hues. The ocean is changing colors, researchers say. Here's what it means. Warming waters are causing the colors of the ocean to change -- a trend that could impact humans if it were to continue, according to new...",
-      "published": "Thu, 19 Jun 2025 18:09:49 GMT"
+      "id": "ee51328c84a08fe0e352468179310912",
+      "title": "1st images from the Vera C Rubin Observatory will drop on June 23. Here's why that's such a big deal - Space",
+      "source": "Space",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdFZOTm04ZTQ1ZkhnMjFkeGkxb0NrZXNLN1dlOHNya0JIbnF1OXJMUWRhQVk2aDRSQmhyN1d4bXVmRTdhQklTSHhZeTlpT2drM2hPNWxOUjBVVFpULThVVEhrS0locmJaOExmVk02eE9UdGxQQjJCZDFRcW1aOEt0eXFETXBsc1VHVWFscDJCajlzU3MtZDFEaDFGZ01JNmlaa3BwRC1Fc2JyNXVOLTJuN0hscW03V1lObmljdnpKeDdSeHBhWlJGNlVMeVZ0QQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 20 Jun 2025 18:00:00 GMT"
     },
     {
       "id": "761cf9fa4e6ccec468d78c64ba9016c8",
@@ -33,67 +24,40 @@
       "published": "Thu, 19 Jun 2025 13:01:21 GMT"
     },
     {
-      "id": "2f818da06862436c4498e6cfaa095638",
-      "title": "After Resilience’s moon landing attempt, why openness is key to the lunar economy - SpaceNews",
-      "source": "SpaceNews",
-      "url": "https://spacenews.com/after-resiliences-moon-landing-attempt-why-openness-is-key-to-the-lunar-economy/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/resilienceandtenacious.jpeg?fit=1920%2C1080&quality=89&ssl=1",
-      "summary": "Covering the business and politics of space After Resilience’s moon landing attempt, why openness is key to the lunar economy An illustration of ispace's Resilience lunar lander and its Tenacious lunar rover. Credit: ispace Last week, I looked at the faces of our guests at our moon landing event and watched as awe, wonder and hopefulness transformed into disappointment. Moments...",
-      "published": "Thu, 19 Jun 2025 11:00:00 GMT"
-    },
-    {
-      "id": "89da2e5f163a144df3c6fce3328026e2",
-      "title": "Powerful X-class solar flare erupts from sun, knocking out radio signals across the Pacific (video) - Space",
-      "source": "Space",
-      "url": "https://www.space.com/astronomy/sun/powerful-x-class-solar-flare-erupts-from-sun-knocking-out-radio-signals-across-the-pacific-video",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/zRZ6kGssWktrZTvpcJ7qiU.jpg",
-      "summary": "Powerful X-class solar flare erupts from sun, knocking out radio signals across the Pacific (video) By Daisy Dobrijevic published 10 hours ago Sunspot region 4114 has done it again! This time unleashing a colossal X1. 9 solar flare. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Click here for more...",
-      "published": "Fri, 20 Jun 2025 11:51:20 GMT"
-    },
-    {
-      "id": "95ee5fcff9f477720d2502791db8db71",
-      "title": "Hey aliens, here’s our new album! How do you follow up a 50-year-old record that’s hurtling through space? - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2025/jun/20/aliens-new-album-golden-record-space-voyager-chuck-berry",
-      "image_url": "https://i.guim.co.uk/img/media/429697a08c49969a53b907131bcfa972697880a3/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c024d717a4a38c0be00c96bd054aa291",
-      "summary": "Fund the free press with $15 per month Greetings from Earth … the record could make contact in 40,000 years. Photograph: Science & Society Picture Librar/SSPL/Getty Images Hey aliens, here’s our new album! How do you follow up a 50-year-old record that’s hurtling through space? The Golden Record – launched in 1977 on the Voyager space probes – contained everything...",
-      "published": "Fri, 20 Jun 2025 10:53:00 GMT"
-    },
-    {
-      "id": "c8174c239699cffd6e72fed05206226f",
-      "title": "Meet the bug that uses the stars to navigate hundreds of miles - AP News",
+      "id": "568c16c88752579354e12023325bbdab",
+      "title": "NASA spacecraft around the moon photographs the crash site of a Japanese company's lunar lander - AP News",
       "source": "AP News",
-      "url": "https://apnews.com/article/bogong-moth-navigation-stars-australia-63e4e1349e3875a93cbd205b5d4983a5",
+      "url": "https://apnews.com/article/ispace-lunar-lander-moon-99765029f85bae58a15fd2231706ec86",
       "image_url": "https://apnews.com/favicon.ico",
       "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 18 Jun 2025 19:08:00 GMT"
+      "published": "Fri, 20 Jun 2025 17:52:00 GMT"
     },
     {
-      "id": "b1636948a8e225e9108971350edf2c77",
-      "title": "ESA signs agreement for potential use of Orbital Reef - SpaceNews",
-      "source": "SpaceNews",
-      "url": "https://spacenews.com/esa-signs-agreement-for-potential-use-of-orbital-reef/",
-      "image_url": "https://spacenews.com/wp-content/uploads/2022/04/Orbital-Reef_FullColor_ExternalHD-scaled.jpeg",
-      "summary": "Covering the business and politics of space ESA signs agreement for potential use of Orbital Reef Blue Origin and Sierra Space announced Orbital Reef in October 2021 as part of a partnership with Boeing, Redwire Space and several other companies and organizations. The station will ultimately feature a series of laboratory and habitation modules. PARIS — The European Space Agency...",
-      "published": "Fri, 20 Jun 2025 11:22:21 GMT"
+      "id": "2a430c338f2fc28a5062cf82f633e8f3",
+      "title": "Scientists say a tiny brown moth navigates 600 miles using stars — just like humans and birds - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/20/science/bogong-moth-star-navigation",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/bogong-moth.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Scientists say a tiny brown moth navigates 600 miles using stars — just like humans and birds Published 12:46 PM EDT, Fri June 20, 2025 The nocturnal Bogong moth makes an epic journey to cool caves in the Australian Alps, a study found. Ajay Narendra (CNN) — Each year, a tiny species in Australia makes a grueling 620-mile (1,000-kilometer) nighttime...",
+      "published": "Fri, 20 Jun 2025 16:46:00 GMT"
     },
     {
-      "id": "71da5a1f55633880413c8b033a8f1358",
-      "title": "The Moon’s Next Big Secret Revealed: Firefly’s Ocula Will Expose Unseen Lunar Details! - The Daily Galaxy",
-      "source": "The Daily Galaxy",
-      "url": "https://dailygalaxy.com/2025/06/fireflys-ocula-expose-unseen-lunar-details/",
-      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/The-Moons-Next-Big-Secret-Revealed-Fireflys-Ocula-Will-Expose-Unseen-Lunar-Details.jpg",
-      "summary": "The Moon’s Next Big Secret Revealed: Firefly’s Ocula Will Expose Unseen Lunar Details! Firefly Aerospace’s Ocula service, set to launch by 2026, promises to revolutionize lunar exploration. Image credit: Firefly Aerospace | The Daily Galaxy --Great Discoveries Channel Firefly Aerospace, a Texas-based aerospace company, is on track to unveil its Ocula moon-imaging service, a cutting-edge initiative that could transform the...",
-      "published": "Thu, 19 Jun 2025 15:00:00 GMT"
+      "id": "1568548abdba8ad1a89b4b14a87a4177",
+      "title": "Sea spiders found farming methane-eating microbes in cultivated biofilm - Phys.org",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2025-06-sea-spiders-farming-methane-microbes.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.25.192.6 : 197f9fca-2389-496c-b21e-9a0b14bf",
+      "published": "Fri, 20 Jun 2025 13:13:20 GMT"
     },
     {
-      "id": "544262fc8e28294a31bbc17129799484",
-      "title": "It's Official: Scientists Confirmed What's Inside Our Moon - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/its-official-scientists-confirmed-whats-inside-our-moon",
-      "image_url": "https://www.sciencealert.com/images/2023/05/moon-terminator.jpg",
-      "summary": "It's Official: Scientists Confirmed What's Inside Our Moon Earth's Moon. (Thomas Campbell/NASA) Well, the verdict is in. The Moon is not made of green cheese after all. A thorough investigation published in May 2023 found that the inner core of the Moon is, in fact, a solid ball with a density similar to that of iron. This, researchers hope, will...",
-      "published": "Fri, 20 Jun 2025 13:01:09 GMT"
+      "id": "e85769a5b5ce0079479f50f3c53ae73d",
+      "title": "Something Big Is Twisting Mercury’s Crust - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/whats-twisting-mercurys-crust-scientists-have-a-new-suspect-2000618162",
+      "image_url": "https://gizmodo.com/app/uploads/2025/06/mercury-1-1200x675.jpg",
+      "summary": "Something Big Is Twisting Mercury’s Crust As the closest planet to the Sun, Mercury is exposed to the star's enormous gravitational field. And it's really stressful. Published June 20, 2025 | Comments (10) | NASA's MESSENGER spacecraft captured Mercury's southern hemisphere during its mission between 2011 to 2015. NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington Mercury has it...",
+      "published": "Fri, 20 Jun 2025 18:00:50 GMT"
     },
     {
       "id": "a73eb5c3f0220c14ab2dc6b5e56d84fe",
@@ -105,49 +69,67 @@
       "published": "Thu, 19 Jun 2025 12:28:00 GMT"
     },
     {
-      "id": "947fb2cc992bddecbf931277c41ecd91",
-      "title": "The Earth could be soon flung out of orbit or into the sun all thanks to a passing star - The Independent",
+      "id": "95ee5fcff9f477720d2502791db8db71",
+      "title": "Hey aliens, here’s our new album! How do you follow up a 50-year-old record that’s hurtling through space? - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2025/jun/20/aliens-new-album-golden-record-space-voyager-chuck-berry",
+      "image_url": "https://i.guim.co.uk/img/media/429697a08c49969a53b907131bcfa972697880a3/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c024d717a4a38c0be00c96bd054aa291",
+      "summary": "Fund the free press with $15 per month Greetings from Earth … the record could make contact in 40,000 years. Photograph: Science & Society Picture Librar/SSPL/Getty Images Hey aliens, here’s our new album! How do you follow up a 50-year-old record that’s hurtling through space? The Golden Record – launched in 1977 on the Voyager space probes – contained everything...",
+      "published": "Fri, 20 Jun 2025 10:53:00 GMT"
+    },
+    {
+      "id": "807e65cfa8fae84ce7c5e8a02cdd8dc1",
+      "title": "Passing star could send Earth into the sun - The Independent",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/space/earth-sun-orbit-passing-star-b2772878.html",
-      "image_url": "https://static.independent.co.uk/2025/06/18/20/12/54371346378-f762763e96-o.jpeg?trim=0,158,0,157&width=1200&height=800&crop=1200:800",
-      "summary": "The Independent's journalism is supported by our readers. When you purchase through links on our site, we may earn commission. The Earth could be soon flung out of orbit or into the sun - all thanks to a passing star Either way, the sun is likely slated to consume Earth in billions of years What If Earth Had a Large...",
-      "published": "Wed, 18 Jun 2025 21:34:00 GMT"
+      "url": "https://www.independent.co.uk/bulletin/news/earth-orbit-hit-sun-star-b2773494.html",
+      "image_url": "https://static.independent.co.uk/2025/01/12/12/iStock-1365125730.jpg?width=1200&height=800&crop=1200:800",
+      "summary": "We are 8 logo (opens in a new tab) Passing star could send Earth into the sun A new study published in the journal Icarus suggests that passing field stars could cause more instability in our solar system than previously believed. Astronomers Nathan Kaib and Sean Raymond found that isolated models underestimate future orbital changes of giant planets, indicating that...",
+      "published": "Fri, 20 Jun 2025 10:42:00 GMT"
     },
     {
-      "id": "4fffc4686eac464ee2f658a23b922b9f",
-      "title": "James Webb Space Telescope discovers planets forming in space's most punishing environments - Space",
+      "id": "c4b98872fb97ac082ff4ac066696cdf0",
+      "title": "Satellite streaks block out the Arctic sky photo of the day for June 20, 2025 - Space",
       "source": "Space",
-      "url": "https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-discovers-planets-forming-in-spaces-most-punishing-environments",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/F2MxNVpXLvevdYuZ7p9EN4.jpg",
-      "summary": "James Webb Space Telescope discovers planets forming in space's most punishing environments By Victoria Corless published 12 hours ago The observations expand the range of environments where habitable worlds might emerge. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. The James Webb Space Telescope peers deep into the galaxy to...",
-      "published": "Fri, 20 Jun 2025 10:00:00 GMT"
+      "url": "https://www.space.com/astronomy/earth/satellite-streaks-block-out-canadian-skies-space-photo-of-the-day-for-june-20-2025",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fQiRut3eSaZSEB8KxNj2DB.jpg",
+      "summary": "Universe's 'missing' matter found! Satellite streaks block out the Arctic sky | Space photo of the day for June 20, 2025 By Kenna Hughes-Castleberry published 13 hours ago Researchers created a satellite tracking system to track satellite streaks across the Arctic for the first time ever. When you purchase through links on our site, we may earn an affiliate commission.",
+      "published": "Fri, 20 Jun 2025 15:00:00 GMT"
     },
     {
-      "id": "46f2e64e8f1bdfc1dabd662c7aac4096",
-      "title": "Newly Discovered Sea Spiders Have Unique Eating Habits - Newser",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/370601/new-sea-spider-species-feast-on-methane-bacteria.html",
-      "image_url": "https://img2-azrcdn.newser.com/image/1617607-12-20250619183417.jpeg",
-      "summary": "Newly Discovered Sea Spiders Have Unique Eating Habits They team up with bacteria to feed on methane Posted Jun 19, 2025 6:05 PM CDT Sea spiders aren't really spiders, or even arachnids. (Getty Images/RibeirodosSantos) Scientists have discovered three new species of sea spider off the US West Coast that appear to survive by teaming up with bacteria to feed on...",
-      "published": "Thu, 19 Jun 2025 23:05:00 GMT"
+      "id": "b1636948a8e225e9108971350edf2c77",
+      "title": "ESA signs agreement for potential use of Orbital Reef - SpaceNews",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/esa-signs-agreement-for-potential-use-of-orbital-reef/",
+      "image_url": "https://spacenews.com/wp-content/uploads/2022/04/Orbital-Reef_FullColor_ExternalHD-scaled.jpeg",
+      "summary": "Covering the business and politics of space ESA signs agreement for potential use of Orbital Reef Blue Origin and Sierra Space announced Orbital Reef in October 2021 as part of a partnership with Boeing, Redwire Space and several other companies and organizations. The station will ultimately feature a series of laboratory and habitation modules. PARIS — The European Space Agency...",
+      "published": "Fri, 20 Jun 2025 11:22:21 GMT"
     },
     {
-      "id": "4428987a21aa320a01b6f5310fa7a8fc",
-      "title": "Astronomers create a dazzling, elaborate map of nearby galaxy in thousands of colors - KSL News",
-      "source": "KSL News",
-      "url": "https://www.ksl.com/article/51331916/astronomers-create-a-dazzling-elaborate-map-of-nearby-galaxy-in-thousands-of-colors",
-      "image_url": "https://img.ksl.com/slc/3089/308989/30898951.jpg?filter=kslv2/responsive_story_lg",
-      "summary": "Astronomers create a dazzling, elaborate map of nearby galaxy in thousands of colors By Marcia Dunn, Associated Press | Updated - June 18, 2025 at 8:33 p. m. | Posted - June 18, 2025 at 8:33 p. m. This handout provided by the European Southern Observatory shows a detailed, thousand-colour image of the Sculptor Galaxy captured with the MUSE instrument...",
-      "published": "Wed, 18 Jun 2025 20:12:11 GMT"
+      "id": "51c8aae5f1a8f2f9c2ea0692a1da6a31",
+      "title": "Mysterious, Powerful Radio Pulse Traced Back To NASA Satellite That’s Been Dead Since 1967 - IFLScience",
+      "source": "IFLScience",
+      "url": "https://www.iflscience.com/mysterious-powerful-radio-pulse-traced-back-to-nasa-satellite-thats-been-dead-since-1967-79712",
+      "image_url": "https://assets.iflscience.com/assets/articleNo/79712/aImg/84646/relay-2-meta.jpg",
+      "summary": "Mysterious, Powerful Radio Pulse Traced Back To NASA Satellite That’s Been Dead Since 1967 The detection could help refine radio astronomy observations and keep spacecraft and satellites safe. Senior Staff Writer & Space Correspondent Impression of the Relay Satellite Image Credit: public domain via NH2501/Wikimedia Commons he dead speak! Humanity has heard a mysterious signal, but the origin is not...",
+      "published": "Fri, 20 Jun 2025 16:28:57 GMT"
     },
     {
-      "id": "f7960f46e8f2e848de2464b5bfc18bd2",
-      "title": "Inside the first official barefoot hiking park in the US - SFGATE",
-      "source": "SFGATE",
-      "url": "https://www.sfgate.com/national-parks/article/first-us-barefoot-hiking-park-trail-arizona-20381947.php",
-      "image_url": "https://www.sfgate.com/img/logos/black/logo.svg",
-      "summary": "Press & Hold to confirm you are Reference ID ae378aed-4e1f-11f0-ac36-fe3ff82863ca",
-      "published": "Fri, 20 Jun 2025 11:08:04 GMT"
+      "id": "2ba2a8cb5288b5b300efc109b4d957ea",
+      "title": "ESA’s Proba-3 Mission Reveals Unseen Secrets of the Sun’s Hidden Corona - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/proba-3-mission-unseen-sun-hidden-corona/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/ESAs-Proba-3-Mission-Reveals-Unseen-Secrets-of-the-Suns-Hidden-Corona.jpg",
+      "summary": "ESA’s Proba-3 Mission Reveals Unseen Secrets of the Sun’s Hidden Corona ESA’s Proba-3 mission captures unprecedented images of the Sun’s corona. Credit: ESA-P. Carril | The Daily Galaxy --Great Discoveries Channel On June 16, 2025, the European Space Agency (ESA) unveiled groundbreaking images of the Sun’s outer atmosphere, the solar corona, thanks to its Proba-3 mission. This mission achieved an...",
+      "published": "Fri, 20 Jun 2025 19:30:00 GMT"
+    },
+    {
+      "id": "1727922662b30f6aa1b33422c7600052",
+      "title": "Volcanic gold discovered in Hawaii may have come directly from Earth's core - Earth.com",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/news/volcanic-gold-precious-metals-discovered-hawaii-may-have-come-from-earths-core/",
+      "image_url": "https://cff2.earth.com/uploads/2025/05/20153416/gold_precious-metals_core-to-surface_volcano-lava-magma_1m.jpg",
+      "summary": "Volcanic gold discovered in Hawaii may have come directly from Earth's core Hidden beneath the thick crust and scorching layers deep inside our Earth lies an immense stash of precious metals. Scientists have long believed these riches, which include gold and ruthenium, remain stuck near the core-mantle boundary, a zone that is about 1,900 miles (3,000 kilometers) underground. Yet new...",
+      "published": "Fri, 20 Jun 2025 21:42:57 GMT"
     },
     {
       "id": "885bb21a815370739bff6194165118fe",
@@ -159,22 +141,22 @@
       "published": "Thu, 19 Jun 2025 00:06:36 GMT"
     },
     {
-      "id": "4715ba597d189daa1c7742cd89c6d695",
-      "title": "New dragonfish species discovered in Antarctica has survived in isolation for 780,000 years - Earth.com",
-      "source": "Earth.com",
-      "url": "https://www.earth.com/news/new-dragonfish-species-discovered-in-antarctica-survived-isolation-for-780000-years/",
-      "image_url": "https://cff2.earth.com/uploads/2025/06/19075840/dragonfish_new-species_Akarotaxis-gouldae_Akarotaxis-nudiceps_Andrew-Corso_1.jpg",
-      "summary": "New dragonfish species discovered in Antarctica has survived in isolation for 780,000 years A new species of dragonfish has surfaced from the chilly waters off the western Antarctic Peninsula, and it has a story that spans nearly a million winters. Researchers report that Akarotaxis gouldae (nicknamed the banded dragonfish) branched off from its nearest cousin some 780,000 years ago, surviving...",
-      "published": "Thu, 19 Jun 2025 14:06:41 GMT"
+      "id": "cbd6300029823a55f95f1046835135b1",
+      "title": "Ask Ethan: Is the Hubble tension a real problem? - Big Think",
+      "source": "Big Think",
+      "url": "https://bigthink.com/starts-with-a-bang/ask-ethan-hubble-tension-real/",
+      "image_url": "https://bigthink.com/wp-content/uploads/2025/06/cover_6aaace.jpg?resize=1200,630",
+      "summary": "Ask Ethan: Is the Hubble tension a real problem? Is the Universe’s expansion rate 67 km/s/Mpc, 73 km/s/Mpc, or somewhere in between? The Hubble tension is real and not so easy to resolve. The construction of a cosmic distance ladder begins with measuring the parallax of individual stars within the Milky Way and its satellites, such as Cepheids. Then we...",
+      "published": "Fri, 20 Jun 2025 06:00:00 GMT"
     },
     {
-      "id": "05ea59fff4681650c5cb4f12d2082f72",
-      "title": "In November 2026, A Human-Made Object Will Reach A Light-Day From Earth For First Time In History - IFLScience",
-      "source": "IFLScience",
-      "url": "https://www.iflscience.com/in-november-2026-a-human-made-object-will-reach-a-light-day-from-earth-for-first-time-in-history-79691",
-      "image_url": "https://assets.iflscience.com/assets/articleNo/79691/aImg/84613/pale-blue-dot-meta.png",
-      "summary": "In November 2026, A Human-Made Object Will Reach A Light-Day From Earth For First Time In History It took the spacecraft nearly five decades to get there. It takes light a day. Pale Blue Dot: The most distant image we have of Earth. Image credit: NASA/JPL-Caltech, IFLScience n late 2026, a human-made object will reach a full light-day away from...",
-      "published": "Thu, 19 Jun 2025 16:37:10 GMT"
+      "id": "ee7ede2322844c82816b65d56a4da474",
+      "title": "Scientists delve into Hells Canyon cave to solve mystery of America's deepest gorge - Live Science",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/planet-earth/geology/hells-canyon-caves-reveal-unexpected-finding-about-americas-deepest-gorge",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/nK9vedYZZNaBLGvVzREyQB.jpg",
+      "summary": "Vera C. Rubin Observatory pictures Hells Canyon caves reveal unexpected finding about America's deepest gorge By Olivia Ferrari published 12 hours ago About 2,000 feet deeper than the Grand Canyon, Hells Canyon was rapidly carved when a lake spilled over about 2. 1 million years ago, new research estimates. When you purchase through links on our site, we may earn...",
+      "published": "Fri, 20 Jun 2025 15:41:00 GMT"
     },
     {
       "id": "381469f1204a0ccd3fc717fb9f70046c",
@@ -184,6 +166,24 @@
       "image_url": "https://cdn.mos.cms.futurecdn.net/WrwvVHNDwkfz93VvZE2vYN.jpg",
       "summary": "Vera C. Rubin Observatory pictures World's first 'robot boxing tournament' A 'new star' has exploded into the night sky — and you can see it from North America By Harry Baker published yesterday The never-before-seen \"nova,\" dubbed V462 Lupi, recently appeared in the constellation Lupus, after suddenly becoming 4 million times brighter. The shining explosion is visible to the naked...",
       "published": "Thu, 19 Jun 2025 16:36:06 GMT"
+    },
+    {
+      "id": "4c93726bcda4e512b07137bc53caaf8a",
+      "title": "‘Once in a Lifetime’ Photo of ISS Crossing the Sun as Solar Flare Erupts - PetaPixel",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2025/06/20/once-in-a-lifetime-photo-of-iss-crossing-the-sun-as-solar-flare-erupts/",
+      "image_url": "https://petapixel.com/assets/uploads/2025/06/Andrew-McCarthy1.jpg",
+      "summary": "‘Once in a Lifetime’ Photo of ISS Crossing the Sun as Solar Flare Erupts The ISS crosses the Sun as a solar flare erupts just above it, Sunday June 15, 2025. | Andrew McCarthy Astrophotographer Andrew McCarthy captured a “once in a lifetime shot” on Sunday when the International Space Station (ISS) crossed the Sun just as a solar flare...",
+      "published": "Fri, 20 Jun 2025 11:25:07 GMT"
+    },
+    {
+      "id": "29aeed8d7002e21665e40d50df3d209d",
+      "title": "Astronomers Reveal Stunning Thousand-Color Photo of Nearby Galaxy - My Modern Met",
+      "source": "My Modern Met",
+      "url": "https://mymodernmet.com/eso-sculptor-galaxy-photo/",
+      "image_url": "https://mymodernmet.com/wp/wp-content/uploads/2025/06/eso-sculptor-galaxy-thumbnail.jpg",
+      "summary": "Astronomers Reveal Stunning Thousand-Color Photo of Nearby Galaxy By Jessica Stewart on June 19, 2025 MUSE view of the Sculptor Galaxy, detail. (Photo: ESO/E. Congiu et al. ) Thanks to the European Southern Observatory’s Very Large Telescope, astronomers have created a thousand-color image of a nearby galaxy. The Sculptor Galaxy, also called NGC 253, is located 11 billion light-years away...",
+      "published": "Thu, 19 Jun 2025 20:17:09 GMT"
     }
   ]
 }

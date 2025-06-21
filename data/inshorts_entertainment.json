@@ -1,54 +1,72 @@
 {
   "metadata": {
     "source_file": "data/news_entertainment.json",
-    "generation_time": "2025-06-20 22:32:11",
+    "generation_time": "2025-06-21 04:01:04",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "085e33ddbb795c673f5fdcef96f8c6a5",
-      "title": "Box Office: Danny Boyle’s ’28 Years Later’ Bites Off $5.8M in Previews, Pixar’s ‘Elio’ Takes in $3M - The Hollywood Reporter",
+      "id": "c9b0cff6fc33cd3c3e81bfe6441e08ca",
+      "title": "Box Office: Danny Boyle’s ‘28 Years Later’ Bites Off $5.8M in Previews, Pixar’s ‘Elio’ Takes in $3M - The Hollywood Reporter",
       "source": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/danny-boyle-28-years-box-office-elio-1236295773/",
       "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2025/06/28-Years-Later-Main-Comer-2025.jpg?w=1296&h=730&crop=1",
-      "summary": "The Hollywood Reporter homepage Box Office: Danny Boyle’s ’28 Years Later’ Bites Off $5. 8M in Previews, Pixar’s ‘Elio’ Takes in $3M The summer's latest two event pics took advantage of the Juneteenth holiday by starting shows earlier in the day, but they still weren't able to topple 'How to Train Your Dragon' from the top spot. Danny Boyle's zombie...",
+      "summary": "The Hollywood Reporter homepage Box Office: Danny Boyle’s ‘28 Years Later’ Bites Off $5. 8M in Previews, Pixar’s ‘Elio’ Takes in $3M The summer's latest two event pics took advantage of the Juneteenth holiday by starting shows earlier in the day, but they still weren't able to topple 'How to Train Your Dragon' from the top spot. Danny Boyle's zombie...",
       "published": "Fri, 20 Jun 2025 16:05:11 GMT"
     },
     {
-      "id": "739046bef436beff388fa1d31e0a3755",
-      "title": "How Steven Spielberg’s ‘Jaws’ Endured a Hellish Production to Become Hollywood’s First Summer Blockbuster - Variety",
-      "source": "Variety",
-      "url": "https://variety.com/2025/film/features/jaws-50th-anniversary-steven-spielberg-summer-blockbuster-1236436040/",
-      "image_url": "https://variety.com/wp-content/uploads/2025/03/Jaws-The-Exhibition-Academy-Museum.png?crop=0px%2C42px%2C1000px%2C562px&resize=1000%2C563",
-      "summary": "How Steven Spielberg’s ‘Jaws’ Endured a Hellish Production to Become Hollywood’s First Summer Blockbuster Courtesy of Margaret Herrick Library, Academy of Motion Picture Arts and Sciences For weeks, the cast and crew of “Jaws” kept hearing the same four words over their walkie-talkies while shooting the film’s climactic ocean battle. That familiar message terrified Steven Spielberg, 27 years old at...",
-      "published": "Fri, 20 Jun 2025 13:40:00 GMT"
+      "id": "2d60d51effb933ea96de7a627cb62d40",
+      "title": "A shark scientist reflects on Jaws at 50 - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2025/06/a-shark-scientist-reflects-on-jaws-at-50/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/jawsTOP-1152x648.jpg",
+      "summary": "A shark scientist reflects on Jaws at 50 Ars chats with marine biologist David Shiffman about the film's legacy—both good and bad. Roy Scheider starred as Chief Martin Brody in the 1975 blockbuster Jaws. Credit: Universal Pictures Today marks the 50th anniversary of Jaws, Steven Spielberg's blockbuster horror movie based on the bestselling novel by Peter Benchley. We're marking the...",
+      "published": "Fri, 20 Jun 2025 19:50:32 GMT"
     },
     {
-      "id": "0f3accfc7ed84d324a5c80057db707e1",
-      "title": "An ex-college basketball player testifies that Sean 'Diddy' Combs got 'extremely creative' on drugs - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/sean-combs-diddy-trial-drugs-6c359cc7ca6dd73a02ad4a308850fbc7",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Fri, 20 Jun 2025 17:00:00 GMT"
-    },
-    {
-      "id": "5f748955ad622d4e4b72e815d9050439",
-      "title": "Teresa Giudice Bails on TV Interview After Awkward Question About Taxes - TMZ",
-      "source": "TMZ",
-      "url": "https://www.tmz.com/2025/06/20/teresa-giudice-bails-on-interview-after-question-about-tax-conviction/",
-      "image_url": "https://imagez.tmz.com/image/9f/16by9/2025/06/20/9f7f210424b9448b80b153d366361c56_xl.jpg",
-      "summary": "Chris Brown Puts Hands Around Woman's Neck at Meet and Greet Keke Palmer vs. Reneé Rapp Who'd You Rather? ! (Hot In Heels Edition) Paris Hilton Drops $63 Million on Mark Wahlberg's Former Mansion Hot Bods Over 50 . .. Can You Guess The Hot Mom? ! Farrah Abraham Creates Naughty A. I. Bot Twin That Might Replace Her OnlyFans...",
-      "published": "Fri, 20 Jun 2025 17:21:30 GMT"
-    },
-    {
-      "id": "025a1e0b13516a4b837731b44c723661",
-      "title": "Venice 2025: ‘Smashing Machine’ With Dwayne Johnson, Luca Guadagnino’s ‘After the Hunt’ Starring Julia Roberts, Emma Stone and Yorgos Lanthimos’ Latest Collab Eyed for Lineup - Variety",
-      "source": "Variety",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmhNanNDb1BnY1d4cURhSE1IY3JvQkgyYWtKY3ZHMTNCYmNic1QyM29HMzY4bWRvNmIzLVB0NUZuSjNTRm9UTnVGZG15Zlk1Z3dKX1BVNmVYZVZobDJwTmRPS1NIZVhITDBVVFZFdW1DQ25uV185SGI1TENJREFIN1pXaDdVOGVkMkNBcU1jYnFSekJ5MTB5N1lJR3h2TEpiTE9tLU9kYUZSbk5LVFh6dVVrQ1NmNExCdGhR?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "id": "1f6d501d55f75a448916a2b54aefbccb",
+      "title": "Anne Burrell’s Death Is Under Investigation as a Possible Drug Overdose - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/20/dining/anne-burrell-overdose-death-investigation.html",
+      "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 12:00:00 GMT"
+      "published": "Fri, 20 Jun 2025 23:06:36 GMT"
+    },
+    {
+      "id": "cafa155ca28f9dcbaa79adbc3b18c132",
+      "title": "Sean ‘Diddy’ Combs’s trial: Brendan Paul testifies he bought drugs, set up ‘freak-offs’ - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/entertainment/music/2025/06/20/diddy-trial-updates-sean-combs-witness-testimony/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/THDZWZVITGTEZHWYHCZ3AC4TEA.JPG&w=1440",
+      "summary": "Sean ‘Diddy’ Combs’s trial: Brendan Paul testifies he bought drugs, set up ‘freak-offs’ The prosecution is close to resting its case in Sean “Diddy” Combs’s sex trafficking trial as ex-assistant Brendan Paul testifies over drugs and “freak-offs. ” Updated yesterday at 1:22 p. m. EDT Brendan Paul, a former assistant of Sean \"Diddy\" Combs, departs after testifying during Combs's sex-trafficking...",
+      "published": "Sat, 21 Jun 2025 00:22:44 GMT"
+    },
+    {
+      "id": "2c110e0db1b3cbfd575b90a13190a547",
+      "title": "Jon Bernthal’s Punisher Set for ‘Spider-Man: Brand New Day’ With Tom Holland - Variety",
+      "source": "Variety",
+      "url": "https://variety.com/2025/film/news/jon-bernthal-spider-man-brand-new-day-punisher-1236437186/",
+      "image_url": "https://variety.com/wp-content/uploads/2025/06/TCDPUNI_EC002-e1750458495191.jpg?crop=0px%2C39px%2C2234px%2C1257px&resize=1000%2C563",
+      "summary": "Jon Bernthal’s Punisher Set for ‘Spider-Man: Brand New Day’ With Tom Holland ©Netflix/Courtesy Everett Collection / Everett Collection The Punisher returns. Jon Bernthal is suiting up as the vigilante once again for “Spider-Man: Brand New Day,” Sony and Marvel’s latest web-slinging adventure. Bernthal first suited up as Punisher, aka Frank Castle, in Netflix’s 2016 series “Daredevil,” becoming a fan-favorite before...",
+      "published": "Fri, 20 Jun 2025 22:34:00 GMT"
+    },
+    {
+      "id": "51e4a6ac57161c505d0cbdfbeb235528",
+      "title": "Tom Sandoval's America's Got Talent Audition Leaves Judges in Shock - Yahoo",
+      "source": "Yahoo",
+      "url": "https://www.yahoo.com/entertainment/articles/tom-sandovals-americas-got-talent-200211219.html",
+      "image_url": "https://media.zenfs.com/en/e__181/9e981ed37825dd9070421a5937b872d7",
+      "summary": "Tom Sandoval's America's Got Talent Audition Leaves Judges in Shock Fri, June 20, 2025 at 8:02 PM UTC Tom Sandoval's America's Got Talent Audition Leaves Judges in Shock Originally appeared on E! Online Tom Sandoval is pumping up the volume on America's Got Talent. The Vanderpump Rules alum shocked fans by making his unexpected debut on the NBC reality competition...",
+      "published": "Fri, 20 Jun 2025 20:02:00 GMT"
+    },
+    {
+      "id": "444c06801df239babe35b617c776f1f8",
+      "title": "Ghibli’s midlife crisis: as beloved Japanese studio turns 40 will the magic fade? - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2025/jun/21/ghiblis-midlife-crisis-as-beloved-japanese-studio-turns-40-will-the-magic-fade",
+      "image_url": "https://i.guim.co.uk/img/media/44a19fa281e27476bbce9de58da30be542e0213b/555_0_2253_1803/master/2253.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1be8898c571d4adb7d66c58f9e1506e",
+      "summary": "Fund the free press with $5 per month Studio Ghibli, with animator Hayao Miyazaki, has produced dozens of beloved films, including Kiki’s Delivery Service, My Neighbour Totoro and Ponyo. Photograph: Ntv/Studio Ghibli/Tokuma Shoten/Kobal/Shutterstock Ghibli’s midlife crisis: as beloved Japanese studio turns 40 will the magic fade? Much of Studio Ghibli’s success is down to one man: 84-year-old Hayao Miyazaki, a...",
+      "published": "Fri, 20 Jun 2025 23:10:00 GMT"
     },
     {
       "id": "6c93b51c35eb9e8f7771451638d3722b",
@@ -60,40 +78,67 @@
       "published": "Fri, 20 Jun 2025 13:00:38 GMT"
     },
     {
-      "id": "896c79a2cfac004906d689c80b7b7d80",
-      "title": "Never Quitting ‘Brokeback Mountain’ - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/20/movies/brokeback-mountain-anniversary.html",
-      "image_url": "https://static01.nyt.com/images/2025/06/29/multimedia/29cul-brokeback-anniversary-01-tmwb/29cul-brokeback-anniversary-01-tmwb-facebookJumbo.jpg",
-      "summary": "Never Quitting ‘Brokeback Mountain’ Now 20 years old, this love story about two sheepherders is being rereleased in theaters. Here’s a look at what it meant to pop culture, then and now. Listen to this article · 6:27 min Learn more Heath Ledger and Jake Gyllenhaal in “Brokeback Mountain,” originally released in 2005. Kimberley French/Focus Features “I wish I knew...",
-      "published": "Fri, 20 Jun 2025 09:01:17 GMT"
+      "id": "9ce1e09d720182fd774a0688f95cc45a",
+      "title": "'Love Island USA' Couple Caught on Camera Doing Some Hanky-Panky - TMZ",
+      "source": "TMZ",
+      "url": "https://www.tmz.com/2025/06/20/love-island-couple-caught-on-camera-bedroom/",
+      "image_url": "https://imagez.tmz.com/image/8e/16by9/2025/06/20/8e2e37acdf7946d4bb59dbc6d628dba5_xl.jpg",
+      "summary": "Chris Brown Puts Hands Around Woman's Neck at Meet and Greet Keke Palmer vs. Reneé Rapp Who'd You Rather? ! (Hot In Heels Edition) Paris Hilton Drops $63 Million on Mark Wahlberg's Former Mansion Hot Bods Over 50 . .. Can You Guess The Hot Mom? ! Farrah Abraham Creates Naughty A. I. Bot Twin That Might Replace Her OnlyFans...",
+      "published": "Fri, 20 Jun 2025 23:15:05 GMT"
     },
     {
-      "id": "f91475f151e72124b23f23f34dc48691",
-      "title": "Karol G: ‘I Made the Album of My Dreams’ - Rolling Stone",
-      "source": "Rolling Stone",
-      "url": "https://www.rollingstone.com/music/music-latin/karol-g-tropicoqueta-album-interview-1235367271/",
-      "image_url": "https://www.rollingstone.com/wp-content/uploads/2025/06/karol-g-interview.jpg?crop=0px%2C19px%2C1800px%2C1015px&resize=1600%2C900",
-      "summary": ".st0{fill:#bcbec0}. gl-st1{fill:#d71920} From Colombian showgirls to vallenato inspirations, the Colombian superstar details how she’s redefining Latin music with her new album Tropicoqueta Karol G talks her new album ‘Tropicoqueta’ Karol G is crying, and if you know anything about the weepy Colombian star, this isn’t much of a surprise — she cries a lot. But these tears are different. These...",
-      "published": "Fri, 20 Jun 2025 04:01:44 GMT"
+      "id": "5e963045c63123df78b975c0e8ae55a8",
+      "title": "WWE SmackDown preview: R-Truth is saving John Cena’s crappy retirement tour - Cageside Seats",
+      "source": "Cageside Seats",
+      "url": "https://www.cagesideseats.com/wwe/2025/6/20/24452532/wwe-smackdown-preview-june-20-2025-cena-r-truth-rematch-orton-zayn-bliss-asuka-kotr-queen-semifinals",
+      "image_url": "https://cdn.vox-cdn.com/thumbor/bhAKCUXmWvW_2-js2wJIQKIGvm0=/0x0:640x335/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/26027528/killingscenatruthhat.jpg",
+      "summary": "Cageside Seats, for Pro Wrestling and MMA fans WWE SmackDown preview (June 20, 2025): R-Truth is saving John Cena’s crappy retirement tour Cena’s long-awaited heel turn isn’t delivering the goods, but thankfully Ron Killings is here to save the day. By Cain A. Knight Jun 20, 2025, 9:00am EDT 22 Comments / 22 New Share this on Facebook (opens in...",
+      "published": "Fri, 20 Jun 2025 13:00:00 GMT"
     },
     {
-      "id": "bc072b727affab9a5ff9cdf9957b1b68",
-      "title": "Why Rachel Zegler Has London Raving — and Ranting — About Her ‘Evita’ Stage-to-Street Performance - The Hollywood Reporter",
+      "id": "9edbf1c27fd2ea8fb0d3e173c62be39a",
+      "title": "Paris Hilton Buys Mark Wahlberg's Beverly Hills Mansion for $63.1 Million - Realtor.com",
+      "source": "Realtor.com",
+      "url": "https://www.realtor.com/news/celebrity-real-estate/paris-hilton-mark-wahlberg-beverly-hills-mansion/",
+      "image_url": null,
+      "summary": "Your request could not be processed. If issues persist, please contact unblockrequest@realtor. com with details for further assistance. We apologize for the inconvenience.",
+      "published": "Fri, 20 Jun 2025 21:19:31 GMT"
+    },
+    {
+      "id": "de870e0984698481fd2c52104cb8df15",
+      "title": "Allison Williams Has “Been Dreaming of” a ‘M3GAN’ Trilogy - The Hollywood Reporter",
       "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/lifestyle/arts/rachel-zegler-london-palladium-balcony-evita-theater-lloyd-1236295616/",
-      "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2025/06/FotoJet-2025-06-20T092737.253.jpg?w=1440&h=810&crop=1",
-      "summary": "The Hollywood Reporter homepage Why Rachel Zegler Has London Raving — and Ranting — About Her ‘Evita’ Stage-to-Street Performance The young actress is currently breaking theater's fourth wall by performing to a busy London street — and away from paying audiences — on the Palladium balcony every night. Zegler performs \"Don't Cry For Me Argentina\" live on the London Palladium...",
-      "published": "Fri, 20 Jun 2025 08:51:47 GMT"
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/will-m3gan-become-trilogy-allison-williams-1236295921/",
+      "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2025/06/Allison-Willams-Main-2025.jpg?w=1296&h=730&crop=1",
+      "summary": "The Hollywood Reporter homepage Allison Williams Has “Been Dreaming of” a ‘M3GAN’ Trilogy The star-producer peels back ‘M3GAN 2. 0,’ which follows in the footsteps of ‘Terminator 2’ and ‘Aliens’ as a more ambitious sequel. M3GAN 2.0 star-producer Allison Williams welcomes the opportunity to burn the candle at both ends. Besides the June 27 sequel to Gerard Johnstone’s 2023 smash...",
+      "published": "Fri, 20 Jun 2025 18:16:33 GMT"
     },
     {
-      "id": "00f58f23dd455308954abd5d7a446fb3",
-      "title": "Why is caregiving so hard in America? The answers emerge in a new film - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/20/nx-s1-5438564/caregiving-documentary-pbs",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F8f%2F7558aeba4281a7a94c3b47ed94f8%2Fcaregiving-feature-still-malcoma-brown-ekeogu.jfif",
-      "summary": "Why is caregiving so hard in America? The answers emerge in a new film Caregiving traces the history — and unique challenges of — caring for family members in the U. S. In the documentary, viewers meet caregivers like Malcoma Brown-Ekeogu, who now helps her husband, Kenneth, with even his most basic needs, like walking and bathing. \"I never let...",
-      "published": "Fri, 20 Jun 2025 11:00:00 GMT"
+      "id": "1eb567be0da598ce9d65abb7a159e316",
+      "title": "Matthew McConaughey & Woody Harrelson Brothers Series Paused (Excl.) - Deadline",
+      "source": "Deadline",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVYxb3Z2NFg1eGxNX1Q3T3AzNkFHUUFQMDE4Qzg5cGZfYk9kekp2QVhCQy1RcWs5RDZBbVdiVmJLdFpkazF0RGN6eko2Q1dXSGJDcU1iZmtHZExaMS00dXpvWmpoakd1T21WNEJDVG5ZekdCLTBPWkV6Wm5wRjNlb3VYM3VqcFVERkpvc3BQU1pybGZKY0FmN0ROek9yTW1MdHc?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 20 Jun 2025 21:11:00 GMT"
+    },
+    {
+      "id": "5b68e23ccf2b417e66b42c70f783d93e",
+      "title": "LA City Officials Approve New 5-Year Contract With FilmLA, Despite Groups Calling For Permitting Process Reform - Deadline",
+      "source": "Deadline",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmE4QjlaMnJfc3V2WnVteFU3ckhxSnFyMFRCbUpXbnBTbDNWMlRhSHJWeU1JcHZ0NW80S3kzd01QdW0zMFdHYWs5X1RkM0JGVDhDNmtYWnBDVk1hQlF6MVo2VFFDbWkwZHlGX2VjcHEzV3IxRjFYLVU1WHF2Zll4aTdmemd2Qlo3ZzV2QTJaYkVRU25BT1hqWElR?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 20 Jun 2025 20:11:00 GMT"
+    },
+    {
+      "id": "2e9c36865a7009aef16aee7c2608a10b",
+      "title": "Anna Camp, 42, and girlfriend Jade Whipkey, 24, make red carpet debut after going public with steamy romance - Page Six",
+      "source": "Page Six",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQjAzZVVBZjlFSlJoT3NCeGdVamc2VHVmWjJ5cE9KVGt6V09GcVBobUN0YVNNMU9DOFRiUy1VTkRsTHk2RW4wNmhSaDRKQU9OeXdHTDlsU1E4ZDZxV3FVZHg5ZkxiNExEWVh2QUE2UjRFQ3V1M1hiU0NmUDdzQTVrX3BqMVhWSWJ6ZW15OE1KcUVrX0FXMVVxNi1WcFhoa2RpS29PVFp2NTNLanV4amU4Ykxn?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 19 Jun 2025 19:56:00 GMT"
     },
     {
       "id": "c402856edf492837802b4be1d77241eb",
@@ -105,31 +150,31 @@
       "published": "Fri, 20 Jun 2025 10:18:27 GMT"
     },
     {
-      "id": "7eb74b0283ebe6f79c55b54e2c0a4463",
-      "title": "What Did Dallas Cowboys Cheerleader Chandi Dayle Do? The Bahamas Incident Explained - Forbes",
-      "source": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd1c4bndhVzBKTlBBVi14a19MbmRINjVFQkFBSjZjWVJzc1ZHOGJoLUxWUUVLV2NfT2dKTFZTeEtSZWNSUi1kZXZyZC1rOXV1WlF2c05ySHIzdTdsZzBhUTN5WlpqZzlfNXhNa18zWXd0MlF1YWVHYTJhckRoYjZ4WDJuNlBpWkptZjRoeXhCM1ZxZ2hIa0VkUldIQ3d4WUQ2RnFxTW5iWjBNUXNkVi1WNjBBNVBka2EzQm5fNkhuaHAwLTBXT2JkamhNUnF4YWdCSTJR?oc=5",
+      "id": "82896ff77a8566710d2bb181ed53fed2",
+      "title": "Sara Burack, star of Netflix's 'Million Dollar Beach House,' killed in apparent Hamptons hit-and-run - NBC News",
+      "source": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTlpyTkdSSDFEbzl3OVhCZkI2bFM3TVM4dW1YSWVKd0RfRzVTOU1NLS11RnZuM0p5YmtqREVFN2t1Y0JtaVAzYWNvSjZ4RXZkNmtoVHc4Z2kwdGc5NzlmbTJGMlp3UWNudHQ3NzU0cHZLald0MUp1a3JUeUZuYVJPVTVoVkJpVGtmQmNWY2cycU5lTnM1V2xBV01qOGpoRzdBUlN5Mm5zZ1EwMkZucHdWWDZ2alJ2RFRTc1HSAVZBVV95cUxPeHhRc2JOazFjbllIMTBod3NYeE5GMlRNSkVlMTkzOWZuV2JSX1A3T3dkNUhQbkZiM2hRUzhXbThWcFdGZVZnTW5Mb1k5UUlYTHk5ZElYQQ?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Thu, 19 Jun 2025 18:51:32 GMT"
+      "published": "Fri, 20 Jun 2025 17:30:33 GMT"
     },
     {
-      "id": "8851e9d8450ed330d8866443e80c45f7",
-      "title": "World’s best restaurant for 2025 revealed - CNN",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XZDdpdW9TWWtHM1RHaG1vamdCdm5ncUN1UVZVdG5NcGo1V01yZlc5aWxnZmgxZzZpbXlxWTNNME0wSmNCMjlDNjFuLUduaXZSZHFscDMyUUxiZmdwZmRzZkdOdk1SSHl1cnplX3poR0pWd1dSR0VLR9IBfkFVX3lxTE9Lb1ptZWtZRXVobDBjSlFtLWl0OG9lSVU0d2xfZ3lYODNzZmdka0FRRDl5OW5xMHJLam8zdGZ4RmVrVHczTnN5eGJnajVqZmIxSTg0QVlTNmFMQXdwMEVQTDBzdkpzcHBqeE1lbXowZm1XaVdFVUFXNDJreUpoQQ?oc=5",
+      "id": "3860bc08ee5d7bfd8073075304f6fbe0",
+      "title": "Marlee Matlin tells her story in an intimate and groundbreaking documentary - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSGZjQTZWS2RobXduXzdZMklEZjhqZDU1SjNPS1NuWGJ4UFpiY0l4bVNyaG9Od1dlYmZjcnFpdDVVRGVsZzJ1Y3dMSXpCb2MxdUF5czhzQUZkNWt4bG5jUkdlNV93OUtsVERULVp5eGZYS2l0eWdaV050bUE4VjVFOEFrZWJWLWttSWx4T1V3M1pCRG92Ml8wbVp1SHdMXzVsNDZURWl3?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 13:50:00 GMT"
+      "published": "Fri, 20 Jun 2025 14:26:00 GMT"
     },
     {
-      "id": "5beffde14a16489cfae9be40b5e58fe3",
-      "title": "Sara Burack Dies: ‘Million Dollar Beach House’ Real Estate Agent Was 40 - Deadline",
-      "source": "Deadline",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTk5TTHVyaHYyNVQwbUMxUk9jMTFhOHJKT2JLRG9jUlZmaU9WMTNZREVqajI2QzNuQ1pFQzFHZEhaWXE5V01jWWJ5a25fUjQ5WU1YZE1hc2dnMHpmTWNfNzRBSG9ENmFuOUhvMDE4ZFo5VWZ6VHFwWUpMU2xEdFdPUmZQRkh1M3lsSnRGdg?oc=5",
+      "id": "43f555bd99e407876b745f59c29890d1",
+      "title": "See '28 Years Later' in theaters, rent 'Final Destination: Bloodlines' and 'Friendship,' stream 'A Minecraft Movie' on Max, plus more movies to watch this weekend - Yahoo",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNTS1XWXBabmFJcUl6N093c0FHNjlrZXFlbnRpMFFWVmlEMW5ibHBmU1FRNVZfd1V4akZRTEZxN2ZRanRqeVVodjYtRmtrY1BKQXk1azI3MzJxVjJzbGpqMklPS2gyc09kQjI1ZlFfUS1vanBGVTVhYnVfbFU0SWc2SEQwd2RzTTN4Ny11LXlOcmdDQ0tTSDB5cGZKQjJnMkE3SThqZVF5M2VTQ09KRmh3LXdrZGUtbEQxWWVlTnU1MlZfdmlSSXc2VnhrVm1ESHNOSzUyWngxTzI0ZWlFNmF1d25PVGJSeThCSGEyY1NZOW5rVVJHX0FLMkpubENaZzh2OWlFa0ZMOE8xV0FraURhVUJJNGlOVU0xeFBiZXU3RHRsVEhYTF83d1V0MGVIamVUX1c2b2lyeUJPbWg0?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 15:39:00 GMT"
+      "published": "Fri, 20 Jun 2025 19:49:17 GMT"
     },
     {
       "id": "cdd4d479f8629e6872ac248fdc8603c1",
@@ -139,51 +184,6 @@
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
       "published": "Fri, 20 Jun 2025 07:50:00 GMT"
-    },
-    {
-      "id": "57f3975d2eb750c0d451b7d0f83ff265",
-      "title": "Marlee Matlin: Henry Winkler Took Me In for 2 Years - Newser",
-      "source": "Newser",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0Z6bkdvRFdiNkJ5YXJuNngzdU5fdVViRjBLS2YwamdhZVRZd2ktRkV2R1JIc20tU29pb1dzN2l3dHlXT2dNdVBudUMwQUMtdTlHX1FSMmFIS2IxSERpc0kyT2V1RVplR0FYbDRseWE5eVZtR0RNUUw5UHgydVhEODVkbGhKTGhPLUI0eDJ2Q3pXcU4xek5CLQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 07:00:00 GMT"
-    },
-    {
-      "id": "545697e567f9ac6669a1c974d31c590b",
-      "title": "Kourtney Kardashian shows off her curves in sheer lace mini dress: ‘The scenic route’ - Page Six",
-      "source": "Page Six",
-      "url": "https://pagesix.com/2025/06/19/style/kourtney-kardashians-rocks-sheer-lace-mini-dress/",
-      "image_url": "https://pagesix.com/wp-content/uploads/sites/3/2025/06/106796748.jpg?quality=75&strip=all&w=1024",
-      "summary": "Blue Ivy, 13, is mom Beyoncé’s twin on Paris outing with dad Jay-Z ‘Teen Mom 2’ alum Jenelle Evans tells ‘Virtual Reali-Tea’ about her messy divorce, applying for ‘Love Island’ and more! Barbra Streisand makes wild sex confession about Warren Beatty Kylie Kelce scolds husband Jason’s ‘drooling’ fans: ‘Put your tongues back in your mouth’ Sami Sheen accuses ‘disgusting’ sister...",
-      "published": "Fri, 20 Jun 2025 01:40:00 GMT"
-    },
-    {
-      "id": "c098db0863f61a7c92ef5234ef408ed1",
-      "title": "Horoscope for Friday, June 20, 2025 - Chicago Sun-Times",
-      "source": "Chicago Sun-Times",
-      "url": "https://chicago.suntimes.com/horoscopes/2025/06/20/horoscopes-today-friday-june-20-2025",
-      "image_url": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
-      "summary": "Everyone deserves trustworthy local reporting. You help make that happen. Horoscope for Friday, June 20, 2025 By  Georgia Nicols   Jun 20, 2025, 5:01am UTC Avoid shopping or major decisions from 8:15 p. m. to 9:15 p. m. After that, the moon moves from Aries into Taurus. Enjoy networking with others and schmoozing with daily contacts — siblings, relatives and neighbors...",
-      "published": "Fri, 20 Jun 2025 05:01:21 GMT"
-    },
-    {
-      "id": "3f4c5032c1357eba7c1a472ab6cc3366",
-      "title": "David Lynch Script for Unfinished Film Sells for $150,000 at Auction - Rolling Stone",
-      "source": "Rolling Stone",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/david-lynch-auction-twin-peaks-blue-velvet-1235368137/",
-      "image_url": "https://www.rollingstone.com/wp-content/uploads/2025/06/david-lynch.jpg?w=1600&h=900&crop=1",
-      "summary": ".st0{fill:#bcbec0}. gl-st1{fill:#d71920} Director’s chair goes for $70,000, while personal copy of Mulholland Drive fetches $98,000 David Lynch at 2019 Governors Awards in Hollywood. Items from David Lynch’s personal estate and archive sold for a total of over $4. 5 million at a white-glove auction hosted Wednesday by Julien’s Auctions and Turner Classic Movies. The famed filmmaker died in January at...",
-      "published": "Thu, 19 Jun 2025 14:10:09 GMT"
-    },
-    {
-      "id": "09689a7ac6e55eda5643458f3cc7a6d9",
-      "title": "Labubu: How the Pop Mart dolls conquered the world - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cy4ydxlm9n9o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0ac1/live/95061140-4cc0-11f0-9641-750766f20854.jpg",
-      "summary": "Adorable or just weird? How Labubu dolls conquered the world Whether you reckon they are cute, ugly or just plain weird, chances are you have heard of the furry dolls that have become a global sensation - Labubu. Born a monster, the elf-like creature from Chinese toy maker Pop Mart is now a viral purchase. And it has no dearth...",
-      "published": "Fri, 20 Jun 2025 02:59:16 GMT"
     }
   ]
 }
