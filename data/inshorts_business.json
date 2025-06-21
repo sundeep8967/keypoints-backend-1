@@ -1,45 +1,27 @@
 {
   "metadata": {
     "source_file": "data/news_business.json",
-    "generation_time": "2025-06-21 03:38:22",
+    "generation_time": "2025-06-21 07:32:40",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "8cc8fea3880c6e54138de40a5db8395d",
-      "title": "Stock Market News June 20, 2025: Oil Prices Drop Friday After Trump Signals He'll Give Iran Negotiations Time - WSJ",
+      "id": "38b3b1007899297d9834fe36f7f5de9c",
+      "title": "Week of Middle East Conflict Pushes Oil Prices Higher - WSJ",
       "source": "WSJ",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-trump-tariffs-trade-war-06-20-2025",
+      "url": "https://www.wsj.com/finance/week-of-middle-east-conflict-pushes-oil-prices-higher-85d7deb6",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sat, 21 Jun 2025 00:14:00 GMT"
+      "published": "Fri, 20 Jun 2025 20:49:00 GMT"
     },
     {
-      "id": "d21b2945b29445e52249bc1db4121c42",
-      "title": "Tesla Robo-Taxis, With Human Safety Monitors, to Launch in 2 Days - Barron's",
-      "source": "Barron's",
-      "url": "https://www.barrons.com/articles/tesla-stock-price-robotaxi-launch-musk-778a6e54",
+      "id": "55b6989203b395174e4f780783c869ce",
+      "title": "US auto safety agency reviewing Tesla answers on robotaxi deployment plans - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/autos-transportation/us-highway-safety-officials-reviewing-teslas-robotaxi-deployment-plans-2025-06-20/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 20:07:00 GMT"
-    },
-    {
-      "id": "f6a6d0729c3194937d9706c0063cf314",
-      "title": "16 billion passwords for Google, Apple, Facebook leaked in massive data dump, report says - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2025/06/20/data-breach-passwords-leaked-google-apple-meta",
-      "image_url": "https://images.axios.com/rmgp5XtYUgc12o6FkJ3STO5ijhQ=/0x0:1920x1080/1366x768/2025/06/20/1750434575183.jpg",
-      "summary": "Data breach compilation lists 16 billion compromised passwords Illustration: Sarah Grillo/Axios More than 16 billion login credentials for Google, Facebook, Apple and other platforms have been exposed in one of the largest databases of cybersecurity breaches of all time, according to a Cybernews report. Why it matters: Researchers say that this \"is not just a leak — it's a blueprint...",
-      "published": "Fri, 20 Jun 2025 16:53:10 GMT"
-    },
-    {
-      "id": "b2f65c27b51e72a5b0e1b2feb5c7144e",
-      "title": "Kroger's shares rise as grocer says shoppers seek lower prices, cook more at home - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/06/20/kroger-kr-q1-2025-earnings.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108028975-1725454080095-gettyimages-2157423997-KROGER_EARNS.jpeg?v=1750427424&w=1920&h=1080",
-      "summary": "Kroger’s shares rise as grocer says shoppers seek lower prices, cook more at home Shares of Kroger rose on Friday after the company raised its full-year sales forecast. Interim CEO Ron Sargent said shoppers are seeking larger pack sizes, using coupons more and buying fewer discretionary items like snacks and adult beverages. The supermarket operator’s e-commerce sales rose by 15%...",
-      "published": "Fri, 20 Jun 2025 15:40:53 GMT"
+      "published": "Fri, 20 Jun 2025 23:30:04 GMT"
     },
     {
       "id": "27c6cac5402a0b0128b35f5da7a8942a",
@@ -51,13 +33,31 @@
       "published": "Fri, 20 Jun 2025 20:07:24 GMT"
     },
     {
-      "id": "9ce725cdd95ed1d18d8a9455dc09fc55",
-      "title": "Supreme Court allows vape companies to pick courts to hear challenges - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/06/20/supreme-court-vaping-5th-circuit-fda-appeal/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6QAD62NRAOUIWGH64PMWOCQBQI.jpg&w=1440",
-      "summary": "Supreme Court allows vape companies to pick courts to hear challenges The case focused on venue-shopping and whether the tobacco company R. J. Reynolds could appeal in a court far from its headquarters. The Food and Drug Administration has moved aggressively to regulate flavored vapes in recent years because of their popularity with young people. (Frank Franklin II/AP) By Justin...",
-      "published": "Sat, 21 Jun 2025 00:39:24 GMT"
+      "id": "f9146c048fd927cdc4c9b888a8167e84",
+      "title": "Chart: Rooftop solar could tank if GOP repeals key tax credit - Canary Media",
+      "source": "Canary Media",
+      "url": "https://www.canarymedia.com/articles/solar/rooftop-crash-tax-credit-republican-bill",
+      "image_url": "https://img.canarymedia.com/content/uploads/COTW-rooftop-solar-1.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=0b152d2ce79f4f60f027be633a0e02f8",
+      "summary": "Clean energy journalism for a cooler tomorrow Chart: Rooftop solar could tank if GOP repeals key tax credit Congressional Republicans are poised to eliminate a tax credit that makes rooftop solar cheaper for homeowners, the latest in a string of blows to the sector. See more from Canary Media’s “Chart of the week” column. Rooftop solar is already struggling in...",
+      "published": "Fri, 20 Jun 2025 07:30:00 GMT"
+    },
+    {
+      "id": "978d6e66d01e73f3b4a5db72c80b2582",
+      "title": "North Texas Kroger store among those closing nationwide - WFAA",
+      "source": "WFAA",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdExzdnpUTDB2cHFkcXRzRjNwaGdKNVF0VGVOWElYcXQ1OFRnSHBUREU1ZGsxWWkwdWZYYlpya2haa1V0VlltZzh4TVRGV0h4aTYyZ2duWXFmbm5PckJRUUhYM0lZbExmNTRVbFNEQXFDTjVIZHJhdnd5eGlyM1UyekVzWjZyYzJyTzZnTU1CVnpmVmd0OEpWZGxkM2tHSWNXOWEtd21BbTZVLVQ1aHRPdkZoUDVnWmRZbVhrTXdHdWRCMVdaaXZXU2RDOFNadkU?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 20 Jun 2025 22:33:00 GMT"
+    },
+    {
+      "id": "f6a6d0729c3194937d9706c0063cf314",
+      "title": "16 billion passwords for Google, Apple, Facebook leaked in massive data dump, report says - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2025/06/20/data-breach-passwords-leaked-google-apple-meta",
+      "image_url": "https://images.axios.com/rmgp5XtYUgc12o6FkJ3STO5ijhQ=/0x0:1920x1080/1366x768/2025/06/20/1750434575183.jpg",
+      "summary": "Data breach compilation lists 16 billion compromised passwords Illustration: Sarah Grillo/Axios More than 16 billion login credentials for Google, Facebook, Apple and other platforms have been exposed in one of the largest databases of cybersecurity breaches of all time, according to a Cybernews report. Why it matters: Researchers say that this \"is not just a leak — it's a blueprint...",
+      "published": "Fri, 20 Jun 2025 22:12:55 GMT"
     },
     {
       "id": "e0b5ab80f502804c2f03d281586562d6",
@@ -69,22 +69,13 @@
       "published": "Fri, 20 Jun 2025 21:40:59 GMT"
     },
     {
-      "id": "1c5f85e8fba8f7903e7a6eebcaaa36ae",
-      "title": "Veteran Tesla analyst makes boldest robotaxi call yet - TheStreet",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/technology/veteran-tesla-bull-just-made-one-of-his-boldest-robotaxi-calls-yet-",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 17:59:55 GMT"
-    },
-    {
-      "id": "ec0050b334c5957b8ac2e151c7f99dc2",
-      "title": "CDC warns of deadly listeria outbreak tied to packaged meals - CIDRAP",
-      "source": "CIDRAP",
-      "url": "https://www.cidrap.umn.edu/listeria/cdc-warns-deadly-listeria-outbreak-tied-packaged-meals",
-      "image_url": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/iStock-1332536312.jpg?itok=eGHc4n1h",
-      "summary": "CDC warns of deadly listeria outbreak tied to packaged meals Stephanie Soucheray, MA June 20, 2025 Seventeen people have been sickened in a new Listeria monocytogenes outbreak tied to FreshRealm chicken fettuccine alfredo heat and serve meals, the Centers for Disease Control and Prevention (CDC) said yesterday. Of the 17, 16 have required hospitalization and 3 people have died. A...",
-      "published": "Fri, 20 Jun 2025 19:09:38 GMT"
+      "id": "58901b6ebcc3bd59869663c49ccaf658",
+      "title": "Why Is Elena Kagan Suddenly Siding With the Conservatives? - Slate Magazine",
+      "source": "Slate Magazine",
+      "url": "https://slate.com/news-and-politics/2025/06/supreme-court-liberals-divided-why.html",
+      "image_url": "https://compote.slate.com/images/fc052087-8931-4d4c-958f-4fbdf6f98707.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "summary": "Light Activating this button will toggle the display of additional content Elena Kagan Keeps Joining Conservative Decisions. Why? The Supreme Court’s liberals suddenly seem divided. What’s going on? Photo illustration by Slate. Photos by Chip Somodevilla/Getty Images, Jacquelyn Martin/Pool/AFP/Getty Images, and Matias J. Ocner/Miami Herald/Tribune News Service via Getty Images. Opinionpalooza Is Here—Follow Along With Slate’s Legal Experts Get clear,...",
+      "published": "Fri, 20 Jun 2025 21:25:00 GMT"
     },
     {
       "id": "f188b821cad7471fd2240a1d35ec6156",
@@ -96,40 +87,31 @@
       "published": "Fri, 20 Jun 2025 20:30:30 GMT"
     },
     {
-      "id": "513216b9c38dcffdb3c2e5851c91d980",
-      "title": "Cybercriminals breach Aflac as part of hacking spree against US insurance industry - CNN",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PLXlnT3Y1cXVBck83VWhQcXNoWTBMWndXVXFVWXBiNlRvODhya1FyWFI4aVpBOHFlRnNReVVuUGZkaFVvamc5V1BaNzdwc0R2R3BqN29jR3c3WmxQckRpSkZJUdIBaEFVX3lxTE53blJjUWdDZmU3bGNHTjdIVk9HRGJSSThVelNhS1NPUjJOZ0RRQ2wzWllWZ2dEbzVWelJTM0U0ZU1oWjZuQTBzNTJJWHkwVi0zWE5qVkFvTkgwMWNqS3J6RWNmWTZVMFNs?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 15:49:00 GMT"
-    },
-    {
-      "id": "978d6e66d01e73f3b4a5db72c80b2582",
-      "title": "North Texas Kroger store among those closing nationwide - WFAA",
-      "source": "WFAA",
-      "url": "https://www.wfaa.com/article/money/business/kroger-store-north-texas-among-nationwide-closure/287-9c0fa193-d1a9-45bb-adca-bbb521b2ea21",
-      "image_url": "https://media.wfaa.com/assets/WBNS/images/fb8358ac-79b2-4dc4-b950-5d7873eebfc1/20250620T215907/fb8358ac-79b2-4dc4-b950-5d7873eebfc1_1140x641.jpg",
-      "summary": "North Texas Kroger store among those closing nationwide The grocer Friday revealed plans to close about 60 stores around the country over the next 18 months. Published: 5:33 PM CDT June 20, 2025 Updated: 7:02 PM CDT June 20, 2025 MCKINNEY, Texas — A North Texas Kroger store is closing as the grocer revealed plans to shutter about 60 stores...",
-      "published": "Fri, 20 Jun 2025 22:33:00 GMT"
-    },
-    {
-      "id": "568457b2e2999fd7e61ad802e53a727d",
-      "title": "Telegram founder to split fortune between his more than 100 children - Euronews.com",
-      "source": "Euronews.com",
-      "url": "https://www.euronews.com/2025/06/20/telegram-founder-pavel-durov-to-split-fortune-between-his-more-than-100-children",
-      "image_url": "https://static.euronews.com/articles/stories/08/68/61/14/1200x675_cmsv2_28aa368d-55b0-5ca9-95a5-93c9dba82076-8686114.jpg",
-      "summary": "With your agreement, we and our 190 partners use cookies or similar technologies to store, access, and process personal data like your visit on this website, IP addresses and cookie identifiers. Some partners do not ask for your consent to process your data and rely on their legitimate business interest. You can withdraw your consent or object to data processing...",
-      "published": "Fri, 20 Jun 2025 16:03:50 GMT"
-    },
-    {
-      "id": "0c317e7c434def6efa33c172d96b4460",
-      "title": "Tesla, GMS, CarMax, Accenture, Circle Internet, Smith & Wesson, Kroger, and More Movers - Barron's",
-      "source": "Barron's",
-      "url": "https://www.barrons.com/articles/stock-movers-efb5c45d",
+      "id": "587567b6f25c3a8614b5f5852bba880b",
+      "title": "Trump says he may change his mind about firing Fed Chair Powell - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/trump-says-he-may-have-change-his-mind-about-firing-fed-chair-powell-2025-06-20/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 20:13:00 GMT"
+      "published": "Fri, 20 Jun 2025 23:32:24 GMT"
+    },
+    {
+      "id": "8d133d037b623cd631d4fe94bbc13232",
+      "title": "Aflac Says Personal Info May Have Been Stolen in Cyberattack - WSJ",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/tech/cybersecurity/aflac-says-personal-info-may-have-been-stolen-in-cyberattack-7bde3fa9",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 20 Jun 2025 13:05:00 GMT"
+    },
+    {
+      "id": "01c32966f9b670bf5f4dbf98ed0c9c53",
+      "title": "Futures Rise On Trump Move; Seven New Buys - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-time-israel-iran-decision/",
+      "image_url": "https://www.investors.com/wp-content/uploads/2019/03/IBD-logo-216x36.png",
+      "summary": "Access to this page has been denied because we believe you are using automation tools to browse the website. This may happen as a result of the following: Javascript is disabled or blocked by an extension (ad blockers for example) Your browser does not support cookies Please make sure that Javascript and cookies are enabled on your browser and that...",
+      "published": "Fri, 20 Jun 2025 12:10:00 GMT"
     },
     {
       "id": "b3e68bb25484f5e69af9e28a070ae733",
@@ -141,22 +123,13 @@
       "published": "Fri, 20 Jun 2025 19:13:54 GMT"
     },
     {
-      "id": "97af1a5df0011c25cca6a939fd16311d",
-      "title": "FDA Shakeup Continues As Two Key Officials Ousted - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/vinay-prasad-fda-officials-ousted-nicole-verdun-rachael-anatol/",
-      "image_url": "https://www.investors.com/wp-content/uploads/2019/03/IBD-logo-216x36.png",
-      "summary": "Access to this page has been denied because we believe you are using automation tools to browse the website. This may happen as a result of the following: Javascript is disabled or blocked by an extension (ad blockers for example) Your browser does not support cookies Please make sure that Javascript and cookies are enabled on your browser and that...",
-      "published": "Fri, 20 Jun 2025 20:08:00 GMT"
-    },
-    {
-      "id": "7c2b0bba18af0b0c239d7675c1f07099",
-      "title": "The Advertising Industry Parties in Cannes, With AI as Its New Plus-One - WSJ",
-      "source": "WSJ",
-      "url": "https://www.wsj.com/articles/the-advertising-industry-parties-in-cannes-with-ai-as-its-new-plus-one-00443954",
+      "id": "0c317e7c434def6efa33c172d96b4460",
+      "title": "Tesla, GMS, CarMax, Accenture, Circle Internet, Smith & Wesson, Kroger, and More Movers - Barron's",
+      "source": "Barron's",
+      "url": "https://www.barrons.com/articles/stock-movers-efb5c45d",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 14:19:00 GMT"
+      "published": "Fri, 20 Jun 2025 20:13:00 GMT"
     },
     {
       "id": "e3fa18e07a90ec6b93c453ca7795c4b0",
@@ -168,6 +141,24 @@
       "published": "Fri, 20 Jun 2025 15:32:28 GMT"
     },
     {
+      "id": "61856db2e2e64e1f122987b4b4d3a9b6",
+      "title": "People With Severe Diabetes Are Cured in Small Trial of New Drug - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/20/health/diabetes-cure-insulin-stem-cell.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 20 Jun 2025 23:51:25 GMT"
+    },
+    {
+      "id": "ee0f6b41431587a23003c96fc36445bd",
+      "title": "Disagreements over Duchenne therapy, management style may have led to ouster of key FDA official - STAT",
+      "source": "STAT",
+      "url": "https://www.statnews.com/2025/06/20/fda-ouster-top-gene-therapy-official-nicole-verdun-placed-on-leave-after-review-committee-canceled/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2025/06/53783276504_56f018e7f4_k-1024x576.jpg",
+      "summary": "Reporting from the frontiers of health and medicine Disagreements over Duchenne therapy, management style may have led to ouster of key FDA official Tensions had been high before a top gene therapy regulator was placed on leave, alarming industry Nicole Verdun, seen here at a National Institutes of Health event in 2024, was serving as director of the office that...",
+      "published": "Fri, 20 Jun 2025 17:00:58 GMT"
+    },
+    {
       "id": "d544e9fb7648e7487841452dfe77d215",
       "title": "Meta and Oakley Are Launching AI-Powered Glasses This Summer - Investopedia",
       "source": "Investopedia",
@@ -177,13 +168,22 @@
       "published": "Fri, 20 Jun 2025 17:52:50 GMT"
     },
     {
-      "id": "8629e915ef6bbda15a5060ff4edf55ba",
-      "title": "Accenture says CEOs are postponing hiring consultants due to uncertainty - Financial Times",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/a1a5c903-0a24-4c42-aae0-f86e04c06910",
-      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F71c75727-0dd4-48ec-bf82-2c03fc01aabf.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Accenture says CEOs are postponing hiring consultants due to uncertainty IT consulting and outsourcing group reports a slowdown in new business for the second quarter in a row Accenture says CEOs are postponing hiring consultants due to uncertainty on...",
-      "published": "Fri, 20 Jun 2025 14:25:05 GMT"
+      "id": "7f1301808af3b2fdecb73b1c152bb0ee",
+      "title": "Urgent recall issued for chocolate sold nationwide with ingredient that could kill - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/health/article-14833455/Urgent-recall-issued-chocolate-sold-nationwide-ingredient-kill.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/20/22/99583389-0-image-a-37_1750454311614.jpg",
+      "summary": "Urgent recall issued for chocolate sold nationwide with ingredient that could kill READ MORE: Chocolate treat recalled over fears it can cause allergic reactions By ALEXA LARDIERI U. S. DEPUTY HEALTH EDITOR DAILYMAIL. COM PUBLISHED: 17:25 EDT, 20 June 2025 | UPDATED: 17:53 EDT, 20 June 2025 The FDA is warning Americans of a popular chocolate treat that could cause...",
+      "published": "Fri, 20 Jun 2025 21:25:43 GMT"
+    },
+    {
+      "id": "658153d73d0e1f156e72514f44cad99e",
+      "title": "Kroger Reports First Quarter 2025 Results and Updates Identical Sales without Fuel Guidance for 2025 - Kroger",
+      "source": "Kroger",
+      "url": "https://ir.kroger.com/news/news-details/2025/Kroger-Reports-First-Quarter-2025-Results-and-Updates-Identical-Sales-without-Fuel-Guidance-for-2025/default.aspx",
+      "image_url": "https://mma.prnewswire.com/media/1155202/Kroger_Co_Logo.jpg",
+      "summary": "Kroger Reports First Quarter 2025 Results and Updates Identical Sales without Fuel Guidance for 2025 Identical Sales without fuel increased 3. 2%* Operating Profit of $1,322 million; EPS of $1. 29 Adjusted FIFO Operating Profit of $1,518 million and Adjusted EPS of $1. 49 CINCINNATI, June 20, 2025 /PRNewswire/ -- The Kroger Co. (NYSE: KR) today reported its first quarter...",
+      "published": "Fri, 20 Jun 2025 12:02:10 GMT"
     }
   ]
 }

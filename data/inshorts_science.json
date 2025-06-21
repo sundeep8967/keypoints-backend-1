@@ -1,10 +1,19 @@
 {
   "metadata": {
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-21 03:35:25",
+    "generation_time": "2025-06-21 07:29:40",
     "total_articles": 20
   },
   "articles": [
+    {
+      "id": "8d514ae8adbd2c89fa541ca5395d2f54",
+      "title": "Ancient ‘Dragon Man’ DNA reveals mysterious human relative - Euronews.com",
+      "source": "Euronews.com",
+      "url": "https://www.euronews.com/culture/2025/06/20/ancient-dragon-man-dna-reveals-mysterious-human-relative",
+      "image_url": "https://static.euronews.com/articles/stories/09/33/53/76/1200x675_cmsv2_5ede72f9-8ccb-5e01-a32c-ee2a3d939438-9335376.jpg",
+      "summary": "With your agreement, we and our 190 partners use cookies or similar technologies to store, access, and process personal data like your visit on this website, IP addresses and cookie identifiers. Some partners do not ask for your consent to process your data and rely on their legitimate business interest. You can withdraw your consent or object to data processing...",
+      "published": "Fri, 20 Jun 2025 13:22:36 GMT"
+    },
     {
       "id": "ee51328c84a08fe0e352468179310912",
       "title": "1st images from the Vera C Rubin Observatory will drop on June 23. Here's why that's such a big deal - Space",
@@ -13,15 +22,6 @@
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
       "published": "Fri, 20 Jun 2025 18:00:00 GMT"
-    },
-    {
-      "id": "761cf9fa4e6ccec468d78c64ba9016c8",
-      "title": "1930s 'Dragon Man' Finally Gives Elusive Ancient Human Species a Face - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/1930s-dragon-man-finally-gives-elusive-ancient-human-species-a-face",
-      "image_url": "https://www.sciencealert.com/images/2025/06/dragon-man-skull-on-black-background.jpg",
-      "summary": "1930s 'Dragon Man' Finally Gives Elusive Ancient Human Species a Face The 'dragon man' skull. (Ni et al., The Innovation, 2021) A 146,000-year-old skull known as the 'dragon man', thought to be the sole representative of an ancient human species, actually belongs to a larger group of our extinct relatives, the Denisovans, two new papers claim. It's the first skull...",
-      "published": "Thu, 19 Jun 2025 13:01:21 GMT"
     },
     {
       "id": "568c16c88752579354e12023325bbdab",
@@ -36,19 +36,10 @@
       "id": "2a430c338f2fc28a5062cf82f633e8f3",
       "title": "Scientists say a tiny brown moth navigates 600 miles using stars — just like humans and birds - CNN",
       "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/20/science/bogong-moth-star-navigation",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/bogong-moth.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Scientists say a tiny brown moth navigates 600 miles using stars — just like humans and birds Published 12:46 PM EDT, Fri June 20, 2025 The nocturnal Bogong moth makes an epic journey to cool caves in the Australian Alps, a study found. Ajay Narendra (CNN) — Each year, a tiny species in Australia makes a grueling 620-mile (1,000-kilometer) nighttime...",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92bFVteGEyeVhoMGdiMVBqT3UxcVYwVzZrdFptcEVETG5GTlphd0IyRzNQeDJkcXg2OUZuMTE2cUhxc1dQd1E1LXpfeXFkdUJ2WTIwNnVvZmtORUpLUGdqakpPUjhmVnQtc2t4NHpCRjV3S21Z0gF6QVVfeXFMTkpVSGJ1Z2FnVktvVTRPa2FlYkRCUk91Z0lZaTRiU1MzRENMYWNvX18yX1VuUFZNZVBUR2tlbXU0ajU3Smh2N1lndEM4aUlKa2pKUDA3THdiTE1Va0RHMUJmWmxGTTBOS1ZNRW10NnlkcWNGVU9yZkZqWEE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Fri, 20 Jun 2025 16:46:00 GMT"
-    },
-    {
-      "id": "1568548abdba8ad1a89b4b14a87a4177",
-      "title": "Sea spiders found farming methane-eating microbes in cultivated biofilm - Phys.org",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2025-06-sea-spiders-farming-methane-microbes.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.25.192.6 : 197f9fca-2389-496c-b21e-9a0b14bf",
-      "published": "Fri, 20 Jun 2025 13:13:20 GMT"
     },
     {
       "id": "e85769a5b5ce0079479f50f3c53ae73d",
@@ -60,6 +51,15 @@
       "published": "Fri, 20 Jun 2025 18:00:50 GMT"
     },
     {
+      "id": "1568548abdba8ad1a89b4b14a87a4177",
+      "title": "Sea spiders found farming methane-eating microbes in cultivated biofilm - Phys.org",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2025-06-sea-spiders-farming-methane-microbes.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.43.247.67 : bcdbac4a-3aca-495d-a55c-2bb87a0d",
+      "published": "Fri, 20 Jun 2025 13:13:20 GMT"
+    },
+    {
       "id": "a73eb5c3f0220c14ab2dc6b5e56d84fe",
       "title": "ESA's XMM-Newton finds huge filament of missing matter - theregister.com",
       "source": "theregister.com",
@@ -69,13 +69,13 @@
       "published": "Thu, 19 Jun 2025 12:28:00 GMT"
     },
     {
-      "id": "95ee5fcff9f477720d2502791db8db71",
-      "title": "Hey aliens, here’s our new album! How do you follow up a 50-year-old record that’s hurtling through space? - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2025/jun/20/aliens-new-album-golden-record-space-voyager-chuck-berry",
-      "image_url": "https://i.guim.co.uk/img/media/429697a08c49969a53b907131bcfa972697880a3/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c024d717a4a38c0be00c96bd054aa291",
-      "summary": "Fund the free press with $15 per month Greetings from Earth … the record could make contact in 40,000 years. Photograph: Science & Society Picture Librar/SSPL/Getty Images Hey aliens, here’s our new album! How do you follow up a 50-year-old record that’s hurtling through space? The Golden Record – launched in 1977 on the Voyager space probes – contained everything...",
-      "published": "Fri, 20 Jun 2025 10:53:00 GMT"
+      "id": "95ae42e5941a00f49662ee1767ee2c47",
+      "title": "Unexpected Nova Just Appeared In The Night Sky – And You Can See It With The Naked Eye - IFLScience",
+      "source": "IFLScience",
+      "url": "https://www.iflscience.com/unexpected-nova-just-appeared-in-the-night-sky-and-you-can-see-it-with-the-naked-eye-79708",
+      "image_url": "https://assets.iflscience.com/assets/articleNo/79708/aImg/84638/lupus-meta.png",
+      "summary": "Unexpected Nova Just Appeared In The Night Sky – And You Can See It With The Naked Eye The star just got 3 million times brighter. Senior Staff Writer & Space Correspondent From L. A. tonight, the Lupus Constellation will be South over the horizon. The nova will be where the yellow dot is (but not this large! !) or...",
+      "published": "Fri, 20 Jun 2025 20:34:02 GMT"
     },
     {
       "id": "807e65cfa8fae84ce7c5e8a02cdd8dc1",
@@ -87,31 +87,22 @@
       "published": "Fri, 20 Jun 2025 10:42:00 GMT"
     },
     {
+      "id": "89da2e5f163a144df3c6fce3328026e2",
+      "title": "Powerful X-class solar flare erupts from sun, knocking out radio signals across the Pacific (video) - Space",
+      "source": "Space",
+      "url": "https://www.space.com/astronomy/sun/powerful-x-class-solar-flare-erupts-from-sun-knocking-out-radio-signals-across-the-pacific-video",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/zRZ6kGssWktrZTvpcJ7qiU.jpg",
+      "summary": "Powerful X-class solar flare erupts from sun, knocking out radio signals across the Pacific (video) By Daisy Dobrijevic published 20 hours ago Sunspot region 4114 has done it again! This time unleashing a colossal X1. 9 solar flare. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Click here for more...",
+      "published": "Fri, 20 Jun 2025 11:51:20 GMT"
+    },
+    {
       "id": "c4b98872fb97ac082ff4ac066696cdf0",
       "title": "Satellite streaks block out the Arctic sky photo of the day for June 20, 2025 - Space",
       "source": "Space",
       "url": "https://www.space.com/astronomy/earth/satellite-streaks-block-out-canadian-skies-space-photo-of-the-day-for-june-20-2025",
       "image_url": "https://cdn.mos.cms.futurecdn.net/fQiRut3eSaZSEB8KxNj2DB.jpg",
-      "summary": "Universe's 'missing' matter found! Satellite streaks block out the Arctic sky | Space photo of the day for June 20, 2025 By Kenna Hughes-Castleberry published 13 hours ago Researchers created a satellite tracking system to track satellite streaks across the Arctic for the first time ever. When you purchase through links on our site, we may earn an affiliate commission.",
+      "summary": "Universe's 'missing' matter found! Satellite streaks block out the Arctic sky | Space photo of the day for June 20, 2025 By Kenna Hughes-Castleberry published 16 hours ago Researchers created a satellite tracking system to track satellite streaks across the Arctic for the first time ever. When you purchase through links on our site, we may earn an affiliate commission.",
       "published": "Fri, 20 Jun 2025 15:00:00 GMT"
-    },
-    {
-      "id": "b1636948a8e225e9108971350edf2c77",
-      "title": "ESA signs agreement for potential use of Orbital Reef - SpaceNews",
-      "source": "SpaceNews",
-      "url": "https://spacenews.com/esa-signs-agreement-for-potential-use-of-orbital-reef/",
-      "image_url": "https://spacenews.com/wp-content/uploads/2022/04/Orbital-Reef_FullColor_ExternalHD-scaled.jpeg",
-      "summary": "Covering the business and politics of space ESA signs agreement for potential use of Orbital Reef Blue Origin and Sierra Space announced Orbital Reef in October 2021 as part of a partnership with Boeing, Redwire Space and several other companies and organizations. The station will ultimately feature a series of laboratory and habitation modules. PARIS — The European Space Agency...",
-      "published": "Fri, 20 Jun 2025 11:22:21 GMT"
-    },
-    {
-      "id": "51c8aae5f1a8f2f9c2ea0692a1da6a31",
-      "title": "Mysterious, Powerful Radio Pulse Traced Back To NASA Satellite That’s Been Dead Since 1967 - IFLScience",
-      "source": "IFLScience",
-      "url": "https://www.iflscience.com/mysterious-powerful-radio-pulse-traced-back-to-nasa-satellite-thats-been-dead-since-1967-79712",
-      "image_url": "https://assets.iflscience.com/assets/articleNo/79712/aImg/84646/relay-2-meta.jpg",
-      "summary": "Mysterious, Powerful Radio Pulse Traced Back To NASA Satellite That’s Been Dead Since 1967 The detection could help refine radio astronomy observations and keep spacecraft and satellites safe. Senior Staff Writer & Space Correspondent Impression of the Relay Satellite Image Credit: public domain via NH2501/Wikimedia Commons he dead speak! Humanity has heard a mysterious signal, but the origin is not...",
-      "published": "Fri, 20 Jun 2025 16:28:57 GMT"
     },
     {
       "id": "2ba2a8cb5288b5b300efc109b4d957ea",
@@ -123,6 +114,42 @@
       "published": "Fri, 20 Jun 2025 19:30:00 GMT"
     },
     {
+      "id": "357b4f5cf2426f761f997547887cb2e0",
+      "title": "Thousands of Previously Unseen Colors Captured in the Sculptor Galaxy by ESO’s VLT – Very Large Telescope - Good News Network",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/thousands-of-previously-unseen-colors-captured-in-the-sculptor-galaxy-by-esos-very-large-telescope/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/06/Thousands-of-previously-unseen-colors-captured-in-the-Sculptor-Galaxy-–-ESO-VLT-Very-Large-Telescope.jpg",
+      "summary": "Home All News Science Thousands of Previously Unseen Colors Captured in the Sculptor Galaxy by ESO’s. .. Thousands of Previously Unseen Colors Captured in the Sculptor Galaxy by ESO’s VLT – Very Large Telescope Thousands of previously unseen colors captured in the Sculptor Galaxy by ESO’s VLT – Very Large Telescope / ESO This image of the Sculptor Galaxy was...",
+      "published": "Fri, 20 Jun 2025 11:00:27 GMT"
+    },
+    {
+      "id": "05ea59fff4681650c5cb4f12d2082f72",
+      "title": "In November 2026, A Human-Made Object Will Reach A Light-Day From Earth For First Time In History - IFLScience",
+      "source": "IFLScience",
+      "url": "https://www.iflscience.com/in-november-2026-a-human-made-object-will-reach-a-light-day-from-earth-for-first-time-in-history-79691",
+      "image_url": "https://assets.iflscience.com/assets/articleNo/79691/aImg/84613/pale-blue-dot-meta.png",
+      "summary": "In November 2026, A Human-Made Object Will Reach A Light-Day From Earth For First Time In History It took the spacecraft nearly five decades to get there. It takes light a day. Pale Blue Dot: The most distant image we have of Earth. Image credit: NASA/JPL-Caltech, IFLScience n late 2026, a human-made object will reach a full light-day away from...",
+      "published": "Thu, 19 Jun 2025 16:37:10 GMT"
+    },
+    {
+      "id": "b1636948a8e225e9108971350edf2c77",
+      "title": "ESA signs agreement for potential use of Orbital Reef - SpaceNews",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/esa-signs-agreement-for-potential-use-of-orbital-reef/",
+      "image_url": "https://spacenews.com/wp-content/uploads/2022/04/Orbital-Reef_FullColor_ExternalHD-scaled.jpeg",
+      "summary": "Covering the business and politics of space ESA signs agreement for potential use of Orbital Reef Blue Origin and Sierra Space announced Orbital Reef in October 2021 as part of a partnership with Boeing, Redwire Space and several other companies and organizations. The station will ultimately feature a series of laboratory and habitation modules. PARIS — The European Space Agency...",
+      "published": "Fri, 20 Jun 2025 11:22:21 GMT"
+    },
+    {
+      "id": "be8707a798ae40dd2522f0a6d4adf05f",
+      "title": "Two mathematicians discover a new way to count prime numbers - Earth.com",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/news/two-mathematicians-discover-a-new-way-to-count-prime-numbers/",
+      "image_url": "https://cff2.earth.com/uploads/2025/06/19061204/prime-numbers_math-systems_1m.jpg",
+      "summary": "Two mathematicians discover a new way to count prime numbers Prime numbers captivate number theory lovers because these basic blocks influence so many areas of mathematics. Even though their distribution might look unpredictable, these special numbers follow patterns that are still coming to light. In 300 BCE, Euclid proved there are infinitely many primes. He revealed that no matter how...",
+      "published": "Thu, 19 Jun 2025 12:15:42 GMT"
+    },
+    {
       "id": "1727922662b30f6aa1b33422c7600052",
       "title": "Volcanic gold discovered in Hawaii may have come directly from Earth's core - Earth.com",
       "source": "Earth.com",
@@ -132,13 +159,13 @@
       "published": "Fri, 20 Jun 2025 21:42:57 GMT"
     },
     {
-      "id": "885bb21a815370739bff6194165118fe",
-      "title": "Message to NASA Goddard Employees: One Departure – Soon, Many - NASA Watch",
-      "source": "NASA Watch",
-      "url": "https://nasawatch.com/personnel-news/message-to-nasa-goddard-employees-one-departure-soon-many/",
-      "image_url": null,
-      "summary": "Verify you are human by completing the action below. nasawatch.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Thu, 19 Jun 2025 00:06:36 GMT"
+      "id": "19c94c31b5706d9d50b6c8f69f4f5861",
+      "title": "Strange signals detected from Antarctic ice seem to defy laws of physics. Scientists are searching for an answer - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/20/science/anomalous-signals-antarctica-neutrino-detectors",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/anita-internal1-sized.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Strange signals detected from Antarctic ice seem to defy laws of physics. Scientists are searching for an answer Updated 8:49 PM EDT, Fri June 20, 2025 NASA’s Antarctic Impulsive Transient Antenna, or ANITA, experiment flew over stretches of Antarctic ice via a balloon. Stephanie Wissel/Penn State Sign up for CNN’s Wonder Theory science newsletter. Explore the universe with news on...",
+      "published": "Sat, 21 Jun 2025 00:49:00 GMT"
     },
     {
       "id": "cbd6300029823a55f95f1046835135b1",
@@ -150,40 +177,13 @@
       "published": "Fri, 20 Jun 2025 06:00:00 GMT"
     },
     {
-      "id": "ee7ede2322844c82816b65d56a4da474",
-      "title": "Scientists delve into Hells Canyon cave to solve mystery of America's deepest gorge - Live Science",
-      "source": "Live Science",
-      "url": "https://www.livescience.com/planet-earth/geology/hells-canyon-caves-reveal-unexpected-finding-about-americas-deepest-gorge",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/nK9vedYZZNaBLGvVzREyQB.jpg",
-      "summary": "Vera C. Rubin Observatory pictures Hells Canyon caves reveal unexpected finding about America's deepest gorge By Olivia Ferrari published 12 hours ago About 2,000 feet deeper than the Grand Canyon, Hells Canyon was rapidly carved when a lake spilled over about 2. 1 million years ago, new research estimates. When you purchase through links on our site, we may earn...",
-      "published": "Fri, 20 Jun 2025 15:41:00 GMT"
-    },
-    {
-      "id": "381469f1204a0ccd3fc717fb9f70046c",
-      "title": "A 'new star' has exploded into the night sky — and you can see it from North America - Live Science",
-      "source": "Live Science",
-      "url": "https://www.livescience.com/space/astronomy/a-new-star-has-exploded-into-the-night-sky-and-you-can-see-it-from-north-america",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/WrwvVHNDwkfz93VvZE2vYN.jpg",
-      "summary": "Vera C. Rubin Observatory pictures World's first 'robot boxing tournament' A 'new star' has exploded into the night sky — and you can see it from North America By Harry Baker published yesterday The never-before-seen \"nova,\" dubbed V462 Lupi, recently appeared in the constellation Lupus, after suddenly becoming 4 million times brighter. The shining explosion is visible to the naked...",
-      "published": "Thu, 19 Jun 2025 16:36:06 GMT"
-    },
-    {
-      "id": "4c93726bcda4e512b07137bc53caaf8a",
-      "title": "‘Once in a Lifetime’ Photo of ISS Crossing the Sun as Solar Flare Erupts - PetaPixel",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2025/06/20/once-in-a-lifetime-photo-of-iss-crossing-the-sun-as-solar-flare-erupts/",
-      "image_url": "https://petapixel.com/assets/uploads/2025/06/Andrew-McCarthy1.jpg",
-      "summary": "‘Once in a Lifetime’ Photo of ISS Crossing the Sun as Solar Flare Erupts The ISS crosses the Sun as a solar flare erupts just above it, Sunday June 15, 2025. | Andrew McCarthy Astrophotographer Andrew McCarthy captured a “once in a lifetime shot” on Sunday when the International Space Station (ISS) crossed the Sun just as a solar flare...",
-      "published": "Fri, 20 Jun 2025 11:25:07 GMT"
-    },
-    {
-      "id": "29aeed8d7002e21665e40d50df3d209d",
-      "title": "Astronomers Reveal Stunning Thousand-Color Photo of Nearby Galaxy - My Modern Met",
-      "source": "My Modern Met",
-      "url": "https://mymodernmet.com/eso-sculptor-galaxy-photo/",
-      "image_url": "https://mymodernmet.com/wp/wp-content/uploads/2025/06/eso-sculptor-galaxy-thumbnail.jpg",
-      "summary": "Astronomers Reveal Stunning Thousand-Color Photo of Nearby Galaxy By Jessica Stewart on June 19, 2025 MUSE view of the Sculptor Galaxy, detail. (Photo: ESO/E. Congiu et al. ) Thanks to the European Southern Observatory’s Very Large Telescope, astronomers have created a thousand-color image of a nearby galaxy. The Sculptor Galaxy, also called NGC 253, is located 11 billion light-years away...",
-      "published": "Thu, 19 Jun 2025 20:17:09 GMT"
+      "id": "d9b07e47a8f0148f99a13f679c75ed0c",
+      "title": "Don’t Miss This Weekend's Celestial Spectacle: Moon, Venus, and the Pleiades in a Rare Alignment - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/moon-venus-pleiades-in-a-rare-alignment/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Dont-Miss-This-Weekends-Celestial-Spectacle-Moon-Venus-and-the-Pleiades-in-a-Rare-Alignment.jpg",
+      "summary": "Don’t Miss This Weekend’s Celestial Spectacle: Moon, Venus, and the Pleiades in a Rare Alignment Don’t miss this jaw-dropping sky show with Venus, the moon, and the Pleiades this Sunday! Image credit: Canva | The Daily Galaxy --Great Discoveries Channel This Sunday, June 22, offers a breathtaking sky show, with a stunning triangular alignment of the waning crescent moon, the...",
+      "published": "Fri, 20 Jun 2025 16:35:00 GMT"
     }
   ]
 }
