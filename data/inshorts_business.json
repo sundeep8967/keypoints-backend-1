@@ -1,54 +1,63 @@
 {
   "metadata": {
     "source_file": "data/news_business.json",
-    "generation_time": "2025-06-21 07:32:40",
+    "generation_time": "2025-06-21 13:48:15",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "38b3b1007899297d9834fe36f7f5de9c",
-      "title": "Week of Middle East Conflict Pushes Oil Prices Higher - WSJ",
-      "source": "WSJ",
-      "url": "https://www.wsj.com/finance/week-of-middle-east-conflict-pushes-oil-prices-higher-85d7deb6",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 20:49:00 GMT"
-    },
-    {
-      "id": "55b6989203b395174e4f780783c869ce",
-      "title": "US auto safety agency reviewing Tesla answers on robotaxi deployment plans - Reuters",
+      "id": "87f8cf5d6635963213e26c5bd0890bfa",
+      "title": "World markets on oil watch as Middle East tensions flare - Reuters",
       "source": "Reuters",
-      "url": "https://www.reuters.com/business/autos-transportation/us-highway-safety-officials-reviewing-teslas-robotaxi-deployment-plans-2025-06-20/",
+      "url": "https://www.reuters.com/business/energy/global-markets-oil-graphic-2025-06-20/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 23:30:04 GMT"
+      "published": "Fri, 20 Jun 2025 20:33:33 GMT"
     },
     {
-      "id": "27c6cac5402a0b0128b35f5da7a8942a",
-      "title": "Circle Gets Buy Rating After Senate Passes Stablecoin Bill - Bloomberg.com",
-      "source": "Bloomberg.com",
+      "id": "a0eb7c085a6a5e22b929c5ccd1b7eea9",
+      "title": "Telegram founder Pavel Durov says all his 100-plus children will receive share of his estate - KSL News",
+      "source": "KSL News",
+      "url": "https://www.ksl.com/article/51332959/telegram-founder-pavel-durov-says-all-his-100-plus-children-will-receive-share-of-his-estate",
+      "image_url": "https://img.ksl.com/slc/3090/309015/30901599.jpg?filter=kslv2/responsive_story_lg",
+      "summary": "Telegram founder Pavel Durov says all his 100-plus children will receive share of his estate By Lianne Kolirin, CNN | Posted - June 20, 2025 at 8:00 p. m. Telegram CEO Pavel Durov said he plans to leave his fortune to the more than 100 children he has fathered, according to an interview published Thursday. (Thomas Samson, AFP/Getty Images via...",
+      "published": "Sat, 21 Jun 2025 02:01:16 GMT"
+    },
+    {
+      "id": "1c5f85e8fba8f7903e7a6eebcaaa36ae",
+      "title": "Veteran Tesla analyst makes boldest robotaxi call yet - TheStreet",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/technology/veteran-tesla-bull-just-made-one-of-his-boldest-robotaxi-calls-yet-",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 20 Jun 2025 17:59:55 GMT"
+    },
+    {
+      "id": "d21b2945b29445e52249bc1db4121c42",
+      "title": "Tesla Robo-Taxis, With Human Safety Monitors, to Launch in 2 Days - Barron's",
+      "source": "Barron's",
+      "url": "https://www.barrons.com/articles/tesla-stock-price-robotaxi-launch-musk-778a6e54",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 20 Jun 2025 20:07:00 GMT"
+    },
+    {
+      "id": "8d1c065963d9c5082317bf68bf955693",
+      "title": "‘Throwing us off a cliff’: Megabill could derail hundreds of planned clean energy projects - Politico",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2025/06/19/uncertainty-from-house-passed-megabill-looms-over-hundreds-of-clean-energy-projects-00404262",
+      "image_url": "https://static.politico.com/2c/85/07c850fa4b29930afd04186378fa/https-delivery-gettyimages.com/downloads/2191874761",
+      "summary": "‘Throwing us off a cliff’: Megabill could derail hundreds of planned clean energy projects A POLITICO analysis identified 794 planned clean electricity generation facilities — mostly in GOP districts — that could lose subsidies under the House bill. The Senate is debating changes. Solar panels line the roof of a commercial building in West Los Angeles on Jan. 4. |...",
+      "published": "Thu, 19 Jun 2025 16:00:00 GMT"
+    },
+    {
+      "id": "09d2dce7239b10859f8e0e5cd318b555",
+      "title": "Circle Gets Buy Rating After Senate Passes Stablecoin Bill - Bloomberg",
+      "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2025-06-20/circle-gets-first-buy-rating-after-senate-passes-stablecoin-bill",
       "image_url": null,
       "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
       "published": "Fri, 20 Jun 2025 20:07:24 GMT"
-    },
-    {
-      "id": "f9146c048fd927cdc4c9b888a8167e84",
-      "title": "Chart: Rooftop solar could tank if GOP repeals key tax credit - Canary Media",
-      "source": "Canary Media",
-      "url": "https://www.canarymedia.com/articles/solar/rooftop-crash-tax-credit-republican-bill",
-      "image_url": "https://img.canarymedia.com/content/uploads/COTW-rooftop-solar-1.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=0b152d2ce79f4f60f027be633a0e02f8",
-      "summary": "Clean energy journalism for a cooler tomorrow Chart: Rooftop solar could tank if GOP repeals key tax credit Congressional Republicans are poised to eliminate a tax credit that makes rooftop solar cheaper for homeowners, the latest in a string of blows to the sector. See more from Canary Media’s “Chart of the week” column. Rooftop solar is already struggling in...",
-      "published": "Fri, 20 Jun 2025 07:30:00 GMT"
-    },
-    {
-      "id": "978d6e66d01e73f3b4a5db72c80b2582",
-      "title": "North Texas Kroger store among those closing nationwide - WFAA",
-      "source": "WFAA",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdExzdnpUTDB2cHFkcXRzRjNwaGdKNVF0VGVOWElYcXQ1OFRnSHBUREU1ZGsxWWkwdWZYYlpya2haa1V0VlltZzh4TVRGV0h4aTYyZ2duWXFmbm5PckJRUUhYM0lZbExmNTRVbFNEQXFDTjVIZHJhdnd5eGlyM1UyekVzWjZyYzJyTzZnTU1CVnpmVmd0OEpWZGxkM2tHSWNXOWEtd21BbTZVLVQ1aHRPdkZoUDVnWmRZbVhrTXdHdWRCMVdaaXZXU2RDOFNadkU?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 22:33:00 GMT"
     },
     {
       "id": "f6a6d0729c3194937d9706c0063cf314",
@@ -57,52 +66,16 @@
       "url": "https://www.axios.com/2025/06/20/data-breach-passwords-leaked-google-apple-meta",
       "image_url": "https://images.axios.com/rmgp5XtYUgc12o6FkJ3STO5ijhQ=/0x0:1920x1080/1366x768/2025/06/20/1750434575183.jpg",
       "summary": "Data breach compilation lists 16 billion compromised passwords Illustration: Sarah Grillo/Axios More than 16 billion login credentials for Google, Facebook, Apple and other platforms have been exposed in one of the largest databases of cybersecurity breaches of all time, according to a Cybernews report. Why it matters: Researchers say that this \"is not just a leak — it's a blueprint...",
-      "published": "Fri, 20 Jun 2025 22:12:55 GMT"
+      "published": "Sat, 21 Jun 2025 04:14:39 GMT"
     },
     {
-      "id": "e0b5ab80f502804c2f03d281586562d6",
-      "title": "Apple Internally Discussing Whether to Bid to Acquire Perplexity AI - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2025/06/20/apple-discussing-perplexity-ai-bid/",
-      "image_url": "https://images.macrumors.com/t/wRRjqdzb1Zy8-S7x_uvuUkzGIhs=/1920x/article-new/2024/10/perplexity-ai-mac.jpg",
-      "summary": "iOS 26macOS Tahoe 26iPadOS 26iPhone 17iPhone 17 AiriPhone 17 ProiPhone 16eiPhone 16iPhone 16 ProMacBook ProiOS 18Apple Vision ProiMacMac miniiPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Pro Display XDRApple Watch Ultra 2HomePod miniMac ProMacBook AiriPadiPhone 15AirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch 10Apple Watch SEMac StudioiPad Air iPad miniiPhone 18CarPlayApple PaywatchOS 26 Apple Internally Discussing Whether to Bid to Acquire...",
-      "published": "Fri, 20 Jun 2025 21:40:59 GMT"
-    },
-    {
-      "id": "58901b6ebcc3bd59869663c49ccaf658",
-      "title": "Why Is Elena Kagan Suddenly Siding With the Conservatives? - Slate Magazine",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/news-and-politics/2025/06/supreme-court-liberals-divided-why.html",
-      "image_url": "https://compote.slate.com/images/fc052087-8931-4d4c-958f-4fbdf6f98707.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "summary": "Light Activating this button will toggle the display of additional content Elena Kagan Keeps Joining Conservative Decisions. Why? The Supreme Court’s liberals suddenly seem divided. What’s going on? Photo illustration by Slate. Photos by Chip Somodevilla/Getty Images, Jacquelyn Martin/Pool/AFP/Getty Images, and Matias J. Ocner/Miami Herald/Tribune News Service via Getty Images. Opinionpalooza Is Here—Follow Along With Slate’s Legal Experts Get clear,...",
-      "published": "Fri, 20 Jun 2025 21:25:00 GMT"
-    },
-    {
-      "id": "f188b821cad7471fd2240a1d35ec6156",
-      "title": "Fed Governor Calls for Rate Cuts as Soon as July - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/20/business/fed-interest-rates-christopher-waller.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 20:30:30 GMT"
-    },
-    {
-      "id": "587567b6f25c3a8614b5f5852bba880b",
-      "title": "Trump says he may change his mind about firing Fed Chair Powell - Reuters",
+      "id": "3321912a3c9aa0b4d9aecdfb9b6d4c75",
+      "title": "Apple executives held internal talks about buying Perplexity, Bloomberg News reports - Reuters",
       "source": "Reuters",
-      "url": "https://www.reuters.com/business/finance/trump-says-he-may-have-change-his-mind-about-firing-fed-chair-powell-2025-06-20/",
+      "url": "https://www.reuters.com/business/apple-executives-held-internal-talks-about-buying-perplexity-bloomberg-news-2025-06-20/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 23:32:24 GMT"
-    },
-    {
-      "id": "8d133d037b623cd631d4fe94bbc13232",
-      "title": "Aflac Says Personal Info May Have Been Stolen in Cyberattack - WSJ",
-      "source": "WSJ",
-      "url": "https://www.wsj.com/tech/cybersecurity/aflac-says-personal-info-may-have-been-stolen-in-cyberattack-7bde3fa9",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 13:05:00 GMT"
+      "published": "Sat, 21 Jun 2025 01:18:00 GMT"
     },
     {
       "id": "01c32966f9b670bf5f4dbf98ed0c9c53",
@@ -114,67 +87,31 @@
       "published": "Fri, 20 Jun 2025 12:10:00 GMT"
     },
     {
-      "id": "b3e68bb25484f5e69af9e28a070ae733",
-      "title": "The Markets Are Balancing on a Knife’s Edge - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/20/business/stock-bond-market-investing-israel-iran-gulf.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 19:13:54 GMT"
+      "id": "6b562c685fa53dfae7a626468edc3289",
+      "title": "Aflac discloses breach amidst Scattered Spider insurance attacks - BleepingComputer",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/aflac-discloses-breach-amidst-scattered-spider-insurance-attacks/",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2025/06/20/Aflac-headpic.jpg",
+      "summary": "HomeNewsSecurityAflac discloses breach amidst Scattered Spider insurance attacks Aflac discloses breach amidst Scattered Spider insurance attacks On Friday, American insurance giant Aflac disclosed that its systems were breached in a broader campaign targeting insurance companies across the United States by attackers who may have stolen personal and health information. Aflac (short for American Family Life Assurance Company) is the largest...",
+      "published": "Fri, 20 Jun 2025 14:52:05 GMT"
     },
     {
-      "id": "0c317e7c434def6efa33c172d96b4460",
-      "title": "Tesla, GMS, CarMax, Accenture, Circle Internet, Smith & Wesson, Kroger, and More Movers - Barron's",
-      "source": "Barron's",
-      "url": "https://www.barrons.com/articles/stock-movers-efb5c45d",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 20:13:00 GMT"
+      "id": "31d65e1a5031b0428cc4e6e488d38df2",
+      "title": "Trump insults Powell again as another top Fed official joins the call to lower interest rates - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/20/economy/fed-governor-rate-cut-july",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2097696707.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Trump insults Powell again as another top Fed official joins the call to lower interest rates Updated 7:15 PM EDT, Fri June 20, 2025 Federal Reserve Governor Christopher Waller in Washington, DC, on March 22, 2024. Al Drago/Bloomberg/Getty Images President Donald Trump on Friday again demanded the Federal Reserve lower interest rates, insulting Fed Chair Jerome Powell in the process.",
+      "published": "Fri, 20 Jun 2025 23:15:00 GMT"
     },
     {
-      "id": "e3fa18e07a90ec6b93c453ca7795c4b0",
-      "title": "After trying to buy Ilya Sutskever’s $32B AI startup, Meta looks to hire its CEO - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/06/20/after-trying-to-buy-ilya-sutskevers-32b-ai-startup-meta-looks-to-hire-its-ceo/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579179.jpg?resize=1200,800",
-      "summary": "After trying to buy Ilya Sutskever’s $32B AI startup, Meta looks to hire its CEO Mark Zuckerberg’s AI talent hiring spree continues. In recent months, Meta tried to acquire Safe Superintelligence, the $32 billion AI startup co-founded by OpenAI’s former chief scientist, Ilya Sutskever, according to a report from CNBC on Thursday. Sutskever ultimately turned Meta down, according to CNBC,...",
-      "published": "Fri, 20 Jun 2025 15:32:28 GMT"
-    },
-    {
-      "id": "61856db2e2e64e1f122987b4b4d3a9b6",
-      "title": "People With Severe Diabetes Are Cured in Small Trial of New Drug - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/20/health/diabetes-cure-insulin-stem-cell.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 23:51:25 GMT"
-    },
-    {
-      "id": "ee0f6b41431587a23003c96fc36445bd",
-      "title": "Disagreements over Duchenne therapy, management style may have led to ouster of key FDA official - STAT",
-      "source": "STAT",
-      "url": "https://www.statnews.com/2025/06/20/fda-ouster-top-gene-therapy-official-nicole-verdun-placed-on-leave-after-review-committee-canceled/",
-      "image_url": "https://www.statnews.com/wp-content/uploads/2025/06/53783276504_56f018e7f4_k-1024x576.jpg",
-      "summary": "Reporting from the frontiers of health and medicine Disagreements over Duchenne therapy, management style may have led to ouster of key FDA official Tensions had been high before a top gene therapy regulator was placed on leave, alarming industry Nicole Verdun, seen here at a National Institutes of Health event in 2024, was serving as director of the office that...",
-      "published": "Fri, 20 Jun 2025 17:00:58 GMT"
-    },
-    {
-      "id": "d544e9fb7648e7487841452dfe77d215",
-      "title": "Meta and Oakley Are Launching AI-Powered Glasses This Summer - Investopedia",
-      "source": "Investopedia",
-      "url": "https://www.investopedia.com/meta-and-oakley-are-launching-ai-powered-glasses-this-summer-11758359",
-      "image_url": "https://www.investopedia.com/thmb/c2ejBL3iU3W5Zwhwafgevo_aKfY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Screenshot2025-06-20at11.57.53AM-95154f0890954f6cb2f3d042b031d7ed.png",
-      "summary": "Stocks Waver, Oil Slides as Israel-Iran Conflict Stretches On Kroger Sales Fall Short in 'Uncertain' Environment Fed's Waller Says Rate Cut Could Come Soon Accenture Leads S&P 500 Decliners as Bookings Fall Short of Estimates Meta and Oakley Are Launching AI-Powered Glasses This Summer By ANDREW KESSEL Published June 20, 2025 01:52 PM EDT The Oakley HSTN glasses are Meta’s...",
-      "published": "Fri, 20 Jun 2025 17:52:50 GMT"
-    },
-    {
-      "id": "7f1301808af3b2fdecb73b1c152bb0ee",
-      "title": "Urgent recall issued for chocolate sold nationwide with ingredient that could kill - Daily Mail",
-      "source": "Daily Mail",
-      "url": "https://www.dailymail.co.uk/health/article-14833455/Urgent-recall-issued-chocolate-sold-nationwide-ingredient-kill.html",
-      "image_url": "https://i.dailymail.co.uk/1s/2025/06/20/22/99583389-0-image-a-37_1750454311614.jpg",
-      "summary": "Urgent recall issued for chocolate sold nationwide with ingredient that could kill READ MORE: Chocolate treat recalled over fears it can cause allergic reactions By ALEXA LARDIERI U. S. DEPUTY HEALTH EDITOR DAILYMAIL. COM PUBLISHED: 17:25 EDT, 20 June 2025 | UPDATED: 17:53 EDT, 20 June 2025 The FDA is warning Americans of a popular chocolate treat that could cause...",
-      "published": "Fri, 20 Jun 2025 21:25:43 GMT"
+      "id": "0cad7643b63a1eeed29d5862d720f7a2",
+      "title": "Ethereum whales sell $321 mln in 60 seconds! Still, a tough battle remains - AMBCrypto",
+      "source": "AMBCrypto",
+      "url": "https://ambcrypto.com/ethereum-whales-sell-321-mln-in-60-seconds-still-a-tough-battle-remains/",
+      "image_url": "https://ambcrypto.com/wp-content/uploads/2025/06/Gladys-3-2-1000x600.webp",
+      "summary": "Home > Ethereum > Ethereum whales sell $321 mln in 60 seconds! Still, a tough battle remains Ethereum whales sell $321 mln in 60 seconds! Still, a tough battle remains Are bulls regaining control or will bearish momentum push ETH lower? Ethereum’s Taker Sell Volume spiked to $10. 3B, reflecting strong market-wide sell pressure from whales and retailers. ETH dropped...",
+      "published": "Sat, 21 Jun 2025 11:03:45 GMT"
     },
     {
       "id": "658153d73d0e1f156e72514f44cad99e",
@@ -184,6 +121,69 @@
       "image_url": "https://mma.prnewswire.com/media/1155202/Kroger_Co_Logo.jpg",
       "summary": "Kroger Reports First Quarter 2025 Results and Updates Identical Sales without Fuel Guidance for 2025 Identical Sales without fuel increased 3. 2%* Operating Profit of $1,322 million; EPS of $1. 29 Adjusted FIFO Operating Profit of $1,518 million and Adjusted EPS of $1. 49 CINCINNATI, June 20, 2025 /PRNewswire/ -- The Kroger Co. (NYSE: KR) today reported its first quarter...",
       "published": "Fri, 20 Jun 2025 12:02:10 GMT"
+    },
+    {
+      "id": "9ce725cdd95ed1d18d8a9455dc09fc55",
+      "title": "Supreme Court allows vape companies to pick courts to hear challenges - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/06/20/supreme-court-vaping-5th-circuit-fda-appeal/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6QAD62NRAOUIWGH64PMWOCQBQI.jpg&w=1440",
+      "summary": "Supreme Court allows vape companies to pick courts to hear challenges The case focused on venue-shopping and whether the tobacco company R. J. Reynolds could appeal in a court far from its headquarters. The Food and Drug Administration has moved aggressively to regulate flavored vapes in recent years because of their popularity with young people. (Frank Franklin II/AP) By Justin...",
+      "published": "Sat, 21 Jun 2025 00:39:24 GMT"
+    },
+    {
+      "id": "2c406079129b97e766800f7e4c1f427b",
+      "title": "Top Federal Reserve official calls for rate cuts as soon as July - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e3530cfe-654e-4996-96eb-fa1c2b20e008",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9b15291b-446a-49bd-a23e-cd000bbdd16b.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Top Federal Reserve official calls for rate cuts as soon as July Governor Chris Waller says US has yet to see an inflation ‘shock’ from Donald Trump’s tariffs Top Federal Reserve official calls for rate cuts as soon as...",
+      "published": "Fri, 20 Jun 2025 15:13:19 GMT"
+    },
+    {
+      "id": "c87d7676bfac14632e19454a56154bb5",
+      "title": "NVDA, TSMC, AVGO: Chip Stocks Fall on Reports U.S. May Further Restrict Exports to China - TipRanks",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com/news/nvda-tsmc-avgo-chip-stocks-fall-on-reports-u-s-may-further-restrict-exports-to-china",
+      "image_url": "https://blog.tipranks.com/wp-content/uploads/2025/06/aaa-103-750x406.jpg",
+      "summary": "NVDA, TSMC, AVGO: Chip Stocks Fall on Reports U. S. May Further Restrict Exports to China Leading semiconductor stocks such as Nvidia NVDA -1. 12% ▼ , Broadcom AVGO -0. 27% ▼ , and Taiwan Semiconductor Manufacturing Co. TSM -1.87% ▼ are down on June 20 as reports surface that the U. S. government may further restrict the export of...",
+      "published": "Fri, 20 Jun 2025 18:29:15 GMT"
+    },
+    {
+      "id": "61856db2e2e64e1f122987b4b4d3a9b6",
+      "title": "People With Severe Diabetes Are Cured in Small Trial of New Drug - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/20/health/diabetes-cure-insulin-stem-cell.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 20 Jun 2025 23:15:04 GMT"
+    },
+    {
+      "id": "05fe174904285b636ddc0d7c3851b87a",
+      "title": "What to Know About the Wedding of Jeff Bezos and Lauren Sánchez - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/20/style/jeff-bezos-lauren-sanchez-wedding.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 20 Jun 2025 21:56:26 GMT"
+    },
+    {
+      "id": "36b457871421cf8503bd6dff417d14fb",
+      "title": "Electricity Is the New Eggs in a Power-Hungry US - Bloomberg",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-06-20/electricity-is-the-new-eggs-in-power-hungry-us-amid-rise-of-data-centers-and-ai",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Fri, 20 Jun 2025 11:41:00 GMT"
+    },
+    {
+      "id": "84ef519993fb669e62ca280ce60ddbf5",
+      "title": "Europe’s Growing Fear: How Trump Might Use U.S. Tech Dominance Against It - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/20/technology/us-tech-europe-microsoft-trump-icc.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 20 Jun 2025 14:09:10 GMT"
     }
   ]
 }
