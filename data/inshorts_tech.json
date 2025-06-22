@@ -1,10 +1,19 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-22 06:57:58",
+    "generation_time": "2025-06-22 13:37:30",
     "total_articles": 20
   },
   "articles": [
+    {
+      "id": "6aadf77789e3a77db1fded41e506e8d1",
+      "title": "Week in Review: Meta reveals its Oakley smart glasses - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/week-review-meta-reveals-oakley-170839995.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/zHxpqDlCoSgz_8_wayUkSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/techcrunch_finance_785/bb08a90d04e98924c08aeb136c87883c",
+      "summary": "Week in Review: Meta reveals its Oakley smart glasses Sat, June 21, 2025 at 12:08 PM CDT 4 min read Photo #: 259232 Date Taken: 11-26-1952 Description: 3-D Movie Viewers. Formally-attired audience sporting 3-D glasses during opening night screening of film \"Bwana Devil,\" the 1st full-length color 3-D (aka \"Natural Vision\") motion picture, at Paramount Theater. City: HOLLYWOOD State: CA...",
+      "published": "Sat, 21 Jun 2025 17:08:39 GMT"
+    },
     {
       "id": "3e6ebe96146e80370af9cabaec7adb6c",
       "title": "Nintendo Switch 2: the Digital Foundry hardware review - Eurogamer",
@@ -15,22 +24,31 @@
       "published": "Sat, 21 Jun 2025 16:48:23 GMT"
     },
     {
-      "id": "1ae434db37db11c90c476726e6bb5e52",
-      "title": "Week in Review: Meta reveals its Oakley smart glasses - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/06/21/week-in-review-meta-reveals-its-oakley-smart-glasses/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2016/07/gettyimages-tlp259232.jpg?resize=1200,900",
-      "summary": "Week in Review:  Meta reveals its Oakley smart glasses Welcome back to Week in Review! Lots in store for you today, including Wix’s latest acquisition, Meta’s new smart glasses, a look at the new Digg, and much more. Have a great weekend! Smart specs: Meta and Oakley have teamed up on a new pair of smart glasses that can record...",
-      "published": "Sat, 21 Jun 2025 17:08:39 GMT"
+      "id": "d83d7cec91b622fafe87e22f9b56dd56",
+      "title": "Samsung Galaxy Z Fold7 hands-on video compares dummy with Galaxy Z Fold6 and Galaxy S25 Ultra - Notebookcheck",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Samsung-Galaxy-Z-Fold7-hands-on-video-compares-dummy-with-Galaxy-Z-Fold6-and-Galaxy-S25-Ultra.1041407.0.html",
+      "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Samsung-Galaxy-Z-Fold-7-Hands-On-Video-vergleicht-Dummy-mit-Galaxy-Z-Fold-6-und-Galaxy-S25-Ultra.jpg",
+      "summary": "Demodularized - CMF Phone 2 Pro review Powerful mid-range smartphone: Google Pixel 9a review Smartphone camera comparison: Google vs. Oppo in Linz on the Danube The best smartphones: Summer 2025 Flip phone for little money: Motorola Razr 60 tested Setting clear priorities: Motorola Edge 60 review The international eSIM from Yesim impresses in our travel test Robust and with a...",
+      "published": "Sat, 21 Jun 2025 16:02:00 GMT"
     },
     {
-      "id": "6f560d5eefdd348276eff15fa328be46",
-      "title": "Day One Highlights at Pro Tour Magic: The Gathering®—FINAL FANTASY™ - magic.gg",
+      "id": "1423b2895054d605b666cb60277fcedb",
+      "title": "‘She never sleeps’: This platform wants to be OnlyFans for the AI era - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/21/tech/ohchat-onlyfans-for-the-ai-era-katie-price",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-723499991.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "California Democratic Sen. Adam Schiff discusses the US strikes on Iranian nuclear facilities. Watch CNN ‘She never sleeps’: This platform wants to be OnlyFans for the AI era Published 4:00 AM EDT, Sat June 21, 2025 OhChat is an eight-month-old startup that uses artificial intelligence to build lifelike digital doubles of public figures Andrew Brookes/Image Source/Getty Images She doesn’t eat,...",
+      "published": "Sat, 21 Jun 2025 08:00:00 GMT"
+    },
+    {
+      "id": "a94c6d2437049423ec1d3fda189c50ce",
+      "title": "Top 8 Players and Decks of Pro Tour Magic: The Gathering®—FINAL FANTASY™ - magic.gg",
       "source": "magic.gg",
-      "url": "https://www.magic.gg/news/day-one-highlights-at-pro-tour-magic-the-gathering-final-fantasy",
-      "image_url": "https://images.ctfassets.net/ryplwhabvmmk/0ihzrPft09Kr6jkmtEXqV/a61e9c737f07df96e8738c6cbf8bb2d7/960x540-PTFIN-Day-One-Undefeated-Player-Christian-Baker.jpg",
-      "summary": "This site uses cookies to store information on your computer. Some are essential to make this site work; others help us improve your experience. These settings can be accessed by clicking the Cookie Settings button on the banner or from the Your Privacy Choices link in the footer of this site. Las Vegas has become the place where Magic dreams...",
-      "published": "Sat, 21 Jun 2025 05:43:17 GMT"
+      "url": "https://magic.gg/news/top-8-players-and-decks-of-pro-tour-magic-the-gathering-final-fantasy",
+      "image_url": "https://images.ctfassets.net/ryplwhabvmmk/4BYXkBzsLcjFXesb9sE56n/a38ea9530dc49e12a4a5f9480cb635e0/960x640-PTFIN-Top-8-Stage.jpg",
+      "summary": "This site uses cookies to store information on your computer. Some are essential to make this site work; others help us improve your experience. These settings can be accessed by clicking the Cookie Settings button on the banner or from the Your Privacy Choices link in the footer of this site. What started with over 300 players battling it out...",
+      "published": "Sun, 22 Jun 2025 08:13:23 GMT"
     },
     {
       "id": "45605bff93155247aad4f2b145ef701a",
@@ -42,22 +60,13 @@
       "published": "Fri, 20 Jun 2025 17:00:00 GMT"
     },
     {
-      "id": "e6066d2fe1c51144d0ef0e0c0181b638",
-      "title": "Sonic Racing: CrossWorlds Officially Reveals Nickelodeon Collaboration - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2025/06/sonic-racing-crossworlds-officially-reveals-nickelodeon-collaboration",
-      "image_url": "https://images.nintendolife.com/7da9d04cce5bf/large.jpg",
-      "summary": "Sonic News Reviews Features Games Guides Videos Forums Better eShop NewsSonicNintendo Switch 2Nintendo SwitchUpcoming ReleasesDLC Sonic Racing: CrossWorlds Officially Reveals Nickelodeon Collaboration SpongeBob and friends join the race Subscribe to Nintendo Life on YouTube824K Following character leaks earlier this month, Sega has now officially confirmed SpongeBob SquarePants and other Nickelodeon characters will be racing alongside Sonic and friends in Sonic...",
-      "published": "Sun, 22 Jun 2025 03:00:00 GMT"
-    },
-    {
-      "id": "6f4649ca027fb2706e9483624f8cbd2f",
-      "title": "1047 Games, developers of Splitgate 2, layoff ‘a small group of valued staff’ - XboxEra",
-      "source": "XboxEra",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWWdYNzZPcWdXcWMzZXpqTlJ6T041b3NBMW14YXFVcllNcS1RdjNsNXZCX1JZUExrYkdDc05MVWNfOGJadU5Va3BneFJqdjUzRHRNTm5VcVltSGEtUkJOR0NXTV9aRGNUU1ljaHBpOEI5MHl5R01naThaM1NCQUxfaDRBNktfWWw2bTRnZlBqalhEakFkdEswYXBCMkxkbE42Vk9kWGowV28?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 21 Jun 2025 04:42:42 GMT"
+      "id": "1a044a8d050d21c43110ef336522c45c",
+      "title": "Mario Kart World dev comments on why non-Mario characters aren’t included - Nintendo Everything",
+      "source": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/mario-kart-world-nintendo-characters/",
+      "image_url": "https://nintendoeverything.com/wp-content/uploads/Mario-Kart-World-Nintendo-characters.jpg",
+      "summary": "Switch 2SwitchSwitch eShopamiiboMobile Hyrule Warriors: Age of Imprisonment story and character predictions Nintendo Switch 2 hardware review Mario Kart World dev comments on why non-Mario characters aren’t included Posted on June 21, 2025 by Brian(@NE_Brian) in News, Switch Mario Kart World has a ton of playable characters, but they’re all strictly from the Mario universe and not from any other...",
+      "published": "Sat, 21 Jun 2025 20:05:16 GMT"
     },
     {
       "id": "8889c6baf1d014bd3e30f64b295c7540",
@@ -65,62 +74,26 @@
       "source": "Engadget",
       "url": "https://www.engadget.com/ai/apple-is-reportedly-considering-the-acquisition-of-perplexity-ai-150012746.html",
       "image_url": "https://s.yimg.com/ny/api/res/1.2/1p8HflfrK0ygIJpaIwvNkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/0f4360b0-44a2-11f0-b23a-700d03706262",
-      "summary": "Prime Day 2025: The best early deals Is the Trump Phone really US-made? Tesla's robotaxi: Only 10 cars to start How to buy the Nintendo Switch 2 Apple is reportedly considering the acquisition of Perplexity AI It will help Apple develop an AI-powered search engine. Sat, Jun 21, 2025, 11:00 AM EDT·2 min read Apple's executives are thinking of acquiring...",
+      "summary": "Prime Day 2025: The best early deals Is the Trump Phone really US-made? Tesla's robotaxi: Only 10 cars to start How to buy the Nintendo Switch 2 Apple is reportedly considering the acquisition of Perplexity AI It will help Apple develop an AI-powered search engine. Sat, Jun 21, 2025, 10:00 AM CDT·2 min read Apple's executives are thinking of acquiring...",
       "published": "Sat, 21 Jun 2025 15:00:12 GMT"
     },
     {
-      "id": "f392becb4e210713e0ee1fe6bfe5a5c3",
-      "title": "My Roommate Has Way Too Many Girlfriends. I Have a Devious Solution to End His Philandering. - Slate Magazine",
-      "source": "Slate Magazine",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORlh1LW81b1gwWnJ3NG5zSXZvR24ycm9xR3Nhd25EWXR0UTJHOE8wQTNDXzN1WkhoNUF1QS1PQU5oSWptSUtEYnhBbzhtMWIyai1PQ1VhSVQ4b1AtN3h0NVZKUzJmZHVjX2FIRklZQ1VZcXYzRWFnbUhVRmZXMjRFYm5fQ2o5UTltMlRFZVZNWkE0NEdD?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 21 Jun 2025 23:14:00 GMT"
+      "id": "7ff70a131d902b10a806fec538b3007f",
+      "title": "Sega accidentally revealed sales numbers for Sonic, Like A Dragon, Persona, and more - Video Games Chronicle",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/sega-accidentally-revealed-sales-numbers-for-sonic-like-a-dragon-persona-and-more/",
+      "image_url": "https://www.videogameschronicle.com/files/2022/07/persona-5-royale-a.jpg",
+      "summary": ".cls-1{fill:url(#linear-gradient)}. cls-2{fill:#fff} GO AD-FREE! Support VGC on Patreon Sega accidentally revealed sales numbers for Sonic, Like A Dragon, Persona, and more Sega has accidentally revealed the sales numbers of many of its recent major releases, including games in the Like A Dragon, Sonic, and Persona series. The sales numbers were included in a recent presentation document uploaded to Sega Sammy’s...",
+      "published": "Sun, 22 Jun 2025 10:45:43 GMT"
     },
     {
-      "id": "1a044a8d050d21c43110ef336522c45c",
-      "title": "Mario Kart World dev comments on why non-Mario characters aren’t included - Nintendo Everything",
-      "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/mario-kart-world-nintendo-characters/",
-      "image_url": "https://nintendoeverything.com/wp-content/uploads/Mario-Kart-World-Nintendo-characters.jpg",
-      "summary": "Switch 2SwitchSwitch eShopamiiboMobile Nintendo Switch 2 hardware review Gex Trilogy review for Nintendo Switch Mario Kart World dev comments on why non-Mario characters aren’t included Posted on June 21, 2025 by Brian(@NE_Brian) in News, Switch Mario Kart World has a ton of playable characters, but they’re all strictly from the Mario universe and not from any other Nintendo franchises. If...",
-      "published": "Sat, 21 Jun 2025 20:05:16 GMT"
-    },
-    {
-      "id": "426be33b66ebd762ecbf3155c3bc76cd",
-      "title": "Summer update in Grow a Garden - Eurogamer",
+      "id": "d44c18f2b3ed8b82681865929db24b5e",
+      "title": "Splitgate 2 developer 1047 Games lays off \"small group of valued staff\" - Eurogamer",
       "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/summer-update-grow-a-garden",
-      "image_url": "https://assetsio.gnwcdn.com/grow-a-garden-summer-update-sam-on-holiday.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "summary": "All Mario Kart World Unlockables Flashpoint Worlds Collide codes If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Including summer cosmetics list, and summer seed pack odds. Image credit: Eurogamer/The Garden Game Guide by Marie Pritchard Guides Writer The Grow a Garden Summer update has brought in the warmth...",
-      "published": "Sat, 21 Jun 2025 19:11:45 GMT"
-    },
-    {
-      "id": "3f2688eebef813ce587df61016c0a932",
-      "title": "Could using ChatGPT make you dumber? New study says it can - Euronews.com",
-      "source": "Euronews.com",
-      "url": "https://www.euronews.com/next/2025/06/21/using-ai-bots-like-chatgptcould-be-causing-cognitive-decline-new-study-shows",
-      "image_url": "https://static.euronews.com/articles/stories/09/33/73/26/1200x675_cmsv2_58f1e958-205b-5700-a173-296939feebec-9337326.jpg",
-      "summary": "With your agreement, we and our 190 partners use cookies or similar technologies to store, access, and process personal data like your visit on this website, IP addresses and cookie identifiers. Some partners do not ask for your consent to process your data and rely on their legitimate business interest. You can withdraw your consent or object to data processing...",
-      "published": "Sat, 21 Jun 2025 07:00:05 GMT"
-    },
-    {
-      "id": "1fb212fcd43bb6a4dc317285ca233144",
-      "title": "‘Monster Hunter Wilds’ Collapses With 1% Of Launch Players, 82% Negative Reviews - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2025/06/21/monster-hunter-wilds-collapses-with-1-of-launch-players-82-negative-reviews/",
-      "image_url": "https://imageio.forbes.com/specials-images/imageserve/67c9baab84834c6d34d9f5ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "summary": "‘Monster Hunter Wilds’ Collapses With 1% Of Launch Players, 82% Negative Reviews ByPaul Tassi, Senior Contributor. News and opinion about video games, television, movies and the internet. While Monster Hunter Wilds received a lot of praise at launch, the longer-term fortunes of the game four months later have been dismal. Both review sentiment and playercount have collapsed. On Steam, recent...",
-      "published": "Sat, 21 Jun 2025 13:31:56 GMT"
-    },
-    {
-      "id": "d5dc564031e0e87d9a1e11834d7bf7b8",
-      "title": "Halo: Edge of Dawn | Cover Reveal | Halo - Official Site (en) - Halo Waypoint",
-      "source": "Halo Waypoint",
-      "url": "https://www.halowaypoint.com/news/halo-edge-of-dawn-cover-reveal",
-      "image_url": "https://wpassets.halowaypoint.com/wp-content/2025/06/EdgeOfDawnSocial-68563cf8e0b7f.jpg",
-      "summary": ".st0{fill:#EBEBEB;} . st1{fill:url(#SVGID_1_);} . st2{fill:#C8C8C8;} The Master Chief’s fight against the Banished continues in Halo: Edge of Dawn! Coming this December, the next novel by acclaimed author Kelly Gay picks up in the immediate aftermath of Halo Infinite’s ending. Here is the official description of what awaits in the Master Chief’s next adventure: 2560. After eliminating War Chief Escharum and...",
-      "published": "Fri, 20 Jun 2025 17:59:50 GMT"
+      "url": "https://www.eurogamer.net/splitgate-2-developer-1047-games-lays-off-small-group-of-valued-staff",
+      "image_url": "https://assetsio.gnwcdn.com/splitgate2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "All Mario Kart World Unlockables Flashpoint Worlds Collide codes If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Splitgate 2 developer 1047 Games lays off \"small group of valued staff\" Co-founders say they will not draw a salary until \"the next phase of the project\". News by Vikki Blake...",
+      "published": "Sat, 21 Jun 2025 11:37:34 GMT"
     },
     {
       "id": "e868fb492edcbbcd3d69a3ab75b1097e",
@@ -132,6 +105,60 @@
       "published": "Fri, 20 Jun 2025 12:30:57 GMT"
     },
     {
+      "id": "e6066d2fe1c51144d0ef0e0c0181b638",
+      "title": "Sonic Racing: CrossWorlds Officially Reveals Nickelodeon Collaboration - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2025/06/sonic-racing-crossworlds-officially-reveals-nickelodeon-collaboration",
+      "image_url": "https://images.nintendolife.com/7da9d04cce5bf/large.jpg",
+      "summary": "Sonic News Reviews Features Games Guides Videos Forums Better eShop NewsSonicNintendo Switch 2Nintendo SwitchUpcoming ReleasesDLC Sonic Racing: CrossWorlds Officially Reveals Nickelodeon Collaboration SpongeBob and friends join the race Subscribe to Nintendo Life on YouTube824K Following character leaks earlier this month, Sega has now officially confirmed SpongeBob SquarePants and other Nickelodeon characters will be racing alongside Sonic and friends in Sonic...",
+      "published": "Sun, 22 Jun 2025 03:00:00 GMT"
+    },
+    {
+      "id": "1fb212fcd43bb6a4dc317285ca233144",
+      "title": "‘Monster Hunter Wilds’ Collapses With 1% Of Launch Players, 82% Negative Reviews - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2025/06/21/monster-hunter-wilds-collapses-with-1-of-launch-players-82-negative-reviews/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/67c9baab84834c6d34d9f5ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "summary": "‘Monster Hunter Wilds’ Collapses With 1% Of Launch Players, 82% Negative Reviews ByPaul Tassi, Senior Contributor. News and opinion about video games, television, movies and the internet. While Monster Hunter Wilds received a lot of praise at launch, the longer-term fortunes of the game four months later have been dismal. Both review sentiment and playercount have collapsed. On Steam, recent...",
+      "published": "Sat, 21 Jun 2025 13:31:56 GMT"
+    },
+    {
+      "id": "fcff82a02b549c70552a9613dbdc4060",
+      "title": "Microsoft’s Free Upgrade Deadline For 400 Million Windows Users - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/06/22/microsofts-free-upgrade-deadline-for-400-million-windows-users/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/681394bdbf03979062f145d1/0x0.jpg?format=jpg&crop=1732,975,x175,y383,safe&height=900&width=1600&fit=bounds",
+      "summary": "Microsoft’s Free Upgrade Deadline For 400 Million Windows Users ByZak Doffman, Contributor. Zak Doffman writes about security, surveillance and privacy. Jun 22, 2025, 02:09am EDTJun 22, 2025, 02:15am EDT Another suggestion this week that the decision to keep Windows 10 may soon be impossible, with all owners of eligible PCs forced to upgrade. That would put a deadline on the...",
+      "published": "Sun, 22 Jun 2025 06:09:32 GMT"
+    },
+    {
+      "id": "b0f2fe871c2e227cb826920f2d863a6b",
+      "title": "Halo Infinite is getting a sequel — but it's not what you think - Windows Central",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/halo-infinite-is-getting-a-sequel-but-its-not-what-you-think",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/uH2njmn3FhNhKomqjepUFm.jpg",
+      "summary": "Halo Infinite is getting a sequel — but it's not what you think By Brendan Lowry published 2 days ago Master Chief's story continues after Halo Infinite with Halo: Edge of Dawn. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. The official cover artwork for Halo: Edge of Dawn, illustrated...",
+      "published": "Fri, 20 Jun 2025 22:02:38 GMT"
+    },
+    {
+      "id": "f392becb4e210713e0ee1fe6bfe5a5c3",
+      "title": "My Roommate Has Way Too Many Girlfriends. I Have a Devious Solution to End His Philandering. - Slate Magazine",
+      "source": "Slate Magazine",
+      "url": "https://slate.com/advice/2025/06/roommate-sex-advice-girlfriend-girls-cheating-secret.html",
+      "image_url": "https://compote.slate.com/images/95aa2c04-a00e-4964-af6a-7bb8e4f1b3fa.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "summary": "Light Activating this button will toggle the display of additional content My Roommate Has Way Too Many Girlfriends. I Must Stop His Hopeless Philandering. Photo illustration by Slate. Photo by Wavebreakmedia/iStock/Getty Images Plus. How to Do It is Slate’s sex advice column. Have a question? Send it to Stoya and Rich here. It’s anonymous! I live with my roommate who...",
+      "published": "Sat, 21 Jun 2025 23:14:00 GMT"
+    },
+    {
+      "id": "e91719fe78e1f0c3b21541698c83c77e",
+      "title": "Walmart Nintendo Switch 2 restock: confirmed time it'll be in stock - The Shortcut | Matt Swider",
+      "source": "The Shortcut | Matt Swider",
+      "url": "https://www.theshortcut.com/p/walmart-nintendo-switch-2-restock-confirmed",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!CtLI!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d575343-e624-43e5-a2db-24900b01d556_1366x768.png",
+      "summary": "Discover more from The Shortcut Get smarter about tech in 7 minutes with The Shortcut, the #1 consumer tech publication on Substack. Join for FREE to get trusted news and honest reviews – and Nintendo Switch 2 pre-order alerts! By subscribing, I agree to Substack's Terms of Use, and acknowledge its Information Collection Notice and Privacy Policy. Already have an...",
+      "published": "Fri, 20 Jun 2025 18:09:12 GMT"
+    },
+    {
       "id": "bef82dfd163d17cb027de9c712e3afd0",
       "title": "Pokémon Go Jangmo-o Community Day guide - Polygon",
       "source": "Polygon",
@@ -139,24 +166,6 @@
       "image_url": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/jlee_250618_1001_pogo_jangmoo_cd.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "summary": "Pokémon Go Jangmo-o Community Day guide Use the Community Day to find a Shiny Jangmo-o Graphic: Julia Lee/Polygon | Source images: Game Freak/Nintendo, The Pokémon Company Julia Lee (she/her) is a guides producer, writing guides for games like The Legend of Zelda: Tears of the Kingdom and Pokémon Go. She helped launch the Rift Herald in 2016. Pokémon Go is...",
       "published": "Sat, 21 Jun 2025 01:01:00 GMT"
-    },
-    {
-      "id": "1423b2895054d605b666cb60277fcedb",
-      "title": "‘She never sleeps’: This platform wants to be OnlyFans for the AI era - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/21/tech/ohchat-onlyfans-for-the-ai-era-katie-price",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-723499991.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "‘She never sleeps’: This platform wants to be OnlyFans for the AI era Published 4:00 AM EDT, Sat June 21, 2025 OhChat is an eight-month-old startup that uses artificial intelligence to build lifelike digital doubles of public figures Andrew Brookes/Image Source/Getty Images She doesn’t eat, sleep or breathe. But she remembers you, desires you and never logs off. Her name...",
-      "published": "Sat, 21 Jun 2025 08:00:00 GMT"
-    },
-    {
-      "id": "5f684608540a0abd89004a105c0c3517",
-      "title": "The Internet as We Knew It Is Over. The Only Thing Left Is to Go Outside. - Slate Magazine",
-      "source": "Slate Magazine",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTk1ieGt1aWQwTU1RaHEyVk1IdmRuNi1yUkVJN29zVW0tUE9qejVqY1BEVnVqWVNVZURZZTd0ZUNSeUxqWHAwdDF1UlMyVTkzQndXWUpaSjU5OWVTYmg1djNDQ1dtM2pzSjhZTTBGY0F0SUlPcnBtZzJLbWUwdWsteWQycHowTWlGNTRlSE5yUmZyWGs?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 20 Jun 2025 09:40:00 GMT"
     },
     {
       "id": "9e2b598e1317b6c5141efec49a129a2c",
@@ -168,22 +177,13 @@
       "published": "Fri, 20 Jun 2025 22:55:00 GMT"
     },
     {
-      "id": "969f3202c332fd3f2fb1d586d778cf7d",
-      "title": "Xbox's VR headset with Meta could be released sooner than we thought - Engadget",
-      "source": "Engadget",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnZMSjZ4QklMZTJNZUdXaGJSODZreG5kTUU0WmM0Tjl5dDFUX0o2ek1RdnJuRU9xRkNjLVQ1X1NJVjJha01MX25aN2RMNDM1QjZUVGxyeXh1cHluOS1VZEpQb0RyaDhKQncxMm5zaVN1ZGVvZ2x0N0RBczFlM3Q4QW1fNFV5cDVDaDdUdnNVMjJVWmd1MzlCX3ZkcU1jS1ExV0owdVN5dW5sUUhzYmI5d3NZQ1VQdw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 21 Jun 2025 18:05:12 GMT"
-    },
-    {
-      "id": "e91719fe78e1f0c3b21541698c83c77e",
-      "title": "Walmart Nintendo Switch 2 restock: confirmed time it'll be in stock - The Shortcut | Matt Swider",
-      "source": "The Shortcut | Matt Swider",
-      "url": "https://www.theshortcut.com/p/walmart-nintendo-switch-2-restock-confirmed",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!CtLI!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d575343-e624-43e5-a2db-24900b01d556_1366x768.png",
-      "summary": "Discover more from The Shortcut Get smarter about tech in 7 minutes with The Shortcut, the #1 consumer tech publication on Substack. Join for FREE to get trusted news and honest reviews – and Nintendo Switch 2 pre-order alerts! By subscribing, I agree to Substack's Terms of Use, and acknowledge its Information Collection Notice and Privacy Policy. Already have an...",
-      "published": "Fri, 20 Jun 2025 18:09:12 GMT"
+      "id": "032241154dcdc1da35b8dcb82456a1a0",
+      "title": "New Xbox Game Pass Day One Game Is Instantly a Huge Hit - ComicBook.com",
+      "source": "ComicBook.com",
+      "url": "https://comicbook.com/gaming/news/xbox-game-pass-ultimate-day-one-game-rematch/",
+      "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2025/06/x-b-o-x-g-a-m-e-p-a-s-s_1c5f8b.png?resize=2000,1125",
+      "summary": "New Xbox Game Pass Day One Game Is Instantly a Huge Hit Xbox Game Pass has another major day one game. This week, a new Xbox Game Pass day one game released and it was a massive flop. On the opposite side of the spectrum, a second day one Xbox Game Pass game released this week and it instantly proved...",
+      "published": "Fri, 20 Jun 2025 22:51:52 GMT"
     }
   ]
 }
