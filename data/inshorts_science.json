@@ -1,126 +1,63 @@
 {
   "metadata": {
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-22 13:40:36",
+    "generation_time": "2025-06-22 20:00:46",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "e240f0ffccda2c21def07ee2173dcfd0",
-      "title": "Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/22/science/vera-rubin-women-astronomy.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sun, 22 Jun 2025 09:01:25 GMT"
+      "id": "a73ea521c3a81f46e445428343fe4072",
+      "title": "Vera Rubin telescope is pointing the world’s biggest camera at cosmos - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/science/2025/06/22/telescope-vera-rubin-images/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z6FWVFX5XBCADI3RWOE7MFJVOE_size-normalized.jpg&w=1440",
+      "summary": "Vera Rubin telescope is pointing the world’s biggest camera at cosmos The first batch of test images from the Vera C. Rubin Observatory is scheduled to be released Monday at 11:30 a. m., followed by a news conference at the National Academy of Sciences in Washington. The Vera C. Rubin Observatory sits at 8,684 feet on Cerro Pachón in Chile.",
+      "published": "Sun, 22 Jun 2025 17:00:03 GMT"
     },
     {
-      "id": "e71c5f07ae649f4b73b8d02b1b0f16c3",
-      "title": "New theory proposes time has three dimensions, with space as a secondary effect - Phys.org",
+      "id": "7ce4f691613e286249bf7e91233f0b44",
+      "title": "Universal embezzlers naturally emerge in critical fermion systems, study finds - Phys.org",
       "source": "Phys.org",
-      "url": "https://phys.org/news/2025-06-theory-dimensions-space-secondary-effect.html",
+      "url": "https://phys.org/news/2025-06-universal-embezzlers-naturally-emerge-critical.html",
       "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 13.85.44.117 : e2aab66d-8fc3-4374-9bea-e32b4efe",
-      "published": "Sat, 21 Jun 2025 10:06:59 GMT"
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 128.85.161. 160 : 7f5b39e3-75a9-4644-9442-b80b3beb",
+      "published": "Sat, 21 Jun 2025 13:00:03 GMT"
     },
     {
-      "id": "4190bddf07fc740d3cfb298cec5fa097",
-      "title": "NASA spacecraft around the moon photographs the crash site of a Japanese company's lunar lander - Laredo Morning Times",
-      "source": "Laredo Morning Times",
-      "url": "https://www.lmtonline.com/business/article/nasa-spacecraft-around-the-moon-photographs-the-20386470.php",
-      "image_url": "https://www.lmtonline.com/img/logos/black/logo.svg",
-      "summary": "Press & Hold to confirm you are Reference ID 1480119d-4f6e-11f0-9e88-2772d3f6a078",
-      "published": "Sat, 21 Jun 2025 00:18:57 GMT"
+      "id": "0a313b08a0a0c7dd63de5bb10ff0099a",
+      "title": "SpaceX’s Transporter 14 launch today will carry more than 150 capsules of DNA, human remains - Space",
+      "source": "Space",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMkJZZm1mS1hpdXhfNm1GX3c2SkFGMHdaRGRiSGNVOFd5WExUZlJSaDZVUl9aRjJsM2o1WFh3VU4wREhMSThGZGVSUXdwV2I0NWJQQkJ2LVNNZTFQSEg4VWdHZ1VxMUFqdjBSQkpVUXNtb3VrVUI0cTFIX0hYUC1XejBsTzQ1XzRmQ1hLRWhfN01kVGtuWGJOcWlrdWpzRC1DREQ1aXktUFk3UzZOcDRrV2I1TjV3dGh0MHhQbXFxYV84XzBTSWJIdkZpQnJWaGtXU1A4VEotd2xHNjU1ZXdjVktwWmtMWGlZWXNJ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 22 Jun 2025 11:00:00 GMT"
+    },
+    {
+      "id": "622a25518d66dd07e7efee3454990ccf",
+      "title": "A Strange Mark Just Appeared on the Moon — NASA Satellite Captures Startling Lunar Disruption - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/a-strange-mark-just-appeared-on-the-moon/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/A-Strange-Mark-Just-Appeared-on-the-Moon-—-NASA-Satellite-Captures-Startling-Lunar-Disruption.jpg",
+      "summary": "A Strange Mark Just Appeared on the Moon — NASA Satellite Captures Startling Lunar Disruption NASA’s latest Moon images reveal a sudden surface anomaly. Image credit: NASA | The Daily Galaxy --Great Discoveries Channel On June 11, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a dramatic view of the Hakuto-R Mission 2 impact site on the Moon’s surface, revealing fresh scarring...",
+      "published": "Sat, 21 Jun 2025 16:05:00 GMT"
+    },
+    {
+      "id": "301144bbcd0f54effc2bca871f5d02b9",
+      "title": "Scientists Beamed Light Right Through a Man's Head For The First Time - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/scientists-beamed-light-right-through-a-mans-head-for-the-first-time",
+      "image_url": "https://www.sciencealert.com/images/2025/06/HeadLight.jpg",
+      "summary": "Scientists Beamed Light Right Through a Man's Head For The First Time (Thales Antonio/iStock/Getty Images Plus) Scientists have developed a new technique for non-invasive brain imaging – and it involves shining light all the way through the head, from one side to the other. Currently the best portable, low-cost method for monitoring the brain is functional near-infrared spectroscopy (fNIRS). Unfortunately,...",
+      "published": "Sun, 22 Jun 2025 12:01:12 GMT"
     },
     {
       "id": "8002f0278891a482beba627eb2a5d3e1",
       "title": "Science news this week: 'Dragon Man's' identity and the universe's 'missing matter' - Live Science",
       "source": "Live Science",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT3pfLVVteU9UWjJDQ2tMckZ5VEI3OS1uRkxDQllCVGNodjg4RTJtLW03V0dGUjVCWjgtVU5UUFVwTWphM3c2MVBNWXVfbXR1dnhJM0ZyQ2lmQ25ic3BNQTctTngzT2V0NENwdEtaalVaWEQ1WGJqcWRXOFEwZVhZSHJtWlRaNlpFZDlXODc4a1JmWm5hWkNBNHFoUUl6THU3S2lKenJaZURkNWkxVE1JUnc2TW5WNkszbUZOek0yVm9YN0FuN2ZmMTAtUm0?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.livescience.com/archaeology/human-evolution/science-news-this-week-dragon-mans-identity-and-the-universes-missing-matter",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/HM2Cv8k87xbXhhxKNbN8e4.jpg",
+      "summary": "Vera C. Rubin Observatory pictures Science news this week: 'Dragon Man's' identity and the universe's 'missing matter' By Alexander McNamara published 2 days ago June 21, 2025: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend. When you purchase through links on our site, we...",
       "published": "Sat, 21 Jun 2025 04:01:00 GMT"
-    },
-    {
-      "id": "ae264fa944c83f01c154c0e4a4ca7fad",
-      "title": "Psyche keeps its date with an asteroid, but now it’s running in backup mode - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2025/06/psyche-keeps-its-date-with-an-asteroid-but-now-its-running-in-backup-mode/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/1-pia24834-1152x648.jpg",
-      "summary": "Psyche keeps its date with an asteroid, but now it’s running in backup mode Engineers switched to a backup fuel line less than a quarter of the way through Psyche's mission. Artist's concept of NASA's Psyche spacecraft. One of its Hall thrusters is visible glowing blue in this illustration. Credit: NASA A NASA spacecraft bound for an unexplored metal-rich asteroid...",
-      "published": "Sat, 21 Jun 2025 18:10:03 GMT"
-    },
-    {
-      "id": "2a430c338f2fc28a5062cf82f633e8f3",
-      "title": "Scientists say a tiny brown moth navigates 600 miles using stars — just like humans and birds - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/20/science/bogong-moth-star-navigation",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/bogong-moth.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Former Trump adviser John Bolton discusses the US strikes on Iranian nuclear facilities. Watch CNN Scientists say a tiny brown moth navigates 600 miles using stars — just like humans and birds Published 12:46 PM EDT, Fri June 20, 2025 The nocturnal Bogong moth makes an epic journey to cool caves in the Australian Alps, a study found. Ajay Narendra...",
-      "published": "Fri, 20 Jun 2025 16:46:00 GMT"
-    },
-    {
-      "id": "040a030fdc6429ae5d19bdb2099e88a6",
-      "title": "Fast Radio Bursts Reveal Where The Universe's Missing Matter Is Hiding - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/fast-radio-bursts-reveal-where-the-universes-missing-matter-is-hiding",
-      "image_url": "https://www.sciencealert.com/images/2020-05/processed/frb_topic_cover_nasa_1024.jpg",
-      "summary": "Fast Radio Bursts Reveal Where The Universe's Missing Matter Is Hiding The radio light from fast radio bursts changes as it travels through the intergalactic medium. (ESA/Hubble & NASA) By tracing powerful radio signals back to their host galaxies near the beginning of time, astrophysicists have pinpointed where the Universe's missing matter is hiding. In the space between the galaxies,...",
-      "published": "Sat, 21 Jun 2025 22:01:11 GMT"
-    },
-    {
-      "id": "c2fd10d7efcff90938a5bc28a7e408a6",
-      "title": "Astronomers discover a tiny star with a giant planet that should not exist - Earth.com",
-      "source": "Earth.com",
-      "url": "https://www.earth.com/news/tiny-star-giant-gas-planet-toi-6894b-breaks-current-planetary-formation-rules/",
-      "image_url": "https://cff2.earth.com/uploads/2025/06/20155925/exoplanet_TOI-6894b_orbiting-tiny-star_credit-UWarwick_1m.jpg",
-      "summary": "Astronomers discover a tiny star with a giant planet that should not exist Astronomers have spotted a giant exoplanet, named TOI-6894b, that’s bigger than Saturn and circling a red dwarf star only one-fifth the mass of the Sun. This finding rewrites expectations about where massive planets can form and hints that such worlds may be common around the smallest stars.",
-      "published": "Sat, 21 Jun 2025 00:11:53 GMT"
-    },
-    {
-      "id": "1568548abdba8ad1a89b4b14a87a4177",
-      "title": "Sea spiders found farming methane-eating microbes in cultivated biofilm - Phys.org",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2025-06-sea-spiders-farming-methane-microbes.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 13.85.44.117 : 92100a27-3fcb-4e4b-a48b-0c858542",
-      "published": "Fri, 20 Jun 2025 13:13:20 GMT"
-    },
-    {
-      "id": "e9f323ba0edd627a5eb072e798b2dc02",
-      "title": "Mercury’s Surface is Twisting Like Paper: What’s Going On Up There? - The Daily Galaxy",
-      "source": "The Daily Galaxy",
-      "url": "https://dailygalaxy.com/2025/06/mercurys-surface-is-twisting-like-paper/",
-      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Mercurys-Surface-is-Twisting-Like-Paper-Whats-Going-On-Up-There.jpg",
-      "summary": "Mercury’s Surface is Twisting Like Paper: What’s Going On Up There? Mercury’s crust is scarred with fractures and towering cliffs—but recent research suggests something more than ancient cooling is at play. Credit: Canva | The Daily Galaxy --Great Discoveries Channel Mercury, the smallest planet in our solar system and the one closest to the Sun, has long baffled scientists with...",
-      "published": "Sat, 21 Jun 2025 17:00:00 GMT"
-    },
-    {
-      "id": "2ba2a8cb5288b5b300efc109b4d957ea",
-      "title": "ESA’s Proba-3 Mission Reveals Unseen Secrets of the Sun’s Hidden Corona - The Daily Galaxy",
-      "source": "The Daily Galaxy",
-      "url": "https://dailygalaxy.com/2025/06/proba-3-mission-unseen-sun-hidden-corona/",
-      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/ESAs-Proba-3-Mission-Reveals-Unseen-Secrets-of-the-Suns-Hidden-Corona.jpg",
-      "summary": "ESA’s Proba-3 Mission Reveals Unseen Secrets of the Sun’s Hidden Corona ESA’s Proba-3 mission captures unprecedented images of the Sun’s corona. Credit: ESA-P. Carril | The Daily Galaxy --Great Discoveries Channel On June 16, 2025, the European Space Agency (ESA) unveiled groundbreaking images of the Sun’s outer atmosphere, the solar corona, thanks to its Proba-3 mission. This mission achieved an...",
-      "published": "Fri, 20 Jun 2025 19:30:00 GMT"
-    },
-    {
-      "id": "5da60a801fbb58fc84415b7b9a873da0",
-      "title": "ChatGPT managed to take control of this 42-year-old man's life, and it's not surprising, according to this scientist. - Stewartville Star",
-      "source": "Stewartville Star",
-      "url": "https://thinkstewartville.com/2025/06/21/chatgpt-managed-to-take-control-of-this-42-year-old-mans-life-and-its-not-surprising-according-to-this-scientist/",
-      "image_url": "https://thinkstewartville.com/wp-content/uploads/2025/06/thinkstewartville.com-auto-draft-6480846130354-2025-06-19t135942.650.jpg",
-      "summary": "ChatGPT managed to take control of this 42-year-old man’s life, and it’s not surprising, according to this scientist. Published on 06/21/2025 at 10:33 pm· © Stewartville Star - ChatGPT managed to take control of this 42-year-old man’s life, and it’s not surprising, according to this scientist. Researchers at Princeton University have succeeded in generating an electric current, albeit a tiny...",
-      "published": "Sun, 22 Jun 2025 02:33:00 GMT"
-    },
-    {
-      "id": "c0958ce89a9bb3a625cab0d6a0e20969",
-      "title": "NASA’s Curiosity Just Parked on Mars—And Made an Unprecedented Discovery - The Daily Galaxy",
-      "source": "The Daily Galaxy",
-      "url": "https://dailygalaxy.com/2025/06/curiosity-mars-unprecedented-discovery/",
-      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/NASAs-Curiosity-Just-Parked-on-Mars—What-It-Found-Next-Was-Totally-Unexpected.jpg",
-      "summary": "NASA’s Curiosity Just Parked on Mars—And Made an Unprecedented Discovery Subscribe to our newsletter « Daily Galaxy » Do Not Sell or Share My Personal Information We are an independent media outlet that relies on advertising revenue to continue providing you with quality content. By watching a short ad, you directly contribute to our funding while keeping free access to...",
-      "published": "Sat, 21 Jun 2025 14:32:00 GMT"
     },
     {
       "id": "fc8d699287a423f184b69d675ebfc7e7",
@@ -132,58 +69,121 @@
       "published": "Sat, 21 Jun 2025 17:03:52 GMT"
     },
     {
-      "id": "1fa5422c75722f36432b8a9345f24eb5",
-      "title": "\"Remarkable\" Pattern Discovered Behind Prime Numbers, Math's Most Unpredictable Objects - IFLScience",
-      "source": "IFLScience",
-      "url": "https://www.iflscience.com/remarkable-pattern-discovered-behind-prime-numbers-maths-most-unpredictable-objects-79715",
-      "image_url": "https://assets.iflscience.com/assets/articleNo/79715/aImg/84651/prime-numbers-meta.jpg",
-      "summary": "\"Remarkable\" Pattern Discovered Behind Prime Numbers, Math's Most Unpredictable Objects It \"represents theoretical math that could’ve been done decades ago\" - but it has big implications for the future. \"Finding a pattern behind the primes is a quest that has bested millennia of mathematicians. \" Image Credit: Bocskai Istvan/Shutterstock. com n the third century BCE, a clever Greek chap by...",
-      "published": "Sat, 21 Jun 2025 19:20:15 GMT"
+      "id": "915938e998a356dfb0fda64a5155b8e0",
+      "title": "New Discovery of Deep Sea 'Spiders' Is Unlike Anything We've Seen Before - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/new-discovery-of-deep-sea-spiders-is-unlike-anything-weve-seen-before",
+      "image_url": "https://www.sciencealert.com/images/2025/06/sea-spider-eggs.jpg",
+      "summary": "New Discovery of Deep Sea 'Spiders' Is Unlike Anything We've Seen Before Male sea spiders brood their egg sacs, passing on the methane-loving microbiome to the next generation. (Shana Goffredi) Three newly-discovered species of deep sea 'spiders' farm methane-eating bacteria on their own bodies in a symbiosis quite unlike anything seen before. Unlike animals like ourselves, who are fed by...",
+      "published": "Sun, 22 Jun 2025 13:01:21 GMT"
     },
     {
-      "id": "42b3358efa9ef4cf8a49714d08c8b8bc",
-      "title": "It turns out weather on other planets is a lot like on Earth - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/science/2025/06/21/planets-weather-storms-earth-similarities-models/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JA5UURNX3BFTNPWZE2HMTALMAQ.jpg&w=1440",
-      "summary": "It turns out weather on other planets is a lot like on Earth If you looked at the churning clouds near Jupiter’s pole, they appear like ocean currents on Earth — as if you’re looking at small edges and meandering fronts in the Baltic Sea. What do the clouds on Jupiter, dust storms on Mars and rainstorms on Titan all...",
-      "published": "Sat, 21 Jun 2025 17:00:26 GMT"
+      "id": "f8d31cce52de2291e472c9d8b257c3d1",
+      "title": "NASA discovers that Earth's twin planet, Venus, is not geologically dead - Earth.com",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/news/nasa-discovers-that-earths-twin-planet-venus-is-not-geologically-dead/",
+      "image_url": "https://cff2.earth.com/uploads/2025/06/21073321/venus_earth-twin_not-dead_geologically-active_1.jpg",
+      "summary": "NASA discovers that Earth's twin planet, Venus, is not geologically dead Venus has long carried the nickname “Earth’s twin,” yet most people picture it as a static, oven‑hot wasteland with a geologically dead surface. A fresh look at radar and gravity records from NASA’s Magellan orbiter now shows the planet is still shifting and rumbling in real time, rewriting that...",
+      "published": "Sat, 21 Jun 2025 14:11:51 GMT"
     },
     {
-      "id": "3133582794fbd057da11b9b73347cab0",
-      "title": "Strange signals detected from Antarctic ice seem to defy laws of physics. Scientists are searching for an answer - Yahoo",
-      "source": "Yahoo",
-      "url": "https://www.yahoo.com/news/hunt-ghostly-particles-found-strange-215333548.html",
-      "image_url": "https://media.zenfs.com/en/cnn_articles_875/6dd8e95191425e38a281bb72abbf3217",
-      "summary": "Strange signals detected from Antarctic ice seem to defy laws of physics. Scientists are searching for an answer Sat, June 21, 2025 at 12:49 AM UTC NASA’s Antarctic Impulsive Transient Antenna, or ANITA, experiment flew over stretches of Antarctic ice via a balloon. - Stephanie Wissel/Penn State Sign up for CNN’s Wonder Theory science newsletter. Explore the universe with news...",
-      "published": "Sat, 21 Jun 2025 00:49:00 GMT"
+      "id": "e71c5f07ae649f4b73b8d02b1b0f16c3",
+      "title": "New theory proposes time has three dimensions, with space as a secondary effect - Phys.org",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2025-06-theory-dimensions-space-secondary-effect.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 128.85.161. 160 : 1a64b6f7-e4ab-44c2-91fc-5b58f5c1",
+      "published": "Sat, 21 Jun 2025 10:06:59 GMT"
     },
     {
-      "id": "3b92ee86d90178a3e6899ff77b54ccc0",
-      "title": "A guide to sky-watching from summer to autumn - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/weather/2025/06/21/summer-skywatching-guide-stars-moons-meteors/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH2VXGFFDBGHNO34RYQ2Z3LSKM_size-normalized.jpg&w=1440",
-      "summary": "A guide to sky-watching from summer to autumn Now that we’ve marked the summer solstice, it’s the shorter nights of the year for the Northern Hemisphere that usher in a variety of celestial delights for sky-watchers who don’t mind staying up until the early morning hours. Several comments express excitement about observing celestial events between the summer solstice and the...",
-      "published": "Sat, 21 Jun 2025 17:00:29 GMT"
+      "id": "b3c31db172bfccf31301f67c8c0e6ab8",
+      "title": "Long-dead NASA satellite suddenly emits massive radio burst - Chron",
+      "source": "Chron",
+      "url": "https://www.chron.com/news/space/article/nasa-dead-satellite-relay-2-20386640.php",
+      "image_url": "https://www.chron.com/img/logos/black/logo.svg",
+      "summary": "Press & Hold to confirm you are Reference ID 61778f0c-4fa3-11f0-b295-e2ad655ef9f5",
+      "published": "Fri, 20 Jun 2025 23:41:40 GMT"
     },
     {
-      "id": "b03c4861974e1b347d70f57d0dc19b62",
-      "title": "Scientists discover the oldest representations of the Milky Way in Ancient Egyptian art. - Farmingdale Observer",
-      "source": "Farmingdale Observer",
-      "url": "https://farmingdale-observer.com/2025/06/21/scientists-discover-the-oldest-representations-of-the-milky-way-in-ancient-egyptian-art/",
-      "image_url": "https://farmingdale-observer.com/wp-content/uploads/2025/06/via-lactea-antiguo-egipto-1746160006568_1280-1024x770.jpg",
-      "summary": "Scientists Discover The Oldest Representations Of The Milky Way In Ancient Egyptian Art. Researchers have uncovered what may be the oldest visual representations of the Milky Way in ancient Egyptian artifacts, revealing a fascinating connection between astronomy and religious beliefs in pharaonic Egypt. Dr. Or Graur, an astrophysics associate professor at the University of Portsmouth, has identified distinctive wavy black...",
-      "published": "Sat, 21 Jun 2025 23:03:00 GMT"
+      "id": "abfeab8bbae2b2154f8878f05c598c3c",
+      "title": "Royal Observatory Greenwich: The birthplace of modern astronomy turns 350 - Space",
+      "source": "Space",
+      "url": "https://www.space.com/stargazing/royal-observatory-greenwich-the-birthplace-of-modern-astronomy-turns-350",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/i4D8Fab7K5o2wFZA8HTZ5g.jpg",
+      "summary": "Universe's 'missing' matter found! Royal Observatory Greenwich: The birthplace of modern astronomy turns 350 By Anthony Wood published 8 hours ago That's a lot of standard candles. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. A painting of the Royal Observatory Greenwich (Image credit: Historical Picture Archive /Getty Images) June...",
+      "published": "Sun, 22 Jun 2025 12:00:00 GMT"
     },
     {
-      "id": "df70013c8af38fe782ef6602dba44446",
-      "title": "They Finally Opened the Moon – What Scientists Found Inside Changes Everything - The Daily Galaxy",
-      "source": "The Daily Galaxy",
-      "url": "https://dailygalaxy.com/2025/06/they-finally-opened-moon-what-inside/",
-      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/They-Finally-Opened-the-Moon-–-What-Scientists-Found-Inside-Changes-Everything.jpg",
-      "summary": "They Finally Opened the Moon – What Scientists Found Inside Changes Everything After decades of mystery and countless scientific hypotheses, we finally have a clear understanding of what lies beneath the surface and deep inside the Moon. Credit: Canva | The Daily Galaxy --Great Discoveries Channel Scientists have officially resolved a long-standing mystery about the Moon’s internal structure, confirming that...",
-      "published": "Sat, 21 Jun 2025 18:00:00 GMT"
+      "id": "2f9e3d9e0270d26ab4e039504f7c32c0",
+      "title": "Ocean waters are changing colors and pushing marine life toward the poles - Earth.com",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/news/shifting-ocean-color-is-pushing-marine-life-toward-the-poles/",
+      "image_url": "https://cff2.earth.com/uploads/2025/06/21190520/ocean-waters_changing-colors_greening_1m.jpg",
+      "summary": "Ocean waters are changing colors and pushing marine life toward the poles Oceanographers have long used a simple rule of thumb: green water teems with microscopic life, while ultramarine blue usually signals relative scarcity. A fresh analysis of two decades of satellite images suggests that the dividing line between those hues is on the move. Scientists have determined that open-ocean...",
+      "published": "Sat, 21 Jun 2025 07:02:02 GMT"
+    },
+    {
+      "id": "ae264fa944c83f01c154c0e4a4ca7fad",
+      "title": "Psyche keeps its date with an asteroid, but now it’s running in backup mode - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2025/06/psyche-keeps-its-date-with-an-asteroid-but-now-its-running-in-backup-mode/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/1-pia24834-1152x648.jpg",
+      "summary": "Psyche keeps its date with an asteroid, but now it’s running in backup mode Engineers switched to a backup fuel line less than a quarter of the way through Psyche's mission. Artist's concept of NASA's Psyche spacecraft. One of its Hall thrusters is visible glowing blue in this illustration. Credit: NASA A NASA spacecraft bound for an unexplored metal-rich asteroid...",
+      "published": "Sat, 21 Jun 2025 18:10:03 GMT"
+    },
+    {
+      "id": "601b2aee00b3e26d83ae422550b6f391",
+      "title": "May 2024 solar storm cost $500 million in damages to farmers, new study reveals - Space",
+      "source": "Space",
+      "url": "https://www.space.com/astronomy/sun/may-2024-solar-storm-cost-usd500-million-in-damages-to-farmers-new-study-reveals",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Yngd36PKg5ZhWtYwNjKZAc.jpg",
+      "summary": "Universe's 'missing' matter found! May 2024 solar storm cost $500 million in damages to farmers, new study reveals By Tereza Pultarova published 7 hours ago GPS receivers were off by up to 230 feet during the worst solar storm in 20 years. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.",
+      "published": "Sun, 22 Jun 2025 13:00:00 GMT"
+    },
+    {
+      "id": "b3416778ccbfed75a97187d08c60f3ec",
+      "title": "What animal has the best eyesight? - Live Science",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/animals/what-animal-has-the-best-eyesight",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rvsQ6wuq2jDNUrPMKZ2qGL.jpg",
+      "summary": "Vera C. Rubin Observatory pictures What animal has the best eyesight? By Marilyn Perkins published 11 hours ago When it comes to exceptional eyesight, picking a clear winner is harder than you might think. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Eagles are known for their vision. But do...",
+      "published": "Sun, 22 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "id": "2bb55912bd0cd437e9b66beb5ce398f4",
+      "title": "Signals detected from Antarctic ice seem to defy laws of physics. Scientists search for answer - KSL News",
+      "source": "KSL News",
+      "url": "https://www.ksl.com/article/51333303/signals-detected-from-antarctic-ice-seem-to-defy-laws-of-physics-scientists-search-for-answer",
+      "image_url": "https://img.ksl.com/slc/3090/309024/30902456.jpg?filter=kslv2/responsive_story_lg",
+      "summary": "Signals detected from Antarctic ice seem to defy laws of physics. Scientists search for answer By Ashley Strickland, CNN | Posted - June 22, 2025 at 8:03 a. m. NASA’s Antarctic Impulsive Transient Antenna, or ANITA, experiment flew over stretches of Antarctic ice via a balloon. (Stephanie Wissel, Penn State via CNN Newsource) Scientists investigate mysterious signals from Antarctic ice...",
+      "published": "Sun, 22 Jun 2025 14:05:24 GMT"
+    },
+    {
+      "id": "040a030fdc6429ae5d19bdb2099e88a6",
+      "title": "Fast Radio Bursts Reveal Where The Universe's Missing Matter Is Hiding - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/fast-radio-bursts-reveal-where-the-universes-missing-matter-is-hiding",
+      "image_url": "https://www.sciencealert.com/images/2020-05/processed/frb_topic_cover_nasa_1024.jpg",
+      "summary": "Fast Radio Bursts Reveal Where The Universe's Missing Matter Is Hiding The radio light from fast radio bursts changes as it travels through the intergalactic medium. (ESA/Hubble & NASA) By tracing powerful radio signals back to their host galaxies near the beginning of time, astrophysicists have pinpointed where the Universe's missing matter is hiding. In the space between the galaxies,...",
+      "published": "Sat, 21 Jun 2025 22:01:11 GMT"
+    },
+    {
+      "id": "77e46eb7eb4f05e272365b0e64e82391",
+      "title": "This Quirky Accessory Can Actually Make Walking Easier And Boost Heart Health - HuffPost",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trekking-poles-walking-stick-heart-health-ano_l_6853195ae4b068e618ea642d",
+      "image_url": "https://img.huffingtonpost.com/asset/67ddbf5d1700001b00e1aad1.jpeg?cache=wD7ImXa9r7&ops=1200_630",
+      "summary": "Twenty Years of Fearless Reporting HuffPost may receive a commission from some purchases made via links on this page. Every item is independently curated by the HuffPost Shopping team. Prices and availability are subject to change. This Quirky Accessory Can Actually Make Walking Easier And Boost Heart Health Reviewers love this pair of insanely highly-rated walking sticks. The TrailBuddy trekking...",
+      "published": "Sun, 22 Jun 2025 11:00:17 GMT"
+    },
+    {
+      "id": "53b95fa9bcb6ca7181a73b59e0929550",
+      "title": "How the Universe and Its Mirrored Version Are Different - WIRED",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/how-the-universe-differs-from-its-mirror-image/",
+      "image_url": "https://media.wired.com/photos/6852baee416aa69fa1193ad6/191:100/w_1280,c_limit/Chirality-byCelsius-Pictor-Lede-scaled.jpeg",
+      "summary": "How the Universe and Its Mirrored Version Are Different From living matter to molecules to elementary particles, the world is made of “chiral” objects that differ from their reflected forms. THE ORIGINAL VERSION of this story appeared in Quanta Magazine. After her adventures in Wonderland, the fictional Alice stepped through the mirror above her fireplace in Lewis Carroll’s 1871 novel...",
+      "published": "Sun, 22 Jun 2025 11:00:00 GMT"
     }
   ]
 }
