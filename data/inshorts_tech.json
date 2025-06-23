@@ -1,54 +1,72 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-23 14:33:12",
+    "generation_time": "2025-06-23 20:29:10",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "8bfc3b931c45a237baa87d60081df730",
-      "title": "Apple is under pressure to deliver a hit iPhone - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2025/06/23/iphone-16-apple-ai-hardware",
-      "image_url": "https://images.axios.com/913x50CnGaWC0FUPnKOGLD4uS2Y=/0x0:1920x1080/1366x768/2025/06/23/1750639190090.jpg",
-      "summary": "Apple is under pressure to deliver a hit iPhone Illustration: Brendan Lynch/Axios Disappointment in Apple's AI progress could put pressure on the company to deliver more compelling hardware. Why it matters: The iPhone is critical to Apple's business, but also crucial for component makers and wireless carriers. Driving the news: Apple previewed iOS 26, the software that will power the...",
-      "published": "Mon, 23 Jun 2025 08:18:14 GMT"
+      "id": "c27baedf0861a52de69695d05eb90e31",
+      "title": "Google adds AI features to Chromebook Plus devices - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/06/23/google-adds-ai-features-to-chromebook-plus-devices/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/2_Lenovo-Chromebook-Plus-14.jpeg?resize=1200,800",
+      "summary": "Google adds AI features to Chromebook Plus devices Google’s adding a slew of AI features to its productivity-focused Chromebook Plus line of devices, including a screen-selection tool for search and text capture, a tool that explains complex text, and NotebookLM. The new screen-selection tool works similarly to Google Lens and the “Circle to search” feature in Chrome on smartphones: long-press...",
+      "published": "Mon, 23 Jun 2025 13:00:00 GMT"
     },
     {
-      "id": "6589dfa6f7b2fc80fe4f97e58289fb38",
-      "title": "Digital Foundry Is \"Happy\" With Switch 2 But Feels The Screen Is \"Problematic\" - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2025/06/digital-foundry-is-happy-with-switch-2-but-feels-the-screen-is-problematic",
-      "image_url": "https://images.nintendolife.com/20b1277270269/large.jpg",
-      "summary": "Nintendo Switch 2 News Reviews Features Games Guides Videos Forums Better eShop NewsNintendo Switch 2Digital Foundry Digital Foundry Is \"Happy\" With Switch 2 But Feels The Screen Is \"Problematic\" Display has \"blurring characteristics that are easily worse than the 2017 Switch’s display\" by Damien McFerran Yesterday, 8pm Image: Damien McFerran / Nintendo Life The tech boffins over at Digital Foundry...",
-      "published": "Sun, 22 Jun 2025 20:16:30 GMT"
+      "id": "aaf4af97f1345717c1ffd878f16d062e",
+      "title": "Apple iPhone 17 Series Will Showcase ‘Design Revamp,’ New Report Claims - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidphelan/2025/06/23/apple-iphone-17-series-will-showcase-design-revamp-new-report-claims-iphone-16-pro-max/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/678bccc72447f0b5ba666614/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "summary": "Apple iPhone 17 Series Will Showcase ‘Design Revamp,’ New Report Claims ByDavid Phelan, Senior Contributor. I write about lifestyle tech Updated June 23 with more iPhone 17 series design details, including expected colors. When Apple releases the iPhone 17 series, we already know it will come with the Liquid Glass software design overhaul announced at WWDC. Now, a new report...",
+      "published": "Mon, 23 Jun 2025 13:40:00 GMT"
     },
     {
-      "id": "fa7af41e77783bf2edc2f07fbcf75310",
-      "title": "Why I’m excited for the Galaxy Z Fold 7, and not just because it’s thin - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxYkVFM0l1RTJsSktqX1pkY2hkcElhY2ZnTkRFQVhjclZCVGhaSmtfVDB5aFRSclNkX3dZZlhDZDVhYWNudW1IX2ZjaUdZQjh4ZDZNaFI4QUxGdTVKOXFDU19nYWZJNHNVNEJrTHRXdw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 22 Jun 2025 16:00:00 GMT"
-    },
-    {
-      "id": "52814cf58a5736be3da644584b821737",
-      "title": "Perplexity's AI-powered browser opens up to select Windows users - Engadget",
-      "source": "Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnQtaDBJNk5pWDh6b0pLVXZ6dGlXc0FEd0N2bERKekU4X3BjekpoejN4ZXFnWlc4X3RPSVVYS0xYY3pUTFFDTlR4ZGR1Q1lKRlM1ODZ5TFNBUWpFUHFjWlVldXhFWGdXSGt0NTdNVWE0N25wTWNTQTZWOWNGOUNDTDAzOWkwT0ExR3Y2TU51Mk9zTE5MZEtOb1Z6V2V6ZnNubUdSamFEdmwxZw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 22 Jun 2025 18:06:29 GMT"
-    },
-    {
-      "id": "3310d8b68a027d4efc18fbd2f5d2589f",
-      "title": "iPhone Reportedly Moving to All-Screen Design in Two Stages - MacRumors",
+      "id": "450eb80d926d7d2af4ff1feba341a82e",
+      "title": "iPhone 18 Pro With Under-Screen Face ID Now Rumored to Feature Smaller Dynamic Island - MacRumors",
       "source": "MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84Rnh3TS1aekd4N0xxS1QtTFB5WVY5aV94VTlrSkI3VHdKV1A0bHdsMjc3ZVlYZzFqZEhuNmlZTjhid3Jia09YNllNeDFBUlBxa2FnR2lzNEZLTHBoSFV1NnV6NmZsaU9TLWplTFVoX3FmcVlJdEt5WEhEeGp4UQ?oc=5",
+      "url": "https://www.macrumors.com/2025/06/23/iphone-18-pro-smaller-dynamic-island-rumor/",
+      "image_url": "https://images.macrumors.com/t/2oy-z9BURf5FTnh4g5agL3OgGRw=/1920x/article-new/2025/05/iPhone-14-Pro-Dynamic-Island.jpg",
+      "summary": "iOS 26macOS Tahoe 26iPadOS 26iPhone 17iPhone 17 AiriPhone 17 ProiPhone 16eiPhone 16iPhone 16 ProMacBook ProiOS 18Apple Vision ProiMacMac miniiPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Pro Display XDRApple Watch Ultra 2HomePod miniMac ProMacBook AiriPadiPhone 15AirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch 10Apple Watch SEMac StudioiPad Air iPad miniiPhone 18CarPlayApple PaywatchOS 26 iPhone 18 Pro With Under-Screen Face ID Now...",
+      "published": "Mon, 23 Jun 2025 14:12:47 GMT"
+    },
+    {
+      "id": "afaaa1f6ab35f967d3458fe34a7ef976",
+      "title": "Cyberpunk 2077's new update will have \"scope similar\" to 2.2, as CD Projekt announces delay - Eurogamer",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/cyberpunk-2077s-new-update-will-have-scope-similar-to-22-as-cd-projekt-announces-delay",
+      "image_url": "https://assetsio.gnwcdn.com/Cyberpunk-2077-wallpaper-by-CDPR-showing-a-female-character-with-short-hair-holding-a-small-token-with-a-heart-on-it.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "All Mario Kart World Unlockables Flashpoint Worlds Collide codes If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Cyberpunk 2077's new update will have \"scope similar\" to 2. 2, as CD Projekt announces delay News by Victoria Phillips Kennedy News Reporter The Cyberpunk 2077 team has delayed its upcoming...",
+      "published": "Mon, 23 Jun 2025 14:45:56 GMT"
+    },
+    {
+      "id": "36beabe9f71d6b655a0e05dd86394790",
+      "title": "Samsung Estimated To Introduce A 16GB RAM Upgrade To Its Galaxy S26 Series In 2026, Claims Research Firm, While Apple’s iPhone Range Will Remain Unchanged In These Specifications - Wccftech",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/galaxy-s26-series-to-feature-a-16gb-ram-upgrade-in-2026/",
+      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2025/06/Galaxy-S25-series.jpg",
+      "summary": "Samsung Estimated To Introduce A 16GB RAM Upgrade To Its Galaxy S26 Series In 2026, Claims Research Firm, While Apple’s iPhone Range Will Remain Unchanged In These Specifications The countless criticism received by Samsung surrounding the gimped specifications of its Galaxy S24 lineup eventually encouraged the company to introduce 12GB RAM as standard on all Galaxy S25 models. The Galaxy...",
+      "published": "Mon, 23 Jun 2025 04:28:00 GMT"
+    },
+    {
+      "id": "e8f7d02226ad4541963fdc681b0ee690",
+      "title": "Mark Zuckerberg made the bold choice to wear a $100,000 Purple colored watch while announcing Meta’s new Oakley Smart Glasses - Luxurylaunches",
+      "source": "Luxurylaunches",
+      "url": "https://luxurylaunches.com/celebrities/mark-zuckerberg-wearing-de-bethune-db28xs-purple-rain-06222025.php",
+      "image_url": "https://luxurylaunches.com/wp-content/uploads/2025/06/mark-zuckerberg-de-bethune-db28xs-purple-rain.jpeg",
+      "summary": "CelebritiesPublished: June 22, 2025 Mark Zuckerberg made the bold choice to wear a $100,000 Purple colored watch while announcing Meta’s new Oakley Smart Glasses In his latest Instagram appearance, Meta CEO Mark Zuckerberg once again captivated horology enthusiasts, not with an update on the metaverse or a new gadget, but with what was on his wrist. The post, meant to...",
+      "published": "Sun, 22 Jun 2025 10:05:13 GMT"
+    },
+    {
+      "id": "870000a8569125fb7e7f513e2fce72fb",
+      "title": "Apple iOS 26: Everything you need to know about the next iPhone operating system - Engadget",
+      "source": "Engadget",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcTJlV0psamFITkFYeUpaNWEtRnhCZHYxYWVWaGJmNFNxOE5OQXpDY3lnYjlKazA3OVFMZXRfN3FwRDVndXBDenhGQ2JUT0lKbVpvTG5DYkhRR3BUMTlNb0tEZFRzVVhPTnF6SmZhRk1UY2t1aEtsV3lSWjF5SzdfZFZyWEstWXpDSnIxR0tRYUtjSGh6LTZSdDRzem50UjVWTE9HVkVSVmo5TVdXRGNaNzFXQW5qRlE5Y29adzdxaXNxbFlh?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 22 Jun 2025 22:58:19 GMT"
+      "published": "Mon, 23 Jun 2025 13:57:53 GMT"
     },
     {
       "id": "b3bf3e83a4b398f1d9da339d7ff3253e",
@@ -60,40 +78,31 @@
       "published": "Sun, 22 Jun 2025 19:29:00 GMT"
     },
     {
-      "id": "b8c3c40ffbd9fe2ba991ea304efb2c87",
-      "title": "MIT researchers say using ChatGPT can rot your brain. The truth is a little more complicated - The Conversation",
-      "source": "The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVHc4NHo5MVBrUWtKdUpaTjVSbnk5bUdpM0IzLURBRlhENWpPNlBhTGxncXJLdHBlN1hLa29leG9uYkxhY083cjBuZENxaF9WZDdlYjdpazJlX3MzMEhXOVF0dUhVOTZTMC1WQkZqMGpsUzc1STBUZWdPdWItZVo5SkYtWVZaUWRUNGtsRVpSWlViWHNwNzBZUlJESHY3V0VCYkVTT2tzNXJCY3M5eVZfRFJjamx1bFZQNFNRRklnYWxrSkhE?oc=5",
+      "id": "9c776c0638c79bfa3df06f0166aef0f1",
+      "title": "Magic V5: Honor officially reveals Oppo Find N5 surpassing dimensions with Samsung Galaxy Z Fold7 looming - Notebookcheck",
+      "source": "Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYVREUmYxbUhoM1RobUZhSjVJenVwSVBKWnlkQmMxSmcxeUQyNmloUXJhZi1pX2FHblM3emlFVDhSUUdjNGRrUXhQUmtPMjhXSWlMN0FpV0RZdklkS1k1OEdzWFRZaHl2RTI0YlFERDR2ZXoyNGF2RDY2SkpnVW94Zzdwel83bzAxa05vYUFPcm93NEl1RjhyYTB3MHN0SVNjZzNGNVFIeGJCSW5WclF6XzJFYldGaldLcDA0Q1lZX3ExeGpxQ0w2bFc0U2hmc2ZxVGlUd2gzRmtqTnptYVlYRlpxdw?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 04:20:19 GMT"
+      "published": "Sun, 22 Jun 2025 12:00:00 GMT"
     },
     {
-      "id": "7159c15189cf405c621c6a093ac3a7dd",
-      "title": "Nothing Headphone 1 leaks show quirky translucent design - The Verge",
-      "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TeEdaZGVMUHFoeE9iVG1aYy1KQ0VJUHNDYjVGNTdKZnlJZTNnRy1zS01OQ0VOTHB5NnF0Xzl1T3A4SVZENXhidXY1b2theVdoZFFoZHFabjhGWTB5RnlRbEVPN1oxLUNNZkJnNExVSjVhUVE5V19V?oc=5",
+      "id": "dbe654f8615f6de8ee42e525bb3d64f7",
+      "title": "Galaxy Z Flip 7 renders showcase some vivid colors for Samsung’s next clamshell [Gallery] - 9to5Google",
+      "source": "9to5Google",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDNEbmh0dHBFOXNSNV81V2hmRFhxOFM4N2lldjZaV3lkTWpQZ2JEYkRscG5scXZIMWFheTROUzNyaWk2cWUwZlo5NVZMZk8yS1pLMXVRbTV4MGE2dk1UWlJRZ0hmUVZfb0REdTZnYktaYWdmbUJwZzB1amZabVFZbXVRdUV4QQ?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 11:23:26 GMT"
+      "published": "Mon, 23 Jun 2025 15:18:00 GMT"
     },
     {
-      "id": "b550cf19961ac84bfd34161a4114c37b",
-      "title": "Hear Iranian foreign minister respond to US strikes on Iran - MSN",
-      "source": "MSN",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV3FCNjdlUDhMbHhJUndHMW9IYkRPV21yQnRvTS00UWZ4MHZzYVV1bjkwZkxPTWpLYUxKUHNCcG9DZklnUHhTWnRybmdoM2ticEdzWDVPMGFPTm96RTREYnl2b2Mwblh1MlNHZjlvODl0bHFWZkticGlLRERTMEpqb3lkeFhyUWhaQW40czkwNVpTWF9zX3FscGlqMGdVSU93eHM4QzhlRzJFaDBl?oc=5",
+      "id": "d8799c28d10e6bcec926d8663059aa1b",
+      "title": "Microsoft surprises MS-DOS fans with remake of ancient text editor that works on Linux - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDFzZmdYaGVTZ1BhSF9sbEZFQ1dXSGNxMDJyS3FPZW9IbWhaVTRLWGxFaEthYW9FV1hjS2E3Q1pqMnlhM2hUTDJqQk96OGxhaF9zNF9CTFZ5Q0RYWWNWOXh6cC16M0dsWGJLU2J6R2xCbzFSb0x0Sm9LWFdVMldXcVgzR2xkUm9RODlxNkVyQjRRUUlTOHg4QnhCZ0NFNUFVdnZDN2VyR2hjcXNqMHNxWGRWSjc5TU9xS3lFclpJWGU4WnhLX0E?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 22 Jun 2025 15:01:11 GMT"
-    },
-    {
-      "id": "5a60fc2bbe1979c9affbf5c11fa7a70e",
-      "title": "Nintendo Switch 2 restocks live — Walmart drop confirmed this week and latest updates - Tom's Guide",
-      "source": "Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeEUtdy1yUF9hRkR0UW9pbjhmUDVmTHk4eW43Um5kd1J4X3lHZEZGRUdzQk0wbFlkemdXNzNWX0NYVEVRNDNWcVZTR1ZPNlpzYjFpaGZ0ZHRzc1dwSi1KWlJISlhaWWRrWXVUZTNJRTBsMjFielc5QVgwOEhPT1o2b0pxZGV3YnZMbklxVw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 10:24:32 GMT"
+      "published": "Mon, 23 Jun 2025 17:23:35 GMT"
     },
     {
       "id": "4df7c1b964962bdd8a33c7c25855893e",
@@ -102,88 +111,79 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObW1aVUFSWGdQbzZ4cjAxQUFLNDFrVVlBUGlrYW0ybFJ3SU1oOWszSl80ZUFRNEhvRWNoT3dYM3RJTGtVQ3FSWS0zVFhzLVUyMXRjR3c3OVA2d0NmTWVaNXgxdm9NZWlfMVZxQm1vR2NidVRsd0k1Wmc4TmpoWnUweDNmMWNsWVhqNDJjYkU0cWNUc2JGWXFmS0lrRHNxYnRuN0VSQWxlSjVYZw?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 12:01:01 GMT"
+      "published": "Mon, 23 Jun 2025 18:16:12 GMT"
     },
     {
-      "id": "ecfedc0483db929777aafd85979e18e9",
-      "title": "Nothing Phone (3) leaked specs suggest big upgrades incoming - PhoneArena",
-      "source": "PhoneArena",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBQkJuVFA0dnRZdENXWW5qYWRONTZ2azB1dldqd3ZNV0VMaHF3YXhPanV5QWN0XzVFOFhWWkZSbmNwNTVZaUc3am1Mb19rN3lIR0VPNFNaQzl0MFZkNURDT1IxdVVlMG5menIwWms3c09KR1c5SXN0eA?oc=5",
+      "id": "f6efcc890065cd94050fb08278af79d6",
+      "title": "Lenovo’s RTX-powered laptop with 32GB RAM is $400 off - PCWorld",
+      "source": "PCWorld",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONURyTWEtMnRFZVFrOGJhSFlHSjFqZGZmTmVibjZUMjM1dmdwZjBzNGc2V0F3TENPcHNZUVYtUzI1ZDRIX0NpUGpINnc4MUdSM1FYSnN5T2ZaWWJiRHlnWXdhWXFSLXFKTU9hWW55SlRDRjk2Zi1QSHRPSjlvMmpFRHBVSXhnTGlTa202Tzh2bExpUGZMX2RiVFFkRy0?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sat, 21 Jun 2025 15:19:01 GMT"
+      "published": "Thu, 19 Jun 2025 16:45:00 GMT"
     },
     {
-      "id": "3e47aba7ec749fb9f19102a2dd289b78",
-      "title": "The Finals of Pro Tour Magic: The Gathering®—FINAL FANTASY™ - magic.gg",
-      "source": "magic.gg",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWxvcGw3Y3M4OE1URGxiemF2Vnc2ME96cnRYa1NLY25VQVE2MVV4WWhSazhpMzBVbWRaamNsOTlqLUsyZFlveEdHZ1M0T2pmVFdGeWxvVTI0azc1STFobHU4STBRMmZrWmJDaEhvcTY3NkpPVTZEUVZzeEJLcHoxNmpmWm0?oc=5",
+      "id": "e9a9d7f61acf4166266835c557effcd7",
+      "title": "Spotted: New Lexus LFR Supercar Caught Testing in California - Motor1.com",
+      "source": "Motor1.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WT0VteG95Q0pCaFNKYlF6QWxNOUZxRTUtMHgyNmxVc3JnQWUwNW05Z3lpMDRBR19ETzN1WENZOGp1NGJmdFZRa1pYMkc3VHdKMmlKNGlqZzJiRHFlLXBDRFl0MmZaMDlEbHBzOVNHVnRSTnct?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 01:38:25 GMT"
+      "published": "Mon, 23 Jun 2025 13:16:00 GMT"
     },
     {
-      "id": "6bc9c8ef749cdfbaba4531a469df8782",
-      "title": "Where Are Mario Kart World's Non-Mario Racers? Producer Kosuke Yabuki Has The Answer - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSHZkOGU0cnFaTk1VMkNjVmJ1QXhSa1N5WkNycldQbjVwbk16ajQwenhCWWIyVklORVdoMmZ3STBqcDFIWHBhLWtXT1NoTzJaNC1vdHhjUk1LNkk5ak9nRUNCOGNTcS1DZm9BZ0w3b05zeFdiVlRscHpzeDZEclNBOTZBeXAya193OXJDM3QtRGxGR3VwZkVkWElqSVZDaW5LU2FSRk1BM29ET1hnd05vaUpJUUVKX1MzbHZKNk50VldSZw?oc=5",
+      "id": "c90974a68f6f3ca9865abb2136731c85",
+      "title": "Microsoft’s Xbox UI update lets you pin games and customize your homescreen - The Verge",
+      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSERkeW9CUmZDd1lSTnQzRFRsMDlucFlfc1NDb0tqOFY5Q19qS25jR2s1U1ptd0gybWxRMlBYU1ZrMXFjYkx4aEFlMzJQU1dnb3BjU2k3YkdxemNhQUdqTnI0Q2kwekR5N2lmMlhpOHh0WlNBNEJjbGstV3ZCNWplWDQ3eUhsazlQdEhSemZR?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 09:55:58 GMT"
+      "published": "Mon, 23 Jun 2025 17:11:50 GMT"
     },
     {
-      "id": "336f67fa9372839c57753d7030a21d57",
-      "title": "Finally a silent Snapdragon 2-in-1 - Microsoft Surface Pro 12 review - Notebookcheck",
-      "source": "Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekVSTENralBJVWZrZ3VrN0Y3bWF1QU5NQ0prX2J4bllQcGh2UmVkcFZGV0ozbUVfOHdwYjVkaENKbjRNa3FjQ0k5WGJhS3dkazZockZkeTBCOVpKVl80alZ1Y3FEQ1RSM2hnM21CS1I2aU40cGM3UHlxdjl1ZmxYX0dlZEQycWZ6VzcwRVRYb2hYWl9oaEo1Nmk4bUxqbUJjQmU4eFo1MUZnYzc5SnNIZw?oc=5",
+      "id": "1bdd592fc02eff8b41afe123668315fa",
+      "title": "MindsEye Developer Build A Rocket Boy Begins Layoff Process Amid Disastrous Launch, Studio Sources Say - IGN",
+      "source": "IGN",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMVd1c0RwYmprZ01DWFBkaGRvd1lfWVBDNU1TdlNxR2g1TjNhcWVtUlhLanJqU0pheDRYZEVMSjJjdk5QYU9TTFl5NUZWVEpUV1ZaVDBYR3d5OC10cHRtZ19KYTFfUlBTOGNRcU5yZFE2Z21lRExUdmlnaUhTY0l3SWZkQVlrbVpMRHphc2xSVVE1ZHNiZklGalZiV2NCc1pXLWowZ3R0UHloS3JVc3g0TFZzNGZQc0hPWjZoZ0ZySHRBX2M4ZnpJNVJR?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 22 Jun 2025 13:07:00 GMT"
+      "published": "Mon, 23 Jun 2025 10:44:01 GMT"
     },
     {
-      "id": "cfabb740e23a9373249b5e2b58607cb5",
-      "title": "iOS 26 has a huge battery life upgrade — here’s the iPhones that get it - Tom's Guide",
-      "source": "Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUHNiUGpjOFpkRFl2aUdsdko1V21HVmdOYnhhYm5Vam1JU2lYdWxPMmZwOXZBZUFOZ3Fha0lVNUpyN3hRUV9IeUt0WmhBWmZydXFHNE9xWldwekxXMUMwVUtDMHNnYXl5UDQ0eVlzSHdBX25qRzJLLUtZZFhXdU1aZDJEUlpQbTcxcUhjSHN0bUIzMmlxcy1TSjVMUjFvRjh2b0k5Sk94d1RCdkVYSUE?oc=5",
+      "id": "f9e36dd642dcd027232d22818dd5faec",
+      "title": "Diablo 4 Season 9 will be detailed this Friday - and you even get an in-game skin for watching the reveal live - VG247",
+      "source": "VG247",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPamE5YnVKRnhlckxUUG03eVVOZ1J1OUFfRlFGMXlqUk1nS3RDUTBCTDNTS2VpalF1MkMtMUFOUTJhcmtSdUVqSEMwSl9tMkMyN1FCT1lxdnNncG1NbGhoRWRheDBleTBhd0YtOUpKTG1vcXI5ZDFjX3JMNnphZFlvLVZsS3gtdWRHcGRv?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 22 Jun 2025 15:31:57 GMT"
+      "published": "Mon, 23 Jun 2025 10:35:53 GMT"
     },
     {
-      "id": "c9d95ea9ef0b767e844f1b95a53b67cb",
-      "title": "SpongeBob, TMNT, Avatar DLC Confirmed for Sonic Racing: CrossWorlds - Push Square",
-      "source": "Push Square",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc2lKeXgzRWU5a083ZWVWeXlLWWQ5TlNmWEFBZnFSNHpqcDBxLUJRUms0SlhESi1qNjQ0LVpOaVh2VjQxUFlsa01LUjJVZ05iVWJ0RzJPTUU0djlGMUxBTGVmcHFZNGVMZHd6Y3liSUtvT3BpaTl6X0E4RjF3ZkFqel9uRVFaVXBVT25CaU92ZlplY1UxdWdnMG9xQmxMOXk5aUhNbXp0dw?oc=5",
+      "id": "593beb8b89deb3cafd08dc72d41c7a09",
+      "title": "MSI's new Toy Story PC features Buzz Lightyear GPU, Woody motherboard, and more - TechSpot",
+      "source": "TechSpot",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdE12VXVCaDJQOXFuZ05YN1ZxZVFIV1pLRHU2Zi1OLTNyU3NXWDMwSnRGSzJreXpYRlNENlAtUTFmNFJKQWpyaG9obzNwUWRNV011UGdGaFA3UHJ0MGxTd3pZTDMtM0ZISmtVWEd2TDlnbUxpWTY2M2tNTDdpRHhaZUQ4TndnNVZTNlpLWm1saw?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 22 Jun 2025 11:00:00 GMT"
+      "published": "Mon, 23 Jun 2025 12:41:07 GMT"
     },
     {
-      "id": "49e525c939e9a079de15eddd1a54c0eb",
-      "title": "Xbox gamers blown away by brand-new console design: 'it's beautiful' - GAMINGbible",
-      "source": "GAMINGbible",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcnhZdHRaM2RvaEFpU1BCVXZMeV96VUxBWGJGWi1qTzFCSWFBRXZIMVhfS3RRSVRhYk9wWHhDRWQzYXlNWlNUdkFOZUJPcy1CWXkyd0k2dzU1bEs2SDJqamVpN18wT2h2VjBpc05ITGpjREdTRU9GXzViZmNWSWdQSnIyaGNzR3RybUlveF9xNA?oc=5",
+      "id": "bf7b1143d10183090cf4551be24aff88",
+      "title": "The Biggest Pros And Cons Of Dodge's Hemi Engine - Jalopnik",
+      "source": "Jalopnik",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zajBJRmpiWkF1ckJSUHJXbEhVRmZwdkkwbnhxR2lOLUxmTG44aWVfN1R0WnJOVllOQ1pNSVMtNG9pT2xwdUFtZ1oyTU9EbUVIQ1A5NWcyU3EwTlY3aWFta1YyYnl5bFVuYmJSNzhR?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 08:33:11 GMT"
+      "published": "Mon, 23 Jun 2025 16:55:00 GMT"
     },
     {
-      "id": "a9156cd3bb00235bdce6153709404b64",
-      "title": "Apple Reportedly Mulling Perplexity Purchase to Bolster AI Offerings - PYMNTS.com",
-      "source": "PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT2ZVQU1BaGhtRWduS29xcC1tekdMamp4dm9ETm1rbV9TWm5mMGl2UWRsY3ZyR05NSzc3U29lbThtSnVOMjh5U3R4aERxa3ItSFpyZXlNS3E0aHpjbFdpdWE4eS1aWlcxOWZaRHVIekJJdUZHOERJUzI4Nl9YWDh0QzRMYTF6Rm9WcUt4RkNBMjZueGpQdUNnRTVmQlI2OXZveDJESFRmbjRValh3YTJwUzdQU3Y5dkdmeWIwTEVFd0E?oc=5",
+      "id": "656fbfb169ab7b94a775fbeec803e995",
+      "title": "Mario Kart World producer: ‘It didn’t seem necessary’ to add characters from other Nintendo games - Video Games Chronicle",
+      "source": "Video Games Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY1lwbHUzaWl2WEM3c2J2Y1FXWlNsRFhubHlnT3JObXpnb1Z3TUtsTnhLQkZPTzU3SVFGbm1rVDlpTUNNelR4ZE9DNUdIcmdwcEhVZ3pVTFNCbEN4aHZncl9uWHE4R2FHMWZWeXBCaHRRNW5xRUpRcFh3VjRrTkRxSW02Qm5MMWV6cGRxZzlSRVZELUd4d1ZCcUtJU3RuNVZyX0JISmpZR2lnMVcySHlmSndEUlRKRHJoWUtNT2YzamNWZ2RHeVhKLUhibnpzcUJa?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 08:05:17 GMT"
-    },
-    {
-      "id": "09229732e0f1b14817ab3628ff1a162f",
-      "title": "Closed-Source Meets Open-Source: Microsoft’s Founder Bill Gates and Linux’s Creator Linus Torvalds Cross Paths For The First Time in 50 Years - Wccftech",
-      "source": "Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkZ5Nl9yUFVwd2R3X0Vqc01WWU0yLVg5V2Fnd0lzLXI3WDAwMVlmUkJYMGgySFZaOElZWWpuTThLWTZvWWVIS2xRY0FsX2RrWHlZd0RfRlJ1NWd6dk5jUm02RXdiWDh1aUN5b0NHYzRUMERrTFJMeWk1UDh2Vkw1NlBZeVFVTWxHMXRjaGp2QmxVeG91dkpzQlhWU05GeW1qYXFhTXlGYlMxNGpnUW4xSnQtMWRZU1Q0cGN1Z3F5dHhLWFlw0gHKAUFVX3lxTFA4dWIyNW53eWtBNnk4M1piTTVQckpTR09iSlhOZGpEWHFFeFFEMmJiRzNCRXVScVVJOEtRTW1rcTJkNUN2RnEtbUNWS0QwS3d2MEdneE14MkVUelYxZUd0Y3lZbmhQbF9HbHNiQUVzQTBtS1I0anZVaFNzeWphX21BaHdPMVF5STEzYVI3dlc3TUFwRVdrSXpkdWhheFJ1V3poZmlrQXlUZUVHRE04TFV4M3JWSmc4WW1XMkJBYTVDaEstS1E0c3ZmTnc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 22 Jun 2025 09:36:00 GMT"
+      "published": "Mon, 23 Jun 2025 08:54:16 GMT"
     }
   ]
 }
