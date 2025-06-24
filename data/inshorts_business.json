@@ -1,18 +1,45 @@
 {
   "metadata": {
     "source_file": "data/news_business.json",
-    "generation_time": "2025-06-23 20:42:51",
+    "generation_time": "2025-06-24 03:00:53",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "98fe9e8e59ad13bbbfff207d2a85b2b6",
-      "title": "HSBC, Goldman Sachs see Brent oil hitting $80-110 if Strait of Hormuz blocked - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/goldman-sachs-warns-rising-risks-energy-supply-sees-potential-surge-oil-prices-2025-06-23/",
+      "id": "e6a3856e880f8f9f0b34ee815f7f96de",
+      "title": "Trump Confronts Potential for High Oil Prices After Iran Strikes - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/23/us/politics/trump-oil-prices-economic-fallout-iran-strike.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 15:43:26 GMT"
+      "published": "Tue, 24 Jun 2025 00:52:01 GMT"
+    },
+    {
+      "id": "2d1db3cb283867c9077143217acdc6d9",
+      "title": "The Bezos-Sánchez wedding woes are in a class of their own: Human blockades, yacht parking - Los Angeles Times",
+      "source": "Los Angeles Times",
+      "url": "https://www.latimes.com/entertainment-arts/story/2025-06-23/jeff-bezos-wedding-lauren-sanchez-venice-worries-blockades",
+      "image_url": "https://ca-times.brightspotcdn.com/dims4/default/4ef8234/2147483647/strip/true/crop/3500x1838+0+140/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe7%2F38%2Fb5581b25438589d5b2654af1ca09%2Fap25066809946801.jpg",
+      "summary": "The Bezos-Sánchez wedding woes are in a class of their own: Human blockades, yacht parking Lauren Sánchez and Jeff Bezos have a few unusual wedding-planning issues to worry about as their celebration looms in Venice — issues like a threatened blockade of the city’s canals. (Evan Agostini / Invision / Associated Press) Assistant Editor, Fast Break Desk Be glad you’re...",
+      "published": "Mon, 23 Jun 2025 23:21:39 GMT"
+    },
+    {
+      "id": "27ddd56b2f9fd4e9332134fb739500e4",
+      "title": "US safety agency contacts Tesla on robotaxi issues seen in online videos - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/autos-transportation/nhtsa-contacts-tesla-robotaxi-issues-seen-online-videos-bloomberg-news-reports-2025-06-23/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 23 Jun 2025 23:13:58 GMT"
+    },
+    {
+      "id": "32b4082801d2ea3c5ec8a7fc15f1db62",
+      "title": "Trump’s FTC will approve an ad merger — with a gift to Elon Musk’s X - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/691520/ftc-omnicom-interpublic-group-merger-advertiser-boycott-political-ideology",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS500_FTC_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "Trump’s FTC will approve an ad merger — with a gift to Elon Musk’s XA proposed consent decree would ban directing ad dollars based on “ideological viewpoints. ” Image: Cath Virginia / The Verge Lauren Feiner is a senior policy reporter at The Verge, covering the intersection of Silicon Valley and Capitol Hill. She spent 5 years covering tech policy...",
+      "published": "Mon, 23 Jun 2025 20:48:09 GMT"
     },
     {
       "id": "0e081210460a312df88ee96cf26eb906",
@@ -24,139 +51,85 @@
       "published": "Mon, 23 Jun 2025 14:37:34 GMT"
     },
     {
-      "id": "cd31667ef1db0fcfd35153d76ebeb623",
-      "title": "Venice’s most guarded secret: Inside the Bezos-Sanchez wedding plans - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/23/style/venice-secret-bezos-sanchez-wedding-plans",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242822853-cropped.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Missiles fired from Iran toward US base in Qatar. Watch CNN Venice’s most guarded secret: Inside the Bezos-Sanchez wedding plans Updated 9:05 AM EDT, Mon June 23, 2025 Jeff Bezos and Lauren Sanchez — who are expected to celebrate their wedding in Venice this week — attending a movie premier in London in the summer of 2022. Yui Mok/PA Images...",
-      "published": "Mon, 23 Jun 2025 13:05:00 GMT"
+      "id": "4f94c0684282ad11f112f66cb4944646",
+      "title": "Federal Reserve Board announces that reputational risk will no longer be a component of examination programs in its supervision of banks - Federal Reserve Board (.gov)",
+      "source": "Federal Reserve Board (.gov)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250623a.htm",
+      "image_url": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+      "summary": "An official website of the United States Government Board of Governors of the Federal Reserve System The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system. Home News & Events Press Releases Federal Reserve Board announces that reputational risk will no longer be a component of examination...",
+      "published": "Mon, 23 Jun 2025 18:03:13 GMT"
     },
     {
-      "id": "1ff397d4c0adfd99a8ef99bbbe364934",
-      "title": "Northrop, Lockheed, Other Defense Stocks Rise After Iran Strikes. Why Gains May Not Last. - Barron's",
-      "source": "Barron's",
-      "url": "https://www.barrons.com/articles/lockheed-northrop-defense-stocks-iran-strikes-4c00ded0",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 11:56:00 GMT"
-    },
-    {
-      "id": "93aadbce80365b55d1df1a6884a4666f",
-      "title": "Exclusive | New York to Build One of First U.S. Nuclear-Power Plants in Generation - WSJ",
+      "id": "16ef27b178b46e5ca0a11e46b0475563",
+      "title": "Hims & Hers Stock Drops More Than 30% After Novo Nordisk Breakup - WSJ",
       "source": "WSJ",
-      "url": "https://www.wsj.com/business/energy-oil/new-york-to-build-one-of-first-u-s-nuclear-power-plants-in-generation-271cfd33",
+      "url": "https://www.wsj.com/health/pharma/novo-nordisk-ends-partnership-with-hims-hers-bd9241cf",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 13:00:00 GMT"
+      "published": "Mon, 23 Jun 2025 19:24:00 GMT"
     },
     {
-      "id": "f2bf11b1e6af6b996ef687544863ed6b",
-      "title": "Tesla Starts Long-Awaited Robotaxi Service With Low-Key Rollout - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-23/tesla-starts-long-awaited-robotaxi-service-with-low-key-rollout",
+      "id": "a5e6cd0a1648c46105d445e0015c2db4",
+      "title": "Fed officials are starting to break rank and join Trump - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/23/economy/fed-july-rate-cut-trump",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2218217834.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "President Trump announces ceasefire between Iran and Israel. Watch CNN Fed officials are starting to break rank and join Trump Updated 2:23 PM EDT, Mon June 23, 2025 Michelle Bowman speaks at Georgetown University in Washington, DC, on June 6. Graeme Sloan/Bloomberg/Getty Images Some Federal Reserve officials are joining President Donald Trump in calling for lower interest rates as soon...",
+      "published": "Mon, 23 Jun 2025 18:23:00 GMT"
+    },
+    {
+      "id": "f0dabe8ce5005ab4040a4a6446276911",
+      "title": "US electric grids brace for scorching heat as energy prices surge - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/grid-operator-pjm-issues-maximum-generation-alert-monday-amid-heat-wave-2025-06-23/",
       "image_url": null,
-      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
-      "published": "Mon, 23 Jun 2025 15:48:25 GMT"
+      "summary": "No content available for summarization.",
+      "published": "Mon, 23 Jun 2025 21:56:12 GMT"
     },
     {
-      "id": "b466b553221f0a76c04e516db8bb6799",
-      "title": "Airlines halt or reduce flights in the Middle East as Israel-Iran conflict intensifies - France 24",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20250623-airlines-halt-reduce-flights-middle-east-israel-iran-conflict-intensifies",
-      "image_url": "https://s.france24.com/media/display/7aaa31b2-503c-11f0-bb8d-005056a97e36/w:1280/p:16x9/AP297561931480.jpg",
-      "summary": "Your personal data, your options, our responsibility We and our partners use cookies or similar technologies to access and store non-sensitive information such as your IP address. The processing of your personal data allows us, for example, to improve your user experience, monitor audience ratings, offer social networks features, or display personalized advertisements. By clicking \"Accept\", you consent to the...",
-      "published": "Mon, 23 Jun 2025 14:52:57 GMT"
-    },
-    {
-      "id": "5ee19a5d7fa046ecf71730bf13e6317a",
-      "title": "Compass files lawsuit against Zillow over private home listings policy - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Business/wireStory/compass-files-lawsuit-zillow-private-home-listings-policy-123119476",
-      "image_url": "https://i.abcnewsfe.com/a/f22ac913-04e1-48ac-ba22-8225232c526c/wirestory_703ed6fe67f1dca6f9dce01c2f279a2e_16x9.jpg?w=1600",
-      "summary": "Compass files lawsuit against Zillow over private home listings policy Real estate brokerage company Compass has filed a lawsuit against Zillow over its policy to ban private home listings ByMICHELLE CHAPMAN AP business writer National headlines from ABC NewsCatch up on the developing stories making headlines. Real estate brokerage company Compass has filed a lawsuit against Zillow over its policy...",
-      "published": "Mon, 23 Jun 2025 14:25:53 GMT"
-    },
-    {
-      "id": "b6654b96e6db284bc53e002a0820650c",
-      "title": "New Stellantis CEO faces slew of challenges, vows to avoid 'mediocrity' - CNBC",
+      "id": "3ade44c834f6e0016c310ce52f3abf48",
+      "title": "Jim Cramer: Why Wall Street is actually going higher after the U.S. bombed Iran - CNBC",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/06/23/stellantis-ceo-antonio-filosa.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108159072-1749821781726-CA_BU025_001EV.jpg?v=1749824850&w=1920&h=1080",
-      "summary": "Trump says Iran gave U. S. advance notice of missile attack in Qatar: Live updates New Stellantis CEO faces slew of challenges, vows to avoid ‘mediocrity’ Antonio Filosa is stepping into the role of CEO at automaker Stellantis with a host of challenges in front of him. Relationships with employees and dealers have fractured, the company is trying to grow...",
-      "published": "Mon, 23 Jun 2025 10:00:01 GMT"
+      "url": "https://www.cnbc.com/2025/06/23/why-cramer-thinks-wall-street-is-actually-going-higher-after-the-us-bombed-iran.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107090862-1658245457554-NUP_198367_01079_copy.jpg?v=1692298238&w=1920&h=1080",
+      "summary": "Jim Cramer: Why Wall Street is actually going higher after the U. S. bombed Iran Jim Cramer at the NYSE, June 30,2022. Wall Street’s positive reaction to Saturday’s U. S. bombings in Iran suggests the oil-rich Mideast state is “not as relevant” to the stock market as it used to be, CNBC’s Jim Cramer said Monday. We’re adding a new...",
+      "published": "Mon, 23 Jun 2025 17:49:38 GMT"
     },
     {
-      "id": "aff2a8f5d10461e46b4ae2946ba4740e",
-      "title": "With its stock in sharp decline, Trump's media company will buy $400 million of its own shares - AP News",
+      "id": "b7dd889e8c89e76b422a5286e57bcd11",
+      "title": "Jony Ive and Sam Altman’s AI Gadget Won’t Be ChatGPT in Your Ears - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/heres-why-jony-ive-and-openai-pulled-all-the-promos-for-their-ai-doohickey-2000618895",
+      "image_url": "https://gizmodo.com/app/uploads/2025/05/sam-jony-1200x675.jpg",
+      "summary": "Jony Ive and Sam Altman’s AI Gadget Won’t Be ChatGPT in Your Ears Courts forced OpenAI to pull down all its promo materials for io's upcoming AI doohickey and share a few more scant details. Published June 23, 2025 | Comments (5) | © OpenAI / Screenshot by Gizmodo Over the weekend, OpenAI removed all promo materials related to its...",
+      "published": "Mon, 23 Jun 2025 17:20:30 GMT"
+    },
+    {
+      "id": "bb7d831b55442df0a3253a24320adb3b",
+      "title": "Amgen’s obesity drug led to high discontinuation rates in mid-stage trial, as company plans to adjust dosing - STAT",
+      "source": "STAT",
+      "url": "https://www.statnews.com/2025/06/23/amgen-maritide-obesity-drug-trial-discontinuations-side-effects-dosing-changes/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Amgen02-1024x576.jpg",
+      "summary": "Reporting from the frontiers of health and medicine Amgen’s obesity drug led to high discontinuation rates in mid-stage trial, as company plans to adjust dosing The data informed Amgen’s decision to use a slow titration schedule going forward in Phase 3 CHICAGO — Amgen’s monthly obesity candidate led to substantial weight loss but a high rate of side effects and...",
+      "published": "Mon, 23 Jun 2025 18:36:09 GMT"
+    },
+    {
+      "id": "16cec80d3cd495995ff0a255215462b9",
+      "title": "Kroger announces 60 stores will shut down nation-wide - KIRO 7 News Seattle",
+      "source": "KIRO 7 News Seattle",
+      "url": "https://www.kiro7.com/news/local/kroger-announces-60-qfc-fred-meyer-stores-will-shut-down-nation-wide/SG5YGKEGAVB33DF4OYONZGB5HY/",
+      "image_url": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOWJLSO5EZZD2ZGQMOFXA4K7XQM.jpg?auth=1a81ba055333f8ed6124d415ad2c536b51554796031da7a77448fdf6151b1f71&width=1200&height=630&smart=true",
+      "summary": "Cox Media Group sites use technologies such as cookies to enable site functionality, analyze site use, and facilitate advertising. Data may be transferred to third parties using tracking technologies. Privacy Policy Newscast covering important local topics and events Kroger announces 60 stores will shut down nation-wide By Jason Sutich, MyNorthwest. com This story was originally posted on MyNorthwest. com Kroger...",
+      "published": "Mon, 23 Jun 2025 23:37:45 GMT"
+    },
+    {
+      "id": "48d24c1a6866bac38875a194c66dab68",
+      "title": "Compass files lawsuit against Zillow over home listings policy - AP News",
       "source": "AP News",
-      "url": "https://apnews.com/article/trump-media-buyback-stock-truth-social-385a1389bbc8508477fb272a4bfcf179",
+      "url": "https://apnews.com/article/compass-zillow-real-estate-mortgage-703ed6fe67f1dca6f9dce01c2f279a2e",
       "image_url": "https://apnews.com/favicon.ico",
       "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Mon, 23 Jun 2025 15:14:00 GMT"
-    },
-    {
-      "id": "9c66651ed1c89e6bbcc0ad36f109606c",
-      "title": "Hims & Hers Stock Plunges 30% as Novo Nordisk Ends Partnership, Citing 'Illegal' Practices - Investopedia",
-      "source": "Investopedia",
-      "url": "https://www.investopedia.com/hims-and-hers-stock-plunges-33-percent-as-novo-nordisk-ends-partnership-citing-illegal-practices-update-11759136",
-      "image_url": "https://www.investopedia.com/thmb/Uqmq1GX64tYHwfhBTo_LZbGS-Zs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2212016083-0d16f59172f24adf9ec2eec0a1e754ab.jpg",
-      "summary": "Stocks Rise, Oil Falls as Iranian Attack on US Base Thwarted Tesla Stock Jumps After Robotaxi Service Launch Watch These Bitcoin Price Levels What to Expect from Fed Chair Powell's Testimony Hims & Hers Stock Plunges 33% as Novo Nordisk Ends Partnership, Citing 'Illegal' Practices Updated June 23, 2025 01:39 PM EDT The decision comes after Hims & Hers Health...",
-      "published": "Mon, 23 Jun 2025 16:18:17 GMT"
-    },
-    {
-      "id": "531cb890a28bacaeaa30dc6d52be97e7",
-      "title": "Oil Prices Slide and Stocks Rise as Traders Gauge Fallout From Iran Strikes - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/22/business/stocks-us-iran-bombing.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 17:55:00 GMT"
-    },
-    {
-      "id": "09e1bf64196a3355178390115dee45c2",
-      "title": "Wall St climbs after Fed's Bowman hints at rate cut; Tesla jumps - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/wall-street-futures-edge-higher-investors-await-irans-retaliatory-move-2025-06-23/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 16:28:22 GMT"
-    },
-    {
-      "id": "b59c299dadceceb955239369d013faa7",
-      "title": "Gen Z is facing a job market bloodbath—but JPMorgan CEO Jamie Dimon says employers are still chasing students who studied these fields - Fortune",
-      "source": "Fortune",
-      "url": "https://fortune.com/2025/06/23/jpmorgan-chase-ceo-jamie-dimon-in-demand-skills-gen-z-cyber-coding-computer-science-project-management/",
-      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-2219900147_d343e8-e1750692776649.jpg?resize=1200,600",
-      "summary": "Gen Z is facing a job-market bloodbath—but JPMorgan CEO Jamie Dimon says employers are still chasing students who studied these fields JPMorgan’s Jamie Dimon reveals the must-have skills to beat the Gen Z hiring crisis. Despite worries about an entry-level-job bloodbath, billionaire JPMorgan Chase CEO Jamie Dimon says businesses are still clamoring for young talent with skills in cybersecurity, coding,...",
-      "published": "Mon, 23 Jun 2025 15:46:00 GMT"
-    },
-    {
-      "id": "2df3c4bdcbc3fd0e6a0de768ec159cae",
-      "title": "Major U.S. health insurers say they will streamline controversial process for approving care - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/06/23/prior-authorizations-us-insurers-to-change-approval-process.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/107387028-1710350423351-gettyimages-1543156724-AFP_33PH3NQ.jpeg?v=1747268664&w=1920&h=1080",
-      "summary": "Trump says Iran gave U. S. advance notice of missile attack in Qatar: Live updates Major U. S. health insurers say they will streamline controversial process for approving care Health plans under major U. S. insurers said they have voluntarily agreed to speed up and reduce prior authorizations – a process that is often a major pain point for patients...",
-      "published": "Mon, 23 Jun 2025 09:00:01 GMT"
-    },
-    {
-      "id": "fa5fbd75378154571f9ca03c9ead4048",
-      "title": "Fred Smith, Billionaire Founder of FedEx, Is Dead at 80 - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/22/obituaries/fred-smith-billionaire-founder-of-fedex-is-dead-at-80.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 18:05:00 GMT"
-    },
-    {
-      "id": "e6a3856e880f8f9f0b34ee815f7f96de",
-      "title": "Trump Confronts Potential for High Oil Prices After Iran Strikes - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/23/us/politics/trump-oil-prices-economic-fallout-iran-strike.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 16:44:01 GMT"
+      "published": "Mon, 23 Jun 2025 20:21:00 GMT"
     },
     {
       "id": "c829e8d9bc8e7efb10db4c2211c5d05a",
@@ -164,26 +137,53 @@
       "source": "Space",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/atlas-v-rocket-launches-2nd-batch-of-satellites-for-amazons-project-kuiper-megaconstellation-video",
       "image_url": "https://cdn.mos.cms.futurecdn.net/GGgBSEE3x3ZgJ36trCoPuF.png",
-      "summary": "Universe's 'missing' matter found! Space Exploration Launches & Spacecraft Atlas V rocket launches 2nd batch of satellites for Amazon's Project Kuiper megaconstellation (video) By Mike Wall published 9 hours ago The 27 broadband spacecraft lifted off today (June 23) at 6:54 a. m. ET. When you purchase through links on our site, we may earn an affiliate commission. Here’s how...",
+      "summary": "Universe's 'missing' matter found! Space Exploration Launches & Spacecraft Atlas V rocket launches 2nd batch of satellites for Amazon's Project Kuiper megaconstellation (video) By Mike Wall published 15 hours ago The 27 broadband spacecraft lifted off today (June 23) at 6:54 a. m. ET. When you purchase through links on our site, we may earn an affiliate commission. Here’s how...",
       "published": "Mon, 23 Jun 2025 11:30:31 GMT"
     },
     {
-      "id": "d877aaad9d89f12249fa366e423c74b4",
-      "title": "Nvidia Stock Slips. What’s Holding Back the AI Chip Maker's Shares. - Barron's",
-      "source": "Barron's",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-87ba389b",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 13:54:00 GMT"
+      "id": "b053a50452a9f4ad3d0496ba9fe206f2",
+      "title": "Treasury yields fall as crude oil retreats and another Fed governor floats idea of July rate cut - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/23/us-treasury-yields-us-bombs-iran-.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108160447-1750174948406-Traders-TF-Photo-20250617-ACJ-PRESS-5.jpg?v=1750175057&w=1920&h=1080",
+      "summary": "Treasury yields fall as crude oil retreats and another Fed governor floats idea of July rate cut An Islamic Revolutionary Guard Corps (IRGC) speed boat is sailing along the Persian Gulf during the IRGC marine parade, which is commemorating the Persian Gulf National Day, near the Bushehr nuclear power plant in the seaport city of Bushehr, Bushehr province, in the...",
+      "published": "Mon, 23 Jun 2025 09:32:49 GMT"
     },
     {
-      "id": "ba20d8e32b722018068e95785584b6e5",
-      "title": "NYC Heat Triggers Blackout as Soaring Temperatures Stress US Grids - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-23/nyc-heat-triggers-blackout-as-soaring-temperatures-stress-us-grids",
+      "id": "d280a2968b0a92a8f6c33dafb0a6d056",
+      "title": "Novo Nordisk Stock Tumbles on CagriSema Trial Data. Why Investors Have Doubts. - Barron's",
+      "source": "Barron's",
+      "url": "https://www.barrons.com/articles/novo-nordisk-stock-cagrisema-trial-2c850ba3",
       "image_url": null,
-      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
-      "published": "Mon, 23 Jun 2025 14:37:10 GMT"
+      "summary": "No content available for summarization.",
+      "published": "Mon, 23 Jun 2025 20:47:00 GMT"
+    },
+    {
+      "id": "c351ba120feafeee0e3db3aadc996034",
+      "title": "Rest in Peace Fred Smith, Founder of FedEx (and Maybe the Luckiest Entrepreneur of All Time) - Inc.com",
+      "source": "Inc.com",
+      "url": "https://www.inc.com/bill-murphy-jr/rest-in-peace-fred-smith-founder-of-fedex-and-maybe-the-luckiest-entrepreneur-of-all-time/91205142",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 23 Jun 2025 13:13:32 GMT"
+    },
+    {
+      "id": "b7b4b1abaabae216fee20ee246f7e00e",
+      "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
+      "source": "Investopedia",
+      "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-june-23-2025-11759089",
+      "image_url": "https://www.investopedia.com/thmb/6gRK1rRd5gSnPhJh2wlVKNoBCa4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2220349017-e93d50235f9c4b2ba59e76f7e12d8480.jpg",
+      "summary": "Stocks Jump, Oil Plunges on Hopes Middle East Conflict Could Subside Tesla Stock Jumps After Robotaxi Service Launch Watch These Bitcoin Price Levels What to Expect from Fed Chair Powell's Testimony 5 Things to Know Before the Stock Market Opens News of the day for June 23, 2025 Published June 23, 2025 07:58 AM EDT U. S. stock futures are...",
+      "published": "Mon, 23 Jun 2025 11:58:25 GMT"
+    },
+    {
+      "id": "0d46bf91dbcb2b4379afc267937ebda5",
+      "title": "Top-Rated Biotech Surges On A Bullish Win In Cancer - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/exelixis-stock-next-generation-cancer-drug-colon-cancer/",
+      "image_url": "https://www.investors.com/wp-content/uploads/2019/03/IBD-logo-216x36.png",
+      "summary": "Access to this page has been denied because we believe you are using automation tools to browse the website. This may happen as a result of the following: Javascript is disabled or blocked by an extension (ad blockers for example) Your browser does not support cookies Please make sure that Javascript and cookies are enabled on your browser and that...",
+      "published": "Mon, 23 Jun 2025 20:27:00 GMT"
     }
   ]
 }

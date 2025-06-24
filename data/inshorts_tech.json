@@ -1,36 +1,27 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-23 20:29:10",
+    "generation_time": "2025-06-24 02:32:36",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "c27baedf0861a52de69695d05eb90e31",
-      "title": "Google adds AI features to Chromebook Plus devices - TechCrunch",
+      "id": "5970a3950cf9b665da132bfb4c4f93fa",
+      "title": "[Invitation] Galaxy Unpacked July 2025: The Ultra Experience Is Ready To Unfold - Samsung Newsroom",
+      "source": "Samsung Newsroom",
+      "url": "https://news.samsung.com/global/invitation-galaxy-unpacked-july-2025-the-ultra-experience-is-ready-to-unfold",
+      "image_url": "https://img.global.news.samsung.com/global/wp-content/uploads/2025/06/Samsung-Mobile-Galaxy-Unpacked-July-2025-Invitation-Galaxy-AI-Foldable-Ultra-Experience-Unfold_thumb728.jpg",
+      "summary": "[Invitation] Galaxy Unpacked July 2025: The Ultra Experience Is Ready To Unfold For years, Samsung Electronics has designed its devices around what people truly need, such as better performance, sharper cameras and smarter ways to stay connected. And, with Galaxy AI, it goes beyond what devices can do — it’s about how people interact with them. As AI rapidly becomes...",
+      "published": "Mon, 23 Jun 2025 23:05:47 GMT"
+    },
+    {
+      "id": "0b87d7b97a2c7a4ef40153d2952b2b24",
+      "title": "Apple’s Liquid Glass interface improves with release of iOS 26 Beta 2 - TechCrunch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/06/23/google-adds-ai-features-to-chromebook-plus-devices/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/2_Lenovo-Chromebook-Plus-14.jpeg?resize=1200,800",
-      "summary": "Google adds AI features to Chromebook Plus devices Google’s adding a slew of AI features to its productivity-focused Chromebook Plus line of devices, including a screen-selection tool for search and text capture, a tool that explains complex text, and NotebookLM. The new screen-selection tool works similarly to Google Lens and the “Circle to search” feature in Chrome on smartphones: long-press...",
-      "published": "Mon, 23 Jun 2025 13:00:00 GMT"
-    },
-    {
-      "id": "aaf4af97f1345717c1ffd878f16d062e",
-      "title": "Apple iPhone 17 Series Will Showcase ‘Design Revamp,’ New Report Claims - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/davidphelan/2025/06/23/apple-iphone-17-series-will-showcase-design-revamp-new-report-claims-iphone-16-pro-max/",
-      "image_url": "https://imageio.forbes.com/specials-images/imageserve/678bccc72447f0b5ba666614/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "summary": "Apple iPhone 17 Series Will Showcase ‘Design Revamp,’ New Report Claims ByDavid Phelan, Senior Contributor. I write about lifestyle tech Updated June 23 with more iPhone 17 series design details, including expected colors. When Apple releases the iPhone 17 series, we already know it will come with the Liquid Glass software design overhaul announced at WWDC. Now, a new report...",
-      "published": "Mon, 23 Jun 2025 13:40:00 GMT"
-    },
-    {
-      "id": "450eb80d926d7d2af4ff1feba341a82e",
-      "title": "iPhone 18 Pro With Under-Screen Face ID Now Rumored to Feature Smaller Dynamic Island - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2025/06/23/iphone-18-pro-smaller-dynamic-island-rumor/",
-      "image_url": "https://images.macrumors.com/t/2oy-z9BURf5FTnh4g5agL3OgGRw=/1920x/article-new/2025/05/iPhone-14-Pro-Dynamic-Island.jpg",
-      "summary": "iOS 26macOS Tahoe 26iPadOS 26iPhone 17iPhone 17 AiriPhone 17 ProiPhone 16eiPhone 16iPhone 16 ProMacBook ProiOS 18Apple Vision ProiMacMac miniiPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Pro Display XDRApple Watch Ultra 2HomePod miniMac ProMacBook AiriPadiPhone 15AirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch 10Apple Watch SEMac StudioiPad Air iPad miniiPhone 18CarPlayApple PaywatchOS 26 iPhone 18 Pro With Under-Screen Face ID Now...",
-      "published": "Mon, 23 Jun 2025 14:12:47 GMT"
+      "url": "https://techcrunch.com/2025/06/23/apples-liquid-glass-interface-improves-with-release-of-ios-26-beta-2/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/Apple-WWDC25-iOS-26-hero-250609.jpg?resize=1200,675",
+      "summary": "Apple’s Liquid Glass interface improves with release of iOS 26 Beta 2 With Monday’s release of iOS 26 Beta 2, Apple has fixed one of the more glaring issues with Liquid Glass, its divisive new user interface design for the iPhone, iPad, and other Apple devices, announced earlier this month at WWDC 2025. The refreshed user interface modernizes the operating...",
+      "published": "Mon, 23 Jun 2025 19:54:29 GMT"
     },
     {
       "id": "afaaa1f6ab35f967d3458fe34a7ef976",
@@ -42,13 +33,13 @@
       "published": "Mon, 23 Jun 2025 14:45:56 GMT"
     },
     {
-      "id": "36beabe9f71d6b655a0e05dd86394790",
-      "title": "Samsung Estimated To Introduce A 16GB RAM Upgrade To Its Galaxy S26 Series In 2026, Claims Research Firm, While Apple’s iPhone Range Will Remain Unchanged In These Specifications - Wccftech",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/galaxy-s26-series-to-feature-a-16gb-ram-upgrade-in-2026/",
-      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2025/06/Galaxy-S25-series.jpg",
-      "summary": "Samsung Estimated To Introduce A 16GB RAM Upgrade To Its Galaxy S26 Series In 2026, Claims Research Firm, While Apple’s iPhone Range Will Remain Unchanged In These Specifications The countless criticism received by Samsung surrounding the gimped specifications of its Galaxy S24 lineup eventually encouraged the company to introduce 12GB RAM as standard on all Galaxy S25 models. The Galaxy...",
-      "published": "Mon, 23 Jun 2025 04:28:00 GMT"
+      "id": "8881a00ad0225d3170971281512625e9",
+      "title": "Signs of iPhone 17 Air Spotted in iOS 26 Beta 2 - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/06/23/ios-26-beta-2-iphone-17-air/",
+      "image_url": "https://images.macrumors.com/t/VwE5TTfe7ba7GCaoqKtu0zh6qO4=/2500x/article-new/2025/03/iPhone-17-Air-Size-Feature.jpg",
+      "summary": "iOS 26macOS Tahoe 26iPadOS 26iPhone 17iPhone 17 AiriPhone 17 ProiPhone 16eiPhone 16iPhone 16 ProMacBook ProiOS 18Apple Vision ProiMacMac miniiPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Pro Display XDRApple Watch Ultra 2HomePod miniMac ProMacBook AiriPadiPhone 15AirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch 10Apple Watch SEMac StudioiPad Air iPad miniiPhone 18CarPlayApple PaywatchOS 26 Signs of iPhone 17 Air Spotted in iOS...",
+      "published": "Mon, 23 Jun 2025 20:28:22 GMT"
     },
     {
       "id": "e8f7d02226ad4541963fdc681b0ee690",
@@ -60,67 +51,49 @@
       "published": "Sun, 22 Jun 2025 10:05:13 GMT"
     },
     {
-      "id": "870000a8569125fb7e7f513e2fce72fb",
-      "title": "Apple iOS 26: Everything you need to know about the next iPhone operating system - Engadget",
-      "source": "Engadget",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcTJlV0psamFITkFYeUpaNWEtRnhCZHYxYWVWaGJmNFNxOE5OQXpDY3lnYjlKazA3OVFMZXRfN3FwRDVndXBDenhGQ2JUT0lKbVpvTG5DYkhRR3BUMTlNb0tEZFRzVVhPTnF6SmZhRk1UY2t1aEtsV3lSWjF5SzdfZFZyWEstWXpDSnIxR0tRYUtjSGh6LTZSdDRzem50UjVWTE9HVkVSVmo5TVdXRGNaNzFXQW5qRlE5Y29adzdxaXNxbFlh?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 13:57:53 GMT"
-    },
-    {
-      "id": "b3bf3e83a4b398f1d9da339d7ff3253e",
-      "title": "Galaxy S27 Ultra may mark the end of the built-in S Pen slot - SamMobile",
-      "source": "SamMobile",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWVXU21UcHRkblUzTE5FZzhMdWNoVjVLMTBmc01QNDAyblZSWEZVLURsVk5aal9ya01lRkdFNVRmcFBmeUpicnI1azVnM09fSURmcG8tc2RsTEJ1SHp0VndoWjBwdWxJUjFzQW9fRThzVUFfaEhQN09nejV5d3ZuRFpUc3ZOSldRNU9hNU01cl94bUZqeUdr?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 22 Jun 2025 19:29:00 GMT"
-    },
-    {
-      "id": "9c776c0638c79bfa3df06f0166aef0f1",
-      "title": "Magic V5: Honor officially reveals Oppo Find N5 surpassing dimensions with Samsung Galaxy Z Fold7 looming - Notebookcheck",
-      "source": "Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYVREUmYxbUhoM1RobUZhSjVJenVwSVBKWnlkQmMxSmcxeUQyNmloUXJhZi1pX2FHblM3emlFVDhSUUdjNGRrUXhQUmtPMjhXSWlMN0FpV0RZdklkS1k1OEdzWFRZaHl2RTI0YlFERDR2ZXoyNGF2RDY2SkpnVW94Zzdwel83bzAxa05vYUFPcm93NEl1RjhyYTB3MHN0SVNjZzNGNVFIeGJCSW5WclF6XzJFYldGaldLcDA0Q1lZX3ExeGpxQ0w2bFc0U2hmc2ZxVGlUd2gzRmtqTnptYVlYRlpxdw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 22 Jun 2025 12:00:00 GMT"
-    },
-    {
-      "id": "dbe654f8615f6de8ee42e525bb3d64f7",
-      "title": "Galaxy Z Flip 7 renders showcase some vivid colors for Samsung’s next clamshell [Gallery] - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDNEbmh0dHBFOXNSNV81V2hmRFhxOFM4N2lldjZaV3lkTWpQZ2JEYkRscG5scXZIMWFheTROUzNyaWk2cWUwZlo5NVZMZk8yS1pLMXVRbTV4MGE2dk1UWlJRZ0hmUVZfb0REdTZnYktaYWdmbUJwZzB1amZabVFZbXVRdUV4QQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 15:18:00 GMT"
-    },
-    {
-      "id": "d8799c28d10e6bcec926d8663059aa1b",
-      "title": "Microsoft surprises MS-DOS fans with remake of ancient text editor that works on Linux - Ars Technica",
+      "id": "114d4472d28da727539757b9fa111b9d",
+      "title": "With 1.2.2 update, Civilization VII tries to win back traditionalists - Ars Technica",
       "source": "Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDFzZmdYaGVTZ1BhSF9sbEZFQ1dXSGNxMDJyS3FPZW9IbWhaVTRLWGxFaEthYW9FV1hjS2E3Q1pqMnlhM2hUTDJqQk96OGxhaF9zNF9CTFZ5Q0RYWWNWOXh6cC16M0dsWGJLU2J6R2xCbzFSb0x0Sm9LWFdVMldXcVgzR2xkUm9RODlxNkVyQjRRUUlTOHg4QnhCZ0NFNUFVdnZDN2VyR2hjcXNqMHNxWGRWSjc5TU9xS3lFclpJWGU4WnhLX0E?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 17:23:35 GMT"
+      "url": "https://arstechnica.com/gaming/2025/06/civilization-vii-patch-lets-you-turn-off-some-controversial-new-features/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/CIv7-screenshot-1152x648-1750708873.jpg",
+      "summary": "With 1.2.2 update, Civilization VII tries to win back traditionalists Players can now disable Legacy Paths, Crisis, and quite a bit more. Civilization VII has a lot of visual polish, and great gameplay systems. A flurry of patches have been improving other aspects, too. Credit: 2K Games It has been just over 130 days since Civilization VII launched to mostly...",
+      "published": "Mon, 23 Jun 2025 20:26:11 GMT"
+    },
+    {
+      "id": "1d428bede4839a0bc735b1f38cfbdb37",
+      "title": "Yale’s new Google Home smart lock is here — but it costs more thanks to tariffs - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/691695/google-nest-yale-smart-lock-with-matter-price-release-date-specs",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Yale-Smart-Lock-in-Matte-Black.jpeg?quality=90&strip=all&crop=0%2C10.923786118786%2C100%2C78.152427762429&w=1200",
+      "summary": "Yale’s new Google Home smart lock is here — but it costs more thanks to tariffsThe Matter-over-Thread smart lock promises “seamless integration” with Google Home, but can work with Apple Home and Amazon Alexa, too. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Yale’s new Matter-over-Thread smart lock is designed...",
+      "published": "Tue, 24 Jun 2025 00:02:00 GMT"
+    },
+    {
+      "id": "bb1671d5ea116b53bda3af321026b825",
+      "title": "Over a million people now have access to the gen-AI powered Alexa+ - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/06/23/over-a-million-people-now-have-access-to-the-gen-ai-powered-alexa/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/1000002054.jpg?resize=1200,901",
+      "summary": "Over a million people now have access to the gen-AI powered Alexa+ More invites to Amazon’s upgraded digital assistant, Alexa+, powered by generative AI, have been steadily rolling out. The service, first announced in February, now reaches over a million users, Amazon confirmed to TechCrunch on Monday. However, Alexa+ is not yet publicly available. Instead, Amazon has been working through...",
+      "published": "Mon, 23 Jun 2025 17:38:40 GMT"
+    },
+    {
+      "id": "8733ac4df15c900db3352616a0c409cf",
+      "title": "Lenovo Chromebook Plus 14 launches with MediaTek Kompanio Ultra, $649 price - 9to5Google",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2025/06/23/lenovo-chromebook-plus-14-launches/",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Lenovo-Chromebook-Plus-14.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Lenovo Chromebook Plus 14 launches with MediaTek Kompanio Ultra, $649 price Lenovo has introduced its latest Chromebook, the Lenovo Chromebook Plus 14. This device is the first Chromebook Plus model to feature an ARM processor and the first to integrate the MediaTek Kompanio Ultra chip. Designed as a mid-to-high-end option for Chrome OS users, the Lenovo Chromebook Plus 14 is...",
+      "published": "Mon, 23 Jun 2025 13:01:00 GMT"
     },
     {
       "id": "4df7c1b964962bdd8a33c7c25855893e",
       "title": "‘Death Stranding 2’ is Hideo Kojima at the peak of his powers - The Washington Post",
       "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObW1aVUFSWGdQbzZ4cjAxQUFLNDFrVVlBUGlrYW0ybFJ3SU1oOWszSl80ZUFRNEhvRWNoT3dYM3RJTGtVQ3FSWS0zVFhzLVUyMXRjR3c3OVA2d0NmTWVaNXgxdm9NZWlfMVZxQm1vR2NidVRsd0k1Wmc4TmpoWnUweDNmMWNsWVhqNDJjYkU0cWNUc2JGWXFmS0lrRHNxYnRuN0VSQWxlSjVYZw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 18:16:12 GMT"
-    },
-    {
-      "id": "f6efcc890065cd94050fb08278af79d6",
-      "title": "Lenovo’s RTX-powered laptop with 32GB RAM is $400 off - PCWorld",
-      "source": "PCWorld",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONURyTWEtMnRFZVFrOGJhSFlHSjFqZGZmTmVibjZUMjM1dmdwZjBzNGc2V0F3TENPcHNZUVYtUzI1ZDRIX0NpUGpINnc4MUdSM1FYSnN5T2ZaWWJiRHlnWXdhWXFSLXFKTU9hWW55SlRDRjk2Zi1QSHRPSjlvMmpFRHBVSXhnTGlTa202Tzh2bExpUGZMX2RiVFFkRy0?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 19 Jun 2025 16:45:00 GMT"
+      "url": "https://www.washingtonpost.com/entertainment/video-games/2025/06/23/death-stranding-2-on-the-beach-review/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G5MALB6KMRC4PA5EU5ZTRDMWGE.jpg&w=1440",
+      "summary": "‘Death Stranding 2’ is Hideo Kojima at the peak of his powers “Death Stranding 2: On the Beach” is the game creator’s most complete story in years, set across an ambitious, awe-inspiring open world. While I’m playing “Death Stranding 2: On the Beach,” I think about how my best friend Joey put me on to so much of my favorite...",
+      "published": "Mon, 23 Jun 2025 19:00:00 GMT"
     },
     {
       "id": "e9a9d7f61acf4166266835c557effcd7",
@@ -132,58 +105,85 @@
       "published": "Mon, 23 Jun 2025 13:16:00 GMT"
     },
     {
-      "id": "c90974a68f6f3ca9865abb2136731c85",
-      "title": "Microsoft’s Xbox UI update lets you pin games and customize your homescreen - The Verge",
-      "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSERkeW9CUmZDd1lSTnQzRFRsMDlucFlfc1NDb0tqOFY5Q19qS25jR2s1U1ptd0gybWxRMlBYU1ZrMXFjYkx4aEFlMzJQU1dnb3BjU2k3YkdxemNhQUdqTnI0Q2kwekR5N2lmMlhpOHh0WlNBNEJjbGstV3ZCNWplWDQ3eUhsazlQdEhSemZR?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 17:11:50 GMT"
+      "id": "8d907e04f71ed9fac305b34ac2fef5a3",
+      "title": "Isaacman interested in privately funded science missions - SpaceNews",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/isaacman-interested-in-privately-funded-science-missions/",
+      "image_url": "https://spacenews.com/wp-content/uploads/2025/06/issacman2-isdc25.jpeg",
+      "summary": "Covering the business and politics of space Isaacman interested in privately funded science missions Jared Isaacman accepts the National Space Society’s Wernher von Braun Award June 21. Credit: SpaceNews/Jeff Foust ORLANDO, Fla. — Former NASA administrator nominee Jared Isaacman says he is interested in pursuing some of the goals he had for the agency from outside it. Isaacman received the...",
+      "published": "Mon, 23 Jun 2025 07:47:22 GMT"
     },
     {
-      "id": "1bdd592fc02eff8b41afe123668315fa",
-      "title": "MindsEye Developer Build A Rocket Boy Begins Layoff Process Amid Disastrous Launch, Studio Sources Say - IGN",
-      "source": "IGN",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMVd1c0RwYmprZ01DWFBkaGRvd1lfWVBDNU1TdlNxR2g1TjNhcWVtUlhLanJqU0pheDRYZEVMSjJjdk5QYU9TTFl5NUZWVEpUV1ZaVDBYR3d5OC10cHRtZ19KYTFfUlBTOGNRcU5yZFE2Z21lRExUdmlnaUhTY0l3SWZkQVlrbVpMRHphc2xSVVE1ZHNiZklGalZiV2NCc1pXLWowZ3R0UHloS3JVc3g0TFZzNGZQc0hPWjZoZ0ZySHRBX2M4ZnpJNVJR?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 10:44:01 GMT"
+      "id": "a79edbac348c104fa37e13bdd5d038f0",
+      "title": "Microsoft adds Steam games to its Xbox PC app on Windows - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/690967/microsoft-xbox-app-windows-steam-games-aggregated-library-support-beta",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Finalv2-2505-June-WIRE-AggLib-9a0725ea199fe16f8c9c.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "summary": "Microsoft adds Steam games to its Xbox PC app on WindowsXbox Insiders get access to Microsoft’s new aggregated gaming library this week. Image: Cath Virginia / The Verge Tom Warren is a senior editor and author of Notepad, who has been covering all things Microsoft, PC, and tech for over 20 years. Microsoft is starting to test its new aggregated...",
+      "published": "Mon, 23 Jun 2025 15:00:00 GMT"
+    },
+    {
+      "id": "563bc134f943e7a2fbd0d0eb24f6ea90",
+      "title": "Best Buy Nintendo Switch 2 restock time: it's likely to be in stock at noon - The Shortcut | Matt Swider",
+      "source": "The Shortcut | Matt Swider",
+      "url": "https://www.theshortcut.com/p/best-buy-nintendo-switch-2-restock-its-happening-today",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!4xPn!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e986b6d-972a-45ca-84c7-cacd06958996_1366x768.png",
+      "summary": "Discover more from The Shortcut Get smarter about tech in 7 minutes with The Shortcut, the #1 consumer tech publication on Substack. Join for FREE to get trusted news and honest reviews – and Nintendo Switch 2 pre-order alerts! By subscribing, I agree to Substack's Terms of Use, and acknowledge its Information Collection Notice and Privacy Policy. Already have an...",
+      "published": "Mon, 23 Jun 2025 14:16:54 GMT"
+    },
+    {
+      "id": "0aca8aca88b22e8e180c0ef0a4bca2b9",
+      "title": "Promising Minecraft-like Hytale cancelled after ten years in development - Eurogamer",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/promising-minecraft-like-hytale-cancelled-after-ten-years-in-development",
+      "image_url": "https://assetsio.gnwcdn.com/hytale-layered-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "All Mario Kart World Unlockables Flashpoint Worlds Collide codes If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Promising Minecraft-like Hytale cancelled after ten years in development \"Game development is brutally hard. \" Image credit: Eurogamer/Hypixel News by Matt Wales News Reporter Promising Minecraft-like sandbox adventure Hytale has been...",
+      "published": "Mon, 23 Jun 2025 20:23:55 GMT"
+    },
+    {
+      "id": "685ee54bd4a2a08baea5c067e8cf2aec",
+      "title": "Xbox confirms return to Gamescom 2025 — Bethesda Softworks and World of Warcraft in tow - Windows Central",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/xbox/xbox-confirms-attending-gamescom-2025",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2r9THkir9JbjXa3uJ79tBE.jpg",
+      "summary": "Xbox confirms return to Gamescom 2025 — Bethesda Softworks and World of Warcraft in tow By Samuel Tolbert published 12 hours ago Xbox is attending Gamescom 2025, with teams from Bethesda Softworks and Blizzard Entertainment also confirmed. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. What will Xbox show at...",
+      "published": "Mon, 23 Jun 2025 14:20:45 GMT"
+    },
+    {
+      "id": "d961215f3828ceef4515e2709a5f9717",
+      "title": "First Galaxy Buds Core image reveals a lack of premium design - SamMobile",
+      "source": "SamMobile",
+      "url": "https://www.sammobile.com/news/first-galaxy-buds-core-image-reveals-a-lack-of-premium-design/",
+      "image_url": "https://www.sammobile.com/wp-content/uploads/2023/10/Galaxy-Buds-FE-3.jpg",
+      "summary": "New deals, Galaxy S25 edge, S25 Ultra, Watch Ultra, and Bespoke AI Jet Ultra! Last updated: June 22nd, 2025 at 21:42 UTC+02:00 SamMobile has affiliate and sponsored partnerships, we may earn a commission. First Galaxy Buds Core image reveals a lack of premium design The Core branding has long been used for Samsung's affordable products. Samsung will soon launch new...",
+      "published": "Sun, 22 Jun 2025 19:42:00 GMT"
+    },
+    {
+      "id": "ee8616f9f1647f3441c5c13c501ff5aa",
+      "title": "macOS Tahoe Beta 2 Lets You Add a Menu Bar Background - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/06/23/macos-tahoe-beta-2-menu-bar-background/",
+      "image_url": "https://images.macrumors.com/t/PYeyriR7WRY0rB4a8LJEF1AUe2o=/2041x/article-new/2025/06/macos-tahoe-show-menu-bar-background.jpg",
+      "summary": "iOS 26macOS Tahoe 26iPadOS 26iPhone 17iPhone 17 AiriPhone 17 ProiPhone 16eiPhone 16iPhone 16 ProMacBook ProiOS 18Apple Vision ProiMacMac miniiPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Pro Display XDRApple Watch Ultra 2HomePod miniMac ProMacBook AiriPadiPhone 15AirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch 10Apple Watch SEMac StudioiPad Air iPad miniiPhone 18CarPlayApple PaywatchOS 26 macOS Tahoe Beta 2 Lets You Add a...",
+      "published": "Mon, 23 Jun 2025 19:29:22 GMT"
     },
     {
       "id": "f9e36dd642dcd027232d22818dd5faec",
       "title": "Diablo 4 Season 9 will be detailed this Friday - and you even get an in-game skin for watching the reveal live - VG247",
       "source": "VG247",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPamE5YnVKRnhlckxUUG03eVVOZ1J1OUFfRlFGMXlqUk1nS3RDUTBCTDNTS2VpalF1MkMtMUFOUTJhcmtSdUVqSEMwSl9tMkMyN1FCT1lxdnNncG1NbGhoRWRheDBleTBhd0YtOUpKTG1vcXI5ZDFjX3JMNnphZFlvLVZsS3gtdWRHcGRv?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.vg247.com/diablo-4-season-9-sins-of-the-horadrim-livestream-times-watch",
+      "image_url": "https://assetsio.gnwcdn.com/diablo-4-astaroth-ptr-screen-2.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "Best Oblivion Remastered Weapons If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Diablo 4 Season 9 will be detailed this Friday - and you even get an in-game skin for watching the reveal live It's almost time for Diablo 4's next season to kick off, and our proper...",
       "published": "Mon, 23 Jun 2025 10:35:53 GMT"
     },
     {
-      "id": "593beb8b89deb3cafd08dc72d41c7a09",
-      "title": "MSI's new Toy Story PC features Buzz Lightyear GPU, Woody motherboard, and more - TechSpot",
-      "source": "TechSpot",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdE12VXVCaDJQOXFuZ05YN1ZxZVFIV1pLRHU2Zi1OLTNyU3NXWDMwSnRGSzJreXpYRlNENlAtUTFmNFJKQWpyaG9obzNwUWRNV011UGdGaFA3UHJ0MGxTd3pZTDMtM0ZISmtVWEd2TDlnbUxpWTY2M2tNTDdpRHhaZUQ4TndnNVZTNlpLWm1saw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 12:41:07 GMT"
-    },
-    {
-      "id": "bf7b1143d10183090cf4551be24aff88",
-      "title": "The Biggest Pros And Cons Of Dodge's Hemi Engine - Jalopnik",
-      "source": "Jalopnik",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zajBJRmpiWkF1ckJSUHJXbEhVRmZwdkkwbnhxR2lOLUxmTG44aWVfN1R0WnJOVllOQ1pNSVMtNG9pT2xwdUFtZ1oyTU9EbUVIQ1A5NWcyU3EwTlY3aWFta1YyYnl5bFVuYmJSNzhR?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 16:55:00 GMT"
-    },
-    {
-      "id": "656fbfb169ab7b94a775fbeec803e995",
-      "title": "Mario Kart World producer: ‘It didn’t seem necessary’ to add characters from other Nintendo games - Video Games Chronicle",
-      "source": "Video Games Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY1lwbHUzaWl2WEM3c2J2Y1FXWlNsRFhubHlnT3JObXpnb1Z3TUtsTnhLQkZPTzU3SVFGbm1rVDlpTUNNelR4ZE9DNUdIcmdwcEhVZ3pVTFNCbEN4aHZncl9uWHE4R2FHMWZWeXBCaHRRNW5xRUpRcFh3VjRrTkRxSW02Qm5MMWV6cGRxZzlSRVZELUd4d1ZCcUtJU3RuNVZyX0JISmpZR2lnMVcySHlmSndEUlRKRHJoWUtNT2YzamNWZ2RHeVhKLUhibnpzcUJa?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 08:54:16 GMT"
+      "id": "ab500ea7fdb8b0a696ec07d97efbd5ac",
+      "title": "Is Apple Looking To Catch Up In AI With Big Deal? - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/apple-stock-possible-ai-deal-perplexity/",
+      "image_url": "https://www.investors.com/wp-content/uploads/2019/03/IBD-logo-216x36.png",
+      "summary": "Access to this page has been denied because we believe you are using automation tools to browse the website. This may happen as a result of the following: Javascript is disabled or blocked by an extension (ad blockers for example) Your browser does not support cookies Please make sure that Javascript and cookies are enabled on your browser and that...",
+      "published": "Mon, 23 Jun 2025 20:36:00 GMT"
     }
   ]
 }
