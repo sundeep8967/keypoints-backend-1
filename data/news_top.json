@@ -1,76 +1,86 @@
 {
   "metadata": {
     "type": "top",
-    "timestamp": "2025-06-24T02:00:01.226809",
+    "timestamp": "2025-06-24T06:36:34.452582",
     "info": "top news",
-    "count": 35
+    "count": 34
   },
   "articles": [
     {
-      "title": "Stock futures rise after Trump says there is a ceasefire timeline for Iran-Israel conflict: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GU3lyc2NhZG1LeVR3N3FNWDVheGtidGtSMm1QdGlDcVlVZ0YtcWdQY2lFRS0wRlktQXJSeGNqOWpubEJFdDdFa1Z6R3UzWURnSHlWaS1pRHZRV3dZbTU3T0VEZFQ1SHBaOVdxU09WMjlfWjF6U01Z0gF8QVVfeXFMTXMzMDdXYXg0MWxHblpZdHJTT01tNlFpMkYtTnVMajliZlR6VU8tSE5vZS1DTDdOTlR1UXplNmVjS3VsSGpyVXFnQmllSDNPVU1jaVJLTFVsQ1ZWeHBBaDJZSHBSdF9oSVFzTGFWRGdLZU5XWTJQdWlLM1dtQg?oc=5",
-      "published": "Tue, 24 Jun 2025 00:11:00 GMT",
+      "title": "Shares rally, oil slumps as Iran-Israel ceasefire goes into effect - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByTnNqYWdGZkswbTBTY0xBZ3ZZdlZ5YkhwS2ZxbW9Ea0hETWZMaGlyaWhEdUxzQnBoZ1NVdk1Cckk2eEZyYmhSMVpaZGlmaWdmMktPX3RJb1RmOVpzUnhXenFCSGdCMmlXVWRqWUo0Nk5Ua1lmUm9VR014Zw?oc=5",
+      "published": "Tue, 24 Jun 2025 05:55:00 GMT",
       "published_parsed": [
         2025,
         6,
         24,
-        0,
-        11,
+        5,
+        55,
         0,
         1,
         175,
         0
       ],
-      "source": "CNBC",
+      "source": "Reuters",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GU3lyc2NhZG1LeVR3N3FNWDVheGtidGtSMm1QdGlDcVlVZ0YtcWdQY2lFRS0wRlktQXJSeGNqOWpubEJFdDdFa1Z6R3UzWURnSHlWaS1pRHZRV3dZbTU3T0VEZFQ1SHBaOVdxU09WMjlfWjF6U01Z0gF8QVVfeXFMTXMzMDdXYXg0MWxHblpZdHJTT01tNlFpMkYtTnVMajliZlR6VU8tSE5vZS1DTDdOTlR1UXplNmVjS3VsSGpyVXFnQmllSDNPVU1jaVJLTFVsQ1ZWeHBBaDJZSHBSdF9oSVFzTGFWRGdLZU5XWTJQdWlLM1dtQg?oc=5",
-          "title": "Stock futures rise after Trump says there is a ceasefire timeline for Iran-Israel conflict: Live updates",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByTnNqYWdGZkswbTBTY0xBZ3ZZdlZ5YkhwS2ZxbW9Ea0hETWZMaGlyaWhEdUxzQnBoZ1NVdk1Cckk2eEZyYmhSMVpaZGlmaWdmMktPX3RJb1RmOVpzUnhXenFCSGdCMmlXVWRqWUo0Nk5Ua1lmUm9VR014Zw?oc=5",
+          "title": "Shares rally, oil slumps as Iran-Israel ceasefire goes into effect",
+          "publisher": "Reuters"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd0ZqYmxDMjR0ektLN0poSjJ3d0FMWjRqUkFqU096SWg0Q3p5ZERYVURCNTA5SEIybHd4c2F5SzBpeTVXQlFKRWoyOUM0OE1nV0NFbmsyZ3VhdlpLOVdSLVVzNHM3WXBMQlJnR19Kb29mVnBVb2NiRUFPSnBrMzdOd21NZkNqNXM2R1JV?oc=5",
+          "title": "Live updates: Trump announces Israel-Iran ceasefire; attack on Al Udeid Air Base in Qatar",
+          "publisher": "CNN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJGUXJXdGFWamhCZDluM3hMVTJRa1JINDNCV3EyYlN6WF9KWkUwTmVZb2ozTFowSGhQcWxVUm42VjRTUGxmTW5vWFFrUGNkd002QktydWo5WTNVVnNBR3ZzdnhrOHdZZC1aN0xSeFpwTzAtZnBwbTNhZE9VcEZscHhJRkJjMUZNTGFPVHNJS2xLSWRuYy1FU0FBTlZqaGRnY2hNdG9tOA?oc=5",
+          "title": "Status of ceasefire unclear after Iranian missile barrage strikes Israel after a first deadline",
+          "publisher": "AP News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlE1em8wWWRFS2t3VDVLeUZZVTU0MU04MXZkR2V1aWZkZjlhekJEaG54bkc1ekZDRlhScGMwa2toY3dfc0dDV1hPbE9pX0NIVEhGa0g4UW1OWVR4aEM3RGZDekxFejF1VDIwUVFVN1pXV2lyc0RzQkFWZTRGbWJRYUVsZVczdUdjT2ZJeQ?oc=5",
+          "title": "Trump’s Cease-Fire Announcement Catches His Own Top Officials by Surprise",
+          "publisher": "The New York Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZGpIVFBpY3hPSXRBZTA5bUZiM1pJX2loLWZ2TkNxLXpmUFJCTGpzcVNDakNqQkNTM280azUzZEtQcXB3a1VSUXlMU0thNDd3dkdlQ1ZjQWtDZ196ZmhYSTNFTExvT21vMGJwSno1RThuaXZVNVQtQXI4bl9ldTRfS21LX1BGdVlPc2VoMXpRWTI5TXh0ZHB0VdIBngFBVV95cUxPYXF6YzBLVHJKZElwNFdSTW5QOGVwSFhhSlV1X0lYbDFXRUlDZVBUUmJGZUN0NE1qRW42b19waDE4ZUs2bmJwR1dza1RMRDZDcTI3Q1I2d05LWEVUOGh5MUdtWlkxVzdoWjJaZnFEczZjdXN2MHlHUkxoNGd5cGF6WGlUb0k2RDRXNXlWSDZFanB3empJY2lFcWNyZVBuQQ?oc=5",
+          "title": "CNBC Daily Open: The strange times of missiles-led 'peace'",
           "publisher": "CNBC"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM2lBc3NsZko1b2cxcnNqMlNVWVFVQm1wTUkxQllDWU1hekxtcGZMQWtTb1pRUTRyWFNRNFRSV1h0bnBWNWxOcmFMTWt3RmpCN25GVkZwT296WFBteG03cWk1RTNrT1ZzQ3pLdWhXR1YxRjFPNlhoalN5bm5XUkdpaEJ4dUtEUEVucDNGR3dBa01OMXYwSXRDamNRZkFDSTNwYkpNRWZ1WjFPWnBYRG11YVVKY9IBuAFBVV95cUxPckg4UFJPR3Btb2xVLUZMQWJpTmFRcWUyOGtwSDRjYTlZQmZZblpWelp4cXBjeHpGOGRfc2FIQXV4RU5YdEVyYXNnY2RkUXFnMjdiU2w4ZTRPbHFuT0h5d3NxZGNPTXhwVDB6VHVUdkFrTGxOdUJiZkQtOURkMjFtOXVaNTN0SVNjX1FmUmRGTzdMbEpSNkNSZzVlSGx2Mk1LVTUySk91cXI0VnFuZHgtUGZJTWU2THFm?oc=5",
-          "title": "LIVE: Iran says it will halt attacks if Israel stops ‘illegal aggression’",
-          "publisher": "Al Jazeera"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2NFcUJrVHV6T2xjU2RqbG9TOG9ZRERtbEpGTHJjZkRsYk8tZ1FLdEZsaUJkSmcxWm9BbURzbXBTREpRam04aDlFYnl0dUhTMzgxVmp3ZC03bTk0aFZzaGF2dHh2Tk1LNkhoZVJqekxFSjEzRHBEc18wVlRNOWM1TVg1NnRQazVfZk9NWFQ5bmFFRmxxREpDbEY0U3hYZy13UmJqWEFn?oc=5",
-          "title": "Trump announces Iran-Israel ceasefire : what we know so far",
-          "publisher": "The Guardian"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeDNQZVdiemt4RWs3VEZoVkhxRDU3dEhKT3FjZVdsOUU5dmZ3Nmk3WDlKWDYweGo5d2l5ZGNHMmE2QWJkMWNoOTdQd3FyUkZTaTlfV0Q1QmtfZjZxclVuRjlTQk1SMHBpWGpsUWZRdHZVZkdsUHdlOU1XWUdnVnV1Y1RKdE9kMmRiWHhWb1VZT21jTzcyNUM5M2xIellKalVILXJndm92WQ?oc=5",
-          "title": "Iranian foreign minister says no final ceasefire agreement",
-          "publisher": "timesofisrael.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vdFRKVmU4VnpacWZuTzNtaEtYNV9MLS1YbHpiRGxVb090Wmg3YVhTNm0yLTc0RGlmN0RSRTFrY0RFaEd1X0U5ZWVtYS1ULTNWVWIxTThQUmdfbmlwZUZucUFfV1h2bmFtTDVnR2o4YWw?oc=5",
-          "title": "Israel-Iran latest: Donald Trump claims Israel and Iran have agreed ceasefire",
-          "publisher": "Financial Times"
         }
       ]
     },
     {
-      "title": "US Supreme Court allows Trump to resume deportations to third countries - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZWUN1ZFdPRWpRd05vV19ndDBEVWx6ZE9WQ0MtTU5sdTk5bTB6LXdWdE9ZOHI1MGQ1MVZfUl9BMTk2a1l2TnQ4dmJkUGFqUHZnVmwtTlAxRHExd9IBX0FVX3lxTE5kRG45TjI0bk9TTERzQlltZ0NKV1gtN194ZVMxVGM5eC1fTnpfS0pNRHU0dXdtb2ZEOUFHMS1rRGZoem9nZXZLSUlKWGdlSWlOOHk4azVIZ2xfYTd6blJN?oc=5",
-      "published": "Tue, 24 Jun 2025 00:25:55 GMT",
+      "title": "Supreme Court Lets Trump Deport Migrants to Countries Other Than Their Own - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWhMc2plWTQyeVRLLUV4YUhCbEZ3UnFzLWM4dlBOeEZ2dERVTjdpUW83N0xXS2dVdURkenlLTElZNW9kZml6SWlqMTUzRlR0TlNLN25TbmZmR3EySllHMnNWMzZlME5uSnlWZFZBeHRUSGVPRkFxamxPVnlZY1Q3TTFCTlh4RW9tNHFITS1MWQ?oc=5",
+      "published": "Tue, 24 Jun 2025 01:04:08 GMT",
       "published_parsed": [
         2025,
         6,
         24,
-        0,
-        25,
-        55,
+        1,
+        4,
+        8,
         1,
         175,
         0
       ],
-      "source": "BBC",
+      "source": "The New York Times",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZWUN1ZFdPRWpRd05vV19ndDBEVWx6ZE9WQ0MtTU5sdTk5bTB6LXdWdE9ZOHI1MGQ1MVZfUl9BMTk2a1l2TnQ4dmJkUGFqUHZnVmwtTlAxRHExd9IBX0FVX3lxTE5kRG45TjI0bk9TTERzQlltZ0NKV1gtN194ZVMxVGM5eC1fTnpfS0pNRHU0dXdtb2ZEOUFHMS1rRGZoem9nZXZLSUlKWGdlSWlOOHk4azVIZ2xfYTd6blJN?oc=5",
-          "title": "US Supreme Court allows Trump to resume deportations to third countries",
-          "publisher": "BBC"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWhMc2plWTQyeVRLLUV4YUhCbEZ3UnFzLWM4dlBOeEZ2dERVTjdpUW83N0xXS2dVdURkenlLTElZNW9kZml6SWlqMTUzRlR0TlNLN25TbmZmR3EySllHMnNWMzZlME5uSnlWZFZBeHRUSGVPRkFxamxPVnlZY1Q3TTFCTlh4RW9tNHFITS1MWQ?oc=5",
+          "title": "Supreme Court Lets Trump Deport Migrants to Countries Other Than Their Own",
+          "publisher": "The New York Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT1FUNjliOEVUZExFTEZXZlUteVNaRFd4WnhkYlBTTW9pTGxDRDlmNUlhWjlsTFJCVmtVTWVZamtHV19VR3BaaDVraXhzaVZJUW9FQmxxNk5sYmpDWG9VWUJlN2hKeXNXcUE2T1NfM21iYnByYTJJSE5qTTYtejdfS09EdWpWbHEwR2M3bDlfbVBYQ2dVMG1LaVFHSFAwOFNhck9Ec0d6c9IBrAFBVV95cUxPZXZBYkdKUkItNlBybzJJbl9DeE43blpNU2VvYllnWlQwNnpDVlFyTFJMc2VfZGJrRHAtVW1JLWRtVGNaMnNHMEUxV2V0dWkwUDY4aUZzajFSelg4TjR5S2xuWWNlWUIyYjFhTXAzdUM4cWxGYldVa3duZmYzM2VjTVlDeEYxM0lBckkzYkhGX0NIQ3BsYzJzOV9aUHlTeXNKeXpvMlczdEpPdnRt?oc=5",
+          "title": "Supreme Court rules on Trump's third-country deportations, in major test for president",
+          "publisher": "Fox News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWoxSG5HTXVoMFA2UkFIVG83TFlmaTV3UGlwVTk0Y29mTmdwRnZoR09QeHZib3QzRFhDMHFPUDc1VnQ1X1VJV0lRUHBTb3pPUjRDRWpGcHI0ODBnSFZ5aWtrSURQTTA3N053OXJJVEJoWmgyaElhRUI1U1pVSlVfYjFYcVcxamM?oc=5",
+          "title": "US supreme court clears way for Trump to deport migrants to countries not their own",
+          "publisher": "The Guardian"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVjRTNmRRNURMc01CWmFHX3pMUk1VZXA3SzZ0Y2tNVmVaTVhmcW9Lc2U2NGxsWkFFZ01TZ1JKU3dCZTJPYnZvOGJhTG9TT1FKdThTRjMzYklfUl9CYW01SEk5MlZndDN2VW5RbURiLWtaVnAzMlRhZjlmdmZ6UkJCS05yM2RyWXFQSG14M2lYOFlWVUpmUjBSNWdyZng3Yk5FRmo2bVpKNVVFcXlPREN2eVd2NXdXSWFGdW5WQ0dUeEhpc1k?oc=5",
@@ -78,33 +88,41 @@
           "publisher": "Reuters"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZzlYOXBFSTBNZWZKd0ZNV3B6elBWNWtvY3NLSzU1ak9rVXRoeEFkTEVZdFFvUnNtZ1ptNlY0VFI4elJCRF94WFZ6clV5U0pIWVoyTDdvVzFLX09pZEVTXzJaSzlHc0M4WHRacUZ3Z0JSanM3VDdQbnVrb19xQTVNQmJVSHNHMHFhZ2djenRVak0?oc=5",
-          "title": "Trump news at a glance: Supreme court hands Trump immigration victory as president declares Iran-Israel ceasefire",
-          "publisher": "The Guardian"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWWhNYUJqSnFQSlZYMk56M0tFT0JCLUNkTGtNd1RDdUQ5d25RTWJ5ak93QVhHY2I0OU4tSHEwcUlEYU9hQ2wxajU3bjhKTmV1bURwcHNXNW1kNnZPTElhejlWc2V2aENGelNwb3M5Q0xqRm4wT2tLQ1ZwMzF4NzJ3WHY0bWF4dw?oc=5",
-          "title": "U.S. Supreme Court allows — for now — third-country deportations",
-          "publisher": "NPR"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRm95NjhKeHl2VzZZVHp4blFZeExJQ3pOekxDcHhhWUpPdWxwcVlDVnVraE91OHpXdmR4TExNanE4RXItemV2TzRaSVdBNUdVcFJLbUlaUEttaDdDbUJmRGNDRnhkOWhOTjVsWTVQd2ZqNlpSQ2o3QWNrVDFLa1RtVTFONVZla3hxLUQzeHQxRXBTU3dJZ0x3b2hDNVlRX1JPcFllTEZfS0JWSHJPbVRmSElBam5sZXVCN0Zra1p1SE45eEdD0gFWQVVfeXFMTzBraVJUbHdJVXJNTmZIeUJmQnp5SkxabGRtcFkwZmFzcXBoc3VHV0lQU19WMUp6YkFDbmstWjdndHZIQlV3YmFZWkFJUC1NSFhkU0FsWGc?oc=5",
-          "title": "Supreme Court allows Trump to swiftly deport certain immigrants to 'third countries'",
-          "publisher": "NBC News"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUlV2LTloWDBsR3dIQnluS0djMUdaWXhkZHh2dmxaemkxd19WR1IyQVhGS0NvWWtFTlpFeDNIUTBFODctMUFTbTh3eXAwMTJhdkhJMnVzNUNtbFRHWUZLQkFKcWI1YWpyMV81b1hkZ3hYQXNLV1ZLMG4ySlk2TUs5NGhZcUpvQ0o0azA5amdRbnFXcVBSbEJGV2JHcw?oc=5",
+          "title": "Supreme Court eases rapid deportations to countries where immigrants have no ties",
+          "publisher": "Politico"
         }
       ]
     },
     {
-      "title": "Former B-2 pilot shares details behind Iran nuclear facility strikes - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd21fenJ5aEcxWnltVDdpZmdvcG0zMUkzd3ZTR196VW4tVVRFM01xTklGbkdKWS1mVUVIajRqaEN0WGtoUHBRUzhyYjlJa3lyY25RS2dPN0xjX0xKSzB0QTFxbWhrV05KQ1dLckVTQUp5ZGdJQkZzMEE1QjJURzY3S0hDM1o4c1BKRS1aNk10Y2xQQkFHUTZfcTNzUlLSAaIBQVVfeXFMTndSNU1XTk1WcEpnU0Zac0hYajRZNzRpbTNzeXRZQU01X0luRFoydW1NeHJiNWhNRnZJWDBnc3RieVR1aE9POF8yeVoyNVM1QjBHd1BkblBsWUFISXhUUndSanl5cFUyUUI0OGVnemZNbjhwM0VNYzU3SVVOd1IxVEJLdTlQbGpFU21rQlk3RFg1MDF4eGg0bUhLOU9uc3VNekx3?oc=5",
-      "published": "Mon, 23 Jun 2025 19:41:15 GMT",
+      "title": "Israel strikes notorious Tehran prison as attacks on Iran intensify - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRLTB6bkZfajd4YzMxajhPNGs1X2o4My1iM1hGYk92Tk80LXdfeGNiV0NEYkdIcHd1Z1dwNl9fT0NGMFc1Rm5xdFJ2MElLcExRTHNpTzV0aVMxc3ZsWVhsNGlkdHVGZk01a0RZaWdnTmM?oc=5",
+      "published": "Mon, 23 Jun 2025 17:16:04 GMT",
       "published_parsed": [
         2025,
         6,
         23,
-        19,
-        41,
-        15,
+        17,
+        16,
+        4,
+        0,
+        174,
+        0
+      ],
+      "source": "Financial Times",
+      "sub_articles": []
+    },
+    {
+      "title": "Satellite images show extent of US bombing damage to Iran nuclear sites - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbnFVNDVRVk81ZDBNOW93UTVpYWtUeVpxQkU5MDZFY1hGMjN3bkR5d2tXSFcySkdIa3pTWWlOdnh4WDI5cGFWcGRYSWgybkN1YmZ3clVjXzZrREZBeHMwNDk5akFBeWVudGYxYWtyQ2g5bU82ZGRmb0UyZFVNaWVLQ05feWVYUDJnTWRMbkNNSkt4U0JjeTFuOGduanRWenlfMGtlOThaUmJXZkHSAbABQVVfeXFMTmQ2cnkxNjZzY0dxTUZhZG82b0hVNks2M3N2RXQzbm5MeE1NXzBHOTh2bHJrTmxqcTRrdnduZlFUZkRaVTJiaTdacVRkNFBVcEg2SmxvOGtBa0FXUy1tS0VValVKSF95azBYVkR6LUlCU2E1T1dIU0Z3WTVaTXhLNUJXOHg2dlhpa0tBdjVhUTB1NEZlTGYxakRCeGtMY2NqLWN4M1JfbXdVWUxob1BabWg?oc=5",
+      "published": "Mon, 23 Jun 2025 20:37:30 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        20,
+        37,
+        30,
         0,
         174,
         0
@@ -112,223 +130,29 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd21fenJ5aEcxWnltVDdpZmdvcG0zMUkzd3ZTR196VW4tVVRFM01xTklGbkdKWS1mVUVIajRqaEN0WGtoUHBRUzhyYjlJa3lyY25RS2dPN0xjX0xKSzB0QTFxbWhrV05KQ1dLckVTQUp5ZGdJQkZzMEE1QjJURzY3S0hDM1o4c1BKRS1aNk10Y2xQQkFHUTZfcTNzUlLSAaIBQVVfeXFMTndSNU1XTk1WcEpnU0Zac0hYajRZNzRpbTNzeXRZQU01X0luRFoydW1NeHJiNWhNRnZJWDBnc3RieVR1aE9POF8yeVoyNVM1QjBHd1BkblBsWUFISXhUUndSanl5cFUyUUI0OGVnemZNbjhwM0VNYzU3SVVOd1IxVEJLdTlQbGpFU21rQlk3RFg1MDF4eGg0bUhLOU9uc3VNekx3?oc=5",
-          "title": "Former B-2 pilot shares details behind Iran nuclear facility strikes",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbnFVNDVRVk81ZDBNOW93UTVpYWtUeVpxQkU5MDZFY1hGMjN3bkR5d2tXSFcySkdIa3pTWWlOdnh4WDI5cGFWcGRYSWgybkN1YmZ3clVjXzZrREZBeHMwNDk5akFBeWVudGYxYWtyQ2g5bU82ZGRmb0UyZFVNaWVLQ05feWVYUDJnTWRMbkNNSkt4U0JjeTFuOGduanRWenlfMGtlOThaUmJXZkHSAbABQVVfeXFMTmQ2cnkxNjZzY0dxTUZhZG82b0hVNks2M3N2RXQzbm5MeE1NXzBHOTh2bHJrTmxqcTRrdnduZlFUZkRaVTJiaTdacVRkNFBVcEg2SmxvOGtBa0FXUy1tS0VValVKSF95azBYVkR6LUlCU2E1T1dIU0Z3WTVaTXhLNUJXOHg2dlhpa0tBdjVhUTB1NEZlTGYxakRCeGtMY2NqLWN4M1JfbXdVWUxob1BabWg?oc=5",
+          "title": "Satellite images show extent of US bombing damage to Iran nuclear sites",
           "publisher": "ABC News - Breaking News, Latest News and Videos"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ2t6c1p3T0NHS0x4a1d6RDhYQ1Y3NFJxcVQzczlzYTZ3VjFDaGJPOHBPSlJ0TGJfdWtuSWZ4MER0VGhkR3AwUnRVNWZJRkFVQUswbE56T1ZXZ2pvU1BaTFFYdF9fbUs1NlNrV3dwVDZBYVVTMG5vYnc3WGxaeDRRNDZwbnVXOFpGOS1QQU1UR1B5Q0Z4dlRra3BfbkhqcTQ5Tkc2ZWY0VS1NVk1iZzBzTUhGa3BNLUpiRGpERzg1ZFI4d2p2UmV6cUhB?oc=5",
-          "title": "B-2 bomber pilots had toilet, microwave and a cooler for snacks on their 37-hour Fordow bombing raid",
-          "publisher": "New York Post"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWDVYVU5IQUFzVnpBRlIzXzdLTzFac2M1QTdzeTZ0ZHhkelFKejdUVHVScEJsSGwtZmdZQmdOUTdyN1dIYURGVUZDWmdFM2R1cHR5MERwTzUzRENNLVQ3bVZzdzh4bGxfeGdaZF9SNUJRZ0k5QnlNNndDTXJaS045THRkdjJKbWRvYnNYOUw5Z2pTZjRFeWpMY1dyMnR0R2NZRlE?oc=5",
-          "title": "US bombing of Iran started with a fake-out",
-          "publisher": "Reuters"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUUdSOW5fSGxrb1VvWnZraHNxendiN054Nk1DUmF0dHJHYzRRWnB6eGVVRWFMaktFcGMybDBBNXcxNkI4RVN6dmJYVGVONVRkb09TZU85aGJ5dW5ZNzRyTWZxMnJTLVFVa1BYMnBYRlBJbnN3M2hqZjdDSFZfZVdvVlMyeHZFRjlkWGZmZjgwM1MwdDBxbjk3Vkg5TmFCbk9FS1F1ZnJVbVZkUmpvX2Y3TnRHS0J2UkUxMS1J0gHAAUFVX3lxTE5XQV9HSkUzSkpieTkzdXZXN1pzUnMyUTlMZ1NOQU44dU9TRFBYV003VXpVbVN5UmhrTjh2eEFhR0NmR3E0NjQ1SVc0T3ZVUmVBNk1EcGhHbDkyd2Ixd3ptY2hpaXg1ZXdpSlZvZU9TT1VWcWFlRXM2WUcwRUR3TjlYa09UbDJ3d3ZfZE96WHNVeVFmNVU5VTZPMlpUMk9ESWgyWFdGam1KM2R6VUxVZW5rSWxBcmNMQ1dScEZnM2sxMw?oc=5",
-          "title": "Knob Noster takes extra security precautions after US attacks Iranian nuclear sites, mayor says",
-          "publisher": "FOX4KC.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUJFbXBLRWtwekctb1gyZDY4YUZWMUhEWkZRcVhZVjBoSTVrLVFUUXhIUDN5d2h3WUdpNjI3SS1RWUgydU5wRFhaU1V4dVdHbTJGdzRWNzNqb3N2TElqNmFJc3Ztcy1XWGdrdUI5Q0VSNl9CUkl1RjlfRnd0dmF6a0tTd2drQQ?oc=5",
-          "title": "Turkey sandwiches and stealth: Preparing for B-2 bomber missions",
-          "publisher": "Yahoo"
-        }
-      ]
-    },
-    {
-      "title": "What to Know About Iran’s Notorious Evin Prison - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqb2hBbVNEV2FQWkh6NE1MVER3ZXVuWDFLSVotTFdnLTlCWTB2Z1FKQUZFZ29jV0JZZ2UyZkJjMm5LVFo4SFBVMnZhaGRtbS1WRVFVSW1MY1dfc19SVk9RZkoydVJwbl9XN3c5T3Fia2FZRFpSYS1ic1pLUHBfdw?oc=5",
-      "published": "Mon, 23 Jun 2025 20:50:58 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        20,
-        50,
-        58,
-        0,
-        174,
-        0
-      ],
-      "source": "The New York Times",
-      "sub_articles": []
-    },
-    {
-      "title": "Zohran Mamdani appears to pull ahead of Andrew Cuomo, according to new poll - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdTV0OE5zSUNHNHFyQVU1R2EzWVRBM0VISC0xM1BLNUdxU2czclBLZnQ5VmpUbGM2MUJBZHhBNkJKMlJsS3h0dUlyUzAzYlRkd1ZNSlEtdDBfVWdjbDQ5RmotbTlDV0VJNWx6TnhCMF9FdDdzeHFBZGt0WTY2NWhncGRSZUo?oc=5",
-      "published": "Mon, 23 Jun 2025 14:10:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        14,
-        10,
-        0,
-        0,
-        174,
-        0
-      ],
-      "source": "The Guardian",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdTV0OE5zSUNHNHFyQVU1R2EzWVRBM0VISC0xM1BLNUdxU2czclBLZnQ5VmpUbGM2MUJBZHhBNkJKMlJsS3h0dUlyUzAzYlRkd1ZNSlEtdDBfVWdjbDQ5RmotbTlDV0VJNWx6TnhCMF9FdDdzeHFBZGt0WTY2NWhncGRSZUo?oc=5",
-          "title": "Zohran Mamdani appears to pull ahead of Andrew Cuomo, according to new poll",
-          "publisher": "The Guardian"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONGZXQ2VnTDhYRnhuVzB2Nzl3T2Z3T3hobkI0VERSTy1XMFZZRkIxYUVQMUJzVmMyam4zVDdPRm5jMVI3c0JCUE1aUHdvQk42blY2WDc0WFozbFo3Yk02c1lMQ29yZjRxR0xGc1JCMXJzWDVmVEo2cGpzekwtQTVyandPVzBaVGZCVjhHd2ZxVzhIQ0UxRmVQdnBKZGhIaVBENEE4VkYyRm9KakQ3RUFLbWtDTzJ1cUxVMVFSOXZmV05mOGVxajJzRnpfWV8?oc=5",
-          "title": "The DREAM is real: Progressive donors hedge against Cuomo, Adams in NYC mayoral race",
-          "publisher": "Politico"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2pjNU9sZW16ckZEVUs3eGFrWlZwR2Rzb2Y0WDgwY0pyQ3l2dDctQWlaRWVZRzRLQTR0YnZtbWp6cXBMWTEwbTJrYXlnTTA1a25NZ0RQRnNIMHpHRHA3TXFsdW1fYzhoMnJPN0NubGsxLWdxaFZfdHRGUERMcmNLbVQ4MURIWFNUaDROcm53U3p0LU85LWpKOXBQSdIBoAFBVV95cUxNdmliNUloZVBrU1d0R2tuQmZfX3pCLUYyMVFKdmRQR3U5a0RFNnBrUm85ejE2bW1LXzZtcHozek51c213OU1mTDVST3NpeFNHYXB6OVlpRERFVnBWY2hoUVRoUkpSNFlackpZVWVYQi1LOEdMRnF4VWNQVjNadFU5WW96N2VRMnh4dzJoUEtCa0Jod1pweWRCbjlHYWNQS2U2?oc=5",
-          "title": "Live results: New York City mayor’s race Democratic primary",
-          "publisher": "PBS"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMTNrQ25IMkVSRVNxNE1yNmhRZGY4NFR6U1hxVTBmR2FDckxJc19OV0Zza1Iza0NvUlB4cHlUZUxCS3VLNkJXbHA4MFNCLUVGOUNqT1ZTbHBlMDU2UHdMcEtxeDZ0a1R5bzMyVnNSbmU1NThqNG1QVi1JT0NibHdYU3Nn?oc=5",
-          "title": "Cuomo and Mamdani Push to Raise Turnout in ‘Jump Ball’ Mayor’s Race",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoaFpheWt6MEtLcjhjTm41V0tmWkVpWUdfZ2x3WUtOczVqVGhOTEFjR0Z3NWdJb0t4Q2NXNXFsbUI3V2hDQ0YzV0JZX1ZQcDZaUnVYSUZ2TWpKZTNoZVRlTTBtbERrZkh4VFVWaFFHSGR4YmJsbE1vSw?oc=5",
+          "title": "6 Trump Voters React to the U.S.’s Bombing of Nuclear Sites in Iran",
           "publisher": "The New York Times"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON05LRnM2bV82Nkc0bTRaakE1VExrZ1lMQW9HSTZZQ2xEclNwU1ptS0VQWEdzNUtYQkNIams1VDR0SEpIdEktdHVZenp3bFU5a3hKOExkZFVpWE1xWG15bGxVTHVkSlJxdWhfbElfajBkRF9JYkhjcExhc1ZLRjRSLXhLZTFqRVJfRDhmR3dCT1ZSbkpD?oc=5",
-          "title": "Some candidates focus on blocking Cuomo’s path a day before NYC’s mayoral primary",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSHRKa2owU1FsVWxEOVZza3R5ZjNQT3NDWTc3T1JKRkROQk9KMF9vZHJQc1Jpa0E3WDJkWnJNSFhjSlhZUVlOdWlXU0M4c3Z1NjJnanFScjZRTEV3dEFYaUdlaEktZ3pOQnlRWS1jcWthaU4wOXhYNUh3ajNvWjU4ZUtQS0JKYm5ZQWgxLWlELTQ?oc=5",
+          "title": "As US cities heighten security, Iran’s history of reprisal points to murder-for-hire plots",
           "publisher": "AP News"
-        }
-      ]
-    },
-    {
-      "title": "F.B.I. Warns of Possible Retaliation by Iran After Bombing of Nuclear Sites - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWjdJcFR0XzFZei15blRaUGp1LW9wdWRaNGVnMU8wUTljYzd5OUo4ZVJ5cmFMSlVCaGppVG9odWlFWUhUQkpKRUVCWUNkRlRHazJrMDBZVk4ydFo3bmNROG8yRWpCWGJPcVFJcEdsWlhLQU1fTW1vQzBQdXh2Nl9KQ3NFQVhSNW5RMWh3Yzhn?oc=5",
-      "published": "Mon, 23 Jun 2025 18:34:11 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        18,
-        34,
-        11,
-        0,
-        174,
-        0
-      ],
-      "source": "The New York Times",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWjdJcFR0XzFZei15blRaUGp1LW9wdWRaNGVnMU8wUTljYzd5OUo4ZVJ5cmFMSlVCaGppVG9odWlFWUhUQkpKRUVCWUNkRlRHazJrMDBZVk4ydFo3bmNROG8yRWpCWGJPcVFJcEdsWlhLQU1fTW1vQzBQdXh2Nl9KQ3NFQVhSNW5RMWh3Yzhn?oc=5",
-          "title": "F.B.I. Warns of Possible Retaliation by Iran After Bombing of Nuclear Sites",
-          "publisher": "The New York Times"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMlBBZThueUpIc0pGYWtkTDlnX3FOSndpcC1mLU9EaHhHenhkcWtoV29rYndPOVRfYWJLT0hINzI1T3dsdEI2bUxHZnFoNnViRnVKaExzSktNeW1sZmJadGFqRHMxNmI0MEhVU1F5Mi04X0FRTDJOdHZfMUJYbW1qREhzR2NLdlNoT3fSAY8BQVVfeXFMTVUtN1Z4cWhDVTVyLVIxTF9vdEgxSHFYUVZpM1AtTlJyNVZJZnE0N1NhbFJSYVlZVm9mS3hMZWFyUk9NYi1qZVVuSzZXaG5zZlJOMjFtclFPdzFPVUpxNElyYVZrbzNzeGJWZlIwVGtidUZUR01vNW9uVXNKS1RxWVJBNGVzXzhxQms1VU1CT3M?oc=5",
-          "title": "Iran could ‘target’ US officials if Tehran believes regime’s survival at risk, DHS says",
-          "publisher": "CNN"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHR0b1F6NlZSTEF3TllXZ0kwVURXRTlHR0RLTDJBS2xrc3R1Yk0zZnhlUjljTzdwcXZHc1lsblUzUGFmTmRHbGJMVUdxcmxtQmFFMWxOSy1nUm40LUtvbW92ekVNRjY2cUMtWk4tRjE3UEh6UXJtZVFZcnk2RUxUYktJaWt6SzA?oc=5",
+          "title": "Trump's strikes on Iran a gamble with 'no endgame in mind,' says Sen. Mark Kelly",
+          "publisher": "NPR"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNal9jc1cyVTZtT0hkZS1sNEZ6SENYMVpOenJPYjJRSkRXMWREMFlzeGpGanhSY0hPZkdWVFBHQ0EwQ0NNY2d2bHFOWmRjNElpSTdwdmhlc3VHbTdEY0RJRWVsbmY0REpFT3FUejFkblNPTklNLWlOS20tMmlFLTNVRjZEOThtWVNicjV4RUltT1JnbkZZNlc5V3UweXNwTFRSNkFjdE1VaDJoMnBrRktTQm1LQ0dTWUxiSXBDRUFXU3REQ3FaNzhMaUZqVFhVd9IBbEFVX3lxTE93Um5WY0xQa0VYeUFwVERhcjk1UjVZMjY3WkJSVjhMLXpHdWNqbFRfRE1oTWtaa3BEU2Z6MWU5a0xPbzV6NjNrYXQyODFVeUxiMmNKTmc0eGhKV2pEX1RkR0QzeGhlbVdKM3dIXw?oc=5",
-          "title": "As DHS issues security warning, Team Trump’s counterterrorism record raises concerns",
-          "publisher": "MSNBC News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBES2RreWtON200V3dyck9sYnJTLXlsVFlyRks4ZDhLQnBmU2EwVmJtZGJsNUNYTTV5UFh6MDY1SGpuSW50bGJFUWJQX25fbUNWdU5zeDQxZ3U2bWtLOUZ4WmxlUVZTLWpFbnluSWM4djNsSjZJaHc?oc=5",
-          "title": "U.S. braces for heightened threats in wake of Iran strikes",
-          "publisher": "Axios"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkFDN3NfSHF2SGV1OFNQSkl6Tk9zMWtEYXB3TXFGRHBfYmFmRjBiOUpMU3RETEtfRnRja3BDY2c0R0pnOWJON1Z4bnV0VV9JLVZOWnplNlloQ1l0eW1mSkhTaWpVektYcjJnWEZyTzIzMzRndVVYUnlpbUpjcnFzVUVReEs2LVo1VEIzYzhmMVFYeEhjVDFKV21XU3o3YXhVMmfSAacBQVVfeXFMTjlneTZBM1NGYTRYbnVOSWZieFJTVndCYmFHTFczSjlXeUdCcVpsMlotUmxNQmdCLV9fMjUzMEwxUWNoLUU2UGlmNFR3NDg4YkdWSVEtcFZ3VDBmaDB1QllJVTIydTBpRS1lQlctZUFZVFZZMHhrOUdPTktUQ2hwYzZVN2xKb3VLQ21Ya3hTNEFYUko2ZEtkQXNlT2JwcGJrbU1Oc0RfY3M?oc=5",
-          "title": "FBI, DHS host call with governors over US threat environment after Iran strikes",
-          "publisher": "ABC News - Breaking News, Latest News and Videos"
-        }
-      ]
-    },
-    {
-      "title": "Lt. Gov. Patrick rips Gov. Abbott for vetoing THC ban, digs in against calls for regulation - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdFZBRTdKalkxeFNCNEg3alA0QUUxQ1htelFyemhwc0o2aUZ5dDBsTnppSUlZbFVxMzlwUTRhZXJIa3VHOF9CYmdxaEoyVWg5cVpYRHc3dndJdXhrVG1ud1AwcjNEX2IyaHh5eGRFd093LXFoY09YU1lIX3k1bFRqcWREZjdkbWowNGNxa1lYU1ZPZw?oc=5",
-      "published": "Mon, 23 Jun 2025 20:34:52 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        20,
-        34,
-        52,
-        0,
-        174,
-        0
-      ],
-      "source": "The Texas Tribune",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdFZBRTdKalkxeFNCNEg3alA0QUUxQ1htelFyemhwc0o2aUZ5dDBsTnppSUlZbFVxMzlwUTRhZXJIa3VHOF9CYmdxaEoyVWg5cVpYRHc3dndJdXhrVG1ud1AwcjNEX2IyaHh5eGRFd093LXFoY09YU1lIX3k1bFRqcWREZjdkbWowNGNxa1lYU1ZPZw?oc=5",
-          "title": "Lt. Gov. Patrick rips Gov. Abbott for vetoing THC ban, digs in against calls for regulation",
-          "publisher": "The Texas Tribune"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tZXk4Qkx5bnRiVnd0VDY3dWdMdzA4aFhzcjhxdGtNajR3aDBvNk9LNzg0ZnhrWFVOMndCeElmdDhnd0dCYUp2ZDFQdGkzN21YU0tYLXlqVFplM2ZzM2VPMDZkOW14WVFkWDdJ0gFwQVVfeXFMTWNmMUZGdEMxTUVzMXRiLXZpV1MyNFc5RUl3XzdreWNQYXRGUEFJVlhSdmFlcmFUUVJRY1lZd3F0SkVyRzAwbF9jLVJQZHE4R1F0MUJ0Qkh1b3VFTVM2U01KbVhGTmpXaXZiRkdNZGdQVA?oc=5",
-          "title": "Texas governor vetoes bill that would ban all THC products",
-          "publisher": "CNN"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT2Y4SEx6c1pjb1V2OXZEdDVuMTJMZGNyWER6SHMyTFF0STNGTl85RGN2N2Q1ZjM2ZVpYeW9uaXNDbzh5QWpRci1BTnB4LUw4NXRNWXJGcW9HdW5aWDVyT3hhZEE4SEhtZjZUQXhMaTNmSUZkUkx5SThSTU9CTUxiNGZwN19LWUljclRxQllVemEtTTZwN280TGpld0Z2SW51MVJwX3RCcnp6Z1NnaXZQd2dRMGVMMnU3MndJMEtPM2VINjFOWXN6bXdnU0k5YU95N1VZQmJMRXVGZnR2UEdTVDdjLVl5a2t2UElrZzd3?oc=5",
-          "title": "‘This is what everybody wants’: San Antonio THC retailers relieved as Gov. Abbott vetoes ban, urges regulation instead",
-          "publisher": "KSAT"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3lUWmJGeGFXMl9UXy1VRk14cVNZX2s5OHRTMXVLekJiM3RQNFJnaXFGblJGXzlyUklDN0VXeWFNUTdtZU0taXBNajA2UE80SUlkV24xVzFGUGNMU3JMdmhHa2FBaHVWMmhtcjROZGVIWUd3TGI0MVdIbHhZTW83VGYzcVIxak5hdFJNYU1NaWp6X3l1NzQtOG1TTVHSAaIBQVVfeXFMT2tiUUh2cUtpOTE1RWN2Qm9WS1N5OU5XbnJOV2VGUW00bWR4MUdTMGpYbTFsOGpHTlpEWTNIQTVhRm4zYVNxOTBVNWdDdTJOVl9zYWdickI2WUVIaUhFNzJ5SmUxNEFHNkFKZG52Q25KdmRsS0d4VDdhYnZoZFVRVEZ1RjBGYW92Zl9XZy1XMlc4LXRmXzlnZWo2amlFcVR2QUdR?oc=5",
-          "title": "Texas lieutenant gov calls out Abbott for last-minute THC bill veto",
-          "publisher": "Fox News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Zc25oR2FDaVNJazVCbjdFZmNuTjJ2NXVtVUdpdy1JaGNFd2dCNWNzMkhxS2RoWmhoYUdWSnJFa3lHcnoxS0RuNVJaVXVvX3hXTzVyM2E3TFpiMFJrOUdkQWZ6d1RWUkxWX3kxcldjRG0zZ0U?oc=5",
-          "title": "Gov. Greg Abbott Vetoes Ban on Hemp Intoxicants in Texas",
-          "publisher": "The New York Times"
-        }
-      ]
-    },
-    {
-      "title": "CWG Live updates: Oppressive overnight lows as extreme heat persists into midweek - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHNYS0hRVE5lY0RiLTVmNFdIN3VQZERJQXJkTzkxejBMS1VVVkxKRDBzS1lwTjVqY0tYWFJWZmlXY2prV0dXemhSVi1ZNzdmVlNfQThpNHVLU25zaDNhbW1MaUhYa1FaMk9DSjNLM0R3SHN1SjNEdkpsdFMybzlQUXhuYTRDNExNYmVqOVRJaG0yYTc0cU5F?oc=5",
-      "published": "Mon, 23 Jun 2025 21:57:12 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        21,
-        57,
-        12,
-        0,
-        174,
-        0
-      ],
-      "source": "The Washington Post",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHNYS0hRVE5lY0RiLTVmNFdIN3VQZERJQXJkTzkxejBMS1VVVkxKRDBzS1lwTjVqY0tYWFJWZmlXY2prV0dXemhSVi1ZNzdmVlNfQThpNHVLU25zaDNhbW1MaUhYa1FaMk9DSjNLM0R3SHN1SjNEdkpsdFMybzlQUXhuYTRDNExNYmVqOVRJaG0yYTc0cU5F?oc=5",
-          "title": "CWG Live updates: Oppressive overnight lows as extreme heat persists into midweek",
-          "publisher": "The Washington Post"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeWVpUHhhd3A5bEtnTjhJWk56eEt3VW5iTjhNeFV6dU1xQjFtUGNrMUdQN0lXdnlxSno0YWl1TUlDVFJOYWFrdW1DQ1hqRzV0Z19kV0ZwSXpQNTVwSkx4N0VHdXh3YldvMTMwNEVHTjgzaFYtQU9rZnI0VTN3ZzJyStIBhgFBVV95cUxOakZNMV81NExDc0VXdUZoSHpmOFZMSFVNeHZNM005UE1Kd0lRVVhWTUllRFJ4d214Z1RLMk41V2Q0eVhIRnhzV1VENk0tbkZoSzVSLWs2Tl9vTDdackcwUmtHTTMtcHpGV3FTbHdLQTA2Vjk2UTdsTnpWUjNqLU15ejNwN1BRQQ?oc=5",
-          "title": "A potent heat dome is building over the US, sending temperatures into the triple digits",
-          "publisher": "CNN"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOER1dWhyX1dDU1BrR0pMcEt6QjBYMDliNl9VQ1hUS3F1aWp5cVF3bmlzRkdONzdkejJhYkZMZmJMYXpKMHJGYjh1NTM4RjBsRkZDU2tCRzV3cG1Qc25CQ1JCclVncmtNLVh1dFRFZjB2Zlp4U05OU1FucC0ySlNPYTVXeVhpYWlvVVVTWEFTbmh3T1lQd3Zrc3FYeDZVUTgwcGc?oc=5",
-          "title": "Sprawling Heat Dome Could Smash June Records In Northeast, Midwest, Including 100s In New York, Boston",
-          "publisher": "The Weather Channel"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SM29hdzJVaWtTY1RHS19YbnZBOXd3RUQzNnJyTV8wRnpwTEFULXdWZG9GdXl4V1RxLUxmVm9UT2JkOWZUOHItYllXeFBPbWFYMlRMcldxUHZreWdxcXBUVWZldkVtejlzcElaTFFTMkhOR3pJcm4yd1Z3?oc=5",
-          "title": "US Heat Wave: Latest Forecast for the East Coast",
-          "publisher": "The New York Times"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFVNRU1famt2WlFaSWZGcTZWeVRhZ1VEcXNNS0pTUERjSGgzQXR5dnZGVy15c2I2OFptZmxtRDFaNUZ6YkxCT2hkU0RyaVBBYXZLMVUzMnZqektxbHVKT3d0NW94TjZ2ajVLYnIzdVRqVGtGTnB4eVZhTkZHZEc2TzNrMkZPR0dQV3RZemZjckZtXzFqWHFUakVFU2pIcGNJbnFZaXVjdw?oc=5",
-          "title": "Heat stirs up high winds, deadly weekend storms in Midwest, Florida",
-          "publisher": "USA Today"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0U1cTAwQkd4RXhGVGo5Q2QzdzI4dGhBN1V3QUtWM2JwWGJJTDNYUnlqMzUyV2JZMVN2RkN6QW9mQlhvZ0N1MHJQMHNqRGREYl9FMmRGV2pJTjBJYlV3b0hWU0VzRXNjWVhDaGEtY2Vxa2Ytcl9uSHNHQzNHOGp3Tjh3bldQckRqOGZjSXl6ZjJfSHRYSWJCNkJ4T0xsa3k3bjc4MUFCaVlUeTFyTm9Z?oc=5",
+          "title": "Iran fires missiles at US base in Qatar, Trump calls for peace",
+          "publisher": "Reuters"
         }
       ]
     },
@@ -355,14 +179,14 @@
           "publisher": "The Hill"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUmZiQWtjNU05VHlHcVdWM3NFRWRIWVVwN2M0NzFmalpmTjRnLWNDZTBJRmNwVzg1MlNqU2Z1Z3ZMM3ZHY1E0VVlMVEcxNGhYZ2tPTGF0cmJNM3Q3eWtkUVJhTGU2NVR4d0dCMXBrakxsSTd0YVctNFd2aVdRQVJsZjM5X1lXM2pJdUM4ZFd3QWNTQ2dtVTRJcQ?oc=5",
-          "title": "Iran Strikes Inflame War Powers Debate in Congress, Dividing Both Parties",
-          "publisher": "The New York Times"
-        },
-        {
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQclBhQTd2bm4tNjV5OFdyWUFLMmVxRDV1aFltekVGMFJiZXRmR2ZTTUE4a3hHeEJSUlVGZ2h6S0xhTHBSeGVLbkpQUDBYNlJ0cW5XZ0dfLTFYTXJoYUxVNVVUMzJNNXBkbURMOU9iZy1RUkdmLWplWHg2WTNIQWlmbFdkUThTaTY0RzZ2UGZsMUtfSEpTUVHSAZsBQVVfeXFMTVM4elozV2FRYkVGQjk0dGJPOVV6REotSWtlcVlPNUFkdnN6aWxpYk5CUHVycjY3Z0dSblBFVE5ZenZ6eDZULUJGaTBuYlFrWEF5QWpBQ0RyQW5jN1kzbFBsUEZncnpXTEhyZGVzdlhkX1hpOUpaRy1QRUIxZUdIclF0MmdpZlZWYmNkSFpmU3ItcGNHSG5vTUdKTmc?oc=5",
           "title": "Did Trump violate the Constitution by bombing Iran?",
           "publisher": "CNN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaE5uakd1UHczRHh6VU5xVEo2OGF5NjQzaDlpZTJDWGxkN090TjFoR2ZJczFoQzZvVEczVUg0M3N1V1pfUTYwOHNOV2RHSEc1VnpIR2V2bG5rQ2I3UHNGOEVfUl9Ta1JGM0M2OW0tTTlmWmJnWTlPR2tlV1J4cFZ6OWNFQ0JYM2hRXzJIZjdrU0I5a203ODZBR2xsYjQ5bk5ZQzFqY2hFczl6WTYyMEdnSDFDOXNGT0ZQ?oc=5",
+          "title": "US Democrats introduce resolution to check Trump's use of military against Iran",
+          "publisher": "Reuters"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDcwRjZkdnhPd2k2d3VzUklfQUNKZnI4aWVxUm9Wc0UxSFN2aVNLRllKcFpDLXVKS0MyckVGVWJBbU1EZGdiWGNWVXJYekF5a3NoMTh5YzVYZGZILWZ4ZzJ2MVpOWDZ0b0lwS2pvdFJSb0Fja3FEOW1RRlNYWjc1UFp0c1ZVYU5HMEh3OXdXZTg?oc=5",
@@ -370,97 +194,317 @@
           "publisher": "NPR"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQODlMT3NwZG82VkJJc09PdW5ncHJUeDdZUEk3MUowbDZ6WG5ObXRQSDhyenFXcGZvdF9yV1doM3hiYjE5ZVp2Y1BXUkZQNHc5YnNDTnNiRGliLTIxZnpHd0lnS2xDVkZpQzFUUHlZUDhxcE1pa05jcG9GSTRLS0F3YWlXZHB4S3JHYTB0NlhYTFJ6Q1BlT1hGRFN4Qk5HWWpR?oc=5",
-          "title": "Thomas Massie says he’ll withdraw war-powers measure if Iran-Israel cease-fire holds",
-          "publisher": "Politico"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDYzclp3cUltTFBEQ3JwbEZ5M2gycXZpLTh1V0JZTDhzdWdTU0ZhYWpIN1B3N2JEYUhWS0NOWkdyZjB1TFBrMDlGMlJDLXhodnBzTWtQczczVHZLUXZkcDAxSWRNSmphMmIzQ0dSSXpaS0dMS0pfdzV0X2xlQVJoNGVTU2tRQ1F0SzlSRXFWYnIwM2s2VXQzaVlvaXcwUdIBowFBVV95cUxOU1pHZGRpOTFjcVZtYzBoRGVfS1NkTUNpeWdyd0xtVjF1OGdYd053V0t1R05SdTd1WDBaQU54ek5uSjBWRzZ2VTBzaG1OTXNFUVl3NTlXRDZPSU84bnF1NUdIM3BZWEpqS3JPS0Y4bnZra0hKTlVvVkRudTVuaEYyOHBfdWpMVXBmX3BuUWU3cGwxdlQ1WEdGTDJxdHNsR1JKVlNN?oc=5",
+          "title": "Some Republicans in Congress clash with Trump over Iran strikes",
+          "publisher": "PBS"
         }
       ]
     },
     {
-      "title": "Senate Republicans scramble to salvage CFPB cuts, question funding request in GOP megabill - Politico",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWklDMmV6MHNfdFAwNmFwQXE3OG92RG5wM0NSa2M0dFByYzd1VGY4dFZhVHljWkUxdUxzU1hVanBFOGFhOTNQWW0yLTFiZmJLSGtKZVBsV1JvSW01eV9RZVlDQXNMbFYxSVlqWHVMYjgxQnliZl9sMFc3ZDFrSUVhbTJ2bFRTd1Y2cFpzVUI2TDVickk0NEZqT0F6RFlGM0xBenZMVFhkbjV2UTMx?oc=5",
-      "published": "Tue, 24 Jun 2025 01:27:18 GMT",
+      "title": "Texas governor vetoes ban on intoxicating THC products - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdGVZZ1k2cXMyejRYOTFBdU1IaFRrS2dxOFAtZzVFUkhQM1dyUlRvdHN5TnZEcHZDWGkyNENQZW1tc0tLN1lvUjZXbFhPcTFCM2dDdGZvWWJJWWxDYUpIZm9oVVBLcFlvMzFaaEZtNG03VU5kZHFjVHlMVlpJYlREMEdEcw?oc=5",
+      "published": "Tue, 24 Jun 2025 02:33:53 GMT",
       "published_parsed": [
         2025,
         6,
         24,
-        1,
-        27,
-        18,
+        2,
+        33,
+        53,
         1,
         175,
         0
       ],
-      "source": "Politico",
+      "source": "The Washington Post",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWklDMmV6MHNfdFAwNmFwQXE3OG92RG5wM0NSa2M0dFByYzd1VGY4dFZhVHljWkUxdUxzU1hVanBFOGFhOTNQWW0yLTFiZmJLSGtKZVBsV1JvSW01eV9RZVlDQXNMbFYxSVlqWHVMYjgxQnliZl9sMFc3ZDFrSUVhbTJ2bFRTd1Y2cFpzVUI2TDVickk0NEZqT0F6RFlGM0xBenZMVFhkbjV2UTMx?oc=5",
-          "title": "Senate Republicans scramble to salvage CFPB cuts, question funding request in GOP megabill",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdGVZZ1k2cXMyejRYOTFBdU1IaFRrS2dxOFAtZzVFUkhQM1dyUlRvdHN5TnZEcHZDWGkyNENQZW1tc0tLN1lvUjZXbFhPcTFCM2dDdGZvWWJJWWxDYUpIZm9oVVBLcFlvMzFaaEZtNG03VU5kZHFjVHlMVlpJYlREMEdEcw?oc=5",
+          "title": "Texas governor vetoes ban on intoxicating THC products",
+          "publisher": "The Washington Post"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmxkckl3ZE9YekxLZTdrNzRqNU1UellLWlBBb200aDRxMUY5a2lnaUxpV1BwLXdnV2ZvMEhvZnhOZ0M5NVZJaWxETFB0c1J4SHZIWnlVYkJoMmxUV3hKRDZTTVROWFN2Q1QxVDUyRGpESE1qM0tsOVMxLXBtS3pKQ2pPZjA2aFlCeXQ2N2NieWxYdl9G?oc=5",
+          "title": "Gov. Greg Abbott vetoes THC ban, calls for regulation instead",
+          "publisher": "The Texas Tribune"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTy1BT0UxMXVVeHNUZVpLY1pLUWlqNHZzVlNpUzZRWVJHMmRnNTBNeG5qeDNvRGl1Mkg5WkFfZEdHbDJveGpjSm1hck5tN3NTR1FlQklKR1cwQVdhdmlKU1RVckxlS0Q1NXBNZW1PcWprWXZrQWN4bUo5MVdMbGZEN2xTb0RUMEFrT0FIYThZLTREX28zWVF4NVJtVDc2c0lvRW9mREdLc1RPVmxfUlln0gG0AUFVX3lxTE5iTjM5ZThHbWVhdTliZzZGR0hUSGY3d2gtOWs1Rm9xQUwwVVBjY0hlQkxKelhYODFVRjl0SEk3ZGJkY1ZoZXRrSHZJRy1RNDd3OGs5eDM5dF9PQzE2eGRZSlFEMzJCYkFVMmdQUURWc2dSYzRNZTRBbjdxbjBtVGNqLTVXWDU1X2F6eDdQQXZyb1hoTGJRS2hpLUtzRDRUOW52NHRKWmFJNGNsTHBYakxzalVYZg?oc=5",
+          "title": "Lt. Gov. Dan Patrick \"puzzled\" by Texas Gov. Greg Abbott's veto of bill banning THC, saying \"the governor of the state of Texas wants to legalize recreational marijuana\"",
+          "publisher": "CBS News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tZXk4Qkx5bnRiVnd0VDY3dWdMdzA4aFhzcjhxdGtNajR3aDBvNk9LNzg0ZnhrWFVOMndCeElmdDhnd0dCYUp2ZDFQdGkzN21YU0tYLXlqVFplM2ZzM2VPMDZkOW14WVFkWDdJ0gFwQVVfeXFMTWNmMUZGdEMxTUVzMXRiLXZpV1MyNFc5RUl3XzdreWNQYXRGUEFJVlhSdmFlcmFUUVJRY1lZd3F0SkVyRzAwbF9jLVJQZHE4R1F0MUJ0Qkh1b3VFTVM2U01KbVhGTmpXaXZiRkdNZGdQVA?oc=5",
+          "title": "Texas governor vetoes bill that would ban all THC products",
+          "publisher": "CNN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdjg3Q2ZjeE55ejRZY3luSDh5SnV4VUhPQzlvNVBlWmp4YjZ6RUJzU1FFbkdtbjEzb05QRV9seVVZMTNnUU5IM2gtdlRSSkNLeE1rdVg2dS1pemEzd3h5bldoMHhRYTlGalRLZFIwUXVpM3RqNWJ3UU5WSG5NR3VmTzYtSzFaRm9HaTZnLVRn?oc=5",
+          "title": "Texas governor vetoes hemp ban bill",
           "publisher": "Politico"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2lJSm9DUDVxVjlETkhyM0FWS3ItOWlwdGpBSTRvbTIwR2RMNUdoQVhlWHl3aGJianBsOFJpYW9ZWFRqOGhzRFZPX1d4bFE3MFlqSm5JdVVjLTFRM1BqVkJRbWNYMUl4WDg4bGJrbGdtVXp2a3ZRMldNbGczRXdEV2xlRzhoUjNDcUg0bmU2dlFCN2pLTTJrVl94cUVSQmNvOS00VU1MS1pSQnNE0gFzQVVfeXFMT2lPYjQtSmhCQllCcHkwbERpRXhhd1pzSmIxXy1RMnpnRFdEVDVGZ1lBZDdURGs2S3VXSWE1eXc1eWJwM01KREFHczBnejVvNlpnT3E3X29lTjJ4WXc2UXkwNXB3R0cxZDloVWJ5R2tHUXVGSQ?oc=5",
-          "title": "Senate parliamentarian deals another blow to GOP megabill as Trump's July 4 deadline looms",
-          "publisher": "MSNBC News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUVFaZXlpcndmeGpiMUFkal9VOHc4bWFEanBZSi10OXJOOWl3T1ZNZ3NvanFhOE51WjJtWUQzOUxqQ1JKVFNSS2gxekVxSXo5TGtwb3dpM0tpVlVjWldqQjl6NUxDWUpoYmpoX0ZjQmFtcnItY0xrenRDejFURDc2ZXczbTlGX0lzS2ZtWjFWVDUxMmFUSjdxTnNYS2VpNkdrdGFHX3FrdzI4Q0lUbTA5YXR3?oc=5",
-          "title": "GOP civil service overhaul effort violates reconciliation rules",
-          "publisher": "Federal News Network"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3Y3NleGxTSmFsTFk1OHY0X0JTNnBMQXJibWJ4UENqSktQeDk5M0V4aTlYSXZBZHZUT2Z5TTl3QjRnLWlHSDR4Rk5pWmlUbGdvWTZJOFZDdzFEb0RoT1hlQ21rUkQ?oc=5",
-          "title": "Why the Senate’s Byrd Rule Could Mean Trouble For Trump’s ‘Big Beautiful Bill’",
-          "publisher": "Time Magazine"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZVVYUExhczNrTFNJb1RPamp0MGwwSVNnS0Y0MjlaQUJTRUhGMDhuNm1EM25JTFFoYTRDbDk0UzlIVHQxdjBua3Azd3E3SzdiZFMtZld3cjdqV1kzNnBiSjB0R2Z1blFwd3MzNjA4TTgxYUNKM3lYcWNHOElwUHFPemZLaEw1dDVZT2twSlBCOFQ1YThTbi1nWDlWbkU4RU4tY1k0SmktblJVcnozREVEN3RicTl1WkxJTDVWX3VsUVcyN20tNzlZ?oc=5",
-          "title": "Most fed-targeting provisions in Senate reconciliation bill don’t pass Byrd muster",
-          "publisher": "Government Executive"
         }
       ]
     },
     {
-      "title": "Can Iran really shut down the Strait of Hormuz? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmlyVmt4ZGlTN1o1NHk0RVJIVWQ4SkhnMkFwWFR1ckRpN2paQ3B5cmd0cGg3TDh4cU9zT045YlZXbkptNFZlSkFmUnBHM21aaUdFaExHMFJMTDA5MlBpX0lFdlVKTjVlV2xYR1ZzZW92U2psSFRKeFJkOEN2RUhUamVWS2wycnhrUExueF9fc07SAZYBQVVfeXFMTjNpR2xaVmNZblJJUEtPbnE3dGRVRTg1ZWZHLXFKN01BcC0xeDlLUTAzelozcUUwYWFfMzdncTNZYjJpYVF6QXB1RWpzSDgyRlRlRHNJS1h1a1FDQkxNU2hlU21sMlV2OE1GNGh1T2FMcFdDZ0lFTVdiVGZkVV95VjNNenM2bmJBNVZTV2V5d0RkbWo2QWx3?oc=5",
-      "published": "Mon, 23 Jun 2025 13:51:15 GMT",
+      "title": "Millions at risk amid widespread heat wave - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80MEVRNzRsSmJTSC10M29hZ0FTaGxtMEUxRzVWdk1nanBwdGI5Z19Bb0N6clFhVTlEdjQ3UWVTUnhjVDNicWtZU2N0Y2NGVFZtVXpHdw?oc=5",
+      "published": "Mon, 23 Jun 2025 23:31:08 GMT",
       "published_parsed": [
         2025,
         6,
         23,
-        13,
-        51,
-        15,
+        23,
+        31,
+        8,
         0,
         174,
         0
       ],
-      "source": "Al Jazeera",
+      "source": "Axios",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmlyVmt4ZGlTN1o1NHk0RVJIVWQ4SkhnMkFwWFR1ckRpN2paQ3B5cmd0cGg3TDh4cU9zT045YlZXbkptNFZlSkFmUnBHM21aaUdFaExHMFJMTDA5MlBpX0lFdlVKTjVlV2xYR1ZzZW92U2psSFRKeFJkOEN2RUhUamVWS2wycnhrUExueF9fc07SAZYBQVVfeXFMTjNpR2xaVmNZblJJUEtPbnE3dGRVRTg1ZWZHLXFKN01BcC0xeDlLUTAzelozcUUwYWFfMzdncTNZYjJpYVF6QXB1RWpzSDgyRlRlRHNJS1h1a1FDQkxNU2hlU21sMlV2OE1GNGh1T2FMcFdDZ0lFTVdiVGZkVV95VjNNenM2bmJBNVZTV2V5d0RkbWo2QWx3?oc=5",
-          "title": "Can Iran really shut down the Strait of Hormuz?",
-          "publisher": "Al Jazeera"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80MEVRNzRsSmJTSC10M29hZ0FTaGxtMEUxRzVWdk1nanBwdGI5Z19Bb0N6clFhVTlEdjQ3UWVTUnhjVDNicWtZU2N0Y2NGVFZtVXpHdw?oc=5",
+          "title": "Millions at risk amid widespread heat wave",
+          "publisher": "Axios"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMzhVN0sxak1RQVBVZ1VXYl9UMTM0dGdVUjBvZFZWUzZCcm9XY3F0QlBJVUQ4WGduVGN4aWkwZ2FJc213cmNteHZQYkxfZ3BqSDlOUGhQVVJuYU12Smc2VjZQSjNoTzRFLVgtR2lkRmpiM28zMUZKZ3N0VkplN0Q1TzU1T2F0d0dEeDVRWA?oc=5",
-          "title": "What Is the Strait of Hormuz, and Why Is It Important?",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOER1dWhyX1dDU1BrR0pMcEt6QjBYMDliNl9VQ1hUS3F1aWp5cVF3bmlzRkdONzdkejJhYkZMZmJMYXpKMHJGYjh1NTM4RjBsRkZDU2tCRzV3cG1Qc25CQ1JCclVncmtNLVh1dFRFZjB2Zlp4U05OU1FucC0ySlNPYTVXeVhpYWlvVVVTWEFTbmh3T1lQd3Zrc3FYeDZVUTgwcGc?oc=5",
+          "title": "Sprawling Heat Dome Could Smash June Records In Northeast, Midwest, Including 100s In New York, Boston",
+          "publisher": "The Weather Channel"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90SGhRQnc3NGlRWFR0REY2eEpjU3FKUzJ3UllJbk5tUHdZcmNNaVIwZ005R2s4djZ0UUMwazZHQWM3RTBrSk5yT2hmU3JhMGxfeGx5eUNwd1FHa2o0dDd3UEhfbHRiRmJNZWx3RnQ1SWhWZlNmN3F1bm5XOTI4TDg?oc=5",
+          "title": "Millions across the US sweat through extreme heat wave",
+          "publisher": "Yahoo"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeWVpUHhhd3A5bEtnTjhJWk56eEt3VW5iTjhNeFV6dU1xQjFtUGNrMUdQN0lXdnlxSno0YWl1TUlDVFJOYWFrdW1DQ1hqRzV0Z19kV0ZwSXpQNTVwSkx4N0VHdXh3YldvMTMwNEVHTjgzaFYtQU9rZnI0VTN3ZzJyStIBhgFBVV95cUxOakZNMV81NExDc0VXdUZoSHpmOFZMSFVNeHZNM005UE1Kd0lRVVhWTUllRFJ4d214Z1RLMk41V2Q0eVhIRnhzV1VENk0tbkZoSzVSLWs2Tl9vTDdackcwUmtHTTMtcHpGV3FTbHdLQTA2Vjk2UTdsTnpWUjNqLU15ejNwN1BRQQ?oc=5",
+          "title": "Central Park hits temp last seen this time of year in 1888 as heat wave hits eastern US",
+          "publisher": "CNN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SM29hdzJVaWtTY1RHS19YbnZBOXd3RUQzNnJyTV8wRnpwTEFULXdWZG9GdXl4V1RxLUxmVm9UT2JkOWZUOHItYllXeFBPbWFYMlRMcldxUHZreWdxcXBUVWZldkVtejlzcElaTFFTMkhOR3pJcm4yd1Z3?oc=5",
+          "title": "US Heat Wave: Latest Forecast for the East Coast",
+          "publisher": "The New York Times"
+        }
+      ]
+    },
+    {
+      "title": "Live results: New York City mayor’s race Democratic primary - PBS",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2pjNU9sZW16ckZEVUs3eGFrWlZwR2Rzb2Y0WDgwY0pyQ3l2dDctQWlaRWVZRzRLQTR0YnZtbWp6cXBMWTEwbTJrYXlnTTA1a25NZ0RQRnNIMHpHRHA3TXFsdW1fYzhoMnJPN0NubGsxLWdxaFZfdHRGUERMcmNLbVQ4MURIWFNUaDROcm53U3p0LU85LWpKOXBQSdIBoAFBVV95cUxNdmliNUloZVBrU1d0R2tuQmZfX3pCLUYyMVFKdmRQR3U5a0RFNnBrUm85ejE2bW1LXzZtcHozek51c213OU1mTDVST3NpeFNHYXB6OVlpRERFVnBWY2hoUVRoUkpSNFlackpZVWVYQi1LOEdMRnF4VWNQVjNadFU5WW96N2VRMnh4dzJoUEtCa0Jod1pweWRCbjlHYWNQS2U2?oc=5",
+      "published": "Mon, 23 Jun 2025 18:02:28 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        18,
+        2,
+        28,
+        0,
+        174,
+        0
+      ],
+      "source": "PBS",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2pjNU9sZW16ckZEVUs3eGFrWlZwR2Rzb2Y0WDgwY0pyQ3l2dDctQWlaRWVZRzRLQTR0YnZtbWp6cXBMWTEwbTJrYXlnTTA1a25NZ0RQRnNIMHpHRHA3TXFsdW1fYzhoMnJPN0NubGsxLWdxaFZfdHRGUERMcmNLbVQ4MURIWFNUaDROcm53U3p0LU85LWpKOXBQSdIBoAFBVV95cUxNdmliNUloZVBrU1d0R2tuQmZfX3pCLUYyMVFKdmRQR3U5a0RFNnBrUm85ejE2bW1LXzZtcHozek51c213OU1mTDVST3NpeFNHYXB6OVlpRERFVnBWY2hoUVRoUkpSNFlackpZVWVYQi1LOEdMRnF4VWNQVjNadFU5WW96N2VRMnh4dzJoUEtCa0Jod1pweWRCbjlHYWNQS2U2?oc=5",
+          "title": "Live results: New York City mayor’s race Democratic primary",
+          "publisher": "PBS"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTMtd1ZpdlgybElZNFBHd1V2QzR6RnFiWjR2dlFZQWxlcEhNMm5td2dYaTl0eEpxamd5Z0p1YjZsRnBCN2R3NkdZNlZONldlYzZ4ZGNQQzBvcGdUWlZGOVNDQ3VVX1ladU56QkFla1Nwcl9ocnkzRUZ3R3pnS1dMUjZ2c1lldUp3VnRVM3dPN2d5OVhNYXAxZkF6S1k2RWc3?oc=5",
+          "title": "Why the New York Mayor’s Race Matters",
+          "publisher": "Politico"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMTNrQ25IMkVSRVNxNE1yNmhRZGY4NFR6U1hxVTBmR2FDckxJc19OV0Zza1Iza0NvUlB4cHlUZUxCS3VLNkJXbHA4MFNCLUVGOUNqT1ZTbHBlMDU2UHdMcEtxeDZ0a1R5bzMyVnNSbmU1NThqNG1QVi1JT0NibHdYU3Nn?oc=5",
+          "title": "Cuomo and Mamdani Push to Raise Turnout in ‘Jump Ball’ Mayor’s Race",
           "publisher": "The New York Times"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSTBBMkk3R0MyYkNpOVBudTdqTjBoVDkzQTZma053YzlsRUc0Q0YzNzlFNjluTF9xV3ZpUTI1MVZCNjZoR0dNSmFfV18weTFWZE9fNEp1Z014X1B2TGluMDM3bnRFLW1qZndzZjJqa1RIdnJ6YUZZcXAzT1BQdlk4Ymk2Z19HM0o3MnZaSUItYUxQcGdNanJrQUJtaEFqZDQzVmlNVGNuN05Ic0F2UlBQNEk3NjlEU0FYal90T2lNNA?oc=5",
-          "title": "Kern County officials discuss oil price changes amid Strait of Hormuz route stoppage",
-          "publisher": "KGET.com"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON05LRnM2bV82Nkc0bTRaakE1VExrZ1lMQW9HSTZZQ2xEclNwU1ptS0VQWEdzNUtYQkNIams1VDR0SEpIdEktdHVZenp3bFU5a3hKOExkZFVpWE1xWG15bGxVTHVkSlJxdWhfbElfajBkRF9JYkhjcExhc1ZLRjRSLXhLZTFqRVJfRDhmR3dCT1ZSbkpD?oc=5",
+          "title": "Some candidates focus on blocking Cuomo’s path a day before NYC’s mayoral primary",
+          "publisher": "AP News"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHkzekhtUFNkTG5ZR2RueEZmejhBR0tmVmxqMEdQZVNEc1JJdm96UWFfNmhDZExmYWdvVVB5cjR0R2lFUFJ4TDNuU21WLXY0OFdiXzZSaWdTTjcydG5iNXVPYWdaRVFuS1Y1V3EzUDBXcDNXWDJTTWcxV2k0cXhXTnFmWkdyV1FZcnVGVEFCU2lGQlBZaTA1Vg?oc=5",
-          "title": "Iran Has an Oil Card to Play. So Does the U.S.",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVWV2WTVTOFp0cDhZMFpoODlXR1JfUVREbk14WmRKQ0QwX05UU0RQWktUUmpQWEd3QjVhOFVLZ3QzLW9OYlUxcEtPVWtqNTNiVzZkelNHUDRaYkRVYWFZYnJzVEpEdzRNU2x1MkpsWC00MFgtWjFOQkZGcFc4b3U4T21GRUUwMS1TcUJjcWZMdG9QcHRlNG42elpvOE1hamJVdFBES05lRkU3WVJaUXJZMg?oc=5",
+          "title": "Nearly a quarter of NYC’s early voters were new Democratic primary participants",
+          "publisher": "Gothamist"
+        }
+      ]
+    },
+    {
+      "title": "Former astronaut Terry Virts launches Democratic bid for U.S. Senate in Texas - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTlMTlMzMzFQVU9PY3NMek5vNGYzUEd3VlZTcjNyRFlYNWo2Qkc3U1RZY3hsTnc5TjQ3bU4td05BSDlGdHRsNmhQNEM2YkVncGQtdUFseXFRYXlvS3IzME9hN1ktbTJ6SHpvdmRrbWRla1pTanltMlU4MUM1dldicm9qTzlsNUNaLVhXb2o4ckdNenFZbFVvdQ?oc=5",
+      "published": "Mon, 23 Jun 2025 15:40:45 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        15,
+        40,
+        45,
+        0,
+        174,
+        0
+      ],
+      "source": "The Texas Tribune",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTlMTlMzMzFQVU9PY3NMek5vNGYzUEd3VlZTcjNyRFlYNWo2Qkc3U1RZY3hsTnc5TjQ3bU4td05BSDlGdHRsNmhQNEM2YkVncGQtdUFseXFRYXlvS3IzME9hN1ktbTJ6SHpvdmRrbWRla1pTanltMlU4MUM1dldicm9qTzlsNUNaLVhXb2o4ckdNenFZbFVvdQ?oc=5",
+          "title": "Former astronaut Terry Virts launches Democratic bid for U.S. Senate in Texas",
+          "publisher": "The Texas Tribune"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWlVtMUJHWndsNEZLM1JHRldHQWpxOWdCbGN3MXo3Y0dMeUZxZ0FXb2JEZFhFenc1Q2JCb1pZN3F2em93U0pGd2ltcjhXRE1STFNCUndKcFpPOE1aWnAxY09oYnJuc3Vha2JoWXp3M0hwYU9BMjJfT1ZON2c0eGhhNFdPWGV3QQ?oc=5",
+          "title": "Terry Virts, Former Astronaut, Announces Texas Senate Run",
+          "publisher": "The New York Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMENBM2RzUTBoN1BqcUlQdXpNcUllRkRQbk9mbUltMXVLQmxqYy1KT0djczctSXBmcElsZmR1YTdaLTdSb0t5b1ZXNHV4cUp2OV9yclZ5WlBtaDZxaWFaSU55Q0ZqN1lUR25xVVVWWlhvVlBYZ1FWcHhnOGNvVV9NZG1jWlliLUpvWEp2bkhBdVRib0cydXBsNFRFMURwZw?oc=5",
+          "title": "Retired Houston astronaut jumps into race to take on U.S. Sen. John Cornyn",
+          "publisher": "Houston Chronicle"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaXMtMWRKQnhZXzhiR3pueHlrdHBBOGVaSmVLR2paUE5mTDN4NnBIdUxCZll2Q1pscF91X3JZWk1QOWJ0UmxUQmZxRWZ4V3Jtcm55dUFhWjRQRTZTNlFsZHN6Y1YtYkc5TjE4cWk1VzZld3dlNnlKQzFIWTFNNG5wQzBuLUt0dW4tS1JKRDJMRnNua095YVhxbFpoTjZGWXhfMVpKbER6OFVjOTd4NGVWbmhWM0Z5LTV6MUNHaExuNVdkdEF6MTE0UVVmV3Q?oc=5",
+          "title": "Former NASA astronaut Terry Virts announces campaign for Texas Senate seat",
+          "publisher": "Space"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUdJSjJmLTBvTzdSY01fUjh3dFFsX0l1ZTI1bUJxczNSTEJ4MHlEbDh5bXdlaDIwWW5HWDVERGxsejMteVVUSnhpU1V1UlJZTGNNOHZycnI2d1BiejRocHE5TTJuSTROUGFMNnhJRXhGcFZ5V244YjVaMkFkOUg2ZTJsN2NUSkhYUG1OcnZlNm10ODZSWXRWek1mekd1R002OGJ5UzNrQjhpRGs?oc=5",
+          "title": "First Democrat enters race for U.S. Senate in Texas",
+          "publisher": "Spectrum News"
+        }
+      ]
+    },
+    {
+      "title": "Lake Tahoe: 'The water was just screaming,' says witness of boat tragedy that killed eight - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93RDRWNVBqUW5nYVV5OWY2djk4MFF5bXROSEl1M2lTS29VZllWS3c2MnJRT0FjamtrNk1XR1JBMWk5b285bmFidndIcUpYcXF1QVdaRjNBa3BOQdIBX0FVX3lxTFBBUUdvYVJqUHAtOUp6cGIwTU1NTFl5QklZbHA5VVNId0ZrOEpUdFZBaVpRelJXQlFrUmpxLUVJb0dIT0VLbzdCSFRYQ2NVeTYwaXRnRFpadnVzNXpua1pj?oc=5",
+      "published": "Tue, 24 Jun 2025 02:25:44 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        2,
+        25,
+        44,
+        1,
+        175,
+        0
+      ],
+      "source": "BBC",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93RDRWNVBqUW5nYVV5OWY2djk4MFF5bXROSEl1M2lTS29VZllWS3c2MnJRT0FjamtrNk1XR1JBMWk5b285bmFidndIcUpYcXF1QVdaRjNBa3BOQdIBX0FVX3lxTFBBUUdvYVJqUHAtOUp6cGIwTU1NTFl5QklZbHA5VVNId0ZrOEpUdFZBaVpRelJXQlFrUmpxLUVJb0dIT0VLbzdCSFRYQ2NVeTYwaXRnRFpadnVzNXpua1pj?oc=5",
+          "title": "Lake Tahoe: 'The water was just screaming,' says witness of boat tragedy that killed eight",
+          "publisher": "BBC"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0c5RUJoMjZaLXp0bV9oMUtuenduSjBiVHRudmJpWWNQeUQtdWZuVGw0c2ExZHZPamtpa0x4UGtZbzVxUGJUX3BTRGtCVXNtQ202SFVVSlNDdFNsVWVaVlplZUE5aXEwcExOQ0J3cEFORGY1czhFTExWdlBYQ1FTaGhpUnJCbmxSMTQtSTNtNA?oc=5",
+          "title": "WATCH: Boats rocked by thunderstorm in South Lake Tahoe",
+          "publisher": "KCRA"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UTThwTER1bEpwTHg5cWlqTWx6MDBzaXZxZldEdFNZMW1BaC13SGJqaHdBZDItbDNQdHMyemxDcmxYZFpsd0JteG1oS3JIcWNJVnN1Y3J2OVJnNlZ2a3kteWFGd3RtVVBH0gFuQVVfeXFMT0xrcm1zNGdKRDVQbTQyVmRzTUFDQU11YkR2UmRvNVJRZW5RWFByV1d0Sm9qRTFmbElnQWtJblRBMTZ1S09ET19RS01hT3FLSDh3SnUzUzdybW9FUjZlRHNrVllvbVlBclBHMEt2d3c?oc=5",
+          "title": "Last body found after boat capsizes on Lake Tahoe in sudden storm, bringing death toll to 8",
+          "publisher": "CNN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdjFaZ0U3VlVQanpOaUtuVjlTUzhHcmVCdTlkZFBiR0ptY093a3JGSDc2NU1maVhxUTMwTHBIa1I5Z2dkYWdVc1pWUl84SzNrWkQ2WGF6WkczelJ0dVFVcnZSNGpETWU1OHpZUjRudEs4OG1SdFNBeThyLWhlMWVJSUZYaFFBQ2w3S1Iw?oc=5",
+          "title": "Six dead, two missing after multiple boats capsized on Lake Tahoe Saturday",
+          "publisher": "South Tahoe Now"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYmtUNHZPbzRLSmpMTXRBNm5fam5lMC1nMlcxLVR0bVVaY3owRUIwSldmUEJGcjFWSEZrd1dFMGN3MGtaSENCa3pTdWlwdWdQckRqOERVLWNjMUZXVHpUVXpJb3BLcGNubnpuVE5hU2tyTzZNcVE3Uk5xZC1UazlLU0JyUUhHUdIBmgFBVV95cUxQMWtfZTZpbTRTOG1UZXBSY09ndzQwd3NsLXRwaF9YOXBJVzFHLVFYamQtVkhJTVVvZ05hdUtYUTJiZUg5VzF0ZDl0ZG1XdEM0Vk5wTlYyNnBRS05CSEJZTU8zOVZETUY1YnEzLVRHM09kSTFhejlvcFJiUHhnbExKaTFDRDhjVVZ2VXpuUkNXSk9hUTZqNGlmLW5R?oc=5",
+          "title": "All Tahoe boating accident victims accounted for",
+          "publisher": "KOLO | 8 News Now"
+        }
+      ]
+    },
+    {
+      "title": "Watch These Tesla Levels as Stock Soars Following Robotaxi Service Rollout - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzlNZjM0OEtCeF9sTklaNXNwSXBvUkFOb0hOb2FBSG04d1A0ZlhpNlBwRHpBYVZCdmhadFNDenVqRGlZbzJWRTBlZ053VDZLRGNmeUtibFJ6STZ3Z1BxOEFISElZZFBEbVBUcUNINVg5SURyemwwNk9hUzBLd1M3dmdld3dvd21sM2phWHR1Z2pzN3cxV1VyVmVYUHlRMzZjZXlxa3pxMFVmOVByYTQ2WVZR?oc=5",
+      "published": "Tue, 24 Jun 2025 02:23:52 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        2,
+        23,
+        52,
+        1,
+        175,
+        0
+      ],
+      "source": "Investopedia",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzlNZjM0OEtCeF9sTklaNXNwSXBvUkFOb0hOb2FBSG04d1A0ZlhpNlBwRHpBYVZCdmhadFNDenVqRGlZbzJWRTBlZ053VDZLRGNmeUtibFJ6STZ3Z1BxOEFISElZZFBEbVBUcUNINVg5SURyemwwNk9hUzBLd1M3dmdld3dvd21sM2phWHR1Z2pzN3cxV1VyVmVYUHlRMzZjZXlxa3pxMFVmOVByYTQ2WVZR?oc=5",
+          "title": "Watch These Tesla Levels as Stock Soars Following Robotaxi Service Rollout",
+          "publisher": "Investopedia"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMG5nUnhkbExURHJsc1VQVV9rRWxrT0M5Q1NfX2UxNFBHN2l5c2lvVzhkQXZqSUJ6X0hfUFl6NVJYS1REcjlISHVNX2cxVlZWc3dROGhqM3RZVTVjV1pFMi05VEhrUFVpVXNiM1VGOTJIdXlMSVRjV2Q1RExoUDdRcDdDM0xFWHZSRW1yRFZfY0pGdWNsTkMwVF9HeXpHSDFuTmxzcGxEaWRTUdIBrwFBVV95cUxPSldNQlVBelF5dFRVdVQ5ZUcwcm40cldlSUxTMHctQ2tjVE9COERJQS1XNDBMWGs0YXh4OHBhSlBzbEVjamcyd2ZXcFZqOHpWNmt6a09uYXpfWE5uYUpISUl0V2ZmdGt6eVBFQ2NlenBPZExtekxTRDQxTUp6bTB2YWlQRXNrR2tYdWEyTVNybkozMDl4Q0Itd1JEaWRpQmwyTGRadGlwX04wRWIyV3Nn?oc=5",
+          "title": "Tesla robotaxi incidents caught on camera in Austin draw regulators' attention",
+          "publisher": "CNBC"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMkJQOWFUM2hPTWVyYXhBSVBERlB1NzBWdlE4bjAxNjBCb2NBZlRBTUd0Vk9uOFRua09SZGVQZDk5UFpadW9KMTdBS0lTZUNyZ1oxZXdHT3FuTjB2Y0tFQUFkS1NObFBDTnlGVDdwUmwyTzVOS2RGaEcxc1RlakpXN25Eai04VTBIQVhWNDVTWk5IU2d5cV9pNDV5Q1BQejg1ZmlyeE5ETzJEVkZqN0xmemRodVQ3aDFiV3V0bEgwVFNCZGFrbzZ6b1RB?oc=5",
+          "title": "Tesla robotaxis begin rolling in Austin, but only for a select few",
+          "publisher": "Austin American-Statesman"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVUtaFh0VUo1SU0tN2IzNGJlYXNURnFxbFlWa011OUtjcDk3NXJwd1M1S2VGdDBkVzY3UThqcDhrVGhCa2VFblc2WUNZbnZqNDdoSUpHcU5fX0tKTHV2N3Nqbm83SUlzdzI0NlA5Z2UyZlhjMEwwM29oTFJ5QVZyNTVjME03RVY3a29ybGtmNWd1N2dycE9sYm1GcDI4SXNFSXdIZHBiamQ1SHF6eURCeEZMY0N3NDg?oc=5",
+          "title": "Would you hail a 'robotaxi'? Musk bets cabs will give Tesla a lift after boycotts and sales plunge",
+          "publisher": "AP News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT25jQmoxOVpxNVIycFBCOWJ4b2ZteE5OUHVESV96NGRZTEhqMk5RTnpiOHFmVGg1RUFYcUNKT0RhR2JHWG5QWFZ1Q3k2QWdKMUFrYzdqOThOR0ZBWThHSzdkakdfX19yczZleFF5STM5Nk5LRWJJX1N2Y2tMS2RBQnhRckw4bjNvMVZFemp5NFlXcG0yQ1E?oc=5",
+          "title": "Tesla asks NHTSA to hide its response to Robotaxi questions",
+          "publisher": "Electrek"
+        }
+      ]
+    },
+    {
+      "title": "FTC greenlights Omnicom-Interpublic deal, bars coordination over political content - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNVJrMXlGWHlGdFJ4a1R6WEZjUTVpNHBZVjFYajBOWDVGVEpBX3FyRW5tcm1zS3BRZzIzRk9lLXdCenJ2ZDdBbTNuVXBVYk5SSmg0WnNybnNYZk5QNTgyWDB2M2NOZlVuVTJnZC1fellDcmEzLUNKZDY5NmpWZjdubW9EVWxHWndQRVhwYTlsRG50bXZub05kS25zMlp2MzltNEFlNVFOdVBkcDNtN3FHdEtmaFdUSm5xQ0RybXR4SV9IcFo4MTF3R3RLNA?oc=5",
+      "published": "Mon, 23 Jun 2025 20:49:27 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        20,
+        49,
+        27,
+        0,
+        174,
+        0
+      ],
+      "source": "Reuters",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNVJrMXlGWHlGdFJ4a1R6WEZjUTVpNHBZVjFYajBOWDVGVEpBX3FyRW5tcm1zS3BRZzIzRk9lLXdCenJ2ZDdBbTNuVXBVYk5SSmg0WnNybnNYZk5QNTgyWDB2M2NOZlVuVTJnZC1fellDcmEzLUNKZDY5NmpWZjdubW9EVWxHWndQRVhwYTlsRG50bXZub05kS25zMlp2MzltNEFlNVFOdVBkcDNtN3FHdEtmaFdUSm5xQ0RybXR4SV9IcFo4MTF3R3RLNA?oc=5",
+          "title": "FTC greenlights Omnicom-Interpublic deal, bars coordination over political content",
+          "publisher": "Reuters"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ3R3U085OVpoeWoyZlNCa3Z4VldiMGFHZGcxXzlQSjJIVEVLMHBBbE5fNWljNG9jblBWQ29wWWFXM3Jja3pDVGwzZjlWeWJXVGs2NDFsZU1pbElQOTBrQk1Ldm1zZHBhSFMwclpnZkhzbmxqRTIzUUNIR0xZNEpXOC1MZDNUUQ?oc=5",
+          "title": "Omnicom and Interpublic, Seeking Merger, Agree to FTC’s No-Boycott Deal",
+          "publisher": "The New York Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeTZTd19XaE8tX3lpZVVjamtyc01acTY4azFydGtndW0xa2hDMm1IZl9yamhxcGQtVjJ0ZVdVWGxxSHFjTjFfMk81UnBKODhtRUZ5SVd1QjJxTUZ4Z0VJZ3o0VTcteXB5NTVEaHpycXoxXzYtSVFXdEpvVUxmY0dCM242R01ScXlCX3hKYlpqNnF3MzB5V3JWWlFrUFVtR1N6bkJFTE55eVZVTlF4RGM1Tjhta0VqdjkybGF0R1pB?oc=5",
+          "title": "FTC Approves Omnicom-IPG Merger After Ad Giants Pledge Not to Boycott Over Politics",
           "publisher": "WSJ"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1BiNVA1Ni0tclUwek9UQVRNaVhMWThKQ3hMOURFajdVeW1JTmhkbVZ6YTQ5LU5mSlJBSDVxdS03VVQ0bk5aOWc4aC04ckVZdGJNLUh6dTZwdm1YUm5PenZQWjFHMktVUWxrbmlSYWVBazM3ZGo2c3c1SU9nQzlLOWVLTldZd2x5d2w4Zy1FMWRFMDY4MkJsWHVvUVExZmRaRFHSAacBQVVfeXFMT2lXNFgwWnVQeUFKcFA4NmpGWnVaYXVXMTk1QTlnVURpUEV2LVpIWTZ0YUNDakxaWXItMElyMVdvSDJxaHJyUWVmNEFidkE0RzE0SkVNYmZqaDBoNzh0Y0p3cEF3eklJR3c5a0FXUnNSRzVkM0JPUkMxT2R6MFBib2FqX2UwdTNKd2xQbHA1dktiSDhoRTlyNU4yQ0NybGJvZ29kOUpfUnM?oc=5",
-          "title": "What does the widening military conflict in Iran mean for oil prices? Here's what the experts say.",
-          "publisher": "CBS News"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWWhKMkM4ZFlhbFluZ1Z5eVJwOG9oSXVjcGxaaDIyR0IzbW1Kczh0QzJ6VmJJYklrZUpia3NUZUUtQXRXckFON3NZRUxpOUJfZ2NxYWZSTC1ZT19YNE9RcHBxMEZSaVMtc0RhVW5hQVA2bjJfek1XNjlEeGhrWGVfLTJtLXl6VHc?oc=5",
+          "title": "FTC approves $13.5bn advertising merger but bars coordination over political content",
+          "publisher": "The Guardian"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzNjNfT2x1THFpeWFQMDYtNGhOcV9XYUNuRk9tVHVUYW1uSmhUOVpZamoyYnFXWnJJTjVTNldnQUVfZDI0MDF3a1FOTnhxMFZJOHU5Q21aRFU0bDNlSFN2MDZGVGs3elJ1QkUzRG1UbHpGclczLXlkOGFzRQ?oc=5",
+          "title": "Omnicom-IPG deal clears FTC antitrust review",
+          "publisher": "Ad Age"
         }
       ]
     },
@@ -487,6 +531,11 @@
           "publisher": "Los Angeles Times"
         },
         {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHhCd3d3dWhwNjJyemZpMFMyMkhRQ1FIWWJPUnlESzAtU0V0MGM3RkwwTTBDd0U0Z1FPMFUtOTNNd05qMjBIVF84ZFRxQkxGdmRBMVZnZG5LOWV0azc3Z19TVEJvSW1EaVpDeWJvZGZJN3phalZNenY4N3lMd3o5UzFxZWE?oc=5",
+          "title": "Bezos ‘forced to move Venice wedding party’",
+          "publisher": "Yahoo"
+        },
+        {
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiamphcGV2ZE9KUzZMSlZuZVE2LXVYTjRaYTg4RjNzaExXWndfX2pVczZMbjd5VU0yZ1BJcGRtWnFyaTQ3Qy1KT0xndTE5b19JQnBPOXNNU2ZyY1VZMElBaTBrTkxnWU1LdXVXRzFFVkpVbUx5b0xiQktkQQ?oc=5",
           "title": "Jeff Bezos and Lauren Sánchez's Wedding: Inside the Venue, Guest List and More",
           "publisher": "People.com"
@@ -497,170 +546,51 @@
           "publisher": "CNN"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMGhHU2g3UEhPMmdNa09KZ1FOR0Z0OERZUVo4NVA4enpDdURPVEtfeGNvUlhkWjB2YjJJbUdGdGNwQ0VOMmNNTVc1TTc1M2E5cU5FcGFkT2t4a3l4NXlaQXNaYXJlQ2V1dzU1Z2tDc05PazJZZF8wSzA0NTV4VUJqWnAwZmVNUGVwNzNBUG52QVphdk5uQXNJWGNn?oc=5",
-          "title": "What to know about Jeff Bezos' upcoming Venice wedding — and the protests against it",
-          "publisher": "NPR"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObm55VmtaSXlscUNHeFZFYnJLXzVlS1NfTlVIcjNGbl84dmo1c0hndXY1V3V0LWxIdWJ1a3FKVVE3Q2xGWkl6b1hkMDNvNUFnM05oSGNhdnhHUUI1NHpwcy1adnhSYzU3NHVUT210MFhuWTYtZy1FU0lKUkN1cDdwdjVENE8tR3Y2Q3VVeGl6ZjdXSllMXzVnc1hmdGRLVFM2NXF1bU93NjRtb2dI0gGyAUFVX3lxTE5fWmFJeDk3emNDZC00SVdSYmt0T3J6WmdLWnNnNDBLbFNnaTRyS0RrdnJKelZvUno5NHFzdU84R2NMYXQ2YTJXVG94UGhLR3htMlZIYWp1RTFrQm9XVEF0WWFWeG13MjNrMWk0TGl6YmEyTGViZWxiUmRod01GcXQ1a3dCcWRPRnpYZnUxZHZndF9qYjByaHNvR09OZnBSLXAxQWFFWDEtQndleFFiNW1xYWc?oc=5",
-          "title": "Jeff Bezos and Lauren Sánchez get steamy at foam party aboard $500M superyacht",
-          "publisher": "Fox News"
-        }
-      ]
-    },
-    {
-      "title": "US safety agency contacts Tesla on robotaxi issues seen in online videos - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb0VUYkNOZVp2TWtmX2oxTG1UWEZTblF2bFFUZU1ScVJ1OTBZY0N1eGx0ZlVENzhUdlZ2RFBBNnExN1R2Uks1clZXekI4VHN0OTlBTDVORFhXVzZtejAzQlNfOGg3NjVuZTZVeHhteWdpbkxCLW05NGZFSGs2T05MeGg1Q2t4OW9nTkRKbzVhdmpvc2lPS3V2aVpTb0hxMkVKdXRDcHdGSllYSmZVczRSa2dkNlRaaUs5Mm5ONnNVOGdtUTc3U3R4Yl9YcUR2MnhOalBGV3QyRGtXMDVw?oc=5",
-      "published": "Mon, 23 Jun 2025 23:13:58 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        23,
-        13,
-        58,
-        0,
-        174,
-        0
-      ],
-      "source": "Reuters",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb0VUYkNOZVp2TWtmX2oxTG1UWEZTblF2bFFUZU1ScVJ1OTBZY0N1eGx0ZlVENzhUdlZ2RFBBNnExN1R2Uks1clZXekI4VHN0OTlBTDVORFhXVzZtejAzQlNfOGg3NjVuZTZVeHhteWdpbkxCLW05NGZFSGs2T05MeGg1Q2t4OW9nTkRKbzVhdmpvc2lPS3V2aVpTb0hxMkVKdXRDcHdGSllYSmZVczRSa2dkNlRaaUs5Mm5ONnNVOGdtUTc3U3R4Yl9YcUR2MnhOalBGV3QyRGtXMDVw?oc=5",
-          "title": "US safety agency contacts Tesla on robotaxi issues seen in online videos",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV1Y3aHM3S20yaDY5cU1jVGhKc0NuQkxzQTZ3MC1ocS05NUtacG1QVU1UbzBxRHVBenQyZXpsQTFZUWlDdGZnVGdvd3JzSU1CaGJiT3VhQ3VzT1VQMVdyMEdMWUZWTTdZbC0xTjN0OFRpUGFRUDZfUXlVb2pYS2d4MXpHUUVnZW9DZFl1cl9jMFJaYTljbEhlMk1Eb2Q5MEduQk9SSm94N0xqVVZUTVRyMmNQRnhsYkE?oc=5",
+          "title": "Greenpeace joins protests against gala Bezos wedding in Venice",
           "publisher": "Reuters"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMG5nUnhkbExURHJsc1VQVV9rRWxrT0M5Q1NfX2UxNFBHN2l5c2lvVzhkQXZqSUJ6X0hfUFl6NVJYS1REcjlISHVNX2cxVlZWc3dROGhqM3RZVTVjV1pFMi05VEhrUFVpVXNiM1VGOTJIdXlMSVRjV2Q1RExoUDdRcDdDM0xFWHZSRW1yRFZfY0pGdWNsTkMwVF9HeXpHSDFuTmxzcGxEaWRTUdIBrwFBVV95cUxPSldNQlVBelF5dFRVdVQ5ZUcwcm40cldlSUxTMHctQ2tjVE9COERJQS1XNDBMWGs0YXh4OHBhSlBzbEVjamcyd2ZXcFZqOHpWNmt6a09uYXpfWE5uYUpISUl0V2ZmdGt6eVBFQ2NlenBPZExtekxTRDQxTUp6bTB2YWlQRXNrR2tYdWEyTVNybkozMDl4Q0Itd1JEaWRpQmwyTGRadGlwX04wRWIyV3Nn?oc=5",
-          "title": "Tesla robotaxi incidents caught on camera in Austin draw regulators' attention",
-          "publisher": "CNBC"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGpXSHNOdmI5aHhIbXRQdkcyaUZlcTlETGozYmxUZHBLLU9VRUFleWRLRDBsbm9kUEFpRXRYbHowZWdIbU1NdnBQTGdPVmpodTdaajE4c2xLajBFcXNyeGJEbU1zV0lIWWpab3ZEdGMyUkRkUmNoSFhoV2tMU2JSQUx3Q0s0YnpoNXAxTEdNNE8tcFZzZU15eEtESGMtNEMtNVBNdjhNbUQ?oc=5",
-          "title": "Tesla robotaxi safety called into question after frightening video",
-          "publisher": "TheStreet"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMkJQOWFUM2hPTWVyYXhBSVBERlB1NzBWdlE4bjAxNjBCb2NBZlRBTUd0Vk9uOFRua09SZGVQZDk5UFpadW9KMTdBS0lTZUNyZ1oxZXdHT3FuTjB2Y0tFQUFkS1NObFBDTnlGVDdwUmwyTzVOS2RGaEcxc1RlakpXN25Eai04VTBIQVhWNDVTWk5IU2d5cV9pNDV5Q1BQejg1ZmlyeE5ETzJEVkZqN0xmemRodVQ3aDFiV3V0bEgwVFNCZGFrbzZ6b1RB?oc=5",
-          "title": "Tesla robotaxis begin rolling in Austin, but only for a select few",
-          "publisher": "Austin American-Statesman"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVUtaFh0VUo1SU0tN2IzNGJlYXNURnFxbFlWa011OUtjcDk3NXJwd1M1S2VGdDBkVzY3UThqcDhrVGhCa2VFblc2WUNZbnZqNDdoSUpHcU5fX0tKTHV2N3Nqbm83SUlzdzI0NlA5Z2UyZlhjMEwwM29oTFJ5QVZyNTVjME03RVY3a29ybGtmNWd1N2dycE9sYm1GcDI4SXNFSXdIZHBiamQ1SHF6eURCeEZMY0N3NDg?oc=5",
-          "title": "Would you hail a 'robotaxi'? Musk bets cabs will give Tesla a lift after boycotts and sales plunge",
-          "publisher": "AP News"
         }
       ]
     },
     {
-      "title": "Home sales just posted their slowest May in 16 years - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTB6M19IOWlEeW9aZ0QzVk5TbHlRbU1Sc01zczU1XzhEZ21Ya3pYVll6a1pnMTc3YmhuV1VjQjJ1emtVQ0hkYTBsdkRaNENVLUphelFfYjZabFlkMHFXaFdWaXBmbzJXSHZtN1hDdlhXc2RoY2dva0VYMDJCV3FZVjFBOEdoazRmc2c?oc=5",
-      "published": "Mon, 23 Jun 2025 14:37:34 GMT",
+      "title": "Italy’s Monte dei Paschi sale sparks EU scrutiny after global investors sidelined - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmSHN5RVZIUEJ0MVptOExuaW95M1FvN1d1RkFFeGxsVlpON1B3S2NfeFRVR3NfUmY0ZDVabTlxUjFCdU1pNTE4eGkwQmptZ0FnZTN5TTVHOE95V1FKY3U0NGRKVDZYVGNBQ0pDbWZuNnI?oc=5",
+      "published": "Tue, 24 Jun 2025 04:00:10 GMT",
       "published_parsed": [
         2025,
         6,
-        23,
-        14,
-        37,
-        34,
+        24,
+        4,
         0,
-        174,
+        10,
+        1,
+        175,
         0
       ],
-      "source": "NPR",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTB6M19IOWlEeW9aZ0QzVk5TbHlRbU1Sc01zczU1XzhEZ21Ya3pYVll6a1pnMTc3YmhuV1VjQjJ1emtVQ0hkYTBsdkRaNENVLUphelFfYjZabFlkMHFXaFdWaXBmbzJXSHZtN1hDdlhXc2RoY2dva0VYMDJCV3FZVjFBOEdoazRmc2c?oc=5",
-          "title": "Home sales just posted their slowest May in 16 years",
-          "publisher": "NPR"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemRJRlNUZ2w4Q0NscjVDOUFXcy1MemM1MkhWSk4xMjAzOHJ3akVpdzBHZEFsXzRjUDgtREZrbVRza3hzZlBDcjFUT0Z3cUZMRFBVRGtveWRiRkpFbFk3T2FHakFoMXZ0aXNaSlMtYnZLbjJyU1JZQkpIOEU5bE9hbmJUcTZURXIzY3dnclN3M0VWbV9UdHBEN1pyTGVqTXlMNTNqZXktY0VMZXJNTFBqU2l3RQ?oc=5",
-          "title": "Housing market map: Zillow just released its updated home price forecast for 400-plus housing markets",
-          "publisher": "Fast Company"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWlZaYnBHMDVHOFdVcUVuVUVmZm1rbW5idGI3Z0UzcmlIQWN6U1ZHWUVmM0hhN1RWV3d0ci1FSEltRkc1R01TY1hqaGRUWEcxd3VPRGdYOXB4TXU0RGZTOWREemtzMGJWV2xMejhtMVFNeUdsV2RFWjBvcUxRM1dWZV94cw?oc=5",
-          "title": "New Real-Estate Math: Half a Million More Sellers Than Buyers",
-          "publisher": "WSJ"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYUNQc1lvbmxGUWV3NkRpVVZzck1CZ2stVXpXQXlPMFNxVF9lOExWUEVmNUZLaGNMUGJDbVM4YnJWb3JTRUF6anoyTVR6c0VoSHc3ZHJ4Zld6bFc3Y2w2czJjWEJ5cUg1X1ljdlNUSmVGcWlKSXptT3Ricmdpa2M3UnpBTHM1TEJhYWo3M0FWLVZkSFlTT05weWFwM1ZFZ0tjRXFGbDhYV0EybERzR1ZJOF9Zb2gtWldYTHI40gFWQVVfeXFMTmVFaWlBdWlnOTR0M0RZRjdtMDBDdFE1NUtOSUtQUWNzNVE0OEtBTng4WS1KanBmLV9ldWZTdG9DQzNVSmdscDI4UXZtNE82ZG8tUmt6OHc?oc=5",
-          "title": "May home sales increase very slightly, but prices hit another record high",
-          "publisher": "NBC News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeXJFYmFFU1Q3ZnNUelhRZVZ2R2ctWUVlMnp0UHUwTHBnbElwUEpyT0dKRk9ra2p1UWc1aFBVSmVpY1ZBczFqRTNMd1praWRMWWVZZVcyTmxwMjlqQW1iY01NV3BpcmZfTlZjYUxLUnl5c3pjdTBBOXFWTEJfMGtrSVZYSXZJYnZQMWkyRE42UjZmLVBjVEFjOWhSSXNfaTNxcHZCV2wwdTJlbkNPM29NdU00WExnbElvV2Nod0dn?oc=5",
-          "title": "Home sales remain sluggish as some ‘stubborn sellers’ refuse to give in on price",
-          "publisher": "MarketWatch"
-        }
-      ]
+      "source": "Financial Times",
+      "sub_articles": []
     },
     {
-      "title": "Trump’s FTC will approve an ad merger — with a gift to Elon Musk’s X - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXdCbUhrMUtLdHFMeVRSUEJQMW5aLTBneENoa2lMMWcwWTlzSjcyRWRGaEpRSWVwTkx6QTNqbU1vdzVubHBqSnVqanpYd19mblhvRVdoNXQxZ0FHekdVWEw4cWtRdjRrT1NNV2tPUjNvT2hsVWZpdVdRUFg3UndsY3p6ZWxtQU81Tk5DQzRna3hkaVZLdzljd3JXTVVWOUcxNFF6MjJGR0ROUmtXNkZJOE9MMA?oc=5",
-      "published": "Mon, 23 Jun 2025 20:48:09 GMT",
+      "title": "Reserve the Samsung Z Flip 7 and Z Fold 7 Smartphones Ahead of Galaxy Unpacked 2025 - IGN",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVR5V2pxQjJzRk1ySmNlVWoxdjRzVFJDaDhvUHJRS2JQM0JSbHBuTmpiUFZQR1ZsOThWcTktRExlRTBsMmMtazFBZmJUZ21QOTRQQmZTYVR0YklfOC01WFI2cGluNVRQRHRqZlN5ZkhoVDJPM2VsNXVTUHhuQThVR1hoZTNHQU1PR0pnTE5EYlFBN1U3ZkZmbDQxRTU0SEtRUlVXOWZVenktTnFQc0RMbWRB?oc=5",
+      "published": "Tue, 24 Jun 2025 01:32:31 GMT",
       "published_parsed": [
         2025,
         6,
-        23,
-        20,
-        48,
-        9,
-        0,
-        174,
+        24,
+        1,
+        32,
+        31,
+        1,
+        175,
         0
       ],
-      "source": "The Verge",
+      "source": "IGN",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXdCbUhrMUtLdHFMeVRSUEJQMW5aLTBneENoa2lMMWcwWTlzSjcyRWRGaEpRSWVwTkx6QTNqbU1vdzVubHBqSnVqanpYd19mblhvRVdoNXQxZ0FHekdVWEw4cWtRdjRrT1NNV2tPUjNvT2hsVWZpdVdRUFg3UndsY3p6ZWxtQU81Tk5DQzRna3hkaVZLdzljd3JXTVVWOUcxNFF6MjJGR0ROUmtXNkZJOE9MMA?oc=5",
-          "title": "Trump’s FTC will approve an ad merger — with a gift to Elon Musk’s X",
-          "publisher": "The Verge"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ3R3U085OVpoeWoyZlNCa3Z4VldiMGFHZGcxXzlQSjJIVEVLMHBBbE5fNWljNG9jblBWQ29wWWFXM3Jja3pDVGwzZjlWeWJXVGs2NDFsZU1pbElQOTBrQk1Ldm1zZHBhSFMwclpnZkhzbmxqRTIzUUNIR0xZNEpXOC1MZDNUUQ?oc=5",
-          "title": "Ad Giants, Seeking Merger, Agree to F.T.C.’s No-Boycott Deal",
-          "publisher": "The New York Times"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWWhKMkM4ZFlhbFluZ1Z5eVJwOG9oSXVjcGxaaDIyR0IzbW1Kczh0QzJ6VmJJYklrZUpia3NUZUUtQXRXckFON3NZRUxpOUJfZ2NxYWZSTC1ZT19YNE9RcHBxMEZSaVMtc0RhVW5hQVA2bjJfek1XNjlEeGhrWGVfLTJtLXl6VHc?oc=5",
-          "title": "FTC approves $13.5bn advertising merger but bars coordination over political content",
-          "publisher": "The Guardian"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KV2dTWk12b091SVgzWEViLVlyOWtQUHhRR0Ntd2FPSE52M2I1b2dhYUo2ajNiMjNCdHJNakJWb0FuSU9QeVl5ZnJsdEFCaFVFOThZWWZZdG85MkxpSlNPVkNad05fdnVZZlNSdzJHMEVOZw?oc=5",
-          "title": "FTC approves Omnicom, IPG merger but says they can't coordinate to bar ads based on politics",
-          "publisher": "Axios"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzNjNfT2x1THFpeWFQMDYtNGhOcV9XYUNuRk9tVHVUYW1uSmhUOVpZamoyYnFXWnJJTjVTNldnQUVfZDI0MDF3a1FOTnhxMFZJOHU5Q21aRFU0bDNlSFN2MDZGVGs3elJ1QkUzRG1UbHpGclczLXlkOGFzRQ?oc=5",
-          "title": "Omnicom-IPG deal clears FTC antitrust review",
-          "publisher": "Ad Age"
-        }
-      ]
-    },
-    {
-      "title": "Galaxy Z Fold 7 to launch on July 9 at Samsung Unpacked event - The Shortcut | Matt Swider",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yQzhPVV9iNUFLUjJtVFY0eWkzX2dRNXNsXzZmRWhtSjRCTF9aek5fWWxXNXNoZmtSZEZUU3BaMjdnSjE1YUY4dUFMMGZrTFdFRWlPY0NvaWRCTkFBOFFrbHN6bDAxZjk4QnViaw?oc=5",
-      "published": "Mon, 23 Jun 2025 23:00:42 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        23,
-        0,
-        42,
-        0,
-        174,
-        0
-      ],
-      "source": "The Shortcut | Matt Swider",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yQzhPVV9iNUFLUjJtVFY0eWkzX2dRNXNsXzZmRWhtSjRCTF9aek5fWWxXNXNoZmtSZEZUU3BaMjdnSjE1YUY4dUFMMGZrTFdFRWlPY0NvaWRCTkFBOFFrbHN6bDAxZjk4QnViaw?oc=5",
-          "title": "Galaxy Z Fold 7 to launch on July 9 at Samsung Unpacked event",
-          "publisher": "The Shortcut | Matt Swider"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVR5V2pxQjJzRk1ySmNlVWoxdjRzVFJDaDhvUHJRS2JQM0JSbHBuTmpiUFZQR1ZsOThWcTktRExlRTBsMmMtazFBZmJUZ21QOTRQQmZTYVR0YklfOC01WFI2cGluNVRQRHRqZlN5ZkhoVDJPM2VsNXVTUHhuQThVR1hoZTNHQU1PR0pnTE5EYlFBN1U3ZkZmbDQxRTU0SEtRUlVXOWZVenktTnFQc0RMbWRB?oc=5",
+          "title": "Reserve the Samsung Z Flip 7 and Z Fold 7 Smartphones Ahead of Galaxy Unpacked 2025",
+          "publisher": "IGN"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdjctNVVRdlVQc090Z1JBRkFzQ0NEcWVrT3JoSzZFTWU4SlRMQU9IQ09HSWZteDdyeENFQWwxLVBKNmpZaXdMdUtiNW1YeElZX2FzUHk3dmZrTGQtMi1hRTlMb01kZll1Mlk3alJxdU5pNEZBczZwb1czdVk5V094MktoSmZZdDhNUFBCYmtUWU1ucFUtSXl5SWVGYkRJeXpxblBfUGNYeFJWUVNu?oc=5",
@@ -668,19 +598,19 @@
           "publisher": "Samsung Newsroom"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSEdmTENfR3Atcm5HZFJkQXVZRnZTeG5RazRrOHN5UjUwWC1taHNQQ0xaOWM0dHgxMENIOXU5U2tRNlRMbE9DVzYxTGdCdEp0b2Y3S1pBTFowVXlZemw1UThHNEFlN2hjdHpJdW5YeXl4X0JyeGdHUXBhcENhMjBwU2ZuRjB0T2xnYkc3U0J5SjU?oc=5",
-          "title": "Samsung may soon charge a monthly fee for Galaxy AI on its phones",
-          "publisher": "Boy Genius Report"
-        },
-        {
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMmNCNlRfcjZ2OG10UHE3LWlpdk85aTFVXzQxZlQzNng4OE9ydUlQYzNHbWI5YzVXRWZ5ZU9NRkxGWTN0bVpWa1VMYnJFWUdIRkp4bllWSnVocW1Wdk81N0NtWUM2bkp0eTlCV3pyWVBiTUNYT1U3SmVYMGVoUHJrV0dSc3FLdW1CeVpiRDBXSE01aVY5dktPVlFHZllUQktSbGJYMXBsM250R2N1VkpRNVVJdDluNTJQcUhtYU5UMTlJV2RLYldV?oc=5",
           "title": "Samsung Is Poised to Unveil Latest Folding Smartphones on July 9",
           "publisher": "Bloomberg.com"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNTlIeWFXZHI3cE16emhyVVR6Q18zaWx4OGNNb3pXNFQ0MEJzTEVXVDB1VzEtMkFjbEF4TUZhWVZhMVl5UW1GX3E4ZkRwNXJ6RFMyMFZXRUh2MC1LUE9oWW9VWUVDZk9wWkFLNU54alF4dUxTMHZLQWo2cE5saC1LUThNMXRJUdIBiwFBVV95cUxON0UzSEIxUkJONGRZOUhhRDFzNUVWb3Z3a1lCbG9EV2pwVEt2cldsTDNaWXdsclNVRW9qVWxuaWd4QU5qSldJT05WQ1JLUlotRjg4eG5wWXhOR0FYZGFDSlYzTXhOU0JRWXl4WHdibjRZLURHNDRsanFjVEZDQWE2Z3pab1hVOWkwOTBz?oc=5",
-          "title": "Galaxy Z Fold 7 Reservations Popping Off",
-          "publisher": "Droid Life"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNclpqS3NjN3VsNmcyYTZuMW9kaHJfcVY1UEZGT250SjhsbEV3QUxwd0I0WlNycF84SWpKaHlsT1BKM0hCUkJoSHJjQW1TWEZsU0k3cTA0SmI5QTAzU05VdEdLMjkwNlJtcHUwSnZ6LTlXZ1p1NG1BdFR1cHNHWG5xZmJTQVoycGV5LUo5a29xT3lhem9MUENVWnhQV2dVd2hIbDNFeHNNME9LVUpsU1o5NzdPNThZaW5tRmx3QTJ1UQ?oc=5",
+          "title": "Samsung offers enticing preorder deal for new Galaxy foldable phones ahead of July Unpacked",
+          "publisher": "ZDNET"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTTVo2dWJLMGl2MTA5THVaZnBYSlZ3eFliTmo5NHRMalJTYUhqbUpES1I5WGJUVUdWNVhBM3RRRU9hc29VRzI5X3hlWHpQdjc4VlA0X1hTNlF1NmtkZmN3dzNxMUZxZWpaSHpjNXBzamJaYkVsY2NQOEJONGo2Zw?oc=5",
+          "title": "Samsung confirms Unpacked for early July",
+          "publisher": "The Verge"
         }
       ]
     },
@@ -729,15 +659,103 @@
       ]
     },
     {
-      "title": "New leak hints at vapor chamber cooling coming to iPhone 17 Pro [image] - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1I1SWRWZ0Y4bkVKXzJvaDhya3o2QUw0WmVHdm5aM096SGVyZ1E4c0ZVTkZac1AzcFk1c1Q0bjFXVFlfSlBjaTlnUWdtX3cwNXZvZmVoQy1HUmNGeFFmVXMzaDd2QzVFd3c2cnA2NjFwVDhnTXBBRGVXVFZaelpvSUpabU1pekNQQ3RiMVhfbDNfNWN6OS1wdXA0RQ?oc=5",
-      "published": "Mon, 23 Jun 2025 20:47:00 GMT",
+      "title": "Mark Zuckerberg made the bold choice to wear a $100,000 Purple colored watch while announcing Meta’s new Oakley Smart Glasses - Luxurylaunches",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbVVlWjQ4VUNpWk1ILUxoc2NkczBEQUxWMk1RQ0I3TFdmd3NSd09IYXZLeE44ek1oU0hjZ2F4Nlk2anBWZEZWeHFrMFVvX1cwUGVhbzJOckIxYTlxTFBqZTBWU1pOM1pKeHFnaWtvS0MyU01VeGxrSl9iUEI3elVRaXJrT3FCY1BhLUdPLXFUdUlrWVVRbWxOMFVrXzNGbER2Vno2X0tfeWo?oc=5",
+      "published": "Sun, 22 Jun 2025 10:05:13 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        22,
+        10,
+        5,
+        13,
+        6,
+        173,
+        0
+      ],
+      "source": "Luxurylaunches",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbVVlWjQ4VUNpWk1ILUxoc2NkczBEQUxWMk1RQ0I3TFdmd3NSd09IYXZLeE44ek1oU0hjZ2F4Nlk2anBWZEZWeHFrMFVvX1cwUGVhbzJOckIxYTlxTFBqZTBWU1pOM1pKeHFnaWtvS0MyU01VeGxrSl9iUEI3elVRaXJrT3FCY1BhLUdPLXFUdUlrWVVRbWxOMFVrXzNGbER2Vno2X0tfeWo?oc=5",
+          "title": "Mark Zuckerberg made the bold choice to wear a $100,000 Purple colored watch while announcing Meta’s new Oakley Smart Glasses",
+          "publisher": "Luxurylaunches"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUtWbWtsejd1RUtIaWw4NUQzMTdzZWxoRWw4a3dJV1dDeDZfam42OWw1QXVxUU1xdHBvbEJfZ1NEMVhaYXZGaF9RM0REQ0VaN0RQdTlBZlhzbDhpSGZia1kyR3ptZ0RaM0RlVl9LZlJfeTFCeEF4Z0t1cFpTWm9qWFlkY0ZCd29JWHpZX1AzTzV6cFdUQ1k0SGdZSlFIODdoeWp3MFR0dG43ek3SAbABQVVfeXFMUGNyakd6ODRYRHFkUlJTcnZmMnZ4ZFZuaGVkLXBNYnBZZUgyUXhTLTNEcmh1NXFieGp4UzBFb0QwSG9sYVdjT0I0YkhCNVFNc0ktZ0pqSmtNSE40cFBWbnVRQUdBNGp6Ny1JaGo0R1JCcUo2Ym9Cb1hrTFhOaGFfTHJqQnZ1WlhqSkZROGNGOFlmVm9QWloyajJSMEg1YzF0X01jakNFZ1Y0RmdIU3FpUXg?oc=5",
+          "title": "Introducing Oakley Meta Glasses, a New Category of Performance AI Glasses",
+          "publisher": "Meta Store"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeGZMUWpxWWczNWRzV1dONmJsVGlxSVBhNXN0akhqVThwd0NJcGZuYzhnak9yVVpNNHV4YU5mU2phM0VUZGZDR29iY0ZyNzJ1VXNlczE1V19RMk1qUU9RcGJuSmtRbWN1aEE5bmxyck1wNE1JaGtBZ3lyQUx3dDRTQVdfcW1nRXFnVUE2TEFKRUR5aEJqTkZCZ29CbUx5VnBJa21mQ3FQUy1sS2VsdzgxR3lOLVZHX0E3aklJ?oc=5",
+          "title": "Meta and Oakley announce new 'perfomance AI' smart glasses for athletes",
+          "publisher": "Engadget"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWV9pazNXWlNIb3M4WjV2YktaOVduUTZyNVdJbVpDRlBoQWZZZ2h2dllZTkVMOTlVbzQtUnl4S00zekl2T2JNbklfSFFJd3hlakpZbXJaYnYwVkNSeFBGaUxrUjJXTk1jZi1sM2FLN0dtT3lqemw1VVZCSzZGaGJPYnBIMnY4UWVvd3Rwcmw4bGFHLWRCdXMzS0gwZGltSzZfR1phWS1n?oc=5",
+          "title": "Meta's new $399 Oakley smart glasses beat the Ray-Bans in almost every way",
+          "publisher": "ZDNET"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORDYzTTlhSUZJTV9GUGJnOGkzYXYtRmZJRWowNkI2WUszLXZva284Q2xhcFdjazFmWDc4VTdtOG16SlN1U1dEWFBWcEdXbWNnS1dDT1BTaXMySERSVW5sRlQ1VHpRS0tpZEtxVFpnbjZmb0E5ZEpTVFZKNW5zWHZCQ3VCWmrSAYoBQVVfeXFMTmFJUEx1cnJHWTJqTWRKTnp2aGxXZS10S0VwS0hvZkpzQmpfRURsUjlqTmt3TWVYRlBfa0pCQTVjYjNSMmlFX2JRZ21QOTRVYS1HVjlLaXVfWTJPZWkweWNCTENhb1d0ZzFrc05ER1pvTHI2RmJMUTlKV25ERndVM1RtRVRUTHVnaGJB?oc=5",
+          "title": "Meta to release smart glasses with Oakley and Prada, extending Luxottica partnership",
+          "publisher": "CNBC"
+        }
+      ]
+    },
+    {
+      "title": "‘Death Stranding 2’ is Hideo Kojima at the peak of his powers - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObW1aVUFSWGdQbzZ4cjAxQUFLNDFrVVlBUGlrYW0ybFJ3SU1oOWszSl80ZUFRNEhvRWNoT3dYM3RJTGtVQ3FSWS0zVFhzLVUyMXRjR3c3OVA2d0NmTWVaNXgxdm9NZWlfMVZxQm1vR2NidVRsd0k1Wmc4TmpoWnUweDNmMWNsWVhqNDJjYkU0cWNUc2JGWXFmS0lrRHNxYnRuN0VSQWxlSjVYZw?oc=5",
+      "published": "Mon, 23 Jun 2025 19:00:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        19,
+        0,
+        0,
+        0,
+        174,
+        0
+      ],
+      "source": "The Washington Post",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObW1aVUFSWGdQbzZ4cjAxQUFLNDFrVVlBUGlrYW0ybFJ3SU1oOWszSl80ZUFRNEhvRWNoT3dYM3RJTGtVQ3FSWS0zVFhzLVUyMXRjR3c3OVA2d0NmTWVaNXgxdm9NZWlfMVZxQm1vR2NidVRsd0k1Wmc4TmpoWnUweDNmMWNsWVhqNDJjYkU0cWNUc2JGWXFmS0lrRHNxYnRuN0VSQWxlSjVYZw?oc=5",
+          "title": "‘Death Stranding 2’ is Hideo Kojima at the peak of his powers",
+          "publisher": "The Washington Post"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXJFUFJ5M0Q4WkVtNzhRcEt4bzJ1R3R0eU1TNTB0SGdrSGpVaFk0RFF4endHaGszV2ZiYXA0eEN2bGtaUkV6cFZKUkxvREpJSTNOT2x6aGhxNGhUVXB2VElqZnRsMTJkcjhIdXZ6YTBWWWwyRF9OOW5wd3VPTmI2TVp3SHdvWU4zMmtqd2FIdGc3d09yeDJUYw?oc=5",
+          "title": "The Amazonification of Everything, Now as a Video Game",
+          "publisher": "The Atlantic"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92RGhNdDBtMGZjUUUyeVhHQzNGZy1ZYU9vN3VkTDZQS0pmbWZZWTUteG1LSXJUMHJTUU4zZFFEbV9YUUdUN3FpN1p4RFZ4SmkyTG9CWnFsbDd3bVVtYXNUZUJCa09vUHJObUU4UjlBRjF2c0d6?oc=5",
+          "title": "Death Stranding 2: On the Beach Review",
+          "publisher": "IGN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUks3TVI2WEMxaEtkMEtzdTRCRTFIbGMyeE93WGl4aU9QNm0zazhJYm1BMzZSRzBZVVJVOVgtZWJzczVmTW51Wmh2ZmZYX0NscllEMDdCY2lkTEVRQ3JoWm5GMkZwMVN5dFZHckFocFkzLVdpQ1k4UUl6WEVIQUZPR3kxc3FUelhQSHNPdXVOY2ItV21rekJGVEluS3d0a0xRd1ZiM01fMWFBSDVKUkE2bHlTd3A?oc=5",
+          "title": "‘Death Stranding 2’ Is An Erratic, Messy, And Emotionally Brutal Masterpiece",
+          "publisher": "Rolling Stone"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTE0cWJKYmtyWVRLdlo4aFBLY3lBVDlxa3U0eXhYdzgwLWcxNmNkZ1VhV05JaTlZWmdHbXplT0tJbGVud2ZxaGxhWUV5aEJ0cXpqVzk1bTk0V3hRVFlQbkVubHRMN2FKVGdvTmJ2ZEJTTVBmUlFqV0hsMjAtMU9KR1FZLVJva3JP?oc=5",
+          "title": "What time does Death Stranding 2 release, and can you play early access?",
+          "publisher": "Polygon"
+        }
+      ]
+    },
+    {
+      "title": "The biggest new movie in theaters this weekend was shot on iPhone - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVTNjLXNkdWlVTnYwQTN5T1JXR1NTUkhiWGdQb1MwRklNM19uSUlJRVNkbWxDc3RqTjVqYUFkaWpVelVJZERkdU1qUmtmVG9CbEpIZW9OQVp1SFBkRWV1ZkRWYnJYaTBzLVh5U21ZVUx4R1g3TDM5Sm5vZjFSWWJWVTd5a0JTdVNFc29qV0RDdkJ4MmFlOW1uNGxoR1U5QQ?oc=5",
+      "published": "Mon, 23 Jun 2025 20:17:00 GMT",
       "published_parsed": [
         2025,
         6,
         23,
         20,
-        47,
+        17,
         0,
         0,
         174,
@@ -746,93 +764,104 @@
       "source": "9to5Mac",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1I1SWRWZ0Y4bkVKXzJvaDhya3o2QUw0WmVHdm5aM096SGVyZ1E4c0ZVTkZac1AzcFk1c1Q0bjFXVFlfSlBjaTlnUWdtX3cwNXZvZmVoQy1HUmNGeFFmVXMzaDd2QzVFd3c2cnA2NjFwVDhnTXBBRGVXVFZaelpvSUpabU1pekNQQ3RiMVhfbDNfNWN6OS1wdXA0RQ?oc=5",
-          "title": "New leak hints at vapor chamber cooling coming to iPhone 17 Pro [image]",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVTNjLXNkdWlVTnYwQTN5T1JXR1NTUkhiWGdQb1MwRklNM19uSUlJRVNkbWxDc3RqTjVqYUFkaWpVelVJZERkdU1qUmtmVG9CbEpIZW9OQVp1SFBkRWV1ZkRWYnJYaTBzLVh5U21ZVUx4R1g3TDM5Sm5vZjFSWWJWVTd5a0JTdVNFc29qV0RDdkJ4MmFlOW1uNGxoR1U5QQ?oc=5",
+          "title": "The biggest new movie in theaters this weekend was shot on iPhone",
           "publisher": "9to5Mac"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kUU1NUkd6WmQ1Q1AxcUVTNURfeFV3REpXU1gydzZYd1JwU0E2dGlNU0pJbTdGUFk5d0pXZmRpbDdVU3l6WkUzc1pxQ2lTeGFLenVnT2dxVnBZRUl2a1c2STBKcTNCdlJCWW9TSA?oc=5",
-          "title": "Apple is under pressure to deliver a hit iPhone",
-          "publisher": "Axios"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1NjQnFTYzYxM2lwZ0VzbHhNRDNiREZaTW5SZjFVTUpOMU5CNWJuOENrel9KXzZtWlhjNXFMX2JWbWxibEJOOHZZQUNUTHBoVkRPUHJRb3BQU3hOZU5HZ05DUDY5SWlMUHdjeURfa3lhUW9QU1U4WmxiVzhJTDBaX1d0QkdOOTAweTlYcFpRaXo3Y1Njdldn?oc=5",
+          "title": "We Need to Talk About the Massively Hung Zombie in 28 Years Later",
+          "publisher": "Vulture"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTF9lQm1QRW4zUjBsRTJvYlY4c3BIbjkzX2pmNzJscmt2RXFVR0NDc3JIdjM2dmhGY1NkZ3pscWhvc1FZU0gwV29zYVhYbXEySWd2Smt5NGFlS2pKUDZxYnpkd25TZ284ODRGbURSLXM3WHpZWXFJREotTnlwbHZQWWR1NVhCS2xVZFBiZEJMc0VmSEdWb1REU3IzcmJrRkw3RUk3VGJLSzVMcEoxSXh0bnF2VEEwTmFlSm1xZjJxX2RXUWg1akZEZXQ4MXhYUQ?oc=5",
-          "title": "Apple Loop: iPhone 17 Pro Release Date, Apple Challenges AI Assumptions, iPad Pro Multitasking Explained",
-          "publisher": "Forbes"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYldZQUVLcGtTaWhpcDVsRHZkdXJRcUxjelJPd1JWZFI1ZmRfOTh2Qm10b3ZPSFpKdXk4N05GYTJRQWNJREwwbUgtYjlUcWR0WElMQU9mQjRoUDllR1NsU0hLOTNXUHl1ZDdyblhIWHVKUXcwdjNvM1ZVS01od0taeVFSNEx0VHgtRzVWNnN6M1E4R0VPektrc0owc2Q5Z25rZ2x5ekFvLUU?oc=5",
+          "title": "28 Years Later’s mind-boggling twist is scandalous and utterly fascinating",
+          "publisher": "The Independent"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2lFbnE0Z2FPU0J6dXNPSkpmdm82Q1RNWTVUbVAycFRQS3lNdmNvR0pQYUlzbjBCYWRnUWo3UmROUV8wVDdJeGd4U240T1VuNFlIcGFaUVpmdnRsSDRpMGNwbjNXdG5ZaV9zU2Y1T2VBVG5wbjRBQ19ETVNrUFhwT1p0dE8zd1phSlBQYzNMS0dGUElEZ2VNM1NwbnNBdVdPYXlhZDNMRktVLXBNOHVqWG56TW1sNng4Zm1BN1JYVHlaQQ?oc=5",
-          "title": "iOS 26 beta 2 seemingly confirms the existence of the ultra-thin iPhone 17 Air",
-          "publisher": "Macworld"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnRqOUNQMUg4YzBEdXhlcF9ncWtnTmRfd1FzUXhzLVFkQk9ZOE1qbkpLUWsxRDBiVVlGWkJwQm5rak9WNDhKV3RwSFpldGVWbVJ4U3NWSm5JWVdFREhzS3ZfTjFvMVFkd1V6Z2phekVEWXVGWXE5ZFdZd0FxZ1NCdFhsMy0?oc=5",
+          "title": "‘28 Years Later’ Is Infectious",
+          "publisher": "The Ringer"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDR0X0dpaDczTEo1NnhRc0VoTWR2QmQ3V1VhNUd2XzEyQWg4SUtqbXZpVVZENDNjQTJXYkhWYjhXSnFid0hPOXBRd3gxQloycnRzalBCZkZ5eGJkYm94NzdqVnM5QmRkeGd2WnByQmVvM1hfdmFIMndPcnY2eEFJQWtsblBfbEkxaGQ4TlRZS0FLcHRHbExEQzZaMU1NWGdILXBpdlpmS3BSOU1QWlE1bW5WNUhaN0R4YklN?oc=5",
-          "title": "iPhone 17 Pro again tipped to get a vapor chamber – here's why that'd be a big deal",
-          "publisher": "TechRadar"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPck1yZTJqM3o0MWQ2c3VfMWJDdVhVVk10Z1JIOE41Q0hxRmZqS2pDc2dxYWpIMGRqMV9EWEt6ek5sRTNnT0pYUG9WdlMyTU4xdnFtbHg3Yi1fb1NwcHhwWHhmUDNIdUJrS285TTJaSkZnUVBKTHE2c3MtYUJablkxS2cybXRMTzUteGgyd0FBZ2VqMndXX2JJM1VCMUpONFhh?oc=5",
+          "title": "The Alpha Zombie Speaks: ‘28 Years Later’ Star Chi Lewis-Parry on Samson’s Huge Prosthetic, Ripping Out Spines and His Scary Injury on the Train",
+          "publisher": "Variety"
         }
       ]
     },
     {
-      "title": "Cyberpunk 2077's new update will have \"scope similar\" to 2.2, as CD Projekt announces delay - Eurogamer",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2Fra1dzYnhEUkpBaWx2eHdGZWtCRDlqamFndWhRb09UYW5ma2lpSDY0bjhqNkI0UlE2VDQyYTBhaDRNdFk2aFhyZFhZelQ0amtYRXdteG5RVGIwd1p5T2daMm1vTkg2TjNuSWpQWFdUWHhHbG14MDdyTnRYODR1NjkzNU82aHdJSzFEd2FsN2xwcEl3ZFc2TElFemF4QTB3cTZ4VXlQcllpb3dKNzZadDdn?oc=5",
-      "published": "Mon, 23 Jun 2025 14:45:56 GMT",
+      "title": "Filmmakers/Actors Vote On 21st Century Films - Dark Horizons",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KS25QVExuclhfaS1ucGR6QmRlU21jc1N6MkQ2WlhPOTJVdkcxYkRyc21Ta2p0LU5KZW8zN0hrOVJNVEQ4TVFnZDNJZ2lYNUZjbjRzTE9aRU9EbHFuR1hJOGZJNFd1NjFiOHNWbl9SSTg2MFBuVjNObXo4RW1GTFk?oc=5",
+      "published": "Tue, 24 Jun 2025 03:40:18 GMT",
       "published_parsed": [
         2025,
         6,
-        23,
-        14,
-        45,
-        56,
-        0,
-        174,
+        24,
+        3,
+        40,
+        18,
+        1,
+        175,
         0
       ],
-      "source": "Eurogamer",
+      "source": "Dark Horizons",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2Fra1dzYnhEUkpBaWx2eHdGZWtCRDlqamFndWhRb09UYW5ma2lpSDY0bjhqNkI0UlE2VDQyYTBhaDRNdFk2aFhyZFhZelQ0amtYRXdteG5RVGIwd1p5T2daMm1vTkg2TjNuSWpQWFdUWHhHbG14MDdyTnRYODR1NjkzNU82aHdJSzFEd2FsN2xwcEl3ZFc2TElFemF4QTB3cTZ4VXlQcllpb3dKNzZadDdn?oc=5",
-          "title": "Cyberpunk 2077's new update will have \"scope similar\" to 2.2, as CD Projekt announces delay",
-          "publisher": "Eurogamer"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KS25QVExuclhfaS1ucGR6QmRlU21jc1N6MkQ2WlhPOTJVdkcxYkRyc21Ta2p0LU5KZW8zN0hrOVJNVEQ4TVFnZDNJZ2lYNUZjbjRzTE9aRU9EbHFuR1hJOGZJNFd1NjFiOHNWbl9SSTg2MFBuVjNObXo4RW1GTFk?oc=5",
+          "title": "Filmmakers/Actors Vote On 21st Century Films",
+          "publisher": "Dark Horizons"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcVJIRVdiMGxTbTlhRjBoUXktMTAtQWFfWndzRkVwVHFQNnVia1VXT0ZvSGJxMzhrV3R2NW5tZXhFLU9CcThoUnlPQVRYdTBFekVEcUprV1lwMmxGRTNTZmphY2VVeDBIZVZtRy1tMGhKanFvM0RWX2xZWlJMbWJPSTFsU2VlTVZtTFQwLUdsR0xqTUI2Ti1tTV84QXlMRS1FZlYteVd3?oc=5",
-          "title": "‘Cyberpunk 2077’ Delays 2.3 Patch, Reveals How Big It Is",
-          "publisher": "Forbes"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWNnNTBLdVpFTWtxUmVTcFFGOEo1OXVicl9IbWZ6eUE5OUlJbm9ZeEx4MVdNN0VpbW8yZlFIRFpuRHRZN0FJVUNwa2ZmWnFUQ0Q4Ri03c1UtZE45V2FnZ25Jd0d2SUJkM0cwREdwUjlZcm9XSi1ZMjJsSGJsVFM3ZzB1TQ?oc=5",
+          "title": "The 100 Best Movies of the 21st Century",
+          "publisher": "The New York Times"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSTV6dUNGVl9mVWExTUN2NUZEeHgxcGhTUlpXZlFrckNPYVRBcmtTdEVPcDhVRXpoejZrYWdrWS1UdUNacmZMRFlWcVNneF9NR2lBcVRMMGlWM0xqb2JicUpVLUR6Q3pxZFNmSlVVMTNsa0gzQXdVRVZxZ3ZmNVJYYjdkOFJVQlMtSk01X3NiZ0o5WllZdC1lWktXVW84eTFtem9kdW1ycWF3ME1uZTNTaDMyV0Znc3FHOEt1U2NGeXUyUThCcHRLWEJJVGU3Q3drZ2dIWVdhWFlCNUhOeExhYUV3bEg5dVRIaUFlNFdOamZYdkZ3NVNoVkdQbnhGMlQzTzlDbVNBZnE3QQ?oc=5",
-          "title": "Cyberpunk 2077's Next Big 2.3 Update Has Been Delayed Until The Team is 'Happy' — But CD Projekt Teases It's 'Aiming' For Something As Impressive As Update 2.2",
-          "publisher": "IGN"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdUJweGxneGdfSWRkTHZWOHVqMm5xSDZDX0xTcXRydzlFTkRXYnFCd0RMaUlSMWVLbm1yUThMYjdmbXMyWjRoc2FxSDJtZmtEcnhkRUNlV0NkNHBmdm1lLU8zTHVfSGhrTVBnTVJiUFlzbl9KbmppcExSYmNpZjVyVFZTVXBCcUNIcGRINmVCOA?oc=5",
+          "title": "Vote for Your 10 Best Movies of the Century",
+          "publisher": "The New York Times"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRDBIN20yV2otTDZWejB1bDhRQzk2VkhTTEpqRFIzNW5jcWNQWEowSWtVZXZkVEJPQU83V2k1OHdSZ0Y1YnoyRFVFWV9zZk15a0lLZVU1djYtdHlmWWdEUkcyT1dUOUJwaVV6Sk5NbU8wZlFyMGhYSWtIejU5aGZlQg?oc=5",
-          "title": "Cyberpunk 2077 2.3 Update May Be the Size of a Full Game",
-          "publisher": "Game Rant"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYmRsUTNuc0ROdDJjRUpsSXVtR0c4RGJCOF92V2gybnBmUUxuam80WEh1d1lnS29vaG1RcDBHUlJuOFZTWHBHZ2N3bER3ZTVjOVVPUlZTcE5aNjJmcDFmNHVNcVpCb2paZjhxYS1nQTJSMnhVY1ZyUXBDSThVZlhEYnpzY3lTSUhoNUdiYlA3WHhYWEMzRmJ2cmJrRmpSMEIy0gGmAUFVX3lxTE5EdF9QYkhqaUcwWkdsWF8yWGdQSUc4NURkT3M2WHE3ZHBDc1c0Y253Ym5PZk8wcE1Ja0MtRXdHcEptU2tKaVBFcGtGOFZEeXBTYkp6ZjdGaDJYcDdxUG1FWWdOdmhlaWxjVGpfbTZlZ0pGcURYSjNVRERxS2JadUhtUXBad2R5LWRGWDh3V1JmVFZ5UUhhQzF0WDlZZVdkenlqWUpicHc?oc=5",
+          "title": "Mel Brooks Names His Favorite Movies of the 21st Century",
+          "publisher": "Cracked.com"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSk5aMnlvTUtJWlhSSW5QYldOVW1yV1paaWplM0Z4eFdWSVdza0Z5b3NoY1pObWZLN1o1ZkdJanMwTTR0OGhMQjZPYUt4cW55bnRCQzRkZmt6OG5JNFZRWm53OVVhdTgxeXlhYUpHb3QweEVWaUpyWmxyNkJ2RWZnVzJnQ01ob1J5d0R2UHo2Q1JPQlFqUUF6ZVplM0xWSk9VUXIwTFBocEtVMWstdS1XMW9jd2JwUzY1b044RFZMSWstSnFHWFkxb2J0dExPOVo4OUg0ejlvUnktMEYtZlFueWdmRm4tYlFnZFd4Wg?oc=5",
-          "title": "Cyberpunk 2077's surprise 2.3 patch gets a surprise delay as CDPR needs some time to aim 'for a scope similar to Update 2.2'",
-          "publisher": "PC Gamer"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdml6MG9yaXNxN2ZBR2RJcUhpaDBMT21PY201d05PYjlqWWk1QTFYTUxURUJoazF6Mlh2UVhKRzhLTjdmTTViTjdUODFxV2RoX20xZG82NmVZdVFtd3FjdEx5ZmoyNWZEWElNckNsc2NQLVdZdFNJeXZEcHpSM2JEV1R2WFN4aTd6N1R4X3FVNXlNRTJoREEtcEY5MVZiU1FQTk5RV2hiZDBjUm5wU2ZORE9JRjBoUQ?oc=5",
+          "title": "The 25 Best Movies of the Century: No. 18, ‘Before Sunset’",
+          "publisher": "The Ringer"
         }
       ]
     },
     {
-      "title": "Barbra Streisand Is Still ‘P***ed Off’ Over ‘Fockers’ Salary: ‘They’d Have to Pay Me a Lot of Money’ to Do ‘Meet the Parents 4’ - IndieWire",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZmdJZkMtODJJVE1NTXRjb3Vld056eldBM0Z2Wlkta1dsLVhlWVgxUWZZZm95eGZYSWIydDItMjNfTEViRVFxZUFnLVNLR3hPOVpUalhLMUl1cldsQjgxRVh3bjVKVkVDbUkzd09FYzVudy1TbjNQQ3o3OXJLWktRaE1LOGJhVzJjSndYellwT25lSWZSUUFIWW9yOVN1MHcxWkZvdHNiZ1o1bU0?oc=5",
-      "published": "Mon, 23 Jun 2025 15:30:00 GMT",
+      "title": "UMG Says They Should Be Removed From Sara Rivers Lawsuit Against Diddy - TMZ",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQlNIbGt2S21zVnRKLUk2SXJuMmxXMmZQSUZOWDlWXzJtWU55OFlLbVloNXN6bTdBSjE2NzZYeFZobDRLbWNMVHh0V0p3LTBrMU9qdk5Jdkhia2tseVNKeHFUZy1aaHJpYlNrdkhoM216V3dyTmM0M0xQd3BUcGMxX2JIaGpWWG02aUZ3bEZB0gGOAUFVX3lxTE1Wd1dDbFN6UnFPUnc3MHdJZlA2WnhNS0Vody1od0ZSdWhUd291WmxGYUpCOXlEUFd2M2RlaFZHcEFrc3puTnF4ZnhuWFd0WTRoQ2lhQlBFQXVISEVXeDcyLWE0dkxCS2xGVVhuUzhuWHc4NDhadWdDMU4xMTZPUWlXNEFCVzFvOGcxcG9ZbEE?oc=5",
+      "published": "Tue, 24 Jun 2025 01:15:34 GMT",
       "published_parsed": [
         2025,
         6,
-        23,
+        24,
+        1,
         15,
-        30,
-        0,
-        0,
-        174,
+        34,
+        1,
+        175,
         0
       ],
-      "source": "IndieWire",
-      "sub_articles": []
+      "source": "TMZ",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQlNIbGt2S21zVnRKLUk2SXJuMmxXMmZQSUZOWDlWXzJtWU55OFlLbVloNXN6bTdBSjE2NzZYeFZobDRLbWNMVHh0V0p3LTBrMU9qdk5Jdkhia2tseVNKeHFUZy1aaHJpYlNrdkhoM216V3dyTmM0M0xQd3BUcGMxX2JIaGpWWG02aUZ3bEZB0gGOAUFVX3lxTE1Wd1dDbFN6UnFPUnc3MHdJZlA2WnhNS0Vody1od0ZSdWhUd291WmxGYUpCOXlEUFd2M2RlaFZHcEFrc3puTnF4ZnhuWFd0WTRoQ2lhQlBFQXVISEVXeDcyLWE0dkxCS2xGVVhuUzhuWHc4NDhadWdDMU4xMTZPUWlXNEFCVzFvOGcxcG9ZbEE?oc=5",
+          "title": "UMG Says They Should Be Removed From Sara Rivers Lawsuit Against Diddy",
+          "publisher": "TMZ"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc3hqRFpreEl3Nmg1Qm1zZ1hQaXBFVmgxWUliRzBXeU9GYXFIWTNNOTI5andhUkxJak5rSHZYYjhmX0hqN21aOWgyRWhmYW5xOEhHaUFrMG51ODdXM2F4Zkg3VFNKOFVaNndOVXVHWHN3aVdISHhaSl9Dd1dyU1RGX3hXNU9jMXFfTC1TUUFQSVdkSVBKYUI5ZkJQNFNkRnNSbU5Ea1JIdkV2MDRzYkFWQzE5MmhnNDhwV0dzYzhDUl9pc0ZXdjhB?oc=5",
+          "title": "UMG Files Motion To Dismiss Their Involvement In ‘Making The Band’ Member’s Lawsuit Against Diddy",
+          "publisher": "The Source Magazine"
+        }
+      ]
     },
     {
       "title": "Mick Ralphs, founding member of Mott the Hoople and Bad Company, dies aged 81 - The Guardian",
@@ -857,110 +886,48 @@
           "publisher": "The Guardian"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb0x3bVlKQy1qM2R4dzg4Q3ZHYXhaWVBnLVRIcjVoeWQtbTM1MDR0d0pObnBQUW1GQldHeVhhbEZsUWt2NzJUTzZLZEdybUE2X3VCOGk1bFc4enA4RzlzczlYb0R6Ql9aSzl4SEowY2NhWlM0RWlEVGk1Q3hQMElfWlI4M0p0VG5LSlhlZlloUnNHRHhyWGNSX1VEZi01RFhRTUZsX0RJR1dRc1hpNUF2dU9JLXlRZWt5S2dZ?oc=5",
-          "title": "Mick Ralphs, founding member of Bad Company and Mott the Hoople, dead at 81",
-          "publisher": "USA Today"
-        },
-        {
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWxZQm9hT1UyR1NfakxZbUxmQ0steDczVi0xcEs5alprMFJLZF9wcXdSeHI0QXNOY1ljY2trZkZHSFdyOWdDZkNoNHBYcEU2RFVNd2RQNGhmVWtsbXB3bVFackJYdFNWTnBONTY5T1BlbTNUaEh6aGRzZmxrNXQyaUZEWjc2UjdlVnNYeFRSeFFtcTB2aERjbUpIOERvcWt6QWFtb0JHZXVqLUYtdDVCYUpR?oc=5",
           "title": "Mick Ralphs, Guitarist in Bad Company and Mott the Hoople, Dead at 81",
           "publisher": "Rolling Stone"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81NGY0bnhHWGlrZkpWcGVuNnJNLTZtODdKWFNMRjNscVpzeElKMnNzSlJlOW1SU2dLYklPSWoyRDc5eFJSZC0wWE5xbnd0b1BmVVZoMEt3d1dwVXVyclJETUtQMkFYOW4zSUwwMmh3V09EcGN3YXpxTWp1TDk?oc=5",
-          "title": "Bad Company Guitarist Mick Ralphs Dead at 81: 'He Left Us with Exceptional Songs and Memories'",
-          "publisher": "People.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0U3eVdFQmxvdVA3ZC14cDNoT0txNWVkbTdjMnNrUlBzMk9XV2NQMm1JcHhFYTF6bk9LNGlRMlE3cFZLMEVwNVFEakhLZmszdmlLb09PdUhkOWVwNWZmaDlLNkFUblUtVUpjdlBYWE5YYlVKTlptN2o2RXk0ZEVZNzdNclpEbHRTeVkyaW5uT1BPODB6UHlR?oc=5",
-          "title": "Mick Ralphs, Guitarist and Cofounder of Bad Company and Mott the Hoople, Dies at 81",
-          "publisher": "Variety"
-        }
-      ]
-    },
-    {
-      "title": "‘South Park’ Creators Threaten Legal Action Over Interference on Streaming Deal (Exclusive) - The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQazJrRVFycUFIZG5sR0Z3b0xKeVFjRWtCZkZPTkt6ZHBidm5sNkprcERsZ29kaDg1M3ZSbWt3SkZlQjBuRmh5VlhmOTJLYTFtZUFqSzNXWF9vZ1NPMnlGQXJEN2ZiQk9yTldFNE1RaUtkOURnMGFralpTMUpYVnF2SWNWY01oMHlxUmJjUTJrZnZyM2pUdlJ4cjE0NkFqVzVrcWQ0TnhITFlpajF2Qlh3VG9RaHk1dw?oc=5",
-      "published": "Mon, 23 Jun 2025 20:07:57 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        20,
-        7,
-        57,
-        0,
-        174,
-        0
-      ],
-      "source": "The Hollywood Reporter",
-      "sub_articles": []
-    },
-    {
-      "title": "Tom Cruise Reunites With Brad Pitt at ‘F1’ Premiere; Actors Were Supposed to Race Together in a ‘Ford v Ferrari’ Movie That Got Axed Over Budget - Variety",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1Y3Zk5yT2F3aEtBMDJRajgwbWg4RUNGWXRRLXdHWlNKdDc0elZrNXlLcTBkU2w3emVMRlItT01rNlZ6c0txR2ZEdHV3dFlsTnFIVS1LeW4xc2R4cFdVODRPVUc4Wm1qRWtyWjhIYmFMRUptaXlBWkFKcFVsZWZEZ2NIOHJucTRCLU9CRmhNUzNQWjFuUENLcw?oc=5",
-      "published": "Mon, 23 Jun 2025 18:19:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        18,
-        19,
-        0,
-        0,
-        174,
-        0
-      ],
-      "source": "Variety",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1Y3Zk5yT2F3aEtBMDJRajgwbWg4RUNGWXRRLXdHWlNKdDc0elZrNXlLcTBkU2w3emVMRlItT01rNlZ6c0txR2ZEdHV3dFlsTnFIVS1LeW4xc2R4cFdVODRPVUc4Wm1qRWtyWjhIYmFMRUptaXlBWkFKcFVsZWZEZ2NIOHJucTRCLU9CRmhNUzNQWjFuUENLcw?oc=5",
-          "title": "Tom Cruise Reunites With Brad Pitt at ‘F1’ Premiere; Actors Were Supposed to Race Together in a ‘Ford v Ferrari’ Movie That Got Axed Over Budget",
-          "publisher": "Variety"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR3l5OEdLUzhoYllyNUVQYWxaY1AtR2gxUDBOOUxTVzZhOUxGVklfY0xWY2c0QlI4NEJKblNqVE9ObEE4ZTBBY2hJd0N6M0dKQWtDT1drSmZLdVl4YVBlbG9HTXNwRnlnbldiUlVuX1ZfcEwwN2Z0QkFybkNWX0dpMUpfZlBDa0lEQ3FFR05TcVktNXQ3angzblFxVzRFQUdha2c5Z3Q5UVhnMTdWcUNTLURJc0d0eVdKeFBFdFhfX2FXVkE0NWxnQk5MWGNYNHlUa1liRGhSdw?oc=5",
-          "title": "Behind the scenes: ‘F1 The Movie’ New York premiere",
-          "publisher": "F1"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXNoeDJmMlN6eVZtdVFrRHNkOVI3V1ZIMmRnWnJUZUstTkhSNVQ3dGFzaU1NOW92MzQtS29CMVMyelBCZEhqTEE3ZHUzMmg0SjBLLXJSa19GRm1KMlJTQ2VHYk1zd2V0VWdIOUhmU2xQd002enJXZ2U4TnhWZ3Nqd3NPZm5ib28?oc=5",
-          "title": "Brad Pitt and Tom Cruise Publicly Reunite for First Time in 24 Years",
-          "publisher": "E! Online"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2w4ODNqWkRnVWwxNFN1d0hrX2lzaUVpLTJCU29Cd09IX29saXhJd2E3dURGQS03LUFUQVJDZXg5ajZWOFdSTHZ6dUZad0JFQnFOUFdURlVFMTluQV9yS0pNXzhKYXFTTTNtQ1RpMWJtUkxvY3hjalFCYlRPTGIzWGdERzlmemI5YUx3Vk13?oc=5",
-          "title": "Brad Pitt, Tom Cruise Turn Heads in Rare Public Appearance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb1RUWXFSX0VJSXFhYTRXakowR3daeGNHYTMzSG83MzVLQ29LU2t0M1hvSTM5SHpHU3pHbnNiN1k0WEwwdXNLZFV2Z0VjNHVocEJseFVRWXdReDBURHl5eEJ1M2ZQUFR2dVB0RXRHSlJpcHl1Z3Z4bndldk02REVWenhLY2lER1JKN2czek9rMGRrTFNYblZGcEktVQ?oc=5",
+          "title": "Legendary Rock Musician Mick Ralphs Dead 2 Months After Hall of Fame Announcement",
           "publisher": "Yahoo"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQkpTVG1tZk9oY21ZNTBwMXloUGZ3Njl6cU1ua0NJZjJGQlZrUkk0eG1zcmt6eUFjUE95UmFOWEZfaFB1bE5SSldCVDNhdTk5UkdvVlhxa0xXc1R2ZDRoaWp4WFc5TDVIcFJyWjZhTk0xQWlIZVpCbVdpZnhFNHZMU3BMTjJybkxwSk1tcGRiWQ?oc=5",
-          "title": "Brad Pitt and Tom Cruise Have an Interview with the Vampire Reunion at F1 Premiere in London",
-          "publisher": "People.com"
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdkt3MDFVRXRjMUwyVVlJYkR1RVlnM1Noamludmdkc05vcjNETFJ2TENZRmE3d2QxQTQyR1Vqcm02STcwQzFINVlrUnBqVHFycWN6QUFjeWJwQTRpZlRmZ2E5NXltS0kzenFhSkp6SFZMMUZQNGZIQTRyM0JPR3dhcFYxbWxLdEdQSmFmWmtCY2loRExyazVuY01ZNm1wRmlCYXMydklVUXFod01kX3lDNG9MUkhMbUoybUJMUzJkY1hraC1VczdQWDZaVFAzQWxIcW1ucnZGQVN1NXhqSTRLaU51UU1nQUJj?oc=5",
+          "title": "Mick Ralphs dies at 81: Cause of death, wife Susie Chavasse, children, and other details",
+          "publisher": "Hindustan Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcFZNbjB4b0o1ZVZCZ183bXlGTzJrYk5BX2ZLSHNhSHhBeGpkTUlZRHFRdzhDaVA5bFE5dk1kWUVlNkgyOURreHZiRkU2VF8wdzlQX0lNWUcyZm9ibDdYQkp4RnFqeGktU1c5WG9ZSi1XYXFMMkJpbVVrTlFoWXlIcG0ySEZaREtnRHQtRzZtN2V0RkN1RUg3NHlVQkpyaC16Y0hfdEtrVdIBuwFBVV95cUxQWnoxTHdjQzdBLWpscThYeTBPRThNNXlBUUpUSlJpWXU5bnhhMV91T2VXdWh4UUQ5N2QwNm1EanJqX013Q25OTkxiWEFxbkMxaUlGZkxudmJTMnhfWXRWeHViUm80YTBhSkg3RWR2cm5CTlNBSnVqbVFGQ2FoYkotRkU4dkdvdF9SVjFteFZZZjFzZkNvcG5ldjBwY3B1VDlvcnBQTWNnWGdodnVacENDQjBDREppMWZycVV3?oc=5",
+          "title": "Iconic rock band’s guitarist dead at 81: ‘My heart just hit the ground’",
+          "publisher": "AL.com"
         }
       ]
     },
     {
-      "title": "NBA mock draft 2025: Updated projection with NBA Finals now over - SBNation.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3hXZGRvaDZEZEdlVFNRbDVIeWlBQ3ZFcVp4TUNSU2ZHbW1BSkFqTm11VTdYMEtmdlA1TjhuNDh4UEh6ME9iSWtPTU54b2pDWFM2aGhSc203eXJadjdjWTBMTFVoQWRqSGNSZUR0S1MteUlRVndWNU5FSFhPY29nQnZ4VW53NW56R0hqV1VmSHlZR0dlMlBqcWptbURMQ0RDTnVqXzVzMzFud1diOVR4LQ?oc=5",
-      "published": "Mon, 23 Jun 2025 12:00:00 GMT",
+      "title": "2025 NBA Mock Draft Roundup: Final shakeups as offseason gets underway - Liberty Ballers",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeVdGQUhlV1JUd2pJaEFweExQLWM5T1lRd0d3Nm1TME5KWTJzMFJmNUE0QU1jc2Q0RTRzZHFISzVIQ3ptTlFMSjdkd3dqMWpQblhPaVc2cGx3cmh2YjA3MGxGQTFCNGtJaXdMdTJHSVJrRkNYb3RJbDZnNEZtYlFjaUlVNGExblhxejVjNmVOcUs3UFBITGJCZFBzWkJLTU52ejRPSEItdExpdVk2RG9VYmJkeFJOel9qdnNhWURqNmZwckJVVVB6SFZIZ1k2RnY4bGZ6SmlZVQ?oc=5",
+      "published": "Mon, 23 Jun 2025 16:28:38 GMT",
       "published_parsed": [
         2025,
         6,
         23,
-        12,
-        0,
-        0,
+        16,
+        28,
+        38,
         0,
         174,
         0
       ],
-      "source": "SBNation.com",
+      "source": "Liberty Ballers",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3hXZGRvaDZEZEdlVFNRbDVIeWlBQ3ZFcVp4TUNSU2ZHbW1BSkFqTm11VTdYMEtmdlA1TjhuNDh4UEh6ME9iSWtPTU54b2pDWFM2aGhSc203eXJadjdjWTBMTFVoQWRqSGNSZUR0S1MteUlRVndWNU5FSFhPY29nQnZ4VW53NW56R0hqV1VmSHlZR0dlMlBqcWptbURMQ0RDTnVqXzVzMzFud1diOVR4LQ?oc=5",
-          "title": "NBA mock draft 2025: Updated projection with NBA Finals now over",
-          "publisher": "SBNation.com"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeVdGQUhlV1JUd2pJaEFweExQLWM5T1lRd0d3Nm1TME5KWTJzMFJmNUE0QU1jc2Q0RTRzZHFISzVIQ3ptTlFMSjdkd3dqMWpQblhPaVc2cGx3cmh2YjA3MGxGQTFCNGtJaXdMdTJHSVJrRkNYb3RJbDZnNEZtYlFjaUlVNGExblhxejVjNmVOcUs3UFBITGJCZFBzWkJLTU52ejRPSEItdExpdVk2RG9VYmJkeFJOel9qdnNhWURqNmZwckJVVVB6SFZIZ1k2RnY4bGZ6SmlZVQ?oc=5",
+          "title": "2025 NBA Mock Draft Roundup: Final shakeups as offseason gets underway",
+          "publisher": "Liberty Ballers"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONWl5QUxOdXFLeTRwalhoamVLZkFjVHpFemdhaElMYmJJSkVJMzVsbE1Yd1VRSDlvLXpIMmM1ZW93YXB4RWcwTTBiMHlxSUo5R1hBRlJqM05uNWVNcFQzSlQ5T21WWGdkR0RleGFBVmpzNlFSY3BUMUY0OEdHMGlBcUROZGdLSzFJZC1SXzZJbW9sYVJ1bk50aGZXT1dobUdDM0pCc1F6WEIxUnBOWFdvOVRicm8tZw?oc=5",
@@ -968,43 +935,87 @@
           "publisher": "ESPN"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWE5kRGE2NUVaTm1vSWw2QVB5bjNWcjhXUnhGQjdEazMzNzJXZ0F1YVZZTl82c01lTGhlUFJtY2cxdmhiRWxQQ25LNmVLQ2NGNHFRWGlsaFBMQzFlYVJKUGpmOENfbmJtbldnUUZCOE1PR0d6SlVmeEhMZDFqWDVsQUNaMEdURHA0U3kxM2RxYmJNRHVZZzBrNDQtbkgxNlQ3eGxIMWJlaEVXRURSb19DUjNqRHBra2o0QkE?oc=5",
-          "title": "2025 NBA Mock Draft: Tre Johnson moves up, Ace Bailey plummets in latest projections",
-          "publisher": "CBS Sports"
-        },
-        {
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcTNGSld1ZjE2V0Jkb3d5ek44R1ZrZUFNdFJ4RDFoY1BFVndNVlI1RlVWUk5DTVVHTjJ0Ml9YdkczNUVmU3p3SjQ3RlZFQkJZSzZiTmNFWlRpdUdpNXpTSXM0anRDWXgxcUdINmFDdEtSRk9TRFpUaHFSTmY3QTdhMWNTUEJGZUsxLXpVcXJLUFlWaWw1NUlwdWxxYkl3M1hYY3hBYXV1NHVEc2ZCcHpBYXpraDVzOERVbE9uUmNwdml0NTJ1M0hpZURPa3BTTW9rNUEzVnBoOEQ3U01OZW5Yc2szTXdFYV9jY3M3YWpfWkE?oc=5",
           "title": "NBA Mock Draft 5.0: It's draft week! Here's how every pick in the first round could go based on the latest intel",
           "publisher": "Yahoo Sports"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaVFFX0ZFX1Q4QTNIekc5NGNGa25iRzItQXFJVVNnOXNqVWd3S2NRekE3VXYwQUtEbDNIVGk1M3lpYmdhN2trTF9DM2JSeFh1TXp6SFpxcmRCNHJ3QmF5MWh2dGZacXZQeDU4bGhVTUN6UG5yOGREeEJRU0xEc2hQQjZnRFJuRXBHXzRmSnRCMVZ4T296Q0k4dml0Q3BpbHdiSm5DOXZMTWlrLXEwODBTSk01VGZlMFFjRHV4UUNiZDFNOGxYQ3YtMkd3azBoaEVsWEtOT2NvYjdpRUU4TzRRclJkTkZUelplZFE?oc=5",
-          "title": "Detroit News NBA mock draft: After first two picks, let the intrigue begin",
-          "publisher": "The Detroit News"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWE5kRGE2NUVaTm1vSWw2QVB5bjNWcjhXUnhGQjdEazMzNzJXZ0F1YVZZTl82c01lTGhlUFJtY2cxdmhiRWxQQ25LNmVLQ2NGNHFRWGlsaFBMQzFlYVJKUGpmOENfbmJtbldnUUZCOE1PR0d6SlVmeEhMZDFqWDVsQUNaMEdURHA0U3kxM2RxYmJNRHVZZzBrNDQtbkgxNlQ3eGxIMWJlaEVXRURSb19DUjNqRHBra2o0QkE?oc=5",
+          "title": "2025 NBA Mock Draft: Tre Johnson moves up, Ace Bailey plummets in latest projections",
+          "publisher": "CBS Sports"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Dc3dmcW5MWERJVlhGZkNYNWVYS1hXU2NGS21YV2JSaXR5SUZqTWhUcEdkTGMtdHBRaVFOZzliNlVZUzFmcTRIanQxZGhlbmdrU1RPd2FPYTFWTDFHaU1oU3lEYjllTmxJR2ZpZjBZcw?oc=5",
+          "title": "KSL Sports 2025 NBA Mock Draft",
+          "publisher": "KSL Sports"
         }
       ]
     },
     {
-      "title": "Game 7 of Thunder-Pacers was most-watched NBA Finals game since 2019 - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSDJ1ZGlqTG83VFBvQVhLNlVjQkxsbEhGdlh2Y0FQcUhoU1FPREZIUkViT2xjSmpJZWtOdFpzQmVhWXRfNkVrRnBtdWFScm4xT25UYS1BZlZOWGhHX0xvTDFiTXI3MmxlVU1vdUl3Y2hvRUhEdG1QeHFCalZSM0otRGZldzg5S21nLVE?oc=5",
-      "published": "Mon, 23 Jun 2025 20:43:39 GMT",
+      "title": "Star guard Tyrese Haliburton has surgery on right Achilles tendon - NBA",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNelp6R1dzN1BpZ1BWcHFxTzlLRDNFYzlJeWZvN2QwUENLMmtUVThFVGZPb1VvVzdTSkJ5Y1FPM1VZaFBOeUJQR1RDV0dmVTNxdW9uMTkxY1lkN0J3VzR1VEtFX2V2VU9jTG0tVlBBWENMa0ZQb3d1cVV6WV90RTY0dE5OR1hSTFh0Z29aVTcyeEpsVm4xQzVZUHVaQmc?oc=5",
+      "published": "Tue, 24 Jun 2025 05:06:28 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        5,
+        6,
+        28,
+        1,
+        175,
+        0
+      ],
+      "source": "NBA",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNelp6R1dzN1BpZ1BWcHFxTzlLRDNFYzlJeWZvN2QwUENLMmtUVThFVGZPb1VvVzdTSkJ5Y1FPM1VZaFBOeUJQR1RDV0dmVTNxdW9uMTkxY1lkN0J3VzR1VEtFX2V2VU9jTG0tVlBBWENMa0ZQb3d1cVV6WV90RTY0dE5OR1hSTFh0Z29aVTcyeEpsVm4xQzVZUHVaQmc?oc=5",
+          "title": "Star guard Tyrese Haliburton has surgery on right Achilles tendon",
+          "publisher": "NBA"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1I1YnEtaEZndGkxTGw2Z0hfek1nUHZVMml4LXVoODJkX2JibHlUYXRwOE82V0xEa2Zxd19LUjhWUkctQjByT2U1NUlFZjN3VURWM09rSVBSX25McGNod3pSb0xveVlHWk9tN1ZQazlSdDR6THYwZm8yVGhFUmptNS14WXdiZUhoYTRleF9MU1NQS2FrYkUzTEZpYjN1dFU?oc=5",
+          "title": "Pacers confirm Haliburton has torn Achilles",
+          "publisher": "ESPN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjN0WkhzOVptMzRWajM2STRNX2xOVjVQY0NyRzRtOE5tbHpvdng0VGVCTzhNQVU0V2o3Wkc0ZElUYWlVUGhXUjJMYlNyNU9Vc19QWnpLR2lmdHJ6T05nUkFDUzlJOFVDcm5KTng0S096c3EyODNJMXVwR3hWellwNkdFc3U1YkhIcTNQU1JMbzg0NzZYXy1LYkFweXNab0U?oc=5",
+          "title": "Pacers' Tyrese Haliburton suffers right leg injury in Game 7 loss. His father says it's an Achilles",
+          "publisher": "AP News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNLVZmX3VpUkNySWJtdzhTUkVIZzA5eVpqTi1iRnVLeDdIU1pST19Za1ZFTDMtZVBNdFVicGhNbzVkRVlYUzFJblZMdWFTMGljcXBwTThfWFhRZFNEbDZuR1lPMTFQTXRlMzRrMnZCcWpJOVJPQzBGLUtUX2xjWW15bmZTckN1VHJYeVVrR0tqM0JCUFFYd0hzUUVSbEtxNEhFQzJpLW5ld1JVQmtUNHdzOXQ1TEg4aEFtSXFNUnljdFJiVzFWOUw4VVlaOGRuV2FOVWs2TU93dUR2c2xYbXNhaXJUVGdUSTJ3QkhsQTc3YWM2WGpQNEVtQktTaktMX3Mzb2VrcjNpMXFnZFBMWEM0WktkNzdmU0Fjd21aRg?oc=5",
+          "title": "Sports medicine physician weighs in on Tyrese Haliburton's injury, recovery",
+          "publisher": "WTHR"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMFQ5WkUxSUdNeE92SThtWTVnV1F5RmlqYU5sSnIxUEpiS2l6SVc0dXZlblZHWmdfZjAyRkNqY3k2VlJqSFlQZ2hvaXRxbWVhMDhWQkluTmQ3OTZjMHhMRnV3UENuel9hYWZfUll0TVY5OWNMMGdWTGw5OEtWek9uNThxWVpVNHBwaGlHektKeVNjUXdaOVZ5VlJ0MTJrLWZxMVVEUTRwalpGM29LUl9fX3ZVdjlraHQ2b0FqQlNGLV9OX3I3TzFiRm5MLUhndkVsUzBXQ2tUdVlWTzM3Y0d2VzZfZ0hGYWt2?oc=5",
+          "title": "NBA Finals: The Pacers lost Game 7 and star Tyrese Haliburton. How does Indiana prepare for next season?",
+          "publisher": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "title": "Shai Gilgeous-Alexander embraces wife in emotional moment after Thunder’s NBA Finals win - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTVU0c3hHT3lhRnZneDA0eExfZWpiOFdVcEJjb1AtTlpLU1BzdEViS3BPbm5nNXBfb1pjbl8wb1R5MmxiaktTNHI4UkUtSm1lZWNpUVplcHVPMDVfN2hkd2dDNzRpcjFqNXFHUEVjOW8xZTd5bVI2VElHeW05YUljaU8wc1VSVVZ2Slh0dTcycGM2UXpaLUE0VG5SRU1KYjlESnA3Z25Gc1M?oc=5",
+      "published": "Mon, 23 Jun 2025 18:04:00 GMT",
       "published_parsed": [
         2025,
         6,
         23,
-        20,
-        43,
-        39,
+        18,
+        4,
+        0,
         0,
         174,
         0
       ],
-      "source": "The New York Times",
+      "source": "New York Post",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSDJ1ZGlqTG83VFBvQVhLNlVjQkxsbEhGdlh2Y0FQcUhoU1FPREZIUkViT2xjSmpJZWtOdFpzQmVhWXRfNkVrRnBtdWFScm4xT25UYS1BZlZOWGhHX0xvTDFiTXI3MmxlVU1vdUl3Y2hvRUhEdG1QeHFCalZSM0otRGZldzg5S21nLVE?oc=5",
-          "title": "Game 7 of Thunder-Pacers was most-watched NBA Finals game since 2019",
-          "publisher": "The New York Times"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTVU0c3hHT3lhRnZneDA0eExfZWpiOFdVcEJjb1AtTlpLU1BzdEViS3BPbm5nNXBfb1pjbl8wb1R5MmxiaktTNHI4UkUtSm1lZWNpUVplcHVPMDVfN2hkd2dDNzRpcjFqNXFHUEVjOW8xZTd5bVI2VElHeW05YUljaU8wc1VSVVZ2Slh0dTcycGM2UXpaLUE0VG5SRU1KYjlESnA3Z25Gc1M?oc=5",
+          "title": "Shai Gilgeous-Alexander embraces wife in emotional moment after Thunder’s NBA Finals win",
+          "publisher": "New York Post"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbzdVSFNJSkhjdEctMFhfcmhkT1hSTG1uT2tJcUJLMjZzZ2FHM21WR1pMVFB5cFlZaGwzOGN2eTJHcGtFbUNMVmU0NzVXNnJLZGRLb05Pa25fb09tclpiWU1KckxOYTlYMG54eDNvQ1BtNjdjRFRGSVluWGQycmtUSkR1SEJEMmlEMjNWd0N2ZXkxbjlWb2VVMktOQUdDclJKVFhQTk5HMmwwY3JkX0tPOHBFVmc?oc=5",
@@ -1012,14 +1023,14 @@
           "publisher": "ESPN"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZC1wVGlkanRRaXVaODhnNEtNTnVCdElackZVUWpxVk4yZTFOajY3ckQ5OEE5bFF3T0FaaFJTV096aG02WDhxUGdlUWJQWjNvejMwYnhwQmFLVDhpaks4eHZqMnZ3S1RORXFLN21oQXdtSENoX2VwUEMzOTc5NW1iLVlEemloODR1eWdIWENlVTJ0cXBNNG04YWt4X3pYcW9za1E?oc=5",
-          "title": "Thunder-Pacers Game 7 salvages small-market NBA Finals ratings",
-          "publisher": "New York Post"
-        },
-        {
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPenY2TVdWRWRDWTEyNVVyczNJeEJSZENWa3BpMXRoelAtMHBmMjNYNjNRcTZpUFZaZHNDSEtiNzNlOEV1TUpwZXI5ZmxxVndLWHZYbk0wbUtLM3FvdmtFdFVLeTZrM01lZ2c3SVpEUXJIUjYteG44OVJSWk5faUJTcFoyZldsaExXOEZpZjhqRDA5cXd3cFVqMTN5MXVfUUhlMk5QY0llLWxfYzA0THM1SEFjbUoxaEVoZDJyWXpiLXBVak92VW1xUEpMcXF0Z2luRVAydnVlX0RJNGxGRHZwQ0ZVM1BBWDd4Ml8wOA?oc=5",
           "title": "Thunder hilariously showed their youth in uncertainty with Champagne during NBA championship celebration",
           "publisher": "Yahoo Sports"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53aGFUdjlmazBidDZNWTlEeTRlNklyZldiUVdNS2NINVkyODRsZVlzZnl0LWVVX1hFZ2luV09GWVJNalZlZ2VRT0tqZi1Sdl9ha2gtRlFtTkhkcmgzUnhiOHc3dU5DajdENzI0NW9NM2l0ZXRDeDkzRjVn?oc=5",
+          "title": "Game 7 on ABC delivers most-watched NBA Finals game in 6 years",
+          "publisher": "NBA"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONGQycnRTYXhzZVlMcGNRZG5OQW1UaUl4N3ZmWDkyNmVzRWJlTHBQNzVkdC12X2Uxa3pNVmcxM2V1XzFoMk53VE5DZlJwMWNzYXZFMHozajRlV0FHYmxRQklUY3lneFliSF9ZTERNSVlZQnZjWWFRRDBnMDJmbWUyWEZCRDhRQmpmSGJsVmhoYW1iaExXSjZRVUNTanUxMGlyYlFqRDlZYlh2a3BmbV91dmFzUTlnZnRBM0xpUWFreFNMYW9sdkdrVmFB?oc=5",
@@ -1029,114 +1040,70 @@
       ]
     },
     {
-      "title": "NBA Intel: Kevin Durant Trade, Rockets, Suns, Heat, Timberwolves, Raptors, Thunder, Pacers, Kings - HoopsHype",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDFvRDN0ZWJKdlFueHI5N0tTVHVkblRCMi0wMXFwejJibjBFZ05uME9aZ09Zdk90bXp2QjhpTk9oUU0wdms3aUFnS0FqOW9LRFJTM2dvajRrQkRMOGRPd1czajM0VkJqT2dMXzJ4enhUNVZyQXBJejJ3LWEwR0FSdzJxd19ka2w2eTNybmVnR3o0NmlJNVpUc09tclZCVVZvUlNpQ1kxcmhKRlRIUVRYRTBhYkZpRUhL?oc=5",
-      "published": "Mon, 23 Jun 2025 19:20:08 GMT",
+      "title": "Trail Blazers Trade Anfernee Simons for Jrue Holiday - Blazer's Edge",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUmdXWnRKY0czbldtV0ptYTUtM0tseUtzRU9KUVA2UXVfN0xKY2d2aTlXOGI0djg4bU95Q21kQndXRVV6X3JTWVltLXdSYzJuRWFlQ2ZCaXBwTUtETDRuczNaTjFfQmlvSnprcXd3U1ZQbE5xMmV6eUNPeXlVVkVzUFRaT2luVkN0Q0NUZ0RiSjMzM1U1MFdwdUxpdTlGcDhSbTc3UlZzeEdjMzc3LXU0QkNGUllGSWhlUWs0RHVYOGpxakVOZzBXMTBST2Y2amdfQ3JlN1NCSQ?oc=5",
+      "published": "Tue, 24 Jun 2025 03:54:46 GMT",
       "published_parsed": [
         2025,
         6,
-        23,
-        19,
-        20,
-        8,
-        0,
-        174,
+        24,
+        3,
+        54,
+        46,
+        1,
+        175,
         0
       ],
-      "source": "HoopsHype",
+      "source": "Blazer's Edge",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDFvRDN0ZWJKdlFueHI5N0tTVHVkblRCMi0wMXFwejJibjBFZ05uME9aZ09Zdk90bXp2QjhpTk9oUU0wdms3aUFnS0FqOW9LRFJTM2dvajRrQkRMOGRPd1czajM0VkJqT2dMXzJ4enhUNVZyQXBJejJ3LWEwR0FSdzJxd19ka2w2eTNybmVnR3o0NmlJNVpUc09tclZCVVZvUlNpQ1kxcmhKRlRIUVRYRTBhYkZpRUhL?oc=5",
-          "title": "NBA Intel: Kevin Durant Trade, Rockets, Suns, Heat, Timberwolves, Raptors, Thunder, Pacers, Kings",
-          "publisher": "HoopsHype"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUmdXWnRKY0czbldtV0ptYTUtM0tseUtzRU9KUVA2UXVfN0xKY2d2aTlXOGI0djg4bU95Q21kQndXRVV6X3JTWVltLXdSYzJuRWFlQ2ZCaXBwTUtETDRuczNaTjFfQmlvSnprcXd3U1ZQbE5xMmV6eUNPeXlVVkVzUFRaT2luVkN0Q0NUZ0RiSjMzM1U1MFdwdUxpdTlGcDhSbTc3UlZzeEdjMzc3LXU0QkNGUllGSWhlUWs0RHVYOGpxakVOZzBXMTBST2Y2amdfQ3JlN1NCSQ?oc=5",
+          "title": "Trail Blazers Trade Anfernee Simons for Jrue Holiday",
+          "publisher": "Blazer's Edge"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbjMyOG9qTTllYklIWTM4VDJONUpsZHpyd0JCN2VyLUFkZWQ4aEF0ZW9mN3dvWkoxelNPWEtRcGtKNVZJa2xPRlVGRWZObmJ0c1VNUFZiQnNnMHVtX1ZDTjA1NzU3djR5Y1JES2ViLWJ0WXlTQm05LWN0MEVfQm1nbXNGNlhTREc2YUZ4dEI5aWhLMXNjQnlBME1yU1UtUS1GRzdqbDlDRHpkd28tN2VNRmpGZ1RWZkM0Nlk4?oc=5",
-          "title": "KD to Houston: Grades, winners and losers for the Rockets-Suns blockbuster",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONWtIUzJqTS0ycUhKSVFfOHY2ZHpaSTgzMVh4enVTSnlENi03d0d0czhsZ0QyUGVxcVZlT0hNRG5NUV9nTGdGRm9FcjdtVEQ5M1hiaUZYTkx4R09YaTkzRzBoRVNCVm9ZSU5lelFncDBpUzh6NjNveGxYOUJScEJZdjFKcm5ZUGtxU1ZBSlJFdE83MW9KY2JPdEJrblRSUW84?oc=5",
+          "title": "Sources: Celtics trading Holiday to Trail Blazers",
           "publisher": "ESPN"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmFhRmJCLWFHR3lIZXQ2UnFpZWswbHdWcGFFR1lQVmtxX2tSak5feHlSbjJUc1dNdDkwS1RSM241cVNUZjJHdFR0c0dDb0Nxa096TmVPU0hDV1l5SlJPY0VJTFBnT0h2enk0UWUtN2IyWVFrSzBuSVVudkZDaXNKbGhhTVJqTDNPRlJnSFdR?oc=5",
-          "title": "The big reason I'm glad Kevin Durant is coming to Houston? His posts.",
-          "publisher": "Chron"
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYlVBMGtLS0ZNWWpHNm92dTVFY1JZWHVpNjNTMkRXdVloNUtsdmIxekR2cGFENGFzR0tyeW83SzJhWUlPb25kZVNBaHNTY01PR0dGZ2owSGN6RFdDYVdiaU5lNEtyRmxENGlUeUxEZ1g1NjJaaXhpZGR5d25mY21LcUplN280aDZib2JKZWdNR0pkc0NjWU5DT0lOZUFKS21QSFN4cUpkZFU3NmdaZ2NCaVo2OF8zbVYxZ3EyLW5MYTdyYUt4OURnbGtLWWJnWWhi?oc=5",
+          "title": "Celtics trading Jrue Holiday to Trail Blazers for Anfernee Simons, two second-round picks",
+          "publisher": "The Boston Globe"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaXF1TUE5RmsxNGhtVkdZSWRhQlBhM2l5bUJVNGRvVmtIdGZUM0hrSndrdEVJN2lvNmdXR0JtMVcySUhVRERFd0thMDlxell2YWZVSGY1NjVnZy1TOUtuYmxKTWZOY3BoSVNJc2d6RGxzRV9faGNZMnNfZWpURFZpbGo2TlFQUXpRZ1RRQ3l6SkJUbm9pMGtlT1lxVHJVa000Z2l4N2JJbko4ZUNaMGJHYTJCYmtrY2VVTEhiWDJSMS1FM1ZJdGtGaGZGTGdicWtEMkV3?oc=5",
-          "title": "Kevin Durant trade: Why Heat reportedly rejected offer, plus which teams made a run before Rockets deal",
-          "publisher": "CBS Sports"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGVtS0piSm1sdDRvS2h6Ym5kbEN0Ukt5RVNuTzAxNlNYcHlWSWpvSWhsaXRxd2hHZk5aWXBBdTFNTzA4NkV5UGV5Nm4zQ1NmRl9Ybmd1YjNiMFVVREY4UnVhcklqSm1MUXJsa3hlZFROSDdWRzQwN1JmZzR5WEhGWk40TTQ3ZkRRWXk0aWx1NEhINjQ4N2I0WWRpUEJmSlM3UkdFcU94Zk9EbGZkQi1NRUVjd290RGZ4MmZ3RzhET3VBVnh2RU56LV9B?oc=5",
+          "title": "Trail Blazers Lose Their Minds with Simons-Holiday Trade",
+          "publisher": "Blazer's Edge"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbTdkMXZPTGF5RDlwRlVMTzhtcXIxT3ZqNHJZaG1pd0FzYVh2dDdHc0lwajVBNWlLb3dBT1AxSGdTaHA4VVZKNmh1eDZOU1Bxa3dWbVhLcVVFRTJNRElLdnhzOUZWMlhfUzhFcFN2cE5uQ3dwU3BMTXpYTWZVLUhTR2Zub3hHYlFqNzlMM0JQOGk3ZUhvbXA0SVpDTTBBdHFOR3k2TlRIeVBOalNnajV5Y1FqMGNXcTBVNkg2NzhsT3hCc2JhYUx5V25mdVpEaTZmb0hWYl9tTHJUUQ?oc=5",
-          "title": "Pistons have 5 players entering NBA free agency: What we know on Malik Beasley and more",
-          "publisher": "Detroit Free Press"
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOHJWeG1Ba1ZsaWw1UlFvcndiWThyeFlRMF9NYzhOZ3Z3MmlIRjZackRaUXFJdDc0T2xGMDI2U0lQUUFFZUtBTlctR1VZS3JqempNZW16RkRfNkRHMkE0WlBFX3hmblVFRTRCMVdUeWtYd0xYOURsVVRPcnphTjRSWnM4eHZiMjNmWm50OHdqcUZjT1F1c1JOMFc2X0ZaT3VmR3FhYXpvVHlZeU81WlZPM2ViQ1BweFdJbnlOM285YmtDdjVkNUluNEVCWVFNS2V4WE1UZlVjcHhyQ3ZCbVFXbzJETVlLTWRGdGc?oc=5",
+          "title": "Celtics reportedly trading Jrue Holiday to Trail Blazers for Anfernee Simons, draft picks",
+          "publisher": "Yahoo Sports"
         }
       ]
     },
     {
-      "title": "Ilia Topuria explains why Jon Jones isn’t ‘ducking’ Tom Aspinall by retiring from UFC - Bloody Elbow",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjJjLVZMamJFall5cVBpUGZGMXRRSHNLTE5oSWtOaGNlcGx4WlVkbXI2N1htRDVFOTRPVVZwYzQxY21zYWJlc1RZdll2OFNpYXhqMldqcHFPOGFUZDBZQlpLbWVUbUR5dWMtSjI4bnA0YnpSNHJXTHdOR2daelFpejNteGdNX2ozQjd0aG4zeGxTWHZndHpjZXF2OGFHdGgxM3dyc2xPdFZvcS1lemU3NDJ1Q2FYNWZQM1E?oc=5",
-      "published": "Mon, 23 Jun 2025 22:31:40 GMT",
+      "title": "Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZTh5RThqM0pYdFc3Y0k2YU5OSWpBZWhlWk5vOEZpMGpRbUpySVZnT2M5X1BlOXNXZ1FWNnNPUGxjWmpBSTdYQ3pIZ3JXeEtUTGJXMDdfdnQ0MTlVbl90US1FdlJKU0pHWHlrYXNfR0xHWEJHd2cxNlp0MWhWQXQtNkZBMVpCZ3gyT2c?oc=5",
+      "published": "Tue, 24 Jun 2025 02:22:25 GMT",
       "published_parsed": [
         2025,
         6,
-        23,
+        24,
+        2,
         22,
-        31,
-        40,
-        0,
-        174,
+        25,
+        1,
+        175,
         0
       ],
-      "source": "Bloody Elbow",
+      "source": "The New York Times",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjJjLVZMamJFall5cVBpUGZGMXRRSHNLTE5oSWtOaGNlcGx4WlVkbXI2N1htRDVFOTRPVVZwYzQxY21zYWJlc1RZdll2OFNpYXhqMldqcHFPOGFUZDBZQlpLbWVUbUR5dWMtSjI4bnA0YnpSNHJXTHdOR2daelFpejNteGdNX2ozQjd0aG4zeGxTWHZndHpjZXF2OGFHdGgxM3dyc2xPdFZvcS1lemU3NDJ1Q2FYNWZQM1E?oc=5",
-          "title": "Ilia Topuria explains why Jon Jones isn’t ‘ducking’ Tom Aspinall by retiring from UFC",
-          "publisher": "Bloody Elbow"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0JjbWw4MTB0eGNoYUk2MGJxQU44bDExbHg5MzhNM3dzS2IzUTBfd0lrNExxUGRKQlc5VWx6TktaWVR2Tkx1bWJ0U3E5cXNfeHBaTExCQ3BGWUE3bzM3S0ozYXF0bFBrb0hQc05SZHZKRVdmQkU4T0ZhZGJNOHJSSktHV3Z3WUFlNUtwTXkyUU9yMzZPUzBlRUM0ZDR2RTQ?oc=5",
-          "title": "Jones, 37, retires; White: Aspinall now champion",
-          "publisher": "ESPN"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaGpBM0hlYWlsNWhHWWItb3U3YjNxZ3lqV2VTc3dkZ0dVYmsydVhHRXktLVBLTGtLWGVoSm81bHNiTkJ0U1pRMXg0WHI2aG16LTJrdmhJSVRBZXp3OFpEZmdCYUJqTGxRbmt1Wi02ajhMVmxMTzM3d0JwT204X0c1VXF0TDJ3RG9TSmxJ?oc=5",
-          "title": "UFC champ Jon Jones retires, hit with another criminal charge in Albuquerque",
-          "publisher": "Albuquerque Journal"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWFZwTzdqWHVFQU5wRDgzV3h5S0thb21jNU02am96ZGxhNGM3LV9SRGFyVDdxRkNYRVRVamNnME8xLU16cmx4cmtXNTU3NEl2YVF6czV6dEplcUt0RXlONnd0MC10allKZnFTYzRNMnluZWptUFQwdnlZTzA1SkpDMWlFX2U4VTdEaGo2R1lrb0FPSDR3TFBRZzRGbW1IZmxsMHJNNVpmc2phTE5QUk1ZcF9nX1ZWTmZjazJXZ2MyNG9kN2IwRVNSY2h5eGl4Z0E?oc=5",
-          "title": "Khabib Nurmagomedov pays tribute to 'the best to ever do it' Jon Jones after retirement",
-          "publisher": "MMA Junkie"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFQxeGJnU21EdDdiX29fMWdiUEk5S0NVOG1TMkxCUmx0X0Z6V2kzQThxVC05Y3BYRWVXNTR6aFE5UWJqeHd1VTJpdDBlWGM2Tmk0d1QwOC1xdmVidEl2WFJldWp5Y3h5VlZVLXlrUnpxSzRGQThMMF9NaGtCLWYwd2tmS3I0RUlhY3p5QVlNNWZPWmc4SUN2dlZYZ1ZzNnYtVHpuXzlSbVdvTGZDeGZPaF9PQmFLTmdhbGhaVFc1bEMyT3Y5OWc?oc=5",
-          "title": "Jon Jones announces huge career move as he looks to cement ‘true legacy’ after UFC retirement",
-          "publisher": "Bloody Elbow"
-        }
-      ]
-    },
-    {
-      "title": "The Rubin Observatory found 2,104 asteroids in just a few days. It could soon find millions more - Space",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSmRmczd2bVFPcnRQUFotUFdpcWJyN0V6Z0h4OFR0c2VoUGpiVG5ucmJTRzVvOUp5RHZHOEdaelo5ekZpR3M4QU9CYnJhMnBTLVFrWThCV2QtVlJoVXlhX08xMWlEa01OTEN1bkc5YkpUU25JOUZBQUl3RlpaZDJDaWJnekJiOVFIY096MFJYc21XZld0UWY2d0QwMGtkVk5kSlFHakhFX1N4U2lnaWpLeWJxbG1oWEpYOGFEQmZsMEhTaFdRUUE?oc=5",
-      "published": "Mon, 23 Jun 2025 19:00:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        19,
-        0,
-        0,
-        0,
-        174,
-        0
-      ],
-      "source": "Space",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSmRmczd2bVFPcnRQUFotUFdpcWJyN0V6Z0h4OFR0c2VoUGpiVG5ucmJTRzVvOUp5RHZHOEdaelo5ekZpR3M4QU9CYnJhMnBTLVFrWThCV2QtVlJoVXlhX08xMWlEa01OTEN1bkc5YkpUU25JOUZBQUl3RlpaZDJDaWJnekJiOVFIY096MFJYc21XZld0UWY2d0QwMGtkVk5kSlFHakhFX1N4U2lnaWpLeWJxbG1oWEpYOGFEQmZsMEhTaFdRUUE?oc=5",
-          "title": "The Rubin Observatory found 2,104 asteroids in just a few days. It could soon find millions more",
-          "publisher": "Space"
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZTh5RThqM0pYdFc3Y0k2YU5OSWpBZWhlWk5vOEZpMGpRbUpySVZnT2M5X1BlOXNXZ1FWNnNPUGxjWmpBSTdYQ3pIZ3JXeEtUTGJXMDdfdnQ0MTlVbl90US1FdlJKU0pHWHlrYXNfR0xHWEJHd2cxNlp0MWhWQXQtNkZBMVpCZ3gyT2c?oc=5",
+          "title": "Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids",
+          "publisher": "The New York Times"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zLTZaWEk0TmIzU3lhY0NxS0dFYXJjaHhBcHlYQkhVbjl1TWZEWVE3RGZvN2RscHhESjJWdTRuQ0JKNWV0V1ZFNWhhYnpPQnVHYjRjYjl0N21SVjBtdnU1amdtazNJY1VIUjJzcFFWcWI3ZWhuTE5wMy1hNTl3ODTSAYQBQVVfeXFMTU5aOEd6bmMzUE11VVJ1RzFacmE5RXBCM0RobHkxbXA2NHY1WTdxQ1ZtalhaX21SMXlmOGU1UXU0QWY2T3BoMlo4MzdqLWZNc2dzSEU3dzJUVTV5MzBwaW1sX2gySTl5OGE3cGVUUUdfNDdvaV9zS2s1VTBJeFJjS1BhVmdx?oc=5",
@@ -1144,19 +1111,63 @@
           "publisher": "CNN"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU0JkdkJvRmJ6X1I4MnFHaUNDZFdJYlFJWl8xcHNPTWZuaDlhYXc4cEJkWTRCaUFscmRMS1hlbTNrQ1lUM3BoZlk2T2VZTjJRVWh0Y2s0YUdUUXBYeDFLMFJqMGJpMm5meFhBXzFIamM2TkZNVkE4d21MeWF6VWtNMURRRGxMLWYwOUtZRnNYYkZHNEwxWDBPaVRSYXYzQ0w5MXc4SG43SEpZUHE0OGx4SA?oc=5",
-          "title": "Viewing never-before-seen wonders of the night sky at UW watch party",
-          "publisher": "The Seattle Times"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XN0ZBVnFETXE3ZWxUWGN6b3F6WkJmdWlMZ0RfbFpEdjVNSUxHRTF1RlRYaXYtQmRHTGZUSTJWYUYxSHVtRUFTRGw0VmpvdGsxNFUwZWR6WnYydw?oc=5",
-          "title": "First celestial image unveiled from revolutionary telescope",
-          "publisher": "BBC"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUHQ3THVFQVVoRlM4cEdCMy0tYzhLYVhBX0lzMzUyMkMwX2VmdHFaZXdXNG5oX3N1T2xWenRfVGdaSFhNOUI4aXdCanBTR042WDI1d295NjktY3NVWm43WjJJbUtkdDdDUUdLYndtbjdnaUdOaHVQa1lGZGlOR2VlRXRaYzk1RHFNYUhVNlFHeDRONVNBbE5ZTDc3MG9UWkVZUUdLY2xVY0NLMGlscFNTamRyWdIBuAFBVV95cUxOMUtBdXJvcVdRZGxQaTJUdy01c1AxQlhwYnFyd2dvM3NsTktaY0N1SGg3cENGQ203TENVSnQ5bmsxb0JzRFRJZC1zRjJUV2FtLWZheHJhUUR3OFBKdnREMXVsejFfMTlDVkd2Vnd5TDFGd1JwUEh6SEU3X3UzTXpST2FoV1pocUJMSzZ4VUZfQW1aS1o4VmMyVmxqQzlrVmo5b1hmdGRUdmhiakF2Uks4S2ZYMWJxWFpP?oc=5",
+          "title": "Telescope built in the Bay Area captures photos of space like never before",
+          "publisher": "CBS News"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON3NtdGtybmZRZWhzSjEwNGhybEV4YTZKdkk4eVRMNXlYZDJLN3o2Nnp4ZUNsRGxlODRDOTlMbmEzc2FZS1pkZDZLTFlXRm9OS0VEamNCNzJER3AzenVMQzJxeTliOEtESUtwWU1tZTJhNHNwa0d2TVpvMmJubC00dWppM3UzSEJkUjBMZ01HbGVYSTVoRllCdVduNER0MnhXUXZRVC1HbFBnSnFhV1FDS29UMUttalk2OEhPbzVn?oc=5",
           "title": "World’s Largest Digital Camera Snaps Its First Photos of the Universe",
           "publisher": "WSJ"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONldaUkRmM0tNcVo4U3psQWdwdFZqUXQ1VTFPdlNXU1F0UUMydHF0bTVjMXZIdkFGcDA3RmFlM3gzY1drWTRjTlJCbUVQdTFoSkEtRDJGV0dZdFZCOWUtOGhJN1ZkdTN2NGs2a0hUdGJXd3phSnV6ZXA0NEFjTTFVRTQ0eTJCOWdUV2c?oc=5",
+          "title": "This observatory's first images are stunning — and just the start",
+          "publisher": "NPR"
+        }
+      ]
+    },
+    {
+      "title": "Japanese company blames laser tool for its 2nd crash landing on the moon - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRjMtbUFWRzJEalMxel9BZ2JQZXR1NGd4Z2lnMi1IdE5GZk5RRVM0R2dmNzdTQWJ0NlNlYW9FUW5rcGxjaE0ySDFKM3RnUEs2dEFQM25PNkN3dzZ1TXVyV0NpOUpOb21wTDJtek9aNEVhdUJSMTBQNVpPdnAxY0VXT1JYa2kyeHg2bzBUOG0xbVVTVERDYVE?oc=5",
+      "published": "Tue, 24 Jun 2025 02:26:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        2,
+        26,
+        0,
+        1,
+        175,
+        0
+      ],
+      "source": "AP News",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRjMtbUFWRzJEalMxel9BZ2JQZXR1NGd4Z2lnMi1IdE5GZk5RRVM0R2dmNzdTQWJ0NlNlYW9FUW5rcGxjaE0ySDFKM3RnUEs2dEFQM25PNkN3dzZ1TXVyV0NpOUpOb21wTDJtek9aNEVhdUJSMTBQNVpPdnAxY0VXT1JYa2kyeHg2bzBUOG0xbVVTVERDYVE?oc=5",
+          "title": "Japanese company blames laser tool for its 2nd crash landing on the moon",
+          "publisher": "AP News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVF2X2FiWnpLZ3k0RzJuMTRrb3F5eTZ6R1hKSFkwWG9pY2U0cEhxVVYtamZpSkNvM3NXMkJYOW5GelZLa2NCc2lpWVpRZlN5NWIyTGU5Z0VIYlA0X2RuZU40YzMtMTBQQkJZT2VGMGVKMEQ4X2ZDTFFFTU4zbmhHOGFvTDJ1WGs5TmRGc1lOeDNDR1BOWHRxWllKZTN0eXB5aFE?oc=5",
+          "title": "NASA’s LRO Views ispace HAKUTO-R Mission 2 Moon Lander Impact Site",
+          "publisher": "NASA (.gov)"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONEVoc3UzSUlBQV9oT0V2Nm1OaEdmOURLU3RBNHRIM1VNaWRrVXA1STNNak5hVTlyRXQzQmNTOEpoUXE5YUtjM2N6andyVG9oQXZJUF85NERRM3lER2lsS24xOENHLU10aDU4cTZpRkpsMHFpU0ZscGttVnZjcFdESjBLY2V2bTFNVHc0al81dlJyQmZIVWRaZ1gyUFJlb2oxMzNoTkRIQjh5ZUNwNFVDMHgtdzdrc3Vy?oc=5",
+          "title": "NASA moon orbiter spies grave of crashed Japanese lunar lander (image)",
+          "publisher": "Space"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVBMaTM0bWNhMDlJS0Y4Z0FTNzNyZUZsOFBXOTF5aHBnTktUUnhmczU3VmdxQkdjS0pMMWJoblJIcHBpUmE5MWE5aTVDSEFrT0VmMWdWMmZ3YmF1VW90S3R1Y3g2ZkJER0FVcEVMV0pHd2pKcVJXejBETmliWlJwemJUWktSeFBz?oc=5",
+          "title": "NASA spacecraft around the moon photographs the crash site of a Japanese company's lunar lander",
+          "publisher": "Yahoo"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YY0dzYnJ3aldLZUVsS2FVM0tUdGFFRmVSNEZjY0ZkcmJYSVE5TENTTUZVZ05uTWNvODhGVnJPU3ZRSi16MmQ3R0Jsbms0cmJxRldQay1fZ0hCejR2OTVMT3FGVnhEM3BoUmJsdjQzeUM2c3ZMakNYU1Y0dnFVZw?oc=5",
+          "title": "A Strange Mark Just Appeared on the Moon — NASA Satellite Captures Startling Lunar Disruption",
+          "publisher": "The Daily Galaxy"
         }
       ]
     },
@@ -1188,35 +1199,35 @@
           "publisher": "Yahoo"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xNG84cy1pRFJ0cEVWeG9rZGRaeDhoZzNpX2hlZjRsWTB3ZHZuU2M0WU1WenhvT3Q5MjFZLXhxamM0aGI0SzdlNVNDNEJxa1htR3dieEd0TTlwNXJkRnBzakFENzZHbl90aDJhcEtQQ3lTQWFEMG1JY1lzNmRUS3PSAYQBQVVfeXFMT1hvS2R6RFktN3pnS3pULTRfX2hPZE4xRTBxaGtIUHJVcWtRRmVZZE0wcWIxQ3pqQ2RYOTZkaVJ1aVozaXR1cmtwUVYxSzQ4cFVBZ0p2N0pSMHd1THFkSmI1Vk1HcTlfdXpmZXdwMERzYXdhbFBxSkVWVlphVmg1aWNJWEs2?oc=5",
-          "title": "Astronomers detect pulse from satellite that has been dead for decades",
-          "publisher": "FOX Weather"
-        },
-        {
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRkpkWDVvSWhBa0JNSEFMYU1KWnpPY25HLS1PdHlrSkxTSE54OFphdHVpS0JhaEhlNUd3ZWJKakUzRmhNd0kwRFJRd0M2dzhtYTR2bWx2cUVmVmR4c0FseDJXVl9DTnc3RnV1N0ZqcldMWDl6SUd5ZHN0N2lEXzBWWHZ3UG8wQWdFZGo1LVdDTQ?oc=5",
           "title": "After 60 years, a ‘powerful’ pulse from this space probe has scientists baffled",
           "publisher": "The Independent"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSlpwU29hWWIteU1WU1NtUlhZeThTS2ZNUzlXd3JNT2IyMlBfd1FiNTVFenpZWU00c1VSWk9TTGpYb2ltQ3lXMkN6b3QxLVlEc1BaNnl3RXRfNGJOVEdjZUJIbDZEQmhnUTZ1RWxhaUJ4RkdJREtJZlVOTzNHQUZHb1BnOWhTM3RUVWJnOFNBeG52UU9RbnJLeWFvYUdTUFdOX1VUcjMycE9IdmvSAbMBQVVfeXFMT3paV2RnUjlvWmZ5czBiZGcwbTZxVXZkSVJLRVpLTWVkOUhpN1oxWWtLUU9NSG02eWdtNE9hNDFYbW1IQlMyYmYxOUpMcE9DbDMyUGJvUnZOTkRTNmJObmFNbmhTT2I4cEE1NUZRU1RBc2txSjNhV3cwV3dIQlkzRU9DM3RDanRJY1MzMUVHZnNpTTd0emRUU2dpeXRPOGNzUjZjdXRDeTM1TjFpSFhONTJrM3M?oc=5",
-          "title": "Mysterious \"Dead\" Satellite Sends Powerful Signal to Earth After Decades",
-          "publisher": "NDTV"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xNG84cy1pRFJ0cEVWeG9rZGRaeDhoZzNpX2hlZjRsWTB3ZHZuU2M0WU1WenhvT3Q5MjFZLXhxamM0aGI0SzdlNVNDNEJxa1htR3dieEd0TTlwNXJkRnBzakFENzZHbl90aDJhcEtQQ3lTQWFEMG1JY1lzNmRUS3PSAYQBQVVfeXFMT1hvS2R6RFktN3pnS3pULTRfX2hPZE4xRTBxaGtIUHJVcWtRRmVZZE0wcWIxQ3pqQ2RYOTZkaVJ1aVozaXR1cmtwUVYxSzQ4cFVBZ0p2N0pSMHd1THFkSmI1Vk1HcTlfdXpmZXdwMERzYXdhbFBxSkVWVlphVmg1aWNJWEs2?oc=5",
+          "title": "Astronomers detect pulse from satellite that has been dead for decades",
+          "publisher": "FOX Weather"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlF3WjJEMGhIYXpzTWQtVnZBOUh3Y3NIVG9HRzA0WDJQYTZObWFBWk1tb3ExQTZVaHlxRmhqNldkU0RZTkp6X3F0Q01hQlEyQnFLaXhib082U3pLSFJWTlNLaXgxVUVRTEs0NTBZeEdzY1hCYTZScUV4RWMzeHRrMmYyQl9wVm9xVFl1cmJkSE9OSVZhdDBHU0tTZ2h1Y1h5QmhnSXVhemQ?oc=5",
+          "title": "Dead NASA satellite unexpectedly emits powerful radio pulse",
+          "publisher": "New Scientist"
         }
       ]
     },
     {
       "title": "Scientists use bacteria to turn plastic waste into paracetamol | Drugs - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX3YxaVVDcUp3cjlvSzVFYVExUENkZFJrYk1mWGI3X3FHZndKdm9QS0ZWMm1GRGl0S21tX3g4ejhYT0x6UjdDUnhQakphajZXTUJDMnhNd0NESTFfRTVkR0x1cjlkdjRIZTVQMWdHZmFrU3FIelN4YXVhSHFIU0tFN09wS0VqcUhldmhlc2kxSHZZclZrdzB4bVExVGdpYXVENEZINm5UQXpSRkRPLVd6NlVVdnRyWkF4ZTMzY0ZZY0lIX05ac1Uw?oc=5",
-      "published": "Mon, 23 Jun 2025 22:06:00 GMT",
+      "published": "Tue, 24 Jun 2025 01:31:00 GMT",
       "published_parsed": [
         2025,
         6,
-        23,
-        22,
-        6,
+        24,
+        1,
+        31,
         0,
-        0,
-        174,
+        1,
+        175,
         0
       ],
       "source": "The Guardian",
@@ -1249,51 +1260,7 @@
       ]
     },
     {
-      "title": "SpaceX Delays Rocket Launch Until Monday Afternoon at Vandenberg - Noozhawk",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSzNmeUctV0FSWkpUWHd1V082bEJLTzc1d0dIRlFZekJ1bWlhU0xlM3J2VDhzSlZEZE1RTk40a2R0ZjZqUEl1SlV5MWpicWF6d0lRSkRUMzhONTdiU3J4NVFaV1JHMTIzZEhFS0FpSGhpZ1ZMYXBtUV8tT1pJZEE1MU5zaDgwSU9IMUVSOVUzOHJRX1hE?oc=5",
-      "published": "Sun, 22 Jun 2025 20:26:52 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        22,
-        20,
-        26,
-        52,
-        6,
-        173,
-        0
-      ],
-      "source": "Noozhawk",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSzNmeUctV0FSWkpUWHd1V082bEJLTzc1d0dIRlFZekJ1bWlhU0xlM3J2VDhzSlZEZE1RTk40a2R0ZjZqUEl1SlV5MWpicWF6d0lRSkRUMzhONTdiU3J4NVFaV1JHMTIzZEhFS0FpSGhpZ1ZMYXBtUV8tT1pJZEE1MU5zaDgwSU9IMUVSOVUzOHJRX1hE?oc=5",
-          "title": "SpaceX Delays Rocket Launch Until Monday Afternoon at Vandenberg",
-          "publisher": "Noozhawk"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaFhKel9qZXpGUkdJSnlGc0NHWmF6bW5RSGktbHUzZTdiLWU3UExkeVp5SkItVFhHNUNYcVFkOC1LU01QM1E4NjhEcEMwdTdtblJueFp3a3h5WktZSlVjNUxWUE5pZkUxaFZSWnF3MnpQNlUyVktlMnp6UEtibnBwTEhxelI2UnF5VDJLMTJhX0ExYnNISklQaTR2S1BMQXlmdFUwWFRWelp6VFlsYnJ0b1J0MVFremo2emQyMVl0RF9OdkRRb0Z5d29R?oc=5",
-          "title": "Live coverage: SpaceX to launch Falcon 9 rocket on Transporter-14 smallsat rideshare mission",
-          "publisher": "Spaceflight Now"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRW1NMC0zNktLdW5QVWw0UU96TG1xT1JCOVBTTkNFeDVyYkttUUkxS252U1BGaktwQ1dhTlBFUWo0RDMycU5EUDRDZzRCS254UmFLSkNhc1daMDJWZW1SdnNYLV9DRGV6dmlPaEp4NEZvU3NTS1pic0diODlleTRrNU1kYnB5eWFtU3FjZVl4Nkx0VnVRbUJHNmVPQkxyQ3JkbnNfQU5EUGR3aXM5WV93NVBzQnFzMFF5ZGxac2Z0cUVSRnh2d3JCaU9sV2VXazJxNWFSY1JzZ181LVNYcDhUeXN2MVE?oc=5",
-          "title": "SpaceX launches human remains, reentry capsules and more on Transporter 14 rideshare mission (video)",
-          "publisher": "Space"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02aXFGeks4OF9hMHJXR0VYYy1jY0pVTENvcVVSYmFQYmc1STVUTTRoRGtfanowQlhONFVFR3NjbDQ2by1pMGlsNmxzWjEzYXhTT0J6eHVLREZLN2tuVWdCczJSa2h0WDBJTnVjQUZOSkdhWC1hU293aWFVV0F5YUU?oc=5",
-          "title": "Celestis Sends 150+ Memorial Capsules of Human Remains and DNA Into Space Aboard SpaceX’s Transporter 14",
-          "publisher": "The Daily Galaxy"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcVN0eGkyMTlXVmh6bzNRUURLQVAxSkNteFZNWXlzbFQwTW9rT1h0Tzg5SlpVbFZkSW5JeXBuRE1laFhobEZWUGEtMlRkU0ZLZU5fOHBJSmVwTHpYb2MxZGhIbWFuZGxYSWZ3dUpsWFg4VEhzQnFDaTBWb1ZMNnB4aG9BWER6MEhxcWZweDI5WDlBWTBPb2ZGYjFOcXQxZw?oc=5",
-          "title": "SpaceX launch, school supply drive, and project completion",
-          "publisher": "KSBY News"
-        }
-      ]
-    },
-    {
-      "title": "FDA approves HIV drug based on University of Utah biochemist's findings - KSL News",
+      "title": "FDA approves HIV drug based on University of Utah biochemist's findings - KSL.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0UwaHhxNG4welhPazFISTJPUjhXRFNadTVmdlVOZjhORExkdjEtemZzMDRrLVF5NS1rS1oyS0Fha1dnTko2c2ZuQUNDZWVDUUk3VS1WM3g5QkZrYU9hTmxscnBBSEdMbnpCUG4zRkFsRGZDNzRzRWFWdzJVNFJ2UEtLTnVfSHZ5bnlvWmoxekZjVnRtTnZMaUZ0UUdVMUNqa3dFZktkUDhXN00?oc=5",
       "published": "Mon, 23 Jun 2025 23:01:45 GMT",
       "published_parsed": [
@@ -1307,12 +1274,17 @@
         174,
         0
       ],
-      "source": "KSL News",
+      "source": "KSL.com",
       "sub_articles": [
         {
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0UwaHhxNG4welhPazFISTJPUjhXRFNadTVmdlVOZjhORExkdjEtemZzMDRrLVF5NS1rS1oyS0Fha1dnTko2c2ZuQUNDZWVDUUk3VS1WM3g5QkZrYU9hTmxscnBBSEdMbnpCUG4zRkFsRGZDNzRzRWFWdzJVNFJ2UEtLTnVfSHZ5bnlvWmoxekZjVnRtTnZMaUZ0UUdVMUNqa3dFZktkUDhXN00?oc=5",
           "title": "FDA approves HIV drug based on University of Utah biochemist's findings",
-          "publisher": "KSL News"
+          "publisher": "KSL.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2lTUS1zSjZmakxZUE1NZHNnQ0czWFpOMnhmbW1DeklhTjQ0OTlKV2xpVUFDcmpuRlE0ekZHRXBvUl9oYjAwTWZDZTQzcF9zWjJva2R6eDZWT0ktaHRDMGpyQnpTcWw2ZVZ2Rk5YWXZUajFXdlRnRHVwdXR0VEdicS03b0QxZUpqN1NJU2NRaWR0VE0xV3NtS2ZCczlIRVFuYUw4N3MwdHJtc0o5MXUyeXFjNTByU1NUV1hJWHNn0gHDAUFVX3lxTE9rdUY1Y0dzUGRjU0tEay1zcWRELUE0YzRyeXh3X2tBVlhlNWpjZ2NFNWF5aEczV05uVVNyNXN3TzVncHhxaFBlWmFEa1Y2VVlyazVjMHhDMVRlcFZiZmpuSEo2WU85MmtFYk4tcXNiaGtsY0g2OUtmOVZJd214QzNZTGlMLV9KWi1GMm1BX0dyT2VKYUlmbGFBZ1NfQ3RES3V6cy1NTnAtUXhwQy1PT0JQdzFRNS1DSFZyRjBKS1lYM1IyMA?oc=5",
+          "title": "6 things to know about lenacapavir, what experts call a ‘wonder drug’ for preventing HIV",
+          "publisher": "PBS"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YWURfVmdsU0loa1UyaHRXck5oYUIyNXBJVzJoUHJ5MG5kYW9tVTVEcmpPY0wxZEd6a0FEbEdQaDI4Szc1WE9Od215UFRmM2ltVW1odUNaQm9NM2M4LWNvSV8tUEdkTV9yY0stS1ZhUHJQU2Rz?oc=5",
@@ -1320,19 +1292,14 @@
           "publisher": "The New York Times"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdDM3bEdzZXRaOWNtdUVFVFRZaUpaQ1JSY1I3cnpRU29GQnNyM3pvUDZNeUpEQmJFUFdjZS1IQ3VUSDZYV1BpWXlTS1IwZWl2Qk9kOW1XUXQxVGoxd1pMc0VscUFpM3NiMXg0c0VDQjdsSWJIdWdWdm9haGZVOHVpOTN4ajBfcVdZWGVPQUFoZTZDNVVyUEhZNXRjVmdfMWxGRk1TZnlRYkljdkhzTG1uamZiWk5ZVVFpdmo3TFVn?oc=5",
-          "title": "The decades-long journey to Gilead’s twice-a-year HIV prevention drug lenacapavir",
-          "publisher": "STAT"
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNHRoTERjQUlScmxxbGVvTkJZbDlNMTZWUk1ubVB5UFFkZ0VpX0I5clhmLUI1SHdIdVFubl82VGJsWmV0Wnc1RnBXbkprNGVXaFJrbG9aR0MybVNwbGp1bUwtbGNVTTh0TDV6SnNMQkdmdzk5M0U0R1RBWVdlaHJFN2JsMkprbEFWZXdLZ1FPUV80VWlBTzBEdXIxeGR2SHVYRmRsRTV2NEhnenNlZVdROXoxTXg?oc=5",
+          "title": "HIV prevention drug hailed as a 'breakthrough' gets FDA approval : Goats and Soda",
+          "publisher": "NPR"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Xei1JX1FfcW1KRmFkS2JRc2xueDVFQTE2cEktSDJ3NlB1WDFzLWdBZVJ3cDlfS2ctUFNhY0FLQ3o1QWlNLXJvd2oxYUZqZlUycDdkQk5pcmJ6ckNkemdmczFwTUJLNGw5Mlp2UkhBZ1l4UmpBQUwwZzFn0gF6QVVfeXFMT2diSG9MZDAzdFU0R25NLV85T2RwaUhFMENjZnYzc0pOU1pBSUNIU3lpV3NyY3hpWjNaLUxaY0duVGcwV01fSm9lZE54X1Z1WmJxaHZZTjFQeVVaN0ZkcUhoSE9TS25POTd3U2VkUXV6ZlNwVktBQ3poQnc?oc=5",
-          "title": "FDA approves twice-a-year injection for HIV prevention",
-          "publisher": "CNN"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWJjTHMzNTVLSUgtMlM2SDdxRDU0aGFPQWsxa2Yzd0pZa05IMThkb2hOTmk2Tl9KQmFuZmtnemN1QUllS2lyM0Radk5SNVNrZEpSVlJ2cXdMeVVrNHoyUW1nLTRRSjNMZmYzbmliWWxYN01uUldPWkk5NlNaRVRfaVduTk16em5iM19mcTZzb2VudkJxSG9WbERB0gFWQVVfeXFMT2w1djEyMlRmVnlwZFFndVkxTF9sV3RCbXZKaFA3cmlRVm54YU56Q2FPc1o4LW1BZVlOemx0ZGtFaktnVUhBUC1zbUF2ZjU2TTFSbjZDTlE?oc=5",
-          "title": "FDA approves powerful HIV prevention drug: What to know about Yeztugo",
-          "publisher": "NBC News"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMXh0UzVQeXhQb1RxbHI3S2hMVWQzcGlOdzc2OEpqcE0yYUlMZWN2TF8tS2dfR1FkZ2J5VUtqQy1tc0RTdDNLMFdSSXQ0TXBTYmJUa2JpZjBaT1RHOE5ib2Z1UWF1VWlOT3pERE52VUgteVpMT3daMnFqNDJBR2FRcDV4azcwZzhpWm9YSnNVS2ZOM0d3NURxQklrRUd0clVrek1nUkdkNmFBWVBaR1RhWXJGVHJybDdsbzM2dg?oc=5",
+          "title": "2025 Warren Alpert Prize Honors Scientists Whose Discoveries Culminated in Novel HIV Treatment",
+          "publisher": "Harvard Medical School"
         }
       ]
     },
@@ -1359,9 +1326,14 @@
           "publisher": "Medical Xpress"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NVjNRcDk0WXg5X2VSSXBEOHZlenZSeUE5dU03em9fV1ZNQVprOU4wdWV5SzlHODF0RUt2NEI5OVo5bmctcG8zNWtTX2lIbWw0SURUYTdhbHZCNjVXRnhZ?oc=5",
-          "title": "Comprehensive evaluation of plasma tau biomarkers for detecting and monitoring Alzheimer’s disease in a multicenter and multiethnic aging population",
-          "publisher": "Nature"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZW40dW5zOFJtQTdDeXBhMFp4cFhSdHRsU1VGV0xIZ0htOHBNcGdLa01XaFF1c3duX2JjRElYT2hESW5xN1NFZnVNVHdoUmRVaVN5VG03cXpLZ0huZVYwVS1ITTBBMTZBR05fSlRVbWowTHpEeWN2YmR4VW1SdGs3VmFTQ0NCZXZsNnNneU1mQndONHNMWVBfT3dRMW10T2NMZGFza19qUdIBrAFBVV95cUxNaFZ4RDVSNzhHWnllRlFESUJDN056cU5hN2hqSUp4YmVBeWtmSEp3TllJNVNjRG1BWTljc0hBMzhMbks1UkZudnhtY0NHallUVE5JYWhNcDhubTRNTTI5SUxYUnNmcUlOTGpYU0xNYUN4OFRmczhEX0o4LUIyOURXcHZfWjhlYjhSdnNXdmd0dkdlQ3RTSG9JSF9LTFE1OFZWOGk0dmZWU3g0am9j?oc=5",
+          "title": "Simple blood test capable of identifying if you will rapidly develop severe Alzheimer's",
+          "publisher": "Daily Mail"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNdTR6MDZRX0JMS1Y5ZFdLcnoxYVcxYVdXQVdxbWNZNm1ORGp2am5KNHJESmx0N0o0ZWd1WFBFbUQzT0E4aVM5VjdCa2QxTTZBTHVIWjI3TmtEUEhQUlMwQ2RxWGcydHFyRUd0NmlmcjhQbjJMd1NxeVc0am1vNHFrRkt2cW00bWpfRWQybjRPTWZ2enZwYnUtTk5SLU5rLV9aOGdrYWVwbGo2bGdtRU8wZW9pNjUxLTFxRlhQNjhSR1lZQ1pkLVk3SDV5YzVhVDRmUmI4UWlPSFY0NW5oUnM0Y09Nd01EcGp3OXZXRVl5VzV2VXBwVE5zNTNNeXlwcmN4YlFNdVJvRS1rQnhKWFhseU5SWS10eXc4elNvcUNWbi1mY05lc1luemNmNWlxQVlo0gG2AkFVX3lxTE9ocmo4cXJFNkwyMmZCeXZ5Y1gxTWVoenI4cTJWWUpyUEZFckozWHE0RXQzaDF1a0QzX3QtLUV6ZjZJSTZwdXgwdHNoMzFja1ZNUTRJY1lROG9YcF9POGh2SE5nMVotb2hMREFKVWNxcVVkVTZQcW1vYklTZ0RGUF81U3pKcjRQT0IxU2gxYWU0a3VzZWhKZ04wcDJPOXBRbWJyNVpPOW81bGdRTzZvN2J5RVVGYkxpZThQS1MtVFdjbzg1bzlYc1NXWEZPd3h1MktTUkJlTkhfQnZRcS0wZ2ptaXNETER5WGthMFpNbDkzVzhoS0J1RUVvSVZ4cHpIZ1RqdGJTX0kxcnhlT0kycFBVQlBLclpOTFA3ajY0dHJKcWgxNDhDTGVvRzhSNkEwUTRsZmhqbWc?oc=5",
+          "title": "THIS common condition may speed up Alzheimer’s disease: Experts recommend a simple blood test to determin",
+          "publisher": "Times of India"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcUFCWVpxTThZb0ducDBHTU95Z0tLRDlOcDJaTl80MThIeUFleGNkci1fSW5EdjJEa2lBOUxZQk1jOEtMa0h2a3liTXpXbnp6YUVVSDJUNUlxX2kxZEpVZHMzWFdOZ1VDdk0xQmV1NDM4X3ViVGdybGFjODBJZVJ5RWNGVTdQVTJLeUJRZ3A0LWI1bXVnTmZWVk4zZ2RMZTJjaGlCZTlJamVyTWctSmM2bmo1NXptX1pzZE9BSmVwWjlMdVVFbzl3SUR3?oc=5",
@@ -1369,14 +1341,9 @@
           "publisher": "Inside Precision Medicine"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZW40dW5zOFJtQTdDeXBhMFp4cFhSdHRsU1VGV0xIZ0htOHBNcGdLa01XaFF1c3duX2JjRElYT2hESW5xN1NFZnVNVHdoUmRVaVN5VG03cXpLZ0huZVYwVS1ITTBBMTZBR05fSlRVbWowTHpEeWN2YmR4VW1SdGs3VmFTQ0NCZXZsNnNneU1mQndONHNMWVBfT3dRMW10T2NMZGFza19qUdIBrAFBVV95cUxNaFZ4RDVSNzhHWnllRlFESUJDN056cU5hN2hqSUp4YmVBeWtmSEp3TllJNVNjRG1BWTljc0hBMzhMbks1UkZudnhtY0NHallUVE5JYWhNcDhubTRNTTI5SUxYUnNmcUlOTGpYU0xNYUN4OFRmczhEX0o4LUIyOURXcHZfWjhlYjhSdnNXdmd0dkdlQ3RTSG9JSF9LTFE1OFZWOGk0dmZWU3g0am9j?oc=5",
-          "title": "Simple blood test capable of identifying if you will rapidly develop severe Alzheimer's",
-          "publisher": "Daily Mail"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONmhZVlgxakwxOVIydi1ReDVMVjdLSlRqU2duZm1LMFZFSUNFNFJDNjVPaXlYRFl3QlJpT3V1SlpVQ0xsOF9NV3licTR0d1d5VDM5U0dfSkN5YnNacU90OGtua0NxTnNMX1lmSi1DZEFhRlZrcDhlSndzU1RtYWtSOFhkeUdyMW1RV1QtbW1xbw?oc=5",
-          "title": "The simple blood test that can predict Alzheimer’s decline",
-          "publisher": "The Independent"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY2ZVd1c5bHFxVHktSUQxbGg1QVVET0E5WnFLVWFqUUlTWVNvWlhTakxnUld5X2xvbEpXTjBFbmpRanZFWE41bWlhZEVPQzN3TG9ZR085aUNBVUZWY20xOUhpa202azQ5WE8xQS1wQ1NBaGxwblozWkpYTmNBRlV2N2REYklEM0JSTmRKSjZsUU5tUnVVM3V0TjcyVXdyQXRWY0tEN2VfZlBmeFhpWUdUbTdEd2tFTnRMOHdEbVh1Mm8zejItS25n?oc=5",
+          "title": "FDA Grants First-Ever Clearance of Clinical Laboratory Blood Test for Alzheimer’s Detection",
+          "publisher": "Dark Daily"
         }
       ]
     },
@@ -1425,46 +1392,46 @@
       ]
     },
     {
-      "title": "Where in Maine are you most likely to get a dangerous tick bite? - The Portland Press Herald",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVJBWXJYR0dqbDNqd3hUbUhKd2hTMlJnNDZaUGRhZzlOVTIxampWNnJnX0s1RGV0VUo1M1E3THhUWFpqLWtieG5VeHRfSDVwUUUtUkdYSjVXd1ZZU04zLUxqd28wN1RxV0hWcHlvUk52ZWR1RlBBZkwyRUNnaVFJNFlzLUdhaXZ4Y0lzd2FLSUdUWlhfOG9MZGJXa2hLYnpWNUljWG9R?oc=5",
-      "published": "Mon, 23 Jun 2025 16:36:08 GMT",
+      "title": "WHO Eyes Emerging COVID-19 Variant - Medscape",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMnFvUF9ja3V4MUJDYzNXR0ZrcUxnYU13andOSWVBcm04V2swbXB2YlU2UjBlU3Vqa3JlYWVHejZCYjkxRTltdUNKMjVXbWxDamtpYldNZ3pzZkh0STc3NTRpY0lQS3NSWnpnaElQZlZVR2NDNjFiQzAyZldBc0o0cXBqNUlQcGgxRGdSdw?oc=5",
+      "published": "Mon, 23 Jun 2025 09:29:06 GMT",
       "published_parsed": [
         2025,
         6,
         23,
-        16,
-        36,
-        8,
+        9,
+        29,
+        6,
         0,
         174,
         0
       ],
-      "source": "The Portland Press Herald",
+      "source": "Medscape",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVJBWXJYR0dqbDNqd3hUbUhKd2hTMlJnNDZaUGRhZzlOVTIxampWNnJnX0s1RGV0VUo1M1E3THhUWFpqLWtieG5VeHRfSDVwUUUtUkdYSjVXd1ZZU04zLUxqd28wN1RxV0hWcHlvUk52ZWR1RlBBZkwyRUNnaVFJNFlzLUdhaXZ4Y0lzd2FLSUdUWlhfOG9MZGJXa2hLYnpWNUljWG9R?oc=5",
-          "title": "Where in Maine are you most likely to get a dangerous tick bite?",
-          "publisher": "The Portland Press Herald"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMnFvUF9ja3V4MUJDYzNXR0ZrcUxnYU13andOSWVBcm04V2swbXB2YlU2UjBlU3Vqa3JlYWVHejZCYjkxRTltdUNKMjVXbWxDamtpYldNZ3pzZkh0STc3NTRpY0lQS3NSWnpnaElQZlZVR2NDNjFiQzAyZldBc0o0cXBqNUlQcGgxRGdSdw?oc=5",
+          "title": "WHO Eyes Emerging COVID-19 Variant",
+          "publisher": "Medscape"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbThzbG1LR3lkQnJZVEdxcDRoVXFwVE1TblpPb2hlT29BVWNUQnpWSzRmY0pIbnZjak9jcTlyYUVGQTZTOWVBWkpYOXQtR012VkxHT09KSFMwaTh4aTU3ODN3dUQ4eDVwbjRsVTBvSjBhSHRESUhzZlNCSVdCUDdJbzJXWHNPQQ?oc=5",
-          "title": "Tick risks vary by region. Here’s where diseases have spread and how to stay safe",
-          "publisher": "NPR"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQazA2VGRDTDZTUE9QVVNiTzZJRzd1aVlGdkFOVHdIUTZ3bDlmU3ZJaTM1dS0zeGYtYU9RQTRaRmRlZ0pXaWc3UjkyVVhiakMwMHc5MEJzVkxkNGUyZGZzUzFoajI2YVdaWGlPWFRRWDUyT3AtU184b0FFYVhQU0NJVVg2WVhMX0tBUFBJUklnLWtDWEo0ZGRKYkJqZ2N0OFE?oc=5",
+          "title": "A new COVID variant is spreading in the US: What are the symptoms?",
+          "publisher": "USA Today"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fc3lWRFpfY0FOdXp5a3lTMnRYS0w2MG0yTEhLdmcwZy1tS21qSi02WUpuQ2ZOdmZpVzJlTEtSaDhCLUM4UktsU3UydE8zaGZBUllxbEF6TUd5Zm9oQk9LRVk5QWJkUXE4WTluMll4NzZsN1ZQNmtBSHdR?oc=5",
-          "title": "How Bad Are Ticks This Year? Don’t Ask.",
-          "publisher": "The New York Times"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5memdDQVluVHNndTNra3phV3p5c2dEN2dId1JVdk1jTFNieFQ4S05vT1BiWnpESzVORXJqbDNXYkxQS3ZPZXo4ME02bUdJNW9DNk5sZnA4VEZKU0ExRV94Z1BuWWdaUFpMRnRVZlVyZEFyTVJ1MWZnZmRWbnQzZ9IBgwFBVV95cUxOREtBRzNOOHhSdzJ6VjZ1LTAybTBJalZXOUhTbXhydElJMTNSQ1BWbVNDWkJsSWhNOUJGU3AxNTk2YXNRTTA3aUVxY2FuVzRvS19sMWIxbFVxNEZtcUlRX3VSd1dwLUl5RDVpcWd0Y0hBb2g1dnl4WUhKb1hGbzkweUlWOA?oc=5",
+          "title": "The new coronavirus variant surging in China has arrived in the US. Here’s what to know about Nimbus",
+          "publisher": "CNN"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb1lobU5CQ3FvbkNGTXpBLU5SNkZHdnQ1blMxNUY4TlNjZVRUT1JlQ3VHaWp1M1FHZ214UWF3ODVHTDNfXzk5S0ZjLUVhRHhRMkhPWVBMc0hOYTc0Szhhb19kVXRHMURYYWJvN2pILTAxeHRpeDdOVTlzN1JtN3NhbFJHTmwtdGR5M21LSHh1aWdueUhhcm9Ca09QeUdXODcwNXplNjBIN0Ryb3BaQ2treXVzVnhaUQ?oc=5",
-          "title": "The Tick Situation Is Getting Worse. Here’s How to Protect Yourself.",
-          "publisher": "The Seattle Times"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWVkZlphaEEzWTQ2UXJQRVFYc2FWWW9TaTNHQ2N3b1ZrdVJhejVETFJvMmJ0Y2xrV2NUVEpsSDZwTzBIU0R0LU81c3AtZjBCVGgxNzhFaU91ZGJ6Nm9LVlJId1pvTkNzYVpnbW9RUzktWU10X3VldnFzaHNiVHNIUzdxd3JWQkstdFVGUGRudTBPNXBCaUliS9IBngFBVV95cUxNVjdmWUh4Y0JXVnFfMW9kamstSmRyM2E1b0pMcDhvR0dpOFJOd3YxdGJiV25BZTJmakZmSnY2RmR1c0VHMG4xdVg1OFhUdk9yQmFpMkl0ZWxIRENrbXVEbTFzWkgtUVBOckxyemU3YU5DX1J4MTU1cFNRQXRza3VoMjNpa1Y5N1g0QTRuLWN4UHhleEpoYjBHLXc4NDFxQQ?oc=5",
+          "title": "New COVID variant may cause 'razor blade throat' — here's what to know",
+          "publisher": "Fox News"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXQyRVp3MVI4ZlJUQmRlbU1kMUdQMXc1LVRTcHRzM0pIdWhiQkZncnNpXzVjOUcwVVhZanh2R0lhTW16ZU5PVVJSc0pzdjVmZ3g1V2dYWXhNTHcyZHEzN2t3R001Sm1uSmN5RnJMaGJ6aGpkM2VZX1VLZENwR0pyYU4zcEdMai04bmgtWndBQ0lvS2JwODJfXzExS0ZnWGVJdDJvd3VBc0ZjeE05Q3BoVFpnbzM0bEl6SlpKR2NR?oc=5",
-          "title": "Hotter temperatures could mean more ticks in WA. What about tick-borne diseases?",
-          "publisher": "Cascadia Daily News"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTHhpaTJRMThHNjVTeGlrdXBZLTdfWmlCbjlmelgwNTNNUzNWRTN1aVlMZ085dXVsVDQwTEdBV1RGU1UwVmFvenZEMXVPajNHa1dWd3E4bm14YS1HMWpTOHNkMmNXU2JoR2ltQXBwa04wOFRXRHdIX1R2M2l5MWlOMDcxMWNRTzFXdlRMTmtsTnlwRUFGMDlKR3hiR0pFQVh0NVlQTm9R0gGrAUFVX3lxTFA5OGlCM2puUDVCdC01dTNzdzVfQzRzYnNicmRSS29oYWFwd05VNVZNdlhBNzM2eFcydzBsNlZJckVEUEhuLUVYNWd1eUhpZHh0Z2hOY2hfeDBvNGxBRmNxdHc2bGJSVVl4Mmk3cW9nbHJWTE9WU1FqVGE2M1NFX2pBTEVnTkRjZ25MV2t4ZWVLaHRoaDNhZGViYVJ6V3FGWWNxTFgwbmJvaVk2QQ?oc=5",
+          "title": "Latest COVID variant ‘Nimbus’ could bring summer surge to Hampton Roads",
+          "publisher": "WAVY.com"
         }
       ]
     }

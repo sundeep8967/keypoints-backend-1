@@ -1,54 +1,36 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-24 02:29:15",
-    "total_articles": 5
+    "generation_time": "2025-06-24 07:12:04",
+    "total_articles": 3
   },
   "articles": [
     {
-      "id": "33c9f154445e69d1e6482ab38c274622",
-      "title": "Israel and Iran agree to ceasefire to bring end to '12 DAY WAR,' Trump says - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/International/israel-iran-agree-ceasefire-bring-end-12-day/story?id=123137697",
-      "image_url": "https://i.abcnewsfe.com/a/2ebbe2d6-1f55-4cf6-aa66-16e19e6b0746/trump-bibi-khamenei-gty-jt-250621_1750556853166_hpMain_16x9.jpg?w=1600",
-      "summary": "Israel and Iran agree to ceasefire to bring end to '12 DAY WAR,' Trump says The agreement involves two 12-hour ceasefire periods, starting with Iran. Trump announces ceasefire between Israel and IranPresident Donald Trump announced on social media that Israel and Iran have agreed to a complete and total ceasefire, set to begin in approximately 6 hours. Israel and Iran...",
-      "published": "Tue, 24 Jun 2025 01:18:33 GMT"
+      "id": "e58e8b2e4a5871da108bb0bfb00c8131",
+      "title": "Israel-Iran war live: Trump says ceasefire is now in effect amid confusion over timeline of agreement - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2025/jun/24/israel-iran-war-live-updates-trump-declares-ceasefire-tehran-attack-us-base-qatar",
+      "image_url": "https://i.guim.co.uk/img/media/cdaa0bbffbc314fb900be9a76ae7fccad2c498f0/20_0_848_678/master/848.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1a65b7cc0babbb598a200a04617841a3",
+      "summary": "Fund the free press with $5 per month Israel-Iran war live: Israeli government confirms it has agreed to ceasefire deal brokered by US ‘Israel has agreed to President Trump’s proposal for a bilateral ceasefire’, says statement after almost two weeks of direct military conflict with Iran Full report: Trump says Israel and Iran have negotiated ‘complete’ ceasefire Joe Coughlan (now)...",
+      "published": "Tue, 24 Jun 2025 05:56:00 GMT"
     },
     {
-      "id": "076cd2bd87a12de95ff162376957028e",
-      "title": "Iranian missiles fired at Al-Udeid US base, intercepted over Qatar - Fox News",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/live-news/israel-iran-conflict-june-23-2025",
-      "image_url": "https://livenews.foxnews.com/images/2025/06/6c6844b0be75441f51ed3ac182ebffb3.jpg",
-      "summary": "Last Update June 23, 2025, 10:18 PM EDT Iranian missiles fired at Al-Udeid US base, intercepted over Qatar Iran launched at least six missiles toward America's Al-Udeid Air Base in Qatar on Monday, retaliating for President Donald Trump's attack on Tehran's nuclear program this weekend. Qatar condemned the attack and said air defenses successfully neutralized the attack. They said there...",
-      "published": "Tue, 24 Jun 2025 01:01:08 GMT"
+      "id": "226c8681b3de4b8ce42951dda9c8317c",
+      "title": "No casualties reported after Iran missile attack on U.S. base in Qatar - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2025/06/23/iran-retaliation-trump-israel-war",
+      "image_url": "https://images.axios.com/9X90fSIwl35AzOxdTremdhc_Eac=/0x0:4911x2762/1366x768/2025/06/23/1750699037443.jpg",
+      "summary": "No casualties reported after Iran missile attack on U. S. base in Qatar U. S. military presence in the Middle East Locations are approximate, as of June 2025 Site with U. S. military presence A map showing the approximate locations of U. S. bases and military presence in the Middle East. U.S. Central Command is headquartered in Qatar. There are...",
+      "published": "Mon, 23 Jun 2025 23:14:13 GMT"
     },
     {
-      "id": "968c7792ba7ee293a8a8c4b52d974129",
-      "title": "What to Know About Iran’s Notorious Evin Prison - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/23/world/middleeast/evin-prison-iran.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 20:50:58 GMT"
-    },
-    {
-      "id": "e59469d487c7e251398954e0ee732220",
-      "title": "Can Iran really shut down the Strait of Hormuz? - Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/6/23/can-iran-really-shut-down-the-strait-of-hormuz",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/06/2025-06-16T143347Z_1814431642_RC2P3FAKAHOP_RTRMADP_3_IRAN-NUCLEAR-UKMTO-1750159396.jpg?resize=1920%2C1440",
-      "summary": "Araghchi says no agreement on a ceasefire with Israel as of now But Iran will halt attacks if Israel stops its 'illegal aggression', he adds Click to pause breaking news ticker A brief history of US-Iran relations What do satellite images of Fordow show? How Trump rejoined 'team' Netanyahu What is the Fordow nuclear facility? Can Iran really shut down...",
-      "published": "Mon, 23 Jun 2025 13:51:15 GMT"
-    },
-    {
-      "id": "3068ab6e4daa69e1081d44f123ad45eb",
-      "title": "Exclusive: Iranian retaliation against US attack ‘most probably’ hours away - Amwaj.media",
-      "source": "Amwaj.media",
-      "url": "https://amwaj.media/en/media-monitor/exclusive-iranian-retaliation-against-us-forces-most-probably-hours-away",
-      "image_url": "https://www.datocms-assets.com/36798/1750729983-newic1.png?crop=focalpoint&fit=crop&h=478&w=850",
-      "summary": "Inside story: 'Conclusion' to Iran-Israel war expected after Iranian retaliation for US bombings Iran and Israel appear set to end their 12-day war, informed Iranian sources have told Amwaj. media. Israel is expected to stop its attacks on Iran at 3. 30 am Jerusalem time on June 24, with the anticipation that Iran will shortly follow suit in ceasing offensive...",
-      "published": "Mon, 23 Jun 2025 14:47:41 GMT"
+      "id": "b425de4cc8c88a02f20b486e5c92b5f1",
+      "title": "Images and eyewitness accounts from Tehran's Evin Prison after an Israeli strike - France 24",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20250623-israel-strikes-evin-prison-tehran-attack-political-prisoners",
+      "image_url": "https://s.france24.com/media/display/0c00bf6a-5046-11f0-aa2b-005056a90284/w:1280/p:16x9/FotoJet-2.jpg",
+      "summary": "Your personal data, your options, our responsibility We and our partners use cookies or similar technologies to access and store non-sensitive information such as your IP address. The processing of your personal data allows us, for example, to improve your user experience, monitor audience ratings, offer social networks features, or display personalized advertisements. By clicking \"Accept\", you consent to the...",
+      "published": "Mon, 23 Jun 2025 17:34:53 GMT"
     }
   ]
 }
