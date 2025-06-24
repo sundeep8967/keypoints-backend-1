@@ -1,63 +1,189 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-24 13:44:38",
-    "total_articles": 6
+    "generation_time": "2025-06-24 18:48:43",
+    "total_articles": 20
   },
   "articles": [
     {
-      "id": "93596b78127bb5569bf9821f9a7560ba",
-      "title": "Live updates: Israel and Iran enter shaky ceasefire as Trump accuses both of violations - The Washington Post",
+      "id": "12e400023f0be0f913eca6e08e73c725",
+      "title": "Trump to attend NATO summit after US strikes on Iran and a ceasefire in question - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/trump-attend-nato-summit-days-after-us-strikes/story?id=123135554",
+      "image_url": "https://i.abcnewsfe.com/a/5427e329-8dd2-4dee-8059-db404602c98d/trump-wave-gty-jt-250621_1750554456009_hpMain_16x9.jpg?w=1600",
+      "summary": "Trump to attend NATO summit after US strikes on Iran and a ceasefire in question Trump said he's \"not happy\" with both Israel and Iran amid fragile ceasefire. ByFritz Farrow and Michelle Stoddart Trump to attend NATO summit after US strikes on Iran and with a ceasefire in handOn the eve of President Donald Trump’s departure, Iran carried out retaliatory...",
+      "published": "Tue, 24 Jun 2025 14:26:15 GMT"
+    },
+    {
+      "id": "ad3c9e1b7ea65411383aee72a028fea8",
+      "title": "Juliana Marins: Brazilian tourist who fell off Indonesian volcano found dead - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c939q6k1ewwo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/986d/live/da9bd6a0-502a-11f0-bdf6-9d43c4322174.jpg",
+      "summary": "Brazilian tourist who fell off Indonesian volcano found dead Juliana Marins was found dead four days after she fell during a hike on a volcano A Brazilian tourist who fell while hiking near the crater of an active volcano in Indonesia has been found dead, her family and rescuers said. Juliana Marins survived the initial fall from a cliff during...",
+      "published": "Tue, 24 Jun 2025 15:39:07 GMT"
+    },
+    {
+      "id": "d84deb7304b5e1290abe0f39c9db6d6f",
+      "title": "Russian attacks kill dozens of Ukrainians as Kyiv’s allies gather for a key NATO summit - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/24/europe/russian-attacks-ukraine-nato-summit-latam-intl",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-2025-06-24t130357z-384679607-rc209fai6doi-rtrmadp-3-ukraine-crisis-attack-dnipro.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Russian attacks kill dozens of Ukrainians as Kyiv’s allies gather for a key NATO summit By Ivana Kottasová, Daria Tarasova-Markina and James Frater, CNN Published 12:55 PM EDT, Tue June 24, 2025 Residents stand near an apartment building that was damaged during a Russian missile strike in Dnipro on June 24, 2025. Mykola Synelnykov/Reuters Russia killed dozens of Ukrainian civilians...",
+      "published": "Tue, 24 Jun 2025 16:55:00 GMT"
+    },
+    {
+      "id": "64c4d981787b53fa19681b30d8f6f256",
+      "title": "Iran’s Pezeshkian expresses ‘regret’ to the emir of Qatar - Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/6/24/irans-pezeshkian-expresses-regret-to-the-emir-of-qatar",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/02/AFP__20250219__36Y474X__v1__HighRes__IranQatarPoliticsDiplomacy-1739977403.jpg?resize=1920%2C1440",
+      "summary": "Enrich your Al Jazeera experience by signing in or creating an account. A brief history of US-Iran relations What do satellite images of Fordow show? How Trump rejoined 'team' Netanyahu What is the Fordow nuclear facility? Iran’s Pezeshkian expresses ‘regret’ to the emir of Qatar Iranian president says neither Qatar nor its people were targets of attack on US base...",
+      "published": "Tue, 24 Jun 2025 16:46:43 GMT"
+    },
+    {
+      "id": "9f35d0cd82f9ceccfdfb63f74dfcb0ae",
+      "title": "Weaponisation of food in Gaza constitutes war crime, UN rights office says - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/weaponisation-food-gaza-constitutes-war-crime-un-rights-office-says-2025-06-24/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Tue, 24 Jun 2025 09:44:19 GMT"
+    },
+    {
+      "id": "521ebaeba97ec448b31039558080abb6",
+      "title": "Over a hundred people jabbed with syringes at French music festival - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/europe/hundred-people-jabbed-syringes-french-music-festival-rcna214683",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250624-Fete-de-la-Musique-rs-df1544.jpg",
+      "summary": "Over a hundred people jabbed with syringes at French music festival At least 21 people were injured in Paris over the weekend while authorities detained a dozen suspects, France's Interior Ministry said. The Fête de la Musique in Paris on Saturday. Romain Perrocheau / AFP via Getty Images Create your free profile or log in to save this article Nearly...",
+      "published": "Tue, 24 Jun 2025 12:25:26 GMT"
+    },
+    {
+      "id": "83edab168864a20532e54814ac0c460f",
+      "title": "Russian attacks on Ukraine kill 14 civilians as Zelenskyy travels to UK - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/24/nx-s1-5443188/russian-attacks-on-ukraine-kill-14-civilians-as-zelenskyy-travels-to-uk",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3696x2079+0+394/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0c%2F2e%2F76a8812f404b83aff0c162e50a1e%2Fap25174569317155.jpg",
+      "summary": "Russian attacks on Ukraine kill 14 civilians as Zelenskyy travels to UK Britain's Prime Minister Keir Starmer welcomes Ukraine's President Volodymyr Zelenskyy to Downing Street in London, Monday, June 23, 2025. KYIV, Ukraine — Russian drones and missiles killed at least 14 civilians and injured several dozen others in Ukraine in overnight attacks, local officials said Monday, with nine deaths...",
+      "published": "Tue, 24 Jun 2025 07:29:30 GMT"
+    },
+    {
+      "id": "f9bafc4834ec2dd1ffb6344c18410007",
+      "title": "Israel Claims Iran Has Violated Ceasefire Announced By Trump—Tehran Issues Denial (Live Updates) - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2025/06/24/israel-claims-iran-has-violated-ceasefire-announced-by-trump-tehran-issues-denial-live-updates/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Tue, 24 Jun 2025 10:20:00 GMT"
+    },
+    {
+      "id": "10fa739b73e86b9560171b0c5b9a02df",
+      "title": "Iran Positions Missile Launchers for Potential Attack on U.S. Forces, U.S. Officials Say - WSJ",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/livecoverage/iran-israel-us-latest-news/card/iran-positions-missile-launchers-for-potential-attack-on-u-s-forces-officials-say-GcFCipf7h65viawsRVSv",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Tue, 24 Jun 2025 13:59:00 GMT"
+    },
+    {
+      "id": "e362f56a1511424d312b0f12593c3678",
+      "title": "4 killed in Beersheba as Iran fires multiple missile salvos just before agreed-upon ceasefire - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/4-killed-in-beersheba-as-iran-fires-multiple-missile-salvos-just-before-ceasefire/",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/AP25175227828661.jpg",
+      "summary": "4 killed in Beersheba as Iran fires multiple missile salvos just before agreed-upon ceasefire Six barrages target areas throughout the country ahead of truce announced by Trump for 7 a. m.; missile hits residential building in southern city, causing deaths and injuries Your browser does not support the video tag. Footage posted to social media shows the moment of an...",
+      "published": "Tue, 24 Jun 2025 07:39:53 GMT"
+    },
+    {
+      "id": "6ed7d5baa6eaadad31cc6ef8e2ee0105",
+      "title": "NATO summit sidesteps question of Trump ending military aid to Ukraine - The Washington Post",
       "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/06/24/iran-israel-us-trump-ceasefire-updates/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ANKYMSL7CEDYZG3PQRJHPYFESA_size-normalized.jpg&w=1440",
-      "summary": "Israel and Iran enter shaky ceasefire as Trump accuses both of violations President Donald Trump on June 24 used an expletive and accused both Israel and Iran of violating a ceasefire agreement hours after it took effect. (Video: The Washington Post) Israel and Iran entered into a shaky ceasefire Tuesday morning, bringing an uncertain end to 12 days of fighting.",
-      "published": "Tue, 24 Jun 2025 12:45:32 GMT"
+      "url": "https://www.washingtonpost.com/world/2025/06/24/ukraine-military-aid-us-trump/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JYU2BKRUK7XIHOABJUE6IUMKLA_size-normalized.jpg&w=1440",
+      "summary": "NATO summit sidesteps question of Trump ending military aid to Ukraine Weapons deliveries approved by the Biden administration are running out and European officials concede that the Trump administration does not want to offer new aid. From left, António Costa, president of the European Council, Ukrainian President Volodymyr Zelensky, NATO Secretary General Mark Rutte and Ursula von der Leyen, president...",
+      "published": "Tue, 24 Jun 2025 17:32:19 GMT"
     },
     {
-      "id": "0108e04b6693318178d185d4ea128618",
-      "title": "Trump heads to the NATO summit on the heels of a possible Israel-Iran ceasefire - AP News",
+      "id": "f5d72a6feffc4dfbc7faafa53277124c",
+      "title": "US strikes on Iran add to global travel disruptions and flight cancellations - AP News",
       "source": "AP News",
-      "url": "https://apnews.com/article/trump-iran-israel-nato-e34385f9b6e2ff5d0cf60f8aaea57a40",
+      "url": "https://apnews.com/article/iran-travel-air-flights-cancellations-34a75a4aa1d402465e988c610dfdc50a",
       "image_url": "https://apnews.com/favicon.ico",
       "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Tue, 24 Jun 2025 12:08:00 GMT"
+      "published": "Tue, 24 Jun 2025 16:09:00 GMT"
     },
     {
-      "id": "343680cff096fa7942264b99e3947732",
-      "title": "Israeli forces fire on people waiting for aid in Gaza, killing 25, witnesses and hospitals say - AP News",
+      "id": "03746a10ba83130a6768b499f6999f00",
+      "title": "Justice Dept. Leader Suggested Violating Court Orders, Whistle-Blower Says - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/24/us/politics/justice-department-emil-bove-trump-deportations-reuveni.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Tue, 24 Jun 2025 13:00:07 GMT"
+    },
+    {
+      "id": "403f48380ed1a4a7f989391c94b17118",
+      "title": "Live updates: As Trump heads to NATO, intelligence leaders to brief Congress on US strike on Iran - AP News",
       "source": "AP News",
-      "url": "https://apnews.com/article/israel-palestinians-hamas-war-06-24-2025-dbbdba6c1986376e6e09900650814412",
+      "url": "https://apnews.com/live/donald-trump-news-updates-6-24-2025",
       "image_url": "https://apnews.com/favicon.ico",
       "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Tue, 24 Jun 2025 08:52:00 GMT"
+      "published": "Tue, 24 Jun 2025 15:55:00 GMT"
     },
     {
-      "id": "4ae6dfa1848bd0dd0afcd91d25b4b446",
-      "title": "IDF symbolically strikes in Tehran after Trump orders Netanyahu to turn planes around - The Jerusalem Post",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-858826",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/668786",
-      "summary": "Jerusalem Post/Middle East/Iran News IDF symbolically strikes in Tehran after Trump orders Netanyahu to turn planes around As Netanyahu and Trump spoke, senior US officials told Iran through Qatar to stop any provocations and attacks against Israel. Smoke rises following an Israeli attack in Tehran, Iran, June 18, 2025. (photo credit: MAJID ASGARIPOUR/WANA (WEST ASIA NEWS AGENCY) VIA REUTERS) ByYONAH...",
-      "published": "Tue, 24 Jun 2025 11:46:23 GMT"
+      "id": "9b07f32d58220bd394f79f7b509b97e8",
+      "title": "Israel strikes notorious Tehran prison as attacks on Iran intensify - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1a209166-3ca4-4aab-8e3c-eac046640d02",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdaabaf43-10d2-4566-887f-4d402596261a.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Israel strikes notorious Tehran prison as attacks on Iran intensify Direct hit on infamous Evin jail, known for holding political prisoners, sparks outrage in the Islamic republic © Ulrich. Baumgarten/Getty Images Israel strikes notorious Tehran prison as attacks on...",
+      "published": "Mon, 23 Jun 2025 17:16:04 GMT"
     },
     {
-      "id": "bd4f75a13ab607e17fa0211a2032d8eb",
-      "title": "Trump calls Iran’s retaliatory strike ‘very weak,’ says country gave ‘early notice’ of attack - PBS",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/politics/trump-calls-irans-retaliatory-strike-very-weak-says-country-gave-early-notice-of-attack",
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/2025-06-23T191441Z_2003614920_RC2F7FARZDLI_RTRMADP_3_IRAN-NUCLEAR-USA-RUBIO-1024x683.jpg",
-      "summary": "Trump calls Iran’s retaliatory strike ‘very weak,’ says country gave ‘early notice’ of attack Politics Jun 23, 2025 4:18 PM EDT President Donald Trump said Iran had “a very weak response” to the U. S. bombing of three Iranian nuclear sites and thanked the country’s leadership for providing “early notice” of the retaliatory attack. READ MORE: Iran retaliates for U.",
-      "published": "Mon, 23 Jun 2025 20:18:14 GMT"
+      "id": "2b40822664bec43540f1b09691bf9dc6",
+      "title": "Thailand bans tourists from going to Cambodia - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c2ezgjlzggyo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0403/live/1fb4ed30-50bc-11f0-9a6a-41d9f1cf2af3.jpg",
+      "summary": "Thailand bans tourists from going to Cambodia as border dispute persists Tourists in Thailand will not be allowed to enter Cambodia after heightened restrictions at checkpoints Thailand has imposed restrictions on all travellers heading into Cambodia, as the two countries remain locked in a bitter border dispute. The ban applies to any vehicle or person trying to cross into Cambodia...",
+      "published": "Tue, 24 Jun 2025 06:33:23 GMT"
     },
     {
-      "id": "b425de4cc8c88a02f20b486e5c92b5f1",
-      "title": "Images and eyewitness accounts from Tehran's Evin Prison after an Israeli strike - France 24",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20250623-israel-strikes-evin-prison-tehran-attack-political-prisoners",
-      "image_url": "https://s.france24.com/media/display/0c00bf6a-5046-11f0-aa2b-005056a90284/w:1280/p:16x9/FotoJet-2.jpg",
-      "summary": "Your personal data, your options, our responsibility We and our partners use cookies or similar technologies to access and store non-sensitive information such as your IP address. The processing of your personal data allows us, for example, to improve your user experience, monitor audience ratings, offer social networks features, or display personalized advertisements. By clicking \"Accept\", you consent to the...",
-      "published": "Mon, 23 Jun 2025 17:34:53 GMT"
+      "id": "ad496d3f6e3eb8761bb50bc0605c978b",
+      "title": "With much to lose, China sat on Israel-Iran war’s sidelines as U.S. flexed - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/06/24/iran-israel-us-china/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N44INIMHMHGXFFALGXODX33VTQ_size-normalized.JPG&w=1440",
+      "summary": "With much to lose, China sat on Israel-Iran war’s sidelines as U. S. flexed China, heavily dependent on Middle East oil, has tried to cast itself as a peacemaker. But in the Israel-Iran war, Washington emerged as the real power broker. China’s Foreign Minister Wang Yi speaks during a meeting with Russian and Iranian officials at the Diaoyutai State Guesthouse...",
+      "published": "Tue, 24 Jun 2025 17:32:50 GMT"
+    },
+    {
+      "id": "8fb920edc6647800c27ad095f4b80baa",
+      "title": "Israel killed at least 14 scientists in an unprecedented attack on Iran’s nuclear know-how - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/israel-iran-nuclear-science-attacks-e298f00ba261debba4499a48c9df8b3d",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Tue, 24 Jun 2025 17:10:00 GMT"
+    },
+    {
+      "id": "5686871958a9102626f2dfc84d181e2b",
+      "title": "How the United States Helped Create Iran’s Nuclear Program - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/24/us/politics/us-iran-nuclear-program.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Tue, 24 Jun 2025 09:01:21 GMT"
+    },
+    {
+      "id": "0078c51bade88115d8009e6593ad1306",
+      "title": "War with Iran could activate Trump’s darkest impulses - Salon.com",
+      "source": "Salon.com",
+      "url": "https://www.salon.com/2025/06/23/with-iran-could-activate-darkest-impulses/",
+      "image_url": "https://www.salon.com/app/uploads/2025/03/woman_holds_upside_down_us_flag_capitol_2202711629.jpg",
+      "summary": "War with Iran could activate Trump’s darkest impulses If Trump sent troops to Los Angeles, what might he do as a wartime president to quell opposition? Woman holds an upside down US flag to protest against President Donald Trump outside the US Capitol ahead of his joint address to Congress in Washington, DC, on March 4, 2025. (ALLISON ROBBERT/AFP via...",
+      "published": "Mon, 23 Jun 2025 13:37:11 GMT"
     }
   ]
 }

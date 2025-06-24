@@ -1,90 +1,99 @@
 {
   "metadata": {
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-24 13:57:57",
+    "generation_time": "2025-06-24 20:24:58",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "83d7fb2a24e72528ecbbf96042db506d",
-      "title": "Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/23/science/vera-rubin-telescopes-first-images.html",
-      "image_url": null,
+      "id": "b0a2f57bb5a07c3dd9ceb42fdd6d8618",
+      "title": "Vera C. Rubin Observatory unveils 1st images of universe: Take a look - USA Today",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/picture-gallery/news/world/2025/06/24/vera-c-rubin-observatory-images-telescope/84318421007/",
+      "image_url": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/24/PBRE/84329583007-rubin-1.jpeg?crop=2049%2C1153%2Cx0%2Cy0&width=1200",
+      "summary": "Israel, Iran agree to ceasefire Jurors, special prosecutor reveal thoughts on Karen Read verdict The Future of Digital Privacy: How New Tech Is Redefining Online Security Vera C. Rubin Observatory unveils 1st images of universe: Take a look Aerial view of Vera C. Rubin Observatory located in Chile, taken Jan. 24, 2024. Surrounded by desert-like mountains and under the blue...",
+      "published": "Tue, 24 Jun 2025 09:52:19 GMT"
+    },
+    {
+      "id": "c13d4adbe6e7a2c0364274d9515f7745",
+      "title": "Laser rangefinder problems blamed for second ispace lunar lander crash - SpaceNews",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/laser-rangefinder-problems-blamed-for-second-ispace-lunar-lander-crash/",
+      "image_url": "https://spacenews.com/wp-content/uploads/2024/09/ispace-m2lander.jpg",
+      "summary": "Covering the business and politics of space Laser rangefinder problems blamed for second ispace lunar lander crash Resilience, the second lunar lander by Japanese company ispace, during prelaunch preparations. Credit: ispace WASHINGTON — Japanese company ispace says it believes its second lunar lander mission crashed because of problems with a laser rangefinder used to determine altitude during its descent. At...",
+      "published": "Tue, 24 Jun 2025 08:28:20 GMT"
+    },
+    {
+      "id": "1b5e42e4e25d458ebb9b81e33e67f7ee",
+      "title": "Mars rover captures first close-up photos of giant 'spiderwebs' on the Red Planet - Live Science",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/space/mars/mars-rover-captures-first-close-up-photos-of-giant-spiderwebs-on-the-red-planet",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Gm2dhk3n2cBZzqoLPPMCy3.jpg",
+      "summary": "Vera C. Rubin Observatory 1st pictures Salmon-hat wearing orcas massage with kelp Mystery of Queen Hapshepsut's statues Mars rover captures first close-up photos of giant 'spiderwebs' on the Red Planet By Harry Baker published 7 hours ago NASA's Curiosity rover has snapped its first images of web-like \"boxwork\" features on the surface of Mars. The zig-zagging rocks could provide clues...",
+      "published": "Tue, 24 Jun 2025 13:37:22 GMT"
+    },
+    {
+      "id": "4adb2b603f569669cd1dedda699812e9",
+      "title": "Alcohol-soaked star system could help explain 'why life, including us, was able to form' - Live Science",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/space/exoplanets/alcohol-soaked-star-system-could-help-explain-why-life-including-us-was-able-to-form",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8wFVuS969QaDVR4hSCoWaC.jpg",
+      "summary": "Vera C. Rubin Observatory 1st pictures Salmon-hat wearing orcas massage with kelp Mystery of Queen Hapshepsut's statues Space Astronomy Planets Exoplanets Alcohol-soaked star system could help explain 'why life, including us, was able to form' By Patrick Pester published 7 hours ago The Atacama Large Millimeter/submillimeter Array has detected methanol isotopes around a nearby star, which could help explain why...",
+      "published": "Tue, 24 Jun 2025 13:44:27 GMT"
+    },
+    {
+      "id": "433f291faa35eaa5b2b35f6858ec808e",
+      "title": "After successfully entering Earth’s atmosphere, a European spacecraft is lost - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVllWcnZTS2IxM1VLeE1qWTJvd1d6V21Ua0ltVmVCN1VkVUxPWGp2dkR2WTNIMDQyQ0J4WG9qRjg4ZFVOT05ZQ1NfZ1JXanJnd0tDVXJvQVpuMnJaOFlzQktKdWN1RXljeUhyekoyU1dGZk9KaS1uakpQUmE3alJoZjFOa0RyOWxIM3FtM1Q5RTY0Y0dNeVNNa0pOdlU4dzdVM3AwN1lmYmFXV3dMV2Q3WlpKemg?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Tue, 24 Jun 2025 02:22:25 GMT"
-    },
-    {
-      "id": "170f604bc1b7dcd741fae8352e780460",
-      "title": "Japanese company blames laser tool for its 2nd crash landing on the moon - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/ispace-japan-moon-landing-crash-3598065a23f036d684ad8cd989791ad4",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Tue, 24 Jun 2025 02:26:00 GMT"
-    },
-    {
-      "id": "bc2ff937e3c4d6cc6c2b2bce93744f36",
-      "title": "Pia26559 Curiositys First 360 Degree View Of Boxwork Patterns - NASA Jet Propulsion Laboratory (JPL) (.gov)",
-      "source": "NASA Jet Propulsion Laboratory (JPL) (.gov)",
-      "url": "https://www.jpl.nasa.gov/images/pia26559-curiositys-first-360-degree-view-of-boxwork-patterns/",
-      "image_url": "https://www.jpl.nasa.gov/img/og.png",
-      "summary": "Curiosity's First 360-Degree View of Boxwork Patterns NASA's Curiosity Mars rover captured this 360-degree view after arriving at a region crisscrossed by hardened low ridges called boxwork patterns. The panorama is stitched together from 291 individual images the rover's Mast Camera, or Mastcam, captured between May 15 and May 18, 2025 (the 4,451st Martian day, or sol, of the mission...",
-      "published": "Mon, 23 Jun 2025 19:31:31 GMT"
+      "published": "Tue, 24 Jun 2025 12:32:24 GMT"
     },
     {
       "id": "23ed998b6542edfad2c02b462b3061bc",
       "title": "SpaceX launches human remains, reentry capsules and more on Transporter 14 rideshare mission (video) - Space",
       "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRW1NMC0zNktLdW5QVWw0UU96TG1xT1JCOVBTTkNFeDVyYkttUUkxS252U1BGaktwQ1dhTlBFUWo0RDMycU5EUDRDZzRCS254UmFLSkNhc1daMDJWZW1SdnNYLV9DRGV6dmlPaEp4NEZvU3NTS1pic0diODlleTRrNU1kYnB5eWFtU3FjZVl4Nkx0VnVRbUJHNmVPQkxyQ3JkbnNfQU5EUGR3aXM5WV93NVBzQnFzMFF5ZGxac2Z0cUVSRnh2d3JCaU9sV2VXazJxNWFSY1JzZ181LVNYcDhUeXN2MVE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-human-remains-reentry-capsule-and-more-on-transporter-14-rideshare-mission",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/NqNAvDZ7wY9MaxpEHtFZA8.jpg",
+      "summary": "Universe's 'missing' matter found! Space Exploration Launches & Spacecraft SpaceX launches human remains, reentry capsules and more on Transporter 14 rideshare mission (video) By Mike Wall published 23 hours ago Transporter 14 carried 70 different payloads, including a special memorial capsule containing cremated remains and DNA samples. When you purchase through links on our site, we may earn an affiliate...",
       "published": "Mon, 23 Jun 2025 21:42:14 GMT"
     },
     {
-      "id": "79e81ca975de4af227037b8766471269",
-      "title": "Unexpected mineral in a Ryugu grain challenges paradigm of the nature of primitive asteroids - Phys.org",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2025-06-unexpected-mineral-ryugu-grain-paradigm.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.42.10.173 : 270f8592-fe58-441d-895b-2499ed8a",
-      "published": "Mon, 23 Jun 2025 12:39:04 GMT"
+      "id": "fe64fa11c982b50afd10bcee4ca8def4",
+      "title": "Upgraded Northern Lights Forecast: 14 States On Aurora Alert Tonight - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/jamiecartereurope/2025/06/24/northern-lights-tonight-10-states-may-see-aurora-on-tuesday-during-geomagnetic-storm/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/6640fa270ec3a8705f35b42f/0x0.jpg?format=jpg&crop=905,509,x207,y507,safe&height=900&width=1600&fit=bounds",
+      "summary": "Upgraded Northern Lights Forecast: 14 States On Aurora Alert Tonight ByJamie Carter, Senior Contributor. An award-winning reporter writing about stargazing and the night sky. Jun 24, 2025, 12:00am EDTJun 24, 2025, 10:40am EDT The aurora borealis, commonly known as the northern lights, is seen on May 11, 2024 in Manning Park, . .. More Update, June 24, 2025: NOAA has...",
+      "published": "Tue, 24 Jun 2025 04:00:00 GMT"
     },
     {
-      "id": "c72206ffc3b492b8866e136f5849d0e8",
-      "title": "'2nd Jupiter' exoplanet seen 60 light-years away photo of the day for June 23, 2025 - Space",
-      "source": "Space",
-      "url": "https://www.space.com/astronomy/2nd-jupiter-exoplanet-seen-60-light-years-away-space-photo-of-the-day-for-june-23-2025",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/3oYtvdMvR9ZPn35c2GWJeW.jpg",
-      "summary": "Universe's 'missing' matter found! '2nd Jupiter' exoplanet seen 60 light-years away | Space photo of the day for June 23, 2025 By Kenna Hughes-Castleberry published 23 hours ago Exoplanet Gj 504 b was found using the Strategic Explorations of Exoplanets and Disks with Subaru (SEEDS) Project When you purchase through links on our site, we may earn an affiliate commission.",
-      "published": "Mon, 23 Jun 2025 15:00:00 GMT"
+      "id": "32b983d789b20ba5a76a1c897179b09f",
+      "title": "This Deep-Sea Blood-Red Squid’s Rare Footage Will Leave You Breathless—Captured for the First Time Ever - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/this-deep-sea-blood-red-squids-rare-footage-will-leave-you-breathless-captured-for-the-first-time-ever/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/blood-red-squid.jpg",
+      "summary": "This Deep-Sea Blood-Red Squid’s Rare Footage Will Leave You Breathless—Captured for the First Time Ever A rare blood-red squid has been filmed for the first time, revealing an elusive creature from the depths of the Antarctic Ocean. Scientists have captured stunning footage of this mysterious species never before seen in its natural habitat. This Deep-Sea Blood-Red Squid’s Rare Footage Will...",
+      "published": "Tue, 24 Jun 2025 12:31:00 GMT"
     },
     {
-      "id": "2694f6a208c98824d791b1efd691f930",
-      "title": "Researchers get viable mice by editing DNA from two sperm - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2025/06/researchers-get-viable-mice-by-editing-dna-from-two-sperm/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-523734886-1152x648.jpg",
-      "summary": "Researchers get viable mice by editing DNA from two sperm Altering chemical modifications of DNA lets the DNA from two sperm make a mouse. For many species, producing an embryo is a bit of a contest between males and females. Males want as many offspring as possible and want the females to devote as many resources as possible to each...",
-      "published": "Mon, 23 Jun 2025 21:34:11 GMT"
+      "id": "b6b2f30225ca1f331337400b425cb666",
+      "title": "NASA Satellite That’s Been Dead for 57 Years Sends Mysterious Signal to Earth - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/nasa-satellite-thats-been-dead-for-57-years-sends-mysterious-signal-to-earth-2000619464",
+      "image_url": "https://gizmodo.com/app/uploads/2025/06/relay_1_2-1200x675.jpg",
+      "summary": "NASA Satellite That’s Been Dead for 57 Years Sends Mysterious Signal to Earth Relay-2 emitted a powerful fast radio burst that lasted for less than 30 nanoseconds. Published June 24, 2025 | Comments (15) | An illustration of the Relay-2 satellite. NASA A little over a year ago, scientists in Australia picked up a brief burst of electromagnetic radiation. The...",
+      "published": "Tue, 24 Jun 2025 16:05:27 GMT"
     },
     {
-      "id": "24feda1a9a7423bd6faf4c1be6f4f25a",
-      "title": "A failed Soviet Venus probe from the '70s crashed to Earth in May — why was it so hard to track? - Space",
-      "source": "Space",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-from-the-70s-crashed-to-earth-in-may-why-was-it-so-hard-to-track",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/HQQJ5fYvwyexxoLrrbpLW4.jpg",
-      "summary": "Universe's 'missing' matter found! Space Exploration Launches & Spacecraft A failed Soviet Venus probe from the '70s crashed to Earth in May — why was it so hard to track? By Leonard David published 21 hours ago \"Being off even a little bit represents hundreds or thousands of kilometers in distance on the surface of the Earth. \" When you...",
-      "published": "Mon, 23 Jun 2025 17:00:00 GMT"
-    },
-    {
-      "id": "e27ce4bcd9991c6a81d31003402cf8a3",
-      "title": "DNA analysis of the \"Dragon Man\" fossil skull gives an identity to this early human species - Earth.com",
-      "source": "Earth.com",
-      "url": "https://www.earth.com/news/scientists-finally-confirm-species-identity-of-the-dragon-man-fossil-skull-denisovan/",
-      "image_url": "https://cff2.earth.com/uploads/2025/06/22135414/denisovan_dragon-man-skull_analysis-confirms_credit-OSU_1m.jpg",
-      "summary": "DNA analysis of the \"Dragon Man\" fossil skull gives an identity to this early human species For years the Denisovans lived only in gene sequencers and imagination. Now, a massive skull nicknamed Dragon Man has handed them a recognizable profile. Molecular sleuthing has tied the more‑than‑146,000‑year‑old Harbin cranium to this hidden branch of humanity, linking ancient genes to real bone...",
-      "published": "Mon, 23 Jun 2025 08:24:50 GMT"
+      "id": "39f9dd5303597a7598c76c3c0753147f",
+      "title": "Final photo from iconic US satellite shows how Las Vegas has 'doubled' in size over the last 25 years - Live Science",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/planet-earth/final-photo-from-iconic-us-satellite-shows-how-las-vegas-has-doubled-in-size-over-the-last-25-years-earth-from-space",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/N3JkcdbvT9yo6kf4fyDZMi.gif",
+      "summary": "Vera C. Rubin Observatory 1st pictures 'Ghost' plume under Middle East Final photo from iconic US satellite shows how Las Vegas has 'doubled' in size over the last 25 years — Earth from space By Harry Baker published 11 hours ago The final image captured by the recently decommissioned Landsat 7 satellite shows how \"Sin City\" has nearly doubled in...",
+      "published": "Tue, 24 Jun 2025 09:27:40 GMT"
     },
     {
       "id": "2b2bb3d404c4f9ea01eab2db66ffd226",
@@ -96,6 +105,60 @@
       "published": "Sun, 22 Jun 2025 19:18:55 GMT"
     },
     {
+      "id": "55748dc822893ade43d31e91ccb0727f",
+      "title": "Breakthrough theory links Einstein’s relativity and quantum mechanics - The Brighter Side of News",
+      "source": "The Brighter Side of News",
+      "url": "https://www.thebrighterside.news/space/breakthrough-theory-links-einsteins-relativity-and-quantum-mechanics/",
+      "image_url": "https://www.thebrighterside.news/uploads/2025/06/einstein-and-quantum-scaled.jpg?auto=webp&width=2000&height=1600",
+      "summary": "Breakthrough theory links Einstein’s relativity and quantum mechanics For over 100 years, two theories have shaped our understanding of the universe: quantum mechanics and Einstein’s general relativity. Published Jun 24, 2025 4:51 AM PDT A team of scientists has unveiled a bold new theory that seeks to unify the two pillars of modern physics—quantum mechanics and Einstein’s general relativity. (CREDIT:...",
+      "published": "Tue, 24 Jun 2025 11:51:00 GMT"
+    },
+    {
+      "id": "49bd5c75f57b2208a6dc2d758e1dc6fe",
+      "title": "Mysterious “Dragon Man” Skull Identified As Denisovan - SciTechDaily",
+      "source": "SciTechDaily",
+      "url": "https://scitechdaily.com/mysterious-dragon-man-skull-identified-as-denisovan/",
+      "image_url": "https://scitechdaily.com/images/Harbin-Skull.jpg",
+      "summary": "Home»Science»Mysterious “Dragon Man” Skull Identified As Denisovan Mysterious “Dragon Man” Skull Identified As Denisovan A picture of the Harbin skull. Credit: Fu et al. , Cell, 2025 The Harbin skull confirms Denisovan ancestry and expands their known range using protein and DNA analysis from dental calculus. What did Denisovans look like, despite their known genetic contributions to modern East Asian...",
+      "published": "Mon, 23 Jun 2025 08:26:29 GMT"
+    },
+    {
+      "id": "24feda1a9a7423bd6faf4c1be6f4f25a",
+      "title": "A failed Soviet Venus probe from the '70s crashed to Earth in May — why was it so hard to track? - Space",
+      "source": "Space",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-from-the-70s-crashed-to-earth-in-may-why-was-it-so-hard-to-track",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/HQQJ5fYvwyexxoLrrbpLW4.jpg",
+      "summary": "Universe's 'missing' matter found! Space Exploration Launches & Spacecraft A failed Soviet Venus probe from the '70s crashed to Earth in May — why was it so hard to track? By Leonard David published yesterday \"Being off even a little bit represents hundreds or thousands of kilometers in distance on the surface of the Earth. \" When you purchase through...",
+      "published": "Mon, 23 Jun 2025 17:00:00 GMT"
+    },
+    {
+      "id": "79e81ca975de4af227037b8766471269",
+      "title": "Unexpected mineral in a Ryugu grain challenges paradigm of the nature of primitive asteroids - Phys.org",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2025-06-unexpected-mineral-ryugu-grain-paradigm.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 74.249.7.208 : ba53fd41-e2f9-4d0d-9973-df8cf938",
+      "published": "Mon, 23 Jun 2025 12:39:04 GMT"
+    },
+    {
+      "id": "c72206ffc3b492b8866e136f5849d0e8",
+      "title": "'2nd Jupiter' exoplanet seen 60 light-years away photo of the day for June 23, 2025 - Space",
+      "source": "Space",
+      "url": "https://www.space.com/astronomy/2nd-jupiter-exoplanet-seen-60-light-years-away-space-photo-of-the-day-for-june-23-2025",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3oYtvdMvR9ZPn35c2GWJeW.jpg",
+      "summary": "Universe's 'missing' matter found! '2nd Jupiter' exoplanet seen 60 light-years away | Space photo of the day for June 23, 2025 By Kenna Hughes-Castleberry published yesterday Exoplanet Gj 504 b was found using the Strategic Explorations of Exoplanets and Disks with Subaru (SEEDS) Project When you purchase through links on our site, we may earn an affiliate commission. Here’s how...",
+      "published": "Mon, 23 Jun 2025 15:00:00 GMT"
+    },
+    {
+      "id": "d1fb5500a4a5227430bc249c6677dcdb",
+      "title": "Record-Sized Comet Seen Belching Jets From Surface as It Heads Our Way - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/record-sized-comet-seen-belching-jets-from-surface-as-it-heads-our-way",
+      "image_url": "https://www.sciencealert.com/images/2025/06/Largest-comet.png",
+      "summary": "Record-Sized Comet Seen Belching Jets From Surface as It Heads Our Way An artist's illustration of comet C/2014 UN271 (Bernardinelli-Bernstein). (NSF/AUI/NSF NRAO/M. Weiss) An absolutely gigantic comet is currently barreling into the inner Solar System at full steam. And we mean that almost literally – astronomers have now detected big outbursts of carbon monoxide belching from its surface. Comet C/2014...",
+      "published": "Tue, 24 Jun 2025 12:02:09 GMT"
+    },
+    {
       "id": "97dababe8cb838bfa89d2d4699a9b9f8",
       "title": "Increase in Ariane 6 launch cadence could take several years - SpaceNews",
       "source": "SpaceNews",
@@ -105,22 +168,13 @@
       "published": "Mon, 23 Jun 2025 10:43:14 GMT"
     },
     {
-      "id": "cfc2d8feb0d8f249b9a3ae30a499dfd0",
-      "title": "Signals detected from Antarctic ice seem to defy laws of physics. Scientists search for answer - KSL.com",
-      "source": "KSL.com",
-      "url": "https://www.ksl.com/article/51333303/signals-detected-from-antarctic-ice-seem-to-defy-laws-of-physics-scientists-search-for-answer",
-      "image_url": "https://img.ksl.com/slc/3090/309024/30902456.jpg?filter=kslv2/responsive_story_lg",
-      "summary": "Signals detected from Antarctic ice seem to defy laws of physics. Scientists search for answer By Ashley Strickland, CNN | Posted - June 22, 2025 at 8:03 a. m. NASA’s Antarctic Impulsive Transient Antenna, or ANITA, experiment flew over stretches of Antarctic ice via a balloon. (Stephanie Wissel, Penn State via CNN Newsource) Scientists investigate mysterious signals from Antarctic ice...",
-      "published": "Sun, 22 Jun 2025 14:05:24 GMT"
-    },
-    {
-      "id": "915938e998a356dfb0fda64a5155b8e0",
-      "title": "New Discovery of Deep Sea 'Spiders' Is Unlike Anything We've Seen Before - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/new-discovery-of-deep-sea-spiders-is-unlike-anything-weve-seen-before",
-      "image_url": "https://www.sciencealert.com/images/2025/06/sea-spider-eggs.jpg",
-      "summary": "New Discovery of Deep Sea 'Spiders' Is Unlike Anything We've Seen Before Male sea spiders brood their egg sacs, passing on the methane-loving microbiome to the next generation. (Shana Goffredi) Three newly-discovered species of deep sea 'spiders' farm methane-eating bacteria on their own bodies in a symbiosis quite unlike anything seen before. Unlike animals like ourselves, who are fed by...",
-      "published": "Sun, 22 Jun 2025 13:01:21 GMT"
+      "id": "1c3dccfc278f098f74db71cfa274b145",
+      "title": "“I Can’t Believe What I Saw”: China’s First Capsule Escape Test in 30 Years Ends in a Blazing Success That Changes Everything - Rude Baguette",
+      "source": "Rude Baguette",
+      "url": "https://www.rudebaguette.com/en/2025/06/i-cant-believe-what-i-saw-chinas-first-capsule-escape-test-in-30-years-ends-in-a-blazing-success-that-changes-everything/",
+      "image_url": "https://www.rudebaguette.com/wp-content/uploads/2025/06/china-defies-odds-this-historic-crew-capsule-escape-test-success-marks-a-stunning-comeback-after-nearly-30-years.jpg",
+      "summary": "“I Can’t Believe What I Saw”: China’s First Capsule Escape Test in 30 Years Ends in a Blazing Success That Changes Everything China's Mengzhou spacecraft has achieved a significant milestone by successfully completing its first crew capsule escape test in nearly 30 years, setting the stage for the nation's ambitious plans for a crewed lunar landing before 2030. Rosemary PotterJune...",
+      "published": "Tue, 24 Jun 2025 13:04:12 GMT"
     },
     {
       "id": "9c848b42cd1e36d452f5200369fcf1ee",
@@ -130,60 +184,6 @@
       "image_url": "https://images.theconversation.com/files/669135/original/file-20250520-56-a9rga1.png?ixlib=rb-4.1.0&rect=0%2C86%2C1041%2C520&q=45&auto=format&w=1356&h=668&fit=crop",
       "summary": "Many heavy atoms form from a supernova explosion, the remnants of which are shown in this image. NASA/ESA/Hubble Heritage Team How do atoms form? A physicist explains where the atoms that make up everything around come from Published: June 23, 2025 8:37am EDT Associate Professor of Physics and Applied Physics and Astronomy, Binghamton University, State University of New York Stephen...",
       "published": "Mon, 23 Jun 2025 12:37:26 GMT"
-    },
-    {
-      "id": "11b511e44166632b854c7b7016b76a1a",
-      "title": "Northern Lights Could Be Visible Tonight From These States - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/zacharyfolk/2025/06/22/northern-lights-forecast-these-8-states-could-see-aurora-borealis-tonight/",
-      "image_url": "https://imageio.forbes.com/specials-images/imageserve/68586ff9d7b0fac310c28123/0x0.jpg?format=jpg&crop=3000,1687,x0,y155,safe&height=900&width=1600&fit=bounds",
-      "summary": "Northern Lights Forecast: These 8 States Could See Aurora Borealis Tonight ByZachary Folk, Forbes Staff. I cover breaking news. The northern lights could be visible once again Sunday night from some northern states, according to the National Oceanic and Atmospheric Administration—although the auroral activity will be limited to only northern states. The aurora borealis could appear tonight for viewers in...",
-      "published": "Sun, 22 Jun 2025 21:05:51 GMT"
-    },
-    {
-      "id": "362d748b8ff458d2aa2093003b33068a",
-      "title": "Theory Proposing Three-Dimensional Time as the “Primary Fabric of Everything” Could Unify Quantum Physics and Gravity - The Debrief",
-      "source": "The Debrief",
-      "url": "https://thedebrief.org/theory-proposing-three-dimensional-time-as-the-primary-fabric-of-everything-could-unify-quantum-physics-and-gravity/",
-      "image_url": "https://thedebrief.b-cdn.net/wp-content/uploads/2025/06/RESIZE-clock-92130_1280.jpg",
-      "summary": "Image by Gerd Altmann from Pixabay A University of Alaska Fairbanks (UAF) scientist has proposed a “three-dimensional time” theory that replaces the traditional model of one dimension of time and three physical dimensions as the primary fabric of everything. Unlike previously proposed, purely mathematical ‘3D time’ constructs where space emerges as a secondary manifestation, Professor Gunther Kletetschka at the UAF...",
-      "published": "Mon, 23 Jun 2025 11:41:12 GMT"
-    },
-    {
-      "id": "cf89afd599278134eebe356d021c6ba9",
-      "title": "NASA's Voyager Found a 30k-50k Kelvin \"Wall\" at the Edge of Solar System - Hacker News",
-      "source": "Hacker News",
-      "url": "https://news.ycombinator.com/item?id=44357378",
-      "image_url": "https://news.ycombinator.com/y18.svg",
-      "summary": "Hacker News new | past | comments | ask | show | jobs | submit login NASA's Voyager Found a 30k-50k Kelvin \"Wall\" at the Edge of Solar System (iflscience. com) 231 points by world2vec 21 hours ago | hide | past | favorite | 156 comments It’s very odd to think of something extremely hot but with almost no...",
-      "published": "Mon, 23 Jun 2025 17:08:39 GMT"
-    },
-    {
-      "id": "a9067f861ba9ba74bc4622d3976ddb26",
-      "title": "2032 'City-Killer' Impact Threatens Earth's Satellites, Study Finds - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/2032-city-killer-impact-threatens-earths-satellites-study-finds",
-      "image_url": "https://www.sciencealert.com/images/2025/06/city_killer_satellite_impact_header.jpg",
-      "summary": "2032 'City-Killer' Impact Threatens Earth's Satellites, Study Finds If a huge asteroid smashes into the Moon in 2032, the gigantic explosion would send debris streaming towards Earth that would threaten satellites and create a spectacular meteor shower, according to researchers. Earlier this year there were briefly fears that the 60-metre-wide (200-foot-wide) asteroid called 2024 YR4, which is big enough to...",
-      "published": "Tue, 24 Jun 2025 01:25:54 GMT"
-    },
-    {
-      "id": "07b1fb31635517ff8924bdbb24203755",
-      "title": "JWST captures its most extreme gravitational lens ever - Big Think",
-      "source": "Big Think",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMWZBQjFreWloek52TlFPU2pDUm9PYktfQ3NuU3paRDBySWhJR2R6Zks5ZjJxdFFPU0VhVkQwM1plclpKTDUyM0NZbG9zaVNEYm14N3BROEdjU0U5OTJLS1V1UmRzSk1idUJHRndZWlpFZmRmaHpTUjJlMWNlUTVlbUdOdw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 06:00:00 GMT"
-    },
-    {
-      "id": "d3b019e13b0f3464568c1f6d09f45954",
-      "title": "Jules Verne Was Right! Scientists Discovered a Vast Ocean Within Earth’s Core, Questioning Our Very Understanding of the Universe - The Daily Galaxy",
-      "source": "The Daily Galaxy",
-      "url": "https://dailygalaxy.com/2025/06/jules-verne-was-right-scientists-discovered-a-vast-ocean-within-earths-core/",
-      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/suns-rays-on-rocks-underwater.jpg",
-      "summary": "Jules Verne Was Right! Scientists Discovered a Vast Ocean Within Earth’s Core, Questioning Our Very Understanding of the Universe A hidden world beneath the Earth’s surface is revealing shocking secrets that challenge everything we thought we knew about our planet. From ancient islands filled with untapped resources to water locked deep within the Earth’s mantle, the latest discoveries are set...",
-      "published": "Sun, 15 Jun 2025 07:00:00 GMT"
     }
   ]
 }
