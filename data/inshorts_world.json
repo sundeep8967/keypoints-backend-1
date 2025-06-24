@@ -1,27 +1,54 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-24 07:12:04",
-    "total_articles": 3
+    "generation_time": "2025-06-24 13:44:38",
+    "total_articles": 6
   },
   "articles": [
     {
-      "id": "e58e8b2e4a5871da108bb0bfb00c8131",
-      "title": "Israel-Iran war live: Trump says ceasefire is now in effect amid confusion over timeline of agreement - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2025/jun/24/israel-iran-war-live-updates-trump-declares-ceasefire-tehran-attack-us-base-qatar",
-      "image_url": "https://i.guim.co.uk/img/media/cdaa0bbffbc314fb900be9a76ae7fccad2c498f0/20_0_848_678/master/848.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1a65b7cc0babbb598a200a04617841a3",
-      "summary": "Fund the free press with $5 per month Israel-Iran war live: Israeli government confirms it has agreed to ceasefire deal brokered by US ‘Israel has agreed to President Trump’s proposal for a bilateral ceasefire’, says statement after almost two weeks of direct military conflict with Iran Full report: Trump says Israel and Iran have negotiated ‘complete’ ceasefire Joe Coughlan (now)...",
-      "published": "Tue, 24 Jun 2025 05:56:00 GMT"
+      "id": "93596b78127bb5569bf9821f9a7560ba",
+      "title": "Live updates: Israel and Iran enter shaky ceasefire as Trump accuses both of violations - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/06/24/iran-israel-us-trump-ceasefire-updates/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ANKYMSL7CEDYZG3PQRJHPYFESA_size-normalized.jpg&w=1440",
+      "summary": "Israel and Iran enter shaky ceasefire as Trump accuses both of violations President Donald Trump on June 24 used an expletive and accused both Israel and Iran of violating a ceasefire agreement hours after it took effect. (Video: The Washington Post) Israel and Iran entered into a shaky ceasefire Tuesday morning, bringing an uncertain end to 12 days of fighting.",
+      "published": "Tue, 24 Jun 2025 12:45:32 GMT"
     },
     {
-      "id": "226c8681b3de4b8ce42951dda9c8317c",
-      "title": "No casualties reported after Iran missile attack on U.S. base in Qatar - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2025/06/23/iran-retaliation-trump-israel-war",
-      "image_url": "https://images.axios.com/9X90fSIwl35AzOxdTremdhc_Eac=/0x0:4911x2762/1366x768/2025/06/23/1750699037443.jpg",
-      "summary": "No casualties reported after Iran missile attack on U. S. base in Qatar U. S. military presence in the Middle East Locations are approximate, as of June 2025 Site with U. S. military presence A map showing the approximate locations of U. S. bases and military presence in the Middle East. U.S. Central Command is headquartered in Qatar. There are...",
-      "published": "Mon, 23 Jun 2025 23:14:13 GMT"
+      "id": "0108e04b6693318178d185d4ea128618",
+      "title": "Trump heads to the NATO summit on the heels of a possible Israel-Iran ceasefire - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-iran-israel-nato-e34385f9b6e2ff5d0cf60f8aaea57a40",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Tue, 24 Jun 2025 12:08:00 GMT"
+    },
+    {
+      "id": "343680cff096fa7942264b99e3947732",
+      "title": "Israeli forces fire on people waiting for aid in Gaza, killing 25, witnesses and hospitals say - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/israel-palestinians-hamas-war-06-24-2025-dbbdba6c1986376e6e09900650814412",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Tue, 24 Jun 2025 08:52:00 GMT"
+    },
+    {
+      "id": "4ae6dfa1848bd0dd0afcd91d25b4b446",
+      "title": "IDF symbolically strikes in Tehran after Trump orders Netanyahu to turn planes around - The Jerusalem Post",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-858826",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/668786",
+      "summary": "Jerusalem Post/Middle East/Iran News IDF symbolically strikes in Tehran after Trump orders Netanyahu to turn planes around As Netanyahu and Trump spoke, senior US officials told Iran through Qatar to stop any provocations and attacks against Israel. Smoke rises following an Israeli attack in Tehran, Iran, June 18, 2025. (photo credit: MAJID ASGARIPOUR/WANA (WEST ASIA NEWS AGENCY) VIA REUTERS) ByYONAH...",
+      "published": "Tue, 24 Jun 2025 11:46:23 GMT"
+    },
+    {
+      "id": "bd4f75a13ab607e17fa0211a2032d8eb",
+      "title": "Trump calls Iran’s retaliatory strike ‘very weak,’ says country gave ‘early notice’ of attack - PBS",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/politics/trump-calls-irans-retaliatory-strike-very-weak-says-country-gave-early-notice-of-attack",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/2025-06-23T191441Z_2003614920_RC2F7FARZDLI_RTRMADP_3_IRAN-NUCLEAR-USA-RUBIO-1024x683.jpg",
+      "summary": "Trump calls Iran’s retaliatory strike ‘very weak,’ says country gave ‘early notice’ of attack Politics Jun 23, 2025 4:18 PM EDT President Donald Trump said Iran had “a very weak response” to the U. S. bombing of three Iranian nuclear sites and thanked the country’s leadership for providing “early notice” of the retaliatory attack. READ MORE: Iran retaliates for U.",
+      "published": "Mon, 23 Jun 2025 20:18:14 GMT"
     },
     {
       "id": "b425de4cc8c88a02f20b486e5c92b5f1",

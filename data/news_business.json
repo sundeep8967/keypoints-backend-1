@@ -1,22 +1,234 @@
 {
   "metadata": {
     "type": "topic",
-    "timestamp": "2025-06-24T06:36:36.953643",
+    "timestamp": "2025-06-24T12:51:40.927451",
     "info": "topic: business",
-    "count": 30
+    "count": 32
   },
   "articles": [
     {
-      "title": "Trump Confronts Potential for High Oil Prices After Iran Strikes - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc2YzdFhhaU5mVjN5aFdCUklkQmdCdmExRzRFZHVzOWVKMjl0eGkyUDFiVUpxb2dIUjdJUkxNMkpBOEZHX19Ba243QmdMMnFvUW1DSGhBeUNrdWlfMGdCdHVsbnAyZzJGNzJEa1NTdklrSWtKdGFiUEFyS21RSVdoLU9ueUNZZGlVbTFnMnFJazVlVy1sNmVsYkNzS3hoQQ?oc=5",
-      "published": "Tue, 24 Jun 2025 03:26:42 GMT",
+      "title": "US safety regulators contact Tesla over erratic robotaxis - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IRThLall2V3Q4ME5zb1ZHa2llc0ROT3lIMmlORURQLXJtOXd3eVFzUzRNUjBEdURIazJkdmdCVVZuTWNSZVAxajc5ekpYUVJZX1NaWUdLOXc1d9IBX0FVX3lxTE83RVY1a1F5dVA1UmpSMlZndS1ZX1RCN1pzRkYwWVRlMHVHZGpZM3NKUktvLXNUeHNzQ3VyQjZ2anJTXzd2ZTRfaDdmX091WmpUU190Y28yd3k1V3pTYksw?oc=5",
+      "published": "Tue, 24 Jun 2025 10:39:09 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        10,
+        39,
+        9,
+        1,
+        175,
+        0
+      ],
+      "source": "BBC",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IRThLall2V3Q4ME5zb1ZHa2llc0ROT3lIMmlORURQLXJtOXd3eVFzUzRNUjBEdURIazJkdmdCVVZuTWNSZVAxajc5ekpYUVJZX1NaWUdLOXc1d9IBX0FVX3lxTE83RVY1a1F5dVA1UmpSMlZndS1ZX1RCN1pzRkYwWVRlMHVHZGpZM3NKUktvLXNUeHNzQ3VyQjZ2anJTXzd2ZTRfaDdmX091WmpUU190Y28yd3k1V3pTYksw?oc=5",
+          "title": "US safety regulators contact Tesla over erratic robotaxis",
+          "publisher": "BBC"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPclpiRExqMEZ1ZGpMa1lkeU1jWHJTYzFkTUxLM0pjSzVNZmpVRWJzYm1RZWNmd1JvdnJ6b0ptQXBzTzExSEZ6dXlYZ3VmbDBHa2hEUDBwUnV5WU5pUHpzbkd5Q0QyX3FwNU9lSnNlQlVQSXVfTDVPTEZFVHVrVm54TTBEWjNnV1BzcFVWcTVFdVhPZklNbjZRZDJPRkxwYU5pOTBJWmJEc1VBejRSU2c?oc=5",
+          "title": "Tesla stock pops 8% after 'foundational' robotaxi launch in Austin",
+          "publisher": "Yahoo Finance"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nY1RLSWlLM0U1THNtSW5Qd0ppZnpURFJzbmFKWkRyTWowVFJNTExTTDF2WXgxQVpMSVZjNTNORS1sQ3lwNWhKOGVfU3dldTBDRXBWLVBhaEZJNkQzakx5ZkhTbERWMENoa0ljS0F2Q3dQREhEWWc?oc=5",
+          "title": "So, about that Tesla robotaxi launch…",
+          "publisher": "Fortune"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1hRNnl4Qkkwc205Y0w3Y3FXS3p1TnFER3d0NG1VZ3pxaW9sM0s1LVRLU2txMVl5WVNCU1Q4c29tRmk1NklwUEozVkFILW5FRXdxMU9jWlVraS1QeS1sUVNtTUFiLVpsaElKUDhhaFBiaUwzamxURy1GcjRsc0F3WFJ0V0I2TFZKcnRybEk1QTMtaHhZcFV4QnJZWXJ1ZXR2Z2p5clFWVnBUVWF6Y2UySmlVTGU?oc=5",
+          "title": "Tesla’s robotaxis have already caught the attention of federal safety regulators",
+          "publisher": "TechCrunch"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMG5nUnhkbExURHJsc1VQVV9rRWxrT0M5Q1NfX2UxNFBHN2l5c2lvVzhkQXZqSUJ6X0hfUFl6NVJYS1REcjlISHVNX2cxVlZWc3dROGhqM3RZVTVjV1pFMi05VEhrUFVpVXNiM1VGOTJIdXlMSVRjV2Q1RExoUDdRcDdDM0xFWHZSRW1yRFZfY0pGdWNsTkMwVF9HeXpHSDFuTmxzcGxEaWRTUdIBrwFBVV95cUxPSldNQlVBelF5dFRVdVQ5ZUcwcm40cldlSUxTMHctQ2tjVE9COERJQS1XNDBMWGs0YXh4OHBhSlBzbEVjamcyd2ZXcFZqOHpWNmt6a09uYXpfWE5uYUpISUl0V2ZmdGt6eVBFQ2NlenBPZExtekxTRDQxTUp6bTB2YWlQRXNrR2tYdWEyTVNybkozMDl4Q0Itd1JEaWRpQmwyTGRadGlwX04wRWIyV3Nn?oc=5",
+          "title": "Tesla robotaxi incidents caught on camera in Austin draw regulators' attention",
+          "publisher": "CNBC"
+        }
+      ]
+    },
+    {
+      "title": "Glamour, gripes as celebs head to Venice for exclusive Bezos wedding - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPalplTmxZQ1U3cHpUdWl1a2F5bkNRcVFOdlNGZkMxeFA4d2VxRXMtNWo4TlozVHM4amNfRlpOeTRzUS04ZjlHeFZ4SXRhS3dpakRmanNDUldrMmtJeElrZ1F4elFOVUNRYXk3REVVQTJVeDJUQWRLcEZ2Y0JNRnpENHV2SHZHTHNidTliQnJzZ1IxSXNwTFAzbg?oc=5",
+      "published": "Tue, 24 Jun 2025 03:34:00 GMT",
       "published_parsed": [
         2025,
         6,
         24,
         3,
-        26,
-        42,
+        34,
+        0,
+        1,
+        175,
+        0
+      ],
+      "source": "Yahoo",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPalplTmxZQ1U3cHpUdWl1a2F5bkNRcVFOdlNGZkMxeFA4d2VxRXMtNWo4TlozVHM4amNfRlpOeTRzUS04ZjlHeFZ4SXRhS3dpakRmanNDUldrMmtJeElrZ1F4elFOVUNRYXk3REVVQTJVeDJUQWRLcEZ2Y0JNRnpENHV2SHZHTHNidTliQnJzZ1IxSXNwTFAzbg?oc=5",
+          "title": "Glamour, gripes as celebs head to Venice for exclusive Bezos wedding",
+          "publisher": "Yahoo"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQazQ2X0dxTzhLeHZSSVdna2ZFeDI5TkoxN0pURk0tYURqcm1hQy0yZmY1c1B6X1R5SjFNTTFzZ2YwRnZYYlhVRk1jeG52VmZXRlFUVWViQ0xERmotcmJ4R0ZtWmFwTHNWTUZmVm5XT2MySTBkT3c5ZkNibzFxME5ndDBVb23SAYoBQVVfeXFMTVh6akZVdFhndnhCSnc4RVd1amlNUmVmcHZBeE04bm9tNmQxaVU1WlBySE9SUndGUlRrSjk2M0NTWW5wRUpUWkNNQ0Ztd1NGNDFjXzRGRVFSdDNZbFk3c1JBT0cwMFJTMWFlUlZPWHFKNk4wNnJhN2xFM1RFOVdEMlR6UTdXdEFtbHJn?oc=5",
+          "title": "Venice’s most guarded secret: Inside the Bezos-Sanchez wedding plans",
+          "publisher": "CNN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM250dWlZMDA5OUhFNmZtUDZaNmhpdzZodjRDZTVKWWtVUFc0Y0ItX3hTeFIzN3dHa0U4U2hxbVBZOVhZS2RuU3dhNjRKRlk1eFh6eldfR2xMSVBnRy1TQm9wczRoMkZvMFN3TjItREVGQjdDSmFEdHdjc2JTOG9kLUs3bnZ1SkdWNjJzZnVPMFhGVTBqX1JnUm1ha2lWSnBlNngxdXlMTU1yTlVtR3JiU20ya9IBuAFBVV95cUxOZjZHc3d3LUNxRkFXV1JJdERQWGtUMXdna3B5U1FQWFBUYVJDTjRrWVRFM3BMZFQ0N3FicXA0WGJuUlMxREtLQ2VDTzE1amZweFpJX0cwbF9DbHoxVzBoUUZFTlRkbVluel9ucGlNVmw0ODFyd3ZmaUlvSUdFVE1QSnd6elVQOHZ1MTd0ampwNUg2aGkyUEstWlpDck54LWlzUk1PNGdjUE1BS0VWMVZESzFueFhtblpw?oc=5",
+          "title": "Inside Bezos' Italian wedding extravaganza that's costing more than you think",
+          "publisher": "Fox Business"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQWVJQThKYUFkaU5lbUoxUC15TC1jcE9pNy1iLUVqN0ZSUTR1Z1N0X1BIa21oYk9rMUN2V3FKVkxDUGRiRUdkTGJIeVJPQ1d5YVpVRDZKc1ZQT2lBd01ZNE9STEhMOC1qeDN5YVk2VmxJQ2FBV1A3UGpKM2Q1WUIzbmRwVWVXWmJxT3dVbTl6dw?oc=5",
+          "title": "Greenpeace joins anti-Bezos protest with Venice banner complaining about billionaire tax breaks",
+          "publisher": "AP News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHhiVDVjZ09aZ1Y3dVlNMWZ3RTdUVWFLMTRudHhWSmsxMldYTVdqcU1fWUFnMXN4SFdFSFhYTFlIUmpDX1QwMlo2UUhsbkl2aU55bHJFY0tnMGN5SThxVEdvNlhWX3Roa0ZjcjhqMXRHX2hqUGt0NEF1b1dtMUhnMnp0RUtTN1E?oc=5",
+          "title": "Jeff Bezos famously neglected to sign a prenup in his first marriage. He’s not making the same mistake twice",
+          "publisher": "Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "title": "Exxon, Chevron Stock Drop After Iran Fires Missiles at US Base. Here’s Why. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnI1ZFFnVnBXZUxfbks0ZnpERzdYbF9VWG1FUmVJeUNkRXREalFpa2R6UjllUExCTnZCb1NtUU5Tenp0VWI4QkR3UjYtem5xdU9hUHNDaVJNWWtsSUxycHNvOUhOeEx1cVJwX1dDUnpZUl9aQ0dmOUU0d2hMTmpuT2xoWVRtX2VnUDJyRktJZXEwaDN6Ym1PRXVWdE4?oc=5",
+      "published": "Mon, 23 Jun 2025 18:58:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        18,
+        58,
+        0,
+        0,
+        174,
+        0
+      ],
+      "source": "Barron's",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnI1ZFFnVnBXZUxfbks0ZnpERzdYbF9VWG1FUmVJeUNkRXREalFpa2R6UjllUExCTnZCb1NtUU5Tenp0VWI4QkR3UjYtem5xdU9hUHNDaVJNWWtsSUxycHNvOUhOeEx1cVJwX1dDUnpZUl9aQ0dmOUU0d2hMTmpuT2xoWVRtX2VnUDJyRktJZXEwaDN6Ym1PRXVWdE4?oc=5",
+          "title": "Exxon, Chevron Stock Drop After Iran Fires Missiles at US Base. Here’s Why.",
+          "publisher": "Barron's"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc2YzdFhhaU5mVjN5aFdCUklkQmdCdmExRzRFZHVzOWVKMjl0eGkyUDFiVUpxb2dIUjdJUkxNMkpBOEZHX19Ba243QmdMMnFvUW1DSGhBeUNrdWlfMGdCdHVsbnAyZzJGNzJEa1NTdklrSWtKdGFiUEFyS21RSVdoLU9ueUNZZGlVbTFnMnFJazVlVy1sNmVsYkNzS3hoQQ?oc=5",
+          "title": "Trump Confronts Potential for High Oil Prices After Iran Strikes",
+          "publisher": "The New York Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS0huNEJCemg5ZFNTT3V2ZnktdVhCcUo3ZXRKdmF5dk1sYTV4cFpfem1PaHF2d2ltRU1mX0JuTlVVRmQ3Rks4aHNQRjJWckhTd08yNEdONGVERFJtZlB6QTBMeTgyLVA4d1pMMnlnSFk1Rk5SWk1IWmVuMGhmb2stT1A3S2ZfOVcxNVZtbF85WWhmdVFBY3l6cGJrLXJ1VWQ0ZHRlMFRtRV9zQVJMZFk5ZHZqLVFFcS1ESXhURw?oc=5",
+          "title": "Israel Iran Conflict: Ceasefire or Not, The World Is Swimming In Oil",
+          "publisher": "Bloomberg"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWE1lU0tTdlpkM3NGd05nX0pFVkRJTVlVbHBBUG95QjVaRXQxM1pBem9Mb3pac2ZKdWlwUFVZN1ZVXzJkdkl6cTBPYzB4ay00UG1JU2dPSUdXZ0JnTjNBLTJfMkNVUlF4Q0V1TWQ1MW5CNWlCZWc0SXFUR2NzYWUzSTNEQWFtSS1GenVvSkE3WQ?oc=5",
+          "title": "Stock Market News June 23, 2025: Stocks Rise, Crude Oil Falls After Iran Launches Missiles at U.S. Base in Qatar",
+          "publisher": "WSJ"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVjRjQ2R0lFOHpUZjNYZ1VvVU9tYmNmV3VydXNrVmpST2V5U0swalVPNWNfYzdNQS1yVlFFSDVRZkg0VXZmdHpqd21Cdkx1UVJ2dzhScWdIZ3dtYkVGT3A2UGJkUk54WG5jQjBVNm9JSXRkQ2JIS0poMENoNVdiaFhtREhaTEEtdVdNdA?oc=5",
+          "title": "What Is the Strait of Hormuz and Why Is It So Important?",
+          "publisher": "Time Magazine"
+        }
+      ]
+    },
+    {
+      "title": "Uber and Waymo’s commercial robotaxi service is open for business in Atlanta - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeG4yTEk4emdoeVlrNWliMmU2TmRrVHZJeldRSk9scXhhdkl1cHY5dkRGakdHVTFKaC1obElsVGtNSEY2c0hENWp0aEJyc2FZVWd4d0k4MUZfRGxIRFlWVE1zYk9MbGVRamw2TnJBVEFIT0w4cGRvMnZYeU5GcUNGR1VUbWZXUllwOVNqdXNXODZMSmtQUFF4MFZmWGpFM09VTW0yelRFU1ZDQVp5VzBj?oc=5",
+      "published": "Tue, 24 Jun 2025 11:00:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        11,
+        0,
+        0,
+        1,
+        175,
+        0
+      ],
+      "source": "TechCrunch",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeG4yTEk4emdoeVlrNWliMmU2TmRrVHZJeldRSk9scXhhdkl1cHY5dkRGakdHVTFKaC1obElsVGtNSEY2c0hENWp0aEJyc2FZVWd4d0k4MUZfRGxIRFlWVE1zYk9MbGVRamw2TnJBVEFIT0w4cGRvMnZYeU5GcUNGR1VUbWZXUllwOVNqdXNXODZMSmtQUFF4MFZmWGpFM09VTW0yelRFU1ZDQVp5VzBj?oc=5",
+          "title": "Uber and Waymo’s commercial robotaxi service is open for business in Atlanta",
+          "publisher": "TechCrunch"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVd1N19uVU1zWTRUM3lVOFBkT1NPSmp2SkgySGlnbVhmczZlSDZiRk9yQm9LNWo2LU9WTTI3TlZHTWpEV0tSQXFtQnNKWTlzTXhWcmc2NXBpT2oxSTRhc3Fiell4Ym90SG96UUxDTGFRXzVuY293M1JqWXZ2N2JwQlpBWHFJRHlpQVVXd3pvSERId296eTEtSko1YVdtZWd1T3dCLVdrMGN3ZkQ1NkZvUw?oc=5",
+          "title": "Waymo has come to Atlanta. Here’s what it’s like to ride in a driverless car.",
+          "publisher": "AJC.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVN0aHhzamZybnJOUmNPOGNGN1NPMkF1b2xaTUtDc0dQSGhIWDN5el95eWdYUUloN2pYV3BndEZ4aWV5N0lzZE1VaTdDQU9iVVFMSU5jRkhzT09xemdkVG9rY01KYTVBckRjWkJkVGttd3g0bEJCMTR5OThnQkpiN2lFcG1xTVR4RmxkVnFfX0RJaWRmSDZTZFNQc9IBoAFBVV95cUxQVTNJUG1aWGpPVVFDU0lzQXFJaUY2aFJ5WXJFUHdNN19HWVJKcG1UMlhvSV9JSmpZbzdLUG8wNDBqQ21fVHlEaEpOcFFmV1Nyb2lSTDRNU3BjREp5bTN5SVF2eXdsWk02UzlweC1WLW9MVDlxRVFLNUVCeWlWMGFzMndGWGxtY0FTcVNFMzFQWjlteUNSaHNOejAxcnJGcnZu?oc=5",
+          "title": "Uber, Waymo robotaxi service opens to passengers in Atlanta",
+          "publisher": "CNBC"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa1R1TnFQZkdlLUpVTjFya0JzSW5wS0dGRlVrWHAxdVpXaTVWMFFZRG01OXdoejl6c3JEQnhlMUNnN3ZUanNiWk5LUm5yQmVuajNxbVUydldFeDBEejA5SE1OV2VlMTljaUJXWU5iNHBTcW1waUZvcTFDZnYwTlpueUhrME9ieFVqWUU3QTlna3k5YTQxb3R1M2RSN0VXUFRjRktRU2Z3Rk1xVXc2Yi1IcXo3VFBJQlZFRE9BLVp4NTg?oc=5",
+          "title": "Uber, Waymo launch autonomous ride-hailing service in Atlanta",
+          "publisher": "Reuters"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OdTFySDlDZ2YxQUw1Y2dXaEs0M3E2Z0NmMmY4dUx1Q2tkcmRjWFB4blh4VDFybW1WX0JmVHFZQzhIUks3R241U3U1ZXRvcHVtaUJnc3g4WkYzZGkwdFMzNkxqdlVDRmpucHU3RkZ1NWRYM1JucFN2MHlwQQ?oc=5",
+          "title": "Waymo’s robotaxis are now available on the Uber app in Atlanta",
+          "publisher": "The Verge"
+        }
+      ]
+    },
+    {
+      "title": "Here are the overlooked ways to play AI, crypto and quantum trends, says this tech investor - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUWpaODhNVDB1Zy1sT3BNejdmajU2MjRjbkpFMlNJMDVHTHRDcEhReTBPbm9Md0dlazROX29sdElIOVpxbnBSRnpGQ0tqVFgzYnFlQ05vNXVLcWVRT2lLS2RYMWswaXRSNjVJR0NwUnJrR0FMMHRBTllHVGF4VDZtc3NpdElhQjh2ZFlPakZtYnRubU5POTQ0OFRaaGMxVVY5VGRtNDY1NUwzX2lSX3J3WGYzTG1qUUhtVllKQ0dkMUdVZlpaUy1FTG52bk0?oc=5",
+      "published": "Tue, 24 Jun 2025 10:54:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        10,
+        54,
+        0,
+        1,
+        175,
+        0
+      ],
+      "source": "MarketWatch",
+      "sub_articles": []
+    },
+    {
+      "title": "Texas, Oklahoma and Nevada make changes to lure business amid Delaware’s ‘Dexit’ concern - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGx3RXNxdWdSTDlVMDlLYXpKR1dpMGJKb0VPcHhsSEJENjVPbmxvckdRWWF3dWxBTktmTmJmQkpYVVVtbFVqSVk3ZWNHQUdJNFRPNGR3ZGNFdWNUbVk3OWc2cGJpckV2NlBkYmY1dmlzN3ZibXZoa2ItcEZYSkFBV0Exb0ZMRXE0VWJMVW9SOUZvV3FiaTZEUW5URmhEYVlkVktRTmlOeFpBWFpMcGlqZ1BPV2ltQWhHUUJ3?oc=5",
+      "published": "Tue, 24 Jun 2025 03:34:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        3,
+        34,
+        0,
+        1,
+        175,
+        0
+      ],
+      "source": "AP News",
+      "sub_articles": []
+    },
+    {
+      "title": "Ford Will Keep Battery Factory Even if Republicans Ax Tax Break - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakthUVdHNjBSdndGV0YxLVUzRl9nOXNXdkFnbVpnRTF4Tjc5VUZJZktmNUJlX1dIZEtIeGFsZ3Y5enVtNDc0OHo0dDhUT2RGWldaVjNmR2Ntdi1KVVdDNUQyU1pCaEhvQmRXS2NWSmd3ZEZ1NHJrSzhkZW9Tc09sbDJ2djJYb1dmLWJ2QjQtRVI?oc=5",
+      "published": "Tue, 24 Jun 2025 00:37:40 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        0,
+        37,
+        40,
         1,
         175,
         0
@@ -24,73 +236,29 @@
       "source": "The New York Times",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc2YzdFhhaU5mVjN5aFdCUklkQmdCdmExRzRFZHVzOWVKMjl0eGkyUDFiVUpxb2dIUjdJUkxNMkpBOEZHX19Ba243QmdMMnFvUW1DSGhBeUNrdWlfMGdCdHVsbnAyZzJGNzJEa1NTdklrSWtKdGFiUEFyS21RSVdoLU9ueUNZZGlVbTFnMnFJazVlVy1sNmVsYkNzS3hoQQ?oc=5",
-          "title": "Trump Confronts Potential for High Oil Prices After Iran Strikes",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakthUVdHNjBSdndGV0YxLVUzRl9nOXNXdkFnbVpnRTF4Tjc5VUZJZktmNUJlX1dIZEtIeGFsZ3Y5enVtNDc0OHo0dDhUT2RGWldaVjNmR2Ntdi1KVVdDNUQyU1pCaEhvQmRXS2NWSmd3ZEZ1NHJrSzhkZW9Tc09sbDJ2djJYb1dmLWJ2QjQtRVI?oc=5",
+          "title": "Ford Will Keep Battery Factory Even if Republicans Ax Tax Break",
           "publisher": "The New York Times"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTXdkVndzeWlEc1REeFBrbS1ISU8taExMR1hrTERxOFVvRGVLVTZOc19hQmJSemFCcGszS0FjR0xtWE1OaVNON2MxckJHcjFUYUNPMzJQbzM0SVZxRlZFSkZpQWVsYlNPb3ByekV0Z2laNUhaYWdSdS1aNTN4dmxJS3VSZWFiS2xnazYwVUVjT0VwVWxUTlp3STZqOHB4X0s2a252QTFBNU9JZlJLc0p2WDV6QV9HY2F2Y3dDY3pDOA?oc=5",
-          "title": "Oil tumbles to over one-week lows as Trump announces Israel-Iran ceasefire",
-          "publisher": "Reuters"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmQ2dMUFdRSEl6ZGNGTEhwS2l4b1dzdDlyZnA0YUZlR1E3eWZQZHdDVVB5bTN4dkJGNVJSV0p1Z3VOYUF0ZkhFd0lsckx6dnJ4ODlsNWE2VWh4aUF6YnBkUkw5LXVHWEFiTVVyOXVPcEM0ZkVM?oc=5",
+          "title": "Ford's Affordable EV Comeback Starts Here. But Not Without Controversy",
+          "publisher": "InsideEVs"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WRmw4X2NYcS1ETjlUb2VOV0hKdHBMWG42dHBFRlc2VEdESm56NHYwOHI0UEYxUWF6cTZxVXphcmJBN3BtR1R2ZWRBcjlpanBERUs2OXJyN1pkS1kzM2hUdkJXLXY4NWFhOG0wZE14SUxuYUVlUUE?oc=5",
-          "title": "Stock Market News From June 23, 2025: Dow Gains, Oil Drops. Why Markets Are Shrugging Off Iran Attack.",
-          "publisher": "Barron's"
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZE45NGZoU2hyaDlkYURFTkFlX3ZxQlVWN1Z5VFhjZ3FVR2tTQmxudGVkN1VHRm5aaE04NGxuZk5VTFZFdW04VzdqcU1KdGNXbGFSaFo5MWJGSVdxS1VRWU9KVnJsNmZnbUhCb0VmbkZiZ1hKWGROeWpaZFpBOWFxOXdSeG84YjA0bGR3VEFJeUw4QQ?oc=5",
+          "title": "Ford says Michigan battery plant right move despite cost of tariffs, politics",
+          "publisher": "Crain's Detroit Business"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmF1N21SZzZtVThPUW9FWU5HWlZnbzVDak11WENqYWdfSDJRcjA2M2ZPYmpxdVpBYks2N2tucllHVUJOWGVsMGVTWGJJeVNBOC1VbU9PVzRLc2FoZC1JTDlsUmdTM3gzN1JCcGoyUk5sUGsyeUpsbW1Va0RubzgwckpycFRwMEV0eG5uWTln?oc=5",
-          "title": "Stocks Rise and Oil Recedes After Iran’s Retaliation Avoids Energy Infrastructure",
-          "publisher": "WSJ"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXS0k3cDNxbmNVSHE2QW1JTGxQMmQ1MWFjbFZIaGd6SEpJcTBoOEp1ZEQ0OTRMTXgxVjJsVnR6OEV4bUFURVF2alFzVVZHQUd1aDRkWWxCMkt5TUNWRXh2NnFMcUdCUEUxX2xZUWN3?oc=5",
+          "title": "Ford warns EV credit cuts risk jobs, Nissan CEO faces backlash, Tesla robotaxi safety questioned",
+          "publisher": "CBT News"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzVLN0tzMVQ0US1manFhY1pqQmhqQ3lJdUJkX0Jnc0FvVXR0bmZZQVhZRGxqZVdUbUczRmg3NU03Wmo1WWszOTJvWUJRLXR3YUdhNnFoZlI4Z2dIV0V0S3hDYTc5LXZ4UGlaSU9qS3Zra2QxLV9ZV19vSkFXd1JCd2taOWF5eGJoLTU5aEZ5VzBCMGE0Ti0yVFAwTDlkVHFaaFpNTg?oc=5",
-          "title": "How high oil could go if Iran closes the Strait of Hormuz, according to Goldman Sachs and others",
-          "publisher": "CNBC"
-        }
-      ]
-    },
-    {
-      "title": "Watch These Tesla Levels as Stock Soars Following Robotaxi Service Rollout - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzlNZjM0OEtCeF9sTklaNXNwSXBvUkFOb0hOb2FBSG04d1A0ZlhpNlBwRHpBYVZCdmhadFNDenVqRGlZbzJWRTBlZ053VDZLRGNmeUtibFJ6STZ3Z1BxOEFISElZZFBEbVBUcUNINVg5SURyemwwNk9hUzBLd1M3dmdld3dvd21sM2phWHR1Z2pzN3cxV1VyVmVYUHlRMzZjZXlxa3pxMFVmOVByYTQ2WVZR?oc=5",
-      "published": "Tue, 24 Jun 2025 02:23:52 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        2,
-        23,
-        52,
-        1,
-        175,
-        0
-      ],
-      "source": "Investopedia",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzlNZjM0OEtCeF9sTklaNXNwSXBvUkFOb0hOb2FBSG04d1A0ZlhpNlBwRHpBYVZCdmhadFNDenVqRGlZbzJWRTBlZ053VDZLRGNmeUtibFJ6STZ3Z1BxOEFISElZZFBEbVBUcUNINVg5SURyemwwNk9hUzBLd1M3dmdld3dvd21sM2phWHR1Z2pzN3cxV1VyVmVYUHlRMzZjZXlxa3pxMFVmOVByYTQ2WVZR?oc=5",
-          "title": "Watch These Tesla Levels as Stock Soars Following Robotaxi Service Rollout",
-          "publisher": "Investopedia"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMG5nUnhkbExURHJsc1VQVV9rRWxrT0M5Q1NfX2UxNFBHN2l5c2lvVzhkQXZqSUJ6X0hfUFl6NVJYS1REcjlISHVNX2cxVlZWc3dROGhqM3RZVTVjV1pFMi05VEhrUFVpVXNiM1VGOTJIdXlMSVRjV2Q1RExoUDdRcDdDM0xFWHZSRW1yRFZfY0pGdWNsTkMwVF9HeXpHSDFuTmxzcGxEaWRTUdIBrwFBVV95cUxPSldNQlVBelF5dFRVdVQ5ZUcwcm40cldlSUxTMHctQ2tjVE9COERJQS1XNDBMWGs0YXh4OHBhSlBzbEVjamcyd2ZXcFZqOHpWNmt6a09uYXpfWE5uYUpISUl0V2ZmdGt6eVBFQ2NlenBPZExtekxTRDQxTUp6bTB2YWlQRXNrR2tYdWEyTVNybkozMDl4Q0Itd1JEaWRpQmwyTGRadGlwX04wRWIyV3Nn?oc=5",
-          "title": "Tesla robotaxi incidents caught on camera in Austin draw regulators' attention",
-          "publisher": "CNBC"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMkJQOWFUM2hPTWVyYXhBSVBERlB1NzBWdlE4bjAxNjBCb2NBZlRBTUd0Vk9uOFRua09SZGVQZDk5UFpadW9KMTdBS0lTZUNyZ1oxZXdHT3FuTjB2Y0tFQUFkS1NObFBDTnlGVDdwUmwyTzVOS2RGaEcxc1RlakpXN25Eai04VTBIQVhWNDVTWk5IU2d5cV9pNDV5Q1BQejg1ZmlyeE5ETzJEVkZqN0xmemRodVQ3aDFiV3V0bEgwVFNCZGFrbzZ6b1RB?oc=5",
-          "title": "Tesla robotaxis begin rolling in Austin, but only for a select few",
-          "publisher": "Austin American-Statesman"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVUtaFh0VUo1SU0tN2IzNGJlYXNURnFxbFlWa011OUtjcDk3NXJwd1M1S2VGdDBkVzY3UThqcDhrVGhCa2VFblc2WUNZbnZqNDdoSUpHcU5fX0tKTHV2N3Nqbm83SUlzdzI0NlA5Z2UyZlhjMEwwM29oTFJ5QVZyNTVjME03RVY3a29ybGtmNWd1N2dycE9sYm1GcDI4SXNFSXdIZHBiamQ1SHF6eURCeEZMY0N3NDg?oc=5",
-          "title": "Would you hail a 'robotaxi'? Musk bets cabs will give Tesla a lift after boycotts and sales plunge",
-          "publisher": "AP News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT25jQmoxOVpxNVIycFBCOWJ4b2ZteE5OUHVESV96NGRZTEhqMk5RTnpiOHFmVGg1RUFYcUNKT0RhR2JHWG5QWFZ1Q3k2QWdKMUFrYzdqOThOR0ZBWThHSzdkakdfX19yczZleFF5STM5Nk5LRWJJX1N2Y2tMS2RBQnhRckw4bjNvMVZFemp5NFlXcG0yQ1E?oc=5",
-          "title": "Tesla asks NHTSA to hide its response to Robotaxi questions",
-          "publisher": "Electrek"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU1hEd3dNdHE2cjZ0RG8yNWJWbDlIUUpGNW9HenZBdnY5WHcwc0otVEJST192M3EzYTRoajNqbXFxLXNkUHdfeGpDb2d2TGpsT3BtVkwtSUxGMWNMelBEc3h0S2xOS0p2Q3NtRkVsT2ZYMzFtWFZCR3poMDlUUjlNcTE1aUIyR29HZzJabDduZUNNQmQ3V2c?oc=5",
+          "title": "Ford warns battery jobs at risk if congress cuts EV credits",
+          "publisher": "Tech in Asia"
         }
       ]
     },
@@ -132,73 +300,55 @@
           "publisher": "The Guardian"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzNjNfT2x1THFpeWFQMDYtNGhOcV9XYUNuRk9tVHVUYW1uSmhUOVpZamoyYnFXWnJJTjVTNldnQUVfZDI0MDF3a1FOTnhxMFZJOHU5Q21aRFU0bDNlSFN2MDZGVGs3elJ1QkUzRG1UbHpGclczLXlkOGFzRQ?oc=5",
-          "title": "Omnicom-IPG deal clears FTC antitrust review",
-          "publisher": "Ad Age"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDhLU2t1dTY4d0JjSzBVazI4M1VTZXdEa1R1OVdPcklRLXByOFVtNnR4UEN3YnVpNWhtdENQWkZpN3lQV3dzVkFRN2g3OXp3Y3QyRmRoSEJKaE9EMTQ3eTRXR1Ryd1A1U3pyS0FzUGRXR3BHMTBvU25ndXZGTUp6ZnlvVU80b1NhU09ZQ0VhY1pSOGU2c0RtLQ?oc=5",
+          "title": "The FTC is putting unusual political restrictions on the merger of 2 ad giants. Here are the winners and losers.",
+          "publisher": "Business Insider"
         }
       ]
     },
     {
-      "title": "The Bezos-Sánchez wedding woes are in a class of their own: Human blockades, yacht parking - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVBuQllPSFM0TVlWMlRYN28zcmwxS2ZZWWdFNktWM3R5RVN1Z3QtdnphVjQ0WmdNakxJVUluX1lDT2dpaHBORy1uNlJSLTMzLUtObjIwekM1OGwyN1o1TFl2WDdLcl9hTlBJMU1WVXczZWlUbjNRb3NTZzNfNE8wU0RMTG5fbUJJcmFiYTFScWtTS3MyOGhUOS1fbjJrUzBGU0QwekY5ak1LLTJYX25iV0FoVjFMWW9YeEE?oc=5",
-      "published": "Mon, 23 Jun 2025 23:21:39 GMT",
+      "title": "Target Sets Dates for Circle Week 2025, Promises 2024 Prices on Select Items - IGN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb3pFUEFzS2xzSkJ1LVBPNmRiTmFPVDNDanZrQVVySnlpS29HemZSbVZrV0liZk04WW9hTE42dWg3bHFJU0VyUmJvWTFUQ0plVm9JNWxEanFMWnNtbE5xOGNjdkdiZ0pNYTVLQnlyZGZwVnZwbXU0VVhGY3AxcEZtYzYwSHAzcFVLOU80?oc=5",
+      "published": "Mon, 23 Jun 2025 20:52:30 GMT",
       "published_parsed": [
         2025,
         6,
         23,
-        23,
-        21,
-        39,
+        20,
+        52,
+        30,
         0,
         174,
         0
       ],
-      "source": "Los Angeles Times",
+      "source": "IGN",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVBuQllPSFM0TVlWMlRYN28zcmwxS2ZZWWdFNktWM3R5RVN1Z3QtdnphVjQ0WmdNakxJVUluX1lDT2dpaHBORy1uNlJSLTMzLUtObjIwekM1OGwyN1o1TFl2WDdLcl9hTlBJMU1WVXczZWlUbjNRb3NTZzNfNE8wU0RMTG5fbUJJcmFiYTFScWtTS3MyOGhUOS1fbjJrUzBGU0QwekY5ak1LLTJYX25iV0FoVjFMWW9YeEE?oc=5",
-          "title": "The Bezos-Sánchez wedding woes are in a class of their own: Human blockades, yacht parking",
-          "publisher": "Los Angeles Times"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb3pFUEFzS2xzSkJ1LVBPNmRiTmFPVDNDanZrQVVySnlpS29HemZSbVZrV0liZk04WW9hTE42dWg3bHFJU0VyUmJvWTFUQ0plVm9JNWxEanFMWnNtbE5xOGNjdkdiZ0pNYTVLQnlyZGZwVnZwbXU0VVhGY3AxcEZtYzYwSHAzcFVLOU80?oc=5",
+          "title": "Target Sets Dates for Circle Week 2025, Promises 2024 Prices on Select Items",
+          "publisher": "IGN"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHhCd3d3dWhwNjJyemZpMFMyMkhRQ1FIWWJPUnlESzAtU0V0MGM3RkwwTTBDd0U0Z1FPMFUtOTNNd05qMjBIVF84ZFRxQkxGdmRBMVZnZG5LOWV0azc3Z19TVEJvSW1EaVpDeWJvZGZJN3phalZNenY4N3lMd3o5UzFxZWE?oc=5",
-          "title": "Bezos ‘forced to move Venice wedding party’",
-          "publisher": "Yahoo"
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQldQOE9SU0x2NzVHSjQ1Mm5LUVYtSEEwQV9WdGdpTTROd1U3dmRaYXRYdU0wYjIzUHg0cndfSDRhbEk0VktfTkVYTm1FRzlLOGo4R0o3cmpfQW56WFhwVDRwSlJnZlRnUXdMeWt4OUJNZXVJSnVMa05QdWwtTzY2c2NtOXRmYUJINmowUVZRaC1xa2hCOG1kbHVCTXVRZlJWOUNwWUxLcG9sZDJPczQ0clhUMWNlRTl5Xzc3ZEhhbFhSWTIwSi1kQ3R0N2pSUFkyX3BMcXFBbWJtUEc3LTJN?oc=5",
+          "title": "Target to Hold 2024 Prices on School Supplies as It Kicks Off Back-to-School and College Season",
+          "publisher": "Target Corporation"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiamphcGV2ZE9KUzZMSlZuZVE2LXVYTjRaYTg4RjNzaExXWndfX2pVczZMbjd5VU0yZ1BJcGRtWnFyaTQ3Qy1KT0xndTE5b19JQnBPOXNNU2ZyY1VZMElBaTBrTkxnWU1LdXVXRzFFVkpVbUx5b0xiQktkQQ?oc=5",
-          "title": "Jeff Bezos and Lauren Sánchez's Wedding: Inside the Venue, Guest List and More",
-          "publisher": "People.com"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYUdOZDVhUXVUR05Za3VvUHdGTF9wNTNtcWhKSHh3YWpaLTREdktaVXgzUVB5ZmFOUnp4aEVtTVNYNE43Y0M0VGVrN1BneWJZcVFqQTdGd291Vm1wemF3Qmo3U05PSWxyMWpKRlNpMjM4U2tsYTVUdmZiTkVweW1XbXRiT3lYSFHSAVhBVV95cUxPUHotS0NBemtSSHJqQ19vOFctcnppQ19BUFh1NkVIV1A1NVVHQXdPLWR3V1Y1VUNmMFVDei0wOVNnT1VxNm1KRDlBU3dlY3NOdnJ5T0NnRG9t?oc=5",
+          "title": "Target Circle Week 2025 Starts Jul. 6: How to Get Free Access",
+          "publisher": "NBC News"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQazQ2X0dxTzhLeHZSSVdna2ZFeDI5TkoxN0pURk0tYURqcm1hQy0yZmY1c1B6X1R5SjFNTTFzZ2YwRnZYYlhVRk1jeG52VmZXRlFUVWViQ0xERmotcmJ4R0ZtWmFwTHNWTUZmVm5XT2MySTBkT3c5ZkNibzFxME5ndDBVb23SAYoBQVVfeXFMTVh6akZVdFhndnhCSnc4RVd1amlNUmVmcHZBeE04bm9tNmQxaVU1WlBySE9SUndGUlRrSjk2M0NTWW5wRUpUWkNNQ0Ztd1NGNDFjXzRGRVFSdDNZbFk3c1JBT0cwMFJTMWFlUlZPWHFKNk4wNnJhN2xFM1RFOVdEMlR6UTdXdEFtbHJn?oc=5",
-          "title": "Venice’s most guarded secret: Inside the Bezos-Sanchez wedding plans",
-          "publisher": "CNN"
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzOXBfdnpmTldsT2VVTjc1QnRhdmV1Ui16dFhmSEFfcUlHQjRvNk1ScFBiSk15cHJkaUhsX2lhSHpsUko4ZHREYnY3eXFKNFNvRS1BcU9Bb2E0MElMY1VST3k5ZVlWcnBXRHFZemJST291Ti1HNktrTTNB?oc=5",
+          "title": "Target's 'Top-Selling' $5 Backpack Is Heading Back to Stores This Year",
+          "publisher": "parade.com"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV1Y3aHM3S20yaDY5cU1jVGhKc0NuQkxzQTZ3MC1ocS05NUtacG1QVU1UbzBxRHVBenQyZXpsQTFZUWlDdGZnVGdvd3JzSU1CaGJiT3VhQ3VzT1VQMVdyMEdMWUZWTTdZbC0xTjN0OFRpUGFRUDZfUXlVb2pYS2d4MXpHUUVnZW9DZFl1cl9jMFJaYTljbEhlMk1Eb2Q5MEduQk9SSm94N0xqVVZUTVRyMmNQRnhsYkE?oc=5",
-          "title": "Greenpeace joins protests against gala Bezos wedding in Venice",
-          "publisher": "Reuters"
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXJ3NXJveEd2N3JJNkJvdmtETlB2NWoxeGFBbHdjU09DMk13TjNWTWNJWXZzUmo5U21MOE9aLWZ3Y1k5VnRrbjVBcFo1RWJLaUhGYzN1eGx1cWhKMDZRdHREdENGSC1jcTdza0ZybkdpTVEwTFZYWGZSTGtKbW5UcmRjSTVBc1YwZEpsLTdsYnZkMjdYY1ZpTko1YThFZ0c0MmhwNElyenNoV1NGWnhCNTBBM2c?oc=5",
+          "title": "Target announces ‘2024 prices’ on some back-to-school supplies",
+          "publisher": "MSN"
         }
       ]
-    },
-    {
-      "title": "Italy’s Monte dei Paschi sale sparks EU scrutiny after global investors sidelined - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmSHN5RVZIUEJ0MVptOExuaW95M1FvN1d1RkFFeGxsVlpON1B3S2NfeFRVR3NfUmY0ZDVabTlxUjFCdU1pNTE4eGkwQmptZ0FnZTN5TTVHOE95V1FKY3U0NGRKVDZYVGNBQ0pDbWZuNnI?oc=5",
-      "published": "Tue, 24 Jun 2025 04:00:10 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        4,
-        0,
-        10,
-        1,
-        175,
-        0
-      ],
-      "source": "Financial Times",
-      "sub_articles": []
     },
     {
       "title": "Heat wave knocks out power to thousands in Queens, Staten Island - Spectrum News NY1",
@@ -233,14 +383,14 @@
           "publisher": "NBC New York"
         },
         {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbEJ5bTNxUTAwTDFPM094VndINktrNGpNZHRqamxWYzlYaU5MVER5czlaVUpyS3lMc2RNWFEzZS1wR1NWcFFjVVI0SmdPYU93N0FWM1ZOU3hkb1QxdG04Nm5USl9zM2g5RktRV0RTWGJicFl2bUp2OUpxaDFCdF9GQmNxZVZjVUZuTGc5el9ybV9ocGhraWc?oc=5",
+          "title": "June 23 Update: Maximum Generation Alert Issued for June 24",
+          "publisher": "PJM Inside Lines"
+        },
+        {
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTG1yNzdTZHpuWm1HTkZhal93QVNqWnJvZlUzZTRGUGkzbFdPQXJKUlVUMFdrTnZRajVxMEtlTGh2SldMZGJ4RmxsXzViZ3RfbURkSmJKY3RBV3lxazZwVnBYeU9UbmlBbExGdmZlQmZpb1ZnUGR0aEc0R0tDNE05dkM3ZGRSSHZvSE9OWndLazREWmZaQmYyMmNkbkxFaWFpeGFBYTdaaFdmNFpZOEdXaXU5aG10Rlc4WE1nb2RCTmY?oc=5",
           "title": "US electric grids brace for scorching heat as energy prices surge",
           "publisher": "Reuters"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONng1TTR6eGxmUTJRcVhzZm84clBNa1MzSWQyd2hzNG5QQ0dNRm50c1dZWXN2bXZGcDVUTUN2ekdhbWVFR29yMVhUS2x4V2NNVFFoUktiUE5zaGpSNmR3b1JobVdlRWloUUV6YmpfbmYwRm1CdzU2OGlXc3FaZXc0OFVXMnBrMUxKVVhmNEZlREwzLXpveWfSAZsBQVVfeXFMUFFUNEFkYUFwTW1BTUI4bWFKVGFibGRtS0FZT0xLQ3I5QnFVVExsbjNiOTUzU09HcWVSV3g3aFpkdi1mbGNIeGVUOUZXa3JBUm9kTzRPNjgzZThTUmNvSVpKVTdrRHIyd3FiOUpldHo3RXRuWXE0ZmZHZFhfOFZDNjZmYVk2cTJ6ZzdrYlQxajBOelI0LW9ES1hnaUk?oc=5",
-          "title": "Thousands lose power across NYC amid extreme heat: Con Ed",
-          "publisher": "PIX11"
         }
       ]
     },
@@ -267,14 +417,14 @@
           "publisher": "WSJ"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWFCelhkZHVwX1pvWUZ2bDMwR2o1UnRoc3FvUjRJcDVuR2VXT2V6UDVwcHJxcVRDbFJZRENSZHBTdm9DMjNCdV93enhBTDQ2LTJESHhScml1OFZRNW1SaXR5cXNqR3NKdEY1WDVaSEdJMDdjZE9qTmhmajFaZDE0SEk3RTdzRHl00gGOAUFVX3lxTE15SXRJT0sydmZvWmFZbElMU09EUTBoSS1nbWh1YkNlcVItOHByXzZTTENoZU8yLXZOa3VfejZQZ19hNmNSUEVHbUp1MElZckxyYllxVDNBb3FJVHFNeDV5V3FkV19hMTBZdmQ4YXZjc0JMUFNSbGNXbnpMdE1uc2x5TmEwUHlLRFVhMXZCMkE?oc=5",
-          "title": "Novo Nordisk ends deal with Hims & Hers over sales of Wegovy copycats; HIMS drops 34%",
-          "publisher": "CNBC"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdnBoYXZfR3lOU05WOGhVcTJCX05YWWJoTUxBSi1INUlGRTlBU296THdwcUR2TWY4bkZ2NW5XUHl5RHl6d3VLN19XNktvNzVXVkxOX2QzeUZMR3hfZW94X1hZUjZkaTFhRTdRVHVqWTc5cklseGxFWTZ0dV9PU3c4Nm9oakVwUUpsZjJ0X3kzMjJVQ2tlOElQVmkweTlPMllKM2plSHcwc29yLS1NSlRPQUNhdWZNOFNsd0o0?oc=5",
+          "title": "Hims & Hers stock plunges after Novo Nordisk ends Wegovy direct sales deal",
+          "publisher": "Yahoo Finance"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWmlfV0pEd0tWcjYtVHdfaDl2aVhRWDVYbFRkRUttUHdEMUlxdDdJVlpDSkY5VnZ2cVFhSkxRUFNzSGxqcnVsdUgzNWdDSlF5OXlyR0daUlRsVGM0VlN4dndDZHl5QXVVYThIMEFiQmI0cjlBQS1WZ0UzdEgxU0p4U1h1SWdWVTA4Vl9CSXlaMUJYMEYxS1FXQ0ZoQ3Z0am9VdEJJMHd5eW5TakdCa3dNWg?oc=5",
-          "title": "Novo Exits Hims Partnership, Citing Concerns Over Compounded Drugs",
-          "publisher": "Bloomberg.com"
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQQV9qTERFdUlfZVo5c2l5akNEV0I4bHFyd0thc3ZUbnRpcVUwQld1YVg1NFFtTW95SWprTTJIS2Y3SUp6NzBwNy1NTGh3eGpHaEFoM1lWV3ozeTJDWUJ0ZTQ4UG9JV2ZndEpEbkw1LVVZY0ppREplSi15SzFNY2ttZlhFdzN6dWE5TDc2aXg3MmRHRDJib3lsU3JfQ2tLXzZSOWplVFhXNHFBU3dqZEt3eXZIajZIeG81UGFFV2gxZWxCTXdodHhDbFBxZ0VBWmU2TmE0T0I2T3JVbDY2QTh2VzkwQ1I0aTNYa3JOZFpwVjlZODRvemcyY2RMRk1uWmxLWEQwSDMzRl9uVFZOUGZWVUh4cEwyUlVFNnNsaFR2cUhVYjd2NV9WdkdDWTA2OXpzZnBEcmdOSUhVNHFBc1RHdjVBeUs?oc=5",
+          "title": "Hims & Hers Health, Inc. (HIMS) Shares Crash After Novo",
+          "publisher": "GlobeNewswire"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekktRUVsZE1Vc3BXbDBRVkgwR1FVT3g3d0N0cVViMGx6cUVRRlFZN25jMDJfMC1zZEVPZmJoV2ExSnFidDZ0ZUJiVHFCTno0bmdDMUVTQmh2b1FvQV9Fc3NlbFRCUWtzN0poVmpXNEw5bXFjTGxGWWhkSmVHUHlCNkw1MNIBiAFBVV95cUxQYkJFMW43NzNramQ1NHB4TDRCaDBuanp3Qm1jNkZYTDNMZTFFTkQxQ3VBYmNfMks2NTd6Skx1SHVrdnJvS1lGdTkwMy1lWDBHUlFtUDNhdkZFTVdCanpyNC10VGdnSUxJUExMVlZrRXJuSHBqUHZZYVo3WkxlSWRVdklkTjNhNXJf?oc=5",
@@ -282,9 +432,9 @@
           "publisher": "CBS News"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdVVPOHEybEpTMXQzNHZqLWlfMDUtS05jZmxZZ25jVlNzd3hkMWhHM0w5bWlwN29EYk9vQXREcG1MMDJlWnJ5bWVXVnhISllXWWhVMzZLQXhxTHNtNDBhYjVmUHh1WXdCWC1BaFBKdUJCNl9iSnBvcTF3WG9iWFlmOUQ4S0xTekVWeEl6V1M5bkdxZWl4WHpKanh1SlRJRUREN0dQTDVLbndBOXBxTC13cWctTFJ6cDRNQ20yeFB0UGtMUzl0NTBPaA?oc=5",
-          "title": "Hims & Hers’ stock plunges. Here’s why Wegovy parent ended its partnership with the company.",
-          "publisher": "MarketWatch"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdWNlVW1ub3AxZExDT2lwWmlGbENwMHZfX0xTM0F2WEJTMk01V2x3RUhydEdOT0I5S25CZUlVQVJwQVR3WEJCMWhiM0xNUFRUMS03Q3U2YUFSWW1BN2xPT0pzUmhQQVM0c2pxLUFMakh6Um9ja05FcTI4QUZaLWtReHMzM0V1X2x1dW9DYWdKTU5jcjFwQk9j?oc=5",
+          "title": "Novo Nordisk terminates deal with Hims over compounded GLP-1s",
+          "publisher": "Modern Healthcare"
         }
       ]
     },
@@ -316,9 +466,9 @@
           "publisher": "ESPN"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUHd5VW8wQnhTSkpWVFI3ZDJWdnJTYmQ0a2NOSXQwem93Tm05TDBRN2E4TE4zcmZxcC13d1NsTzQyOWVtZ1RhRWhUR3Vzb0NkZTdITHZ3bEhwc3U2dmc3OHVRR3ViLWQ2TVdOY1VzdkllVExlaHN2eXR4cTBBWWNhaWh2OTRRaTdhWmNraXJGNXpNUzBqUEN2cDl3VTJPaXhYQ3c?oc=5",
-          "title": "Opinion | Frederick W. Smith, 1944-2025",
-          "publisher": "WSJ"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzhodlpRUmk1WkhCZ2xGTVdrc19VLU11SG5raF8wcnVDbzA1Ulg3c1hYQ3ppS1ZiNFZFYng0c20wZ1FaRk43NXZuWkNmUHBlVzM4ZC1TcDhCekNYQkMtM01FOFJrM2VHTUhyMC1lNnMtek0xazdFRGtNaGtLNjVza09WVHF6Ri1HVHEweUg2eDJ4Nm1HQnAxVlpETzhvalVkaXQ5Ri1FVWxLdw?oc=5",
+          "title": "Frederick W. Smith, Visionary Founder of FedEx, Dies at 80",
+          "publisher": "FedEx newsroom"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYkxNdmRTMllST1JnZ1M1MVNvM0pGdHRVemVYZ2pmYU5XYk9fUkJkWDlaWVRnMElvVllJZXM5MlZTUDlxZlc2ajhiRWpOcVJadEhMcjVsNlUtMEtxcEtlRUVTcmlqYmVyTnpDT2MySHJDdmdRZGNNWVlFR0R6VVZUVUE1LWlRRnB6enhjckRqeWxOdFlnOTlPQQ?oc=5",
@@ -333,41 +483,85 @@
       ]
     },
     {
-      "title": "Fed officials are starting to break rank and join Trump - CNN",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWeEpfbXdqZlE1c0xfYkVraUNCbmI5OTNUVXZnbHFPa0ZsZUtnQlRkc2hETTdvU1EyVmsyN3I3MDliMEdlMmFjTTF5MWZNOGZ4SmlqdVp6ZGZtOE9kWVctb0FzSzRVeDlhbmMxbmpxa9IBdEFVX3lxTFBBUlBWanhyTmhOVGFJVHVrVDJqTWhZc2dVdWNKaTNTZXYxamNyWXR6c3dSdDN0N3pjWFdOTElhZGNXVTk1eV8yV29KV3R0TjFERFVhVHdqdGUyMGZHeGNNV2Fic2NYM0ZGOFcxbUMtaE5qUFdL?oc=5",
-      "published": "Mon, 23 Jun 2025 18:23:00 GMT",
+      "title": "Trump’s Relentless Fed Pressure Creates Lose-Lose Scenario for Powell - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZm5JclZCRjVuaEo5a1FFQ2RuekJBcmUwbmJTSmZyNUZ3a2dqd1c3RjRrZ1E1S3owczJJRFdwTTdGNVkta1ZyV3NhT1dWOTBqNTJCb0lGSVRxbnJuY2hvd3NoRkZkRFoxU1E3Z3h6UkhCU3NsUHNhcXg2V21LZHpKa3A0WklhNlhRSlVWTEVvMmNMUEVBdmRwU24tdXB2bDA?oc=5",
+      "published": "Mon, 23 Jun 2025 21:55:00 GMT",
       "published_parsed": [
         2025,
         6,
         23,
-        18,
-        23,
+        21,
+        55,
         0,
         0,
         174,
         0
       ],
-      "source": "CNN",
+      "source": "WSJ",
       "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZm5JclZCRjVuaEo5a1FFQ2RuekJBcmUwbmJTSmZyNUZ3a2dqd1c3RjRrZ1E1S3owczJJRFdwTTdGNVkta1ZyV3NhT1dWOTBqNTJCb0lGSVRxbnJuY2hvd3NoRkZkRFoxU1E3Z3h6UkhCU3NsUHNhcXg2V21LZHpKa3A0WklhNlhRSlVWTEVvMmNMUEVBdmRwU24tdXB2bDA?oc=5",
+          "title": "Trump’s Relentless Fed Pressure Creates Lose-Lose Scenario for Powell",
+          "publisher": "WSJ"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQemFZUm5JMkZiOWhPOWJzVTdrNVExWGRsWGZTaUI2XzlsaHFWM1FVaFpuOVFyVGQ2Zm51ZFlGODdpRmJEWnpCM2E3WWhFUkY4VER4YU9IUUhzUVlaY1lEek5LWHNma3ZmUWRlRjNhV3BhUTJvV0dRV0J6TzRHTWgzbEJHSnp4UDRwTkJUOGZ6QUVPTXEwOWtUWHBB0gGfAUFVX3lxTFBNRllUVTlhM3JiUTV2QnF1cnFQOXZha2pLbDBaWFNuM3dnRENSOXlleXAzREpfSHNBWFlIVlJWVmltdkV5VzR0Y3FPVnJXOXNnUkpwNG5tMl8xbFVnR2ZraE1iNHNGMFNWaEdraE9hTE9iTmY1T1pQZEpPY1Bya3Q3WW44bjV6VG16YkhRQzc3XzRRekZrQ2s2bDJOdy1Xcw?oc=5",
+          "title": "Trump targets Powell ahead of testimony: ‘We should be at least two to three points lower’",
+          "publisher": "The Hill"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4SVVxOWRIemV1RlFMRVByQ1hzaHFNUWhha3NGc0VGZGJ5OGR4aXdPVGVMRmNPMTgtek8wMS1mWUxXZTV2ekcwVTVwYzB4TW1QTjNjZmpiMHc0eEtuUXFGRl9wd3Rld2dHaUs2RlhaYXRjNDFMTTljUdIBeEFVX3lxTE5nVjh4bjFnWUw4SDdMeE1VcmR4Q2VXNk1LUFlWSjBoeUwxUk1HNzdZNjR2NlQ1Vk5KcW9sWEZmVXJacTF0MHpTakxBN0pBdXFQQ0t5R245RjVWalJJVF84RHZlX0EwdlBPMFhjbThRR2pya1lZNEVzVA?oc=5",
+          "title": "Trump insults Powell again as another top Fed official joins the call to lower interest rates",
+          "publisher": "CNN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcXdFOFA1LXdmZVhGMlBwTWhmYkF3LTRmM2VWVklQMUp6LXVYdFBnaGhJYkJqSDFLMW5yaUZmMXY1MFZnSXNIUEkxYkxiZXF6cXRPVlVqS0NDYzRzclRoSkFJYksxVGtYbFBnVFdIUk4wRzdfRnk2alhaMTFBZ3NMU0VLajJHZmdFUEJTV3BxLXNpeUpIV1BtSUNURl90TzVsM0lzNnVHTW9ObGxBU1FOaEpSVGdSeUtiV0NsbUJHONIBxAFBVV95cUxNSFVpbEtlMHhibDRlbmhhLUdtUktJZ25nZ0xPMXpWX2dWV3Jac0dlQXozUEhzR0hpQ085T1J5anRKVGpzUHFjbmNoWDVRMENwVTZReGJRa2szSjNOaTZMTUtVVHk4X20wUmg3ODJrYTB0RTh0bWJlYXNkM2NwbXpmdzVWLWtUQm9RVWxCV1Z1T00yRDRMTmZDR2NfUnVxa0IwNWRuRTNERWY4OFBvbXJOQVdYODhCODFkSFI0aTM4bEtZQzdE?oc=5",
+          "title": "Trump pushes Congress to work over 'very dumb, hardheaded' Fed chair Powell ahead of testimony",
+          "publisher": "Fox Business"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0hiVkFsVktNbkRDeTlIa1cwSy0xU0NmSjhVTzZwZWRZWXF1TEtpTm15WGJUbWI0QmJVQWRjT0pkbmpCQndMY3pyZDBFY1ZuYmlzQmlGb2pXNzhuNVBiS3d1bHFEeEh2MGJkM09TeEY5UTBPbldpc1doNmJPLUdLWGZWLTlGMkdTSjdiMHhkaGNsWXk0RXkyZDNPbVdUVmIyMFVUYUpEbnFKbkwtdXRaTndR?oc=5",
+          "title": "Trump says US interest rates should be at least two to three points lower",
+          "publisher": "Reuters"
+        }
+      ]
+    },
+    {
+      "title": "Federal Reserve official Michelle Bowman calls for interest rate cut as soon as July - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50aVVBeHdpYmxTYU1EUUdPc1hQR0I1OTk1VklFenBNVF9aQkJpV0JKWkNSMkhlZ1pBM0FHU0psc1ZfWGZxNVNwUG1PTjRlUHY0UUhXSDhLUUlETThUT1VCYXZvTlZhcWYzMXFHRFMzcms?oc=5",
+      "published": "Mon, 23 Jun 2025 14:01:37 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        14,
+        1,
+        37,
+        0,
+        174,
+        0
+      ],
+      "source": "Financial Times",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50aVVBeHdpYmxTYU1EUUdPc1hQR0I1OTk1VklFenBNVF9aQkJpV0JKWkNSMkhlZ1pBM0FHU0psc1ZfWGZxNVNwUG1PTjRlUHY0UUhXSDhLUUlETThUT1VCYXZvTlZhcWYzMXFHRFMzcms?oc=5",
+          "title": "Federal Reserve official Michelle Bowman calls for interest rate cut as soon as July",
+          "publisher": "Financial Times"
+        },
         {
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWeEpfbXdqZlE1c0xfYkVraUNCbmI5OTNUVXZnbHFPa0ZsZUtnQlRkc2hETTdvU1EyVmsyN3I3MDliMEdlMmFjTTF5MWZNOGZ4SmlqdVp6ZGZtOE9kWVctb0FzSzRVeDlhbmMxbmpxa9IBdEFVX3lxTFBBUlBWanhyTmhOVGFJVHVrVDJqTWhZc2dVdWNKaTNTZXYxamNyWXR6c3dSdDN0N3pjWFdOTElhZGNXVTk1eV8yV29KV3R0TjFERFVhVHdqdGUyMGZHeGNNV2Fic2NYM0ZGOFcxbUMtaE5qUFdL?oc=5",
           "title": "Fed officials are starting to break rank and join Trump",
           "publisher": "CNN"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmVHLUYwWXgxamJ3b3BVWDl4MkVWUGJTT19NN0JCMkQ3VVo2bExTR2VRSTViVFlKaXpDNWV1cDNQMVlndHJKRlV3dlVQRmRneDdFZUhtdXJmY3VBSGhKemJYdHRmVFNnenBDZWRoUkQxZmVlWG8tcUQyWXdYOS1vX3pqSUcxbXFmWmhPSUQ2NjNmeU1IRTRVLW1OZDRQVGwtOUQ1RFdmY0hLUXJoNXfSAbMBQVVfeXFMTTJYU3pJWjFIQjBZRF93bWU5VWxrTGFSNVN4eVRtM3hTSHY2bC13eHBRWm1odDZLSWxHVGYzeDd5QTVqTjB1cVRFNTczR0M3MWJfTWlqUU9qNVlfUm1KT2E2NUdNTEJTVklVeEFkWk1xeGJNTU5QVElsRElQZ0FCYzA3RFB0SlhSTm44RG93V28yN0NRMFh5R2VpR0RjbVhvX3daREFjSjlya3J0TEdCUkdoeW8?oc=5",
-          "title": "Fed Governor Bowman favors July interest rate cut if inflation stays low",
-          "publisher": "CNBC"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOV9qalpobE1CX2c2U1UzNDRmWWNuWVpua2RkczNZQjVJay11VXNaMks2UGVrUzlFM3RuZzlObHZmMXNUamJRNlhscUVmbEd0Tm1SNFFGa0FVNGpOZGZOdGxUQmpNRDRZZjIzZjFKUGFJUU0xNVBjQWQySm9scVFxRjgtM1RKT0FGWFA2eS1KZDBwYjFSY29QcWtCcw?oc=5",
-          "title": "Fed's Bowman open to cutting rates at July policy meeting",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM1FKdVpXYWM3Z0ZvV29DaVQ1eDR2Y1lkYVFIekFGTWF1dVZCcnNqT3pXMnlHR3YtcXhJYUwtVXJySHQtUjJaOHZTSi1SaDhJQ0tHY3lnaXRqSEJnZ0ZpODNwNl9YN2oxREk2Um5qbk51NUx6VWV0em54UEZyNl9RX3lxR3NSOXkxeTZIZkpWZ3BrYTRMWHJIWHg2c2wwWkxOdWsxcGxVSWJnd0VyTS1VWlFuc2J0alU?oc=5",
+          "title": "Exclusive: Fed should wait on rate cuts with price hikes expected, Bostic says",
           "publisher": "Reuters"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lMk40UUVRTlRtU1dSRnRHUkhWOHdXdkx4dG1TOGdKN1UzbWFnTlRROEVtU09IUUszZm4zZlBRdVg3WlM1VVgtR0NNTDVwUzd6dlczRDFGV1dHV1dhazdpNXFINm12ak1URXlHbmowU2V2YU5BUVpYRjJZOA?oc=5",
-          "title": "Second Fed Official Indicates Support for Faster Rate Cuts",
-          "publisher": "The New York Times"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmVHLUYwWXgxamJ3b3BVWDl4MkVWUGJTT19NN0JCMkQ3VVo2bExTR2VRSTViVFlKaXpDNWV1cDNQMVlndHJKRlV3dlVQRmRneDdFZUhtdXJmY3VBSGhKemJYdHRmVFNnenBDZWRoUkQxZmVlWG8tcUQyWXdYOS1vX3pqSUcxbXFmWmhPSUQ2NjNmeU1IRTRVLW1OZDRQVGwtOUQ1RFdmY0hLUXJoNXfSAbMBQVVfeXFMTTJYU3pJWjFIQjBZRF93bWU5VWxrTGFSNVN4eVRtM3hTSHY2bC13eHBRWm1odDZLSWxHVGYzeDd5QTVqTjB1cVRFNTczR0M3MWJfTWlqUU9qNVlfUm1KT2E2NUdNTEJTVklVeEFkWk1xeGJNTU5QVElsRElQZ0FCYzA3RFB0SlhSTm44RG93V28yN0NRMFh5R2VpR0RjbVhvX3daREFjSjlya3J0TEdCUkdoeW8?oc=5",
+          "title": "Fed Governor Bowman favors July interest rate cut if inflation stays low",
+          "publisher": "CNBC"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42NkVtemJjbzBXN0p0R1FZaUY4ZEZfanZYRUhSVHNlbWpkVzVNNk4zcFI1bWJ2RUhES0RSM1ZlUTFhbjBURUo5N2hsVUx3NWE2WEdRZmdfRXVwTDJlRHJCVUV4SGJWcEdQODFHdGtCa1U1d1dN?oc=5",
@@ -414,141 +608,53 @@
           "publisher": "WSJ"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQWp2Wl9wdWhDamVQcEtvNy1PVlg0Vi1aOW44bFBiU3BFcm1HQ2NwZWNpWGQ5YjhWXzFwTE5ReHdKM2NmLXZkeEdOUE9qU0tzWFMwall0cWQ1LXJieXdOd0diWEZ5UHdhRmZTNWcyN1hhZnZGbTAyV180Wl9Ma2hxQVFWMkdSWVM1eVZhZldVV3E3MUlqZlJDMWhiVDdDYUwwYkdMWjhLTWRleDR2bVI1OEw5cUVaYVFqUXhLSXB0NXBjaUtHQ25SczFR?oc=5",
-          "title": "Home sales rose slightly in May, but high mortgage rates are still hurting the market",
-          "publisher": "Yahoo Finance"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtT0Y0UkpCZ2huMkJlNWQ0MzA5Yl9maXhRWjZOQ0U4SEViY1FXczZfc1JwTmY4RmdXY3hhYWs4ZTNuOEp5MVNueGFHYlhxdFNSYkVLN2NCUmFfaWJpWEJzSWFKRS1Zc3M2M0HSAW9BVV95cUxQcm5tQTRIcWVVdS1Mc2V0VDhUd2gzUDJ0ZDNFZWd5YllfYXNYVi1kMllZdWtnR2VEektucTU4S3NYSWFuT3V3Tm84NzBqVldyTTJ1MmJPRWFTTUR4R0FIbjNFbkdfZ1o2ZV83NlhTYWc?oc=5",
+          "title": "May home sales increase very slightly, but prices hit another record high",
+          "publisher": "CNBC"
         }
       ]
     },
     {
-      "title": "Amgen’s obesity drug led to high discontinuation rates in mid-stage trial, as company plans to adjust dosing - STAT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdG1ESTlxQURwMXhXU0UxRV9WQm51VlhnUjVxNmQ4a2xzcVQ5NDVkNHdtTkFNMFMwODI0MXpYLVhjbXk3S0htcjV4bDRCV2Y4ZGRTLTdaemlEVE0zWVRfdkRkd2lMaWdQNjRGSGdPM3FUM2JuSVJXOVlkUG5oTXdza3Y2eWQya29rUGtwSWxKVmF1OUJQUVlMZ01CUjdrdEhzR0xCdl9LWllMM1Z2VWpXMmRJVEk5dw?oc=5",
-      "published": "Mon, 23 Jun 2025 18:36:09 GMT",
+      "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVVFzMU9Cc0JkQkRpYl9odVh6d1ROdGVjV01McnpmNVZRVjY4OGkyaGsydVlCeTRPb0VEOTNKUmdrTE1yVjVlZVVfamJjeVV1cTFJLWhudUp1LXNjbTJQMHctN0lUNHRxOFQwdGJtNDZhS0REdkxSZ201Um5vRHJUb1hBeEdlNjdZSEdtZXZlTkFPc0JHTVNXOXB6d01PZw?oc=5",
+      "published": "Mon, 23 Jun 2025 11:58:25 GMT",
       "published_parsed": [
         2025,
         6,
         23,
-        18,
-        36,
-        9,
+        11,
+        58,
+        25,
         0,
         174,
         0
       ],
-      "source": "STAT",
+      "source": "Investopedia",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdG1ESTlxQURwMXhXU0UxRV9WQm51VlhnUjVxNmQ4a2xzcVQ5NDVkNHdtTkFNMFMwODI0MXpYLVhjbXk3S0htcjV4bDRCV2Y4ZGRTLTdaemlEVE0zWVRfdkRkd2lMaWdQNjRGSGdPM3FUM2JuSVJXOVlkUG5oTXdza3Y2eWQya29rUGtwSWxKVmF1OUJQUVlMZ01CUjdrdEhzR0xCdl9LWllMM1Z2VWpXMmRJVEk5dw?oc=5",
-          "title": "Amgen’s obesity drug led to high discontinuation rates in mid-stage trial, as company plans to adjust dosing",
-          "publisher": "STAT"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVVFzMU9Cc0JkQkRpYl9odVh6d1ROdGVjV01McnpmNVZRVjY4OGkyaGsydVlCeTRPb0VEOTNKUmdrTE1yVjVlZVVfamJjeVV1cTFJLWhudUp1LXNjbTJQMHctN0lUNHRxOFQwdGJtNDZhS0REdkxSZ201Um5vRHJUb1hBeEdlNjdZSEdtZXZlTkFPc0JHTVNXOXB6d01PZw?oc=5",
+          "title": "5 Things to Know Before the Stock Market Opens",
+          "publisher": "Investopedia"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNal84VjhLSzB3LTJRV2FYRDltaFJtblcyUGNaT2E0QXJxODZ4dlZhMEZKS25Uby1JVDE0c05kUXJQQzQ5R1pXc0VyenpyZXJTb2FUTWhwSkpzSE9sLTlYU2ZUMV9xd1gtNmdBMVVna2c1QU5odVRvRGptOVNvU2lOS3BXSVduM29pOG8xcmYydmpZdlpFYU91Skp2M0NrVmktbXIza1l2SlVSMzVBS0tmVWV4TWY3OFFCZXRsejJDOGPSAVZBVV95cUxOVHVCbEVUZDZ3LVRvVmhod0Jld016Q2VsNDZHTzZSSENxNTNDOVY5WkwxelhwU0U2MTh3SGUwYmQzOHpIZzRYWGV1Mm92UW0tV0xMZG52UQ?oc=5",
-          "title": "Monthly weight loss drug helps people lose 20% of body weight, trial finds",
-          "publisher": "NBC News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0N1NUdualVKTHM1NFJFT1d2S0Y0UTZTaC1uMmw3ZjctMkVHdFczbnBhQ0pSdmlGdlctYXV3eFozbHFJU0N5MVlhU1c2TWpHUV81SXRkRHdUNUFvRFdaZEhJRXlWUVFQSHlSbjUtdlRENnZ3ZF9QS0t3enczSUF1dFg3TVNZVVhZUmc?oc=5",
-          "title": "Amgen Shares Fall on Weight-Loss Drug Tummy Troubles",
-          "publisher": "Barron's"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX3d5WGtvN3pxX0UxaXNwVzBUeFJsaGFHb1dQaUdfWHVwalI1V21yY0hValgyNmhkX1NONzkyNmdyMHAzUWhZcmRCUTV1Y1RObkNBUHV0cTYxMDE1ajBLRXRvWnpzcWlIcUo4TF9LODRzaGRyc0YtbnY0NllZZHJOWDZMeEplcmNYdVFYVFlSN1hNX2dHcFR2bWJyT1B3cVdqXzd6YzBqOVFDUlpWdkhfX3lHVl84clRqSUpjWDItYzJfdlZSRFdpTTlIZk5YajB1RGV3NktQbmVMQQ?oc=5",
-          "title": "Amgen experimental weight-loss drug needs lower dose to limit side effects",
-          "publisher": "Reuters"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVVFQN2F2czdNeU0xQnZjOXBDN24wLTk2bmF1OHozUEYzaDBmc21GQ19Mdll4dTNGSk1zNXFMTXdVRFhXaV90Qi1yb0JjcTJGWV9hbzVtWGFLWjJIWDRjOTN2QWdFelhLQlRtTHNkQTBENGRMbkhwc1A5MC1BeU5HSlQzc3lUeEFoZmladm1WMjcxMV9uNDNVdWtrRC1qSzBzQW9odzI1aWJPRmFrUmxVci1MeXEzVzh1a3J6NHA5TW5MMURVZXlRVmk0ZkJSbTFvNGRHbjNKQzk3cFhPbGc?oc=5",
-          "title": "Amgen gears up for phase 3 trial of monthly weight-loss drug MariTide amid mixed investor sentiment",
-          "publisher": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "title": "Jim Cramer: Why Wall Street is actually going higher after the U.S. bombed Iran - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2FwMGhMcDVPR3VsMnJ1QnVZaXdEODItTXpkNU9PWFlZczllOW9KZXRJQ2EyWFRIaVBPdXZhRXp5aUVFM2VmNlBCaEg5elA0WXRKa09jcmVLRmFnaU5xYXQtQjRHWnliblFpV2RVczJSRFZkZk5tX3FBd2ZCWVBCWHVBcnF3M3RDSUFmZGp5QzR5UHlrd0ZqMllIajNYSmpURXh4Uk5mSlFkMXZDeV9aeS1YcWoyYUE?oc=5",
-      "published": "Mon, 23 Jun 2025 17:49:38 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        17,
-        49,
-        38,
-        0,
-        174,
-        0
-      ],
-      "source": "CNBC",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2FwMGhMcDVPR3VsMnJ1QnVZaXdEODItTXpkNU9PWFlZczllOW9KZXRJQ2EyWFRIaVBPdXZhRXp5aUVFM2VmNlBCaEg5elA0WXRKa09jcmVLRmFnaU5xYXQtQjRHWnliblFpV2RVczJSRFZkZk5tX3FBd2ZCWVBCWHVBcnF3M3RDSUFmZGp5QzR5UHlrd0ZqMllIajNYSmpURXh4Uk5mSlFkMXZDeV9aeS1YcWoyYUE?oc=5",
-          "title": "Jim Cramer: Why Wall Street is actually going higher after the U.S. bombed Iran",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQm01TmtSaFc4WWw2Ym1KQkkxNGIwQ2tKZzNxM0tESnlfbjB3NzFEckxsWGR5cEFnV2E1RnZveEM1UzUzN2lsbjQ1UFRXRlZiUlhMSHh2aEJyei15V055VmZlVVRRX3VSQ2NQSDZFZlJ2eV9FT2ZKam1kUU92SzVrbGhEeER2d2NFTWNqM01icEJEWGdDeG1YRkpLWHVJZmlz0gGmAUFVX3lxTE1YbEdrNmZmTVA4M3NLUmdXYkpseUFONksxSmxYejdST1FFZUpwTVcwa2llek9JR3ltdUtRcXJTUnpjQV9rSkhldFk2S0pxV2lwZDl6cDRDaUF2QmlIR2h5bExTelBIMmVpNTRwTTJqcnJUQ3dQT0cwVEVuejRyVEpVdGVVeUlvRUJBUjIyNml1UlQyMFNrMkFZM2VHczJQaE44NE8wWXc?oc=5",
+          "title": "5 things to know before the stock market opens Tuesday",
           "publisher": "CNBC"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWZrSnh1aG9KSGxwRm42c2lYZEdRX3JZV1pzVVZyQ0tMWW5saTdlUFB6YUVuRVoyX2gwVDVHQ0szQVo1S2dGMm51SlBFTVgxV3Rld0xMRmkzd2NFNzlJMTdrUkVYMkZRTEJKZnBqN0psYUlmcXQwZmJyY2VXMUVwWk4tMVJsdWR4QWd2VmVZb3IxVktBdW13UG9JajfSAaIBQVVfeXFMTXlTQzFDSmcxWVhLTDJrU21TZFhsZTZ4akdPa1ItQU44SmxmUE83SHB6a0hTZGVycVJZVUIwNVcxMFAySGlud3RKV0ZVeGlzdDRWemVOQWtlM2hTeHlBWGN3TGVzYlhMTE1fQlJ0WVBuSHdrUGdrMnM1OEN0eHhydVlGemdDdUNWclBQenZwdHJPTmhjT19TSmRCVnZ5VGxYbnpB?oc=5",
-          "title": "Jim Cramer explains why stocks were headed higher on Monday",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTExBS3dvcGFiVWRoeXpmTktPU1Zqdlgxb3pRN05DUjE4ZHlqTEtablFNWVJXQjBwRU4zQTFWUk0yYURFYVV0akhKU0JaaTZXQkFubjJOVTJTdjB6djRwVThVcXRab3Z0TG5RcmtBRm14Y21rUFBGRmxoei0wWFNTZ3c5TmFaNU1sVVJjNDRxalBfaXBXUmtmb01aQ21TZFcySDF1M0ZVVUZIX2M2?oc=5",
+          "title": "Four things to know ahead of the U.S. stock-market open on Tuesday",
+          "publisher": "MarketWatch"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzJEc0JlN0RlMWN6aHFtTjJ0R0tSVnFyVGlaejJ5UlJFenRkWHlJMmFmeXdMSkFidmlWVElBbVR2ekJpSnZ6d1pXOGpmSVpMdXBpQXBfQnIwNC03MjFPRThGdTVTNnRaTHVvQnhyb1ZhbEMxRWdldUFMTnNlVGptcjNkQlB2QmNCNmJ0T01RbWIzN216YTJPZTNzNjJ0Vm8zSWdPVmF6dGRCMVVf?oc=5",
+          "title": "Cramer: What stocks to buy and when to buy in Monday's Iran-driven market",
           "publisher": "CNBC"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVlU0S0tCUm5zakpDVkN0UHdLQkJoZnB5Q0U1TkJzTTU1UDVnSEszQlotYmV0STFESjJlQ1NuNFNfWkFwSVRKaDVNYXA0em1pZFE0ODBLOERMcG9YZDdUbjY0RUR6WnNvQXd0WDl1OXNlMTRIa29FTDJnbDg2T0N4MkdlcGtFbzQtcnBJZ3Z3bERGWG9GQ1kzN0R6Qjd6alJLWUFubEpuMA?oc=5",
-          "title": "The S&P 500 could hit record highs soon if no major retaliation from Iran, Wharton professor Jeremy Siegel says",
-          "publisher": "Business Insider"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHRDdkExTzZlNGFiUjMzWXp3YkFQTWh4VHd1WUpXbWZ2VnBzazIyTUJwbVdCRWtja3FFcVBZdjIwdG1lT0hhc0dIRDQ3Nm9IbkdrLTdLWXVjOHcySVRkczVPeF9EZWsxRThKZE0xVGtIV3NHSEdCV0dGVWpDd3ZFajhsQkdFUnNPN2l2Sw?oc=5",
-          "title": "Veteran analyst who predicted stocks rally revamps forecast",
-          "publisher": "Yahoo Finance"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONl9VejF4dVBRTDBndFRlZ20wOGxwcXVlSHI3VmZ4eVo2X1FMMzhJZkdtYVVvM3FhTHkxYjNKT0lkbWJvWWVFTno5eVFlaDZLM0paT1lsNEJ3OFlQMUpMV2NWak5kekVYQzBQQ3hYN2pmTi1ZRUhld2lNeDJwMmc4ZkUzdExtQUxjNm5kRFNEYVV5WmgxVEZZbTNYVWVjUFM0akFDTG5lWGlEcVNHMHU1RnVXWERpbEU5SGprRjlvTFVWeDZqc2Zn0gHMAUFVX3lxTE5sVGlpR2xubjY1S2lfRDhvWVFob3FRaDVLQk1wZ2lZTlhBM1Fsa2U3a1RWWnhiMGIxdmNGSTczSUFnWEk3ZGlMYnJNb3hIWFNUQ3c0UGM4b3ZEUFZvampfRHBIM2pGVDFud2ZRNzRvNVhpRWprNkdGX01wVTRRYjBXdXRKeW9Ga1M5QnU2WTFnN3Q0U0pRS0FPMTdPQkw3NHRwX3NsQk01RUlXWTdvYmlUV244TWc5dWtKdlE3WVpsa2xETnVqR2Q1RVA3cw?oc=5",
-          "title": "Stock Market Should Continue Upward Till Year-End After Passing ‘Stress Test’: Fundstrat’s Tom Lee",
-          "publisher": "The Daily Hodl"
-        }
-      ]
-    },
-    {
-      "title": "Compass files lawsuit against Zillow over home listings policy - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2JfdXBDbG9INWduVm5zYWtsSFRWZ0lUelM3ZW5LcGRxZDhMcHNZcTkxWWp0MW9UYTgxT05ibExGNHdkSi0zTGJiSEEzU01JNER3eURkRGFScUl4WXJ2R1FXd3lzY000NTFtOFVCRXk2cl9mUEx6X1pzLWFCSmpvYW1XTVdQeHVIMFFBclZHVFVON0owX1pIZXM4SQ?oc=5",
-      "published": "Mon, 23 Jun 2025 20:21:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        20,
-        21,
-        0,
-        0,
-        174,
-        0
-      ],
-      "source": "AP News",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2JfdXBDbG9INWduVm5zYWtsSFRWZ0lUelM3ZW5LcGRxZDhMcHNZcTkxWWp0MW9UYTgxT05ibExGNHdkSi0zTGJiSEEzU01JNER3eURkRGFScUl4WXJ2R1FXd3lzY000NTFtOFVCRXk2cl9mUEx6X1pzLWFCSmpvYW1XTVdQeHVIMFFBclZHVFVON0owX1pIZXM4SQ?oc=5",
-          "title": "Compass files lawsuit against Zillow over home listings policy",
-          "publisher": "AP News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaEZVOXB3R3hPNHdoOXl0UE5Na1FQRmFvTGpmWEdldi14WWZad21GbXl2QjRndjI1OXRRVmNqMG82b3BDdTlhSXlWZ3U4VEtNNDBSX3d2cmhhMkNoakNjbW5yWm5OUWUzd3lRMWFPLVFsMXgydEd2dEczV0N1ZTNOMl9R0gGHAUFVX3lxTE5KSWVnc21NMnFEeVphMFd2NElnVllWdkxGbGxCZEttTS0tT29XQ2pmb3p6SFkzN2puSUxadm9ESjRaSnU2ZUpNellWRnEtd09IZFI4elRKOHp1Y01xWU1RQ1htMktiRUxIcE1pZFhnNDg0aTFGX0d4cVB2RnZ0alJQY3lkMmhERQ?oc=5",
-          "title": "Compass sues Zillow as fight over privately marketed listings heats up",
-          "publisher": "CNN"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaDZKOS1jem5vODU1c0d2RWlvTmVNWFpaY1BkR0x5YWNVdG5SVHNtTXJ4LXg4eFVrbVNvWXNITVVvcUc5YWtaNDc2eW5GV1dpNXpPZmlNU2VFV0VwN0lReWdoQ05Cb0dTRVpRcXNueDNxLWVrdTlNNTN4XzVxSmFNMnktNklDMHo1SnBOS3NKZ1pkcm1MU0FNZEVDUHdwbEhlMXAwQS1kckQxMnV3QmfSAbMBQVVfeXFMUEVZcUFmanI4b3RVZ0wweWd6dFBUX216VFhBU1hJdXVVWFczVUhrY1lCWFJOeWlGRVFEQW1fUGlxNVRBcnhVeUllX01PVW82MlNhcVdrcjdpakxnWFNmVFNiZlZLMnZ6QUhna2FNUlFjTDBlMjZPRmgyMFI4b2tZSkRhbVZ6clNlVVVET2NnY3UwZ1FuaTV6LWRyZVhrTXhXSjk5eVV3YlV3SzI2dDZSQ2lMX1k?oc=5",
-          "title": "Compass files lawsuit against Zillow over private home listings policy",
-          "publisher": "ABC News - Breaking News, Latest News and Videos"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNm0xNHpOa0F0QllKc3Izci1rREpiajN5ZUFuWWw2NzQtSHc1TkNkdkdtUTZoajJ5RVNYeEx2dXAtemZCUGZncWZOQnJDMVBzd3ZZMHk1a29xdzQ4QzF3YjZnd0N2RjlKY3g3TVJfZ3h3WkhVYUNOMF9aV0ZzMDlLWExuUFdpMWdnbUVnMW9UMjVScFY2MVl0Y05ILVZWQdIBowFBVV95cUxObXpmVXhxQ2JRbHBEajcySG90SHNlYUFUcEh0M0dFQU1SeUl1eUpoNEEwNGdxWEZONm02TEJIM2RYMVJoRGNLLXBoNVltSXVVMlBEdDlDTW5PdUZ1RXlFLWRFMWhETVA1MEhkU1hITGcwLTBPd1A2VFNvRk9GSjE2ZW41RGpQV0lOcFZrbXBCb0d5RnZQc1BEWUIyT1VhNHE2WVVB?oc=5",
-          "title": "Compass sues Zillow over its \"Zillow ban,\" alleging antitrust breach",
-          "publisher": "CBS News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTEstTlRpeHFkVWEyU1lVVnNUeDdYMXFEZE9BbEtRVTViUDc1anpiNUN6c2JBX0lXTDJ3NV8yTGYtcUI0QmJISkVvWS02THhGbW1zMWJuT1dHbUhzMWpjYVEtTEFYdXJnTEhmUE53SklpZXA1VmIwMVdvcU1QLXhiSEVubW9PX3l4NktF?oc=5",
-          "title": "Compass is Suing Zillow Over New Listing Rules. Why Buyers and Sellers Should Pay Attention.",
-          "publisher": "Barron's"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN1JncC1oUThCYnJOVDdIbV8tTDBwSGp0MzE1OTQyN3JNcjBjT0NXVGpTY2pFdlpkdW1iR0duR2dmb2NPeU5BVWMtNS0xVUFYeUE5ME5pZ0hOVGwzRkNuUUQ0TGxPdHZjREU0ekstLThJSV9Ddl9qWkRhbUprRDVMT1kyZTVsUjNUa2FjVVN4Rk1RaHB2SC1lTjRVNUxvZTVEX1lJX1dfS2JhMjA?oc=5",
+          "title": "Four things to know ahead of the U.S. stock-market open on Monday",
+          "publisher": "MarketWatch"
         }
       ]
     },
@@ -575,6 +681,11 @@
           "publisher": "Space"
         },
         {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXZNUVM1a21LbC1CVjNlRWU4UGxTTm8yR3pTYWNjNzNEWU9mLW5QbmJNM25WbEI2MEU2QXpfcWxfT1dabUZlVFZweFh0MFNsZlpaM1hEQUFtMjRyTEFLNk10X2Q0Q2FjbHFVZDZFWGZsc01iUS1PMndaQnRwUVhjYkxtZ3RRZw?oc=5",
+          "title": "Atlas 5 launches second set of Project Kuiper satellites",
+          "publisher": "SpaceNews"
+        },
+        {
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORkFjVmtuVXAxN2VLRzROM0YzeS04S2F5YnVqU042aFdLbnRsb211TjBsaDRtNndnMk9WWFUxNWNtdTBldzNoTGhXZHZZN1JPUVAxc0JCaXZZM2FIbmlRakxFLUhJMlZTZFdMTFhzbEo4NkRXMWhfWmt5NTdCT29ncdIBhgFBVV95cUxPandTVEZLSFQ1Y2I5X3VsbjVveWdXT1hwNU12Z1haMnZoX0FpUTE5N2hXR3Myd05JWGstQ2xBNThzemhMbWhnXzRIdlZ0YndRT1Aza3M2alk4eGhmaEE5dHRkcHMxcmdRalZmWTNDXzJQd1QzTkNMVjcyaDdFNHBoVkgzRmpEQQ?oc=5",
           "title": "Amazon launches second batch of Kuiper internet satellites, taking on Elon Musk's Starlink",
           "publisher": "CNBC"
@@ -585,11 +696,6 @@
           "publisher": "Spaceflight Now"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdWxnQnNaUGtoQ0pGcExEdS1jUjRwQlU3NzJBeTVnTWVhT0NNc093WGZVM0JEaTVkejVFTkhqVzJqNTE1ZXYzNmlxbHVXZ0RwMzRkUjEwNmd2eW1CWlRIOGxBY3ppM1A3clFmcEgxTTRtZjQ2STZfSmRsVE4wa2RPUy1HaEdHdGlCS3p1MTBoMzRjX2UtcHhQWTZjSEJ1dHBDTHRnLTlOcVZPM3RnX3VYV0ZZYUExZw?oc=5",
-          "title": "Crunch time—we’ll soon find out if Amazon’s launch providers are up to the job",
-          "publisher": "Ars Technica"
-        },
-        {
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMGlDR2lPVEg0R3VRTnlmbmhwOFdLekZHQTNwU21BX0JQZ3pxejJqX0t2T2M2RndUcEF6aDlIVFczRVUyaHY5X3lNeEVVR05ydy1jQmtBbWtVbTZTdktiWXhJNTRROUM0eFF2TTZYM0xkSndhN2FYR3FzNzdRSTNMbTFOWk9pYm1qOWdTNWtR?oc=5",
           "title": "Axiom and SpaceX expected to launch more satellites into orbit on Monday",
           "publisher": "WESH"
@@ -597,31 +703,75 @@
       ]
     },
     {
-      "title": "Struggling EV semiconductor company files for bankruptcy - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVkE0V0VPNzhsNDB3b2R5SERFbTZkNVdqQWY1dXZOZ0toX283dWlyY05MRWdnSkpNV1hicEdIYlhZNHhwLUJzalZYR0YwR0VpdEtSQ2sySGVjTDYzYWVfNnNZRE9JVlBHaktSd21UeHh2ajllNTRSeFNINUFISGFEbHlsdXVQWlVmN0RoQ3Ryc3FZUGhUeDQxNFVYQTRCT0Fxa1E?oc=5",
-      "published": "Mon, 23 Jun 2025 16:40:03 GMT",
+      "title": "Compass files lawsuit against Zillow over home listings policy - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2JfdXBDbG9INWduVm5zYWtsSFRWZ0lUelM3ZW5LcGRxZDhMcHNZcTkxWWp0MW9UYTgxT05ibExGNHdkSi0zTGJiSEEzU01JNER3eURkRGFScUl4WXJ2R1FXd3lzY000NTFtOFVCRXk2cl9mUEx6X1pzLWFCSmpvYW1XTVdQeHVIMFFBclZHVFVON0owX1pIZXM4SQ?oc=5",
+      "published": "Mon, 23 Jun 2025 20:21:00 GMT",
       "published_parsed": [
         2025,
         6,
         23,
-        16,
-        40,
-        3,
+        20,
+        21,
+        0,
         0,
         174,
         0
       ],
-      "source": "TheStreet",
+      "source": "AP News",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVkE0V0VPNzhsNDB3b2R5SERFbTZkNVdqQWY1dXZOZ0toX283dWlyY05MRWdnSkpNV1hicEdIYlhZNHhwLUJzalZYR0YwR0VpdEtSQ2sySGVjTDYzYWVfNnNZRE9JVlBHaktSd21UeHh2ajllNTRSeFNINUFISGFEbHlsdXVQWlVmN0RoQ3Ryc3FZUGhUeDQxNFVYQTRCT0Fxa1E?oc=5",
-          "title": "Struggling EV semiconductor company files for bankruptcy",
-          "publisher": "TheStreet"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2JfdXBDbG9INWduVm5zYWtsSFRWZ0lUelM3ZW5LcGRxZDhMcHNZcTkxWWp0MW9UYTgxT05ibExGNHdkSi0zTGJiSEEzU01JNER3eURkRGFScUl4WXJ2R1FXd3lzY000NTFtOFVCRXk2cl9mUEx6X1pzLWFCSmpvYW1XTVdQeHVIMFFBclZHVFVON0owX1pIZXM4SQ?oc=5",
+          "title": "Compass files lawsuit against Zillow over home listings policy",
+          "publisher": "AP News"
         },
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqaTd5dUs5amtKMFp5MDNUdUluR1lDSmdOTDRIWWhrenNKWlZ5OVFCVTRsSU45dnNldGFLZFAxNHdPY2dwcUZadWRoRkJQdFBWbVdzLUNkNXIweXVYRm5KSndsQ2EwUndFU1RrY0U2eERtdkNwVzFad19wX0pCUQ?oc=5",
+          "title": "Compass Sues Zillow, Accusing Site of Gate-Keeping Home Listings",
+          "publisher": "The New York Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaDZKOS1jem5vODU1c0d2RWlvTmVNWFpaY1BkR0x5YWNVdG5SVHNtTXJ4LXg4eFVrbVNvWXNITVVvcUc5YWtaNDc2eW5GV1dpNXpPZmlNU2VFV0VwN0lReWdoQ05Cb0dTRVpRcXNueDNxLWVrdTlNNTN4XzVxSmFNMnktNklDMHo1SnBOS3NKZ1pkcm1MU0FNZEVDUHdwbEhlMXAwQS1kckQxMnV3QmfSAbMBQVVfeXFMUEVZcUFmanI4b3RVZ0wweWd6dFBUX216VFhBU1hJdXVVWFczVUhrY1lCWFJOeWlGRVFEQW1fUGlxNVRBcnhVeUllX01PVW82MlNhcVdrcjdpakxnWFNmVFNiZlZLMnZ6QUhna2FNUlFjTDBlMjZPRmgyMFI4b2tZSkRhbVZ6clNlVVVET2NnY3UwZ1FuaTV6LWRyZVhrTXhXSjk5eVV3YlV3SzI2dDZSQ2lMX1k?oc=5",
+          "title": "Compass files lawsuit against Zillow over private home listings policy",
+          "publisher": "ABC News - Breaking News, Latest News and Videos"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTEstTlRpeHFkVWEyU1lVVnNUeDdYMXFEZE9BbEtRVTViUDc1anpiNUN6c2JBX0lXTDJ3NV8yTGYtcUI0QmJISkVvWS02THhGbW1zMWJuT1dHbUhzMWpjYVEtTEFYdXJnTEhmUE53SklpZXA1VmIwMVdvcU1QLXhiSEVubW9PX3l4NktF?oc=5",
+          "title": "Compass is Suing Zillow Over New Listing Rules. Why Buyers and Sellers Should Pay Attention.",
+          "publisher": "Barron's"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZnFfMElGS3lfd1lqbDVLeWpBdUp1NGd0QmJncUVwZlVuZXJmX3FTOVdoX2lwZklHR3RmUDJLNlZCRlAySUxNSWZrZHM2WkVOX0F1eU05R1dfU2ZfMXRSbTlNako5NW5MbVNSU25xZ25rajVkdW5lZDNNdlp3OThLN0F1MHlVd9IBiwFBVV95cUxNTkJYYWM5QWZxTGNxVENVd29NTkhsQ2lrblRGUUtkTnktM2ZBWTlnVDRWY3pZMTc3dG16dW9fLXlIVnZKTnZqV29yZzl4VHkyRzZ5eWItTXBCczFXaTRtLVJNQ0M1Z2lHM1BQay15SW14MkhGYTV0NllVMXN4bk5qRDJZUDRVTXBCbkZN?oc=5",
+          "title": "Compass sues Zillow over private listings ban",
+          "publisher": "Inman"
+        }
+      ]
+    },
+    {
+      "title": "Chip Supplier Wolfspeed Agrees to Cut $4.6 Billion Debt in Bankruptcy - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSnhWdjJYMUdtQ3dKT3BjbG5YdkxMUXU1WENMcG1wQ0p2eGNmTmJvdU9jM1FEYjVxRnE3VkgxekMybE5WbXN6ZENpWEVhNk12TU4yaVRyb2ZQZEl6SnZ1MktqUzRpRkh1RzRfVDJVY0VNVDAwSGdmZHFGVTdBWVk3alB1dTJ6eWhiek5LM29EekRTWUdPaEg1bkJMSGExZG8?oc=5",
+      "published": "Mon, 23 Jun 2025 22:08:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        22,
+        8,
+        0,
+        0,
+        174,
+        0
+      ],
+      "source": "WSJ",
+      "sub_articles": [
         {
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSnhWdjJYMUdtQ3dKT3BjbG5YdkxMUXU1WENMcG1wQ0p2eGNmTmJvdU9jM1FEYjVxRnE3VkgxekMybE5WbXN6ZENpWEVhNk12TU4yaVRyb2ZQZEl6SnZ1MktqUzRpRkh1RzRfVDJVY0VNVDAwSGdmZHFGVTdBWVk3alB1dTJ6eWhiek5LM29EekRTWUdPaEg1bkJMSGExZG8?oc=5",
           "title": "Chip Supplier Wolfspeed Agrees to Cut $4.6 Billion Debt in Bankruptcy",
           "publisher": "WSJ"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHU0dnpzcjNRRDlWUkU1UjNCaWF4cUh0Zld0dHd5aHhlakFTVFJCZ3hzVW16WThKc2NHMWFJMGVfNlhwWTFPby0tU1djeGlLazJ5SkVLWllxbEg2VVNsSU44amNDdWJGRGlqdFptcUtMM3NHZS05VUozRjg0blc1elpIdGFnY1hEZkxRUm5FZw?oc=5",
+          "title": "Wolfspeed planning to file for Chapter 11 bankruptcy",
+          "publisher": "WSTM"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2t0TWtYTkxoRm56SFJpaExYdjd2c1RFVnBIUF9odEppRXhaN2NMcDY5a01hTUh3Ujk0MV81YXhUSkx2N1ZNZ3BWOElsVTEybTljaG51ajlmcXlONjdaWWdteklvbmljM1BEQWtfUGI4VjYtNW56QW1aSUJubHZieUQ3ZmNsVU9QZVVPRnRfYWpPdXZVTGlNQW1yM1BRZkRPWWVFdUFrR0dkWDhQUHFpRg?oc=5",
@@ -629,9 +779,9 @@
           "publisher": "Reuters"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yN0s4R1ViY0h1STN2c0pzWHZCZEM3dG9ZeTNlWU9PUzRlSGZzRnRRUDdCcVc3YzE4X29qRnFmS1JSZkVqb1QyRFAxaVozMHFjc1Jic3FvV0lUZnBPMVJnQnlTX3Y1N2JXNHE2bml5U1o?oc=5",
-          "title": "US semiconductor maker Wolfspeed to file for bankruptcy",
-          "publisher": "Financial Times"
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3Y2WEJOT2ZqVEhYTVJmTF9TcU0tSElOZ05hY2pab014RnRCamhIdXoxalZXNTdDbGx2SjRkTm1FNFROWjV2SG5RZnEteFdwbEVaSmpDUjRsdHVtazhWbTdyc192OFhWcDQxbHNIRHl3bzg3NVpqRUxnNHYwSjZJOGVRTnZyYWp0ZWFneW9vdjjSAZYBQVVfeXFMTURGSVhBYk5qQ2lGaFlwN3N1bjVYU3VZN3kxdFE0cWdIWnczOFVPaU0wNUEzU045VG1rUDV6OWVIUFF6cGhyRWhNREJtWFlaRXpxRThTdEVvTVlPc1JCX0hQX3czUkMtajd2dnl1SlVkQVJObVd1cTR0cWRxaDVGcDBVeF9JYnUxUWxBMzNOUTRjX3dqRDhn?oc=5",
+          "title": "Durham-based chipmaker Wolfspeed plans to file for bankruptcy",
+          "publisher": "ABC11"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXRCOFJFVmRZX3k2UVYxTlpNM2g3NkY0SXpUQ0hLRGVVdjNRdDBJRXVmbVdVVkd5bTFDZXY2eVA2Z09uN3lHNHBncDYwQUN1Y1owNDJ2Mnd6UWplMnczUVNfU0F5RHpZSTZYNW45a0diV25tRUJFaXJUbWVCMWJBMFpqNTkwMm5PMVFlbHUxMEdlMW5rMElmOA?oc=5",
@@ -641,33 +791,59 @@
       ]
     },
     {
-      "title": "Treasury yields fall as crude oil retreats and another Fed governor floats idea of July rate cut - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OYnRpYlNzd1VMZkQ3Q2p4V1doVF9IQXk4RkJ6bkJQMWFRU2s4VWVYY1lhVEdvMnNEN1VoQmNYVFBUdXZISi1RWXNvb180NmFRVnlhLTZoVGtncWUwWGFZeUVWdkp0ci1oaFdWeFJNT0s2WU5QVTdaT3J30gF_QVVfeXFMT0lneUVuTm5HTGNTNXQzcWZPX2Q3Qkl4QW9TSU8xUHdZZEFUZV9WZzM3cEstOF9CbXl5ak1LUFdLZ1VMSjVZRVlpUS10U0EyYVhtcHZJampPN0p0cGl6Uzd5c0s1OENLbEg4R3FvdTJ2V21CYzRhMEJoSy0tMVZxOA?oc=5",
-      "published": "Mon, 23 Jun 2025 09:32:49 GMT",
+      "title": "Fiserv’s stock surges as it teams with Circle to join the stablecoin party - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS0ZNQVpJd1UyYTBjYUMwQWV4c1V0aFBEMTd1NUcwSjB5TExSY0dZcWxOMGRPeHVDcHZVQjRxc20yZWQtZkhvenlZZ203VEJPWDBRU3c2V2kzX3lNSnZhaE9xZW1HZ0dZSjA5LTRWeFJYaGg3UXVEU3U3X2NuYTU5MUNQdmd1U3QxU1JLQnQ2LTlLVk14OTQ4ZDB3akJPXzNlMnV2dm8wSVUyRFVFSkduSmFzRGVXLW8?oc=5",
+      "published": "Mon, 23 Jun 2025 13:49:00 GMT",
       "published_parsed": [
         2025,
         6,
         23,
-        9,
-        32,
+        13,
         49,
+        0,
         0,
         174,
         0
       ],
-      "source": "CNBC",
-      "sub_articles": []
+      "source": "MarketWatch",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS0ZNQVpJd1UyYTBjYUMwQWV4c1V0aFBEMTd1NUcwSjB5TExSY0dZcWxOMGRPeHVDcHZVQjRxc20yZWQtZkhvenlZZ203VEJPWDBRU3c2V2kzX3lNSnZhaE9xZW1HZ0dZSjA5LTRWeFJYaGg3UXVEU3U3X2NuYTU5MUNQdmd1U3QxU1JLQnQ2LTlLVk14OTQ4ZDB3akJPXzNlMnV2dm8wSVUyRFVFSkduSmFzRGVXLW8?oc=5",
+          "title": "Fiserv’s stock surges as it teams with Circle to join the stablecoin party",
+          "publisher": "MarketWatch"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUWhqMFdmbnJXUTd3S05BaU1TTTB6Tk5Nb3lLZHBRcVlOb3pBMVZOUzRMQV9KZUczRHlSQ1RnTmdJMkJqajVzcGk0UldWNmh3TjhIcWJnZEREQUhQdlg1TE9MOG00d1IwUy1yM1l3cUcxRWFoUEVGSGY3eXc5VnM0ZERMeXdFXzZqc245QXIxZHpJMFgzYWJlQnpyTXVuTVk1Q1JGUFl2bkxuZlBnMnBwbWZJUHV5Slc0TGdScjFBY2JxVUd6a19oY2J0S1owZEg3Z3htdF80bXRralk2M1FkQ28yMDRTaXJFQ3dzaUNxek1qSm5jUFUw?oc=5",
+          "title": "Circle and Fiserv Announce Strategic Collaboration to Power Stablecoin Payments Across Financial Ecosystems",
+          "publisher": "Business Wire"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXpjc0ZVdmc0MTN4TlF3Tlgwb09GaEowQ2dRXzB1MHNoMUUtUnhVdGEwczZVSWloVXJ1UEJiMkhfOTlGc2VVWTNpWlk4WDZTbHZTSEpxNzFadm9hX2E4QjdIX0hrRjM0dUdEamlXaVZpSmlRQm5QQlhIb3VXempPRzk4dmVmLWNJeEJJWGFzc1FpWjZ4dHpnQ21qYW51R2RvZU9fSi1kOVRlSjlHSFdRdHYwSDVkZ0pDRjIzc1o0Zw?oc=5",
+          "title": "Mastercard makes a move toward stablecoins, in an effort to boost mainstream use",
+          "publisher": "MarketWatch"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVk5xTDJ3c1hVZkdWcUdtcFlJbFc2UGZTSEQxazNuLTNxdHFhemVnLVRuQUZ4NWNpTWxpMGZhXzhNNTY5QW1FWEFIa2JOTG1oalk0VGVVTzJuZ0tLYVVuOUZ5RHBQZ0NxbEl0d0pHUWdEdXQtdXIxZ09KcWY1U2R2YW14a2kyQ2VHUHp4T1hMcw?oc=5",
+          "title": "Exclusive | Stablecoin World Opens Up to Main Street Banks - WSJ",
+          "publisher": "WSJ"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUh3Sm83WWp4QW1PX3d3QVB1TGFoMnU2Wm1MOU9sMHhHN1NZRGlTT1JIOTJmWk5zWG9RUnVNSzdCNjlfWXgtNTF1U1doZXJNcVNjS2tMaHpKejB1NENuYzZlbzVDd2g2R19VVWRSc1NxQm1FN01aQWkyZHpTSFZDRUhrRDF5eVkwYUd3MUcwcWpFMzhENGhoWmlodFpMazA?oc=5",
+          "title": "Fiserv’s Stablecoin Plans Show Intensifying Crypto Stampede",
+          "publisher": "The Information"
+        }
+      ]
     },
     {
-      "title": "Novo Nordisk Stock Tumbles on CagriSema Trial Data. Why Investors Have Doubts. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOVJkNGVJY1VHUXNTUTM0NWlIQjZXbXJmbkJBVnRta3VvdVFORHk2Z3ZEUXdkMXpmbnFXc0lqY2xENEo1Z0lXNzZlZVZ4QmJ5NXRyUGpkUmMxMXZfOTJqOU40ZndUU0FidHlObElYeWpWd0NMdlZwMUtuMEJ2LWEzWWZB?oc=5",
-      "published": "Mon, 23 Jun 2025 20:47:00 GMT",
+      "title": "Amgen Shares Fall on Weight-Loss Drug Tummy Troubles - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0N1NUdualVKTHM1NFJFT1d2S0Y0UTZTaC1uMmw3ZjctMkVHdFczbnBhQ0pSdmlGdlctYXV3eFozbHFJU0N5MVlhU1c2TWpHUV81SXRkRHdUNUFvRFdaZEhJRXlWUVFQSHlSbjUtdlRENnZ3ZF9QS0t3enczSUF1dFg3TVNZVVhZUmc?oc=5",
+      "published": "Mon, 23 Jun 2025 20:15:00 GMT",
       "published_parsed": [
         2025,
         6,
         23,
         20,
-        47,
+        15,
         0,
         0,
         174,
@@ -676,29 +852,179 @@
       "source": "Barron's",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOVJkNGVJY1VHUXNTUTM0NWlIQjZXbXJmbkJBVnRta3VvdVFORHk2Z3ZEUXdkMXpmbnFXc0lqY2xENEo1Z0lXNzZlZVZ4QmJ5NXRyUGpkUmMxMXZfOTJqOU40ZndUU0FidHlObElYeWpWd0NMdlZwMUtuMEJ2LWEzWWZB?oc=5",
-          "title": "Novo Nordisk Stock Tumbles on CagriSema Trial Data. Why Investors Have Doubts.",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0N1NUdualVKTHM1NFJFT1d2S0Y0UTZTaC1uMmw3ZjctMkVHdFczbnBhQ0pSdmlGdlctYXV3eFozbHFJU0N5MVlhU1c2TWpHUV81SXRkRHdUNUFvRFdaZEhJRXlWUVFQSHlSbjUtdlRENnZ3ZF9QS0t3enczSUF1dFg3TVNZVVhZUmc?oc=5",
+          "title": "Amgen Shares Fall on Weight-Loss Drug Tummy Troubles",
           "publisher": "Barron's"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNal84VjhLSzB3LTJRV2FYRDltaFJtblcyUGNaT2E0QXJxODZ4dlZhMEZKS25Uby1JVDE0c05kUXJQQzQ5R1pXc0VyenpyZXJTb2FUTWhwSkpzSE9sLTlYU2ZUMV9xd1gtNmdBMVVna2c1QU5odVRvRGptOVNvU2lOS3BXSVduM29pOG8xcmYydmpZdlpFYU91Skp2M0NrVmktbXIza1l2SlVSMzVBS0tmVWV4TWY3OFFCZXRsejJDOGPSAVZBVV95cUxOVHVCbEVUZDZ3LVRvVmhod0Jld016Q2VsNDZHTzZSSENxNTNDOVY5WkwxelhwU0U2MTh3SGUwYmQzOHpIZzRYWGV1Mm92UW0tV0xMZG52UQ?oc=5",
+          "title": "Monthly weight loss drug helps people lose 20% of body weight, trial finds",
+          "publisher": "NBC News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdG1ESTlxQURwMXhXU0UxRV9WQm51VlhnUjVxNmQ4a2xzcVQ5NDVkNHdtTkFNMFMwODI0MXpYLVhjbXk3S0htcjV4bDRCV2Y4ZGRTLTdaemlEVE0zWVRfdkRkd2lMaWdQNjRGSGdPM3FUM2JuSVJXOVlkUG5oTXdza3Y2eWQya29rUGtwSWxKVmF1OUJQUVlMZ01CUjdrdEhzR0xCdl9LWllMM1Z2VWpXMmRJVEk5dw?oc=5",
+          "title": "Amgen’s obesity drug led to high discontinuation rates in mid-stage trial, as company plans to adjust dosing",
+          "publisher": "STAT"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16akFfRnlIeHRPbjljU1EtcVNyQTRkYmJMUXNvV1BXMGo1LVpwbUxjM1M2OUp5bVAtcUVfeGgxM1FTTVR1M2ZZRTRQSmwxMjRoeHpZ?oc=5",
+          "title": "ADA25: Tweaked dosing schedule for MariTide cuts vomiting rates nearly in half",
+          "publisher": "FirstWord Pharma"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclhDVnlzLWp5Wk94bGRXTVJMSFRqM1ZKdnExcGNVYjhNQ3k0SEtZMW15Q3hEdzg1R0QyWDQtTnN6N2lIekxKZk9rNjgwVmpXdG1yclBmSTl5dWhTRlVVckY5a2JnSnc4aGt4YUdWV0hoV2t1eFVCTGRHaTVJd2FMNUpibWF5bFRCYWV5ekl6b3haQ0NGWmYybm54cWhNWms?oc=5",
+          "title": "New once-a-month drug could treat diabetes and obesity, scientists say",
+          "publisher": "The Independent"
+        }
+      ]
+    },
+    {
+      "title": "Eli Lilly Stock (LLY) Pops as Weight-Loss Drug Data from Rival Novo Nordisk Disappoints - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTBfV193V3hiM3NFNjRsMlJNc0NXdzVTOVdPWW1HWFlpVm5mSzV0bW1vWks3d2pqWk5nUUtjVEZBZVhVOUFqOU9xOWhLOHk5RFFhckMxTFhUc0xYaElhWVk4M1pVV25IZWlTWEx5VVlBb2VKMGdWenI1aE55T2l3dW5HVVIxTHBWdENEOWVTTUNXdmtKbURDYi1kV21JWTZERnVoSWRMWDV6RE1NNTJwcW5ubnEtUQ?oc=5",
+      "published": "Mon, 23 Jun 2025 15:39:06 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        15,
+        39,
+        6,
+        0,
+        174,
+        0
+      ],
+      "source": "TipRanks",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTBfV193V3hiM3NFNjRsMlJNc0NXdzVTOVdPWW1HWFlpVm5mSzV0bW1vWks3d2pqWk5nUUtjVEZBZVhVOUFqOU9xOWhLOHk5RFFhckMxTFhUc0xYaElhWVk4M1pVV25IZWlTWEx5VVlBb2VKMGdWenI1aE55T2l3dW5HVVIxTHBWdENEOWVTTUNXdmtKbURDYi1kV21JWTZERnVoSWRMWDV6RE1NNTJwcW5ubnEtUQ?oc=5",
+          "title": "Eli Lilly Stock (LLY) Pops as Weight-Loss Drug Data from Rival Novo Nordisk Disappoints",
+          "publisher": "TipRanks"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYVg2YTAyd3BBSmVXNGw3VFB5VUxzME9TejZlTWdDeHNiQjJCNG5KYk40YmFqZkhWY0lUaDgyWC1TTFRTVUJ5T0dCaGVweEVTZ0NydnZXNklyUUFsSDRycXY4cWk5VUNhaElMaFhMZXZSSFgzVE5wemlLNkRxcVlHUFdwdG5LSGVsTG1UN1VvUmUzWlhuM012c2tUQng2NUtnbnpPMkNNc0JaSlVpLTEtZ0pQd21WbzlCcGFkaGV5eFc?oc=5",
           "title": "Novo Nordisk Obesity Shot Tied to Greater Weight Loss at Lower Doses",
-          "publisher": "Bloomberg.com"
+          "publisher": "Bloomberg"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRURhLU1RbmZtejlyY2lXU2pxeGlXQjlCcHpsOW9uWXNGUTVqMEtCb2VtNDY5cU1yNFliblFXQkZiLWdVbTYxOVVEZkROMGk1UkpTOUJ5Q1pURjRza0t2QjJmcHIwY2Vuc2hIdko1YlB5VjYyTU56d055SFhxdWtLbkFydU9JUFVlTFdzU0g0bEUtRU9hZ1ZZcm9SWC12cU85bFA2LWFndk5WLXVKeU5EclJTSXdTMEM5d19xVkxLRVVERUJSN0hMTnZxV2Rqc2VVcXNz?oc=5",
-          "title": "Novo Nordisk shares fall as obesity pipeline faces investor scrutiny",
-          "publisher": "Reuters"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQnpXWFhoSkZxWW1yUERXS3ZZMjU5aFNCZ0hfSm5YSGVYaml1ckdmV09yZ05fbl9oYjBMSU1jV3RmY1JKbXJiaFcyYjBEX1FpaXJSSmhDOEluaTFwWjRiZVZ0eDV4WkZGZWp1LThUYTh4b2VwRWpSanRWaVJaYnFfSEdweUFNcTBlVU52SmRfYklHd1hlQ0dtSnlqWUNQMHNRc3FTQ0ZRSUpKeVM5U0RNQUtwQmlHRDZlY0VnV1I4bEFCVmJUcm5aLQ?oc=5",
+          "title": "Novo Nordisk’s amylin obesity drug keeps performing like Zepbound",
+          "publisher": "STAT"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVk1hMWhsNFpnVklwOHN4ZmFSZ0E4Z2ZIT0xZMzYxTkhtcmlDR2JGNnREaWN5M0pEemg2c1hyWFE1bDExWVZkR0VrNTNGZW9SS1QzelV3a2lFRFRLaGkzWkdjeFM0WG9mU1Z3V2UxTmpRUXM3V19VNUVnYThEYnBzVktMbkMxazQ3djNZQTgwaVhjdDIzSF91ZWVjOGZUNEl1cDZ1MnZ2dHJBdVU?oc=5",
+          "title": "Novo Nordisk Stock Sinks as Latest Weight-Loss Drug Trial Disappoints",
+          "publisher": "Investopedia"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mazQwOS1HLWFrOElFdVBUeDVQRWFSazdIU3RQbEs5V3RETUUxcElRQUZxOE5pd2s1VmhVM3dKUGxWTUtOSnd2S3hCOWk2MkpzV1I1VHJZODNHQjUyUHhpUllFMnBNQQ?oc=5",
           "title": "Combo Semaglutide-Amylin Analogue Boosts Weight Loss Regardless of Diabetes",
           "publisher": "MedPage Today"
+        }
+      ]
+    },
+    {
+      "title": "Eli Lilly drug preserves lean mass in patients losing weight on Wegovy - STAT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWNtNEJQOE14Zlp2SlIzc0FkSVY5Q3pWSGF6eEMyQzk4NWpOQjAxV0xRYUwxNmF4Tkd2MUxMVkl1M1dxSVI4ZWt1dll0TzkxVVF3ODN5a09QeUdvcWVZd3NRaHp4VVlTNkRpemt6aFpudU1HRjdzSU5jY216WmNOR0F4aTRGSHVZRm9RTzV5aG9jZjA1d3dwY0t0N1daeWpZcnBMY19TckctNEFKcktrMg?oc=5",
+      "published": "Mon, 23 Jun 2025 13:00:15 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        13,
+        0,
+        15,
+        0,
+        174,
+        0
+      ],
+      "source": "STAT",
+      "sub_articles": []
+    },
+    {
+      "title": "OpenAI’s first AI device with Jony Ive won’t be a wearable - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSVVsWHZEM0RpcFFwVTNRdkoxQWN4bUdHWncwQ19kRlBTSTZvWlhfRENCZmtQT0tMWl91YTNOZG1YRDFBZ1dfSkNWT1dHT05Qd1Y0ejd3X0VfWjdUMzFnZ0F0TlV0ZFk2X19uRzZQdW1JcTNBd1ZHNkdxZnFyM1plcmxvYVEwU0pQSDQzTGh4NmhKclRRRkJlckhMRndtVVhqUER0ZnZkaGZLZw?oc=5",
+      "published": "Tue, 24 Jun 2025 02:01:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        2,
+        1,
+        0,
+        1,
+        175,
+        0
+      ],
+      "source": "The Verge",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSVVsWHZEM0RpcFFwVTNRdkoxQWN4bUdHWncwQ19kRlBTSTZvWlhfRENCZmtQT0tMWl91YTNOZG1YRDFBZ1dfSkNWT1dHT05Qd1Y0ejd3X0VfWjdUMzFnZ0F0TlV0ZFk2X19uRzZQdW1JcTNBd1ZHNkdxZnFyM1plcmxvYVEwU0pQSDQzTGh4NmhKclRRRkJlckhMRndtVVhqUER0ZnZkaGZLZw?oc=5",
+          "title": "OpenAI’s first AI device with Jony Ive won’t be a wearable",
+          "publisher": "The Verge"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUNGZGbE5xeW5oamp0T2w1T0t6dlgzVVJNdlJQcU5ISUVlVjhWdkprRFkwdEY0bU85dWtEOTh3Wi1WaDNzc3d1VHAtSVlHYlh4S3Q0WVVLOF80V1B0bWNsSnUtd2I3UWFqTXQzUlJpb3FWVl9NdG5vcHhBSjc?oc=5",
-          "title": "Novo Nordisk A/S: CagriSema 2.4 mg / 2.4 mg demonstrated 22.7% mean weight reduction in adults with overweight or obesity in REDEFINE 1, published in New England Journal of Medicine",
-          "publisher": "Yahoo Finance"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSGM5VlJaeFdWRmdGVUxoTVFMNDFmOHR4eHl1N0J1a1lwbWZrSDM3eW1uRC1UUU9XbWlEQlJZVmZLNmtPRDZycjBUSWtxQUIxVzVScC01SFlpZTMzZ3BlVnNINERfLUI4NXVJRWhYdnBzWHA1YmM5S01tY09kRzdubzcwYUlWcUktR3dGb1FxNFZxQlRKUFBNTW9hV1VzLTR0ejdBWkYwMA?oc=5",
+          "title": "This theory about Jony Ive’s AI hardware device seems increasingly likely",
+          "publisher": "9to5Mac"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2V1ZnlwX3hnODk2bi10enhacDNOWVhYdnFxejV3aUU4Y0lkMkR5RE93cFlnSERQcjRBSGctRURodVNGejBSNHEtRXhyRmJLRVNkb1VrQTJlTDdkVnBGNEtuNGpZcngtTW12TVlHUnRzOFdfTGw1ZlhhcnNSaWE0Qms1bHBON2ZDT3ZlMW45QkVQLThxUFJkZXBadDZYZw?oc=5",
+          "title": "Court filings reveal OpenAI and io’s early work on an AI device",
+          "publisher": "TechCrunch"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRzNUNVJqbk5MRkFnV1VRRS1yM2psMVVyV1U1LURjaWp5b01hWC14aXFUZklSZFFIeWMzQ3E5UGlWTlJsQUk3WEtVSUxPTzNhYl9RNlFJV3JzVkt6SjFHSUZYWm0tZ1llcGFEbURmY1FLZXBiVFBpTUVpZjh1STJxM1NfUzlSQnU5b1BBZkZ6eWxrUQ?oc=5",
+          "title": "OpenAI takes down mentions of Jony Ive’s io amid trademark row",
+          "publisher": "The Guardian"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaktJSnVJWHJEVUJ0cGlZTXcyR1otUklVYUluU0xuVV9kNFEwcDJrUDQwRFQzWlFDWnlqRTgwbUdtTzJGck43QU1WZEV4MUxndUdZMFYxYnRDcjR3cW1DR0F1c0JGRkMxd1Jmd0pTdGlTMHlKaHlEaklJYU5CYWN6RXR2T19CTzZEb1l5eFR1dlE0enZTa3dDOV9pdHEtMnNzblNkNm92Tjg?oc=5",
+          "title": "OpenAI's Jony Ive Deal Removed From Website, Social Media",
+          "publisher": "Entrepreneur"
+        }
+      ]
+    },
+    {
+      "title": "Scientists use bacteria to turn plastic waste into paracetamol | Drugs - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX3YxaVVDcUp3cjlvSzVFYVExUENkZFJrYk1mWGI3X3FHZndKdm9QS0ZWMm1GRGl0S21tX3g4ejhYT0x6UjdDUnhQakphajZXTUJDMnhNd0NESTFfRTVkR0x1cjlkdjRIZTVQMWdHZmFrU3FIelN4YXVhSHFIU0tFN09wS0VqcUhldmhlc2kxSHZZclZrdzB4bVExVGdpYXVENEZINm5UQXpSRkRPLVd6NlVVdnRyWkF4ZTMzY0ZZY0lIX05ac1Uw?oc=5",
+      "published": "Tue, 24 Jun 2025 01:31:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        1,
+        31,
+        0,
+        1,
+        175,
+        0
+      ],
+      "source": "The Guardian",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX3YxaVVDcUp3cjlvSzVFYVExUENkZFJrYk1mWGI3X3FHZndKdm9QS0ZWMm1GRGl0S21tX3g4ejhYT0x6UjdDUnhQakphajZXTUJDMnhNd0NESTFfRTVkR0x1cjlkdjRIZTVQMWdHZmFrU3FIelN4YXVhSHFIU0tFN09wS0VqcUhldmhlc2kxSHZZclZrdzB4bVExVGdpYXVENEZINm5UQXpSRkRPLVd6NlVVdnRyWkF4ZTMzY0ZZY0lIX05ac1Uw?oc=5",
+          "title": "Scientists use bacteria to turn plastic waste into paracetamol | Drugs",
+          "publisher": "The Guardian"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rcm9OY0Zwc0FianZ2Y200NG1aenJOY2tEZVUzbkQ5alNZdUxXTXRGQ0syb2k1b1NZbi1nZ3Z5WUJIRXBqaVpzVFpKa2puT2F0QmtJc0tFMHMzR2dnQ0ZN?oc=5",
+          "title": "A biocompatible Lossen rearrangement in Escherichia coli",
+          "publisher": "Nature"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa2hrU2NLamxiMmVxbl9QUHI2MWNMb0ZOZDEyVjBMbTZLRXNSOS1JTi1IWUlIdmR2WkVsbFM5eDhCV2oyZ1FMSXp5MDBaMi1pLXFYVHkzRXlqeGtvanhUN3VtTnlCS0M0UUN3MURHbENyNGxTYm5Ec09oZDZSXzE5N2libElrNXhtUEHSAYgBQVVfeXFMTkRkU0pCc2JDVnliQ1hGLVphRmVkTzlLdkJLaEVpTlYwdmVGa2FFazg4Nlh0dVJUUG15UFFVS1RYdTRITWNKdmhqZGJUdGxNM1o1Y2VWZWtxVDQxT0g5VnQtbG5VdWpiem5tTVI3LVVWOV9HTk5Ed1hLQmkxcU50WW5hcXVQR3ltQQ?oc=5",
+          "title": "Upcycling plastic into painkillers: Microbes transform everyday waste into acetaminophen",
+          "publisher": "Phys.org"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTlNIeGN2a2c5ZXZlZUhONGNlR2NlWXRzbUNLRnJnYkNUZGtLeXhWMEllbzdMT2t0R3VFX2psLUwzaGtIcUR0ZnJYRjBkTWl2OWUxbU5PZEVoV21mVWNSRkk2YmRxMWZhNkg0MnBTRXNBSWYyZXVhUWphcTlSZVdYa2tyNnR1MjV4RVptV1M0NG5tVGEweHNwN1Vn?oc=5",
+          "title": "Engineered E. Coli Transforms Waste Plastic Into Common Painkiller",
+          "publisher": "ScienceAlert"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGNWM5aFdpOS16WkpxTXVKaUZuYnpsVXRDYWtZUDl4eDR1eHBuaDZVeFhxd1BQTDk3R0w2dVVGeHVfYlRfVUlra21QRmVSM3hXUC1wZmRqZTNPdGJIVGVib1ZtZk9aeVZBSWtzb1NvQ1ZBbFFTLWV3ZTQxWks?oc=5",
+          "title": "Modified bacteria convert plastic waste into pain reliever",
+          "publisher": "Science News"
         }
       ]
     },
@@ -730,81 +1056,19 @@
           "publisher": "Fox Business"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXpITmJ4NW9CeE5yNXEzTlVNZVdPeVRRTG9YVWVrSHRGamFxMlBmcjhVLUxueks2X0lDUVYtRm1SQV9feXFYMnNDTkhEZFg2cm1MYnFqdlRWWXZBTnpNVUR2ZHNydGN3dnRHNlAyZXZ5aTRSVllENjloMk5VQTBweURLNTBkZDVRbUQ5OTN3aWQ4QQ?oc=5",
-          "title": "Which Kroger stores are closing? Here’s a running list",
-          "publisher": "USA Today"
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWGdqc3lpZy1iVGxfeXJaLUdWUjlUcWxiWXhSaS1zdVRaTkk5aEdYUDdoOS1BcjRhb0hVaHBJdE9YbTJOTDBETFBFMUxMa1BGenJ2dERQQXBQQzhJQnA0STF0X2RQVEZ4SUtJNUNOcGhjUGZ2bGhuRzMxZEt3NEZ3QVVzTE5mWFkzRmE1Zi0tVmZRNjBGcHF2cGtjSC1tUENXZEhhTkl2clp0LXZsWHhhTGJHZ2tIcmNTUFZFTU85MUNHNTZDVXc?oc=5",
+          "title": "Kroger announces it plans to close 60 stores, but won't say which ones. What we know",
+          "publisher": "Zanesville Times Recorder"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUUphTHhLZXFlcEt6ZTZpTDRtY1hEak5Wam5GalprcGp2MTFBcVVQbjFzNHNpYWZ0WDltekpoVlZmM1pEV3UxTS1pZ09IcllLVVdmdENEVkZCNjlVLXRLYTNJeS1oNHFraU1JM1FTSkhIbUlEdGNwR1J5d1Z5YWRteURlX1JBMkVuQzRQcmtselNEZGJNbjg5dHdMZUNvVEls?oc=5",
-          "title": "Parent company of California-based grocery chains announces 60 closures",
+          "title": "Parent company of Calif.-based grocery chains announces 60 closures",
           "publisher": "SFGATE"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVjlBcVF1Ykd3bkIwbVduX2sxNWZjb3A4SjBybWtZbkFhd2VXcVhlbkdtNkZtazE3Y3Z4VXkyMENYMEM3YnBOTXNVcEFreXZ1R0NickFPbmRPc3NqdGFCSlFIZHdneVE2cjg0enRIMGhMVXFRWXBETnlYSTlILWg2Unc3bkNfNGhWWHo4?oc=5",
           "title": "Large grocery chain to close Texas location as part of reductions",
           "publisher": "Chron"
-        }
-      ]
-    },
-    {
-      "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVVFzMU9Cc0JkQkRpYl9odVh6d1ROdGVjV01McnpmNVZRVjY4OGkyaGsydVlCeTRPb0VEOTNKUmdrTE1yVjVlZVVfamJjeVV1cTFJLWhudUp1LXNjbTJQMHctN0lUNHRxOFQwdGJtNDZhS0REdkxSZ201Um5vRHJUb1hBeEdlNjdZSEdtZXZlTkFPc0JHTVNXOXB6d01PZw?oc=5",
-      "published": "Mon, 23 Jun 2025 11:58:25 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        11,
-        58,
-        25,
-        0,
-        174,
-        0
-      ],
-      "source": "Investopedia",
-      "sub_articles": []
-    },
-    {
-      "title": "Why is crypto down today? – Iran’s threats shake BTC, inflation fears & more - AMBCrypto",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNXB0OElDWlVhTDRrRlZ0MlRGYUxoSmE1ZkVLS3B6MldGX3dENHk1clltLXkzNHJ5NHAzY3RpNWJsOHJvSVA1cHQzaHo1bXZLTU1lWmhIVWNKQ2lPZC0zaU1NN3Y1NkNsNFJ0N1hmZ3lZMmE2d1ZSNjFQS0NZa0FnUm9BbzhpalhfMzZxX2NMZHRZZFdMQ1VR0gGcAUFVX3lxTE5xZWlxVm5EVXdRNTBHTXFuWEJVcWxsZXlVQXNLdjRacllHZHFWOUstbUE1TUVPXzRiMVhwckl0YldvVEduVGl1NG94aTh4XzRGb1hJVGVueV9OUDRzbTAxTkNtcGpZR1BTaThNT3FJX1JKdERtS3VFOTlyLTRtdUR4d3U5WExOWGZuMnBEWGZvMnVhVk9IUWhCYmJwYQ?oc=5",
-      "published": "Mon, 23 Jun 2025 16:03:46 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        16,
-        3,
-        46,
-        0,
-        174,
-        0
-      ],
-      "source": "AMBCrypto",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNXB0OElDWlVhTDRrRlZ0MlRGYUxoSmE1ZkVLS3B6MldGX3dENHk1clltLXkzNHJ5NHAzY3RpNWJsOHJvSVA1cHQzaHo1bXZLTU1lWmhIVWNKQ2lPZC0zaU1NN3Y1NkNsNFJ0N1hmZ3lZMmE2d1ZSNjFQS0NZa0FnUm9BbzhpalhfMzZxX2NMZHRZZFdMQ1VR0gGcAUFVX3lxTE5xZWlxVm5EVXdRNTBHTXFuWEJVcWxsZXlVQXNLdjRacllHZHFWOUstbUE1TUVPXzRiMVhwckl0YldvVEduVGl1NG94aTh4XzRGb1hJVGVueV9OUDRzbTAxTkNtcGpZR1BTaThNT3FJX1JKdERtS3VFOTlyLTRtdUR4d3U5WExOWGZuMnBEWGZvMnVhVk9IUWhCYmJwYQ?oc=5",
-          "title": "Why is crypto down today? – Iran’s threats shake BTC, inflation fears & more",
-          "publisher": "AMBCrypto"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54T1labWJtVm56WXdZTTZLNmhCNFpUODhmUHhvUGhLTnZsUHMwMnhYdmI0Sm9uUnd6UnV3MzF0RXdSRHp0Yi1wRHJoZ3lpQmpyMnZrYlJtcFNDOWV0MTlkSEVkOWZ2Y1Bpak1kN2VmcGw0QnQzQXRqNTR3NTVhOHM?oc=5",
-          "title": "Bitcoin falls 4% to $99,237",
-          "publisher": "Reuters"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcVQ0SWxiVEJXUzhQS1FBRjgzT3E2c01ObG12dkJ2dDYtRUJrSVRIMUhMWGJtbng4cTVueUQzd1dhZEJaZU1rVTJNQ3BnSmVHbUpERDNsdVpqUXAyWjZ2Q21SeHBZZFMwYThsdDd5aUF0blhBcUMwN2tySEpXZV95ckZDbW1WZUtxZ1BfM0xjRkN3R2w5?oc=5",
-          "title": "Global Tensions Trigger Cryptocurrency Crash: Bitcoin, XRP, And Dogecoin At 2-Month Lows",
-          "publisher": "Yahoo Finance"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY3lQSFZfbG9waEt3M0RrbjJOQWQ2RFhYd3dNamhNTGMtVGs1dmJ2eTQzNUw0QmNBeEdHZjB3cE1GM1NGMFBwdXBMdURDX2lhUnVUWm5za0xFckEySE44OUpWbTRjSFlQWVFua01LMmRMeWlqQk1QYzZ5bGl3NklmYXVvTXZEaVJKSWFGR3BDLU5uWWcwclpnRHRIcy1RY1ZPMWhGb2xNSEljTEtRbi0tcjN6RnJSTWhC?oc=5",
-          "title": "BTC Bounces Back Above $102K After Iranian Strikes on U.S. Bases in the Gulf",
-          "publisher": "CoinDesk"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96ZG1YMVdCOEgxVEM5QVJvdVllc3Fqcm90dng4U1VlSU9BRVRTODgzUHlySEZibDNwQlZrZjFzLWJnb3FPemR3ZU5JSTVtSzFheVR2WEEyVmtXTUNzbFl3Mm1GQzRSLTNmRkhhQ0x0RGc0VDlEc2cxa3ZiYmJqdw?oc=5",
-          "title": "Bitcoin Price and XRP Rise. Why Israel-Iran War Isn't Boosting Cryptos.",
-          "publisher": "Barron's"
         }
       ]
     },
@@ -841,278 +1105,14 @@
           "publisher": "CBS News"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa1lwSVNrUnNGc3FJX3dBWGNlSEF2enFnVmFvZHZHLUFqbnJvUXhnX3VDdHF0LXk5NU9rZldCZ2hVQXpjcFRfUFhZcnh0VTlDUkhsX3FUZDJvc2l4X2RXZEpoemltNDR3eE5UYjVMd0FtWThBbVRnY1ppZ21UZmNBVmZKYjk3bV92cmZ3?oc=5",
-          "title": "Is a high-yield savings account worth it in today's economy? Here's what savings experts think.",
-          "publisher": "CBS News"
-        },
-        {
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ0NsdFgyWThtNzNQM3o1bjJ6SlppUDE3ZmNOSk1IRVR4NFBINWxNUTVJSks0T0E0dVhfalFSb1dCUzVuOGlob0RfVGdLQWRxQWVCVGF4MHFrTXBzZlpCYUd6Z0hIUUYxU0k4V2x6d0xCWHZDTlExb1Rpb18teEhMTGpwUDhpM20ycHIwZHBRWUY2MmwyakQtbjdaRXRsZ1BhbzBXR1dYNA?oc=5",
           "title": "$10,000 CD vs. $10,000 money market account: Which earns more interest now?",
           "publisher": "CBS News"
-        }
-      ]
-    },
-    {
-      "title": "Fed Ends \"Reputational Risk\" Oversight, Eases Crypto Restrictions - Watcher Guru",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMm10Qkp2TFBRdjZucThxMlZmY3g1TjdSRGVBRmJJUUFyWXdsZG1qZHhRa21fWWc5S1FnOF96LURHUGZkOEwtbmtEWEE4bzFOQ2tsb0FkS2FYeHlCd3UxWDBIYUliN0tQV0hvSWd4OGMyOGNORDFmS0ZFc2NPUW9vbjI2OHlWd3VVNXBYaXRzS2FZQQ?oc=5",
-      "published": "Mon, 23 Jun 2025 19:02:34 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        19,
-        2,
-        34,
-        0,
-        174,
-        0
-      ],
-      "source": "Watcher Guru",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMm10Qkp2TFBRdjZucThxMlZmY3g1TjdSRGVBRmJJUUFyWXdsZG1qZHhRa21fWWc5S1FnOF96LURHUGZkOEwtbmtEWEE4bzFOQ2tsb0FkS2FYeHlCd3UxWDBIYUliN0tQV0hvSWd4OGMyOGNORDFmS0ZFc2NPUW9vbjI2OHlWd3VVNXBYaXRzS2FZQQ?oc=5",
-          "title": "Fed Ends \"Reputational Risk\" Oversight, Eases Crypto Restrictions",
-          "publisher": "Watcher Guru"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPanVzOG5xeVg2bUsycVRMNFdieDVTc0JpMzZrQ0c3S2lZaUNpNlQxOU1KekdERkVLOEp5Z0tTeFZ5dmcwRGhHNWxVS1o2UGpJUmRwWS1xbHdvRzNVWnl1cnhTOFFPTXpHSWdocWNmUDNFTTlCS1V4SW1DWFBHcFJfbUY3LWgzQU9nUUlXcjdvMGJaUTFHa2x3YXVCRmE4dnQ5eDZfY0FJSUMtNV9XeWJraW5sa3JiQXUtYXB6Mw?oc=5",
-          "title": "Fed to no longer police 'reputational risk' in banks",
-          "publisher": "Reuters"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORV80bmk4ZFQwRktCcHhxajBDNHhoRTZFWWdWWExxUTFLX3ItZkRnZm9VUmNJNWFwN0xnU0lmU05lVndjZURyd0Rrc0FLU0FtSmx6VFhBWUhjazkzQlJNTzMwOUc0cGVsU3NUWlJyRmhRbF8tbkZDdWdtMW8wdWlNWmhScnpfS203alE?oc=5",
-          "title": "Fed cuts ‘reputational risk’ scrutiny used to ‘assassinate’ crypto firms",
-          "publisher": "Cointelegraph"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSDZLcHkxc1UxS002ZEx5QVlMX1R2VlNFOF8wdWNNVEljR2pyWTdZOXI4NEFPRWQ2T0FQb01QQW4zTzJGVHZhcEc1NEg4dllQNXdhSG04UWJKSjZSNGRzc3ktSGRQT3dJaHJvMTc5OXBsemtrS0dNdk1va01WYzVXUUZ3bnNncmZ1T05rZm9oNjlGSUNOVlN0aDVYdUxpOXM5TEhMa09WQ3JyMnl4Nml2TnJKYmN0UHliU1JzLTgzSmNhZk5MZHdrTEFmbXdGQ2fSAdQBQVVfeXFMTnhOQmlNZEQxX1FFZjFYWjNfUTdaQkxMOXVySWFUSUhYc2xVMXFac0FZOGJvbFRaYkRQNDlFc2hyVzRURlZvR0F2Mm9mSzRwcEwxYnROTmtuVnRhVVZKUHd6enNkeVFQbXJobUZWR1BsaFMycTAwandWYjZpbHBEd210NzVlejhIajZDSUJOZlJjenprbWxfZ1hpUU9teWxsc09na1JHTC1LYlM5Z2N3SVB2XzBsRnJsSzU2Q2s2TW1nUlZYbF9MVEFLdmxIXzlpNEVUejM?oc=5",
-          "title": "Federal Reserve removes 'reputational risk' from bank examinations in a 'win' against crypto debanking",
-          "publisher": "The Block"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0NwZVJnUkNaTFZIYUlOVWFxZVNkZFBUODUxQnJyc3hiZlVyNXN6LUw0eXE1MWRnMnh3RGdLMnkwNTRXZUNKQ0FIWXVGcWNGWDZIaHF2V3B1T2NjSGtURWxkejdrX0N0dE5nT0FQcmdaT2FRTnV4TTZGellXTzc3ZXJzZFpvUktEeTJscENraTM3N0J3dDhhMENn?oc=5",
-          "title": "Crypto Scores Major Win as Fed Scraps Reputation Risk in Supervision",
-          "publisher": "Bitcoin.com News"
-        }
-      ]
-    },
-    {
-      "title": "Target Sets Dates for Circle Week 2025, Promises 2024 Prices on Select Items - IGN",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb3pFUEFzS2xzSkJ1LVBPNmRiTmFPVDNDanZrQVVySnlpS29HemZSbVZrV0liZk04WW9hTE42dWg3bHFJU0VyUmJvWTFUQ0plVm9JNWxEanFMWnNtbE5xOGNjdkdiZ0pNYTVLQnlyZGZwVnZwbXU0VVhGY3AxcEZtYzYwSHAzcFVLOU80?oc=5",
-      "published": "Mon, 23 Jun 2025 20:52:30 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        20,
-        52,
-        30,
-        0,
-        174,
-        0
-      ],
-      "source": "IGN",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb3pFUEFzS2xzSkJ1LVBPNmRiTmFPVDNDanZrQVVySnlpS29HemZSbVZrV0liZk04WW9hTE42dWg3bHFJU0VyUmJvWTFUQ0plVm9JNWxEanFMWnNtbE5xOGNjdkdiZ0pNYTVLQnlyZGZwVnZwbXU0VVhGY3AxcEZtYzYwSHAzcFVLOU80?oc=5",
-          "title": "Target Sets Dates for Circle Week 2025, Promises 2024 Prices on Select Items",
-          "publisher": "IGN"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYUdOZDVhUXVUR05Za3VvUHdGTF9wNTNtcWhKSHh3YWpaLTREdktaVXgzUVB5ZmFOUnp4aEVtTVNYNE43Y0M0VGVrN1BneWJZcVFqQTdGd291Vm1wemF3Qmo3U05PSWxyMWpKRlNpMjM4U2tsYTVUdmZiTkVweW1XbXRiT3lYSFHSAVhBVV95cUxPUHotS0NBemtSSHJqQ19vOFctcnppQ19BUFh1NkVIV1A1NVVHQXdPLWR3V1Y1VUNmMFVDei0wOVNnT1VxNm1KRDlBU3dlY3NOdnJ5T0NnRG9t?oc=5",
-          "title": "Target Circle Week 2025 Starts Jul. 6: How to Get Free Access",
-          "publisher": "NBC News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUVSX3plWTVXVjRhZXJVRTl2azhUOE53My0yUnZQT2FLS2pUdkxCS1B5NHlVRThxckh6a1R6TTBKbzZIcHF3M2VtM25ZUHp6Y3JFelFablNjNmY4QXVRS2lNclV1UURKM1RLaDUwN25EaGk4SElDN1B1VkNKZHdMdHBNdlBIbTQzS0hKM3d6dnlvQjFoMlV2N1ZqUFBnbl96dXc?oc=5",
-          "title": "Target vows to maintain ‘2024 prices’ for some back-to-school shopping",
-          "publisher": "USA Today"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzOXBfdnpmTldsT2VVTjc1QnRhdmV1Ui16dFhmSEFfcUlHQjRvNk1ScFBiSk15cHJkaUhsX2lhSHpsUko4ZHREYnY3eXFKNFNvRS1BcU9Bb2E0MElMY1VST3k5ZVlWcnBXRHFZemJST291Ti1HNktrTTNB?oc=5",
-          "title": "Target's 'Top-Selling' $5 Backpack Is Heading Back to Stores This Year",
-          "publisher": "parade.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUlaeEJkVXF5cC02Zms1cG9TVlpIWlA1ZWhCTVEzMjRNaEFkWm5oV1dyQWkyeG9DR25qbmEzSFJGNG5zWWJMQ2RwTFNreTdwNjNJOWtuV2RtVnpoR0t5bGNUQ2dlaHgtT3BHaWRTbDVubFZiWExRV3psdGFQSTc2YjNxVmFMMjVSOWhpUk5hZmMyMVNLdUNmMEUzUkJtVDVSdHFxQjhR?oc=5",
-          "title": "Target to maintain 2024 prices on key back-to-school items",
-          "publisher": "TipRanks"
-        }
-      ]
-    },
-    {
-      "title": "Fed's Powell brings blunt message to Congress on interest rates this week - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUFwZGJVZGFuSmJXRnQtdWQ0cE56Z1NhYVk2RVFEOVZZWmJ2NUN1dU9qVFRNeDgycTBlZkxxNVNONjdLV0JrWmxnNkNEc3BERUNYYzBSdW1DZ1BNNjNzcXpoWm03d21zRzVkRzdqM3RRTXJKcVAxZVRiZXlKbUJTWHRfbjhVQy1PLVp4NW5qWWxTa3p3OG9VM0N1WWZHRzNqeldwMg?oc=5",
-      "published": "Mon, 23 Jun 2025 14:33:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        14,
-        33,
-        0,
-        0,
-        174,
-        0
-      ],
-      "source": "TheStreet",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUFwZGJVZGFuSmJXRnQtdWQ0cE56Z1NhYVk2RVFEOVZZWmJ2NUN1dU9qVFRNeDgycTBlZkxxNVNONjdLV0JrWmxnNkNEc3BERUNYYzBSdW1DZ1BNNjNzcXpoWm03d21zRzVkRzdqM3RRTXJKcVAxZVRiZXlKbUJTWHRfbjhVQy1PLVp4NW5qWWxTa3p3OG9VM0N1WWZHRzNqeldwMg?oc=5",
-          "title": "Fed's Powell brings blunt message to Congress on interest rates this week",
-          "publisher": "TheStreet"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXJEYlJ2TkFDdHVaTXJwVWFQYjZsVFdlUzZWQklJVEh0ZDdtaUtpSm9kUGJBZXppMUM1N2NtNkhoV3lhU19tMlJiWkZKQTFQNWVxUDF6a1p5U09IWnNHaER5TzE5YnJpbEhuN0xqYm1qSU9SVEoyaWhZVlkyb1VLZ2NqRTBHNHlTdUxTVFZ4ZllKZlRBdDdIXzFDMXAxc1V5UXZ4YzNYS1FYUEHSAbABQVVfeXFMTUFERHJyUmJlZWQ1SUsyT2VXZ3RRdnZoeV92ZUR0UHh0cmRfcjRaUm9fTnMtQmVVUmg5YldIRk8xempBRG9zM3EzVERHMldFY3NZcDZoLVFySmJYREdBRTVCeWo5Q0dBOWFDQ3ZrV0c0VzdLUlo3U2tIb0dBVHhPaEtFcGg1VjdVR2gwOTBGU3pXNmxHN0RHY002S0Rkb21mb0k0YXdIVEhxSUFqV1N3b1E?oc=5",
-          "title": "Fed Chair Powell speaks on Capitol Hill this week with politics front and center",
-          "publisher": "CNBC"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ2RfYmRxZ0F5V3pfMk81RDF2ZnZSaVo0MGItc19qQWgyY1ZJdF80SUNlM3VILTBEUldQbk9LdC0ycE1CdUNZMFo0cnNxRmdSNDFDM1VHblhIZGVPekM5QWJyMWNxMXQ5cTdXUTlQeTZEMTdlU0R4MmhaaHY3R1JLTU5Fa1BqeWFWNmRiOFktREhjaW1HcGc?oc=5",
-          "title": "FedEx, Nike Earnings, Fed Powell’s Congressional Testimony, New Inflation Data, and More to Watch",
-          "publisher": "Barron's"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0xuM0xNX2MzQmlBa0pKWVl5cmpQVVk5emdoRHNPMlpzNWFNTjlSSF9MTzg3ZzhHbUFyTkhVbFFJRmNyeHRFdzVtaGpURTcxNllRX1F5WVB3TVRDNlIydTQwcG5oWnhSdVZ4VTF5eEhvOGVSN0pKc1pQNUJFN0ZvYXFUcUJwemlSbVZkd1FTTlFRUFlzb1hub1RjcUUzdHg1dzdERTUtYXQ1N183?oc=5",
-          "title": "What To Expect From Fed Chair Powell's Congressional Testimony Tuesday",
-          "publisher": "Investopedia"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmhTVG1aV1B2b1JfaEl1NkF5REI4R3BONktkMmo1MDZJMHZGUVppSmN5Mld3UFo5RlVRVWJBckNaTmhhUWZOcDV4OWc5ZnJGa2J6elJtanJRRS1TdExmeFlFbW9LTFVmU19tTGJJZHNkTFZJYmJaQk5WdG4wbVlUZUxETnRiSFVfbVNPdU1B0gF8QVVfeXFMT1NPOFdqaTRSUVdBelRTeTRpem52YUk1Nk5STHpOMWJRZWUxVTJaSFU0bGhha1dsc1FObmdCVXdId0Y4dURrZWdsTUZvZ0gta3RPVE9RM2FvVkRpSVo5WXRQc0R3TlFzSWZ6RWk4d1VjZWl0ZnFNbTd1Q1pvSg?oc=5",
-          "title": "Watch FedEx, BlackBerry, and Nike This Week",
-          "publisher": "Baystreet.ca"
-        }
-      ]
-    },
-    {
-      "title": "US dollar falls as the MAGA takeover of the Fed takes shape - Forexlive | Forex News, Technical Analysis & Trading Tools",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnBPVG9Za3IwLXVZYWwtZDNSeV9NODAwNV9pUnM3QTBDRmhWNHJBWHZWRk14ZEJIOXRnV2hrcmRJWjJtUHF6bjlZMFZaUTNqSDMycVlvckJwUG1MNWkzb254ME91Z0x0VzNrTzRERUNlSV9BNnRGcUVleGlfdHdNMGRPQW5kamRqbjhZbE0zWnlnaldycWhNWkdDOGJLaVVlclHSAacBQVVfeXFMT2JiSFVPT0NvQmR4T2daRGctT1NaZU1aNGV6V3hrVWR6NWsyNmVyNDRTdFZJZlBYVVdYYVU2QW1qdHBjNHRLTlJiYl9oejZMUzVPcUkxNE5EcWxrQkdRQmt1X2NPVnBKS2kwQmpNSkZIdFZ5NEhJS3NHaUhaZkxoVE5GRFVaZ0wxZFJKaXpuZ1RJbHd6S0FHM2c1UDBZSmhIZE1Rd05GdWM?oc=5",
-      "published": "Mon, 23 Jun 2025 14:16:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        14,
-        16,
-        0,
-        0,
-        174,
-        0
-      ],
-      "source": "Forexlive | Forex News, Technical Analysis & Trading Tools",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnBPVG9Za3IwLXVZYWwtZDNSeV9NODAwNV9pUnM3QTBDRmhWNHJBWHZWRk14ZEJIOXRnV2hrcmRJWjJtUHF6bjlZMFZaUTNqSDMycVlvckJwUG1MNWkzb254ME91Z0x0VzNrTzRERUNlSV9BNnRGcUVleGlfdHdNMGRPQW5kamRqbjhZbE0zWnlnaldycWhNWkdDOGJLaVVlclHSAacBQVVfeXFMT2JiSFVPT0NvQmR4T2daRGctT1NaZU1aNGV6V3hrVWR6NWsyNmVyNDRTdFZJZlBYVVdYYVU2QW1qdHBjNHRLTlJiYl9oejZMUzVPcUkxNE5EcWxrQkdRQmt1X2NPVnBKS2kwQmpNSkZIdFZ5NEhJS3NHaUhaZkxoVE5GRFVaZ0wxZFJKaXpuZ1RJbHd6S0FHM2c1UDBZSmhIZE1Rd05GdWM?oc=5",
-          "title": "US dollar falls as the MAGA takeover of the Fed takes shape",
-          "publisher": "Forexlive | Forex News, Technical Analysis & Trading Tools"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3Vfb3I5QzA1Z09OV0QwaVBJNVNmQUlDNUZJdEg3VEhOdVF6LXRQZ053QnBkT2t0S3NVOWEtWU9wVUoyLWcyVVhfZnpZQUlzUU91LU1KZjM0a055RENRWnRHZ2tLdFBhMW5hNkxFWUN4YWRLLUlwX1F6SHhRMHV6VmpQSGdKMGVQeTZUNTlKWGVRcXpmOG5nVFc4d0lCeUVJbEE?oc=5",
-          "title": "Dollar falls on dovish Fed comments",
-          "publisher": "Reuters"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSk94b3J4emx0TFRGMzdvd1lnSzdCRWlMclRjRGJLYTBjSzFZR29nNVhIV2xTSF92NkRDMTlYS2hleTBoQTRYWTFvcVRVZ2JhVTU3dFZiUGJWZTdjQkZFUU40Y210dFVtYVNSdjhXWVpHRVFnYV9yY3V4OXRRSWJIMTkyajVIT3Bhb0RBQTJla0RGLUcwbnVwa3lHLWxqNjc3bFlUNGVBX2tfZlA5QzA3VWRFQVFOZw?oc=5",
-          "title": "Dollar Gains as the World Awaits Iran’s Response to US Attack",
-          "publisher": "Bloomberg.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZnM5blkxRlIyQ0JaN2VCYXhHVWNVX09WTEF1VnZabXZiWEVvQ3d3dERMSklQZDVMR3BHNG5xb0d3ZnRZNzdBRzJFcjVIaGtrTGlSSXVsc0xDeWJZWml1UjlMLWN3ekNnSmNsZmstSUdHVDBnZGk1SnJ2eHVxQTBtdEZRWGtLeklFajBCYktB?oc=5",
-          "title": "War Brings Out the Best in the Dollar",
-          "publisher": "WSJ"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVEZoQXVjR2ItVEZfN2c0ODZoQnFIeDQ2dHA5LXFaTy1sd2FidXlqcXZBa0RfbE5CS0lzNDA1UXRsMzk0b2UtYURyOVlUMkxVenc0RGY4bnVfOEhCTTM4SkZ4Vmh1bkx0SlBYVm96ZEp1aWdlX0cxM1AtcUVjYlZPU1R6RWlXR1ozWjQzeU05SnhjRHBTMEHSAZsBQVVfeXFMUFhUNUJvTTZRb3JCS1FKYmJpa2JVUnpfUTRZNW5lTFJBcTJBZVB3ZUR3bGd0TURkV2QzQmZ5OVh2eENhZnctRy1JVWNRTHNoX09HcEwwMGNYdWgybG1LSEpGeEh4dlZydnV2S1dPLWowR3dyRDU5V1pOTXZwd1o2Ui1JNktObDlJbmV3OVFhSnQ1N2VwbjNjUE5MbDQ?oc=5",
-          "title": "Dollar surge could be short-lived after U.S. strike on Iran",
-          "publisher": "CNBC"
-        }
-      ]
-    },
-    {
-      "title": "Fiserv’s stock surges as it teams with Circle to join the stablecoin party - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS0ZNQVpJd1UyYTBjYUMwQWV4c1V0aFBEMTd1NUcwSjB5TExSY0dZcWxOMGRPeHVDcHZVQjRxc20yZWQtZkhvenlZZ203VEJPWDBRU3c2V2kzX3lNSnZhaE9xZW1HZ0dZSjA5LTRWeFJYaGg3UXVEU3U3X2NuYTU5MUNQdmd1U3QxU1JLQnQ2LTlLVk14OTQ4ZDB3akJPXzNlMnV2dm8wSVUyRFVFSkduSmFzRGVXLW8?oc=5",
-      "published": "Mon, 23 Jun 2025 13:49:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        13,
-        49,
-        0,
-        0,
-        174,
-        0
-      ],
-      "source": "MarketWatch",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS0ZNQVpJd1UyYTBjYUMwQWV4c1V0aFBEMTd1NUcwSjB5TExSY0dZcWxOMGRPeHVDcHZVQjRxc20yZWQtZkhvenlZZ203VEJPWDBRU3c2V2kzX3lNSnZhaE9xZW1HZ0dZSjA5LTRWeFJYaGg3UXVEU3U3X2NuYTU5MUNQdmd1U3QxU1JLQnQ2LTlLVk14OTQ4ZDB3akJPXzNlMnV2dm8wSVUyRFVFSkduSmFzRGVXLW8?oc=5",
-          "title": "Fiserv’s stock surges as it teams with Circle to join the stablecoin party",
-          "publisher": "MarketWatch"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVk5xTDJ3c1hVZkdWcUdtcFlJbFc2UGZTSEQxazNuLTNxdHFhemVnLVRuQUZ4NWNpTWxpMGZhXzhNNTY5QW1FWEFIa2JOTG1oalk0VGVVTzJuZ0tLYVVuOUZ5RHBQZ0NxbEl0d0pHUWdEdXQtdXIxZ09KcWY1U2R2YW14a2kyQ2VHUHp4T1hMcw?oc=5",
-          "title": "Exclusive | Stablecoin World Opens Up to Main Street Banks - WSJ",
-          "publisher": "WSJ"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdnFMSE1HaGlQSG92bXUwcW9HOEwzZm8ydnc0Sml1OWxUWlhOUnJyU0d0MEc2Rm5LaXZkX2REV3E0MzJpd1ZsRFNXZ19jUjhQOFFpVkR3S1pXNi1xemUySjg2eWtsTXpqM0d3Tk1UT1YwSUh0Mk5vZlZ0Wm1FZmUzeEFsSkhpYy1FLTQ2NU9MN3FjWTdQWTNIR0ZYcUFDeURZUWt4NFU5RVVLWlVQWUhsYnhUTQ?oc=5",
-          "title": "Fiserv to Offer Own Stablecoin, Partners With PayPal and Circle",
-          "publisher": "Bloomberg.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRTYxWFJjSWFQVjZLaVVBYWlNQlFZU1NTMnd5MFVGa1hXc0tveEFrMkRodkNhN1VweFR3TjJTeGozTGM5d2VNMm9CQTB2SFJTbVFPZmMyYUsxWTZuYkZCcGhfZDNLVTNnRmlJRktFYXEyejZhVzZfd2ozcmRRNXl2Q2FZa2hWbWc4Y0E?oc=5",
-          "title": "Fiserv Is Launching a Bank Stablecoin. Should You Buy FI Stock Here?",
-          "publisher": "Yahoo Finance"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUWhqMFdmbnJXUTd3S05BaU1TTTB6Tk5Nb3lLZHBRcVlOb3pBMVZOUzRMQV9KZUczRHlSQ1RnTmdJMkJqajVzcGk0UldWNmh3TjhIcWJnZEREQUhQdlg1TE9MOG00d1IwUy1yM1l3cUcxRWFoUEVGSGY3eXc5VnM0ZERMeXdFXzZqc245QXIxZHpJMFgzYWJlQnpyTXVuTVk1Q1JGUFl2bkxuZlBnMnBwbWZJUHV5Slc0TGdScjFBY2JxVUd6a19oY2J0S1owZEg3Z3htdF80bXRralk2M1FkQ28yMDRTaXJFQ3dzaUNxek1qSm5jUFUw?oc=5",
-          "title": "Circle and Fiserv Announce Strategic Collaboration to Power Stablecoin Payments Across Financial Ecosystems",
-          "publisher": "Business Wire"
-        }
-      ]
-    },
-    {
-      "title": "Top-Rated Biotech Surges On A Bullish Win In Cancer - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcThld1ZSQ0xUd1VhZ3RGRW9PYnlDdU4xMFZxaVVzUTdhQ2xLQWVpMG9PMkVLclZ6Z3RldkNwN1FhaFcyRTAwaGh5NGN1dmtBdkJSa2tSR3R5NVJXbE8xeEJ5aUJNLU5TQWsyVHA4dGdLelM1YTB4TUptYTlGQXRWZEdzVC1rSUhpMFdob3ZFc3FRbHF1aGV6TDhMd1NRNUU?oc=5",
-      "published": "Mon, 23 Jun 2025 20:27:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        20,
-        27,
-        0,
-        0,
-        174,
-        0
-      ],
-      "source": "Investor's Business Daily",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcThld1ZSQ0xUd1VhZ3RGRW9PYnlDdU4xMFZxaVVzUTdhQ2xLQWVpMG9PMkVLclZ6Z3RldkNwN1FhaFcyRTAwaGh5NGN1dmtBdkJSa2tSR3R5NVJXbE8xeEJ5aUJNLU5TQWsyVHA4dGdLelM1YTB4TUptYTlGQXRWZEdzVC1rSUhpMFdob3ZFc3FRbHF1aGV6TDhMd1NRNUU?oc=5",
-          "title": "Top-Rated Biotech Surges On A Bullish Win In Cancer",
-          "publisher": "Investor's Business Daily"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOTkRKVVZWQVlNSXF6UE1fVEZoZ09KdTcwMjFaYkFMSk4zanFUR2Y3ZjdHbFRzV2ZzMk9nSzhBbDNyVzUybG1jOHFHZ0laNXUwS19pdUZiel9fYjJJVXpEcHViVkFRNU1xMktRaVdXNFdrN0FnZ2k5N3RFQkdhNENwcTdadE5GLThwVUQwLWFxbEctYUt2YnQ5Zlg1bVBMcURNZnlmbVNYMXF4UWhrY2h6TWE1c2doaXFiaFRPbnVaTHR4X0hwMlVnQm5feEU5WVl2OVh4N2dXc0QtVzRqOUtvRElMOEFDLUJzRUxSNnRSY3R3dTB0UVJPUGlWcjZGeHBOeTg1c2hSa0VOQkxmQlN1SmxyVEN6X0V5dFhFdkJFXzdldl9BZV9iVTU5Y3lfRV9Ic2tIcWxVMS1nM0tEaHF2bjZkUU13cGlmclRoZjNWMkxXSW5YVDExY1JJTk5jdW4xYnlFcG5HMUM?oc=5",
-          "title": "Exelixis Announces Zanzalintinib in Combination with an Immune Checkpoint Inhibitor Improved Overall Survival in STELLAR-303 Phase 3 Pivotal Trial in Patients with Metastatic Colorectal Cancer",
-          "publisher": "Business Wire"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdmZYelN5UGNCc3RNM0JuVHM0blVBTlR4aG92MGc3RHJQSFR4THdGZ19BYVFIajZETkJIWG0tU0VSSHo3RTF5RU5HeHpORGYtSGNDRlRUZTZJRU02bExwb1BRcHpET0xtZnNNeGZ1X3pJSXlUNEFlbHd4eWNjWmRKWEY2ZXd2OFU4Qm5EOUxJMGpHQ3hWSTB2YXUxOWNoZ3dvOUllV1otdXdwMFZGUzFObXg4dmpmRFVjcUZPYVVNUzR6cWNtRVNyZDFqUQ?oc=5",
-          "title": "Exelixis Beats Bayer in Colorectal Cancer as Zanzalintinib Delivers ‘First Pivotal Success’",
-          "publisher": "BioSpace"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGpXVElPZ3VxMzBBV29ORkx5UmVyRENlZkZuVEhEcVA3Z0VHOVNWVUwweGVMcFVUWVdqbnRsTkNaUEVzODl6V0hZRmJtZ3J3TW1nR2xsa1lZTU5wQ0JERlA3VE1EVEJMdUpfRmJlcjF4eFVNVERqaElMSkVCZ2lpSTM2SG9NWTVWMjRwZjFMZ3pzYjNMbm0zeTJ3TGV5dU1JTkF1QmcxUDdfOHAxVjhRWl92M1NNVF91WWZHYXZB?oc=5",
-          "title": "Exelixis' blockbuster hopeful beats Bayer drug in pivotal cancer trial, sending stock higher",
-          "publisher": "Fierce Biotech"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wU2ZFc2M2RUtwalh5amFQa1BieW9CWnNGaEZqRkxqSFlmd05SekV0di1VaTJnRDFJcTNlNk42aWNZbE9XekpQZUFSZjJFWFFwZ3FV?oc=5",
-          "title": "Exelixis' zanzalintinib hits first of two survival goals in pivotal colorectal cancer study",
-          "publisher": "FirstWord Pharma"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa1lwSVNrUnNGc3FJX3dBWGNlSEF2enFnVmFvZHZHLUFqbnJvUXhnX3VDdHF0LXk5NU9rZldCZ2hVQXpjcFRfUFhZcnh0VTlDUkhsX3FUZDJvc2l4X2RXZEpoemltNDR3eE5UYjVMd0FtWThBbVRnY1ppZ21UZmNBVmZKYjk3bV92cmZ3?oc=5",
+          "title": "Is a high-yield savings account worth it in today's economy? Here's what savings experts think.",
+          "publisher": "CBS News"
         }
       ]
     },
@@ -1144,83 +1144,197 @@
           "publisher": "Yahoo"
         },
         {
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWjNWQWNPaGQtek9POU5mSnJaR3p4ejZQR2ZFemx1dlIzb2V6WkxmbFpPYS05TWNrVGJ6UE85YnExcld2NE5OSWhJb013cURVcnM0QWlmM0g0RzZJU2cxMXc1Tk5YeVpuUFpEYVR4UnBlNlhqTGFmMkdIeFpXUmZFd2MwWk1DNW0xMF9KV3BqZmdLOTh6RFBjcmVDMk91eGEtdGxYWm1sVFBPeW1HZUR5YjRmV0Q3c09KRHFWX3hHbUpHVC05?oc=5",
+          "title": "This state is now home to 6 of the 10 biggest real estate buyers’ markets in America",
+          "publisher": "MarketWatch"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1azVHY0ZIR0pmUjYzbUM3WTc1QXRzT2stcWFLU0liMWtPOEV0eC1NZWdBOGRCUmlTaUtwQVNGa3ZQT0RDS0hURDBmYXlRRk1HelBNc3BrZnEweU12dFg5dVhNS013RmJMcFFURXVJSDJGeE9VZFpwY3N6Mmc?oc=5",
+          "title": "It's a homebuyer's market — except in Boston",
+          "publisher": "Axios"
+        },
+        {
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzNaakR1eEFmRWc4WUhzd1JSWENJQXQ5bGRCcVRvcW5ZLWNKeTRTRmVYY3c3OEU0aHRJaXo5S3pVYkduOUcxMFVGbVFWaG81WFU0YlpvOEZ3a0JWUW5UMGZqdGVDdnBSVGktZUxJUzNSajVRampLQ3lOS0FQSFVYYWdwM2loYkJBazZEdDUyWTZPcGp3MWFkU2FPeFNrbElPSTlmRE1R?oc=5",
           "title": "Sellers are flooding the home market while buyers sit on their hands in these US cities — creating a historic imbalance",
           "publisher": "New York Post"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVBtMlF6c2tWVW9NeWdtYjJVRGJPWTZUejZXUjN3cU5pMzZGeVlwcnhNQzNZM1FQS3pPcExlSnRySlQ3djMyN2tySDdDNWRiQ0FvWDlHTWQ0cFFySU1JY1dycU5zTWw1clBJUXozNGpkOGRmRlFlN2c1SXltSFpEWS1TLUVENEVSWDJka1p4R09IRTEwQV9NeExUYWlURk81cTJHRTFLcDlPaDJZa0xSUNIBtgFBVV95cUxNQ0Ezb3JPMnU0WGhnaFR3ejJ6d0NyTE9LUXJMTnBOX1dZOThtOTBHeTBTSHM2LUhuLTNtbmU4NS1LdU0zQl9aMW1KM0lRWnUxdUM2cDlCd0dQOHNxRGMyRklMNEpUejBDT25wLWJSbWhlZjNpN1JlNm9RWDBKT0V6OHlQU0RnTUxSZlpQaE5sYkFULXBJN25sOVJlNGRsZG5MeWEyRE8weU1jWmVkYUJHMDAwZVdkUQ?oc=5",
-          "title": "End of bidding wars? Fewer homes selling over asking, study finds",
-          "publisher": "WOODTV.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVkJPcVlEeVhqYlBSZUs1dE5ibTZEM1liRGRQMmNrR1E5MHI0ZktIZTJxWWVfUEpMb0pxZWEtSHBFa001bVpKNEZyenJJZUs4WVNwbjhhTmtmUF82QnBFMWFLY1N1UF9ibFI0QU84UzczZ1dGWEtDbHFNbWphY1lQWHhRRVJUajhvVllIanpqNWtYRTRlMWhHN2hqcUNubXZWa205aA?oc=5",
-          "title": "Buyer-Friendly Housing Market Grows as Home Prices Hold Steady",
-          "publisher": "Realtor.com"
         }
       ]
     },
     {
-      "title": "What the Texas food label law means for the rest of America - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOejJFU0E4bGl6TTZFMm9PdmppRlZ4VHY1S2JjaGtvLWJETHFqNEtTUGFQQjVJajRQeVhoNC15Nm1JNmQwVzdENHJFTVZIRjN3cHJhX1hvd0NjZkJuWG9ma25Sd1NZU0NkQlVTOW9xclFudzBaUDUzMGJtREhLdnkxaA?oc=5",
-      "published": "Mon, 23 Jun 2025 17:21:23 GMT",
+      "title": "Fed's Powell brings blunt message to Congress on interest rates this week - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUFwZGJVZGFuSmJXRnQtdWQ0cE56Z1NhYVk2RVFEOVZZWmJ2NUN1dU9qVFRNeDgycTBlZkxxNVNONjdLV0JrWmxnNkNEc3BERUNYYzBSdW1DZ1BNNjNzcXpoWm03d21zRzVkRzdqM3RRTXJKcVAxZVRiZXlKbUJTWHRfbjhVQy1PLVp4NW5qWWxTa3p3OG9VM0N1WWZHRzNqeldwMg?oc=5",
+      "published": "Mon, 23 Jun 2025 14:33:00 GMT",
       "published_parsed": [
         2025,
         6,
         23,
-        17,
-        21,
-        23,
+        14,
+        33,
+        0,
         0,
         174,
         0
       ],
-      "source": "The Washington Post",
+      "source": "TheStreet",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOejJFU0E4bGl6TTZFMm9PdmppRlZ4VHY1S2JjaGtvLWJETHFqNEtTUGFQQjVJajRQeVhoNC15Nm1JNmQwVzdENHJFTVZIRjN3cHJhX1hvd0NjZkJuWG9ma25Sd1NZU0NkQlVTOW9xclFudzBaUDUzMGJtREhLdnkxaA?oc=5",
-          "title": "What the Texas food label law means for the rest of America",
-          "publisher": "The Washington Post"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUFwZGJVZGFuSmJXRnQtdWQ0cE56Z1NhYVk2RVFEOVZZWmJ2NUN1dU9qVFRNeDgycTBlZkxxNVNONjdLV0JrWmxnNkNEc3BERUNYYzBSdW1DZ1BNNjNzcXpoWm03d21zRzVkRzdqM3RRTXJKcVAxZVRiZXlKbUJTWHRfbjhVQy1PLVp4NW5qWWxTa3p3OG9VM0N1WWZHRzNqeldwMg?oc=5",
+          "title": "Fed's Powell brings blunt message to Congress on interest rates this week",
+          "publisher": "TheStreet"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3FJZjBaZXBtY3dieHBMRXA3UkhQYWdHc3RxVUpJQmxYUW5VY3BxVnRWNjhYTVhmM0NWWl92cTJ2SjY3TFY1NWFZemZ3blk4NnJTb0hhelE4T0s5eTdtamVMRndTdk5kMXRuRFlMVnVyTDlVRDB1Z3AwWE9vMGN1T2hfQTlXTFBSUzNsVDFhRDVMcTF3TWlZVlUtb0tTcWFYYm9XTGRBSklkVEtRWUdvcnR3?oc=5",
-          "title": "Texas Law Requiring Warnings on Some Foods Signed by Governor",
-          "publisher": "Bloomberg.com"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXJEYlJ2TkFDdHVaTXJwVWFQYjZsVFdlUzZWQklJVEh0ZDdtaUtpSm9kUGJBZXppMUM1N2NtNkhoV3lhU19tMlJiWkZKQTFQNWVxUDF6a1p5U09IWnNHaER5TzE5YnJpbEhuN0xqYm1qSU9SVEoyaWhZVlkyb1VLZ2NqRTBHNHlTdUxTVFZ4ZllKZlRBdDdIXzFDMXAxc1V5UXZ4YzNYS1FYUEHSAbABQVVfeXFMTUFERHJyUmJlZWQ1SUsyT2VXZ3RRdnZoeV92ZUR0UHh0cmRfcjRaUm9fTnMtQmVVUmg5YldIRk8xempBRG9zM3EzVERHMldFY3NZcDZoLVFySmJYREdBRTVCeWo5Q0dBOWFDQ3ZrV0c0VzdLUlo3U2tIb0dBVHhPaEtFcGg1VjdVR2gwOTBGU3pXNmxHN0RHY002S0Rkb21mb0k0YXdIVEhxSUFqV1N3b1E?oc=5",
+          "title": "Fed Chair Powell speaks on Capitol Hill this week with politics front and center",
+          "publisher": "CNBC"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOVpGeFRiLWgwU0FrcmYzRHhsX2lJaHUtT2pfcGZ0azYxRTl2MUtlMWdEQ3RoV2RYOE9JN1N1ZWdpeGFRVGhZdktldy1vQ1F3aEp5eGlYbFQxaDktQ1U5NDVINWFOS0x4ckl1eEhyNDk2OThmNWZ5ZXdjU1dhQ01zV3lNWDE5WjlqaldTTV9oeFbSAZYBQVVfeXFMT25xbzR6SUZMUlBIVlhRQXR3WVZYN0FvdDg3enNzRllCdUZlQy1WZDgwb2ZwSWl2YTZ0WW1tV0JBODJva1VVVFdkdGdnZjB5NVJDSUdqQkF4b3ROMjFvLVRjZktKWXlMUWhaRDAwVzNRaExEY3d1cFBHSmY5dVdMdElJNDZSU09qemZ4cDFneDFUMDNJYVh3?oc=5",
-          "title": "Abbott signs MAHA measure requiring food warning labels in Texas",
-          "publisher": "The Hill"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGk3V01KVlVhVE4tWVJlV2Z0cUJnaGRaajV5aGpSbTA2Uy1oN01ncEo1UG8wbzltQ3JOWHhTdWhyMGtjOUJwOEtDdWpRMUcwTGx1SVlGMDdxaWlFbVVlUjAzZF9MTk9aZExiVnphcVQ5cjVucldQYkVWcXBWMUJZNXZwQS1EX2F0X3NXRVJHOWpWSkR1SVhRZFFvWUFqUllJNWF5dDlDZE9SMlhkT2s0NHJ3?oc=5",
+          "title": "Powell Headed for Congressional Grilling Over Fed’s Rate Hold",
+          "publisher": "Bloomberg"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdGFLYVdhbHIzYld1QV80ckczT2ROMWx0anVqU1FJbEFzbE8walZRT3d3RjZFLVAwZ1FWOUhoWGthZC0tRndfcjJYMTUybGdHdU1KbGpma1pkZjg2N0xhQVNMbEYxY0NxdUxvUXRtTEVKSEhEREVWZzN0dTRZSHIwNE5IRHFDYU5FeG9YSlYxVFAtVDVlUXhFdkJnTkZFdDN6dVNwSG01MHV6U25a?oc=5",
-          "title": "Food Label Warnings Texas",
-          "publisher": "WV News"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ2RfYmRxZ0F5V3pfMk81RDF2ZnZSaVo0MGItc19qQWgyY1ZJdF80SUNlM3VILTBEUldQbk9LdC0ycE1CdUNZMFo0cnNxRmdSNDFDM1VHblhIZGVPekM5QWJyMWNxMXQ5cTdXUTlQeTZEMTdlU0R4MmhaaHY3R1JLTU5Fa1BqeWFWNmRiOFktREhjaW1HcGc?oc=5",
+          "title": "FedEx, Nike Earnings, Fed Powell’s Congressional Testimony, New Inflation Data, and More to Watch",
+          "publisher": "Barron's"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSm41bGJaMGZCampOOTBpTmVHSEdWMWJRM29PcjBfc3VXZVA0WTRUU25nem9Fbm96VDR4WU5XRlNTSEN5RGFnTHFybFNzV1BJVldkUGkyWU9IZnlpX2NYWDMwN213TUF0T05jTEJ4MzVPMEtHWHlWeEZPTEJjV1Q3RjJEcExrdHhuTlJDVFlMVWpocHFXUmFycFozelFYZw?oc=5",
-          "title": "Texas Governor Abbott Signs MAHA-Similar Bill into Law",
-          "publisher": "Food Safety Magazine"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0xuM0xNX2MzQmlBa0pKWVl5cmpQVVk5emdoRHNPMlpzNWFNTjlSSF9MTzg3ZzhHbUFyTkhVbFFJRmNyeHRFdzVtaGpURTcxNllRX1F5WVB3TVRDNlIydTQwcG5oWnhSdVZ4VTF5eEhvOGVSN0pKc1pQNUJFN0ZvYXFUcUJwemlSbVZkd1FTTlFRUFlzb1hub1RjcUUzdHg1dzdERTUtYXQ1N183?oc=5",
+          "title": "What To Expect From Fed Chair Powell's Congressional Testimony Tuesday",
+          "publisher": "Investopedia"
         }
       ]
     },
     {
-      "title": "Eli Lilly drug preserves lean mass in patients losing weight on Wegovy - STAT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWNtNEJQOE14Zlp2SlIzc0FkSVY5Q3pWSGF6eEMyQzk4NWpOQjAxV0xRYUwxNmF4Tkd2MUxMVkl1M1dxSVI4ZWt1dll0TzkxVVF3ODN5a09QeUdvcWVZd3NRaHp4VVlTNkRpemt6aFpudU1HRjdzSU5jY216WmNOR0F4aTRGSHVZRm9RTzV5aG9jZjA1d3dwY0t0N1daeWpZcnBMY19TckctNEFKcktrMg?oc=5",
-      "published": "Mon, 23 Jun 2025 13:04:40 GMT",
+      "title": "Carnival Cruise Line pledges greater cruise loyalty benefits - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1Bvc2RYNTk1OW53UGhaN1doREhrYm5wWGRzR1B0YVZmdlQ3VkJpZFpYQWZfbHpxdllFaGNXRTVHSnZZU1ZHS3lLTl9IR0hEZmltX1ZBb3NCQU9vdHpmR21oZFQ3Z2hDaFVEQ25GM0kyWGRRdUEwekh3UGtMZHFZNXBvX0JtZ2t4MDMyQ0VPeWpUTmcxWk4xVg?oc=5",
+      "published": "Mon, 23 Jun 2025 16:45:28 GMT",
       "published_parsed": [
         2025,
         6,
         23,
-        13,
-        4,
-        40,
+        16,
+        45,
+        28,
         0,
         174,
         0
       ],
-      "source": "STAT",
-      "sub_articles": []
+      "source": "TheStreet",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1Bvc2RYNTk1OW53UGhaN1doREhrYm5wWGRzR1B0YVZmdlQ3VkJpZFpYQWZfbHpxdllFaGNXRTVHSnZZU1ZHS3lLTl9IR0hEZmltX1ZBb3NCQU9vdHpmR21oZFQ3Z2hDaFVEQ25GM0kyWGRRdUEwekh3UGtMZHFZNXBvX0JtZ2t4MDMyQ0VPeWpUTmcxWk4xVg?oc=5",
+          "title": "Carnival Cruise Line pledges greater cruise loyalty benefits",
+          "publisher": "TheStreet"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeWhtNkQ3SlV6dThhUWotdXJzUDdwUnNKcE1FMVM3QmFsb29yLUNEeFZTZWt0MzZGZ05OeXo0d29Vd3Z4V2NFYTlqYkxDSWV5TF91aHE3SDRNNkMtUkdrVnhwT0FEYWhoUnpIZ0RsUWpPZUhjanZKMkNkaXIzWFNlQW1BY2V5YUtqUG9zeHlvN21xdEdLN19V?oc=5",
+          "title": "Carnival Cruise Line promises to listen about loyalty changes",
+          "publisher": "Yahoo"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWRsNUNoTURkV0hxemM3QlFDN3dxX2VXRVFhR2RXWWVZeVRPX0UxajZsUXNWTGZ3emNqSUR0Z2NZaEtHTzRXOHFsaDhGNTdIa0FGeEFUSmFIVEM3Y1NUUnVrWjFaWGdacmZFMG10a0J6aVlRYzJfamJvRi1rRHU5UlJXRnJvWm4yUzBpMVZOZFNVbEZjbU90aFpuUVVGeFBZb3ljRXFyWFg5NFoxeEY4LXJVYndqLXJHbklFMUVvam9IQ1Np?oc=5",
+          "title": "Carnival Cruise Line to Launch New Loyalty Program in 2026 Dubbed 'Carnival Rewards'™",
+          "publisher": "carnival-news.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRXZXMFh1bVBGZEdjUnhUODVKaGZPQ0t3aDIwZFhTa3g5UTY0bldjRjJ1OGtPdmZMTFdIaWoxbGRqdm9DUVZGcnJtVmxhb2RGLXFYM2ZXb0ktNGFoUzJ5c3Y2M0dnckJQa0k1RHR6Y2VxYVJlZ3Q4UW55eGdraVNHQlljNmo2bGM?oc=5",
+          "title": "Carnival Stock (CCL) Dips on Loyalty Program Changes",
+          "publisher": "TipRanks"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW9MUWZCU2ZFWDAtbTBSWHpZNjBBRS1pNXFwd1lvdFNqd05UeHMtN0I5ZXFLNVEtMkVDQmZUZVZ3eE9WR1lkRENINzcyV3BuVFNtaFNJcTV6OUF5ejdrcXNHSUVSdXRvT0tLZUxrWGhRU1Y1cmgza2FUcXZJaWViX1JBZ3hsT1lpb1Bqa3lHcnVOdS14dEdmTDRQQ3A4WlhGNTZLYVV5b0NpbTNqbHl4MDE0SUlVbWc4M3hsNV9XajBBN0U?oc=5",
+          "title": "Some Carnival Cruise regulars say they’re jumping ship. Why Wall Street isn’t worried.",
+          "publisher": "MarketWatch"
+        }
+      ]
+    },
+    {
+      "title": "Stock Market Today: Stocks Finish Higher; Downtrend in Oil Is Intact - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUUhZUW42Vk1sMnR6WVM3UVBxMWplQUN6V3VXZEcyLTZxajV4ZkZRTV9YSkRubnlCNXFHZW9CbXVpTUc3VnNZVDVBVk1GVG9wSWtuV3pialYyS3pkRWRvU0E5dnUwV0dSX1dEX2FuazhzTEFwQ3N2TkZ4SERPb01EUDhsQUlXeTNFRW1Wa2dyWVhPbFFNaFJjYy0xLWhzR1lIbS1ZeFVPbTRsQS0zbGlr?oc=5",
+      "published": "Mon, 23 Jun 2025 21:26:17 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        21,
+        26,
+        17,
+        0,
+        174,
+        0
+      ],
+      "source": "TheStreet",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUUhZUW42Vk1sMnR6WVM3UVBxMWplQUN6V3VXZEcyLTZxajV4ZkZRTV9YSkRubnlCNXFHZW9CbXVpTUc3VnNZVDVBVk1GVG9wSWtuV3pialYyS3pkRWRvU0E5dnUwV0dSX1dEX2FuazhzTEFwQ3N2TkZ4SERPb01EUDhsQUlXeTNFRW1Wa2dyWVhPbFFNaFJjYy0xLWhzR1lIbS1ZeFVPbTRsQS0zbGlr?oc=5",
+          "title": "Stock Market Today: Stocks Finish Higher; Downtrend in Oil Is Intact",
+          "publisher": "TheStreet"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNEdzbGZvYTNfSEI2aWFTVWk3dWpXYWNwbnNZSF9hcVNkaWh0cEVjbkQ5akNIZ2VtWDJUWjVKU0dobEVVQWhPYXI2OHExZGJEX0d6Q3Jjb3VuV2pBQS12NTJpVlAxejNObXFGNXRPSDJPVjExaWJncUF1SkYxbVdXb3lxREx5bTVTcnhaeTBTMWNpSjc0NXNEcC1n?oc=5",
+          "title": "Wall Street has a short memory for global crises: Morning Brief",
+          "publisher": "Yahoo Finance"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVBPTlNDWVpIeWtkd2NDOGg4UVU2WndoeHJMRUtVbC16c1loV3dtdmY1cTdselVwaXlOUE13STBTVHVhc1Q3OWtpVmR2REdqSXZKX0FISDhLNkVPNjFIb2RBYWZ4TnBBc1U0WVF5SGhicEhvS1gtRXVGb2tYeE4wTXZManFuWVdvMFdBLXVMRzBqNm5yUEZyMTBwaU9iVFVyZ0V6TzVEOGMydw?oc=5",
+          "title": "Why falling oil prices could actually push stocks down the well",
+          "publisher": "MarketWatch"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR29MQzFSYldPeEdSVk9uUHI0TmpkOG1xbnZJMnFrRXZNdmh6LUR4LXdJY0lSOHl4LVFxMDdLdmR0d3B6U005OEo5eGRaOVVSWjJMQ3NEeHJtMUhPWDBjN1pvaTFZR0xkbDFfN3pHN01xVTFDNXFFSmZFMEVhV3NmLVJBNEUyOXNIVFFoN3VmVzh0ZzBIVmVxVWhVSk1kcVdLX3RPSDM5aEQxYzZDMW0xR1Y2WQ?oc=5",
+          "title": "Options Traders Wrestle With Stocks’ Muted Reaction to War Risk",
+          "publisher": "Bloomberg"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xNUkyZEd5V05OczViN3JhQmp4Sk1WSzZpQzV6cHBVdnhabU9RcTZja2ZsSDVIaVloNDlHTlgxdXpwbDFIa0lKbmpOZGp1d3oyZERmSi03cnFvSi1zTFRjTDJNVTZWWHB5eE9tbUpra18yRk0?oc=5",
+          "title": "Trump Needs 2 Weeks. Here’s What the Stock Market Needs Now.",
+          "publisher": "Barron's"
+        }
+      ]
+    },
+    {
+      "title": "Trump Mobile and its T1 Phone Don't Make Any Sense, Even for Trump Fans - CNET",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMTZlZVgtaUZhUS1KQmVhaDJ6c0VtaFJxT2F4bkRDakU4X3huYlFRR0Rpd3VkY1VRRE90YW5qU21ZR2V5b2VjYWNuTFM1LXNmUU5MaUFUbVE1Vzg1TXlRdWxHSnlueWJrT1VHYndLekIzSlE2azd1VEpvZExWZGh4WFFxZGtpSUZmLXoxV2VQQlRzQUkwdEdQTUREOEpNcF84aHhaYTR3?oc=5",
+      "published": "Mon, 23 Jun 2025 10:00:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        10,
+        0,
+        0,
+        0,
+        174,
+        0
+      ],
+      "source": "CNET",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMTZlZVgtaUZhUS1KQmVhaDJ6c0VtaFJxT2F4bkRDakU4X3huYlFRR0Rpd3VkY1VRRE90YW5qU21ZR2V5b2VjYWNuTFM1LXNmUU5MaUFUbVE1Vzg1TXlRdWxHSnlueWJrT1VHYndLekIzSlE2azd1VEpvZExWZGh4WFFxZGtpSUZmLXoxV2VQQlRzQUkwdEdQTUREOEpNcF84aHhaYTR3?oc=5",
+          "title": "Trump Mobile and its T1 Phone Don't Make Any Sense, Even for Trump Fans",
+          "publisher": "CNET"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYkVCV0UzN3V3My1vWHlTalB6cG1RX1Q4cUdERGlpempQTkhVbUlESm5kTU1aamJOVm01enJJVTljSmpkbk0tbmRJMmM1Njd5MWxGM01Yb2gzNVVIcDZTTFhwUkN6UXkyMVR5RENkdVJKaVhYcUtDMkZ5MWVMV1dOUXNBbXVGYUZrckpCVA?oc=5",
+          "title": "The $1,999 Liberty Phone Is Made in America. Its Creator Explains How.",
+          "publisher": "WSJ"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMF9XRzR5eWg2Y1A3UVN6MDAxRWZ0VVFrblZhenR0QUxMNE1MZFFod01Tc2NTblB2ZXlRU1RWMmMtYzNBRV9uZ1dEcVRFeWlFQzlueEs2R3lfU3pFY25JdXNOamhmUTFqWGNKSV91LUtvZTdlS2s3ODN6MldQTEc5azRuVlpaZjhYUGFURVA3eGVvRXlhbjNxWFI0YkZjRE9PZDRIYXo4aUQ?oc=5",
+          "title": "Trump family in phone service licensing deal, touts a $499 device",
+          "publisher": "Reuters"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWswVDJYNXNtd0lLaU5zZU1IQloxRlJzTFd5Vi1rZnFuYUUxWXhpaTE5Q29iV2xIelJUN0prcUpsY2tvdlpqYTM3LVB5dVU5ZGVGZUs4LVppcGo4aGYySTRjdU1uRk5obXFUUGNFNUtXRi1xcGhMZWFlbE8xbkM5NmxuSlV3RVctcm8zQ0pUWDdFMjTSAVRBVV95cUxQU0tGeElPT21iQ2pFZmNYa1ZhbTVlYXdVYzZGRlVfLTdlcUNSeVlGQVJSTWtnZHMxTy1adzMzNUE4aEp3OGlqUHlNaUdTdkdwbmVXeVo?oc=5",
+          "title": "Trump Mobile won’t make cell phones cheap again",
+          "publisher": "MSNBC News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU3d6d1FpeEdEQUJNNEJibGl0U1E2UVF6RENPSVl0TFl3MlhKcUZjdDdUZnQ1Zld1N2loVGg5UGRlU1FOUHlxMUItODhNclBONTkxcERXUkNuLTc2cEtvRTN1WXAwWlB6VmpXM2Z2WlV0MzFFQ0FMWHEyMEFzRmJ6Zng5TGphbjB4eDFDa1pwTC02VHBSMWs0UzEwUVhLR3hF?oc=5",
+          "title": "Trump Family Unveils Trump Mobile With a Flashy $500 Gold Smartphone",
+          "publisher": "Business Insider"
+        }
+      ]
     }
   ]
 }
