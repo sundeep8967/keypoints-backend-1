@@ -1,7 +1,7 @@
 {
   "metadata": {
     "type": "topic",
-    "timestamp": "2025-06-25T02:00:17.726719",
+    "timestamp": "2025-06-25T06:36:35.144081",
     "info": "topic: health",
     "count": 70
   },
@@ -22,7 +22,33 @@
         0
       ],
       "source": "BBC",
-      "sub_articles": []
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwZDR5c3ZiNHZ0Wm9fUEFsSk5yRFotSFlELXlZaEVES0J6LVB0NjViem1ENEQ3R25CTmxXekZhdFBBU0gxR0Y0bDlSRF9PRUZzbllRdFFPNmI3d9IBX0FVX3lxTE1CVXdUcTVRcnN1YmdDcUNqbllUUS0wZXdBeEJyUVpYNEl2ZzV1QlZMV0RtTE8wVDhvVkxLRXBXamVwMkdJQ0RwdC1jeTRHWDY5VW1rOUg2TnFhU3M1UWpV?oc=5",
+          "title": "Millions of children at risk as vaccination uptake stalls",
+          "publisher": "BBC"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXJYaDJGWVg0aWIyUEFKT0lpMGItbFBSZk5YZnltbGhpZVRBY3hQazlYZE4tbHByRTFpdm5LT3VBTUYybkRFYXBndG5XTDBOM0Z1WGxldi1FTUw4bjFhWEh2UUNPOHBZcE45anhWcE94bG5vRGFIQXZoNy13WTlkakdYY1FNNEUwTHZrNzFicGRYc1hqbHQwQXdzQ2wzQQ?oc=5",
+          "title": "The good news (154 million deaths avoided) and bad news about childhood vaccines : Goats and Soda",
+          "publisher": "NPR"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMzJRLURVTk1GRF9DX25Hc0ZZRHBXR2dkV3pfZ3hSY1JjeEtyOXFBZHhoMmxpUHNZM01QZzZicVRxTGstNldscTl2a29aTnE1MnlwSG1YM1MtS3pLa2JVUHVCZEZoSmttcXQxcWJ2eWZRTl9ZLU8zUEJOdFp5TkR4RWtpaGNrcmp4REFnM3R2NXlKYnVZMzh3MGRn?oc=5",
+          "title": "Millions of children at risk as global vaccine rates fall, study finds",
+          "publisher": "The Guardian"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONGRfUENDNmFnNG1wSFFmMmVpRDRTNE4tVWxqY0plMy1nakJERVFKeUtUZEgzZmszb0ZIb3RuakY1QWZ3ZVFKTWUwTE9aYjViU092dzZtVEdsZkpHMXZpSjJLc21PWjk1ZHpMWU1KM1V2VTlJYmp3OXlLR0xkZThGQjBJMHBsQdIBiwFBVV95cUxOZjg1dHh2MEtnZUI4SGtqNlZUZjZWOUR4S1k3QWVrbDc1MmRFR1BYa2xDSXZ0U3FMNVNKTnVQY3YxdVRQczhLSnhoRG5EOFVuSGhOS2JmLXBKLW90eWJUemI1R3ZiNkYyRU1EazFwMzBQbkw3SzN1NUJyU0hROW9qVkNEcTBvYjVpaDBJ?oc=5",
+          "title": "Childhood vaccines were a global success story. Misinformation and other obstacles are slowing that progress, a study shows",
+          "publisher": "CNN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZmNNQmtCbmdhN3VLZ0sxOUxHVVRBMW1kNGxrVElWaDZYeFl0U2xyY2tTdGpBVWVYbUQ2VC1qZFk0cUZhbzRkeEdMUS1wVkU0WXZ0SUhuR1lCTlZiczdMY0J5ejI0ZjNNdFRhSTZsTkt4SldHRmtiV3B6QTFzbXlJaEctSV8zd3BUNUhNUk1YdHRMNWo1dXM4emdjT09KQjZtdjBmcWticUJLZnh4S1VzeW1ZUW83bTIzY3V4Z2tSX1RncWhiT2R3UkptSkQyZHlhVjF5QWU2MNIB3AFBVV95cUxQaExBT1paTmFXd2RkY05qaUlITEhaNEg5MG5wLXVWZ1V2UXY5T2xvYlFxSFZ6X1FaLVdfSGd4OXNXY1FLdEFNT3czbnZkS3BWcW1VenNOYUU1WGZFQ2JPMDY2V1I4VFJUTHNhRmtaU0JZczNlTWJkalFOZkRtYkVFN2N4Q3A4ZUcwTFhhNE0zcWd2bFBaTVhldnBkWGtwdGoxc0lRd3FOVG5kTzNESldnYmJoOW5INXpFMzdVYXJGSTdsUWFCZ1BzTkk3TXR4dmZ0X2ZWbGJWQnNMcFZv?oc=5",
+          "title": "Global vaccination efforts stall, leaving millions of children vulnerable to preventable diseases",
+          "publisher": "WANE 15"
+        }
+      ]
     },
     {
       "title": "First case of measles confirmed in child visiting Forsyth and Guilford counties - wfmynews2.com",
@@ -52,19 +78,19 @@
           "publisher": "FOX8 WGHP"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQWQxOFVhMkl0eWFrMVRyNi1uMU16QnhOd2F6VUtpQV8tczl1Y3FMakdlVzFCNnZyRHViT1FNZHdEa1A5LVY5bld2dlhNNU0yTjN0a1A0ZkZKZUhnY3hNVk5BTXUxYjBTQzRjcGdIUDY0dEJNdEs4Tkh4SHVBRGkzWmE5YThxMDNXQUhydy1vMDU?oc=5",
-          "title": "Child visiting North Carolina contracts measles; First case of 2025 in the state, officials say",
-          "publisher": "WXII"
-        },
-        {
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZTNzTEEtQnV5SF8zdWlKSU1pV0R6OS1Hd0UtejhlUEFPRWc3cmpMTzNYcHV1VTAzWWM4TFRDM2tQUHNBTW5HaWs3VFZUaEdqbi1VVUhLNFVBcjJGbkJ5T0kwSngza0VKZjFjbHdsLU9tREFMTzRxZGtVNE9rNXJYYW1kdVNVb0hKMmlsQUxHb3g1RTDSAZgBQVVfeXFMT3I2ckw2VC1GVHYxQkozalpPcG5iS3hGcTNBbUFWRFZvcF9fZ0ZXUGJVY203djFUcnJqQnA0Und1aUJ2Ni01Nk5jZzFuQ28yWW5rMTY5MjJVZVhPOGk4bmFlWGJmeHp3ZkdXQ0pXaHJyR3pnVzMzNWxMV3BiT1ZkcU1NVWdGOGFkTFRUZExIcXFoWEdUMS1VY04?oc=5",
           "title": "Measles in NC | NCDHHS confirms first case of measles in North Carolina this year",
           "publisher": "ABC11"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SYXZ6VkttZWt3bnRJN0hsM0ZNamhtR2pBbDRuemx2RjVUTU5aTlFxVHllalJnVGdXOTZSWFpQakxMLVdPdTRlSk5GcmFsY0NmTEZwUVBtNlpUY3JSaWZXZnRkc3UwMHFvdks3RHJWRWpNZzdGbTBkNmhR?oc=5",
-          "title": "NC's first measles case in 2025 reported in Forsyth, Guilford counties",
-          "publisher": "WRAL.com"
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQWQxOFVhMkl0eWFrMVRyNi1uMU16QnhOd2F6VUtpQV8tczl1Y3FMakdlVzFCNnZyRHViT1FNZHdEa1A5LVY5bld2dlhNNU0yTjN0a1A0ZkZKZUhnY3hNVk5BTXUxYjBTQzRjcGdIUDY0dEJNdEs4Tkh4SHVBRGkzWmE5YThxMDNXQUhydy1vMDU?oc=5",
+          "title": "Child visiting North Carolina contracts measles; First case of 2025 in the state, officials say",
+          "publisher": "WXII"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUFCX3ZpMjZhQ3hON1Uwd0E3aERqcEljQ3FlcHlCbTVjMHBVb3hfdjFaUzRScFdJbm42UC0tNmp3bEd5LXNKR1h4ZmVEbVBtdkwtRWJ3MW5VOEJIcG9zWjk4ejl0UHhPb1FTNkJWbEtUTlN2djlzSVJNV0J4SGhSUEg3VzBaN1pSc0g4aWpQdTUwMkRoUnhkMUY2aTI0X0k4elJVXzhadw?oc=5",
+          "title": "NC's first confirmed measles case visited these places in Forsyth, Guilford counties",
+          "publisher": "Winston-Salem Journal"
         }
       ]
     },
@@ -91,19 +117,19 @@
           "publisher": "Reuters"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWpZdGFKSVNxVld4VE9MWDdOWlFETjMtOUhCZFVWdTBjTjVvNnRMRXY2Yk1Id0lONWVPQVBQUlB2VE5Vb1doNXVjN29aNVJjU244MmZYbUtsLUFPbVNsVnVKMEdmeEUzS2gtSHUzbGt6bFBXMzF0dUdkcGZRcEQyUkFLQ1VKTVXSAYwBQVVfeXFMTllBSWxaMmRReGZXUDZtQlFELThSUHJSZldtbDZ2emI1MFNTdlpjVXFIWm5Ebjdqbi1jZHI3VEpaTjIzT2dlNHdQWGQyY213YTBINmNsSTRiSFBBYjVWSkRScGxoT1pELUZEcVkyM0JJYlc0eDRVMWVLR2ppRjVhODBzX05EWHc2d0hYbUc?oc=5",
-          "title": "Former leader of anti-vaccine group founded by RFK Jr. to present at first meeting of new CDC vaccine advisers",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWRMUzdkeVhCYW9aMHlUeUZqeWNJMXM5NUJmbWlmemJyeXQ0di02cHl1S3hicHR5cm5NRElBbUIxVXpLQ3IyRERDVjBIQnNHQXk3am83V2E5NEw2RjZ6Y0R3b24yVGFPTFRHa2gzY2I0YTQ0azBsM19icm1MenRnVkVrR0xTcEx00gGOAUFVX3lxTE5rVE9xX0VDSS1DRktkWEZwQ0pGTTdmcHY1bnRVeGxrWUMxOHFKeUNyTEY3eXVtcXhNeE9jRnZobXNZMVBCWkYwa0stUDBTR3g2NGVfRzBFMG1uVUpiNUNheENKYVBLN0FTNlE0UzFBcDdjaGJjbDhqaFNJR0xfSjhYbUMwRGxGdVJPaTJLOFE?oc=5",
+          "title": "Presentation for CDC advisers appears to cite nonexistent study to support claims about risk of vaccine preservative",
           "publisher": "CNN"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTVd6TEkzUDJxcnE1WEJUSk50VEZGSlRMMGNFel9lUU5aX3Nza0wtRExyeXprem9DU05xNFNDdFRRMHlGdmd6cWlZMDZoczN0M2VPNGwyQWZIWldxZEltNFVZZFdZSHkxRTFHaDh0MGNvN1AtOC1ZX01ub2FFbE9jX0puTFVOa0Y4Y254NHZOeXN0V05KMVZxZ0hyWl90ckI3bXIwc0QyektPRldwdFh0VWtKWHAzVnRBRGNjZ1dROWRKdzJ6R1JzeXUzdU0tWEZVOGJVbkpWbkU?oc=5",
-          "title": "CDC Vaccine Advisors To Vote On Thimerosal In Flu Shots. Here’s What To Know About Thimerosal",
+          "title": "New RFK Jr.-Appointed CDC Vaccine Advisors To Vote On Thimerosal In Flu Shots. Here’s What To Know About Thimerosal",
           "publisher": "Forbes"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdm95My1ndHNZUFA3aC1mZUxXejFLZFpBMDhDLVNEdEVqaXZVNTdJdVlVZ3VWVWlxMU1sRW1NaUF0QW05ZVZCTk5ySERrVTQ5WVpMekRqa1pnVVRmSjAyZ2NrR2hYMktUMUlta3MxVVNIZjhTamRiTWRhN3RENm1KMjFiaVdWb1k?oc=5",
-          "title": "Presentation for CDC advisers appears to cite nonexistent study to support claims about risk of vaccine preservative",
-          "publisher": "Yahoo"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbGJuX0pwMWU2Z09YR2FCXzhBNGNoeWo1WUdjSFEtYXItUWx4NGIwbHVNejAwZUpkTlFOaWlZZEVTWGQ4UlBwa0RYWGMxbHFCSHhOSVFBWTdsN2I1NEVFQTVxZV94alhubXFzS1d4SFNiWEhZMFJicm1TU3NtbnNjVHBpMjRxSGx0SUo0YkRMamVhRFZLWlAxUVJtemlYc2VyRlpXUEMwVE5wNmxFRHhJ?oc=5",
+          "title": "US CDC report shows no evidence linking thimerosal-containing vaccines and autism",
+          "publisher": "The Mighty 790 KFGO"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ0lFR3lLYWdudEh0UzNEM19BenhjZ2NfckFDN3pQSzJKZzF1MkxRVzhvUGlMUVJwUFJOd0R5TlQ3Rk5aV2RsSVVVR2w4OTNpbWoyZWhlbzVwRWxvYUMzZFM2cVAwdFhKWm51b3VFU1JvblVFdEhYX1F4THNBWW92X0RGbWdwRUZDU0xWeC1yVS1vYUloVzJETGVkUTk4cXdTLXhlLWdDR1RMZnhxQkEyNWFreVZMbzJqekFsNGVVelpwT0t0LXRIcUtn?oc=5",
@@ -113,64 +139,46 @@
       ]
     },
     {
-      "title": "2 more adults diagnosed with measles, Utah health department says - KSL News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjNzY2dtRnd2eE9zQkxjdjNsY2JiVnlaX0ZZMmh3SXM0SnNYUGhycHlRbC1KREJCcGdKSU5XbzlGQ1o0R3R3VzZFUk5CeWo4UTZacFk0V1QwS2RCc3Zod2lXWEhiOUljRDJZNkh6N0d2Wm91bjlJMEhiXzg5YzA5WHZnVEViOFRjNC1aVVZPcjZyZ1Ewb0xFTkgyeG1DekZmN1NteQ?oc=5",
-      "published": "Tue, 24 Jun 2025 21:04:16 GMT",
+      "title": "Two new measles cases reported in Utah - The Salt Lake Tribune",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yQWhXdElBVWxiME9kUFZVM1hQUkNTWmljOURQdjYtanp6TldCQVNMSUFha1JPbFdhM3RNQ18wV0tzR0E5d3hGb2Y3bUVUTEVLN1FGOTVEWF93YVIwejN5aW1rOXBuN1haak5TMEFWclVTU1VybnBQZTg3OF8?oc=5",
+      "published": "Tue, 24 Jun 2025 20:29:47 GMT",
       "published_parsed": [
         2025,
         6,
         24,
-        21,
-        4,
-        16,
-        1,
-        175,
-        0
-      ],
-      "source": "KSL News",
-      "sub_articles": []
-    },
-    {
-      "title": "Mom Convinced Daughter with Cancer to Reject Chemotherapy, Family Claims. She Died 7 Months Later - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclV3ME5xYnFWY0dwei05WkY3SWktV0Z2bVczRlVUUmxBQWI1ZmVIQ0V6R3FsakFUd1NyNGdVZ1I4UnR0TGp0UjNvb20yUXR6SEJrWlY3NWQ2Y3l2eEdhRW5meEQwMnA1bVMzUldNUnlwZFJsOXFjSEdPcldZZS1nQmlBbkQ?oc=5",
-      "published": "Tue, 24 Jun 2025 21:29:56 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        21,
+        20,
         29,
-        56,
+        47,
         1,
         175,
         0
       ],
-      "source": "Yahoo",
+      "source": "The Salt Lake Tribune",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclV3ME5xYnFWY0dwei05WkY3SWktV0Z2bVczRlVUUmxBQWI1ZmVIQ0V6R3FsakFUd1NyNGdVZ1I4UnR0TGp0UjNvb20yUXR6SEJrWlY3NWQ2Y3l2eEdhRW5meEQwMnA1bVMzUldNUnlwZFJsOXFjSEdPcldZZS1nQmlBbkQ?oc=5",
-          "title": "Mom Convinced Daughter with Cancer to Reject Chemotherapy, Family Claims. She Died 7 Months Later",
-          "publisher": "Yahoo"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yQWhXdElBVWxiME9kUFZVM1hQUkNTWmljOURQdjYtanp6TldCQVNMSUFha1JPbFdhM3RNQ18wV0tzR0E5d3hGb2Y3bUVUTEVLN1FGOTVEWF93YVIwejN5aW1rOXBuN1haak5TMEFWclVTU1VybnBQZTg3OF8?oc=5",
+          "title": "Two new measles cases reported in Utah",
+          "publisher": "The Salt Lake Tribune"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15aWxvTldDZDJLaWpzY1dJcVE2Q3NrNmIwVkZLV1ZKb3BwZW1OMlFycGItU3AzLUY5elI1WVVLbVZBQy1NMUF0aVBDQWphQmdCQU81YVVWRHVPZw?oc=5",
-          "title": "'Our sister died of cancer because of our mum's conspiracy theories'",
-          "publisher": "BBC"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNl9jU3EzM3RBVlR6bDFpNk5EMk84MjNmUEczc0ZmVGgyZFpPQWNOVEJ2UzVoSnFrSDZMS2o3cUs2ZmhpMUZMb3FZWHdtbmY0OXNob09VMXNFU0llem94bmxRV2hNekZhZERDcmx0R3VrZWp2QTBTSm5lbVZTbk9WZlkzd0tsVTFWVmNCTHNhdVBzSlFlNW1tS1dXWUFlUFdUb0gtY0RtRU0?oc=5",
+          "title": "2 more adults in Utah diagnosed with measles, health department says",
+          "publisher": "KSL News"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWp0Z1dnVEV3RW52Y3R2SUM1Qll1dEtDRGFNUUFzUWdUZ2RaMW9GYlpxS19zMUxDc0prc1R1cVdSb2k3V25ZU3RaaXg1WVROeVhYTkZaTmVqcU5JcUdRemhxVkhXR2ZRdDVTcVp4TjY4TUpHWXNEYWF3RHVxSUVBVWZqbTBTajVjNURWNFNaOENrZ1BQeEJ5VA?oc=5",
-          "title": "Cambridge graduate ‘killed by mother’s anti-medicine conspiracy theories’",
-          "publisher": "The Telegraph"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUEhtSjNZaTlTVjN5YVRneEx3VWhfcktyNGxXRnlrOFZHZnRGMHFYSGFWQlJ0bmZDZHpEV2xTMUF6NGNLRjBMd1ZmV3RRYWliOHY3RmF4cHhwa1hWaF9IYnBpX1MzMnVwYjdoLXdaQmtZQzFkRGkydjMtZnpiSFRkMXJocXFJUHlB?oc=5",
+          "title": "Fry Sauce: Measles hits Utah",
+          "publisher": "Axios"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzJ2UlVQaXBaMHdBb2doM2RuNTNwUWs1aEE4RVNBSy1ZNW1jeWdwcjJXNWdyY1JOZWNqMDdHd3ZBNE9sX1Y5LXowUEt6UzJzY3RyTW8zRUs2cjItWDBQRWYzeExIVDBtREVvT05oSjhMMHc0dlRPM25UbzFvd0NldFFhUG82NGxVLW81a1R1N2VyS1FMQWlDeERTdlNhZGJBaGtuV9IBqgFBVV95cUxNRzhMX3BVb3JqQnpqQnM3ZG9pS0VIWUxEelRkeGhLXzAxTlY3Vk8zMXNrMkZBcVdIT01NdUhraGxSMHBrZndsZWszZHFoYVEzekx4UU1VQXIycC1kb01RS1dXNzBxU1VMeDAwSGxyaklDTHczZXBkRFl0a2FnYTEybTJ5R0cyYmZzWnRIZHp4TXBJRF9MY0VtTlZWcHdPTmQya1BDc2VwSTB2UQ?oc=5",
-          "title": "Cambridge grad daughter of notorious anti-vaxxer died of cancer age 23 after refusing treatment when she 'fell for mum's conspiracy theories', brothers claim",
-          "publisher": "Daily Mail"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVl1RDFqUHZzSHJwOFJxU0xvRmVCNWZyWjlYSW0yaTFFbFB3YkVaN0NSeFIxSml0NmJqYm9HQ2o2d1EtemxiczN5cEs5MFlrN1NKZkh6UC1QTjhzSm9CbWxRcnJKVjEtX1FBd2cyRXVzcFJVbXBIVEdmMXZtV1VNd21vdkdiWE55?oc=5",
+          "title": "Utah’s first measles case reported in Utah County",
+          "publisher": "KSLTV.com"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmZ1and0SE5pTUFLZ3lNYjRDWWpSVWQ0OG1BMkRuZDZ2OUI5Y0FwelRmem9ITWxVclFoR3V6NkNpTmpZMzVkd2ZnOFpMVFE0WHExcXlfVzdaTjlJTlpBczR6TlBKZkpqdVg1R0FwNmd3WTlyZFhBblJPamFyTm5MZFgyOVZ3V254UmJ6aGhsOUdRSHo4Z2JQU00zc0N6R0ZtemlXRm1PbG1Dcm5qWnRuMkhuQWNfbERyX00w?oc=5",
-          "title": "Episode 2091: The Richie Allen Show Tuesday June 24th 2025",
-          "publisher": "iHeart"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTAtUnZqd2ZHWnBMTU9UWE9kOFVjNjQ0QVpPbUFGeFlFZllyc1VrVWxnWk00ODBEOWJyM2VMQVZ6czg0dGxhV0c4cXQ0YmVuRzM2TEhuV3lkWURMY05zQkI5SGhBcnZHbnZNUGFfbEkyMEJhb01lUFpIanZQVXlBc2JVQ1M2eDc2NkltMUtYemFMdDNMMGVDREF3ekt6TEZxRDNJM1NQVWtZUQ?oc=5",
+          "title": "All 3 confirmed measles cases in Utah were unvaccinated",
+          "publisher": "FOX 13 News Utah"
         }
       ]
     },
@@ -202,19 +210,19 @@
           "publisher": "NBC News"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2lTUS1zSjZmakxZUE1NZHNnQ0czWFpOMnhmbW1DeklhTjQ0OTlKV2xpVUFDcmpuRlE0ekZHRXBvUl9oYjAwTWZDZTQzcF9zWjJva2R6eDZWT0ktaHRDMGpyQnpTcWw2ZVZ2Rk5YWXZUajFXdlRnRHVwdXR0VEdicS03b0QxZUpqN1NJU2NRaWR0VE0xV3NtS2ZCczlIRVFuYUw4N3MwdHJtc0o5MXUyeXFjNTByU1NUV1hJWHNn0gHDAUFVX3lxTE9rdUY1Y0dzUGRjU0tEay1zcWRELUE0YzRyeXh3X2tBVlhlNWpjZ2NFNWF5aEczV05uVVNyNXN3TzVncHhxaFBlWmFEa1Y2VVlyazVjMHhDMVRlcFZiZmpuSEo2WU85MmtFYk4tcXNiaGtsY0g2OUtmOVZJd214QzNZTGlMLV9KWi1GMm1BX0dyT2VKYUlmbGFBZ1NfQ3RES3V6cy1NTnAtUXhwQy1PT0JQdzFRNS1DSFZyRjBKS1lYM1IyMA?oc=5",
-          "title": "6 things to know about lenacapavir, what experts call a ‘wonder drug’ for preventing HIV",
-          "publisher": "PBS"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMXh0UzVQeXhQb1RxbHI3S2hMVWQzcGlOdzc2OEpqcE0yYUlMZWN2TF8tS2dfR1FkZ2J5VUtqQy1tc0RTdDNLMFdSSXQ0TXBTYmJUa2JpZjBaT1RHOE5ib2Z1UWF1VWlOT3pERE52VUgteVpMT3daMnFqNDJBR2FRcDV4azcwZzhpWm9YSnNVS2ZOM0d3NURxQklrRUd0clVrek1nUkdkNmFBWVBaR1RhWXJGVHJybDdsbzM2dg?oc=5",
-          "title": "2025 Warren Alpert Prize Honors Scientists Whose Discoveries Culminated in Novel HIV Treatment",
-          "publisher": "Harvard Medical School"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YWURfVmdsU0loa1UyaHRXck5oYUIyNXBJVzJoUHJ5MG5kYW9tVTVEcmpPY0wxZEd6a0FEbEdQaDI4Szc1WE9Od215UFRmM2ltVW1odUNaQm9NM2M4LWNvSV8tUEdkTV9yY0stS1ZhUHJQU2Rz?oc=5",
+          "title": "Regulators Approve a Twice-Yearly Shot to Prevent H.I.V. Infection",
+          "publisher": "The New York Times"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVHc5eUNFUnF4SXU2eFRRd0FJckhidjBIbVRWWTNaNWY5bmx2amRScG9HYm5rS1RIaHc0UmFHb2RSWWFGV1lESlpmZVBicVlEUTRrM1VsYU9Rd1l3OFR2RHUyWDVPUmN5c0RHczZ4QjNFTjRhdWkxTXNBWGVlM2J5dVFtNDJIV0pOOTZqT3NnUW9VU01rclp1Vm9LRGJ6UzQ?oc=5",
           "title": "The world's only twice-a-year shot to prevent HIV could stop transmission — if people can get it",
           "publisher": "AP News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWUMzZUwwTmpMRERPQzE1QkEtUEM5WXJMeXRULXNHek1XcjRMWERmbTdPTFBwY0RCbFdRbEwtbmpCazd4SUhqSFNGbHVtRlRSV0Nwa0xVcU1YTjJ5eDRPR3B1QUh5ZjFzUUx5ZG5CY3ZCa2d6M29La2s1VlMwUjJMVXNkZGk0TlRPV251Zlh3UndjLXN1NXfSAZYBQVVfeXFMUFBQRTF1djl4ZER2Mm15b3YxOERkN3c0bVk2by1Bc3c5RVZzWFc1RC1OVV9SQ25kUHFWamJ4XzNaR093RXd0eWR1WHhQamNITjdwYmc0bHNad3hIa3ZIX0xTRHU0cTNxS09iS2U3ZVp2UGVzdEVTM0hHUnVtUk9rbDFmOWQxcVJaNHo0VkhkWFZxaGN4TTVn?oc=5",
+          "title": "Wasted miracle? Concerns as revolutionary HIV drug approved",
+          "publisher": "DW"
         }
       ]
     },
@@ -251,58 +259,14 @@
           "publisher": "Times of India"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYlFKYmtmQm41b1dSdlhBYW1OTXVXaUpiRDl5X1FNYzBuNFQ1T1FGRDd3b1YydHJGV3NKSE9kRElkc0VZQy0tVDJUWWpUTU5vd2J1NFFSM3NvNGxHLW9FZVpNcGMtY2ZsX2U1N1ctaWZwQjB0Y1BCVkU4X3VHMVFvTWRweWh2WTNfSGdCc3lDcGNZS0VFSUh6cUJXcm9mUWJmZ1RJWERuZmc5Nm1xUDczb0hQc3FFUUlMVl83ZzFUQ2pLNV82eV9DZG4zekdhdHdObmR6ODcwT0RhMEM2?oc=5",
-          "title": "Texas measles outbreak stalls at 750 cases; only 2 counties report ongoing transmission",
-          "publisher": "Dallas News"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV2VSaU5OQl80aXFLNkhoV09wRlZpTUFaV1BPT0xTd1ZIak81UnM4Q21pWm5VendoTjR5MzFGcXc0SlRZY2N5WnJJNkEtdTY0UlhPTE9ETGk0U1JJbWRNakFfNFdWZldmS2VPSmtWUXdFd3IxZzAzeTFoc0FCOEFleS1fdENDVEpwYS1YcF9HVFdDbGhxbnVpbjJDMmVUUdIBsgFBVV95cUxQcFRlVHRZMnBNSVBZYVdRbGFaU3FTODZlYWthdTkwWWhfVGxOZl9QSWkzMzdkeURSS1E5UzcwUVpHOGRqcWhtS3F4Sm5iS3RKTW5felBCdU9yQXZxX2J5em9RQ0pFOEZkQjh0VVN2QXF0Umh6RmpNZ1BnUHNDQmJyRDVPeDhSQkdBMWYzYmF4WjlzVWhIOFp1OWlFYlVJU1BCa0UxWE5oc2VuWmhyektrSFNR?oc=5",
+          "title": "Measles Update: New case confirmed in Oklahoma, 750 total cases in Texas",
+          "publisher": "KSWO 7News"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVBMaWVSWEdHQmplaG56SmliT21yRU1qeDBWeF9VVTQwNWFOQUVGWmV2NTVsTkdlTUJaTnBRdXVJeHZmZ0hxVUVBdWcydFRRRnYyWDhoVWl2dnlZcDZKOHJWdGZrbW9EMnpfRFNBbUk0SjFuNVp6TXh5YVNYTGxoWVMwZDdRZHlrY2haOERuVlppTkZYTjltVFBaSERKVWJEQXpCTEVpeHNuVzhMYUkwcGJWeV9Ic2w1cDZ2a3hHVQ?oc=5",
           "title": "Measles Update: Number of active outbreak counties in Texas drops to two",
           "publisher": "Texas Public Radio | TPR"
-        }
-      ]
-    },
-    {
-      "title": "Oregon confirms first measles case of 2025, linked to international travel - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDZ3eTBjWk44R29yZUM3OGFVYlEtVVJBX0pIeU9lTnFXV1h5a0o5ZE1HelNhazIxTWVRM3Z3eUxXRXBIN0RQRDFDdlVyeG1xZ1drY3ZUZk03NXpTc1FFUm9UYUlnUmFCb3pyM1dkR2xhRzBFOFZCNkU4MktnbU5EdjBqWkVXR2xzcUFDSjRaM0ZmUTAycEhMMkdaZ210N3VRY1Q2ZjZOUUVFZTJaN1laYzBLUDZ1Q3RlakR0ZQ?oc=5",
-      "published": "Tue, 24 Jun 2025 21:02:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        21,
-        2,
-        0,
-        1,
-        175,
-        0
-      ],
-      "source": "OregonLive.com",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDZ3eTBjWk44R29yZUM3OGFVYlEtVVJBX0pIeU9lTnFXV1h5a0o5ZE1HelNhazIxTWVRM3Z3eUxXRXBIN0RQRDFDdlVyeG1xZ1drY3ZUZk03NXpTc1FFUm9UYUlnUmFCb3pyM1dkR2xhRzBFOFZCNkU4MktnbU5EdjBqWkVXR2xzcUFDSjRaM0ZmUTAycEhMMkdaZ210N3VRY1Q2ZjZOUUVFZTJaN1laYzBLUDZ1Q3RlakR0ZQ?oc=5",
-          "title": "Oregon confirms first measles case of 2025, linked to international travel",
-          "publisher": "OregonLive.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTFXLTY1bUVJZ3VSd0NYa2RTcWJTMHBFalF0azVXNU4tcEp0UFFLb1pIY0ZuR0ZYUVBPbUY4SktWWVVvYVBwMHh4bTRiTG5wQjdISHJyNXhjZk9kc0VJRjE5Z0ZnZjA3YjdadkhJc0N4bDg2dGtiM2dxSk96eDhiVXhBTdIBiAFBVV95cUxNWHE4bElNNHY0OHJHLUM2cV94RElGTnpoQTVQQzM5bExJNHdNX0ttX0taanFrQUhQcGh4Z2FkVF8taWtkTzl1emFnQXJwT0E0UkF5S2NWV1R4NVZwa0dDU21rZWNiWmN5eTJfX05fS0ZqcFdyZDZKc3ZQRVdNTExzQ1lLMmZYVnVL?oc=5",
-          "title": "Measles case recorded in Multnomah County: What we know",
-          "publisher": "KOIN.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZE9IWDFSRjB2dk5mTXVVcVdZb2dmeGwybmVabmQwLTVzRzFoZkhEdlBKbTU3dzZJbVBIN3YwLU5feWZ5TU15TnhSNnJ2aW52cFhPUEY0UU4xTml6V0FqN2N1Y25GeVh0dUtnZGhnVGE5Ym5LSWVSR3NhVVJmSnZfREM5SUUwc1VETV9NQzlIRzkxdmdIWTJfODZGRGphRzJISVhidFVkOWNqc0stYnN3VjcwQkNfZmtFN1J0Nkh5U2FkN1BhM1ctbzE2YXlZQU5ndUZIMXlRTTU3dw?oc=5",
-          "title": "Measles exposures possible from case detected in Multnomah County following travel abroad",
-          "publisher": "KGW"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUVVZSk0tMHdBZlZteHZJSExKU2dkMjB0U1U0cWViNFNGLUpYYzdBV0xVVkN2SFR1OVJqaDE3dlZyR3lKaS1BcWRxXzByUkZsUjBlajNNVUNON2JkRjE3MVZOSHFEUmwtQ3ZVMndRakRmVXlHT1pBT0JXeUFXdTVDNUhpUVB2d20waW94a215Z1lyaFXSAacBQVVfeXFMTTV4b21vQ01WLUlKZFhXakdFU19wNEFmZVUxZ2l3akpxSUxoUllaNnVrMThsdHk3TWpXRlJnSHE3M25GX184cEdCRnFXUlJKcDY0U3F0bl9lSEE4OTFNN2pVclA4QzN1WGoybS1LOHZzLUFONzhEZTdOMHRocTc3cEM1QU9SbXVhUTFOX2dDS0NfQnBwV0NpR21paUlGZTVIMzRjY2MtS2s?oc=5",
-          "title": "Multnomah County reports Oregon’s first measles case of 2025",
-          "publisher": "KPTV"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGpTRmhrT0k0b1pnV3l4NkZWUnAxYlJVb1JYTGRYck9Ta3ZwNl9IZ2d0VzhhRVdDRzg0QWc2NFBuMHUxZ0xrdGM0bEk5SmwteFc0VTZnakdxbXVJdWxOTFlXcmRmSUFQVXU0UlNSN2lxUDVna0pCUU1QdHpwSVM4VGQtanlVS29hcG9DUFN0Wk1tWVlWNDh2YmJvTU8zNGFI?oc=5",
-          "title": "Oregon confirms its first measles case of 2025, lists places of possible exposure",
-          "publisher": "Statesman Journal"
         }
       ]
     },
@@ -351,46 +315,46 @@
       ]
     },
     {
-      "title": "WHO Eyes Emerging COVID-19 Variant - Medscape",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMnFvUF9ja3V4MUJDYzNXR0ZrcUxnYU13andOSWVBcm04V2swbXB2YlU2UjBlU3Vqa3JlYWVHejZCYjkxRTltdUNKMjVXbWxDamtpYldNZ3pzZkh0STc3NTRpY0lQS3NSWnpnaElQZlZVR2NDNjFiQzAyZldBc0o0cXBqNUlQcGgxRGdSdw?oc=5",
-      "published": "Mon, 23 Jun 2025 09:29:06 GMT",
+      "title": "Oregon confirms first measles case of 2025 in Multnomah County - KCBY",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNZ0JtV2p5N2hFdkdTenJrNGd1NFV1UUFXSk1mVkdHNVVsY3JqTFh1Nkc3T3hrZ3h2MUswMHh1YkRObHJfSEJFd3V1cXRPWnVtTDNQSDV3TGdaOEJtYXV2QklOYkVnU1c4T2xEMC1hVWluWkVuakw3UlJDcHA5QlcyNDZNcXVNVXlQQ005cWU1d1NwSmxDNlNIREZnY1AxelFxWnI1YTRWWERfZFo0dHBLNGhfejVueG1rTTJVTnZjQnlIRExkSzN4bFB2Sm50eFFFVGljTzlxazN6d3BpdEJVN1hMLVo0Ti03SmpvNlRjRkNJVFd4dVp6blI1U21VU3dKVS1pSEpwVmwzOUowQ2V4cjNBMjlEWFI3dGRzNkVLbTc1dw?oc=5",
+      "published": "Tue, 24 Jun 2025 19:56:00 GMT",
       "published_parsed": [
         2025,
         6,
-        23,
-        9,
-        29,
-        6,
+        24,
+        19,
+        56,
         0,
-        174,
+        1,
+        175,
         0
       ],
-      "source": "Medscape",
+      "source": "KCBY",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMnFvUF9ja3V4MUJDYzNXR0ZrcUxnYU13andOSWVBcm04V2swbXB2YlU2UjBlU3Vqa3JlYWVHejZCYjkxRTltdUNKMjVXbWxDamtpYldNZ3pzZkh0STc3NTRpY0lQS3NSWnpnaElQZlZVR2NDNjFiQzAyZldBc0o0cXBqNUlQcGgxRGdSdw?oc=5",
-          "title": "WHO Eyes Emerging COVID-19 Variant",
-          "publisher": "Medscape"
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNZ0JtV2p5N2hFdkdTenJrNGd1NFV1UUFXSk1mVkdHNVVsY3JqTFh1Nkc3T3hrZ3h2MUswMHh1YkRObHJfSEJFd3V1cXRPWnVtTDNQSDV3TGdaOEJtYXV2QklOYkVnU1c4T2xEMC1hVWluWkVuakw3UlJDcHA5QlcyNDZNcXVNVXlQQ005cWU1d1NwSmxDNlNIREZnY1AxelFxWnI1YTRWWERfZFo0dHBLNGhfejVueG1rTTJVTnZjQnlIRExkSzN4bFB2Sm50eFFFVGljTzlxazN6d3BpdEJVN1hMLVo0Ti03SmpvNlRjRkNJVFd4dVp6blI1U21VU3dKVS1pSEpwVmwzOUowQ2V4cjNBMjlEWFI3dGRzNkVLbTc1dw?oc=5",
+          "title": "Oregon confirms first measles case of 2025 in Multnomah County",
+          "publisher": "KCBY"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQazA2VGRDTDZTUE9QVVNiTzZJRzd1aVlGdkFOVHdIUTZ3bDlmU3ZJaTM1dS0zeGYtYU9RQTRaRmRlZ0pXaWc3UjkyVVhiakMwMHc5MEJzVkxkNGUyZGZzUzFoajI2YVdaWGlPWFRRWDUyT3AtU184b0FFYVhQU0NJVVg2WVhMX0tBUFBJUklnLWtDWEo0ZGRKYkJqZ2N0OFE?oc=5",
-          "title": "A new COVID variant is spreading in the US: What are the symptoms?",
-          "publisher": "USA Today"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTFXLTY1bUVJZ3VSd0NYa2RTcWJTMHBFalF0azVXNU4tcEp0UFFLb1pIY0ZuR0ZYUVBPbUY4SktWWVVvYVBwMHh4bTRiTG5wQjdISHJyNXhjZk9kc0VJRjE5Z0ZnZjA3YjdadkhJc0N4bDg2dGtiM2dxSk96eDhiVXhBTdIBiAFBVV95cUxNWHE4bElNNHY0OHJHLUM2cV94RElGTnpoQTVQQzM5bExJNHdNX0ttX0taanFrQUhQcGh4Z2FkVF8taWtkTzl1emFnQXJwT0E0UkF5S2NWV1R4NVZwa0dDU21rZWNiWmN5eTJfX05fS0ZqcFdyZDZKc3ZQRVdNTExzQ1lLMmZYVnVL?oc=5",
+          "title": "Measles case recorded in Multnomah County: What we know",
+          "publisher": "KOIN.com"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5memdDQVluVHNndTNra3phV3p5c2dEN2dId1JVdk1jTFNieFQ4S05vT1BiWnpESzVORXJqbDNXYkxQS3ZPZXo4ME02bUdJNW9DNk5sZnA4VEZKU0ExRV94Z1BuWWdaUFpMRnRVZlVyZEFyTVJ1MWZnZmRWbnQzZ9IBgwFBVV95cUxOREtBRzNOOHhSdzJ6VjZ1LTAybTBJalZXOUhTbXhydElJMTNSQ1BWbVNDWkJsSWhNOUJGU3AxNTk2YXNRTTA3aUVxY2FuVzRvS19sMWIxbFVxNEZtcUlRX3VSd1dwLUl5RDVpcWd0Y0hBb2g1dnl4WUhKb1hGbzkweUlWOA?oc=5",
-          "title": "The new coronavirus variant surging in China has arrived in the US. Here’s what to know about Nimbus",
-          "publisher": "CNN"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZE9IWDFSRjB2dk5mTXVVcVdZb2dmeGwybmVabmQwLTVzRzFoZkhEdlBKbTU3dzZJbVBIN3YwLU5feWZ5TU15TnhSNnJ2aW52cFhPUEY0UU4xTml6V0FqN2N1Y25GeVh0dUtnZGhnVGE5Ym5LSWVSR3NhVVJmSnZfREM5SUUwc1VETV9NQzlIRzkxdmdIWTJfODZGRGphRzJISVhidFVkOWNqc0stYnN3VjcwQkNfZmtFN1J0Nkh5U2FkN1BhM1ctbzE2YXlZQU5ndUZIMXlRTTU3dw?oc=5",
+          "title": "Measles exposures possible from case detected in Multnomah County following travel abroad",
+          "publisher": "KGW"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSGpNYURwcVUzS1g2VGRRbWQ4VWxhcml0Zl96Zzd3SExsT1BPbEJzNUdnR1FxT3ZwMmdYQUhuYURXUnhkRVRfaWQ5UTZnTkEya1MwX01SR2RRclRNU0ZJc2lYYkxxQTJtWkUxbGpwYl9ZMUdRQjY2LXZjOVVhSHZkRXhuMTVhS2EyWGtBVDdiTktWZ0JkWGFWR3FmemNfeWc?oc=5",
-          "title": "New 'razor blade throat' COVID subvariant quickly gains ground in California",
-          "publisher": "SFGATE"
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNczhtSTlCSEZoWko3eXdmOHZaNDNZOU5WcHpkNlZ0ZFUwMjYxOTMxSkFmYWxhel9XcV9sZVdXV1ppUGFBUUMyQTNjaTBGTmZTTDRPMEctQmlaa0hZM2NOaEdtQm1SUVU0T3pNU0J1Y25lVkhFWkpIYV9MRmVkeXJvWldiUE5SM0FVUnpSVW40Q2Q?oc=5",
+          "title": "Oregon Health Authority confirms first measles case of 2025",
+          "publisher": "Oregon Public Broadcasting - OPB"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWVkZlphaEEzWTQ2UXJQRVFYc2FWWW9TaTNHQ2N3b1ZrdVJhejVETFJvMmJ0Y2xrV2NUVEpsSDZwTzBIU0R0LU81c3AtZjBCVGgxNzhFaU91ZGJ6Nm9LVlJId1pvTkNzYVpnbW9RUzktWU10X3VldnFzaHNiVHNIUzdxd3JWQkstdFVGUGRudTBPNXBCaUliS9IBngFBVV95cUxNVjdmWUh4Y0JXVnFfMW9kamstSmRyM2E1b0pMcDhvR0dpOFJOd3YxdGJiV25BZTJmakZmSnY2RmR1c0VHMG4xdVg1OFhUdk9yQmFpMkl0ZWxIRENrbXVEbTFzWkgtUVBOckxyemU3YU5DX1J4MTU1cFNRQXRza3VoMjNpa1Y5N1g0QTRuLWN4UHhleEpoYjBHLXc4NDFxQQ?oc=5",
-          "title": "New COVID variant may cause 'razor blade throat' — here's what to know",
-          "publisher": "Fox News"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDZ3eTBjWk44R29yZUM3OGFVYlEtVVJBX0pIeU9lTnFXV1h5a0o5ZE1HelNhazIxTWVRM3Z3eUxXRXBIN0RQRDFDdlVyeG1xZ1drY3ZUZk03NXpTc1FFUm9UYUlnUmFCb3pyM1dkR2xhRzBFOFZCNkU4MktnbU5EdjBqWkVXR2xzcUFDSjRaM0ZmUTAycEhMMkdaZ210N3VRY1Q2ZjZOUUVFZTJaN1laYzBLUDZ1Q3RlakR0ZdIB0AFBVV95cUxPODlSZ04tMWtPYkdNb1VLSHhMcXJlQXk3enlPR0V3LXFpMFJWV1NNb2xOQnZnLWd3UW1MdzFZeGZjUjNaSEVTcjdFRGxCTG1xajR6LTczM2taS2JKRVB1YWZmVjV2bHl6Y0xjYlgtVjZ5V2ZsUTBvdVc5NFhmTEVRVkwyVi13SlEtYmlHTWdxdFoxRGhnRFVXcXBNZ1Fic0ZfSVRkQmNOOUxBYXp2bGN3cm9uVk0yR2lYZnRwb3RIcG9xTElOOGJ6eGVIdlUtRmNy?oc=5",
+          "title": "Oregon confirms first measles case of 2025, linked to international travel",
+          "publisher": "OregonLive.com"
         }
       ]
     },
@@ -439,86 +403,6 @@
       ]
     },
     {
-      "title": "The truth about using cannabis for health problems - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZDFkYzZOZ1hLYU1DcElWMDBuRU40RmRPNjNHVk8zOVhXaTd4OFNKUzNab1ZaSnR3UkxDM214OWpGdnVWQk51S0paQWQxSndIWnhEU2JMTjdBR29scmpiTEprRnpsZENZSGhEM1NXdWttQ1ZZaXYydVdzTjBTd0ZfeVZsOWd6c0pZSHpYbVZzRXdFb1Q4?oc=5",
-      "published": "Mon, 23 Jun 2025 17:00:34 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        17,
-        0,
-        34,
-        0,
-        174,
-        0
-      ],
-      "source": "The Washington Post",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZDFkYzZOZ1hLYU1DcElWMDBuRU40RmRPNjNHVk8zOVhXaTd4OFNKUzNab1ZaSnR3UkxDM214OWpGdnVWQk51S0paQWQxSndIWnhEU2JMTjdBR29scmpiTEprRnpsZENZSGhEM1NXdWttQ1ZZaXYydVdzTjBTd0ZfeVZsOWd6c0pZSHpYbVZzRXdFb1Q4?oc=5",
-          "title": "The truth about using cannabis for health problems",
-          "publisher": "The Washington Post"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZGJOVnZFM2wtdGdwSkNMNVlvMk5XTVJZWFJKY1lzWmxMUC1nSTNSVDRyS2VJNnlKU2ZFcW5GTk9uc19vZTFIMUpRZ1FmODZnMmxCUXhrdVBZM0UycXh1MEJoZWVQRHpZaG5NT0JMdmt4cGE3RllHUWc1T2FScTRybDZoUWZ4b05EaVduMDhHeURuTUk?oc=5",
-          "title": "More Seniors Are Using Drugs—Here's Why It Matters | Opinion",
-          "publisher": "Newsweek"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2lSSm1SM2VKal9jYnpXM0lFVUxGZTFnc1FmNTA4NWhyczQ0ODlvVTVIMTd1Q185aXdqVXNoSlNvSjRTbF9QSm9xMjZCR21lWHBkazJkdzd1RTMxWDRNZ2ZsV01iUVRGZzNOa3N4eUsyR0Z1TUNfX1BDeGprLVlSa2RPdERjNWdMQ0FrUTk3SUQxV3puZ3NrbHdZeXdGYk0waHZLSkZYbGZYbzNYaFBfLUI3UXBLWS1PNWkxek83V1FlWVRNR3VENEwzOElqYzU1ZW1n?oc=5",
-          "title": "Cannabis use is at an all-time high for seniors. Doctors say people with dementia should skip it",
-          "publisher": "KJZZ"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0ZSc0s4QUtOd2kxVWthRDdyb2FTRVpmYVUyZ0hQWnQ5TExjSjZKVXNNblk5U1NrZmpkUEdXWXNmZTcyNWFka3JJMFB3QUxqZzhRcUJNVnQxMVU3REozN3lGdno1UmpvVnNGeHhkbUVvdUxVZ2I4bDRCdnFpLWtOeTBPbGk0dG03ejJGYVpRQVVvbWhIelJZTFh0akhoY0wtemY5SEZnUER1MUZDcVAxVDdPY0V2UDVpRWfSAb8BQVVfeXFMUFdLTmtnU1g0WFNCclk4N250RnFMREM5NGhELXBaR1p0UHlyMUNTNmpKdXl1M0ZJSm1YdmZDLTJ3RFMwZWp6OWlGd2tZWHRINEtTdTRrZmprTklfbGs1OHVsaTF0bzNvaXFYbTBXRnVLRUxGRmtrMVBWTjBJOUpSZC1RTUhDQl94SWVzZGsyOWd0cmE0N2tFWjQxTlZWdWczWVI1cUJ4OUVsYWdxeWZMN01RWXhPT2xDSWd3cnV5LTA?oc=5",
-          "title": "Troubling new findings identify serious impacts of cannabis on people over 55.",
-          "publisher": "Psychology Today"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRWtNeVAtN0lrYkEyc3BSMlJkQWg2R0tpcVRBT210Ti1qUnFTQmN5UjZ0eWpQX19XeUo3UHVWdzNLaURTNmlCdEhQMEQzSDVHNjdGYjdvZm94X092UkZFVFoyUTh6cmpCRFVoanFZQ0lWZnp3MmpHRXdvWHF6Rlo3b05ScmJPSFlfUmZqTElCdWkxaUJ1TGpiVkh5bEpEN3hVeHd0dS1PbEVubFpwUUV0WWkzd2RvY3YtaXhN0gHPAUFVX3lxTE5DUEt5NGREWFdfcUd4NGIwTXR0dXl4ZV93djRoaTlPWmg1ZDR3aE1QUFVNOTNvSktKaG1jQmRCa3RyT29ES25iVmJrd2szMXRZQXR5czdrblhJeGpNMHdSdkJTQnB5eV9CeTJHc0JQLVVHTU1yemNCYjZKSlRVcWxOQV9WRGJ1eGFnTUpPSm5EcDc0RzZWbzBwc3IzS2pEbmNHUFZGSmpEZVcxUVBQWi01U2xBLXE4TjcxbGFvMmJzVElVZVVCRFdoMlRvMkFoVQ?oc=5",
-          "title": "Cannabis use in older adults: 7% of seniors now regular users, research shows",
-          "publisher": "Cleveland.com"
-        }
-      ]
-    },
-    {
-      "title": "Your Vision Can Predict Dementia 12 Years Before a Diagnosis, Study Discovers - ScienceAlert",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekFGNDVMd2hrWHV2eU1RTENMU2trWXBEVGZQOGxkajlhejUyMURubU5XQzh1YTRJQi0wT09CVzRheGVWSzc4a25IOHJZQUhmbWZOVEhxdUxtWWg4cW1IbFNxRlltcnc4RHg2VUZ2Vm4yNTl3cm1wanhrWDNQcGVJOVhMZ3hJdzZlQk41Z3NoT0pHYXJpQ1pGV1JzVHo1TXRWdXJzRUdJVU0?oc=5",
-      "published": "Tue, 24 Jun 2025 23:30:45 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        23,
-        30,
-        45,
-        1,
-        175,
-        0
-      ],
-      "source": "ScienceAlert",
-      "sub_articles": []
-    },
-    {
-      "title": "Can adult tummy time undo the dreaded ‘tech neck’ that comes from hunching over a screen? - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWnJLYklDMS1HWHR2SHR0TnlKWjVFWFFWaDBKQXdBSU5xSF9yZ2lxUnNGckdpT0J4OTdrZ0t3Nlkyd2RUQVhGU0tzTWdrU0JqRm4tS2pLVWJ6RmI5QllBYnZpYlRjUzFaUVhwVnVNR2NOZ0tlbU9nVGFidnVrYmdfYWxvTkF2NWcxNGM4TldmM3lrTTJ0ZDI5TkdwZXllUW1CY0ZzYnlCQmxaUmFvWm9DcG9lQllPcXpjanFZWGlkbVoyY1RnTC10aVBIa2JTWFl4eHlaOFE5Yw?oc=5",
-      "published": "Tue, 24 Jun 2025 21:59:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        21,
-        59,
-        0,
-        1,
-        175,
-        0
-      ],
-      "source": "The Guardian",
-      "sub_articles": []
-    },
-    {
       "title": "Where in Maine are you most likely to get a dangerous tick bite? - The Portland Press Herald",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVJBWXJYR0dqbDNqd3hUbUhKd2hTMlJnNDZaUGRhZzlOVTIxampWNnJnX0s1RGV0VUo1M1E3THhUWFpqLWtieG5VeHRfSDVwUUUtUkdYSjVXd1ZZU04zLUxqd28wN1RxV0hWcHlvUk52ZWR1RlBBZkwyRUNnaVFJNFlzLUdhaXZ4Y0lzd2FLSUdUWlhfOG9MZGJXa2hLYnpWNUljWG9R?oc=5",
       "published": "Mon, 23 Jun 2025 16:36:08 GMT",
@@ -563,25 +447,139 @@
       ]
     },
     {
-      "title": "RFK Jr. Admits He Knows Nothing About Actually Treating Measles - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4MmhpcFRXNWdXb3RGMl9HYUdhRVpzdnk1SWdGTS0tN2tlcHkzM2tEbERqWFg3YWFZOHdxS1l0X1NwRXZGUS1JdHM3SVdIa0ZYV1BWeTlUUFZKREpmaVU0NkNweWFIZ1ZzR01QUU5sUExadVRTWGtTYQ?oc=5",
-      "published": "Tue, 24 Jun 2025 19:09:42 GMT",
+      "title": "The Obsession With 'Toxic' Ingredients Has Started A Dangerous Lie About Sunscreen. Here's What To Know. - HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc2lNVnpoeDhkaHF3ei02cmZHeGxacDFOZXVNNGxMdkZwYTBhZkJDZm5nckpZOHhFcFJsTmRtSXo1RXItMFRpR1I5S0pNb19VUmZBVGItM01WNzV5X0FqZV9vYy1WdjZXOWJocllOTVRTX19rekV0a1RoQThqM2NZbkdlWkZwbEJaRldqSlpUcWdPQdIBlwFBVV95cUxNZ3huX1NQOTJaYXlVU2VYUEpGWFFwX3JIVEM5NTA3MVYzWjJoWXRPSWtPYlUxN0I1S2FReTVsUjROX2JZR2xBUTU1d19EeTZBVEhmejA1eXdmSGJWd0xBOHJ3bU5leWx5VVM1YkhiWlRhQWdNc2NDTWdkeFlJeEZhNFktdzBZUm5VeVlBTHE1Yy1MSUxtYnUw?oc=5",
+      "published": "Mon, 23 Jun 2025 11:00:17 GMT",
       "published_parsed": [
         2025,
         6,
-        24,
-        19,
-        9,
-        42,
-        1,
-        175,
+        23,
+        11,
+        0,
+        17,
+        0,
+        174,
         0
       ],
-      "source": "Yahoo",
-      "sub_articles": []
+      "source": "HuffPost",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc2lNVnpoeDhkaHF3ei02cmZHeGxacDFOZXVNNGxMdkZwYTBhZkJDZm5nckpZOHhFcFJsTmRtSXo1RXItMFRpR1I5S0pNb19VUmZBVGItM01WNzV5X0FqZV9vYy1WdjZXOWJocllOTVRTX19rekV0a1RoQThqM2NZbkdlWkZwbEJaRldqSlpUcWdPQdIBlwFBVV95cUxNZ3huX1NQOTJaYXlVU2VYUEpGWFFwX3JIVEM5NTA3MVYzWjJoWXRPSWtPYlUxN0I1S2FReTVsUjROX2JZR2xBUTU1d19EeTZBVEhmejA1eXdmSGJWd0xBOHJ3bU5leWx5VVM1YkhiWlRhQWdNc2NDTWdkeFlJeEZhNFktdzBZUm5VeVlBTHE1Yy1MSUxtYnUw?oc=5",
+          "title": "The Obsession With 'Toxic' Ingredients Has Started A Dangerous Lie About Sunscreen. Here's What To Know.",
+          "publisher": "HuffPost"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVkJLNUZTNEwwaXBoY3RvMGRyZExBRkhGZ1FnUHFJbG00MUlJT3gxMWlLclAtU3dhQUdXMnE5bDlhY0NxQjluVDlKTDRnbkxlZEgwZmhqaUNVRXBpbzJQblpGMHdhME5iZEo3YUhfNHpuN2RYUzNXNHdodF9namVsLXF0YlpPNkpuY0RDbEZzbVd2bjdON2gweHdRVGtxNHBOYlhMQTFHS00xNXpqNjI0V0FQeVREdzFoN2dLTVRzdml1eUszeDB0eExQcnRsRWZ1WWxrQUNvcmZzWEFQOFhET1I4VzZmT29keTItMDUtODdVQQ?oc=5",
+          "title": "Dermatologist advise to use caution when outside in the sun this summer",
+          "publisher": "Twin States News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UX05vTmNpWHVqVEJUdm51OUU5SUdJOHpTZnB0Z1dtQW9DLWtWdmJ0ZDNRWjlqUXhqV1NfTmZvRDZaRFF4NGowSDhENklTY3h4MHFHSXd2NWVSLVFaQ3N6SWs2WGF0Zw?oc=5",
+          "title": "Summer’s dark side",
+          "publisher": "WSU Insider"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53a0lxQkFtUkhqT3d1a25XTXBGaWNUc1pGQWxCREhLRUUyN2ZFem5CUENtZ3lHOVRHRWZLdXB0Zk81SjY0SFNjamJ0OHBtWUphM3pCWmYyYlNBdw?oc=5",
+          "title": "TYH: Sunscreen",
+          "publisher": "CKPG Today"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zX08yMGx0dU1ISDgxQkd4RURNb21LbVlTZUZvS0xCZ01sS0Q2amNLVjB6VmRjVG1HT0EtNGl6ZWxJaVMxMFllUWpNcGlTLVRxbHZZem9CMHU0TXRlX0pCbE5QcDhrWWx3SVdpSUwyVVRYN0xsYVFYTA?oc=5",
+          "title": "What does science say about sunscreen? Stanford Medicine experts apply the facts",
+          "publisher": "Stanford Medicine"
+        }
+      ]
     },
     {
-      "title": "5 Simple Ways To Flush Out Damaging Excess Cortisol - Vogue",
+      "title": "The truth about using cannabis for health problems - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZDFkYzZOZ1hLYU1DcElWMDBuRU40RmRPNjNHVk8zOVhXaTd4OFNKUzNab1ZaSnR3UkxDM214OWpGdnVWQk51S0paQWQxSndIWnhEU2JMTjdBR29scmpiTEprRnpsZENZSGhEM1NXdWttQ1ZZaXYydVdzTjBTd0ZfeVZsOWd6c0pZSHpYbVZzRXdFb1Q4?oc=5",
+      "published": "Mon, 23 Jun 2025 17:00:34 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        17,
+        0,
+        34,
+        0,
+        174,
+        0
+      ],
+      "source": "The Washington Post",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZDFkYzZOZ1hLYU1DcElWMDBuRU40RmRPNjNHVk8zOVhXaTd4OFNKUzNab1ZaSnR3UkxDM214OWpGdnVWQk51S0paQWQxSndIWnhEU2JMTjdBR29scmpiTEprRnpsZENZSGhEM1NXdWttQ1ZZaXYydVdzTjBTd0ZfeVZsOWd6c0pZSHpYbVZzRXdFb1Q4?oc=5",
+          "title": "The truth about using cannabis for health problems",
+          "publisher": "The Washington Post"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZGJOVnZFM2wtdGdwSkNMNVlvMk5XTVJZWFJKY1lzWmxMUC1nSTNSVDRyS2VJNnlKU2ZFcW5GTk9uc19vZTFIMUpRZ1FmODZnMmxCUXhrdVBZM0UycXh1MEJoZWVQRHpZaG5NT0JMdmt4cGE3RllHUWc1T2FScTRybDZoUWZ4b05EaVduMDhHeURuTUk?oc=5",
+          "title": "More Seniors Are Using Drugs—Here's Why It Matters | Opinion",
+          "publisher": "Newsweek"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2lSSm1SM2VKal9jYnpXM0lFVUxGZTFnc1FmNTA4NWhyczQ0ODlvVTVIMTd1Q185aXdqVXNoSlNvSjRTbF9QSm9xMjZCR21lWHBkazJkdzd1RTMxWDRNZ2ZsV01iUVRGZzNOa3N4eUsyR0Z1TUNfX1BDeGprLVlSa2RPdERjNWdMQ0FrUTk3SUQxV3puZ3NrbHdZeXdGYk0waHZLSkZYbGZYbzNYaFBfLUI3UXBLWS1PNWkxek83V1FlWVRNR3VENEwzOElqYzU1ZW1n?oc=5",
+          "title": "Cannabis use is at an all-time high for seniors. Doctors say people with dementia should skip it",
+          "publisher": "KJZZ"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0ZSc0s4QUtOd2kxVWthRDdyb2FTRVpmYVUyZ0hQWnQ5TExjSjZKVXNNblk5U1NrZmpkUEdXWXNmZTcyNWFka3JJMFB3QUxqZzhRcUJNVnQxMVU3REozN3lGdno1UmpvVnNGeHhkbUVvdUxVZ2I4bDRCdnFpLWtOeTBPbGk0dG03ejJGYVpRQVVvbWhIelJZTFh0akhoY0wtemY5SEZnUER1MUZDcVAxVDdPY0V2UDVpRWfSAb8BQVVfeXFMUFdLTmtnU1g0WFNCclk4N250RnFMREM5NGhELXBaR1p0UHlyMUNTNmpKdXl1M0ZJSm1YdmZDLTJ3RFMwZWp6OWlGd2tZWHRINEtTdTRrZmprTklfbGs1OHVsaTF0bzNvaXFYbTBXRnVLRUxGRmtrMVBWTjBJOUpSZC1RTUhDQl94SWVzZGsyOWd0cmE0N2tFWjQxTlZWdWczWVI1cUJ4OUVsYWdxeWZMN01RWXhPT2xDSWd3cnV5LTA?oc=5",
+          "title": "Troubling new findings identify serious impacts of cannabis on people over 55.",
+          "publisher": "Psychology Today"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRWtNeVAtN0lrYkEyc3BSMlJkQWg2R0tpcVRBT210Ti1qUnFTQmN5UjZ0eWpQX19XeUo3UHVWdzNLaURTNmlCdEhQMEQzSDVHNjdGYjdvZm94X092UkZFVFoyUTh6cmpCRFVoanFZQ0lWZnp3MmpHRXdvWHF6Rlo3b05ScmJPSFlfUmZqTElCdWkxaUJ1TGpiVkh5bEpEN3hVeHd0dS1PbEVubFpwUUV0WWkzd2RvY3YtaXhN0gHPAUFVX3lxTE5DUEt5NGREWFdfcUd4NGIwTXR0dXl4ZV93djRoaTlPWmg1ZDR3aE1QUFVNOTNvSktKaG1jQmRCa3RyT29ES25iVmJrd2szMXRZQXR5czdrblhJeGpNMHdSdkJTQnB5eV9CeTJHc0JQLVVHTU1yemNCYjZKSlRVcWxOQV9WRGJ1eGFnTUpPSm5EcDc0RzZWbzBwc3IzS2pEbmNHUFZGSmpEZVcxUVBQWi01U2xBLXE4TjcxbGFvMmJzVElVZVVCRFdoMlRvMkFoVQ?oc=5",
+          "title": "Cannabis use in older adults: 7% of seniors now regular users, research shows",
+          "publisher": "Cleveland.com"
+        }
+      ]
+    },
+    {
+      "title": "Our sister died because of our mum's cancer conspiracy theories, say brothers - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15aWxvTldDZDJLaWpzY1dJcVE2Q3NrNmIwVkZLV1ZKb3BwZW1OMlFycGItU3AzLUY5elI1WVVLbVZBQy1NMUF0aVBDQWphQmdCQU81YVVWRHVPZ9IBX0FVX3lxTE9tUDc1QzdwbGpvV3lWd3RsbUY4QllYZ3dYZWlac1NOTXBfUmJEN3NjXzFYOWdKLTB3QUt3UDQtYzR6VU5aS3JuR0ZiUUItNUNBZXdvYXh5NS1YancyQXE4?oc=5",
+      "published": "Mon, 23 Jun 2025 05:00:05 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        5,
+        0,
+        5,
+        0,
+        174,
+        0
+      ],
+      "source": "BBC",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15aWxvTldDZDJLaWpzY1dJcVE2Q3NrNmIwVkZLV1ZKb3BwZW1OMlFycGItU3AzLUY5elI1WVVLbVZBQy1NMUF0aVBDQWphQmdCQU81YVVWRHVPZ9IBX0FVX3lxTE9tUDc1QzdwbGpvV3lWd3RsbUY4QllYZ3dYZWlac1NOTXBfUmJEN3NjXzFYOWdKLTB3QUt3UDQtYzR6VU5aS3JuR0ZiUUItNUNBZXdvYXh5NS1YancyQXE4?oc=5",
+          "title": "Our sister died because of our mum's cancer conspiracy theories, say brothers",
+          "publisher": "BBC"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWp0Z1dnVEV3RW52Y3R2SUM1Qll1dEtDRGFNUUFzUWdUZ2RaMW9GYlpxS19zMUxDc0prc1R1cVdSb2k3V25ZU3RaaXg1WVROeVhYTkZaTmVqcU5JcUdRemhxVkhXR2ZRdDVTcVp4TjY4TUpHWXNEYWF3RHVxSUVBVWZqbTBTajVjNURWNFNaOENrZ1BQeEJ5VA?oc=5",
+          "title": "Cambridge graduate ‘killed by mother’s anti-medicine conspiracy theories’",
+          "publisher": "The Telegraph"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzJ2UlVQaXBaMHdBb2doM2RuNTNwUWs1aEE4RVNBSy1ZNW1jeWdwcjJXNWdyY1JOZWNqMDdHd3ZBNE9sX1Y5LXowUEt6UzJzY3RyTW8zRUs2cjItWDBQRWYzeExIVDBtREVvT05oSjhMMHc0dlRPM25UbzFvd0NldFFhUG82NGxVLW81a1R1N2VyS1FMQWlDeERTdlNhZGJBaGtuV9IBqgFBVV95cUxNRzhMX3BVb3JqQnpqQnM3ZG9pS0VIWUxEelRkeGhLXzAxTlY3Vk8zMXNrMkZBcVdIT01NdUhraGxSMHBrZndsZWszZHFoYVEzekx4UU1VQXIycC1kb01RS1dXNzBxU1VMeDAwSGxyaklDTHczZXBkRFl0a2FnYTEybTJ5R0cyYmZzWnRIZHp4TXBJRF9MY0VtTlZWcHdPTmQya1BDc2VwSTB2UQ?oc=5",
+          "title": "Cambridge grad daughter of notorious anti-vaxxer died of cancer age 23 after refusing treatment when she 'fell for mum's conspiracy theories', brothers claim",
+          "publisher": "Daily Mail"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmZ1and0SE5pTUFLZ3lNYjRDWWpSVWQ0OG1BMkRuZDZ2OUI5Y0FwelRmem9ITWxVclFoR3V6NkNpTmpZMzVkd2ZnOFpMVFE0WHExcXlfVzdaTjlJTlpBczR6TlBKZkpqdVg1R0FwNmd3WTlyZFhBblJPamFyTm5MZFgyOVZ3V254UmJ6aGhsOUdRSHo4Z2JQU00zc0N6R0ZtemlXRm1PbG1Dcm5qWnRuMkhuQWNfbERyX00w?oc=5",
+          "title": "Episode 2091: The Richie Allen Show Tuesday June 24th 2025",
+          "publisher": "iHeart"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMnQtUEtWTkptN2VWcmF2cWlSLUJsVFFBcFpoU2s0aEJiNk5TNGNWTkVPbHVJTDVRaTdETTZ3S2Y5Ri0xcHAtQlNqbzEtVVRZa2x5VXp4b3EtQjRHRlZTX1dqVGdmbjhBOHQxZTlveGpkQ2VtVUxSdElBSm1ZUml1M0dBc0lobExvSnVhVkJJTQ?oc=5",
+          "title": "Anti-vaxxer who 'encouraged daughter to refuse chemo' defies belief - but toxic views are still spreading far and wide",
+          "publisher": "The Sun"
+        }
+      ]
+    },
+    {
+      "title": "5 Simple Ways To Flush Out Damaging Excess Cortisol - vogue.com",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAydXc4ZUN1T0xTbUpHY3pRSTNmd0NqTC1ZU1R4blBXVkpyUEY3TnFZeVZKZEVSdTVEUzJJN3dLN3RNMlNoU1NLWHdLRUFyc09BTmxlbDY4djJlQXN0Zk5DM2E3eVpzajZGakZR?oc=5",
       "published": "Tue, 24 Jun 2025 10:00:00 GMT",
       "published_parsed": [
@@ -595,17 +593,17 @@
         175,
         0
       ],
-      "source": "Vogue",
+      "source": "vogue.com",
       "sub_articles": [
         {
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAydXc4ZUN1T0xTbUpHY3pRSTNmd0NqTC1ZU1R4blBXVkpyUEY3TnFZeVZKZEVSdTVEUzJJN3dLN3RNMlNoU1NLWHdLRUFyc09BTmxlbDY4djJlQXN0Zk5DM2E3eVpzajZGakZR?oc=5",
           "title": "5 Simple Ways To Flush Out Damaging Excess Cortisol",
-          "publisher": "Vogue"
+          "publisher": "vogue.com"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KdE02SDhlQ0F1X1NsQmxQM2lsai15QkFvLUVrYnJXV3dtMTY1TXdtSmZIeGIzZ3dLeUZyeFkzWEtaRTViUlBoSTctOGs0VkxIOEZVOGtyMS1rNHYzNWxmXw?oc=5",
           "title": "The “Cortisol Cocktail” Isn't Just Delicious—It Also Works",
-          "publisher": "Vogue"
+          "publisher": "vogue.com"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02dDhlWVR0UkFKVkdsRzQzZTRrZkhITm44MlRIQjJUNEFiel9pb3V5eHd3X3BsYmk1bl9ZdW1IcWZsS2tiZ25ZYXFYcjJQNklLdHBYbVZKdVIyUQ?oc=5",
@@ -623,6 +621,24 @@
           "publisher": "HOLA"
         }
       ]
+    },
+    {
+      "title": "Your Vision Can Predict Dementia 12 Years Before a Diagnosis, Study Discovers - ScienceAlert",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekFGNDVMd2hrWHV2eU1RTENMU2trWXBEVGZQOGxkajlhejUyMURubU5XQzh1YTRJQi0wT09CVzRheGVWSzc4a25IOHJZQUhmbWZOVEhxdUxtWWg4cW1IbFNxRlltcnc4RHg2VUZ2Vm4yNTl3cm1wanhrWDNQcGVJOVhMZ3hJdzZlQk41Z3NoT0pHYXJpQ1pGV1JzVHo1TXRWdXJzRUdJVU0?oc=5",
+      "published": "Tue, 24 Jun 2025 23:30:45 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        23,
+        30,
+        45,
+        1,
+        175,
+        0
+      ],
+      "source": "ScienceAlert",
+      "sub_articles": []
     },
     {
       "title": "A Deadly Tomb Fungus May Have Yielded a Killer Leukemia Treatment - Good News Network",
@@ -652,19 +668,19 @@
           "publisher": "Nature"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4LXg4WUlhdmc1RE01cVZzNTlXUUZKUzdYc2VtWVRqYXZnZEZ0OFJEWGRvWjBZVHRTRUd4Nkd3eURwRnozLTFlX3FDbGFUWnFZX1BOb053NTRvOWVhb3pvbHdsczNTRllFWWV4QWRGa2V2ZGvSAXJBVV95cUxPMkhWWVVMaUxTMTJXdDV1SUM1TmVJaktBMnVJZEtJdlNTZ1I3YXNXSWM5TlVnV3Mta0VtSGRWU0h6azh1cTUyeFF4ZklyR0w5ZHFZTTE5SWU1Q2txY0ZVNTdIa3lyNDFHS3VScThSSjJUZFE?oc=5",
-          "title": "Engineers turn toxic ancient tomb fungus into anti-cancer drug",
-          "publisher": "Phys.org"
-        },
-        {
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa0I5OGV4RXFocEUwYXFocTFZQ2M2YW9JenJMWDZ0SGo4ZTVuMndZNHRqM0dwZ1ZDN0lFdXV1bWVxUE1obWRiclBMUDF2WGprR3NKN181elg1UDJnTDFhbXFWbmZ1cTYxZVNKUFNvUzRQZXYwbWdES3JRdURfeVNSclZHdmlSQXJjQ2wtVGRyMTVfdm9C?oc=5",
           "title": "Ancient ‘pharaoh’s curse’ could be used to fight cancer: ‘It’s up to us to uncover its secrets’",
           "publisher": "New York Post"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOXVjYVBId3J3ZURsRnotMzlpdGVFUGMzUzVKa2V5ZDk3OG5VbU16akpLZzFoZnptVVF5cDJDQUJtejlNX3lUa3B3cEdwdTlVWjl6c29WcHcxLWc1SlctSUV6RkYtckZRNlZ2VTNlVldIVlJNRmhXMmltVGF0S3NlVktWdF9FS3UxQXZQTjJNY1ZSSFJtNVphaXF1TGVZcUtLYVFiaEdvMVFrZm9YLTBQQ09tRQ?oc=5",
-          "title": "Potent Anti-Cancer Compounds Identified in Deadly Fungus",
-          "publisher": "Inside Precision Medicine"
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4LXg4WUlhdmc1RE01cVZzNTlXUUZKUzdYc2VtWVRqYXZnZEZ0OFJEWGRvWjBZVHRTRUd4Nkd3eURwRnozLTFlX3FDbGFUWnFZX1BOb053NTRvOWVhb3pvbHdsczNTRllFWWV4QWRGa2V2ZGvSAXJBVV95cUxPMkhWWVVMaUxTMTJXdDV1SUM1TmVJaktBMnVJZEtJdlNTZ1I3YXNXSWM5TlVnV3Mta0VtSGRWU0h6azh1cTUyeFF4ZklyR0w5ZHFZTTE5SWU1Q2txY0ZVNTdIa3lyNDFHS3VScThSSjJUZFE?oc=5",
+          "title": "Engineers turn toxic ancient tomb fungus into anti-cancer drug",
+          "publisher": "Phys.org"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HTHlfOFUtNWg0WWtjUXVEZ2tsaW1GbXIyanJtT0M0eW8yQjVDWTRMSUpwNk51UUlIaTJIbmVtMW1rWVgtSEFjR1g1Q0NMR2J0a0p2WkRpYTgxU1dB?oc=5",
+          "title": "Fungus associated with Tutankhamun's tomb, Pharaoh's curse turned into cancer treatment",
+          "publisher": "The Jerusalem Post"
         }
       ]
     },
@@ -687,22 +703,48 @@
       "sub_articles": []
     },
     {
-      "title": "Terrified mom wakes up with all of her limbs amputated after catching two common infections at the same time - Daily Mail",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNlhiVVVEMGpZbTNPZDRXLVFyMjE4VTJ4emRwVUp0aVZhaVI4UF82NVF5TFBpeHpmeXNRN1RoZEFrOVlsdkNPTHg2YXpyUWxXWTNyaDEtcFo4SnZrZjJ1bjJ5YktOcWFJOHp0b2ZEVGJxSERQU1lwa2xWMG1JeGN3VXBLQ05FdkFsTUQ4V2FqVEdGLTltQlNHcHZYandVX3RUaHB1Y3NodVRDdFg5S2lEQ08xeE1xbEhnR1FCNUR2Nzd1QmZYRGQw0gHMAUFVX3lxTE9xNE5UWEJxN1hOWk5nekNqc3FZZXZncjlsSlo1dElyeVV6ZEVLbnoyTmZ0bGZsSzdJUG5pSzRsMmYzT055WjE5a1NvVF9kSlI0aFJ6R1BYLWJRcGJsa1ZIREp2RnBFU1lkaVhSRjlMWmp4MzFKekt3a0VxeDJHYjJ6N3VCM0l6R0h2b25zaERKOXo4SG9DMWZZQkEyN1JnbVJwRVZEalQxa3ZOUUdYdDJVR0M3dnhnWXJIbE10UGNhWmV5Mjh3NjVrLWpSZw?oc=5",
-      "published": "Tue, 24 Jun 2025 17:14:08 GMT",
+      "title": "Virus Discovery Among Bats in China Fruit Orchards Draw Exposure Concerns - ScienceAlert",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGFzdmtaTXQyMFgyRUcwRDc4N0Vzd0laOHB1Q1p0bnE2V2pSSjAtZ094TUJnbW0wMm1RYlVmVjdfV1F5V0tsQWkwNmRHTFJFRjZ4RWVycmZjQ0lDdWEtbHFMWTBpc1EzOGN0RGhvTG5zempqTmFVeHJCb1NsMG5vazRYWEZkY1ZwNkFOQ3RjT1JNc2VwdWIxVDlnb1ZGRDNnZ1B4eQ?oc=5",
+      "published": "Tue, 24 Jun 2025 18:01:30 GMT",
       "published_parsed": [
         2025,
         6,
         24,
-        17,
-        14,
-        8,
+        18,
+        1,
+        30,
         1,
         175,
         0
       ],
-      "source": "Daily Mail",
-      "sub_articles": []
+      "source": "ScienceAlert",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGFzdmtaTXQyMFgyRUcwRDc4N0Vzd0laOHB1Q1p0bnE2V2pSSjAtZ094TUJnbW0wMm1RYlVmVjdfV1F5V0tsQWkwNmRHTFJFRjZ4RWVycmZjQ0lDdWEtbHFMWTBpc1EzOGN0RGhvTG5zempqTmFVeHJCb1NsMG5vazRYWEZkY1ZwNkFOQ3RjT1JNc2VwdWIxVDlnb1ZGRDNnZ1B4eQ?oc=5",
+          "title": "Virus Discovery Among Bats in China Fruit Orchards Draw Exposure Concerns",
+          "publisher": "ScienceAlert"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd1VGaEhIZXNvOGlDaWYwY3p5UnF6NTNmZTM5TldwOEdSSURHd1gtN2U3ZDE5X1l1Z2dwTV82aWo3UWZKTXRQM184anYyWDBsLW5XQ1Z5UGZ1a0FCU3RpZ1NtWV9XdUF5bWc0eHRjZTBjVEw2TUU2c2NtY3haOTZESHlDTC13OUpqVGQyYk9HZkVXVDJiWEVlR2dUNFUyUGhUV0tubkJUeURFWlZOdno2VVQzOA?oc=5",
+          "title": "Viruses Related to Deadly Human Diseases Found in Chinese Bats",
+          "publisher": "Bloomberg.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT3I4S0xUVEpUMmRKcVo1Nk5MZzZURndLbW5lUE0tdXZZWEpWOEE5eTBBYmhVZy1YUEUtVlphVDBPQjRaSnk4RzNkU0U4cXdvc0EwS0MwLW1taDJfQUNtbTJVREFSdmpqR0tIUXlfakUwYmYwcC1nVjgxMjBIU2dVSFI4RHY0b1drYWJsMDY4MHVIbDJQMncxeWdxdFBCN0JMaERMUUxPcHFnb1p0ZHVTOTl4YXRTTzJEYVduQV9kajU4TGVmNDE5ZHhuNEhjTmJmYUs1VzdoNm9DdV9jclE?oc=5",
+          "title": "Scientists discover new ‘brain-inflaming’ bat viruses in China, raise ‘urgent concerns'",
+          "publisher": "Hindustan Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeUQ1cm1tbmZ3TEZkQ0xMdEFqVXRSSzgyQ2VFOTdWVjFpM1BRR0ZxMmVOOXVxazNTOHpiZUtzSXFPVTBndElVcEU5bTNHYkNFc19uRVBtWU1TbEs3RnFfb2lMNjR6YmhjQ2pXWDlRQzBKazJvUGVlanY2WWJYVzRZdGFSTkRmNU1KeENZVXFpRTJ2eWxvN1FCa05LOU5LVnh5U1ByRTVpVWxhdko4aXZ4eGEwT2dlSW9U?oc=5",
+          "title": "‘Urgent concerns’ after 20 new bat viruses discovered in China",
+          "publisher": "The Sydney Morning Herald"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCS0sxd3kzWE1fN0NZVk9nWmRILXhRNzV6cDdQSG5kMnc4VDlEYmVTLWpwZHdvUkY3bDh6SzM0cXVCTlNUSHZodzhtaUhMTHRQYmN2ZmxNX3k2Mzd0LVpqZ0lCeG9rdXltUUxwV1VneDFqaUtTbS01cVlwZmdYdw?oc=5",
+          "title": "New Bat Viruses Discovered in China 'Raising Urgent Concerns'",
+          "publisher": "Newsweek"
+        }
+      ]
     },
     {
       "title": "Sleep’s Secret Sequence May Sculpt Our Memories Like a Garden - Neuroscience News",
@@ -730,94 +772,6 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbnZJQnZ1Qi1QSWJMeHFzYUdZakdJR21nbG1Ca3VXZFVveVNCZzAwS2JEVlMyMWFYMlFnRlBBbGhZS2dXUzI2RXV6ZENjNFNsWmdZWlNzNFotLU9LTDh5VWJoMXFtcGRjSlI1SEJfeFhEVFBrUVkwSzBkRzROSVoySUs3SFY0NWdYTjJ4TDI1bUZUbjhkWGI3VlE4MFVpbG9uZGI4ddIBqgFBVV95cUxNTHRYV0Q4YmhJZ0xmR3B3bUhqY1RJOWx2Y18zZWhoSzZXSlFsS2V5ZUJyaEd4RC1waEF6M2lWRlV0LV83Y240UWRsR05XbkhiYlBHUWZXVVZrZGdUd1BEZFA2YmZfdE1CRVlCQ1UzVHhybXJZUmRqY0ZGVkRzMWRxbFFnYTg5eFhhc240ZnQtUkI3Q0ZHbHZrX1BTbWFvMEVaNUpyUGpZVllTdw?oc=5",
           "title": "Sleep helps bring information into memory. But not everything is strengthened.",
           "publisher": "Psychology Today"
-        }
-      ]
-    },
-    {
-      "title": "Virus Discovery Among Bats in China Fruit Orchards Draw Exposure Concerns - ScienceAlert",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGFzdmtaTXQyMFgyRUcwRDc4N0Vzd0laOHB1Q1p0bnE2V2pSSjAtZ094TUJnbW0wMm1RYlVmVjdfV1F5V0tsQWkwNmRHTFJFRjZ4RWVycmZjQ0lDdWEtbHFMWTBpc1EzOGN0RGhvTG5zempqTmFVeHJCb1NsMG5vazRYWEZkY1ZwNkFOQ3RjT1JNc2VwdWIxVDlnb1ZGRDNnZ1B4eQ?oc=5",
-      "published": "Tue, 24 Jun 2025 18:01:30 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        18,
-        1,
-        30,
-        1,
-        175,
-        0
-      ],
-      "source": "ScienceAlert",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGFzdmtaTXQyMFgyRUcwRDc4N0Vzd0laOHB1Q1p0bnE2V2pSSjAtZ094TUJnbW0wMm1RYlVmVjdfV1F5V0tsQWkwNmRHTFJFRjZ4RWVycmZjQ0lDdWEtbHFMWTBpc1EzOGN0RGhvTG5zempqTmFVeHJCb1NsMG5vazRYWEZkY1ZwNkFOQ3RjT1JNc2VwdWIxVDlnb1ZGRDNnZ1B4eQ?oc=5",
-          "title": "Virus Discovery Among Bats in China Fruit Orchards Draw Exposure Concerns",
-          "publisher": "ScienceAlert"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd1VGaEhIZXNvOGlDaWYwY3p5UnF6NTNmZTM5TldwOEdSSURHd1gtN2U3ZDE5X1l1Z2dwTV82aWo3UWZKTXRQM184anYyWDBsLW5XQ1Z5UGZ1a0FCU3RpZ1NtWV9XdUF5bWc0eHRjZTBjVEw2TUU2c2NtY3haOTZESHlDTC13OUpqVGQyYk9HZkVXVDJiWEVlR2dUNFUyUGhUV0tubkJUeURFWlZOdno2VVQzOA?oc=5",
-          "title": "Viruses Related to Deadly Human Diseases Found in Chinese Bats",
-          "publisher": "Bloomberg"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT3I4S0xUVEpUMmRKcVo1Nk5MZzZURndLbW5lUE0tdXZZWEpWOEE5eTBBYmhVZy1YUEUtVlphVDBPQjRaSnk4RzNkU0U4cXdvc0EwS0MwLW1taDJfQUNtbTJVREFSdmpqR0tIUXlfakUwYmYwcC1nVjgxMjBIU2dVSFI4RHY0b1drYWJsMDY4MHVIbDJQMncxeWdxdFBCN0JMaERMUUxPcHFnb1p0ZHVTOTl4YXRTTzJEYVduQV9kajU4TGVmNDE5ZHhuNEhjTmJmYUs1VzdoNm9DdV9jclE?oc=5",
-          "title": "Scientists discover new ‘brain-inflaming’ bat viruses in China, raise ‘urgent concerns'",
-          "publisher": "Hindustan Times"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeUQ1cm1tbmZ3TEZkQ0xMdEFqVXRSSzgyQ2VFOTdWVjFpM1BRR0ZxMmVOOXVxazNTOHpiZUtzSXFPVTBndElVcEU5bTNHYkNFc19uRVBtWU1TbEs3RnFfb2lMNjR6YmhjQ2pXWDlRQzBKazJvUGVlanY2WWJYVzRZdGFSTkRmNU1KeENZVXFpRTJ2eWxvN1FCa05LOU5LVnh5U1ByRTVpVWxhdko4aXZ4eGEwT2dlSW9U?oc=5",
-          "title": "‘Urgent concerns’ after 20 new bat viruses discovered in China",
-          "publisher": "The Sydney Morning Herald"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCS0sxd3kzWE1fN0NZVk9nWmRILXhRNzV6cDdQSG5kMnc4VDlEYmVTLWpwZHdvUkY3bDh6SzM0cXVCTlNUSHZodzhtaUhMTHRQYmN2ZmxNX3k2Mzd0LVpqZ0lCeG9rdXltUUxwV1VneDFqaUtTbS01cVlwZmdYdw?oc=5",
-          "title": "New Bat Viruses Discovered in China 'Raising Urgent Concerns'",
-          "publisher": "Newsweek"
-        }
-      ]
-    },
-    {
-      "title": "I'm the reason autism rates in America have soared... it's left me riddled with guilt - Daily Mail",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV0pvNVlaaVl2QnBVR2c1Rkx1YjdrVzl2cXAweWZxMDY0bGZWY0JxXy1vZlgyNGtmb1Y2TkYwY0g0OWNfaDZuLVBvdUZfUU1xLWNCVExxb09EeWY1Nkd3dUpfc3VybVpmRzZpQUpOd0ZMR1FQV0tnS1lYS2JTUzQ3WmNwN0tZc1lNMk5nTlJyUWF6bzTSAZgBQVVfeXFMTkl1a1BUNVVaTmFuWWp3TVFuLVd6cUp0QVhFWFJoUlRrYmc0ekU0STJuRE9OSnQxaEE1LU9aSVZZMnNDNWctZ2tZM3hHLWNvc0dld3l3X0llZTVEZk01RHU2STlETUZuQ3BSXzRCbVZveHNFZzI5MDd0RkttSm5QekFWdnhQa0hfalBoc3dxRFFraS0tTFBycVY?oc=5",
-      "published": "Tue, 24 Jun 2025 15:06:19 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        15,
-        6,
-        19,
-        1,
-        175,
-        0
-      ],
-      "source": "Daily Mail",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV0pvNVlaaVl2QnBVR2c1Rkx1YjdrVzl2cXAweWZxMDY0bGZWY0JxXy1vZlgyNGtmb1Y2TkYwY0g0OWNfaDZuLVBvdUZfUU1xLWNCVExxb09EeWY1Nkd3dUpfc3VybVpmRzZpQUpOd0ZMR1FQV0tnS1lYS2JTUzQ3WmNwN0tZc1lNMk5nTlJyUWF6bzTSAZgBQVVfeXFMTkl1a1BUNVVaTmFuWWp3TVFuLVd6cUp0QVhFWFJoUlRrYmc0ekU0STJuRE9OSnQxaEE1LU9aSVZZMnNDNWctZ2tZM3hHLWNvc0dld3l3X0llZTVEZk01RHU2STlETUZuQ3BSXzRCbVZveHNFZzI5MDd0RkttSm5QekFWdnhQa0hfalBoc3dxRFFraS0tTFBycVY?oc=5",
-          "title": "I'm the reason autism rates in America have soared... it's left me riddled with guilt",
-          "publisher": "Daily Mail"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qV2tZVVNpdUI2bFU2SVZCYlA2WW8tVUc5VU1WMTBjQVJPLUJjQXpyMnY0NHBWd0N4aXowZUNqUFlIaDBJRWhTU29TX1VtRHNKWTZPN2dhR2hqaFFVdjNUV2NpZ0dHVnQtbkRBUWIzUUJJS2MwN2xhcjBjc1VqN1k?oc=5",
-          "title": "Opinion | Autism Rates Have Increased 60-Fold. I Played a Role in That.",
-          "publisher": "The New York Times"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUzVsa1gwT0ZyeGFfUUExNWlYWXdMS3E1M2lOazJrX0t6ckdfdEZlbzlSd3NPUHg0YmhZbEdKY2pRamZoZWFqSUZPOWs2QjFaN1pkSzVGZE96UlFBd0g4bGF6NDZZOWIzNTlVS2dkb21UaHBMVV9SZ21XY1lyV1Ryb0ZURGQwMEZTSDRzU29fODREMWJJbFJVbWVmLXBoOW5iUkF4aU9rRnhLem1jWUZOb0FSaw?oc=5",
-          "title": "Why Autism Diagnoses Are Increasing: What Changed In 2013",
-          "publisher": "Forbes"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNXzNBZURwZGpXZTRvNm1va2F1elNTV05VUzZ6djl0eVBMZVo4MWZMbTdDc2tqMU82RW5GVnkxWlZ5bGFkU0NoVk9nYVRrRXU1blFUV0dBaXBFb3FJNHctMnRkdzZYRkdGRFN1NVlqNlVUZWRGcnhXWHVWTGNDby10NzJTaw?oc=5",
-          "title": "New study investigates autism spectrum disorder prevalence",
-          "publisher": "Clinical Trials Arena"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmE0LXh4VFNTbUVDVWtmZE9iVE0zVGFTZmNabjVlLW9mYjUxYlo1MEY1a0FEc21POS1NaEItMWxYN0VDZDRseXhTSk1GeFU0UWdUZmNuemFEVkxaaE1UZDlpQzdVeU5OZUduRExaNmdlczZPOTY0Y1gzZ2RYQ1F0eU5rTlBha1VOTmNIRG5Hbks3Z3BtMHQ3Q0xIdTZmUmMtQjIyNHV6LWRtN2NMRXc?oc=5",
-          "title": "Autism Fast Facts",
-          "publisher": "news8000.com"
         }
       ]
     },
@@ -884,16 +838,16 @@
       ]
     },
     {
-      "title": "Cancer-stricken mother's heartbreak after son's chilling confession - Daily Mail",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSVJ6cHRqbnJkd3c5WEdkWGpfZEVTTzE2cjlYd2g0TWw5cXFqZ3c5Z3RkZHlScHlNblRUMDZrM29IWHlIZ3A3QzFPc2VTSXphcFF2TWl0dm5ldDROUVJXVEF1bFJUSWZEYUZjeTRiVlFtbWxnV2lvNXlLSUYxN3hOSUtzYVpzcEZqSVhEQmVqbUo4UDB6ZlRzNnhVRC0yUHlzclVJemtWR3RVTlptcW5uNnpB0gG3AUFVX3lxTFBzbkxCMjI1WXVxLUtjTUQ3bkpNLTJhYmlqc3pDNDNUNUFqZmw0cG5idHNkUUF5a2RLTTl1dE1nZGhQWTRPcm9ZOGxWUGEzUVIwTmZKbnIzTVoteDRRNlNPTmVjc3c1c1E1VFRsZXdhdlhVOXVLMzhNd2ROZzlQcERCNWlfOVFZVUlzSG5IdmpYQzRmWmlwU2hYTDZBLV9ZQW81RFAxTmZEYWcxZy1TZDFIUzNBU2dtdw?oc=5",
-      "published": "Tue, 24 Jun 2025 16:49:50 GMT",
+      "title": "I'm the reason autism rates in America have soared... it's left me riddled with guilt - Daily Mail",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV0pvNVlaaVl2QnBVR2c1Rkx1YjdrVzl2cXAweWZxMDY0bGZWY0JxXy1vZlgyNGtmb1Y2TkYwY0g0OWNfaDZuLVBvdUZfUU1xLWNCVExxb09EeWY1Nkd3dUpfc3VybVpmRzZpQUpOd0ZMR1FQV0tnS1lYS2JTUzQ3WmNwN0tZc1lNMk5nTlJyUWF6bzTSAZgBQVVfeXFMTkl1a1BUNVVaTmFuWWp3TVFuLVd6cUp0QVhFWFJoUlRrYmc0ekU0STJuRE9OSnQxaEE1LU9aSVZZMnNDNWctZ2tZM3hHLWNvc0dld3l3X0llZTVEZk01RHU2STlETUZuQ3BSXzRCbVZveHNFZzI5MDd0RkttSm5QekFWdnhQa0hfalBoc3dxRFFraS0tTFBycVY?oc=5",
+      "published": "Tue, 24 Jun 2025 15:06:19 GMT",
       "published_parsed": [
         2025,
         6,
         24,
-        16,
-        49,
-        50,
+        15,
+        6,
+        19,
         1,
         175,
         0
@@ -901,122 +855,31 @@
       "source": "Daily Mail",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSVJ6cHRqbnJkd3c5WEdkWGpfZEVTTzE2cjlYd2g0TWw5cXFqZ3c5Z3RkZHlScHlNblRUMDZrM29IWHlIZ3A3QzFPc2VTSXphcFF2TWl0dm5ldDROUVJXVEF1bFJUSWZEYUZjeTRiVlFtbWxnV2lvNXlLSUYxN3hOSUtzYVpzcEZqSVhEQmVqbUo4UDB6ZlRzNnhVRC0yUHlzclVJemtWR3RVTlptcW5uNnpB0gG3AUFVX3lxTFBzbkxCMjI1WXVxLUtjTUQ3bkpNLTJhYmlqc3pDNDNUNUFqZmw0cG5idHNkUUF5a2RLTTl1dE1nZGhQWTRPcm9ZOGxWUGEzUVIwTmZKbnIzTVoteDRRNlNPTmVjc3c1c1E1VFRsZXdhdlhVOXVLMzhNd2ROZzlQcERCNWlfOVFZVUlzSG5IdmpYQzRmWmlwU2hYTDZBLV9ZQW81RFAxTmZEYWcxZy1TZDFIUzNBU2dtdw?oc=5",
-          "title": "Cancer-stricken mother's heartbreak after son's chilling confession",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV0pvNVlaaVl2QnBVR2c1Rkx1YjdrVzl2cXAweWZxMDY0bGZWY0JxXy1vZlgyNGtmb1Y2TkYwY0g0OWNfaDZuLVBvdUZfUU1xLWNCVExxb09EeWY1Nkd3dUpfc3VybVpmRzZpQUpOd0ZMR1FQV0tnS1lYS2JTUzQ3WmNwN0tZc1lNMk5nTlJyUWF6bzTSAZgBQVVfeXFMTkl1a1BUNVVaTmFuWWp3TVFuLVd6cUp0QVhFWFJoUlRrYmc0ekU0STJuRE9OSnQxaEE1LU9aSVZZMnNDNWctZ2tZM3hHLWNvc0dld3l3X0llZTVEZk01RHU2STlETUZuQ3BSXzRCbVZveHNFZzI5MDd0RkttSm5QekFWdnhQa0hfalBoc3dxRFFraS0tTFBycVY?oc=5",
+          "title": "I'm the reason autism rates in America have soared... it's left me riddled with guilt",
           "publisher": "Daily Mail"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQay1pTVFid09lZXZhZDU4QVVCT2FnVGdkdi1sQjZBX0RVVXhoTExCN0pad3I5ZUFILVhnemFmUU5zZHBYSTNFZ3p6ZjlSYk9ncW5zRFJCZXh0YzdBX2lCZHBTdWZfTWZ1dXNnNUlLTE1hTlZUUjFadFBqYUVEelBnVUFnanFxbnF0dEp1ZkV3aGxRUjRNbXNpeVFuQndsTHljcEJSQjZaUGp3Zy02MERrbUY1dFE?oc=5",
-          "title": "Mom of 8 with Stage 3 Breast Cancer Breaks Down in Tears After Unexpected Call from School Nurse (Exclusive)",
-          "publisher": "People.com"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qV2tZVVNpdUI2bFU2SVZCYlA2WW8tVUc5VU1WMTBjQVJPLUJjQXpyMnY0NHBWd0N4aXowZUNqUFlIaDBJRWhTU29TX1VtRHNKWTZPN2dhR2hqaFFVdjNUV2NpZ0dHVnQtbkRBUWIzUUJJS2MwN2xhcjBjc1VqN1k?oc=5",
+          "title": "Opinion | Autism Rates Have Increased 60-Fold. I Played a Role in That.",
+          "publisher": "The New York Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUzVsa1gwT0ZyeGFfUUExNWlYWXdMS3E1M2lOazJrX0t6ckdfdEZlbzlSd3NPUHg0YmhZbEdKY2pRamZoZWFqSUZPOWs2QjFaN1pkSzVGZE96UlFBd0g4bGF6NDZZOWIzNTlVS2dkb21UaHBMVV9SZ21XY1lyV1Ryb0ZURGQwMEZTSDRzU29fODREMWJJbFJVbWVmLXBoOW5iUkF4aU9rRnhLem1jWUZOb0FSaw?oc=5",
+          "title": "Why Autism Diagnoses Are Increasing: What Changed In 2013",
+          "publisher": "Forbes"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNXzNBZURwZGpXZTRvNm1va2F1elNTV05VUzZ6djl0eVBMZVo4MWZMbTdDc2tqMU82RW5GVnkxWlZ5bGFkU0NoVk9nYVRrRXU1blFUV0dBaXBFb3FJNHctMnRkdzZYRkdGRFN1NVlqNlVUZWRGcnhXWHVWTGNDby10NzJTaw?oc=5",
+          "title": "New study investigates autism spectrum disorder prevalence",
+          "publisher": "Clinical Trials Arena"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmE0LXh4VFNTbUVDVWtmZE9iVE0zVGFTZmNabjVlLW9mYjUxYlo1MEY1a0FEc21POS1NaEItMWxYN0VDZDRseXhTSk1GeFU0UWdUZmNuemFEVkxaaE1UZDlpQzdVeU5OZUduRExaNmdlczZPOTY0Y1gzZ2RYQ1F0eU5rTlBha1VOTmNIRG5Hbks3Z3BtMHQ3Q0xIdTZmUmMtQjIyNHV6LWRtN2NMRXc?oc=5",
+          "title": "Autism Fast Facts",
+          "publisher": "news8000.com"
         }
       ]
-    },
-    {
-      "title": "Aging in the heart could be reversed thanks to new hybrid biomaterial - Medical News Today",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGNQNkpoV0Y1TWdSMDlGTUNKem1KcFVQUk0wejlFbXBDT2tZaTU4WXpSN0czTElKQy00MUMtTkdkYzhtVUdnQXZPNzEyWHhrbWRCTmk3ckpwbF80Wk92ODZxelBvQUlvTGp4UEV6cHZwT3pkLUFjbTlNVy02U0FMb1F0MFQ5dVdoVEhDb2h0d1ZnNXhHTV8w?oc=5",
-      "published": "Tue, 24 Jun 2025 11:24:36 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        11,
-        24,
-        36,
-        1,
-        175,
-        0
-      ],
-      "source": "Medical News Today",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGNQNkpoV0Y1TWdSMDlGTUNKem1KcFVQUk0wejlFbXBDT2tZaTU4WXpSN0czTElKQy00MUMtTkdkYzhtVUdnQXZPNzEyWHhrbWRCTmk3ckpwbF80Wk92ODZxelBvQUlvTGp4UEV6cHZwT3pkLUFjbTlNVy02U0FMb1F0MFQ5dVdoVEhDb2h0d1ZnNXhHTV8w?oc=5",
-          "title": "Aging in the heart could be reversed thanks to new hybrid biomaterial",
-          "publisher": "Medical News Today"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNGJ5aFRJUnoxaG5hWEJZZ0pDZ0hjNHBNU2ZndVdQWmlHbjhCRXU3R084RnJtOGp2eGltWUpRN2djemc2Y2JvN1NwUzgyd1o5a3dJTXJ0NjNhanVSREpnVDJMalhWMXlBNWhqazJ1Qmh4b2s3aWxCX1FuVDctQ2p1ZmdvZE03M2V6VlEtdDJFWFM0QlFiUFNHOHhMSlpURlp0bjZieUM4R3J2cVJ2bnBVYldpRS1nZ2Nw?oc=5",
-          "title": "Biomaterial helps to reverse aging in the heart",
-          "publisher": "Lab + Life Scientist"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXZqRFVLQ25oaFhPaHlEbjdqLTBfU3FaLVUzd3QtZjJnOGVXMkozYlNTY3Y5T2M3UkQ0V2xrTlZkaEQ0Z3FfT2hDZ0Q4aFNqa1RFT1EtTnlSMjdYRFRSOExSZUVWclFDRjVDVV9KbDhWLWtJczY1dGw3QzBfZWIwSXF1ZmVHdDV1QVFxV0Q3OHNEaFJjTlJISk5zNFRwSkdvY2loeVREa3RNV3VicFBiNEZXbG5EU2xqcHfSAc4BQVVfeXFMT2liZ1dPVWctRXhVR0ZlWHRqTXhaNlgwbHpBaklTRDNUQ2hnNVNKS1BZSDJEalZERTF5dzNLcHRoZ1piMGRvWHZJWGhObXdvQzlEOHdZai1Fc1hLdFM3ZjdUS1RJbHlCdEF2dndZNFhuaC13clFhN1RFZ3dqQlRsOFRrYlFkd1VEeVF5ZGF3ZDY4Vnl1aFl0aUcteWk4M3AxaUpCUXE1dEIxM0RneG9GREpuN2dUaEtjQk9uTHU1WEJyVlduSUVHNGN6cXY4TVE?oc=5",
-          "title": "Healthy aging hearts are less susceptible to irregular heart beat, researchers say",
-          "publisher": "WDBJ7"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR2JreHVwLUNMX01Pa3UyclpwODR4b1BfaTNzNGFicDJNLXFkR0dwLVlWWmk5N2FTeEdsRVBvWEFXUmdzZzNVQ3lvcG9YeGZWOGtWSXViWExDQUdGN3B2VVBha2RVS2xZeVJSaE4zU0FyNjU1NEVoTGZsOE5BaXJrY05PWDV1MllGMWhrSFFKWHdZbEh0dHZIVHVPTXJ0NDJIUlg0ZGxpbDB3dG1vaG9wejFxU2thZF9BYUhST1EyWldDSWp6bFMyekduMU8tRVhMS1Rfbw?oc=5",
-          "title": "How old is your heart? MRI technology reveals an unhealthy lifestyle add decades",
-          "publisher": "Health News Florida"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc0tsclVQOXFoZzhjb1R0Z09WS2lOQXdnV3hwSGFyVWtqSWYtVThCS0x3NXhJcE56MF9wWk12OXBnUng0UjhHLW4zb0EzaEx0TDZkV3FOM0RVM05jMXpELTdaYmVjdVEyZmlQNzZ5MVIxQm1pNUVLRnp3cXE4Vms1YQ?oc=5",
-          "title": "Scientists mimic young tissue to reverse ageing in the heart",
-          "publisher": "Interesting Engineering"
-        }
-      ]
-    },
-    {
-      "title": "People who still look young into their 60s and beyond usually have these 6 evening habits - VegOut",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd1VxdVlQcFdGWGx0SHN0LWhTSDNsYU13SmRXVHhQejR4MlpuM3lxNE9kWE15NGFZLU9DdERFeElfYm0wMXZJQmNlRmI1N2lLOXF0NE1yOEJuTlpnQUFzTnRVZ3ktR3JRNzVxLVp1dEFsTkhFdm9UdV9iSTNrMEJ2NEl4d24xU213VWVrUjFxUnRXaVhrNXlPWTloU1A2VEZhaF9JQWtIQ2NaMHdmNXlXYjJrWmtGQzJ4bXpVb19TeDNaWHJH?oc=5",
-      "published": "Tue, 24 Jun 2025 14:12:10 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        14,
-        12,
-        10,
-        1,
-        175,
-        0
-      ],
-      "source": "VegOut",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd1VxdVlQcFdGWGx0SHN0LWhTSDNsYU13SmRXVHhQejR4MlpuM3lxNE9kWE15NGFZLU9DdERFeElfYm0wMXZJQmNlRmI1N2lLOXF0NE1yOEJuTlpnQUFzTnRVZ3ktR3JRNzVxLVp1dEFsTkhFdm9UdV9iSTNrMEJ2NEl4d24xU213VWVrUjFxUnRXaVhrNXlPWTloU1A2VEZhaF9JQWtIQ2NaMHdmNXlXYjJrWmtGQzJ4bXpVb19TeDNaWHJH?oc=5",
-          "title": "People who still look young into their 60s and beyond usually have these 6 evening habits",
-          "publisher": "VegOut"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSDBrMU9iZEVCX0xaZ1VXYUc0ZkJLY0I0ZmpqTG12cElyVG1tWllNVEJmdHM5RnRtdUp5TmVQOVUyWE5WQVhjUk45WGFqeExGRXFqc1lvSG0wR2sxcndkc0FfbEJwbW93a0xEa1VwZjNCMi03NFIxeVhjdnhNZXFzblYzV1dCZVVTeGlCUEpRcw?oc=5",
-          "title": "'I'm nearly 60 but no one believes me - a nightly practice guarantees a youthful complexion'",
-          "publisher": "GB News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUI0eXg3S180NGhBNmtFc1kxc21paGdLOTBRakpHRm5uWEp0RUtsR3piYjdidklWTkUzUmFuUjJrVUdlZU9rNlFzUU9uNE8yTWRxbWl4Q0ZRQ25EODQxUXpaeVI5OHNFNjBkbFNNWmZlLTZsY0JjRS1HNkF6OEFZUXdlZHpkTmJEZm9lZ2pqQi1LQ1RjSkxTX196TlJrTS1vbGR0MWV3?oc=5",
-          "title": "7 simple self-care rituals that slow down aging and boost vitality",
-          "publisher": "VegOut"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWU9sTURTbk00NFF3ZUFIR05weWFMdzlhc3VzVTJ2bTlJUmtvNjhmLUx3N2tNVTVPaWpJZUhfam9HUHBYbjA0bDRaekY4aVZvQXVrVmhvLXFmSk9na0JyVFIweUo1Y1gyT0pJbUpwNlFLYmRwZlk4TmVsdEd4ZzhLV21fR0FjVEFvNjg5VjZaV0lJQVJXODBveVEzNjBxUkZVSU9vTUVMVzdSaDhPZy1aNHgtUllITHAzWlhBNGJB?oc=5",
-          "title": "9 morning habits of people who age slower than everyone else, according to psychology",
-          "publisher": "VegOut"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXUyTzhlZ1o3TTlSR1pqSkI0elg1SjhDY3JHaHQ2QUgtVTRlZlZLZ3lXTFJpaHFwazZYRzFGb2dzRUk2bHZmNGVFWFVwblN3WVBQVm9NdXIwVGdiMndYZmFFRGRpaWszV25jVGhQMTU5M0VRYU1jM1I0RTlfSVBEMWk5Mzc1Y2VCWWUyZHhsNzdrODZvQnR5MEM0MnlSd3ZHYTNMOFNSZXRXQkIxNTdPTVhR?oc=5",
-          "title": "If you’ve embraced these 6 daily routines, you are a master of graceful aging",
-          "publisher": "VegOut"
-        }
-      ]
-    },
-    {
-      "title": "Wear a weighted vest, add an incline and more: 5 tips to make your walks more challenging - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHNIZnhKZXdnaDIzc1ZwdHlUY3BiaUxRZGpGeVZPazlBQ0xUbXYyTElPVXB5ODZLb182SzNqSks4WWY4OVQyVjh2dHgwRjB0N1pReXYwMk84QkJ2bXYteTljUExLVWtoZk9hNFQxMGtCNEdDSlRoZU1DRnFDTFdadmxRQ0hXSWFoVkN0T0N3?oc=5",
-      "published": "Tue, 24 Jun 2025 09:00:28 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        9,
-        0,
-        28,
-        1,
-        175,
-        0
-      ],
-      "source": "Yahoo",
-      "sub_articles": []
     },
     {
       "title": "Breakthrough cancer test predicts whether chemotherapy will work - The Telegraph",
@@ -1063,48 +926,94 @@
       ]
     },
     {
-      "title": "How To Increase Your Protein Intake and Eat 100 Grams per Day - health.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sb05WTWxoT29ydGxNd0Mzekg2c05qOXEwNF9ZUmhwaHdEWHZkWFl4UXhfR3ZQQ1U2ZmV5SURYQ0xTQ0dkMWtnRVBjLXM3MnBicVFYQlg0Y0h0WmZYM3daMU96cFFYZzdUekxYb2Z0WHlmbjdRVmV2OA?oc=5",
-      "published": "Mon, 23 Jun 2025 09:03:22 GMT",
+      "title": "I was diagnosed with stage 4 colon cancer at 31 despite being fit and healthy. Doctors brushed off my concerns as pregnancy symptoms. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOGdSZ1RvU2QwQ3N0X1pyek00RkJJNGhjSHVLMWhFZW81bVUwbjlyTVN5eTJFUGVGTmxXRWRuZnpxUHBxd3otbjdHRGF6YWpzUzVtWk1ZdUp6RklzLXlQQ2hzVm0zY29GMG9yN2JGRWlsR1I4VkpydnN0bC1YYzdHNmVod1dValFudElLYjRmSDU4WWttd0RTOC16WkdSNUZlemc?oc=5",
+      "published": "Mon, 23 Jun 2025 11:28:00 GMT",
       "published_parsed": [
         2025,
         6,
         23,
-        9,
-        3,
-        22,
+        11,
+        28,
+        0,
         0,
         174,
         0
       ],
-      "source": "health.com",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sb05WTWxoT29ydGxNd0Mzekg2c05qOXEwNF9ZUmhwaHdEWHZkWFl4UXhfR3ZQQ1U2ZmV5SURYQ0xTQ0dkMWtnRVBjLXM3MnBicVFYQlg0Y0h0WmZYM3daMU96cFFYZzdUekxYb2Z0WHlmbjdRVmV2OA?oc=5",
-          "title": "How To Increase Your Protein Intake and Eat 100 Grams per Day",
-          "publisher": "health.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mN2xWSmhXc0NaVmc2bGxPTWdiTEFfcS10QmlYZnRuSDRqRW5BNkZLM3lUMUVVZmpUM1VPSHJwVWhHQUNqSWZDOEJvYnRBX1JGX3pSdmdBRkNEb25ERGV1Qm1xc3NQTVdKM3c?oc=5",
-          "title": "Here’s What Eating 100 Grams of Protein a Day Looks Like—From a Nutritionist",
-          "publisher": "health.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaDNGV0lILW1XTXlnRGtiaWtScEZfWkJ2anBYVzRHcEdCLWhEWVlfTVk5N0gyZEtLTVNiNnNHZ1NET2Zvd2tDOF9MQjdUVkMwbzZ1V3dGWnhiOGJLZWNTUzk2dTVqWTR2dzJDMXBZRENpZFp0RzZpdzVSSnp0dXZVakp5ak5sNkhWd19NUmhfbVZ4SmVP0gFUQVVfeXFMT01aVUVtaDZnNVN2ZFFiR05oaXZ3YmY1a3FIZkZBWXFjZlFXSjFNb0hPa1c0Nm04YkpKWXItRkQ1dFdUcEtEalkwdU5DYU1yUm5jVGRL?oc=5",
-          "title": "1 Nutrient You're Likely Not Eating Enough of on a High-Protein Diet",
-          "publisher": "TODAY.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0w5RTNwS3VLamhhNm1jQ1J1dktJTEV3YV9LTXV2TVlwU0NyajdzVDRITWFVOHAwNHdvd2l6QnJkNkJPMlFUSW14M1k2WWQ2eXRCMEFGVEVwS29sY2RMM2hnVmFuRXNIQkctdF9TMkoyLW41QVpTRTNfMUQ5WmVLV0hBak1TWkRIajZId0ln0gGTAUFVX3lxTE1yOFEyQ3ZKUFMzemVFblRScWlwQXhDcXJTZTM0dVpLX19MZmVEb2xCbHY4cmhMOEVpWjFqYmtiYkhKWTFOWUl2Q0MxbE02cThDR0hCOEZaczlLYk9OaFZIczhaQ3NKaUtBd0dicGFPS202STcwblpTY1BpVXRZR2pSMENudWNMcHNjVXZsczdDX3Z5VQ?oc=5",
-          "title": "You probably don't need foods with added protein, nutritionists say",
-          "publisher": "ABC News - Breaking News, Latest News and Videos"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQWNnZlRaU0tlcml3WTRkbnhsa0VlZmdwR1psRmxZZUR4YUhPbFNuQ05zMldrRjNvLWstU2F1R20wWTQzYlBzeDRuOFhFcGU4NHV6RXJOWnkzQmVWQzNISG5EcXdvRXBCQks3NUl6OGdsUEQ4SXYtcHRFR2tYYnlXSmlxVXpNWEpnVjdzYzlRQ3FxSTQtSXJneURQWVhFRnVCZGRFbmpGSWVfdllnWmRTMkN2X1B6RGp5VG0wN2tBSzNFQXRNVU55OTFfcV8?oc=5",
-          "title": "Dr. Roach: How to follow the recommended daily protein allowance",
-          "publisher": "The Detroit News"
-        }
-      ]
+      "source": "Business Insider",
+      "sub_articles": []
+    },
+    {
+      "title": "Terrified mom wakes up with all of her limbs amputated after catching two common infections at the same time - Daily Mail",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNlhiVVVEMGpZbTNPZDRXLVFyMjE4VTJ4emRwVUp0aVZhaVI4UF82NVF5TFBpeHpmeXNRN1RoZEFrOVlsdkNPTHg2YXpyUWxXWTNyaDEtcFo4SnZrZjJ1bjJ5YktOcWFJOHp0b2ZEVGJxSERQU1lwa2xWMG1JeGN3VXBLQ05FdkFsTUQ4V2FqVEdGLTltQlNHcHZYandVX3RUaHB1Y3NodVRDdFg5S2lEQ08xeE1xbEhnR1FCNUR2Nzd1QmZYRGQw0gHMAUFVX3lxTE9xNE5UWEJxN1hOWk5nekNqc3FZZXZncjlsSlo1dElyeVV6ZEVLbnoyTmZ0bGZsSzdJUG5pSzRsMmYzT055WjE5a1NvVF9kSlI0aFJ6R1BYLWJRcGJsa1ZIREp2RnBFU1lkaVhSRjlMWmp4MzFKekt3a0VxeDJHYjJ6N3VCM0l6R0h2b25zaERKOXo4SG9DMWZZQkEyN1JnbVJwRVZEalQxa3ZOUUdYdDJVR0M3dnhnWXJIbE10UGNhWmV5Mjh3NjVrLWpSZw?oc=5",
+      "published": "Tue, 24 Jun 2025 17:14:08 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        17,
+        14,
+        8,
+        1,
+        175,
+        0
+      ],
+      "source": "Daily Mail",
+      "sub_articles": []
+    },
+    {
+      "title": "Fitness Influencer Left Paralyzed From Tick Bite: ‘My Body Completely Gave up on Me’ - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sdzhwbVEyRUNuSW04dzdZaE5iVURqZG5LZENTdGNDSWhobVZ1U1FsRVF0c0JQQkxKaU95eDMzNVNiLW9zUF9IbDhXX2NJRHFfNzgzWGIyTVBDVVdsUXhTWVBZUEt2ZUdsM1hyUjZFMzQyWUlrcEFZRzl6T3FqUQ?oc=5",
+      "published": "Tue, 24 Jun 2025 19:30:53 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        19,
+        30,
+        53,
+        1,
+        175,
+        0
+      ],
+      "source": "AOL.com",
+      "sub_articles": []
+    },
+    {
+      "title": "7 Late-Night Snacks to Support Your Metabolism, According to Experts - EatingWell",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOUJBc0FqMnJUMWJxNnlTSV9TZjM0V2thSWF5b0dhR2RYMW9OeTZqdFhybTBoSVV5S3JrbmdCWU0zMVVDTEJQRVlUNUNGTURXYWdVUG1mdnpwX1lSUGNrMlpvRk9aNmVjaTluVDZCR1dDRU5LdlZycVdxUWZNTGZlUA?oc=5",
+      "published": "Wed, 25 Jun 2025 00:00:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        25,
+        0,
+        0,
+        0,
+        2,
+        176,
+        0
+      ],
+      "source": "EatingWell",
+      "sub_articles": []
+    },
+    {
+      "title": "Say goodbye to sleepless nights with this fat-rich everyday snack - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNmhub3Vsd0NMUkQzT1ZIUGk2cGVsd3VLb09vdTVvYjZzVXBucVhFanFNTEdJdFlhamRWU1FiaWdxdnNvbVhfWlZ6Mm9XWHJGT3BaS0Z0NFFLd2tvbTFjSWVEZnhpeXFoU2pFSkhDMjd0M0JqVEp2WWZrdnVXUEQ5WGZ2RklNT1lQdWNZZEhnX2YyVkpCYzk3TGszVW1DX0pfSDc1SXp5UTNQOGlWT0Mzc2JHb2puTjZhS2l6RmNtLXJqQm1vR21tZnR5akk3NTluVEhJLVNLbUJXaFhrMDM3SHEteFlITWQwVUQ2eVVIZzlTcVJUb3d4eA?oc=5",
+      "published": "Tue, 24 Jun 2025 15:49:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        15,
+        49,
+        0,
+        1,
+        175,
+        0
+      ],
+      "source": "Times of India",
+      "sub_articles": []
     },
     {
       "title": "Single dose of 'magic mushrooms' provides 5 years of depression relief, researchers find - Yahoo",
@@ -1129,6 +1038,11 @@
           "publisher": "Yahoo"
         },
         {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHE5a3pzT1gxMGlWSV9FRFVrcTFiM3JYRFRobkJ3cXhVbUlaZDZ6SXJWdV9hSEJyN0p1SzFKVUMzWTZNQ0lCZFRTQmtGWmpidUl4WHFXWFkwYlVpNGdMd2REbkVVZ3hjcTUtcnB4ZmQwWWZJbG5OQXRIZUFVd3o1blJ1U0ZlM0F3UmNhMnViOF9qdzlTTEVnWWtXQTFEeFFTUWo2THgzQU9SUQ?oc=5",
+          "title": "Just one single dose of ‘magic mushrooms’ could relieve depression for 5 years, researchers find",
+          "publisher": "New York Post"
+        },
+        {
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnBMRU4xOWhBTkU5aGpyQkhLZDBxbGtreFlvcDZxVU9UYkFORFhjbnFvWlN4T2dOanE0Wjc1ZU41ZGU0a3Y1Vmc3aUdBNEVaLXB5NE1FTjIzT283VnFFYmhzXzdybFUwNTczalQ2Ym5mS05GcW45VlBFN2htWkI2RzNYQTRnZkgwNU5RQTVwcV9LMXMwWm55UFFlREo1b1dWbXc?oc=5",
           "title": "This Recreational Drug May Help Cancer Patients with Depression. It’s Not Weed",
           "publisher": "People.com"
@@ -1142,49 +1056,221 @@
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjJsVGEwLXN0VzVndmZvYjZVaE1aXzFIcThpbVJxd29KR0phdDlxZURST1JNaUlydVhnV0tTRGlkQ1JGa0gyOGEweWxqMGZqNVpmXzZVX0owa3FZVjRqd2RXNUpES2ZTVDNLTWJVNXJDWGpucy00ZDNDMjJ5Wm5qRWdiQUdwTjNHLTctc2RIV2h0LUxZb0E?oc=5",
           "title": "How One Dose of Psilocybin Treats Depression",
           "publisher": "Medscape"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wV18wa19uN1VEQXp0NW91cFd3b2Q1dUx0WHR0Xy1rbmN1VzJlU3RTNjNGMTF6RXB0djV0Q3hOOHp5N3Bxa1FPZkVabzVxMzl6cWtZOERvd3BXYjhWZk0tUVpFbldCa19sUUtNSlFVSS1DZw?oc=5",
-          "title": "Psilocybin for Depressed Cancer Patients; GLP-1s With Clozapine; Global OCD Trip",
-          "publisher": "MedPage Today"
         }
       ]
     },
     {
-      "title": "Heat wave linked to rise in opioid overdoses in Chicago over the weekend, health experts say - Chicago Sun-Times",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSTJWUGQ2eTZwQ0thNGhyc29XQnlWRWdIMHN0NVM1Y1dCbUVOTnh4NGNaWFlUbjNhQXBsaGk3T1lVcmMwcVB2el9rMGlfZFd3QW5TSVp0NHdfakZoZjB3aHJUZUt0cExZZ2VTWDRWY0YyUnZGdEpBemlsVE9sUVRWbWlablY4azNmN3VUZWNva25RSFZoOFkzTW5NV2xYWnpJZzdkeDJrNWl6QlhlSWFFdHEwRGY3V0RuY2U2dkFrcjlwUQ?oc=5",
-      "published": "Tue, 24 Jun 2025 01:00:00 GMT",
+      "title": "Scientists Just Discovered a Surprising Benefit of Turmeric - EatingWell",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mQlk4N1B3aTdBZWUwTFQxa3BoRUVMZVdseFRuWGEwdDhhYkVUejFQQnYzd3ZSOHBCZXNfQkRib3B4SHpYbmhodmNYaHVmbGZkVXcya1ZfRVIxUW1pZ0NqbS0xU1h4NG5SQW9V?oc=5",
+      "published": "Tue, 24 Jun 2025 20:16:39 GMT",
       "published_parsed": [
         2025,
         6,
         24,
-        1,
-        0,
-        0,
+        20,
+        16,
+        39,
         1,
         175,
         0
       ],
-      "source": "Chicago Sun-Times",
-      "sub_articles": []
+      "source": "EatingWell",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mQlk4N1B3aTdBZWUwTFQxa3BoRUVMZVdseFRuWGEwdDhhYkVUejFQQnYzd3ZSOHBCZXNfQkRib3B4SHpYbmhodmNYaHVmbGZkVXcya1ZfRVIxUW1pZ0NqbS0xU1h4NG5SQW9V?oc=5",
+          "title": "Scientists Just Discovered a Surprising Benefit of Turmeric",
+          "publisher": "EatingWell"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TQjhCbG4zQ2pfOVl0VHFIeTd3Qmh5VHZrQ2ZJV3drTGwyYW9CNll4WFlTLXdqTmhfRkRNVUhiVGdIRGxaZ0Vab0ZjVjV3eUx0RTZ1LVZQemt5WUZTS1NsRkY2cVA0eEFJRnkzUU9BanA2MnJu?oc=5",
+          "title": "5 Ways Tumeric Can Benefit Your Health, From Easing Pain to Reducing Inflammation",
+          "publisher": "GQ"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ta04tWERCVk4xc2lYcUNGNEN5TmVvNk1mYmJUZWpGVmJFdkJ5SGRYVFp0Q1lJajBheGZyYm8tVUQ0ZG5oM2FFalJWVUZiQzNleklCYzcxVTVPVmtIbDh3LUVkVi1tUWF4?oc=5",
+          "title": "Benefits and Uses of Turmeric for Pain Relief",
+          "publisher": "Verywell Health"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSVR3SlRGZE42MGw5TElTbkttSndEVVlkaEVidXR4al92WDY1WDh2Z3JIM0RWb0x1WDdVXzh6YnpWTjRBd2hsNUFVZWpjTXZXTDVHVjBxWm90NFNnVjlPMVFtUjg5OWM1UkJMMVNTQ3N1R211UExwM0NuSHdnb1hPUzVjZzA1a2NWdUd2SThUSzJ2Q2J0UTFxZEwyQTdQYUpMQTN5YklLTERFdWxFd3JTc3RYaEd0dXBobXc?oc=5",
+          "title": "PSA: This Anti-Inflammatory Spice Could Soothe Arthritis Symptoms, Study Finds",
+          "publisher": "MindBodyGreen"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmtiRkpwMENEUll3cVpoczl6OE04ZDdwcmZ4UDBlMVJBX2d2OGZoRi11OHVyZXNkRFQxODlXNElXWFN5WV95ZlhoU18zMV9qa2hDTmkzcDg1ODJMU1lSUmpuTE5xQ0lfNVprS3NXMTA4TnF4THNfR3lma1FkTWxCMmJWaFNscmtkaVVkVFVQZW9oNHRMU3QtT3JmbnhyMW5Pbmo2YkxCbw?oc=5",
+          "title": "This kitchen spice lowers cholesterol by 7.76 mg/dL in just 30 days",
+          "publisher": "Journée Mondiale"
+        }
+      ]
     },
     {
-      "title": "Real Doctors of New York Spill Their Guts - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlBZTnNsYmRpZjlpYnVHSkNoSnQ0TVBydTFNUWpyQ292a1JyTHhUS3RnOTZud3VBZXlKQ080Q1BZQTlZTTZYS3VGTUctb21PeUZ1Nk1XdVV5WW4xSHp4RlhHYjFrb1NvempJUlluSGpOdFJ6RVBfcWdWMFFIcXIzV05zVFlBdjZSZWFtX2VkWQ?oc=5",
-      "published": "Tue, 24 Jun 2025 09:00:30 GMT",
+      "title": "Wear a weighted vest, add an incline and more: 5 tips to make your walks more challenging - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUV82eE9rbmtLY0F1WVFCQVFHcWZjeGt2RThaV09scU9XTVVMVFdXTnlla2swSHZBVDZGSWhTcW95cTZCc05IMkMwLVNaU0VINEppeXRiZW03bFoycTh5UmpzT1cxMXNDMzNzcE16MTdoMWNRZEl1bXdZU3hxZ05LaTJtRTBzV1lzNXhVYzBrMWpZSTYtT3dKdUl0eXNFeWZ5SHZaT0ZPWVZIZlpiYkdiaEpjNk1KdWJZMVJpc0pGQUNfM2U1M1hZYmdzZDYtSkxsS05NUVlGRG5kQQ?oc=5",
+      "published": "Tue, 24 Jun 2025 09:00:28 GMT",
       "published_parsed": [
         2025,
         6,
         24,
         9,
         0,
-        30,
+        28,
         1,
         175,
         0
       ],
-      "source": "The New York Times",
+      "source": "Yahoo",
       "sub_articles": []
+    },
+    {
+      "title": "Aging in the heart could be reversed thanks to new hybrid biomaterial - Medical News Today",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGNQNkpoV0Y1TWdSMDlGTUNKem1KcFVQUk0wejlFbXBDT2tZaTU4WXpSN0czTElKQy00MUMtTkdkYzhtVUdnQXZPNzEyWHhrbWRCTmk3ckpwbF80Wk92ODZxelBvQUlvTGp4UEV6cHZwT3pkLUFjbTlNVy02U0FMb1F0MFQ5dVdoVEhDb2h0d1ZnNXhHTV8w?oc=5",
+      "published": "Tue, 24 Jun 2025 11:24:36 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        11,
+        24,
+        36,
+        1,
+        175,
+        0
+      ],
+      "source": "Medical News Today",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGNQNkpoV0Y1TWdSMDlGTUNKem1KcFVQUk0wejlFbXBDT2tZaTU4WXpSN0czTElKQy00MUMtTkdkYzhtVUdnQXZPNzEyWHhrbWRCTmk3ckpwbF80Wk92ODZxelBvQUlvTGp4UEV6cHZwT3pkLUFjbTlNVy02U0FMb1F0MFQ5dVdoVEhDb2h0d1ZnNXhHTV8w?oc=5",
+          "title": "Aging in the heart could be reversed thanks to new hybrid biomaterial",
+          "publisher": "Medical News Today"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNGJ5aFRJUnoxaG5hWEJZZ0pDZ0hjNHBNU2ZndVdQWmlHbjhCRXU3R084RnJtOGp2eGltWUpRN2djemc2Y2JvN1NwUzgyd1o5a3dJTXJ0NjNhanVSREpnVDJMalhWMXlBNWhqazJ1Qmh4b2s3aWxCX1FuVDctQ2p1ZmdvZE03M2V6VlEtdDJFWFM0QlFiUFNHOHhMSlpURlp0bjZieUM4R3J2cVJ2bnBVYldpRS1nZ2Nw?oc=5",
+          "title": "Biomaterial helps to reverse aging in the heart",
+          "publisher": "Lab + Life Scientist"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXZqRFVLQ25oaFhPaHlEbjdqLTBfU3FaLVUzd3QtZjJnOGVXMkozYlNTY3Y5T2M3UkQ0V2xrTlZkaEQ0Z3FfT2hDZ0Q4aFNqa1RFT1EtTnlSMjdYRFRSOExSZUVWclFDRjVDVV9KbDhWLWtJczY1dGw3QzBfZWIwSXF1ZmVHdDV1QVFxV0Q3OHNEaFJjTlJISk5zNFRwSkdvY2loeVREa3RNV3VicFBiNEZXbG5EU2xqcHfSAc4BQVVfeXFMT2liZ1dPVWctRXhVR0ZlWHRqTXhaNlgwbHpBaklTRDNUQ2hnNVNKS1BZSDJEalZERTF5dzNLcHRoZ1piMGRvWHZJWGhObXdvQzlEOHdZai1Fc1hLdFM3ZjdUS1RJbHlCdEF2dndZNFhuaC13clFhN1RFZ3dqQlRsOFRrYlFkd1VEeVF5ZGF3ZDY4Vnl1aFl0aUcteWk4M3AxaUpCUXE1dEIxM0RneG9GREpuN2dUaEtjQk9uTHU1WEJyVlduSUVHNGN6cXY4TVE?oc=5",
+          "title": "Healthy aging hearts are less susceptible to irregular heart beat, researchers say",
+          "publisher": "WDBJ7"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR2JreHVwLUNMX01Pa3UyclpwODR4b1BfaTNzNGFicDJNLXFkR0dwLVlWWmk5N2FTeEdsRVBvWEFXUmdzZzNVQ3lvcG9YeGZWOGtWSXViWExDQUdGN3B2VVBha2RVS2xZeVJSaE4zU0FyNjU1NEVoTGZsOE5BaXJrY05PWDV1MllGMWhrSFFKWHdZbEh0dHZIVHVPTXJ0NDJIUlg0ZGxpbDB3dG1vaG9wejFxU2thZF9BYUhST1EyWldDSWp6bFMyekduMU8tRVhMS1Rfbw?oc=5",
+          "title": "How old is your heart? MRI technology reveals an unhealthy lifestyle add decades",
+          "publisher": "Health News Florida"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc0tsclVQOXFoZzhjb1R0Z09WS2lOQXdnV3hwSGFyVWtqSWYtVThCS0x3NXhJcE56MF9wWk12OXBnUng0UjhHLW4zb0EzaEx0TDZkV3FOM0RVM05jMXpELTdaYmVjdVEyZmlQNzZ5MVIxQm1pNUVLRnp3cXE4Vms1YQ?oc=5",
+          "title": "Scientists mimic young tissue to reverse ageing in the heart",
+          "publisher": "Interesting Engineering"
+        }
+      ]
+    },
+    {
+      "title": "Cancer-stricken mother's heartbreak after son's chilling confession - Daily Mail",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSVJ6cHRqbnJkd3c5WEdkWGpfZEVTTzE2cjlYd2g0TWw5cXFqZ3c5Z3RkZHlScHlNblRUMDZrM29IWHlIZ3A3QzFPc2VTSXphcFF2TWl0dm5ldDROUVJXVEF1bFJUSWZEYUZjeTRiVlFtbWxnV2lvNXlLSUYxN3hOSUtzYVpzcEZqSVhEQmVqbUo4UDB6ZlRzNnhVRC0yUHlzclVJemtWR3RVTlptcW5uNnpB0gG3AUFVX3lxTFBzbkxCMjI1WXVxLUtjTUQ3bkpNLTJhYmlqc3pDNDNUNUFqZmw0cG5idHNkUUF5a2RLTTl1dE1nZGhQWTRPcm9ZOGxWUGEzUVIwTmZKbnIzTVoteDRRNlNPTmVjc3c1c1E1VFRsZXdhdlhVOXVLMzhNd2ROZzlQcERCNWlfOVFZVUlzSG5IdmpYQzRmWmlwU2hYTDZBLV9ZQW81RFAxTmZEYWcxZy1TZDFIUzNBU2dtdw?oc=5",
+      "published": "Tue, 24 Jun 2025 16:49:50 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        16,
+        49,
+        50,
+        1,
+        175,
+        0
+      ],
+      "source": "Daily Mail",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSVJ6cHRqbnJkd3c5WEdkWGpfZEVTTzE2cjlYd2g0TWw5cXFqZ3c5Z3RkZHlScHlNblRUMDZrM29IWHlIZ3A3QzFPc2VTSXphcFF2TWl0dm5ldDROUVJXVEF1bFJUSWZEYUZjeTRiVlFtbWxnV2lvNXlLSUYxN3hOSUtzYVpzcEZqSVhEQmVqbUo4UDB6ZlRzNnhVRC0yUHlzclVJemtWR3RVTlptcW5uNnpB0gG3AUFVX3lxTFBzbkxCMjI1WXVxLUtjTUQ3bkpNLTJhYmlqc3pDNDNUNUFqZmw0cG5idHNkUUF5a2RLTTl1dE1nZGhQWTRPcm9ZOGxWUGEzUVIwTmZKbnIzTVoteDRRNlNPTmVjc3c1c1E1VFRsZXdhdlhVOXVLMzhNd2ROZzlQcERCNWlfOVFZVUlzSG5IdmpYQzRmWmlwU2hYTDZBLV9ZQW81RFAxTmZEYWcxZy1TZDFIUzNBU2dtdw?oc=5",
+          "title": "Cancer-stricken mother's heartbreak after son's chilling confession",
+          "publisher": "Daily Mail"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQay1pTVFid09lZXZhZDU4QVVCT2FnVGdkdi1sQjZBX0RVVXhoTExCN0pad3I5ZUFILVhnemFmUU5zZHBYSTNFZ3p6ZjlSYk9ncW5zRFJCZXh0YzdBX2lCZHBTdWZfTWZ1dXNnNUlLTE1hTlZUUjFadFBqYUVEelBnVUFnanFxbnF0dEp1ZkV3aGxRUjRNbXNpeVFuQndsTHljcEJSQjZaUGp3Zy02MERrbUY1dFE?oc=5",
+          "title": "Mom of 8 with Stage 3 Breast Cancer Breaks Down in Tears After Unexpected Call from School Nurse (Exclusive)",
+          "publisher": "People.com"
+        }
+      ]
+    },
+    {
+      "title": "This is why you probably don’t need foods with added protein, according to nutritionists - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdGZCWXJVaDJlTVpNOUpyZTE1b0Q4M0NvNEdoekxsYXFGOU5SZi10cW1rQVlEQTRmMU8yRzBnQ0hhaFhaN0hnNjlQV0JkN2N2Zk9DemxKZmZRRm90T0xuU0ItaklLVDlza2RCdmVZd1F0aElydlE5c2phaTlOUzF5TFR3VGpYZ3JKUlk2TDRUb3RCdUpnVXFaa0dELUg4eDhqUnRycS1vYlhwTWhFMndmY0c5bE9mTmd4Z0lzZThWQm5wYmJFNXBOMw?oc=5",
+      "published": "Mon, 23 Jun 2025 14:30:35 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        14,
+        30,
+        35,
+        0,
+        174,
+        0
+      ],
+      "source": "Euronews.com",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdGZCWXJVaDJlTVpNOUpyZTE1b0Q4M0NvNEdoekxsYXFGOU5SZi10cW1rQVlEQTRmMU8yRzBnQ0hhaFhaN0hnNjlQV0JkN2N2Zk9DemxKZmZRRm90T0xuU0ItaklLVDlza2RCdmVZd1F0aElydlE5c2phaTlOUzF5TFR3VGpYZ3JKUlk2TDRUb3RCdUpnVXFaa0dELUg4eDhqUnRycS1vYlhwTWhFMndmY0c5bE9mTmd4Z0lzZThWQm5wYmJFNXBOMw?oc=5",
+          "title": "This is why you probably don’t need foods with added protein, according to nutritionists",
+          "publisher": "Euronews.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mN2xWSmhXc0NaVmc2bGxPTWdiTEFfcS10QmlYZnRuSDRqRW5BNkZLM3lUMUVVZmpUM1VPSHJwVWhHQUNqSWZDOEJvYnRBX1JGX3pSdmdBRkNEb25ERGV1Qm1xc3NQTVdKM3c?oc=5",
+          "title": "Here’s What Eating 100 Grams of Protein a Day Looks Like—From a Nutritionist",
+          "publisher": "health.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaDNGV0lILW1XTXlnRGtiaWtScEZfWkJ2anBYVzRHcEdCLWhEWVlfTVk5N0gyZEtLTVNiNnNHZ1NET2Zvd2tDOF9MQjdUVkMwbzZ1V3dGWnhiOGJLZWNTUzk2dTVqWTR2dzJDMXBZRENpZFp0RzZpdzVSSnp0dXZVakp5ak5sNkhWd19NUmhfbVZ4SmVP0gFUQVVfeXFMT01aVUVtaDZnNVN2ZFFiR05oaXZ3YmY1a3FIZkZBWXFjZlFXSjFNb0hPa1c0Nm04YkpKWXItRkQ1dFdUcEtEalkwdU5DYU1yUm5jVGRL?oc=5",
+          "title": "1 Nutrient You're Likely Not Eating Enough of on a High-Protein Diet",
+          "publisher": "TODAY.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0w5RTNwS3VLamhhNm1jQ1J1dktJTEV3YV9LTXV2TVlwU0NyajdzVDRITWFVOHAwNHdvd2l6QnJkNkJPMlFUSW14M1k2WWQ2eXRCMEFGVEVwS29sY2RMM2hnVmFuRXNIQkctdF9TMkoyLW41QVpTRTNfMUQ5WmVLV0hBak1TWkRIajZId0ln0gGTAUFVX3lxTE1yOFEyQ3ZKUFMzemVFblRScWlwQXhDcXJTZTM0dVpLX19MZmVEb2xCbHY4cmhMOEVpWjFqYmtiYkhKWTFOWUl2Q0MxbE02cThDR0hCOEZaczlLYk9OaFZIczhaQ3NKaUtBd0dicGFPS202STcwblpTY1BpVXRZR2pSMENudWNMcHNjVXZsczdDX3Z5VQ?oc=5",
+          "title": "You probably don't need foods with added protein, nutritionists say",
+          "publisher": "ABC News - Breaking News, Latest News and Videos"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQWNnZlRaU0tlcml3WTRkbnhsa0VlZmdwR1psRmxZZUR4YUhPbFNuQ05zMldrRjNvLWstU2F1R20wWTQzYlBzeDRuOFhFcGU4NHV6RXJOWnkzQmVWQzNISG5EcXdvRXBCQks3NUl6OGdsUEQ4SXYtcHRFR2tYYnlXSmlxVXpNWEpnVjdzYzlRQ3FxSTQtSXJneURQWVhFRnVCZGRFbmpGSWVfdllnWmRTMkN2X1B6RGp5VG0wN2tBSzNFQXRNVU55OTFfcV8?oc=5",
+          "title": "Dr. Roach: How to follow the recommended daily protein allowance",
+          "publisher": "The Detroit News"
+        }
+      ]
+    },
+    {
+      "title": "Some early-onset cancers are on the rise. Why? - Live Science",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaEpQNzJzcGRGMWxBUG5yX21xRkJ1aTQ4em02T2hudVRCSFdhSVlrbnZ4ZWNvd3hrcTI1TS1qcC03Q1I3SS1Jd3otMDI2bjlXUklJNzB3RDN0WlFDM1dHcW1kdXdDczNyOHFQYUlCTDlkdVJJRmZxRkRRNnpNc0w3a0RrTERUU3IyOHN0bV9wZw?oc=5",
+      "published": "Tue, 24 Jun 2025 12:00:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        12,
+        0,
+        0,
+        1,
+        175,
+        0
+      ],
+      "source": "Live Science",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaEpQNzJzcGRGMWxBUG5yX21xRkJ1aTQ4em02T2hudVRCSFdhSVlrbnZ4ZWNvd3hrcTI1TS1qcC03Q1I3SS1Jd3otMDI2bjlXUklJNzB3RDN0WlFDM1dHcW1kdXdDczNyOHFQYUlCTDlkdVJJRmZxRkRRNnpNc0w3a0RrTERUU3IyOHN0bV9wZw?oc=5",
+          "title": "Some early-onset cancers are on the rise. Why?",
+          "publisher": "Live Science"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc3FSYU02NF9YZUVxbjNrZzFLSXR4ZjJCY0hYeXhZQmJrQVlPNTRBSlVWOVdkdWxNUzBrYlhuX19Jc1BwcV9qQ0xGQXRpSUZMeFlybzN2cmZqVEJqbmpXVDhfaDViWUR1S3VUakJCRUpiYWtudUh4aFRjbmNKY2R0S1g1cjd2Q3JtckRiR0ZwM05QQdIBpgFBVV95cUxOeUNGcnA5MlZuTnZxT3JHNzBXQmFzMkNoaGdma08zUHl4V1lWNFBBUnBwVElRSXl0MXhJdDNubzJteGRod21SN0NyWmJPTzMzRUJVV1VPU1d4TW1YWncweVJ0WVhvUDdQdndtcnFDZmZ4VWM5YWFJYWhPc09MSHFYX0pJTGFDUlFzWDBueG9sbnNkZmZtQktxdGkxZlJGNjFwUzVQZEF3?oc=5",
+          "title": "WCTV investigating ‘shocking’ cancer trends in younger adults",
+          "publisher": "WCTV"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSmIyLW9Bc2NQaTduZkpBVzBsZGtnWHRhWVJFTFNxZDZfVlRoWFUwajlsc3lOQTJxZDRId2ljQW40T0ZuTEQzRFVDQ2t5M2xtaS1TNTgzYzlKR0FYSkt6dFJpbUpwYWlacWZNTHVTWHMyU3R5WTVJWFNwUXo2cHp4c3BRYm5PYnJXdWtWU3A2ZXFqVTJFa0c3ZXZlOTRTZkJkVHBNVGkzbUc?oc=5",
+          "title": "Cancer: Addressing Early-Onset Cancers And Your Actions",
+          "publisher": "Health-e News"
+        }
+      ]
     },
     {
       "title": "Third measles case confirmed, Grand Traverse County declares outbreak - WPBN",
@@ -1209,24 +1295,24 @@
           "publisher": "WPBN"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFdaWnJ6eDBCVzZ0LXRpcUtVNU93NWN4VWp5UDJpZmlWM1pFNWZfR3h3LTd2dXpMdlBsY2JKdnluZDFFOWRjZEdicVNyVWx5Qjk4ZU40emtCZi1nQTBoOFBaY1E1QzI4aENPY2Y0cDUyRGM2R2JzS1FWRjBJalpIT2hQSFRrLXZaOHZxVmg2R1diRi1HTzczRjlWWHpsUk9LYzh6ZlBR?oc=5",
-          "title": "Second Measles Case Confirmed, Public Exposure Locations Identified",
-          "publisher": "The Ticker"
-        },
-        {
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVFpNSHhXa3hBTldFai1GdjQyTkF0LURzQm83SmJPV2VuYjNhWC1uX2lESGtXZ2V4MUR4YUpfYzM1c2NYWXlSX2hBcnh0X01JT2lJeHRaM3VhbVp4Zmo2blppWTUzd2lUeXVfYzYtckdocFQ3V24wYi0zVU0yZEtNc1hPY0FBRTF3MGwzWUhjMEhzaklCU3oxWWZjZDBlTXI1U2RzdFpfMUVBYzFyOU9BamNLRHAtckRHMG5BYUVEbk1oTmlIT1RaMFR4TQ?oc=5",
           "title": "Grand Traverse County faces measles outbreak: Health Dept advises caution",
           "publisher": "WZZM13.com"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNQS1jdHRfelZ2VFpzSDVxQ0VYWUdSRTZfN3djSWMxVzdnQkpEWmVQajhXcXRJX2pGTEtwcGtmZTFvMC0yS1dzT0Z5Qm5XOU14RXdfbjN3YXpUVERjWTF0d3JRQWFCLThfSy1PU2FzeEVUNXRmRjg0dTJUeDFWM3FkX05fS3ZBaE1lQlZublRndkVLeldqbjZBTEZNejJGRDZpRXB5ZDMtd1k3UTVYZ1RQWFZCb29zZnZ3MDRhdG9OcEJUSkNfRW1BczlZR3lyUVM2SGdTZVpQX2ZiNnVhYnZnckQ4SFl3SHN2MFM4R0RwRDRHX1hsQm9RLVVBMjFzZ2JuU0w4b0ZZeXdIa0dWdy1z?oc=5",
-          "title": "MEASLES: Walmart, apartment complex ID'd as possible exposure sites, another case confirmed",
-          "publisher": "Traverse City Record-Eagle"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFdaWnJ6eDBCVzZ0LXRpcUtVNU93NWN4VWp5UDJpZmlWM1pFNWZfR3h3LTd2dXpMdlBsY2JKdnluZDFFOWRjZEdicVNyVWx5Qjk4ZU40emtCZi1nQTBoOFBaY1E1QzI4aENPY2Y0cDUyRGM2R2JzS1FWRjBJalpIT2hQSFRrLXZaOHZxVmg2R1diRi1HTzczRjlWWHpsUk9LYzh6ZlBR?oc=5",
+          "title": "Second Measles Case Confirmed, Public Exposure Locations Identified",
+          "publisher": "The Ticker"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1B5LTdBQXBnT1BPanFYdWN4RG1SZVBIT1h4QzNrTEZFTm5MeU55V0RRdmtjNzNuMnNRbVFlLXZLbHJIajF2QjZqUFNjbDd5MVd2QnNDSmlZMUFSaENRT0R6SWNibGRWVm5kVzZZWjM1UjlHTkxfZ29rSDJ5VlQ5d0tXOFNUTGx0U1FSTGE2a0ROZEZvMk45LWMwdzk5cjI4ejJSb2FsS0lOdXPSAb8BQVVfeXFMTW9kdEdFZlMwVTc0Vm41Uk9ybkJJQXVNNHhNbFFnNmVQUnhCTHI4bDlia0lpYkc2cjlpMHhQNm02Qlg3dk80WG5Ib19hLUJTRG1TcE9fczctRmNjRXpjNG5PeWYxdFp0V0x1M1RWMHN4M0hhWnlMbDJRNl9OMEtMdEhKSVJ2T3FGQXJ4Q2VNc1Rya2VfekZEbHJzVzVxdllPZWx3S284NFQ0bGF3QlJhVHpyME9WMlhPczUxeHR0cjA?oc=5",
-          "title": "Measles outbreak declared in Grand Traverse County after third case",
-          "publisher": "MLive.com"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWtZQWZoUDZjdGk4MDlXVU16dXo5V3FHTk1ZdURTaUk2WTlla1gzOE5pUnRSVlJjUTVtcEJfZzVIUW1LNW5qbWJhOEQyc0Rhb3N0bWdMSGNPYmR4dENmNFE1T21QMUpaS2NKY3MwdGFsNTNtVFZOUEZydkd5ZTRZd1pxRVdhUWVPQzBVXzJSd1NKSG9wbUVZdzZIRTc2UjFU?oc=5",
+          "title": "Third confirmed measles case reported in Grand Traverse County",
+          "publisher": "9&10 News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTdTV0lyZjBNSUJxekhkcU5zUWxnamV2LXMyTjI5dVFpSE1OcTd5dTVzRjdhS2o2X0hzUk0zT0lSOEVDeHgzT25qdmhnS0tBT1FJaFV5eEdUdktVUUcyZkhtNFJSTU5zR01RUVRhd2tQT0U1ZXFPVWd0bUJJSTBTSHpWdmc1VVRwU2c0X3FScmN5MmxxYnlwUmlMdHppNWdnNWtPcWhZTlhYR3JGc2ZYYw?oc=5",
+          "title": "UPDATE: Measles outbreak declared in Grand Traverse County",
+          "publisher": "WCMU Public Radio"
         }
       ]
     },
@@ -1270,46 +1356,126 @@
       ]
     },
     {
-      "title": "Scientists Revealed How Much Exercise You Need to 'Offset' Sitting All Day - ScienceAlert",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFloOXB0N2xvZ0pWb210MXNjcW5LanJFNWhTNFhhUHo2a0hwZWNBV3phRWFuVmxKMGhQN1AxRjZCeTJiME9TYkFpWE5VRUw2V3BrNk1tOGZ5SjFPdHE2TTZnSmJYSlpnd0g0WkoxSW5YVTZTSWVCa0w1al9Od0tncXVod3U4djRKQS14ajVBZ09qSEp2SFltdDdCVjhUWGJrSUE0?oc=5",
-      "published": "Tue, 24 Jun 2025 13:02:08 GMT",
+      "title": "Consultant cardiologist says small step will slash cholesterol - Surrey Live",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNi1PVEtUaHJwRzJuYWx3ckVqQm5MN185T0xNOWlOc1daS0NfSVZsN3RBN2Y2RjZidy1xbklQOXlFc1RONkNaek1uR2p1cGJ3MGdWcHBpNlM1ZlNDSzM0S3JwRFY1R3ZGSEI1Mk1qclRTemhNYmZHZ3c1N3FXRXlidzZfZVV4b0lxdnd0X0h1OGlRQQ?oc=5",
+      "published": "Tue, 24 Jun 2025 12:48:00 GMT",
       "published_parsed": [
         2025,
         6,
         24,
-        13,
-        2,
-        8,
+        12,
+        48,
+        0,
         1,
         175,
         0
       ],
-      "source": "ScienceAlert",
+      "source": "Surrey Live",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFloOXB0N2xvZ0pWb210MXNjcW5LanJFNWhTNFhhUHo2a0hwZWNBV3phRWFuVmxKMGhQN1AxRjZCeTJiME9TYkFpWE5VRUw2V3BrNk1tOGZ5SjFPdHE2TTZnSmJYSlpnd0g0WkoxSW5YVTZTSWVCa0w1al9Od0tncXVod3U4djRKQS14ajVBZ09qSEp2SFltdDdCVjhUWGJrSUE0?oc=5",
-          "title": "Scientists Revealed How Much Exercise You Need to 'Offset' Sitting All Day",
-          "publisher": "ScienceAlert"
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNi1PVEtUaHJwRzJuYWx3ckVqQm5MN185T0xNOWlOc1daS0NfSVZsN3RBN2Y2RjZidy1xbklQOXlFc1RONkNaek1uR2p1cGJ3MGdWcHBpNlM1ZlNDSzM0S3JwRFY1R3ZGSEI1Mk1qclRTemhNYmZHZ3c1N3FXRXlidzZfZVV4b0lxdnd0X0h1OGlRQQ?oc=5",
+          "title": "Consultant cardiologist says small step will slash cholesterol",
+          "publisher": "Surrey Live"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdUFfbzQyVUlRYnZld3dUeTNiU0RRRzAxczgySVJQQzJ0NVl4SkZHODY5cFRnZUJ3WmRGeU1BWF84SHc3RUJHWmpBaUpnMFdla3phdXFkRkJueFpZd1ljM044TW5HRDNrRk1fMHQyM3dQWVBmanhLNW14YTFuUWFBSlc2aEMzc0JRTnZheTRjTUhXUWtTaFhGUXFlOHVsWkIxMkVqVTUteGFHLXVhWFZZcXExbk9ZY0hBNTRNQVhKODZLbUJpeXh5WXc0dFpwM0duam9sT0ItZGtWNGxORjZZMXlwQXJtTGxlYVpJSU1jSkhIOU1YdTJnSllSbDA0Sms?oc=5",
-          "title": "The BEST exercise for heart health, according to top US cardiac surgeon",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSkRyZFNaaVVyVWhBVW9kQmxFQTVndlVmVG1SQVFLbEFDbF9kdk1VdGI3V0ZGZjhxaWhpRVR6VDFpQTcxZEtRM3ZwaG8zWlhiRnp4UlctaWJ5R3VadUtzeWZPS2FIdW5nLW1NMmE5Y1RaWThkZExVOVY2TnVVZWw0YmRuUllVdm9NT0pxd0RJakJEYlJRU0NNRkpLTzR5MkI1X2RVQ05sdE9NaVQ5aVpxajd0X0dKdThWQTJMY3J5a0Fud1BFd1QzMFY0ajdHTjVaOHJEb2FhWTltX2NDeDlMWlJ4VQ?oc=5",
+          "title": "4 everyday habits that help prevent heart attacks",
           "publisher": "Times of India"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUGpITW9EaUxETFVKWHNBYjFjQjlldFZxakI0ekRzY2VJdmZTZjlEd1pYY0w1Tm8tbGtmXzFsWExUQzJ0UFdjTWZTVDlCcEtVeFp3ZHM3aGZpRG1yZERaaWs2MllBTjJYMXBndGJxVDBNcGRFc1B5RDAzM0JlOHluRnVId0dPNE5ScjBkaE1tb245em0tQVM5djczRTN6RGdSVWNwd3VSODdoZXFxNGpSd1hKNWx3OTJQYlV6amI3N054NXFobDA2U3JCS1ZTb2dj?oc=5",
-          "title": "‘Active breaks’ can combat the health risks of a sedentary lifestyle, but what kind of exercise is best?",
-          "publisher": "The Conversation"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNmtEM0s3SlpTZHJ1TWtkVTFEd0lRbGE5Qzl2OWdJcnFPWC0wWTNReURfWXp0VkJpRWN6bjBMVW05NXVQOTZuajBod004UmhQdzVDcndSamVuZG5lRDVsOEw5bDE0aEpHTHotZndQRVNwUjNKZnJvT1R6a1pIMjA0bUpVM2xQNzBITTMzZTMzTUE2eWRIdHVxdi1zMTkxMmxD?oc=5",
+          "title": "7 small changes that will significantly cut your risk of heart disease",
+          "publisher": "BBC Science Focus Magazine"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWDU4OUd4RXlXT2lkZGFIbHRiZUZIdUdvUVprdmVJakRNcjhwQVZPRWhCajFzRVMwVGNHOU9PXy0tWUZCckdIZGI4Szh4Nzk1QTd3SDBvcE1CaUNqS2tlVkZMZ19oV21SZ2lfVl8wOGx1NDRSTUQyWGl4a0UxMnAzd21uYzZ6Y0Z0eEk4RjFhamJ6OHQ3S180?oc=5",
-          "title": "Want to reduce your heart attack risk? Do this kind of exercise",
-          "publisher": "The Independent"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91SjZHclZ0SExaT0tWVEN4M01IOU1mSmxhRWJVZ1l1eThUTUlCVHc3MlRQdTdqd21uMzM2ZEF1bzFzTlRQUkFVUElxQXRuZWdoM09XR0hibHpJbGd0NWFrMGNxUXNNdlFJQ2Y2YjhianZDM1owdHZEUA?oc=5",
+          "title": "How to Boost Heart Health Now",
+          "publisher": "UFCW 3000"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU0txVHlKUWpuMTNuSEZPMUx5NGtoczRlNlVzRjhQcVd5Zk4td0tULTBNaDM2LWtLcmVibVQyczlUUjQ0QjU4WmpXVk1OajBvX0kyUzRVT2EyWE9pbFB6cEh4RWRPMldmWW1sZVhhejFFU1R4c1NMNy1wdGFaellyOGtNYmhpNlhuRFRfQnVjOUxPLTE2aDI3ONIBVEFVX3lxTE43UWFEUXlnRFhTQkp1ZlE2MV8ydVFjb3RYOG9yWHNIU0N4cTY2WkJGVk03MnFBdEVDQ3lKemdDNTdqR3NWeG5IS3F1WDBpNXVtTUN2RQ?oc=5",
-          "title": "The No. 1 Exercise to Lower Heart Attack Risk, According to a Cardiologist",
-          "publisher": "TODAY.com"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOFZtVTh6eE9MNzVLb1U1bGo5ZWFxVHBaYzdNNWVXeHpoUlYtWVh2WVJlS01ycUlXbVpqbmE0MlN1MDk4Q3VsOHllN3g5U2I4NVFTck01S2wyeWxnY0VyWWVBZGV1amxDOEtGVFlNQmxPdVRrdFd2RXlxRnVPRm9lY0pwTXNsYlRuTnVuYjFXVE13b3RrbmdBVzJGaFRfUQ?oc=5",
+          "title": "Cardiologist explained which daily habits help fight aging",
+          "publisher": "Baku.ws"
+        }
+      ]
+    },
+    {
+      "title": "Heat wave linked to rise in opioid overdoses in Chicago over the weekend, health experts say - Chicago Sun-Times",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSTJWUGQ2eTZwQ0thNGhyc29XQnlWRWdIMHN0NVM1Y1dCbUVOTnh4NGNaWFlUbjNhQXBsaGk3T1lVcmMwcVB2el9rMGlfZFd3QW5TSVp0NHdfakZoZjB3aHJUZUt0cExZZ2VTWDRWY0YyUnZGdEpBemlsVE9sUVRWbWlablY4azNmN3VUZWNva25RSFZoOFkzTW5NV2xYWnpJZzdkeDJrNWl6QlhlSWFFdHEwRGY3V0RuY2U2dkFrcjlwUQ?oc=5",
+      "published": "Tue, 24 Jun 2025 01:00:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        1,
+        0,
+        0,
+        1,
+        175,
+        0
+      ],
+      "source": "Chicago Sun-Times",
+      "sub_articles": []
+    },
+    {
+      "title": "Real Doctors of New York Spill Their Guts - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlBZTnNsYmRpZjlpYnVHSkNoSnQ0TVBydTFNUWpyQ292a1JyTHhUS3RnOTZud3VBZXlKQ080Q1BZQTlZTTZYS3VGTUctb21PeUZ1Nk1XdVV5WW4xSHp4RlhHYjFrb1NvempJUlluSGpOdFJ6RVBfcWdWMFFIcXIzV05zVFlBdjZSZWFtX2VkWQ?oc=5",
+      "published": "Tue, 24 Jun 2025 09:00:30 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        9,
+        0,
+        30,
+        1,
+        175,
+        0
+      ],
+      "source": "The New York Times",
+      "sub_articles": []
+    },
+    {
+      "title": "Can creatine supplements make you fat? Doctor busts 4 myths, shares tips to use it effectively | Health - Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYWhsQTAtZjhRQkQ3UllLYnNMU0R4bEVfdmx0Vm1maVI4cGRYdTY3UzFYVTVuSThHT3d5SGh1U3FYaHA3MFc1b3ZFVlN4MDJob1hZUG9RaVljTkt1UHE0WU81U21zWUVjck5NRHdWTGltUGxLQnZ2QU9vcjFLbEY3STlxSXBnTU1BaVl1QTRaZjJxTkpxbEJhSTNqYmw2a2YtaENtbWRuTDBtVl9XM1hMajBtVUdzMUZsenFRbjN5b3Z6bHNmcmptMnBkNWhrTXROeG9kb29XM3prUXNULXNVbUszTTJnNUtQanlCUVJKamZBcEnSAfgBQVVfeXFMT0ZyVDA3d1NzOTdnYkxkODYxdG1JeEFDNzNOOEp4czlmSHppRFNPSjVzYXZ6S2djUHBjdmVXVEpjaEtBN0hJR05WN0dBTXR1VHpCTlQ2OFltM1NHV2YzckZnVVpiYTdOYnVReXdSN0djRl9CNUVzOGhKX3hsdlptZy10N3RqY3NTWWlwMlhhbDlaUjdxcnNKandhSXBsSHhQdXc4WVoxZjBNdTk1ZkExN2xXVHVjT0tRNzY0WlNsTnFGajR1S19IWW5vRUFqbm9hTTVFdmFyWjM1d3U2a3RQUDB2R0p0a2dUa25YSXdhVks2RGNjTy1LQUg?oc=5",
+      "published": "Mon, 23 Jun 2025 12:54:42 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        12,
+        54,
+        42,
+        0,
+        174,
+        0
+      ],
+      "source": "Hindustan Times",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYWhsQTAtZjhRQkQ3UllLYnNMU0R4bEVfdmx0Vm1maVI4cGRYdTY3UzFYVTVuSThHT3d5SGh1U3FYaHA3MFc1b3ZFVlN4MDJob1hZUG9RaVljTkt1UHE0WU81U21zWUVjck5NRHdWTGltUGxLQnZ2QU9vcjFLbEY3STlxSXBnTU1BaVl1QTRaZjJxTkpxbEJhSTNqYmw2a2YtaENtbWRuTDBtVl9XM1hMajBtVUdzMUZsenFRbjN5b3Z6bHNmcmptMnBkNWhrTXROeG9kb29XM3prUXNULXNVbUszTTJnNUtQanlCUVJKamZBcEnSAfgBQVVfeXFMT0ZyVDA3d1NzOTdnYkxkODYxdG1JeEFDNzNOOEp4czlmSHppRFNPSjVzYXZ6S2djUHBjdmVXVEpjaEtBN0hJR05WN0dBTXR1VHpCTlQ2OFltM1NHV2YzckZnVVpiYTdOYnVReXdSN0djRl9CNUVzOGhKX3hsdlptZy10N3RqY3NTWWlwMlhhbDlaUjdxcnNKandhSXBsSHhQdXc4WVoxZjBNdTk1ZkExN2xXVHVjT0tRNzY0WlNsTnFGajR1S19IWW5vRUFqbm9hTTVFdmFyWjM1d3U2a3RQUDB2R0p0a2dUa25YSXdhVks2RGNjTy1LQUg?oc=5",
+          "title": "Can creatine supplements make you fat? Doctor busts 4 myths, shares tips to use it effectively | Health - Hindustan Times",
+          "publisher": "Hindustan Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0VBMVBwZVlpZ1FkWDcwUUJVSllralVzLW02MlBHaXVaaGloVUxDM2gwMWNsZE1BbWhPaFNmVzBwVzlsR2w3NmYwQzhjdmpIYW4tQnhLMko5Vl9Pem1nUmg4ZUJ1SkpmazFranJvNncwN3FpcDRMQ3FBRXdwaFdtWXZ2aHhUUmdwTjRPSUhBMmFTVVZlT0ZxMExUMmpLR0pEVFhn?oc=5",
+          "title": "It's not just for gym bros — scientists say a $0.50 muscle-building supplement slows aging and may counteract Alzheimer's",
+          "publisher": "Business Insider"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQk11bTJmQzFHRHMwMjRlRGF5REV5bXJSM1RjWm1LMXY2bDdzUGZMbmMtSDludzB0b1ltd09NMFUxaEx6ckotZE85YmR3VFcwZ2dFem9nZXI0MnFrYU53V2VhcWZnZ0JZNkhNMms3SnJTeml6RG5IUzVKazg0MWotS3ZUQ3VVV1JLd0NBd1F2M01TLVRqSEJvbUFjYjBhenRXOWxuR1pCcFFfVGRkNE9V?oc=5",
+          "title": "This one underrated supplement could sharpen your thinking and slow down aging",
+          "publisher": "VegOut"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWnZ4alRvNURLZkNUdXQ3ZDI3VHZYSFBxWl84UFdEOUlrOGtTUHBTS0VXamtTSGxLR1c3MDhIVkNwUVVhYklqcnFQc0NhMXBDbEc0RjdNZVZIUWU0YW94bFBwRmRxbHQ4YUVBb3FmSVV3SG9vRWpuOVdYSEtJcW9BanNael9KTFRKVzZkUThnRnM4UVNEdFM3Wl93ZzV6dmMzWGZudWsyMGVsRC1mcGNxVW41eFZ0SlJ4TV81YV9JLThUNkprcmfSAcwBQVVfeXFMTTI2MTRtb0o5ay1uby10bXVQbERIZC0xYjh3T2xYNENMMC1iQWpEN2FVeVJHOTJaMmd1el90bXp2Qm5Db1o3OTFWNmVLSm5OMFFiNDRvaTZSczhTV1RMZWFkWnVEWUM2ZWZ4YlBZTm5IazJTU0ZnNnJzNzZsbzZ5cVFvOWt4VnJvZF80TVhVamxkbXZCazlSMEtXUUxXMGh4TWs5N3NXeU9iWFpLN0ZLY01McklpREQwUDFteVBxOGNVVjdOb3lsbmhfTVdC?oc=5",
+          "title": "What Creatine supplementation can—and cannot—do, according to experts",
+          "publisher": "The Hindu"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbnZoSkpEOVA0ZW1ZMFpSdjQ1R1U5YzNodWQ2VWtfWHFRTWcxb0RRc1pCRVM4QVg2cVpUNlJEa1BQbmZwV0t0ZE9rRC14NnlPWXRTSHppa20wOWd3dWx6dS1wSHNVMW5STmRoSGpCTEhVbmFLMDJhUXVhdC15dVpHZUc4ejRTM2FNMnBKT0xLRWVnMEZ3VEpJd1BPbXdBM0FS?oc=5",
+          "title": "Can Creatine Play a Positive Role in Obesity Treatment?",
+          "publisher": "Medscape"
         }
       ]
     },
@@ -1330,35 +1496,6 @@
       ],
       "source": "Earth.com",
       "sub_articles": []
-    },
-    {
-      "title": "From Magnesium to Vitamin D: 8 powerful nutrients (and foods) to boost memory and fight mental decline - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWVVyZFdESXJaZlU0QXFjZzdubmt5dExVSkRYTHdVVkF4dHNiX3daZUt6NDcxNEdia1BLTWdOa1ExQ2dncS1iU2t5SnJLMTBkOEJzOVdTTlBXOUYwdFBEQThBYUNReWhsMWxULWlHZ1NIQ21NbGNqREJ1NXg4U0k2SFFUcGhOZmRZX2F4NkNUTTlLTGhXYWdzX091dnZHbV9GZHI4MURzQmJqWWFMN1p4bzczbnRYZURpV3llLUpyaDY3Z0FkWnpzV2l6Q2dUYzVhRGJHSHVRdElhYTE2WDlCZEpsQ1dnNnZ0ejNuR2RhM1JPUWZuX0xHTjk4ZjZMX2ZZVnJvVjd2c1RoNEFmVnV0Vnpia083X255YmxR?oc=5",
-      "published": "Mon, 23 Jun 2025 21:46:50 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        21,
-        46,
-        50,
-        0,
-        174,
-        0
-      ],
-      "source": "Times of India",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWVVyZFdESXJaZlU0QXFjZzdubmt5dExVSkRYTHdVVkF4dHNiX3daZUt6NDcxNEdia1BLTWdOa1ExQ2dncS1iU2t5SnJLMTBkOEJzOVdTTlBXOUYwdFBEQThBYUNReWhsMWxULWlHZ1NIQ21NbGNqREJ1NXg4U0k2SFFUcGhOZmRZX2F4NkNUTTlLTGhXYWdzX091dnZHbV9GZHI4MURzQmJqWWFMN1p4bzczbnRYZURpV3llLUpyaDY3Z0FkWnpzV2l6Q2dUYzVhRGJHSHVRdElhYTE2WDlCZEpsQ1dnNnZ0ejNuR2RhM1JPUWZuX0xHTjk4ZjZMX2ZZVnJvVjd2c1RoNEFmVnV0Vnpia083X255YmxR?oc=5",
-          "title": "From Magnesium to Vitamin D: 8 powerful nutrients (and foods) to boost memory and fight mental decline",
-          "publisher": "Times of India"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEVKVkthN2ZRM0xQU2J0VFVzR0g5d054cExyeHktenBLdUp3NTBTc2pCM2tzMEV3VEZJeEl3S0YwTkxONHBoVGR5aWJyeDlPMzFyWkdiZ1JiV0FFZG5YNkc2dUE4Z3NBbWFZeVpFRjZEVnN3RHlCQjhoUGlLbzFGQmlOSmQ?oc=5",
-          "title": "7 supplements to boost brain power",
-          "publisher": "India.Com"
-        }
-      ]
     },
     {
       "title": "TikTok bans #SkinnyTok. But content promoting unhealthy eating persists - NPR",
@@ -1383,6 +1520,11 @@
           "publisher": "NPR"
         },
         {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaXVTNzJRQXE2UDctbUpiNlpqZ28zWF9mQXFfNWotdHEtb200N3NCc28wWVZZbTRtMzNIUGoyUTZoTU03aEFIOS04VVZ4YVdvR0d3eWVqOUhSQWRSVjlTaTJROE0wMzhPX3JvQWdKNEhSTDhRNGpMNVpyUWJQY2lhUTNTSm1DNkdBc3ZKMEVJdm12ekJkNFBCcTdLc1FpZ3dL?oc=5",
+          "title": "The Body-Positivity Movement Is Over",
+          "publisher": "The Atlantic"
+        },
+        {
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUl5dzZQdWloUHhkNTlFaGJuNEFVbUlDQ1h5N2t0R0xpMzVFLWRjSTdLckt2LTNUWXV3YVZPdlJFX0Q2b2ppQVFDbjVEUG94ZTZNSVZZOUVRR19DcExzSWJ1RG9CamNaZVB0QV9ORmVaT0ZyRGdSTndQeDBud2J1aWh3dUdMcnlfaU9BODZrRmVRbi1sX01FZUR1UHZodw?oc=5",
           "title": "TikTok has banned #SkinnyTok, but will it make a difference?",
           "publisher": "USA Today"
@@ -1396,11 +1538,6 @@
           "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPOXN2R2ZJSXh6UHdNcEJlS25Zc1hUeVU5TW52NE1XOE9MVVZOdGhhQ0cyb2Y4eXRpNkx3RmxXcGlxRUZtSXRpQzV3MnNGZXFMOHhiTmlmYVY2M2c5MTQ5QkhjSEdqVXZwLWRWcHp0dGxtcjEyam54U3JDNXNKb0ZWbHZRRDFFNDVoOEE1ckdwd3NoVXdTYU9zaFkyUDdVcVRabFZqSGlOcHA5MXhUQ3h5SXc5a0phNWV3UGNZVEZPVHdYRlNhUnZRa3V5Q3V6TFJXdW1fM2R3OUgtR0ZIWk5IQmlrYTdhVmNwcW83dVlmaDAxTjhDTlY5a294R3BXdFgwa2VlQ0R3OXVQdWtpS1RwcnFJMVV3aGJfemxpZHVlbWx1V0lHZF9ZUEZrSFEzZG1EalpLbzZB?oc=5",
           "title": "Inside SkinnyTok, the online community where being thin is unapologetically in: ‘Stop rewarding yourself with treats. You are not a dog’",
           "publisher": "Toronto Star"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1obEtWd3ZCdTV0XzV6LS14amZvM25GanUyQmFNTzQxLWFoN21ULXJWQ0N0VVRoYTVyY1lzRll5enZHUkU1RTF0akhZWDVmYVBoQ1ZVdU5qUnBpeW92d1Jmb0I3Z2lHOElKSjZGR0NCdkpkYjdsd0pj?oc=5",
-          "title": "I quit TikTok to avoid eating disorder relapse",
-          "publisher": "AOL.com"
         }
       ]
     },
@@ -1449,75 +1586,90 @@
       ]
     },
     {
-      "title": "Consultant cardiologist says small step will slash cholesterol - Surrey Live",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNi1PVEtUaHJwRzJuYWx3ckVqQm5MN185T0xNOWlOc1daS0NfSVZsN3RBN2Y2RjZidy1xbklQOXlFc1RONkNaek1uR2p1cGJ3MGdWcHBpNlM1ZlNDSzM0S3JwRFY1R3ZGSEI1Mk1qclRTemhNYmZHZ3c1N3FXRXlidzZfZVV4b0lxdnd0X0h1OGlRQQ?oc=5",
-      "published": "Tue, 24 Jun 2025 12:48:00 GMT",
+      "title": "Scientists Revealed How Much Exercise You Need to 'Offset' Sitting All Day - ScienceAlert",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFloOXB0N2xvZ0pWb210MXNjcW5LanJFNWhTNFhhUHo2a0hwZWNBV3phRWFuVmxKMGhQN1AxRjZCeTJiME9TYkFpWE5VRUw2V3BrNk1tOGZ5SjFPdHE2TTZnSmJYSlpnd0g0WkoxSW5YVTZTSWVCa0w1al9Od0tncXVod3U4djRKQS14ajVBZ09qSEp2SFltdDdCVjhUWGJrSUE0?oc=5",
+      "published": "Tue, 24 Jun 2025 13:02:08 GMT",
       "published_parsed": [
         2025,
         6,
         24,
-        12,
-        48,
-        0,
+        13,
+        2,
+        8,
         1,
         175,
         0
       ],
-      "source": "Surrey Live",
+      "source": "ScienceAlert",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNi1PVEtUaHJwRzJuYWx3ckVqQm5MN185T0xNOWlOc1daS0NfSVZsN3RBN2Y2RjZidy1xbklQOXlFc1RONkNaek1uR2p1cGJ3MGdWcHBpNlM1ZlNDSzM0S3JwRFY1R3ZGSEI1Mk1qclRTemhNYmZHZ3c1N3FXRXlidzZfZVV4b0lxdnd0X0h1OGlRQQ?oc=5",
-          "title": "Consultant cardiologist says small step will slash cholesterol",
-          "publisher": "Surrey Live"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFloOXB0N2xvZ0pWb210MXNjcW5LanJFNWhTNFhhUHo2a0hwZWNBV3phRWFuVmxKMGhQN1AxRjZCeTJiME9TYkFpWE5VRUw2V3BrNk1tOGZ5SjFPdHE2TTZnSmJYSlpnd0g0WkoxSW5YVTZTSWVCa0w1al9Od0tncXVod3U4djRKQS14ajVBZ09qSEp2SFltdDdCVjhUWGJrSUE0?oc=5",
+          "title": "Scientists Revealed How Much Exercise You Need to 'Offset' Sitting All Day",
+          "publisher": "ScienceAlert"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNmtEM0s3SlpTZHJ1TWtkVTFEd0lRbGE5Qzl2OWdJcnFPWC0wWTNReURfWXp0VkJpRWN6bjBMVW05NXVQOTZuajBod004UmhQdzVDcndSamVuZG5lRDVsOEw5bDE0aEpHTHotZndQRVNwUjNKZnJvT1R6a1pIMjA0bUpVM2xQNzBITTMzZTMzTUE2eWRIdHVxdi1zMTkxMmxD?oc=5",
-          "title": "7 small changes that will significantly cut your risk of heart disease",
-          "publisher": "BBC Science Focus Magazine"
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdUFfbzQyVUlRYnZld3dUeTNiU0RRRzAxczgySVJQQzJ0NVl4SkZHODY5cFRnZUJ3WmRGeU1BWF84SHc3RUJHWmpBaUpnMFdla3phdXFkRkJueFpZd1ljM044TW5HRDNrRk1fMHQyM3dQWVBmanhLNW14YTFuUWFBSlc2aEMzc0JRTnZheTRjTUhXUWtTaFhGUXFlOHVsWkIxMkVqVTUteGFHLXVhWFZZcXExbk9ZY0hBNTRNQVhKODZLbUJpeXh5WXc0dFpwM0duam9sT0ItZGtWNGxORjZZMXlwQXJtTGxlYVpJSU1jSkhIOU1YdTJnSllSbDA0Sms?oc=5",
+          "title": "The BEST exercise for heart health, according to top US cardiac surgeon",
+          "publisher": "Times of India"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91SjZHclZ0SExaT0tWVEN4M01IOU1mSmxhRWJVZ1l1eThUTUlCVHc3MlRQdTdqd21uMzM2ZEF1bzFzTlRQUkFVUElxQXRuZWdoM09XR0hibHpJbGd0NWFrMGNxUXNNdlFJQ2Y2YjhianZDM1owdHZEUA?oc=5",
-          "title": "How to Boost Heart Health Now",
-          "publisher": "UFCW 3000"
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUGpITW9EaUxETFVKWHNBYjFjQjlldFZxakI0ekRzY2VJdmZTZjlEd1pYY0w1Tm8tbGtmXzFsWExUQzJ0UFdjTWZTVDlCcEtVeFp3ZHM3aGZpRG1yZERaaWs2MllBTjJYMXBndGJxVDBNcGRFc1B5RDAzM0JlOHluRnVId0dPNE5ScjBkaE1tb245em0tQVM5djczRTN6RGdSVWNwd3VSODdoZXFxNGpSd1hKNWx3OTJQYlV6amI3N054NXFobDA2U3JCS1ZTb2dj?oc=5",
+          "title": "‘Active breaks’ can combat the health risks of a sedentary lifestyle, but what kind of exercise is best?",
+          "publisher": "The Conversation"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOFZtVTh6eE9MNzVLb1U1bGo5ZWFxVHBaYzdNNWVXeHpoUlYtWVh2WVJlS01ycUlXbVpqbmE0MlN1MDk4Q3VsOHllN3g5U2I4NVFTck01S2wyeWxnY0VyWWVBZGV1amxDOEtGVFlNQmxPdVRrdFd2RXlxRnVPRm9lY0pwTXNsYlRuTnVuYjFXVE13b3RrbmdBVzJGaFRfUQ?oc=5",
-          "title": "Cardiologist explained which daily habits help fight aging",
-          "publisher": "Baku.ws"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWDU4OUd4RXlXT2lkZGFIbHRiZUZIdUdvUVprdmVJakRNcjhwQVZPRWhCajFzRVMwVGNHOU9PXy0tWUZCckdIZGI4Szh4Nzk1QTd3SDBvcE1CaUNqS2tlVkZMZ19oV21SZ2lfVl8wOGx1NDRSTUQyWGl4a0UxMnAzd21uYzZ6Y0Z0eEk4RjFhamJ6OHQ3S180?oc=5",
+          "title": "Want to reduce your heart attack risk? Do this kind of exercise",
+          "publisher": "The Independent"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mU0o4MEMyQTRqTVZLcUdmZWZlYkpTSmtldlVKeHBWT1ktNGdFSDdHUnFSQ3hVbDRYWUwwLWpNam1rYmRLT0FmbzI1WGNaY3RoblAyWnlBdmd5OUlFeFh5bjNQWG93Q3l4MWU0SlFMWQ?oc=5",
-          "title": "The 7 Daily Tips This Cardiologist Swears By For Anti-Aging",
-          "publisher": "Eat This Not That"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU0txVHlKUWpuMTNuSEZPMUx5NGtoczRlNlVzRjhQcVd5Zk4td0tULTBNaDM2LWtLcmVibVQyczlUUjQ0QjU4WmpXVk1OajBvX0kyUzRVT2EyWE9pbFB6cEh4RWRPMldmWW1sZVhhejFFU1R4c1NMNy1wdGFaellyOGtNYmhpNlhuRFRfQnVjOUxPLTE2aDI3ONIBVEFVX3lxTE43UWFEUXlnRFhTQkp1ZlE2MV8ydVFjb3RYOG9yWHNIU0N4cTY2WkJGVk03MnFBdEVDQ3lKemdDNTdqR3NWeG5IS3F1WDBpNXVtTUN2RQ?oc=5",
+          "title": "The No. 1 Exercise to Lower Heart Attack Risk, According to a Cardiologist",
+          "publisher": "TODAY.com"
         }
       ]
     },
     {
-      "title": "Some early-onset cancers are on the rise. Why? - Live Science",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaEpQNzJzcGRGMWxBUG5yX21xRkJ1aTQ4em02T2hudVRCSFdhSVlrbnZ4ZWNvd3hrcTI1TS1qcC03Q1I3SS1Jd3otMDI2bjlXUklJNzB3RDN0WlFDM1dHcW1kdXdDczNyOHFQYUlCTDlkdVJJRmZxRkRRNnpNc0w3a0RrTERUU3IyOHN0bV9wZw?oc=5",
-      "published": "Tue, 24 Jun 2025 12:00:00 GMT",
+      "title": "People who still look young into their 60s and beyond usually have these 6 evening habits - VegOut",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd1VxdVlQcFdGWGx0SHN0LWhTSDNsYU13SmRXVHhQejR4MlpuM3lxNE9kWE15NGFZLU9DdERFeElfYm0wMXZJQmNlRmI1N2lLOXF0NE1yOEJuTlpnQUFzTnRVZ3ktR3JRNzVxLVp1dEFsTkhFdm9UdV9iSTNrMEJ2NEl4d24xU213VWVrUjFxUnRXaVhrNXlPWTloU1A2VEZhaF9JQWtIQ2NaMHdmNXlXYjJrWmtGQzJ4bXpVb19TeDNaWHJH?oc=5",
+      "published": "Tue, 24 Jun 2025 14:12:10 GMT",
       "published_parsed": [
         2025,
         6,
         24,
+        14,
         12,
-        0,
-        0,
+        10,
         1,
         175,
         0
       ],
-      "source": "Live Science",
+      "source": "VegOut",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaEpQNzJzcGRGMWxBUG5yX21xRkJ1aTQ4em02T2hudVRCSFdhSVlrbnZ4ZWNvd3hrcTI1TS1qcC03Q1I3SS1Jd3otMDI2bjlXUklJNzB3RDN0WlFDM1dHcW1kdXdDczNyOHFQYUlCTDlkdVJJRmZxRkRRNnpNc0w3a0RrTERUU3IyOHN0bV9wZw?oc=5",
-          "title": "Some early-onset cancers are on the rise. Why?",
-          "publisher": "Live Science"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd1VxdVlQcFdGWGx0SHN0LWhTSDNsYU13SmRXVHhQejR4MlpuM3lxNE9kWE15NGFZLU9DdERFeElfYm0wMXZJQmNlRmI1N2lLOXF0NE1yOEJuTlpnQUFzTnRVZ3ktR3JRNzVxLVp1dEFsTkhFdm9UdV9iSTNrMEJ2NEl4d24xU213VWVrUjFxUnRXaVhrNXlPWTloU1A2VEZhaF9JQWtIQ2NaMHdmNXlXYjJrWmtGQzJ4bXpVb19TeDNaWHJH?oc=5",
+          "title": "People who still look young into their 60s and beyond usually have these 6 evening habits",
+          "publisher": "VegOut"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSmIyLW9Bc2NQaTduZkpBVzBsZGtnWHRhWVJFTFNxZDZfVlRoWFUwajlsc3lOQTJxZDRId2ljQW40T0ZuTEQzRFVDQ2t5M2xtaS1TNTgzYzlKR0FYSkt6dFJpbUpwYWlacWZNTHVTWHMyU3R5WTVJWFNwUXo2cHp4c3BRYm5PYnJXdWtWU3A2ZXFqVTJFa0c3ZXZlOTRTZkJkVHBNVGkzbUc?oc=5",
-          "title": "Cancer: Addressing Early-Onset Cancers And Your Actions",
-          "publisher": "Health-e News"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSDBrMU9iZEVCX0xaZ1VXYUc0ZkJLY0I0ZmpqTG12cElyVG1tWllNVEJmdHM5RnRtdUp5TmVQOVUyWE5WQVhjUk45WGFqeExGRXFqc1lvSG0wR2sxcndkc0FfbEJwbW93a0xEa1VwZjNCMi03NFIxeVhjdnhNZXFzblYzV1dCZVVTeGlCUEpRcw?oc=5",
+          "title": "'I'm nearly 60 but no one believes me - a nightly practice guarantees a youthful complexion'",
+          "publisher": "GB News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUI0eXg3S180NGhBNmtFc1kxc21paGdLOTBRakpHRm5uWEp0RUtsR3piYjdidklWTkUzUmFuUjJrVUdlZU9rNlFzUU9uNE8yTWRxbWl4Q0ZRQ25EODQxUXpaeVI5OHNFNjBkbFNNWmZlLTZsY0JjRS1HNkF6OEFZUXdlZHpkTmJEZm9lZ2pqQi1LQ1RjSkxTX196TlJrTS1vbGR0MWV3?oc=5",
+          "title": "7 simple self-care rituals that slow down aging and boost vitality",
+          "publisher": "VegOut"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWU9sTURTbk00NFF3ZUFIR05weWFMdzlhc3VzVTJ2bTlJUmtvNjhmLUx3N2tNVTVPaWpJZUhfam9HUHBYbjA0bDRaekY4aVZvQXVrVmhvLXFmSk9na0JyVFIweUo1Y1gyT0pJbUpwNlFLYmRwZlk4TmVsdEd4ZzhLV21fR0FjVEFvNjg5VjZaV0lJQVJXODBveVEzNjBxUkZVSU9vTUVMVzdSaDhPZy1aNHgtUllITHAzWlhBNGJB?oc=5",
+          "title": "9 morning habits of people who age slower than everyone else, according to psychology",
+          "publisher": "VegOut"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXUyTzhlZ1o3TTlSR1pqSkI0elg1SjhDY3JHaHQ2QUgtVTRlZlZLZ3lXTFJpaHFwazZYRzFGb2dzRUk2bHZmNGVFWFVwblN3WVBQVm9NdXIwVGdiMndYZmFFRGRpaWszV25jVGhQMTU5M0VRYU1jM1I0RTlfSVBEMWk5Mzc1Y2VCWWUyZHhsNzdrODZvQnR5MEM0MnlSd3ZHYTNMOFNSZXRXQkIxNTdPTVhR?oc=5",
+          "title": "If you’ve embraced these 6 daily routines, you are a master of graceful aging",
+          "publisher": "VegOut"
         }
       ]
     },
@@ -1540,156 +1692,6 @@
       "sub_articles": []
     },
     {
-      "title": "Dad woke up at night with stomach pain - weeks later he was dead - Surrey Live",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MY3ZPTU1XLW4wT01uUk45N0RIMVlWaVFvbnJ1M1pabFRaWFdDYW5JR3B5dXJ5eGlHZ2VaeTdwVW9BdGVucmFOaWVyakxpQ1RxTTU0VFNrX2RRSlktajBGOEtFUjhRMXpBQTd0SmFkTDVneExHMG9IdEhIcnJiLXPSAYQBQVVfeXFMTTA3enV6X3V3X2JHTkRHZjduTmlFWGcyT3BwX2g1WjBhbXBVaXFpMDVvVGd6UGF1SFZWSkdfNER5Wm10N3B2d2pqZjhnbVlwX09UWWZ3MnhrVXZPdnM0VkJQRW1hOF9mSGNBSGZGWmhQOUtoMzhOMWJIRHNuNl8xS1dkZTNF?oc=5",
-      "published": "Tue, 24 Jun 2025 08:06:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        8,
-        6,
-        0,
-        1,
-        175,
-        0
-      ],
-      "source": "Surrey Live",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MY3ZPTU1XLW4wT01uUk45N0RIMVlWaVFvbnJ1M1pabFRaWFdDYW5JR3B5dXJ5eGlHZ2VaeTdwVW9BdGVucmFOaWVyakxpQ1RxTTU0VFNrX2RRSlktajBGOEtFUjhRMXpBQTd0SmFkTDVneExHMG9IdEhIcnJiLXPSAYQBQVVfeXFMTTA3enV6X3V3X2JHTkRHZjduTmlFWGcyT3BwX2g1WjBhbXBVaXFpMDVvVGd6UGF1SFZWSkdfNER5Wm10N3B2d2pqZjhnbVlwX09UWWZ3MnhrVXZPdnM0VkJQRW1hOF9mSGNBSGZGWmhQOUtoMzhOMWJIRHNuNl8xS1dkZTNF?oc=5",
-          "title": "Dad woke up at night with stomach pain - weeks later he was dead",
-          "publisher": "Surrey Live"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMX09YbnlhRTVDUDNxVnc4aEVmN1JOYk5fTlItd3hRSVFpQzJTYlZVcXpCWkNJVDZOYm43T3JlVmt2RU5VWl84b0swOWxVeUEzUHYtaEJUbk5nZE13VS15MEFRNHEyRXNOWW85SFc3ZlhKTkRuSHJSOExn?oc=5",
-          "title": "29-Year-Old Dad of 3 Dies from Sudden Pancreatic Attack Family Suspects Was Fueled by Drinking",
-          "publisher": "People.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0NYWm56dDNvUDVZNm9zaWxSNjdBaERDS1VEMGRmZUhkNnNINnF6MnBsWVg4RHZwbngtVTZlOVdrcDVXR25FaExiRWZnYTdoUmF0M1Rsa3hUSFBjcmlrQldPUGFzUFdUQnprSzdMSDVmemtqWXFrWFdGS205bmhXY1lzYTl6WDFVZldmMnJRRGRSaS0yV2tnNFY5Mm5hWnhhQkpSc1NUNzBvLTB1dVNuTVR2c0JHc05kMHdmMU16WjZ1cUnSAcgBQVVfeXFMUG1XQ0tENlJjM1BGeV9jT0FkRXo2NDJlYS1FQllPdXZ2SlF5NDVDUGNOcnE3TlBGR1pYUTgyNWdpeTBOQzdVVFhkT2J0aWpUcWhUTTFjUlhHRE5sczNSbDB4WGkza21jWXRXU054bjRJSmtoUkt3dGJ1MGlMY3ExYVRZZE4zVG01LUZvc1dPZVcwQVNIOUVhR1N4T1B6ejEtZnBKdmh0RnctQ2k0NERBNFFoUlgwaGhUdnFiS1QwMm5RTHBNcnZWUVk?oc=5",
-          "title": "Healthy 29 year-old suffers common gut problem...weeks later he was dead - and thousands more could be at risk",
-          "publisher": "Daily Mail"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVVsV0llZllCZ2NldWJZWTVQU2JQcnVYRjRUbWhvRENjWi03RFppN29Ed2lNU3pjWWRINXI0LWFHenN4bUk5M2c0MDduemtLd2RVSVV0dWRNelVpUDE1SlVBclVjQzc1cXFwRk8yR0cwVUtDNGc0blphRVNXOXVZSndxVDbSAYoBQVVfeXFMUHhCbFFBS29PYVFrUlV2MUVUQ0c2LWU3d1Ric2JTMUZmdktmdnhKeU5FdS0wSE1MUjRLbkp4VnMyMDVWRUZQRndGN1V6SHJOMVVTRklGdzFCeHNvUXBCR2haaUZ4azBxdmpFaWdyLVpEdE1lOFlpRUZqMWp0RlVZT0VVcXpWbng1TE9B?oc=5",
-          "title": "Dad woke with 'relentless' stomach pain - he was dead within weeks",
-          "publisher": "The Mirror"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUd6V0hNQjhEbUV6ZlhQVENEVVdVMXpRVTExeVlJUEV4R2FheXE3M2VnM0M4ejlMSm5FSVdXMkZFemF1MWNEeDhpOE8tcVIydmc1bkpTQTRDU183ZUhLaGJTdGhmX001M2ZOR3V5cHRONmhTejB2YlBOczAzelY1TGVn0gGHAUFVX3lxTE5aZWVJdmwybnNnZDdJMjltZFl4ODFtWFhhQXNjNExTYUxlczRpeXk1RjZqSXpNTXBaZzRVOXdxelZNN1R0ZlZqTnh0bWd5RVRvRGZZdi1DMkFOZUFwLV9JbEFqN1R4OUtVLTBpVUxYcmI1RnhzeUw0UXl2dHFlM0JVQVcybWVobw?oc=5",
-          "title": "Dad, 29, died when his pancreas began rotting ‘due to drinking’ after posting a heartbreaking Facebook mes...",
-          "publisher": "The Sun"
-        }
-      ]
-    },
-    {
-      "title": "Can creatine supplements make you fat? Doctor busts 4 myths, shares tips to use it effectively | Health - Hindustan Times - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYWhsQTAtZjhRQkQ3UllLYnNMU0R4bEVfdmx0Vm1maVI4cGRYdTY3UzFYVTVuSThHT3d5SGh1U3FYaHA3MFc1b3ZFVlN4MDJob1hZUG9RaVljTkt1UHE0WU81U21zWUVjck5NRHdWTGltUGxLQnZ2QU9vcjFLbEY3STlxSXBnTU1BaVl1QTRaZjJxTkpxbEJhSTNqYmw2a2YtaENtbWRuTDBtVl9XM1hMajBtVUdzMUZsenFRbjN5b3Z6bHNmcmptMnBkNWhrTXROeG9kb29XM3prUXNULXNVbUszTTJnNUtQanlCUVJKamZBcEnSAfgBQVVfeXFMT0ZyVDA3d1NzOTdnYkxkODYxdG1JeEFDNzNOOEp4czlmSHppRFNPSjVzYXZ6S2djUHBjdmVXVEpjaEtBN0hJR05WN0dBTXR1VHpCTlQ2OFltM1NHV2YzckZnVVpiYTdOYnVReXdSN0djRl9CNUVzOGhKX3hsdlptZy10N3RqY3NTWWlwMlhhbDlaUjdxcnNKandhSXBsSHhQdXc4WVoxZjBNdTk1ZkExN2xXVHVjT0tRNzY0WlNsTnFGajR1S19IWW5vRUFqbm9hTTVFdmFyWjM1d3U2a3RQUDB2R0p0a2dUa25YSXdhVks2RGNjTy1LQUg?oc=5",
-      "published": "Mon, 23 Jun 2025 12:54:42 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        12,
-        54,
-        42,
-        0,
-        174,
-        0
-      ],
-      "source": "Hindustan Times",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYWhsQTAtZjhRQkQ3UllLYnNMU0R4bEVfdmx0Vm1maVI4cGRYdTY3UzFYVTVuSThHT3d5SGh1U3FYaHA3MFc1b3ZFVlN4MDJob1hZUG9RaVljTkt1UHE0WU81U21zWUVjck5NRHdWTGltUGxLQnZ2QU9vcjFLbEY3STlxSXBnTU1BaVl1QTRaZjJxTkpxbEJhSTNqYmw2a2YtaENtbWRuTDBtVl9XM1hMajBtVUdzMUZsenFRbjN5b3Z6bHNmcmptMnBkNWhrTXROeG9kb29XM3prUXNULXNVbUszTTJnNUtQanlCUVJKamZBcEnSAfgBQVVfeXFMT0ZyVDA3d1NzOTdnYkxkODYxdG1JeEFDNzNOOEp4czlmSHppRFNPSjVzYXZ6S2djUHBjdmVXVEpjaEtBN0hJR05WN0dBTXR1VHpCTlQ2OFltM1NHV2YzckZnVVpiYTdOYnVReXdSN0djRl9CNUVzOGhKX3hsdlptZy10N3RqY3NTWWlwMlhhbDlaUjdxcnNKandhSXBsSHhQdXc4WVoxZjBNdTk1ZkExN2xXVHVjT0tRNzY0WlNsTnFGajR1S19IWW5vRUFqbm9hTTVFdmFyWjM1d3U2a3RQUDB2R0p0a2dUa25YSXdhVks2RGNjTy1LQUg?oc=5",
-          "title": "Can creatine supplements make you fat? Doctor busts 4 myths, shares tips to use it effectively | Health - Hindustan Times",
-          "publisher": "Hindustan Times"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0VBMVBwZVlpZ1FkWDcwUUJVSllralVzLW02MlBHaXVaaGloVUxDM2gwMWNsZE1BbWhPaFNmVzBwVzlsR2w3NmYwQzhjdmpIYW4tQnhLMko5Vl9Pem1nUmg4ZUJ1SkpmazFranJvNncwN3FpcDRMQ3FBRXdwaFdtWXZ2aHhUUmdwTjRPSUhBMmFTVVZlT0ZxMExUMmpLR0pEVFhn?oc=5",
-          "title": "It's not just for gym bros — scientists say a $0.50 muscle-building supplement slows aging and may counteract Alzheimer's",
-          "publisher": "Business Insider"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQk11bTJmQzFHRHMwMjRlRGF5REV5bXJSM1RjWm1LMXY2bDdzUGZMbmMtSDludzB0b1ltd09NMFUxaEx6ckotZE85YmR3VFcwZ2dFem9nZXI0MnFrYU53V2VhcWZnZ0JZNkhNMms3SnJTeml6RG5IUzVKazg0MWotS3ZUQ3VVV1JLd0NBd1F2M01TLVRqSEJvbUFjYjBhenRXOWxuR1pCcFFfVGRkNE9V?oc=5",
-          "title": "This one underrated supplement could sharpen your thinking and slow down aging",
-          "publisher": "VegOut"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWnZ4alRvNURLZkNUdXQ3ZDI3VHZYSFBxWl84UFdEOUlrOGtTUHBTS0VXamtTSGxLR1c3MDhIVkNwUVVhYklqcnFQc0NhMXBDbEc0RjdNZVZIUWU0YW94bFBwRmRxbHQ4YUVBb3FmSVV3SG9vRWpuOVdYSEtJcW9BanNael9KTFRKVzZkUThnRnM4UVNEdFM3Wl93ZzV6dmMzWGZudWsyMGVsRC1mcGNxVW41eFZ0SlJ4TV81YV9JLThUNkprcmfSAcwBQVVfeXFMTTI2MTRtb0o5ay1uby10bXVQbERIZC0xYjh3T2xYNENMMC1iQWpEN2FVeVJHOTJaMmd1el90bXp2Qm5Db1o3OTFWNmVLSm5OMFFiNDRvaTZSczhTV1RMZWFkWnVEWUM2ZWZ4YlBZTm5IazJTU0ZnNnJzNzZsbzZ5cVFvOWt4VnJvZF80TVhVamxkbXZCazlSMEtXUUxXMGh4TWs5N3NXeU9iWFpLN0ZLY01McklpREQwUDFteVBxOGNVVjdOb3lsbmhfTVdC?oc=5",
-          "title": "What Creatine supplementation can—and cannot—do, according to experts",
-          "publisher": "The Hindu"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbnZoSkpEOVA0ZW1ZMFpSdjQ1R1U5YzNodWQ2VWtfWHFRTWcxb0RRc1pCRVM4QVg2cVpUNlJEa1BQbmZwV0t0ZE9rRC14NnlPWXRTSHppa20wOWd3dWx6dS1wSHNVMW5STmRoSGpCTEhVbmFLMDJhUXVhdC15dVpHZUc4ejRTM2FNMnBKT0xLRWVnMEZ3VEpJd1BPbXdBM0FS?oc=5",
-          "title": "Can Creatine Play a Positive Role in Obesity Treatment?",
-          "publisher": "Medscape"
-        }
-      ]
-    },
-    {
-      "title": "Harvard study warns: Common napping habits linked to higher death risk - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdG9FVW8yUTExOHhfSThHb09CRWFvYkt3RDh4TGtqdjhUa21pY18zc1c4OFVHcGZsdGt2aVppNV9aN3RTUGdzMDRCNFROVXpyWnhYbDluQUJwM1NqVGRSOGhPeFVLbTdrbHNFZzluUW13S0wyOVQyWkVoQ3JMVnlqRE1Ma2NiRDQ4UWpTaUEwZk5MZ0QwYTRyQTl0YktoWmJxXzE5dV9nemlRY3BoVWF2U1hoTW80SF9reV9nN2pGUW0wWWJjaHpYS0NkeHpyU1ZhUDNtMWJLU0FhUlRuM053SUp0SXlNWnF5WTVkb0NuRFotNTFJWlBNenhiTHZ2d9IBgwJBVV95cUxNYW4tWTg5X1JXM0xIOFQ4MUx3R3BFQ0Myc0hJNmNBeWd6YjJBVVNEZGV5c0FjSHNDb3NiQzBENlNhMFlXNy1KYWJ6LWt6SGh6ZnozbUFxbkItTFlUdWRSQ0x6aVVCNHdtZlhtNWh3VVotRXNFQjVpRDY2WWRkOF8wMl9jZE1yTU8yNjJmdEpTT0U5MlJ3bDgtSWVVaGtlUmh1QVl6VHpPaFpyakQxemZqeUxtNlZ5UlAydllUajQ3ZUVMcklDQXVyVVVFYlFUdWtLWkd5Zmo2M3BiMTE3YWNJZDZUM0pEQmw0UEJtMWVfT2tDQzBIaU5fSG1qa05zMmZJd1Vj?oc=5",
-      "published": "Tue, 24 Jun 2025 02:59:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        2,
-        59,
-        0,
-        1,
-        175,
-        0
-      ],
-      "source": "Times of India",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdG9FVW8yUTExOHhfSThHb09CRWFvYkt3RDh4TGtqdjhUa21pY18zc1c4OFVHcGZsdGt2aVppNV9aN3RTUGdzMDRCNFROVXpyWnhYbDluQUJwM1NqVGRSOGhPeFVLbTdrbHNFZzluUW13S0wyOVQyWkVoQ3JMVnlqRE1Ma2NiRDQ4UWpTaUEwZk5MZ0QwYTRyQTl0YktoWmJxXzE5dV9nemlRY3BoVWF2U1hoTW80SF9reV9nN2pGUW0wWWJjaHpYS0NkeHpyU1ZhUDNtMWJLU0FhUlRuM053SUp0SXlNWnF5WTVkb0NuRFotNTFJWlBNenhiTHZ2d9IBgwJBVV95cUxNYW4tWTg5X1JXM0xIOFQ4MUx3R3BFQ0Myc0hJNmNBeWd6YjJBVVNEZGV5c0FjSHNDb3NiQzBENlNhMFlXNy1KYWJ6LWt6SGh6ZnozbUFxbkItTFlUdWRSQ0x6aVVCNHdtZlhtNWh3VVotRXNFQjVpRDY2WWRkOF8wMl9jZE1yTU8yNjJmdEpTT0U5MlJ3bDgtSWVVaGtlUmh1QVl6VHpPaFpyakQxemZqeUxtNlZ5UlAydllUajQ3ZUVMcklDQXVyVVVFYlFUdWtLWkd5Zmo2M3BiMTE3YWNJZDZUM0pEQmw0UEJtMWVfT2tDQzBIaU5fSG1qa05zMmZJd1Vj?oc=5",
-          "title": "Harvard study warns: Common napping habits linked to higher death risk",
-          "publisher": "Times of India"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwVGxmUjBDTmwtYmkyMXlpbmpRak1KVTJwSEFyamdGamI0emxzWjAtX0VXQkpkRGNCVjlsZkQtR3gxX1N5dFlyd2IzY1pXWDU5OUR3VGRKdDFtQ2FKUDlXUlY4ZGRrNG40eDBuTTRQcUg1Sk5IS0HSAXtBVV95cUxOVm5xNjh3a1V4bE94NVA2bFROeklzXzBjSnp5cmZJVDZkVlpLWThkOTZJYTRsOGFFQ2FFZXVWTUtrajU2T1M0WWUxdXh3b2c5ZTNlUm5ycVhfV3FvWjNCV3lkamU5UHRkOG03c1k2TjlsYkEzMEtXZ2FHWGc?oc=5",
-          "title": "Napping has many health benefits, but only if it is done right",
-          "publisher": "PhillyVoice"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaDFLLWM2RnpHMi1tUU15Q21sOWtZOHZmSnJHSHZvT2tnd0JaU0phOUw5TFNNbkZUWFYzc2VnOTQ1UFNybXJDU1Q5S0hJVjhrdjZ3TFg1QjNDcGN0VkJaVS1aVGpQaUM3VnFVNUNkdVNHUDE2ZzJCaHVwenQ1UWVsWlJtVi1QNEhCekZMY1haRmhXMUJXcjc4Yi1QVHNvSkU?oc=5",
-          "title": "Doctors issue warning as common sleep habit is linked to risk of early death in major study",
-          "publisher": "Daily Mail"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RMDQ5MEotNkx5SkgxVGRGODl2bllpTHAzU3BvQ1lfd2VGaE1HdjRBS2RtWk5GZmdNVjdnYmJyMEUwTXBfaWVDbHcyQkZUbDZQZUJwdWZwS2pScU1LcVVoN191Zms?oc=5",
-          "title": "Long & irregular naps may signal health trouble, says Harvard Study",
-          "publisher": "Daijiworld"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNURjYUo5QTdHYnltbFRtT19BWGUxN0toZTc2YWtnam5PNUxsQ01rZ3Zkc2R0OEltS0paeHpWRWQyckludDV2WGZnUlpENDBrdlA4OHM1dFYxQmk4dllTb1RnblhDdlhaZi11LXpLS0NmR1hRSnk3T05felJhNnB4eXV6bUszU210Yk9HbWhhYVlGSV9PZDJCVlpYV1NHdHNIdkE?oc=5",
-          "title": "Napping longer as you age linked to a higher chance of death — so is snoozing between these hours",
-          "publisher": "New York Post"
-        }
-      ]
-    },
-    {
-      "title": "Humans use the same ancient midbrain circuits for both seeing and thinking, says a new study - Earth.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDY1eXZWVk90MzhLTl84ZDVJcW1kaVVTOThWdHRtckRSbHM2WXBIUW5GeFRQZ1dRQVJpdUdhWG1mRk9IV0ZjcGdvN2FnajVieG13MDV5Q1RNZEVBa3V0cC1tS09zVVFXb0hELXpJNF9vYnpjRmNkVGRVaTc4ampmeFRFRHNld0EwSmhScElhUWRvX1Iya2NBTUY2b2ZoajctMmpHRXpJQkdoa2I4MHU3REtnRQ?oc=5",
-      "published": "Tue, 24 Jun 2025 15:51:38 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        15,
-        51,
-        38,
-        1,
-        175,
-        0
-      ],
-      "source": "Earth.com",
-      "sub_articles": []
-    },
-    {
       "title": "Column | As an oncologist, here’s what I wish people knew about endocrine disruptors - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSmxRbWUyLVQxVmFBckZOc0NKbmhXZEtvbzc3dmo1SG41MGxYS3BQSUtfNndMeUFtYUpKd3pMbnUwN09wQTRJRHNteWNQdmhHaDNxXzlJNGJOZU1JNldIMkJjb0MzOVlLRGU0MTFqSkluc0Qwcl9sQ0xSZHpwT1BEV29DbjhoUHNPV1BXSE9tZ3otZw?oc=5",
       "published": "Mon, 23 Jun 2025 20:15:41 GMT",
@@ -1705,24 +1707,6 @@
         0
       ],
       "source": "The Washington Post",
-      "sub_articles": []
-    },
-    {
-      "title": "Worried about cognitive decline with age? Wellness coach shares 5 daily habits to keep your brain healthy | Health - Hindustan Times - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQlV5MVAzZEtwdGwxNFpCbFBrQUM0cGx3TnZMdUlwdVVwbEJEOElDcjhzaGdsUzhBT3Y4VFZMQjJSSnI5R1AwZUlyWlhYR3pCMVpSanR3emNHMnRUX1Z4aTQyUlBIS3pXV0ttOWZaaFNfbnlISEVUdlhVRGZnVHJtOXA3REZtNU05MFNtd05LM3BSMEsyUTNHTzZuVkdpOFUzaUhVano3RU1fR243amV3UTdjMGhhQ3JMZnVtVnZCT0dpczAzcVcxYUkwekxNbDVtbGotLThHa3l0Rm1DQXdKdFJ5XzhUSXc0cDB3QUdiMmZiWVVuOFJWUlFtRi13eDlpdXhJ0gGIAkFVX3lxTE1EeG84d2FDY2ZEQnhETlNXaGp4T3ZfeGpBcVhlTDJvZWt1bl9GVDU0TmVRODNHUm40WW1NSFI1NG1rX1pHR0tYa3l3RzZFX0k5QkJidDBKeWRraEZRT2p1dkRiVlhELWQ5UDZ6c2lqNWlpUk82MVUwaUQ4WFR4V3dGckhydHQzZmZhaDZRN1VzMlJMVENuc3kzbXh5NGhkRGQxSmNzT0FZeFlLdmpGb0k4dHV5U0lBU0F5eGtiLTV3SThaWGxBcThENHJRU0p3Nm9DOUJDZHVQT2lrNUpmclp1aGNCdTN6VGFFYkY2RmtnWnFqZFQ0b0ZLRm1aY0Fld2JmVFgyakdIRQ?oc=5",
-      "published": "Tue, 24 Jun 2025 15:29:05 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        15,
-        29,
-        5,
-        1,
-        175,
-        0
-      ],
-      "source": "Hindustan Times",
       "sub_articles": []
     },
     {
@@ -1788,42 +1772,6 @@
       ]
     },
     {
-      "title": "Is an apple a day really good for your health? - BBC",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWFCN0tOTG9oMG4xRHZUdF91WjVIbmNvekRXN1VQTlpKOG5iSlhnX21hWkhUa3RRdHZzS1gyLTdzVGZOSFRzbzIwTlRHbzR5RGExWWZpUmozQ2I5S0hJM3hEY21wcHVYaUlqcE5Kcm93MXhCMGFDdWZIRFhMQWctWGw2cjZsVjhwcEw5QTROUDVja2s?oc=5",
-      "published": "Mon, 23 Jun 2025 10:00:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        10,
-        0,
-        0,
-        0,
-        174,
-        0
-      ],
-      "source": "BBC",
-      "sub_articles": []
-    },
-    {
-      "title": "Vitamin D Boosts Breast Cancer Treatment Success by 79%, Study Shows - SciTechDaily",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcjZjRTBnRENCQV9xS291SDNSSGFvWUx3Zzh0VWRaeGN0Y0hxSmN5a1d5bWs1aEJqelFFMTMzSVhqZUQ0VHlwaVh4a0JsbnljYWo2YTNuVWxEc3hONmtteFFYUmgydlhBcWdZQjFZelJCWHdLeXk2OG05R2JsTEJFNm5MX2p0TmNHcWJsZk1IejNNSTR3SlJN?oc=5",
-      "published": "Tue, 24 Jun 2025 13:30:36 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        13,
-        30,
-        36,
-        1,
-        175,
-        0
-      ],
-      "source": "SciTechDaily",
-      "sub_articles": []
-    },
-    {
       "title": "Top 3 Easy Fixes to Delay a Knee Replacement, Researchers Discover - bestlifeonline.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwVE9UTUdCT0tpV2hFaGcxV1FFc2xKblR1TnZUQTlTanpDVUtiS0tva2RGOFBnVjkydjJJMHM0aDJ5UlRtMFpxTTYybnpMYjBqZVR4aHdZeHN6c1IzYS1DNnllaUNVdzg3VFVyUXQ2QQ?oc=5",
       "published": "Mon, 23 Jun 2025 13:41:25 GMT",
@@ -1864,6 +1812,50 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjlKUGlERGl5Z2ZlSm9HV3ZHcTQ5NnNRSTJvWEpzR3FibnE5alA3MXFWVExpS2JRQ0RBcEZISmxwekVyVG9PZ1ZLSC1lNW41QUN4eGs2NGZ6Q3RvSmNuWFBjcndxcVNsZWZkVUV4WEJtbHVFZ20xUFhJbWNFZUJoSnhhNF9RUEh0RDFHQUVOSDBpYzh6RGp6MkV1dF9KdWNzRi1VZzJURQ?oc=5",
           "title": "Braces Top Best Therapies For Knee Arthritis",
           "publisher": "U.S. News & World Report"
+        }
+      ]
+    },
+    {
+      "title": "From Magnesium to Vitamin D: 8 powerful nutrients (and foods) to boost memory and fight mental decline - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWVVyZFdESXJaZlU0QXFjZzdubmt5dExVSkRYTHdVVkF4dHNiX3daZUt6NDcxNEdia1BLTWdOa1ExQ2dncS1iU2t5SnJLMTBkOEJzOVdTTlBXOUYwdFBEQThBYUNReWhsMWxULWlHZ1NIQ21NbGNqREJ1NXg4U0k2SFFUcGhOZmRZX2F4NkNUTTlLTGhXYWdzX091dnZHbV9GZHI4MURzQmJqWWFMN1p4bzczbnRYZURpV3llLUpyaDY3Z0FkWnpzV2l6Q2dUYzVhRGJHSHVRdElhYTE2WDlCZEpsQ1dnNnZ0ejNuR2RhM1JPUWZuX0xHTjk4ZjZMX2ZZVnJvVjd2c1RoNEFmVnV0Vnpia083X255YmxR?oc=5",
+      "published": "Mon, 23 Jun 2025 21:46:50 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        21,
+        46,
+        50,
+        0,
+        174,
+        0
+      ],
+      "source": "Times of India",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWVVyZFdESXJaZlU0QXFjZzdubmt5dExVSkRYTHdVVkF4dHNiX3daZUt6NDcxNEdia1BLTWdOa1ExQ2dncS1iU2t5SnJLMTBkOEJzOVdTTlBXOUYwdFBEQThBYUNReWhsMWxULWlHZ1NIQ21NbGNqREJ1NXg4U0k2SFFUcGhOZmRZX2F4NkNUTTlLTGhXYWdzX091dnZHbV9GZHI4MURzQmJqWWFMN1p4bzczbnRYZURpV3llLUpyaDY3Z0FkWnpzV2l6Q2dUYzVhRGJHSHVRdElhYTE2WDlCZEpsQ1dnNnZ0ejNuR2RhM1JPUWZuX0xHTjk4ZjZMX2ZZVnJvVjd2c1RoNEFmVnV0Vnpia083X255YmxR?oc=5",
+          "title": "From Magnesium to Vitamin D: 8 powerful nutrients (and foods) to boost memory and fight mental decline",
+          "publisher": "Times of India"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb01CYnFVRU9OaWNCNUxybnJDVTMyQzlOTDRtY2UtVGhRN3daRGlYU2k2WUtzOTNwN1NwcWs4XzZfX19jbEdfcENkNzlzazdsRjhYTTFLdU5ubXdqZE8xak1KQmxkTW9aRld5T1RuNmRhbENhVVgyc0RFX05WS0x4WUJ3?oc=5",
+          "title": "Recharge your brain power - 2 Jun 2021 - Platinum Magazine",
+          "publisher": "Readly | All magazines - one magazine app subscription"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1B5RUVscEhhZnk1M08weHpnX3FVcG53V04xLUI0Ri04RTBzQ2pEZmdHY21ZcVpUb2ZqT2ZTM0FOcUpOaE9oQjUtWDAxWExRYnlqTG5zLVhHcDFfS3J1MV8tOXV2dGtGZEJHRnoxcXhIelBSLWVGdG9Dd1NPSDBVR3d6bS0zLTg?oc=5",
+          "title": "Supporting cognitive longevity in your diet",
+          "publisher": "WBAL-TV"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEVKVkthN2ZRM0xQU2J0VFVzR0g5d054cExyeHktenBLdUp3NTBTc2pCM2tzMEV3VEZJeEl3S0YwTkxONHBoVGR5aWJyeDlPMzFyWkdiZ1JiV0FFZG5YNkc2dUE4Z3NBbWFZeVpFRjZEVnN3RHlCQjhoUGlLbzFGQmlOSmQ?oc=5",
+          "title": "7 supplements to boost brain power",
+          "publisher": "India.Com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11NFI2cGNNdnIzdXNkZUphRjdHZjZzLWMxY2ZhcVluOWlUOTNtd3YtUXdtNXRTY19WcGkweXF1ZzJpRkFGZDJjU3NiQU1uYjdRbVE1ZDM3QjNfLWlESTFILTZXdlpSclFIYjBHbEZPNUxsR1JmYmhqX3RnR1cwUdIBgwFBVV95cUxQeDFFeFJLNWVKb3pmRDNZdFVLQm9NWmhsQ1VFTGNySXFxd21XR3JHUVMwTm9LV19DS0VpT2V2ZzhlWlNCdDBXV015eDN4VDdpbzZmMFlVWW1sbDVzd1R4T1dLeHhCRWdLRHBrVDdNOHNzWnN0TXBvUXc1cWduNlZWM29lQQ?oc=5",
+          "title": "How your diet plays a role in brain health",
+          "publisher": "WSYR"
         }
       ]
     },
@@ -1912,48 +1904,92 @@
       ]
     },
     {
-      "title": "Why over-60s should have four coffees a day - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnNPOGNRNHV5Ry1VbjFvbDdVQXlpNTVRSFZJV3JCZUVKUjlPRjRwbE8zQjc3dWc2d25jMUY4RkRuSmxpYUNnN3cxOUlla2pZb3B4OG1EcVBSQkhOVFk1UkdQSlRXc3BCWVppWnNYazZFVmZnZzZGbF9rY0ZKdXluT1dmTUpoTm4tdHFrdEl4OA?oc=5",
-      "published": "Mon, 23 Jun 2025 10:09:00 GMT",
+      "title": "Eating one food may prevent osteoporosis and strengthen bones - Surrey Live",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQTRYTVhGZFFuR2ZNbDNUaFhHdTVQVGNsRDBpcHlFblc0MzlVTmNPclpaLUV2U3BMakJLQ3V4ekF5dHQzbXplcW8tNTA5VkhFbnhWQU1tR2lyZUJrd290MktfdFRjOHotQjVadGRFOUdDLUNRbE5fcFYtUEthbERTRV9hNi1wYkNwaGFSMlN3?oc=5",
+      "published": "Tue, 24 Jun 2025 12:53:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        12,
+        53,
+        0,
+        1,
+        175,
+        0
+      ],
+      "source": "Surrey Live",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQTRYTVhGZFFuR2ZNbDNUaFhHdTVQVGNsRDBpcHlFblc0MzlVTmNPclpaLUV2U3BMakJLQ3V4ekF5dHQzbXplcW8tNTA5VkhFbnhWQU1tR2lyZUJrd290MktfdFRjOHotQjVadGRFOUdDLUNRbE5fcFYtUEthbERTRV9hNi1wYkNwaGFSMlN3?oc=5",
+          "title": "Eating one food may prevent osteoporosis and strengthen bones",
+          "publisher": "Surrey Live"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43dnhVYnpxZmVXTDM4MnJ4TlJta2xFTzVOS1B1ZVZBdWtHdlkxc1NRNE9wYldlWlBMSk05ZnJfS2FPZGlCN0ltblRvSHVTMFVTbHlHYkF1ZEZiVmp5RFU4NHF1eXd6OGtmbVZDU1k5WXg0cDZXRkJj?oc=5",
+          "title": "5 Things You Can Do Now to Prevent Osteoporosis in the Future",
+          "publisher": "SELF Magazine"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDlmdEwyZ2EzRTl6cXI2cGxnUzFrUy02YkFtZXdIMDZVTmJZUzBucFJrVWlIRHJaNHdfdG1rLXA4SXlDeXFTTDZlWXFrOGN3Tll0NGxjSVhGQ05UamRGZk1zaFVlOHBmX2E3ZVo1dTFmRkwyZmRMNW5fQUl1TVBUa2JyS2ZCWjBYYm5QR0paU091TXhMRVZHUk12M1d2WVgtMDFoWVpIQUVsZDdCZHVZY1BLWC15Skk?oc=5",
+          "title": "Adopt healthy habits today to maintain bone strength as you age",
+          "publisher": "Kirksville Daily Express"
+        }
+      ]
+    },
+    {
+      "title": "People undergo these two periods of rapid aging in their lives, study finds - The Brighter Side of News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWFqMXZ1ZkJpT3BSRWlIMkYwcVphTFlpampJaVhBZzN2LWhPMjI4c3ByTWV2QXhNNXdNQXRtQzBQRkswVjEtU2ZsRC1kM1ZoYVdpVDJYNWZqWXgwUTNwaHp3ckFXRmdKQ09HUkstamV3X3haQ2hBaW1YaHpIYmNKUFJpTy1ocHdmNDBFZlQxcU9jVW1aLVBTdnkyd0VVanRGTlFDVkxyOHR0VWdDMU1vWEZocw?oc=5",
+      "published": "Tue, 24 Jun 2025 16:07:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        16,
+        7,
+        0,
+        1,
+        175,
+        0
+      ],
+      "source": "The Brighter Side of News",
+      "sub_articles": []
+    },
+    {
+      "title": "Is an apple a day really good for your health? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWFCN0tOTG9oMG4xRHZUdF91WjVIbmNvekRXN1VQTlpKOG5iSlhnX21hWkhUa3RRdHZzS1gyLTdzVGZOSFRzbzIwTlRHbzR5RGExWWZpUmozQ2I5S0hJM3hEY21wcHVYaUlqcE5Kcm93MXhCMGFDdWZIRFhMQWctWGw2cjZsVjhwcEw5QTROUDVja2s?oc=5",
+      "published": "Mon, 23 Jun 2025 10:00:00 GMT",
       "published_parsed": [
         2025,
         6,
         23,
         10,
-        9,
+        0,
         0,
         0,
         174,
         0
       ],
-      "source": "The Telegraph",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnNPOGNRNHV5Ry1VbjFvbDdVQXlpNTVRSFZJV3JCZUVKUjlPRjRwbE8zQjc3dWc2d25jMUY4RkRuSmxpYUNnN3cxOUlla2pZb3B4OG1EcVBSQkhOVFk1UkdQSlRXc3BCWVppWnNYazZFVmZnZzZGbF9rY0ZKdXluT1dmTUpoTm4tdHFrdEl4OA?oc=5",
-          "title": "Why over-60s should have four coffees a day",
-          "publisher": "The Telegraph"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0VpeGxKYWdkRE55M3A4LWExa1d5bEZEN090aVp6QmJwUlBkV0NNQmdOOUd1Z2lpeGE1MXVCZXljX3BvRFBCZzEwVU84RDg0MEdTMXFvNlN2elFKbDhQWE9VMkJ2RThuZ0tDczFDX3hPRmRXbUowRnlMY1YxNjFpNmRSSng4el9NSktJWFZPQ3ZBNmdSUHhJbkVfWU1wVWM3ME1ucUx1Z9IBrAFBVV95cUxQMVdjelo0N0VoOHZfSGVCQlJOeG5xQ2lBM0MtYUVwZ1RxejlGWmo2ZUxHUnBUbm9Na0g2enBiaWxiME1LNXlLZF95Ny1ZVUFJSzVmdk9Edm92MW96X2xwV0Vhb2NDeXhRbU5vODlnaGtSNnM5XzF1Yl9IRUpRLVBmaEViWUUzaExvRXhoRG5JdV9PQW1hdUdMUEFoY0RrblJ5bFFSejBocnZ3eS16?oc=5",
-          "title": "Harvard study of nearly 50,000 women over 30 years finds coffee drinking linked to healthy aging, longevity: It seems to offer 'protective benefits'",
-          "publisher": "CNBC"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmh4c21FQ1hycGx0UnBBQWpVYVpoeC0zTTZBb09VaU9WbEZxOWZzbFpJejdUU1ZXb3pwcVViQ2ZCUHdlT1V1TjRUYjMwRlB2bndpRm1KZzVsZjI4aXNSb3AzTkphWUlvLVBET3RURWRLY095ZV9ZYjNVRS1HZGhBNE1CMWsxMldYMHdSR0hwVmgzbjM5?oc=5",
-          "title": "Hold the Cream and Sugar: Black Coffee Linked to Lower Risk of Death",
-          "publisher": "Tufts Now"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03NmZtMkdzQmQtb21NZ2hZX2RweHpEaVBsOHhtSFZOY3BGMHRpZE5tczlwNWZkSGpWSVhFUXN4UXdmV1lnTkIycTg0THpZZVV2R3Q4cV9md0FkUnhZTGM4b0dVUXdKMXNDNDJBYnppblU?oc=5",
-          "title": "Each cup of coffee boosts healthy aging by up to 5%, new study finds",
-          "publisher": "New Atlas"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzdUdENDVFSDg1amc1LUV5dVJ0ZXJWdWtDS2tCODZXRHd4WUZQLXMzc2dOQXNIUG5xUWZqd0Itd2JkTUdJZjJNVlRiZFIxYmdJdWhJWGlVdFF2V3FSMi1sQ0g5VWozdmItSlpPNWFhLU9BLU9F?oc=5",
-          "title": "Your morning coffee can extend your life – but only if you drink it this way",
-          "publisher": "The Jerusalem Post"
-        }
-      ]
+      "source": "BBC",
+      "sub_articles": []
+    },
+    {
+      "title": "Humans use the same ancient midbrain circuits for both seeing and thinking, says a new study - Earth.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDY1eXZWVk90MzhLTl84ZDVJcW1kaVVTOThWdHRtckRSbHM2WXBIUW5GeFRQZ1dRQVJpdUdhWG1mRk9IV0ZjcGdvN2FnajVieG13MDV5Q1RNZEVBa3V0cC1tS09zVVFXb0hELXpJNF9vYnpjRmNkVGRVaTc4ampmeFRFRHNld0EwSmhScElhUWRvX1Iya2NBTUY2b2ZoajctMmpHRXpJQkdoa2I4MHU3REtnRQ?oc=5",
+      "published": "Tue, 24 Jun 2025 15:51:38 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        15,
+        51,
+        38,
+        1,
+        175,
+        0
+      ],
+      "source": "Earth.com",
+      "sub_articles": []
     },
     {
       "title": "NIH froze funding for clinical trials at a major university. By fall, they’ll run out of funding - CNN",
@@ -1974,6 +2010,86 @@
       "sub_articles": []
     },
     {
+      "title": "Mom Speaks First Words to 5-Year-Old Son After Months of Paralysis and Being on a Ventilator (Exclusive) - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxWnlpcTN0ajdZTWJOV3ZudENuYzk0bXIzVkVzZ0NpcEs1RDJSaVlFaUFETUZqZFFTYjFWb0xnQXhNN1VwdGcyemNCWGhIMDdVb0VrcTBqWndHcVA0azZ0Sjd1dW42QUdUX0hJ?oc=5",
+      "published": "Mon, 23 Jun 2025 19:58:41 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        23,
+        19,
+        58,
+        41,
+        0,
+        174,
+        0
+      ],
+      "source": "AOL.com",
+      "sub_articles": []
+    },
+    {
+      "title": "Worried about cognitive decline with age? Wellness coach shares 5 daily habits to keep your brain healthy | Health - Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQlV5MVAzZEtwdGwxNFpCbFBrQUM0cGx3TnZMdUlwdVVwbEJEOElDcjhzaGdsUzhBT3Y4VFZMQjJSSnI5R1AwZUlyWlhYR3pCMVpSanR3emNHMnRUX1Z4aTQyUlBIS3pXV0ttOWZaaFNfbnlISEVUdlhVRGZnVHJtOXA3REZtNU05MFNtd05LM3BSMEsyUTNHTzZuVkdpOFUzaUhVano3RU1fR243amV3UTdjMGhhQ3JMZnVtVnZCT0dpczAzcVcxYUkwekxNbDVtbGotLThHa3l0Rm1DQXdKdFJ5XzhUSXc0cDB3QUdiMmZiWVVuOFJWUlFtRi13eDlpdXhJ0gGIAkFVX3lxTE1EeG84d2FDY2ZEQnhETlNXaGp4T3ZfeGpBcVhlTDJvZWt1bl9GVDU0TmVRODNHUm40WW1NSFI1NG1rX1pHR0tYa3l3RzZFX0k5QkJidDBKeWRraEZRT2p1dkRiVlhELWQ5UDZ6c2lqNWlpUk82MVUwaUQ4WFR4V3dGckhydHQzZmZhaDZRN1VzMlJMVENuc3kzbXh5NGhkRGQxSmNzT0FZeFlLdmpGb0k4dHV5U0lBU0F5eGtiLTV3SThaWGxBcThENHJRU0p3Nm9DOUJDZHVQT2lrNUpmclp1aGNCdTN6VGFFYkY2RmtnWnFqZFQ0b0ZLRm1aY0Fld2JmVFgyakdIRQ?oc=5",
+      "published": "Tue, 24 Jun 2025 15:29:05 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        15,
+        29,
+        5,
+        1,
+        175,
+        0
+      ],
+      "source": "Hindustan Times",
+      "sub_articles": []
+    },
+    {
+      "title": "It only takes the herpes virus one hour to change human DNA forever - Boy Genius Report",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTkxNOS03UWdDeXBxbE9VZS1haWNYRlAzYmJVUGVEU0RxNkpsdVdCWlhkYXU2amgtSFVzd2JDcTM2eW82c1FjcHNJTTNXLXNPV1YwQ09nbzh0RnByMzNaVUMtcVJVWUQ1QzUzVnBtazU0TjNYanZxYnpyYWdveEF4WXY4eTBZWjdRX1lFV3VDMlpMRklDSEVJ?oc=5",
+      "published": "Tue, 24 Jun 2025 23:25:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        23,
+        25,
+        0,
+        1,
+        175,
+        0
+      ],
+      "source": "Boy Genius Report",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTkxNOS03UWdDeXBxbE9VZS1haWNYRlAzYmJVUGVEU0RxNkpsdVdCWlhkYXU2amgtSFVzd2JDcTM2eW82c1FjcHNJTTNXLXNPV1YwQ09nbzh0RnByMzNaVUMtcVJVWUQ1QzUzVnBtazU0TjNYanZxYnpyYWdveEF4WXY4eTBZWjdRX1lFV3VDMlpMRklDSEVJ?oc=5",
+          "title": "It only takes the herpes virus one hour to change human DNA forever",
+          "publisher": "Boy Genius Report"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aVHRMV1RVSzQ0VThEZ3VuVVZEWm9fZGdVSFQyX0VOd1NSdWQxX1FMei12cEJPc2FXZGxIR281aF92YnFKTUlqcEcwbDEwR1p6ZUNLMWJIS0swcHZ0ZFRB?oc=5",
+          "title": "Herpes simplex virus type 1 reshapes host chromatin architecture via transcription machinery hijacking",
+          "publisher": "Nature"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEk1V1dVRV9SSVp5Qm5ETUpCbEI4TkNSS1c1ODVKZ1NaVzhBbExVQnZwM0Rsc0dSdzNvbklCS1doX2E5Q25jTGdDbS16a1FtdENhOXRRRjRjd1lNNFptQVB2ZFNFX0kyRVpPSmZWVEJKOUNlUEVjR2lRUHliYlctZnRKRkc?oc=5",
+          "title": "Herpes virus reshapes the human genome for its own benefit, but a single enzyme can stop it",
+          "publisher": "Medical Xpress"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXhDQmZHZjhWcnRSQUJyeW5XVmNxMDNKYU1tOW83X3dTdjlpd2k5Z3gtcFNiYXdOQmJaeEZEdzRldHpDdER2aGcwaDZtS2h5NnhNaW1EOUtOM1p5QkE1LWR1WVpKTTIxMzNJZldiVGhNSXRISVZ3dXNzUkFZSllQcXk3azVzYzJzZVUwSTBvQ3Q3VFM3Z21EQ20ySnZVU2gxNWk1YUg2dVnSAa4BQVVfeXFMTkhzdXZFZUZacnRSMkVxOWtmY2RQbEpOV3B1Y251QmZtemZJZS0tY0QybXFKakp2MlRMQjBnMGZyVmN0YTRjWEJNUEVGNFd4R0tfd3ZoT2VtNTVCVEdnVVJ1T1JTbUpDSXhWTnI4TWxaLUZlWXl5WXF5SVBaRFBsWV8yM0dMMnR0RVlFMmVheGxxRkYxZUtUVURtYXVJOWNoMkNQc1oydy0xRlhoSmpB?oc=5",
+          "title": "Experts finally find treatment for incurable viral infection suffered by 122million Americans",
+          "publisher": "Daily Mail"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPR3VwdjZQU1BvY1FMMi1UZDJMYnFDWmVhelBVR3RSV09BM19YektVa0xhMW5BdEc0aVhQQzRIek5iMFR6YkRpSVdBY1FMeDBGcVJWQ3JGYlNoV1VPRUpXRWtSRGdlRjhkNF9Ma2NQMA?oc=5",
+          "title": "Cold sore virus hijacks human genome in 3D--and scientists found its weak spot",
+          "publisher": "ScienceDaily"
+        }
+      ]
+    },
+    {
       "title": "Fat composition in ketogenic diet may influence outcomes in MS - Multiple Sclerosis News Today",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1E5bHVCQ1RPQlo1MWdFLW9QeHM2djRzX1lIZFp4bmgzUTdNSk1Db0lxd1RyX0x2MHcwb1Rhd29sR0F1YlZXcTRmZlJRNDMxZERsNUxldFZfRHBHcXUzcFVlSHEzZ2lhaUVqVFFRRGlDaEpmWE0ydFlkNGdSQlRiWmdXNFdTajZ5M1ZjNW1hMGwzR2NjQnFITGIzc08tLVRjaHlZa0F0THUxSjFad09uWWxRaDc0X1JUQm9NS3Zn?oc=5",
       "published": "Mon, 23 Jun 2025 17:19:19 GMT",
@@ -1992,65 +2108,65 @@
       "sub_articles": []
     },
     {
-      "title": "Low aspirin dose 'reduces cancer risk in some patients', Newcastle University-led study says - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjdnpJeC1DTElmbkpmeHFzTm5TSEQxY1VsTW8zSkhvd1JBQzJjbnF0c0dpazE4b05vMzRFTldZT2JhWUx6S0RJXzJEU01laVNweVBiTkwzM093d9IBX0FVX3lxTFB0N3pWTWpWSFEtU2lrMTNJek4wc0VXZnItLTRhOHRBSVNwOG1VOXNKTFBrdnV0TENXVGxRTzFCb1NROVN2Ui1OanU3OXJRYzYwNEZvaXFmY1c1TWZhQ01v?oc=5",
-      "published": "Tue, 24 Jun 2025 05:03:31 GMT",
+      "title": "A New Study Reveals What Happens When You Drink Coffee Every Day - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJeDJFLUFOakZ3OFNrY1lPTktWd2pvbXZESm1WNTk5Q0xpNjVXblFWenN6bjE0b0h2NDhqOTRpazZMUmlhS2l0TVlSQzZveWNKRmNPb0xxMi1iRG94cTJwbXgyYXB0ZEdBM2NZSHJrTVpnTFU1a2c?oc=5",
+      "published": "Sat, 21 Jun 2025 18:15:32 GMT",
       "published_parsed": [
         2025,
         6,
-        24,
+        21,
+        18,
+        15,
+        32,
         5,
-        3,
-        31,
-        1,
-        175,
+        172,
         0
       ],
-      "source": "BBC",
+      "source": "AOL.com",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjdnpJeC1DTElmbkpmeHFzTm5TSEQxY1VsTW8zSkhvd1JBQzJjbnF0c0dpazE4b05vMzRFTldZT2JhWUx6S0RJXzJEU01laVNweVBiTkwzM093d9IBX0FVX3lxTFB0N3pWTWpWSFEtU2lrMTNJek4wc0VXZnItLTRhOHRBSVNwOG1VOXNKTFBrdnV0TENXVGxRTzFCb1NROVN2Ui1OanU3OXJRYzYwNEZvaXFmY1c1TWZhQ01v?oc=5",
-          "title": "Low aspirin dose 'reduces cancer risk in some patients', Newcastle University-led study says",
-          "publisher": "BBC"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJeDJFLUFOakZ3OFNrY1lPTktWd2pvbXZESm1WNTk5Q0xpNjVXblFWenN6bjE0b0h2NDhqOTRpazZMUmlhS2l0TVlSQzZveWNKRmNPb0xxMi1iRG94cTJwbXgyYXB0ZEdBM2NZSHJrTVpnTFU1a2c?oc=5",
+          "title": "A New Study Reveals What Happens When You Drink Coffee Every Day",
+          "publisher": "AOL.com"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeE5iNmdhdzExR2laWjRqTTg3MFVfWm9kTjZidkZSbUdNUGl5TFcxQ0UzZ0RQUkRYYm5neTBLbFM1c3pGZmNFcWx3Qi1aa05fRm5LU1k3X3VkS3ZOMG8zdFQwbFhGbVJjWHA3c3FsSmszYVhpSFg1Ml8zSHpTcC14WFJsMlVHLVRJYTgyTXc2dUN2SmxNaUxBWFJ6WklXOWJ0bmFZdWFYLURYdDZ4RTBMVzhiYmkxUFJkd01ONWRTRUhIQ1hm?oc=5",
-          "title": "Low-dose aspirin can prevent bowel cancer in people with Lynch syndrome",
-          "publisher": "Cancer Research UK - Cancer News"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0VpeGxKYWdkRE55M3A4LWExa1d5bEZEN090aVp6QmJwUlBkV0NNQmdOOUd1Z2lpeGE1MXVCZXljX3BvRFBCZzEwVU84RDg0MEdTMXFvNlN2elFKbDhQWE9VMkJ2RThuZ0tDczFDX3hPRmRXbUowRnlMY1YxNjFpNmRSSng4el9NSktJWFZPQ3ZBNmdSUHhJbkVfWU1wVWM3ME1ucUx1Z9IBrAFBVV95cUxQMVdjelo0N0VoOHZfSGVCQlJOeG5xQ2lBM0MtYUVwZ1RxejlGWmo2ZUxHUnBUbm9Na0g2enBiaWxiME1LNXlLZF95Ny1ZVUFJSzVmdk9Edm92MW96X2xwV0Vhb2NDeXhRbU5vODlnaGtSNnM5XzF1Yl9IRUpRLVBmaEViWUUzaExvRXhoRG5JdV9PQW1hdUdMUEFoY0RrblJ5bFFSejBocnZ3eS16?oc=5",
+          "title": "Harvard study of nearly 50,000 women over 30 years finds coffee drinking linked to healthy aging, longevity: It seems to offer 'protective benefits'",
+          "publisher": "CNBC"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVlI0dTN4WjdaRmJFS19UMzk1Q3ZLMjl3c2wwSVctOUVDQnNiNnAzZEhDN0ZUUHZpcFVjQVJBUFVRM0hYMW1TSWNKWUJSR2J1bXhETlhvNkFEdmpmZE1telhRbnpqVFpKblNFWTdNbjBaZEhWMnRMNDU1dk5jSHVPS214Yng0ZXNWMjgtbU9ReXo3amlJWU4w0gGcAUFVX3lxTE5mLVZRWUtISF9VczNKR0V2U0NIZ1dyd0tQY3NIeGdoS3RxakFtaDJ3aHVQTU5mejdhSXJubHRSSk1VenQ2dm1iNFY2SjV3Z3ZCeW1zRjgxRk1LbVpwc3VmOTI5bDhBMWlEdm1STkRiMVlOWHpINlhSel9XQlktOXdaTXhleFlESjdxd1MwM01lWndVZFdROEdOY2hvTw?oc=5",
-          "title": "Gosforth man who was first recruit on aspirin trial to prevent bowel cancer celebrates results",
-          "publisher": "Chronicle Live"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnNPOGNRNHV5Ry1VbjFvbDdVQXlpNTVRSFZJV3JCZUVKUjlPRjRwbE8zQjc3dWc2d25jMUY4RkRuSmxpYUNnN3cxOUlla2pZb3B4OG1EcVBSQkhOVFk1UkdQSlRXc3BCWVppWnNYazZFVmZnZzZGbF9rY0ZKdXluT1dmTUpoTm4tdHFrdEl4OA?oc=5",
+          "title": "Why over-60s should have four coffees a day",
+          "publisher": "The Telegraph"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRDRYUEFVWEkxd1U4bm5veEZ3bDJHR3ZhcWVVRUd1ZFNEWEplS0YyUFFjYTlBQkNVbHNreWswcDR5UUxFaF9oNXlLWGRpLXlmYXNGcnJhb1M2N3dxb1NQbUlHM2huVEx2VVhobmkzSGZxcmk1TjlqVGxwVmxzVFFNdlFNS2gyNldBSmZtUGxBT2lBWkNDaDlZNHJEXy1uRkw2VVRmdS05NHB0UQ?oc=5",
-          "title": "Over-the-counter pill PREVENTS bowel cancer, study reveals",
-          "publisher": "MSN"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmh4c21FQ1hycGx0UnBBQWpVYVpoeC0zTTZBb09VaU9WbEZxOWZzbFpJejdUU1ZXb3pwcVViQ2ZCUHdlT1V1TjRUYjMwRlB2bndpRm1KZzVsZjI4aXNSb3AzTkphWUlvLVBET3RURWRLY095ZV9ZYjNVRS1HZGhBNE1CMWsxMldYMHdSR0hwVmgzbjM5?oc=5",
+          "title": "Hold the Cream and Sugar: Black Coffee Linked to Lower Risk of Death",
+          "publisher": "Tufts Now"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFlRcVQxTkNLdDJGSDRwZUNJSW5feC05ZVp2anJyNHRNYXg4V1dYRnZYTWFZNUtVUGhjS3NyUGVHQVVhUGNkV01HdVkwWk1RWEhkTjVuajlPb2p2b1kzb3ZDemlKV3pabWNfTzdBSVpOY3dxWmlFMXlEd3JUMnZPbWh3Z3JJbm8wR3ZqYtIBkgFBVV95cUxPTGxwX2dVUFh6LXJXWjktMTR2eXpUMFNUQ2oyR0gtb1ljVVJpZDU2MTE3Umd6TWlka1RVYTZ4b0ZCUDBDUHZUWDg5RmtIUlZHZFpudzdhMzdKajlSQUZKV2NEejlfd2NCZFI5MVZVS1A4NmltVUpLR1d6ekNybEo1and3TGU1QjNRVHM4TG40TWxUQQ?oc=5",
-          "title": "Aspirin could be prescribed to prevent bowel cancer for those in high-risk group...",
-          "publisher": "The Sun"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03NmZtMkdzQmQtb21NZ2hZX2RweHpEaVBsOHhtSFZOY3BGMHRpZE5tczlwNWZkSGpWSVhFUXN4UXdmV1lnTkIycTg0THpZZVV2R3Q4cV9md0FkUnhZTGM4b0dVUXdKMXNDNDJBYnppblU?oc=5",
+          "title": "Each cup of coffee boosts healthy aging by up to 5%, new study finds",
+          "publisher": "New Atlas"
         }
       ]
     },
     {
-      "title": "Colon cancer patient's intestines 'spontaneously' explode after common operation - Daily Mail",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUdQYlV5UnV3cm0tR25tYVh4bVlOdkFlM2FtelNlWlBRUUZ1SnlwRWZkdWg2YzhxajNWcV9walM3VUU1a2JyeWswWkRjRXpfNUd6Mk5BVmRDZjdock9wai1aZFNTWk5qMjJsb0lVZFJ2Sjk4SnJRcjZWQlQ4WUVDbDZlUWJKY3B5TXlCUzc4UU5uMm1MSlNnQnJDMnNsOE3SAaQBQVVfeXFMT2xBNUpoZlRYY0wybDFTVGtuQ000c0Y0NmYwREVIc2J2MWtZZHhnMUJzVS1HY0VXeU1weXNjWDdyT0I4bU1rTjA0ajhZdWpzdXY5YkdZN3c5UWFUY25CQ0xoNG83NjA0eXVqc3JwZ01KLVFDczRMNmJ5dDFaUGFVS0pQTHRkanc4ZDRnNTZsR1JHWlBNUU9ENjQ0TjBOSi1PbWJIRVU?oc=5",
-      "published": "Mon, 23 Jun 2025 15:32:43 GMT",
+      "title": "I’m a Dietitian and These Are My 5 Favorite High-Protein Drinks - EatingWell",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdG5KNmJyYk54Zzc3UTBSS2VqZDI5TkpyYVJxcmNKUVRiWXVhTHduYkhwWXd6QlVBMEp1OHd0M1ExOTdPTXNZQ2xJaWNCaXRrWlJIMVY3RVhOU19XdS11NkhWZXVyN2tGcEctVDUyb1JrZ3JQWHlSRlJ4UW1pb1dpNA?oc=5",
+      "published": "Tue, 24 Jun 2025 14:00:00 GMT",
       "published_parsed": [
         2025,
         6,
-        23,
-        15,
-        32,
-        43,
+        24,
+        14,
         0,
-        174,
+        0,
+        1,
+        175,
         0
       ],
-      "source": "Daily Mail",
+      "source": "EatingWell",
       "sub_articles": []
     },
     {
@@ -2094,6 +2210,68 @@
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0tOY2EyWlV4RDRvQTdZN3RGcXBCaDdjcHJRNGhGSEJjNURwVUxYUnlCLWlxNVRCSUJLZG5FVU1yUi03a0s2b3dYOTdmU0FnZEl5aFJ3X1ZwcWtEaHpCVGlZa2s3OHZISDdpeS1ZQkFqamR6akU5TFNVV2dXZEpyUEJoem1ibjhoUEh0MEVJSFc2OXJnSXBTaE5laWtfNkpDTjVsbmVDWkF0WDF3NUVXb2V4QTJ3RWdKLTBLMnc4dw?oc=5",
           "title": "Global warming fuels an alarming increase in obstructive sleep apnea cases",
           "publisher": "News-Medical"
+        }
+      ]
+    },
+    {
+      "title": "Vitamin D Boosts Breast Cancer Treatment Success by 79%, Study Shows - SciTechDaily",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcjZjRTBnRENCQV9xS291SDNSSGFvWUx3Zzh0VWRaeGN0Y0hxSmN5a1d5bWs1aEJqelFFMTMzSVhqZUQ0VHlwaVh4a0JsbnljYWo2YTNuVWxEc3hONmtteFFYUmgydlhBcWdZQjFZelJCWHdLeXk2OG05R2JsTEJFNm5MX2p0TmNHcWJsZk1IejNNSTR3SlJN?oc=5",
+      "published": "Tue, 24 Jun 2025 13:30:36 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        13,
+        30,
+        36,
+        1,
+        175,
+        0
+      ],
+      "source": "SciTechDaily",
+      "sub_articles": []
+    },
+    {
+      "title": "Low aspirin dose 'reduces cancer risk in some patients', Newcastle University-led study says - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjdnpJeC1DTElmbkpmeHFzTm5TSEQxY1VsTW8zSkhvd1JBQzJjbnF0c0dpazE4b05vMzRFTldZT2JhWUx6S0RJXzJEU01laVNweVBiTkwzM093d9IBX0FVX3lxTFB0N3pWTWpWSFEtU2lrMTNJek4wc0VXZnItLTRhOHRBSVNwOG1VOXNKTFBrdnV0TENXVGxRTzFCb1NROVN2Ui1OanU3OXJRYzYwNEZvaXFmY1c1TWZhQ01v?oc=5",
+      "published": "Tue, 24 Jun 2025 05:03:31 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        24,
+        5,
+        3,
+        31,
+        1,
+        175,
+        0
+      ],
+      "source": "BBC",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjdnpJeC1DTElmbkpmeHFzTm5TSEQxY1VsTW8zSkhvd1JBQzJjbnF0c0dpazE4b05vMzRFTldZT2JhWUx6S0RJXzJEU01laVNweVBiTkwzM093d9IBX0FVX3lxTFB0N3pWTWpWSFEtU2lrMTNJek4wc0VXZnItLTRhOHRBSVNwOG1VOXNKTFBrdnV0TENXVGxRTzFCb1NROVN2Ui1OanU3OXJRYzYwNEZvaXFmY1c1TWZhQ01v?oc=5",
+          "title": "Low aspirin dose 'reduces cancer risk in some patients', Newcastle University-led study says",
+          "publisher": "BBC"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeE5iNmdhdzExR2laWjRqTTg3MFVfWm9kTjZidkZSbUdNUGl5TFcxQ0UzZ0RQUkRYYm5neTBLbFM1c3pGZmNFcWx3Qi1aa05fRm5LU1k3X3VkS3ZOMG8zdFQwbFhGbVJjWHA3c3FsSmszYVhpSFg1Ml8zSHpTcC14WFJsMlVHLVRJYTgyTXc2dUN2SmxNaUxBWFJ6WklXOWJ0bmFZdWFYLURYdDZ4RTBMVzhiYmkxUFJkd01ONWRTRUhIQ1hm?oc=5",
+          "title": "Low-dose aspirin can prevent bowel cancer in people with Lynch syndrome",
+          "publisher": "Cancer Research UK - Cancer News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVlI0dTN4WjdaRmJFS19UMzk1Q3ZLMjl3c2wwSVctOUVDQnNiNnAzZEhDN0ZUUHZpcFVjQVJBUFVRM0hYMW1TSWNKWUJSR2J1bXhETlhvNkFEdmpmZE1telhRbnpqVFpKblNFWTdNbjBaZEhWMnRMNDU1dk5jSHVPS214Yng0ZXNWMjgtbU9ReXo3amlJWU4w0gGcAUFVX3lxTE5mLVZRWUtISF9VczNKR0V2U0NIZ1dyd0tQY3NIeGdoS3RxakFtaDJ3aHVQTU5mejdhSXJubHRSSk1VenQ2dm1iNFY2SjV3Z3ZCeW1zRjgxRk1LbVpwc3VmOTI5bDhBMWlEdm1STkRiMVlOWHpINlhSel9XQlktOXdaTXhleFlESjdxd1MwM01lWndVZFdROEdOY2hvTw?oc=5",
+          "title": "Gosforth man who was first recruit on aspirin trial to prevent bowel cancer celebrates results",
+          "publisher": "Chronicle Live"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRDRYUEFVWEkxd1U4bm5veEZ3bDJHR3ZhcWVVRUd1ZFNEWEplS0YyUFFjYTlBQkNVbHNreWswcDR5UUxFaF9oNXlLWGRpLXlmYXNGcnJhb1M2N3dxb1NQbUlHM2huVEx2VVhobmkzSGZxcmk1TjlqVGxwVmxzVFFNdlFNS2gyNldBSmZtUGxBT2lBWkNDaDlZNHJEXy1uRkw2VVRmdS05NHB0UQ?oc=5",
+          "title": "Over-the-counter pill PREVENTS bowel cancer, study reveals",
+          "publisher": "MSN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFlRcVQxTkNLdDJGSDRwZUNJSW5feC05ZVp2anJyNHRNYXg4V1dYRnZYTWFZNUtVUGhjS3NyUGVHQVVhUGNkV01HdVkwWk1RWEhkTjVuajlPb2p2b1kzb3ZDemlKV3pabWNfTzdBSVpOY3dxWmlFMXlEd3JUMnZPbWh3Z3JJbm8wR3ZqYtIBkgFBVV95cUxPTGxwX2dVUFh6LXJXWjktMTR2eXpUMFNUQ2oyR0gtb1ljVVJpZDU2MTE3Umd6TWlka1RVYTZ4b0ZCUDBDUHZUWDg5RmtIUlZHZFpudzdhMzdKajlSQUZKV2NEejlfd2NCZFI5MVZVS1A4NmltVUpLR1d6ekNybEo1and3TGU1QjNRVHM4TG40TWxUQQ?oc=5",
+          "title": "Aspirin could be prescribed to prevent bowel cancer for those in high-risk group...",
+          "publisher": "The Sun"
         }
       ]
     },
@@ -2172,174 +2350,31 @@
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUWc1OU03NHZuZ0Y0MjV4NUR0Rm5YcmkwcTlSQzRfS1RrR0FLd0I5ZFkxeG9LcmtoS3ZmR0tsU01rMEtEZ3o4OEtQX0MxakQ1VFdva05IUDExR19Gb0FXQW40MHR1bENUdmV1NnN0X193b3Y1bHlMa04zc3BwQ1pPSm82bEc4TEU3bFJKNUl3NTBrT1NF0gGaAUFVX3lxTE5JeTB4bjBWSE1YaWtfajFDQ0xMeTg0WFUwODJ6TmNuZUlfbmtXU2pGNHhLclV0aTlkNkpDQWdvd3h1QVhNM1FqaEp3d0dMZlg1aFBLYlFScDVnZ3NOZUtPN0NEdkVzb3d3UmFTVzQyazVtTVJBRE5feFI2aG9FdGZEMjVnbnd3eW9SVXJPOWtMOVVWQk1VMW50MGc?oc=5",
           "title": "Scientists Just Had a Breakthrough In Understanding Tylenol",
           "publisher": "InsideHook"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVp5eHBidHNHbVotbmxGR2Y5bm55UnV0cFkzUFdTMkFSY1ZzYllkUGFkeTg5OEtrUThsNjlaZ2h6eGpYN0gyWlI2UzhSNlJvNmlmOVBMazBWcVZuQjlhN1hqOHQxMXdJUG5RbXh1NFJJRmhuVHVDNjhVaDQ1Ry1sdTlMekNiOTI1eGt2OC1HYVlENDR2Z0RFNTg4aW5XZw?oc=5",
+          "title": "Painkillers like Tylenol found to stop pain before it reaches the brain: Study",
+          "publisher": "Straight Arrow News"
         }
       ]
     },
     {
-      "title": "Little-known nutrient can boost your brain and fight cancer - Earth.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWl9xSE1CMUU0aFRuZ3lLSzFoS1ZLX3hlZW85QzA2NFlmLS1Wb1FhRGpfN0dMTjdVZlhJazhUYjUyNHRkT1pGejFEdVpvcXhjU1FEdjBuU1UyVDNfcWlyWmNTYnR0U1BGVEtpaVlLQTdCdFJBY1BhZGxtbXc1SjE1YmN4ZXVTX0pxYjd3WHlDRVo?oc=5",
-      "published": "Tue, 24 Jun 2025 13:40:05 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        13,
-        40,
-        5,
-        1,
-        175,
-        0
-      ],
-      "source": "Earth.com",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWl9xSE1CMUU0aFRuZ3lLSzFoS1ZLX3hlZW85QzA2NFlmLS1Wb1FhRGpfN0dMTjdVZlhJazhUYjUyNHRkT1pGejFEdVpvcXhjU1FEdjBuU1UyVDNfcWlyWmNTYnR0U1BGVEtpaVlLQTdCdFJBY1BhZGxtbXc1SjE1YmN4ZXVTX0pxYjd3WHlDRVo?oc=5",
-          "title": "Little-known nutrient can boost your brain and fight cancer",
-          "publisher": "Earth.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nNXQ3OXVNdTdOUTVPRVpvbng4Q21IRkEzUXRibGZwUE5EQjJKOEppczI1X2M1NEhTSW1qRGowV0kydjFkVTN5X09ZbU5Nd0hYZW55V1NuaTFLTmNWc1U0VA?oc=5",
-          "title": "UF, Trinity College team cracks micronutrient mystery that could be key to brain health, cancer defense",
-          "publisher": "University of Florida"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYU9BS3N5YkRuOFIxUGhMLW5EM1pEbjUwZ2ZtSFQtMTBBVlpvZFE5UVFydzJBWWtNck9WRzVxRlNyUXpUT0dJYWVIcDNjcFZJNXNBZFBkVVpPZUFxTlhTUXFLQTV3QV92NDJHS3dybXlocWFVTVJ5bFZmNVBkZWFqNF9qNVlONjVVOXBzcG05a2E4d2ZO?oc=5",
-          "title": "Trinity scientists help crack micronutrient mystery",
-          "publisher": "Silicon Republic"
-        }
-      ]
-    },
-    {
-      "title": "You can’t do your own research without doing your homework first - Big Think",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMHUyRXRlS29Vc0thRnNKbEVVQWFZMGV5VTdrWUljdTBaVUREMmhpOHVMU1RyUnBHb1l0b2piTm9zMmtlWHpkcGhBMnBiNkhCc2tRY3V0SlpFbXdUS2tTQm1XYk5wLVExcHMxanF6blR5NnQ1YWRQMDNpVGppdWZGbDEycFhfMG5f?oc=5",
-      "published": "Tue, 24 Jun 2025 06:00:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        6,
-        0,
-        0,
-        1,
-        175,
-        0
-      ],
-      "source": "Big Think",
-      "sub_articles": []
-    },
-    {
-      "title": "Cat Parasite Can Seriously Disrupt Brain Function, Study Suggests - ScienceAlert",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1EwZUFqNTdkUGxjdUdKVlowa2tZZ2c4bDA1YnEyR3dQaW03SU1HN2h1YTk1X2NWTHhhdXpBV2YyVmdFMXgyaEszN1RoXzllbWlZSDc0V1Q1Qm9PemZQd3dVQzNtX0hJSDRqTExTQ2ZuS0t1X05pdUhLcThSZkhJdWZ1czZtNGk1eGZ3bVJzbEwzeFJlRldEYg?oc=5",
-      "published": "Mon, 23 Jun 2025 13:01:15 GMT",
+      "title": "Colon cancer patient's intestines 'spontaneously' explode after common operation - Daily Mail",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUdQYlV5UnV3cm0tR25tYVh4bVlOdkFlM2FtelNlWlBRUUZ1SnlwRWZkdWg2YzhxajNWcV9walM3VUU1a2JyeWswWkRjRXpfNUd6Mk5BVmRDZjdock9wai1aZFNTWk5qMjJsb0lVZFJ2Sjk4SnJRcjZWQlQ4WUVDbDZlUWJKY3B5TXlCUzc4UU5uMm1MSlNnQnJDMnNsOE3SAaQBQVVfeXFMT2xBNUpoZlRYY0wybDFTVGtuQ000c0Y0NmYwREVIc2J2MWtZZHhnMUJzVS1HY0VXeU1weXNjWDdyT0I4bU1rTjA0ajhZdWpzdXY5YkdZN3c5UWFUY25CQ0xoNG83NjA0eXVqc3JwZ01KLVFDczRMNmJ5dDFaUGFVS0pQTHRkanc4ZDRnNTZsR1JHWlBNUU9ENjQ0TjBOSi1PbWJIRVU?oc=5",
+      "published": "Mon, 23 Jun 2025 15:32:43 GMT",
       "published_parsed": [
         2025,
         6,
         23,
-        13,
-        1,
         15,
+        32,
+        43,
         0,
         174,
         0
       ],
-      "source": "ScienceAlert",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1EwZUFqNTdkUGxjdUdKVlowa2tZZ2c4bDA1YnEyR3dQaW03SU1HN2h1YTk1X2NWTHhhdXpBV2YyVmdFMXgyaEszN1RoXzllbWlZSDc0V1Q1Qm9PemZQd3dVQzNtX0hJSDRqTExTQ2ZuS0t1X05pdUhLcThSZkhJdWZ1czZtNGk1eGZ3bVJzbEwzeFJlRldEYg?oc=5",
-          "title": "Cat Parasite Can Seriously Disrupt Brain Function, Study Suggests",
-          "publisher": "ScienceAlert"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVM0SGZJMTFXQ3JwcTRaSEEtc1FZM2Z3cjBqZ0ZLU21rRFVNdER2SzNGb1VoZEpyb1JTNlZaUlY1UEFZWUVBdmxlcjEyaU9oS2RMSWlObzN0ZGVYZFAxTzVVR1kzUnc5V3VuaXoxNkYyVHJQdVhWVlBGcU1qaThSQldRWmZRX3M4SU5hVE9TZi1wM0ppeGFWRFBTUVU?oc=5",
-          "title": "How a common brain parasite disrupts neural communication",
-          "publisher": "University of California, Riverside"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeHFNQ2QxOXBqaXJnZ2NLbmFuQWpZZlo5Z3VaeVV1d2NPcWxBLUdzS3IxOTFZT0tadm8wek5POG1LLVh3R1ZXbE1QX3dJNjlEM05OUlcxM2w0YVByd0xrWlUwcXJLMEJGelUzYzZsUHdZUl9OdEEycDZoSkNkdW5GTHpwVEJDOXU4a1hselk4NDhrTEpwX3hyVk5SbkNnQzBlLVptclY5MTlLQXc5V2g3Sm5IMzB6eVpPd3JjSlc0TzRSQQ?oc=5",
-          "title": "Common Brain Parasite Infecting Up To 30 Percent Of Americans Disrupts Neuron Communication",
-          "publisher": "IFLScience"
-        }
-      ]
-    },
-    {
-      "title": "Is There An Age When You Can Start Eating Whatever You Want? - HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNC1QdEJJYVpOSTkyS1F2RzBvcG9TdmN1QllNcXo1WHJBeER6MXVtYnVSMXZHNXVwdk82emZ4dUUtR090QzFUc1pZZUV1SUZRRk9va1RhQWtDY3J4cW94RE9WOWg5QUFVWFBvRkNzNE9UY1c4dWFCOUlfVFJkWVdJbXZEU2NwejZBU3A0WDQxci02TDhqQkF5Um8xOFjSAaIBQVVfeXFMUFZRbjRmNC1sMzVtNDMxbjdFTEpnNU9mSGk4cVRmZy12QTFTcGpHRGVBT29xRENHUnZlOXl0VE1VdWtfazhaRE1STEpZZUdoUXdLSE5tenFLTW13d1p5c1p1LU9YTVR1ZFpDZDcwMm9OaTB0S1VEWVY1VEFyemVGY0RsRk93SW12TVBKYjNlVnp5eWwtMUhZNElBbThreFRGQnZ3?oc=5",
-      "published": "Tue, 24 Jun 2025 11:00:17 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        11,
-        0,
-        17,
-        1,
-        175,
-        0
-      ],
-      "source": "HuffPost",
+      "source": "Daily Mail",
       "sub_articles": []
-    },
-    {
-      "title": "ADHD link to severe premenstrual disorder uncovered in women - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUVKMU0xODNhZmY0cXlXcVlreDlSQjVOX3pTbTR0akJjOU5XVVhTU2hFbkkyRXhqZnd4NzZHN0dZeXk3S29pLV9TUTJwSmt1UmgwUEpzV29nQVhKMVhhSGpKM1lsMjY3YW9LT1FSWHNmOWxwcUZObHJGQzU3aDdqY1o5Tl9pOXlQdXc?oc=5",
-      "published": "Mon, 23 Jun 2025 17:41:04 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        23,
-        17,
-        41,
-        4,
-        0,
-        174,
-        0
-      ],
-      "source": "Medical Xpress",
-      "sub_articles": []
-    },
-    {
-      "title": "A Snack High In Magnesium Can Reduce Anxiety Before Going To Bed - Health Digest",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNk9XaVVnYmtsemJla0dWdGYyaXJ3WVV5RGhPU0JkYjI2WWhhWE9xOWhuV1h1UWNCNWktanQ5T3FtclJvTXlEOUJ5NDBhU0VaaUl2anZSa2wzNVE2TGxvZDJ0ZHBXSmlSUkdBLVRBS3ZEdWlYck42NFlFb1JCeUpPZ2NqdGxTOUlJS2VDc0kzczJCWUdEVmZqdmdPaGRSTHIxRGVKOGF2UHQza3lX?oc=5",
-      "published": "Tue, 24 Jun 2025 13:30:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        24,
-        13,
-        30,
-        0,
-        1,
-        175,
-        0
-      ],
-      "source": "Health Digest",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNk9XaVVnYmtsemJla0dWdGYyaXJ3WVV5RGhPU0JkYjI2WWhhWE9xOWhuV1h1UWNCNWktanQ5T3FtclJvTXlEOUJ5NDBhU0VaaUl2anZSa2wzNVE2TGxvZDJ0ZHBXSmlSUkdBLVRBS3ZEdWlYck42NFlFb1JCeUpPZ2NqdGxTOUlJS2VDc0kzczJCWUdEVmZqdmdPaGRSTHIxRGVKOGF2UHQza3lX?oc=5",
-          "title": "A Snack High In Magnesium Can Reduce Anxiety Before Going To Bed",
-          "publisher": "Health Digest"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQX2dFUHEwTndlNDhXdW1IWllfTG0wLTNrcEt5dThpamFqNmRjTTJmeExiOUxwSkkxaW82UUd3NlFJeXFrTmJUU3Fzc2dCVms5Y21Rb1dPc3dLRTRVSzBjNFM4XzgyZVFWZGVKT0RzRFFRY0hvR3U1bkxycVBISFVKTzVsOUJDbWlsV2huQnJ6NUJYTnowSHBkam8wbm5PNmpjbGhaZDI5TS1ta1ZlRl9PZ2owQzZnVmFYT1I2MTlFeFBLWWRiQVYyNXRMODg5aEl5NnBsb0Zpb0hDRC1fTEZaX2FPTDZueG5QVTc4MU5heWxJZW5nLTZBbNIB_gFBVV95cUxOeks0YTJQNGZaUTEwcEo0VlB5akxrLWRXLXFDbzhhQUtHeERQY3NEVHlqcTh5UDN1bE9iU241dnV6S2ZUMzJ1ZzlQUGZwTFpjLUNIeWdCMG9Qa2ZzZEE4WnBmY3pJaXlCQ043Y2k4Sk1zTkw2U3BpNE1EcVBrOS1LM0VnLTRsdHh5eXZ0OUlCdnF6YjVsNGxBdUFra3RfVzBEWTl6WDBJa1QzUTNiSHVnSFFqckVST2dZQzFXT1M1QUtDQ0tScVBvRWlMb2gyaE9MQ0JJNDlRVFVmTFdqWjc1VDlKRzYyaThyS1pwaTFtaFVNbUhlNXVuVEU4bGVnQQ?oc=5",
-          "title": "Not everyone needs magnesium supplements: Here’s who should skip it",
-          "publisher": "Times of India"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd09LaFd4TENValZBTWk3b0MwdWFiMzZYVVJ2S0ZuWDI1VkdGWm00RHlVM3RrTGRkOVZCcW1BMlZELWZlODR2SC0yZjlvR0xycE8wbDlwTFdFUjhJTUZiZUJaOEE3WXY4NFZLV1d6LXEwTkV2NUdJOEtiSVNnSUsxNV9pZDVzUQ?oc=5",
-          "title": "4 Tips to Try if Magnesium Supplements Make You Tired",
-          "publisher": "Verywell Health"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KSkNBdjYxUVFyWGdLRE9FYUlLNWNEOWNzRG9xaUl4cXpEMkM3Y3lxZUEwSFY2N2RfTE10ZWZ4SS1LTWdJbnR4eXFOY2VZaENYZjlobmdNOHFlSnBEcG9TTmdZbGNuNkNhYWIteWJRUE5xNkJJR1Q4dDdnT2RxeTQ?oc=5",
-          "title": "Luke O’Neill: The science of magnesium",
-          "publisher": "Newstalk"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDZXFtUVFsTTZMdFk0dmlNOXJOZWdOLVF0VVhuamprME1Va1NhM205Vm1RRUNtRW1Ea0xNUnRibW5fREtxU01kSGhlLVlVQ3BMQ1JKWXdkWGxmdlZ3?oc=5",
-          "title": "What is ‘mag glycinate’ — and can it really help you sleep?",
-          "publisher": "New York Post"
-        }
-      ]
     }
   ]
 }
