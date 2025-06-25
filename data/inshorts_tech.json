@@ -1,36 +1,27 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-24 20:13:12",
+    "generation_time": "2025-06-25 02:58:19",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "261b6a05d85a89bbed9decfcdeb08aff",
-      "title": "A week in Xbox VR with Microsoft and Meta’s new $399 headset - The Verge",
+      "id": "553026a3ef8609f7bda75220c99d6eee",
+      "title": "Apple’s thirsty F1 movie notification is going over as well as you’d expect it to be - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/hands-on/690978/meta-quest-3s-xbox-edition-vr-headset-release-date-pricing",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/xboxmetaquest3s_twarren_01.jpg?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
-      "summary": "A week in Xbox VR with Microsoft and Meta’s new $399 headsetThe Quest 3S Xbox Edition is a custom colorway VR headset bundled with an Xbox controller. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Tom Warren is a senior editor and author of Notepad, who has been covering all...",
-      "published": "Tue, 24 Jun 2025 13:00:00 GMT"
+      "url": "https://www.theverge.com/news/692276/apple-wallet-notification-f1-movie-ad",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/f1.jpg?quality=90&strip=all&crop=0%2C10.719133494003%2C100%2C78.561733011995&w=1200",
+      "summary": "Apple Wallet notifications for an F1 movie promotion ticked off iPhone ownersWhile perhaps not as bad as the 2014 U2 debacle, pushing promotional ads on users is too thirsty. Cameron Faulkner is an editor covering deals and commerce. He joined in 2018, and served as commerce editor at Polygon until May 2025. Apple poured some good money into making F1...",
+      "published": "Tue, 24 Jun 2025 19:15:41 GMT"
     },
     {
-      "id": "6cf86bd4b169f26ca83384899360b095",
-      "title": "Samsung offers $1,000 off preorder deal for new Galaxy foldable phones ahead of Unpacked - ZDNET",
-      "source": "ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVhjaDIzVHZ2QU5LaFBoQTB4ZWxUazU3MTlRdTZ1dDY4bnlQWDVyZmhUenoyeWQ5SGp2VFJ0RDR5MnRxX3VYczNBRFFwTnpjWVRNdC1DN0ZNdUxxOVRjM244RW83bllsQ0xjYklNWFg2NmVOdVVIYWZ5eW9mNWU4Qm9ra25aRkxDUllneW9RUEJ6TVFndGpKRk4tQldOVmlDRVRycVczbVpIZDRwXy1nVFA3bkRMT1Fw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 24 Jun 2025 17:07:00 GMT"
-    },
-    {
-      "id": "bb4c5787093c05669b9a79e87bff22fb",
-      "title": "Nvidia’s RTX 5050 GPU starts at $249 with last-gen GDDR6 VRAM - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/692045/nvidia-geforce-rtx-5050-desktop-laptop-gpu-gddr6-gddr7",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/geforce-rtx-5050-desktop-and-laptop.jpg?quality=90&strip=all&crop=0%2C0.13712291199202%2C100%2C99.725754176016&w=1200",
-      "summary": "Nvidia’s RTX 5050 GPU starts at $249 with last-gen GDDR6 VRAM﻿Laptops with RTX 5050 cards are also coming with 8GB of GDDR7. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. A new RTX budget option is coming for desktops and gaming laptops. Image: Nvidia Antonio G. Di Benedetto is a...",
-      "published": "Tue, 24 Jun 2025 15:45:49 GMT"
+      "id": "17ceee450857e48691307cdeab50a10d",
+      "title": "Philips Hue bulbs will be even more expensive in July. And it may not end there. - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2025/06/philips-hue-bulbs-will-be-even-more-expensive-in-july-and-it-may-not-end-there/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/hue-play-wall-washer-for-entertainment-lighting-2-1152x648.jpg",
+      "summary": "Philips Hue bulbs will be even more expensive in July. And it may not end there. Some Hue products already cost more in the US than they do elsewhere. The Philips Hue Play smart lighting for walls. Credit: Signify Philips is upping the prices of its popular and already-expensive Hue series of smart lighting products starting July 1. The company...",
+      "published": "Tue, 24 Jun 2025 20:07:34 GMT"
     },
     {
       "id": "971a0058f6c4da85e3b52a4c976ca52e",
@@ -42,112 +33,94 @@
       "published": "Tue, 24 Jun 2025 15:35:17 GMT"
     },
     {
-      "id": "d3a3351e58754d1fba585082fd1c9ac3",
-      "title": "New Android 14 update for Chromecast with Google TV rolling out - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2025/06/24/new-android-14-chromecast-update/",
-      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/Chromecast-with-Google-TV-v5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "summary": "New Android 14 update for Chromecast with Google TV rolling out Back in March, Android 14 for the Chromecast with Google TV started rolling out after missing it’s expected 2024 deadline. There were some issues and Google pulled the OTA. A new Android 14 update for the Chromecast is now rolling out. UTTC.241218. 008.H1.13427172 (versus UTTC. 241218.004) is rolling out...",
-      "published": "Tue, 24 Jun 2025 14:53:00 GMT"
+      "id": "1aba1e4d1898f3c6e996a1a1f54e9500",
+      "title": "iCloud was down — live updates on Apple outage hitting Photos, Mail and more - Tom's Guide",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/news/live/icloud-down-live-updates-outage-6-24-25",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ZrRNiMNgJJDFWd7ykuKj4U.jpg",
+      "summary": "iCloud was down — live updates on Apple outage hitting Photos, Mail and more By Dave LeClair last updated 3 hours ago When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Apple's iCloud service suffered an outage today which appeared to affect a number of other Apple services as well. A...",
+      "published": "Tue, 24 Jun 2025 23:19:49 GMT"
     },
     {
-      "id": "583ee62ad740db864c97fd5ff1d66518",
-      "title": "Netflix is removing over 20 games, including Hades and Monument Valley - Engadget",
+      "id": "9c8f63dc66c5af3fba724ba37373b77b",
+      "title": "Microsoft dips its toes into VR with limited edition Xbox-themed Meta Quest headset - Eurogamer",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/microsoft-dips-its-toes-into-vr-with-limited-edition-xbox-themed-meta-quest-headset",
+      "image_url": "https://assetsio.gnwcdn.com/Unveiling-the-Exclusive-Meta-Quest-3S-Xbox-Edition-0-5-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "All Mario Kart World Unlockables Flashpoint Worlds Collide codes If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Microsoft dips its toes into VR with limited edition Xbox-themed Meta Quest headset News by Ed Nightingale Deputy News Editor Xbox has collaborated with Meta to launch the Meta Quest 3S...",
+      "published": "Tue, 24 Jun 2025 13:04:44 GMT"
+    },
+    {
+      "id": "1aec8f5877b8728f31871003be3e0148",
+      "title": "Windows 10 users can get extended security updates for 1,000 Microsoft Rewards points - Engadget",
       "source": "Engadget",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQXdNd1NfMGxCSW5SNVdJTGpVU0pKcVhvcTJYck1kc0dDbVlJX3hmS2pmci10eUR2VUtVRnlsS18zazJIcjJiTVBVUU1Kem5sdGFqSm5lYTl6dmsyeTk1VHI3a2wtd1pITVBNc01waDlCMU5ER2xnYlFaTnBlMEVVX1RJMjdCYnlfZHk5bi0zOVBMd2pucHQtTFh6ZXNhMDFsR2VnQzVGZmx0Z1ZEMTdmQ3Z1SzBiN0k?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 24 Jun 2025 12:30:23 GMT"
+      "url": "https://www.engadget.com/computing/windows-10-users-can-get-extended-security-updates-for-1000-microsoft-rewards-points-170023129.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/7h4moEzirQRzI6Bba29P3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/1791c820-510d-11f0-844f-7da4037c128b",
+      "summary": "Apple iOS 26: What you need to know Meta Quest 3S Xbox Edition arrives for. .. Prime Day 2025: The best early deals How to buy the Nintendo Switch 2 Windows 10 users can get extended security updates for 1,000 Microsoft Rewards points Tue, Jun 24, 2025, 12:00 PM CDT·2 min read As we edge closer to Windows 10's end-of-support...",
+      "published": "Tue, 24 Jun 2025 17:00:23 GMT"
     },
     {
-      "id": "30e2dc988a875739440509cdecce174d",
-      "title": "Pixel 11’s Tensor G6 will reportedly use 2nm process at TSMC, no longer lagging behind - 9to5Google",
+      "id": "516b4ec97d9822d59cb36cf6818f8c0c",
+      "title": "Google Phone’s M3 Expressive update redesigns bottom bar with Home, Keypad tabs - 9to5Google",
       "source": "9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yQmRxRUczNUhnVkpNUEJHTXNQUjBTc0U2djlxQlNuV0RPZkE2TGxxeUJuX20zQnRERGtYTGk1V2JMUC03eUk1bW1wOWRRalJJOFNTZE41QnlTb2dEWlo3Y3ZZQUtiS1N2TldUSnBpUXo4N3ZKYmc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 24 Jun 2025 12:30:00 GMT"
+      "url": "https://9to5google.com/2025/06/24/google-phone-bottom-bar-redesign/",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-phone-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Google Phone’s M3 Expressive update redesigns bottom bar with Home, Keypad tabs Following the initial rollout for some beta users last week, Google shared more details about the Phone app’s upcoming Material 3 Expressive redesign, including a big revamp of bottom bar navigation. In addition to the “visual style updates,” Google is reorganizing app navigation and the bottom bar. Voicemail...",
+      "published": "Tue, 24 Jun 2025 15:50:00 GMT"
     },
     {
-      "id": "95a9fbffe124c809502c1bbde600e75a",
-      "title": "Apple's Next iPad Pro Could Feature Ultra-Slim Bezels - MacRumors",
-      "source": "MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sTHhQRlRYRG55ODJ3WnFySHM4b2lpVllvejBqT1hnaC0tX1NTMFl5SWNBWTNSQ1BVXzdwLTBRc2V3b2dNWnFRYlZGOUpURVI4V0FaV2IwNUVJbVdGMHpsZHg4Y1h3M29DcmhfcTRvcjZuNUE4aDdsTUVWcGY5UQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "id": "8a4232d84b0d71d9d734edc8a08d3e3a",
+      "title": "Apple was one of the few stocks down today. Why acquiring Perplexity could be key. - MarketWatch",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-apple-potentially-acquiring-perplexity-could-be-big-news-for-its-stock-4d352b39",
+      "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Tue, 24 Jun 2025 09:40:04 GMT"
+      "published": "Tue, 24 Jun 2025 17:30:00 GMT"
     },
     {
-      "id": "f084f0013308e8da20df897e6b2c2ec2",
-      "title": "New high-res renders outline the entire Galaxy Watch 8 lineup in all its squircle glory - Android Police",
-      "source": "Android Police",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UU1JGM0VwN1pOclExNDE1QTl6NzlKdnNOZTMxaUtFOElScnRLVWxrajRCNGQxLVRPeXlkd3Q2OUhtbHhNcFVZS2dQMlZWZ0xJMXJJUS1ZRFMtQ2Z1a0stYmgzc3N1NUdFb3ZFTzU1SmJEdmVvLU0za0xacFQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 18:57:00 GMT"
-    },
-    {
-      "id": "ff84c608ffe2e4c4162d970211ff69c2",
-      "title": "This iOS 26 feature could be Apple preparing for AirPods Pro 3 cameras - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRjJhelVEZk9GS003WnFRc3Q5RHNBbFhvdjFpX3VDb1I4VTBTY0ZSMmtlX0NOb0t1WGxtMF9Ca2RPWDNnV2FsQ1l0bUZRbTdIa0pNUzR2WmdPNGxMc1o5eW1HQUVLS3lvc3c5aFc5UVpEbWRURDV4TG9nSTlXR3BiSVFaNUJyT0JGWUVuU3ZCMXVpTngtM1ZzRGV6Wjg4aWFyYW1Geg?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 24 Jun 2025 16:48:00 GMT"
-    },
-    {
-      "id": "4b5deedb5550a27dd85bdee822ac2231",
-      "title": "Google's Pixel 10 Pro Fold Rumored for Huge Durability Upgrade - Droid Life",
-      "source": "Droid Life",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVFkMWVQWG9GYW4xR1FEYW1zTGFXZm5fZ3lCdkVsSHVTcF9LZzlsYnVwMHE3ZWY0QVlTYU1wNVd2dkh1ME1WcDVETG9VVU4xQnlIQ1dleTlGbi1aaTNDd2tMTTQ5S0tXd3pibHU2cU5tc3ZVX2lBNUlFbDdnTzVVc2lya01QeTZqUGk00gGQAUFVX3lxTFBBNl94b1N0aVU5T2ZXUnNOeFlMQ1BoTkl0QzZYYlh2aVIycWVFN1RHVUx2aHR4R2NfZlhfTndOWWV5bjlpOWhlYjZLbk1iMFozYkFUMnNZczdQTWZBb1d6Q2NRcXdJUXQ5aENzVDl6cXdYZ2hBT1lmaUU2SkktLUZWRDlwbVFQNEpMbGhGTVZ3ZQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 21:45:01 GMT"
-    },
-    {
-      "id": "16e7724e151207124c0416e25f05b0a0",
-      "title": "Gemini in Android Studio adding ‘Agent Mode’ - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXR3BlN2oxMzlPaktSNjZwRWpwdDdsZk1JZkRLRm5xZTFVNFNHOWJ6WG1Ed20wcWdUS21CMWhTc2dDVTloRVNCeG5rY3BUTHZKYVZ6T0swRlNtNUsyNGlCTjk3WmtaaXF2N1J0Q2UyZjhTZEdhYkE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 17:00:00 GMT"
-    },
-    {
-      "id": "1d60ef8c47d4e61da56fee534fe5e0d2",
-      "title": "$28 external HDD on Amazon actually does what it claims, still not a good buy - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS0Y5TkIza0lxTEhGWGRjWnBtb3FXN1lvcEdZMXIyVzUycjhodDNnb2wtV0t2X05HMHZOQ242NkNQQ25pcjJ1dDlVUjRIcU1wOG1BRFh4cVBRNGNhRnVESzNSNUUyTEx0dnIyN0pxYmZlbksta0tuY1B6dnA0d1EzdUNLdEI0MjdFSkdXOTd0MTlCWmhOOU1vbjlOamlwT2dYZUdXV2ZPVTlXaUJZaFpyVmFJa3Y2czQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 24 Jun 2025 17:44:12 GMT"
-    },
-    {
-      "id": "8881a00ad0225d3170971281512625e9",
-      "title": "Signs of iPhone 17 Air Spotted in iOS 26 Beta 2 - MacRumors",
-      "source": "MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zckRob1BjY1pQd1hlbnhhRXdnNlJnNXVUOVdYWjZJYnhvS1hONmRiSjh0UlR5VHFEejNXM2dtMENwX2h4ZlN1SHRTSWdRZGo5Y1hLQlQ0b1daMm16eHhoMUpxdEtFbVJQc2tWdWpKeEdBdU0?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 20:28:22 GMT"
-    },
-    {
-      "id": "6e536218830671450229328295768375",
-      "title": "Microsoft makes Windows 10 extended security updates free, but there’s a catch - The Verge",
+      "id": "dbc6e5e8cee273e114cdc42807ea03d3",
+      "title": "Google finally lets Android users put Chrome’s address bar on the bottom - The Verge",
       "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN3otY0dKZm5GQUtNZXBkalRsNzdiU24zVy14cW9hWDNkT3RSVW1lcm5JOThUX2NuMVZuemJnczFPaDRxRWhhOEF0ZU14cDhlQWlYUFlKNVJKWXYwN2l0X2tZRjFuNGNwZWxaWGdHQWZGcWpNRVlvajNUajhUcm9CcllfM3BGUVhHS1hjZktxRTVwdw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.theverge.com/news/691718/google-android-chrome-address-bar-bottom",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/unnamed-1-1.png?quality=90&strip=all&crop=0%2C12.744434986415%2C100%2C74.511130027169&w=1200",
+      "summary": "Google finally lets Android users put Chrome’s address bar on the bottomIt’s the correct place for the bar. Jay Peters is a news editor covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme. Google is starting to roll out a feature for Chrome on Android that lets users move the address bar...",
       "published": "Tue, 24 Jun 2025 17:00:00 GMT"
     },
     {
-      "id": "c88d586c844a5dc4af7bf09236ced56d",
-      "title": "Galaxy S23 and Galaxy S22 pick up June 2025 update in more countries - SamMobile",
-      "source": "SamMobile",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX0VzS2NYSWlQTl9jeWE3WnkwUk1LSEZEYWhFUDlwSVpTT1dxem5QUHhRWllpVGVYeThBTTN6dXI3SGRXLVp2LWhIT2tVWmZUcDVSN1o5OHlXdmttNHlBc3VEUXF1TWN6Y2U3OFo0YXpTRUlBM1ptTG10YVRZYkVhR1pMUlNUcHhyMTFOcUh3?oc=5",
+      "id": "67ab1acef18c398d616f79a7261f0bce",
+      "title": "Google brings historical Street View imagery to Google Earth - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/06/24/google-brings-historical-street-view-imagery-to-google-earth/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/google-getty.jpg?resize=1200,800",
+      "summary": "Google brings historical Street View imagery to Google Earth Google announced on Tuesday that you can now access historical Street View imagery on Google Earth. Until now, you’ve only been able to access historical Street View imagery on Google Maps. Google says the launch will allow people to explore from even more viewpoints, whether it’s a bird’s-eye view or at...",
+      "published": "Tue, 24 Jun 2025 12:00:00 GMT"
+    },
+    {
+      "id": "bb4c5787093c05669b9a79e87bff22fb",
+      "title": "Nvidia’s RTX 5050 GPU starts at $249 with last-gen GDDR6 VRAM - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/692045/nvidia-geforce-rtx-5050-desktop-laptop-gpu-gddr6-gddr7",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/geforce-rtx-5050-desktop-and-laptop.jpg?quality=90&strip=all&crop=0%2C0.13712291199202%2C100%2C99.725754176016&w=1200",
+      "summary": "Nvidia’s RTX 5050 GPU starts at $249 with last-gen GDDR6 VRAM﻿Laptops with RTX 5050 cards are also coming with 8GB of GDDR7. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. A new RTX budget option is coming for desktops and gaming laptops. Image: Nvidia Antonio G. Di Benedetto is a...",
+      "published": "Tue, 24 Jun 2025 15:45:49 GMT"
+    },
+    {
+      "id": "116d3e8d2cc17ffc3a34169d683abf59",
+      "title": "Samsung offers $1,000 off preorder deal for new Galaxy foldable phones ahead of Unpacked - ZDNet",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/article/samsung-offers-1000-off-preorder-deal-for-new-galaxy-foldable-phones-ahead-of-unpacked/",
+      "image_url": "https://www.zdnet.com/a/img/resize/fb6b4b43271f3a23113317979432421eca0bb486/2024/07/08/ad0c4ff5-75be-4bab-a1ab-43d7d565020d/dsc01140.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "summary": "tomorrow belongs to those who embrace it today Why you can trust ZDNET : Our process Samsung offers $1,000 off preorder deal for new Galaxy foldable phones ahead of Unpacked Samsung has officially set the date and location for its next Unpacked event, where the Galaxy Z Fold 7, Z Flip 7, and more are expected to debut. Written by...",
+      "published": "Tue, 24 Jun 2025 17:07:00 GMT"
+    },
+    {
+      "id": "2fa8f64046623b60f8b8c5080317913e",
+      "title": "Little Nightmares 3 finally gets release date, Nintendo Switch 2 version, new trailer - Nintendo Everything",
+      "source": "Nintendo Everything",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2thclJpOEgxbWpKSU5wR2w4Y2xyb05ER24ydkZ4LXNPc0JrQlVycEwxN3VQYTNXbjhIeTVJU1ZBZDZSemg3RTF6ZWxOaFh1NUtMa0VwMEpOTWw5ajJiQ1NlbHI5LV9PdnpHQkF1ODhXM0hrVy00anNTMEtMSk5sVzZzQQ?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 11:04:00 GMT"
+      "published": "Tue, 24 Jun 2025 19:18:45 GMT"
     },
     {
       "id": "26c511615c0342fabe6dea302c469db0",
@@ -168,22 +141,49 @@
       "published": "Tue, 24 Jun 2025 06:58:00 GMT"
     },
     {
-      "id": "ee6bb7915dd1e47b7ec029a986b0a3f1",
-      "title": "Death Stranding 2: On the Beach is a Touching Story about Love and Loss - Roger Ebert",
-      "source": "Roger Ebert",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOVFQU2MwT3A4RWl5ZzF0eGhycWNxdHd1bk1pZUp3QUpSa0REM2hLalRMWTFRRHFORzZ0WlBlQ0Uwa3huVVExYm9BUTNnd1VFSDlqRXFRQndoVFJZMnJXSnh3QzQ4NTZ6WjhyUG1HeGFONk9RZEF1M1A5dzhETDRMaDc0UFlvbURmOHJidlZvVFI?oc=5",
+      "id": "ad25c02d20eab400542afb9983b21bdf",
+      "title": "MindsEye developer confirms layoffs as it \"focuses on updates and performance optimization for MindsEye\" - GamesIndustry.biz",
+      "source": "GamesIndustry.biz",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQanY0Z21fVTlXOGJ3R0FaZHJyNXdDaFduNV9fS1NnMmRGVlU1ZDR0aDZ1RGpTanpPTjY4Yll0d2JKZkpqSkhWQ2ttcmdZcTQ4bm5TUzVrRkNwREpDS25sazJzTlA2QTlQV1ZPUTd5cFZhT2p6LW1UanpiRmpLTHJPVnZDQWhLNmNfYVo3d2RJeGlEb216cFREMUgxRVZJSkxIWUdrdndHSUY3dkI0VjZVQXNoNDh6R0NmYzFaSWsteUtQTDlqcWV6Q3JNYmc?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 23 Jun 2025 12:00:15 GMT"
+      "published": "Mon, 23 Jun 2025 19:09:18 GMT"
     },
     {
-      "id": "2ea4523d29ae70e712f4c3846cda42c0",
-      "title": "These battery-powered 4K cameras record 24/7 - The Verge",
-      "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORC1TblJITlM5bHZuR04ySHZVb3g3YzlQRmZFYlhQMk9sdjBhM0pnWHU4TWNBNTFPR3NrTDc3SU5oYmlUYWI0TXF1UFF6ZEtBWHBfVFoxWXZLbnB0X1VEc2ttVWUwR1RsU0VmVU5rMWlOalhHUlJ6Wl9wa0t1b3l4WVpvRFpWOHVZQWpOQUZWT3lUdTRlc2RnTVR2TGlZNDN0X0E?oc=5",
+      "id": "4df7c1b964962bdd8a33c7c25855893e",
+      "title": "‘Death Stranding 2’ is Hideo Kojima at the peak of his powers - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObW1aVUFSWGdQbzZ4cjAxQUFLNDFrVVlBUGlrYW0ybFJ3SU1oOWszSl80ZUFRNEhvRWNoT3dYM3RJTGtVQ3FSWS0zVFhzLVUyMXRjR3c3OVA2d0NmTWVaNXgxdm9NZWlfMVZxQm1vR2NidVRsd0k1Wmc4TmpoWnUweDNmMWNsWVhqNDJjYkU0cWNUc2JGWXFmS0lrRHNxYnRuN0VSQWxlSjVYZw?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Tue, 24 Jun 2025 15:54:23 GMT"
+      "published": "Mon, 23 Jun 2025 19:00:00 GMT"
+    },
+    {
+      "id": "33abe664c8ce5eb981fa95266e6d4d4c",
+      "title": "Nintendo’s wheelchair basketball game will be out in August - The Verge",
+      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaDkyNHpUSXZ4Nm1fdWFOTkhHZjFFVzdOMVBWbnYtOW1aU0RNRWxDTTYtTUtPaGs0MlNZZzdjZzFPaEd4SjREZHZCMTF0NUJnVXUyMURscDljWHJPZDc0VGQ2NXo2WGNNb2c5anc5Z1hUTVhCYm0yd1BIeTNHR2NOaGdxZFZtZlE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 24 Jun 2025 14:24:44 GMT"
+    },
+    {
+      "id": "b4fbd3db4e548ff4e67dd1ffa0f4f261",
+      "title": "iPhone 17 Pro: A closer look at the new ‘camera bar’ design - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUVlaVnh5R2ZSbEJ1Qi12ak51MHdESUhUbUE2b1pDYkpvbjV6VVZzWHU2c0JpdTNpUHRtTlg3ckM3bzRLT3VYQ2lnZFlmOTF4VEduVUhxY3FOUnFhTUNnM1lRRkRTMTNPVTA0TDhDLURnanlFV0ctSkJaZDlSc1lSODdQNkxISmRhSnNyQU9qZ2ZzQQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 24 Jun 2025 22:19:00 GMT"
+    },
+    {
+      "id": "29ebf8f482833d60cd37349615737650",
+      "title": "The Best Game Of All Time Just Turned 25 Years Old - Kotaku",
+      "source": "Kotaku",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMld3aVhLQ2otY0xEWGQwcnBSUTZMc3lTNGljbXZidnphRFQ3b3daSVF2eUl5SHFGVVQyWDZROG5iOGwycXlBb3ZkRS1Sek0waEYwa1JTZ3EzU284T2ZkUG5jeDhjVW9MRnd1eDUwb2staTJzTHRnRlpqaGlwal9mWDQ1aHlwOUROZFZN?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 24 Jun 2025 15:20:00 GMT"
     }
   ]
 }
