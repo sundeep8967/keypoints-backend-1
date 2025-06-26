@@ -1,10 +1,28 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-25 20:14:21",
+    "generation_time": "2025-06-26 02:54:59",
     "total_articles": 20
   },
   "articles": [
+    {
+      "id": "28ab8ee072fec224a8976eb830a64608",
+      "title": "WhatsApp rolls out AI-generated summaries for private messages - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/693310/whatsapp-ai-message-summaries-meta",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/meta-ai-summary-screenshot.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "summary": "WhatsApp rolls out AI-generated summaries for private messagesMeta’s AI can write a catch-up summary of messages you’ve missed. Emma Roth is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO. WhatsApp can now call on Meta AI to summarize your personal chats. As shown...",
+      "published": "Wed, 25 Jun 2025 22:02:07 GMT"
+    },
+    {
+      "id": "2d7ec990783a5181f572442442d2b8e1",
+      "title": "HDMI 2.2 specs are out with ‘Ultra96’, up to 16K at 60Hz - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2025/06/25/hdmi-2-2-specs-ultra96/",
+      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/hdmi-ultra96.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "HDMI 2.2 specs are out with ‘Ultra96’, here’s what that means for your setup The HDMI Forum has officially released version 2. 2 of the HDMI specification, bringing support for video resolutions up to 16K at 60Hz and boosting maximum bandwidth to 96Gbps. Alongside the spec, there’s a new cable designation called Ultra96. Here are the details. The HDMI 2.",
+      "published": "Wed, 25 Jun 2025 21:07:00 GMT"
+    },
     {
       "id": "3b1ee7c434a36e44c354a22f5091229a",
       "title": "Diablo 4’s free with PlayStation Plus in July - Polygon",
@@ -15,174 +33,156 @@
       "published": "Wed, 25 Jun 2025 13:21:07 GMT"
     },
     {
-      "id": "566ae36de54cb513aed44431193e5a01",
-      "title": "M5 iPad Pro OLED Displays Enter Mass Production for October Launch - MacRumors",
-      "source": "MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNVhCLWU5Q3piSXhXZlFIam5venpEVU03ZVJnWE9LNThabkxBR25HWTBBd1dVTXRpUDdrVFlpRzZjZ1dWRXd2R3p1VXN6MmprZExNaGhfdF9pa1RmZ2psNjZGNXpqVUdLMTVPdUJXc2k0d3gzRWx4cVh2dGFrV2RFRFotbDNXRUhuaS1sUDNR?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 11:21:51 GMT"
-    },
-    {
-      "id": "245089b841bca76acc52bc7654f3a54e",
-      "title": "Snapdragon 8 Elite Gen 2 Could Obliterate Both Single-Core & Multi-Core Benchmarks As Tipster Claims That First Chipset Samples’ Performance Cores Were Tested At 5.00+ GHz - Wccftech",
-      "source": "Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTVNZ3ZPSVNnZVc1R205NDZ0OEVfcmpwVnp6X2FmQTY5SU5PX3M0ZXBFRWFOa0EyYXprQ1ZsRkNXOG1SbmRhRXZTVHNraWU0UEdpdTdEdmNiaGRidmZUM054bnhNNXUwWC1ocUJjZk42SUpQZUY0VHVPOVJLTllGVzJ3WUp3dGVvOUptam44azhjQUM0RWE1MWZGQdIBoAFBVV95cUxQUXhrc1R6d1QydFNGZ0wxZkExLU9HeElrUmxscFI5bWpuY09feU5sbXNWVUh0cE1wRl9TQWZ1LXZHV1pMMkt0U3Q5VDRLQkhqc0V5dXZia0pYb2JIc1ZXOC1UeHhIRGM5M002WUhLd2NCNHk3eFJ6SkUwSVFtU0JSWU56T0hmSnlKeUVqVVJUVXViM1o5aDJPd0x4RlJSX2R1?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 10:37:00 GMT"
-    },
-    {
-      "id": "e3d83359c9fd776df69fae7b26d74ca7",
-      "title": "Upcoming Gemini for Android change sparks major privacy concerns - Android Police",
-      "source": "Android Police",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTmpnQm5jM2FPdUlTRFRweTZ5ZnlSZjRWOEtqUi1keHVQYWQzM2s5QS1VQ2JIem9sQzRjQl9WWl8xcnZGQW5BRi1OM1V4T1YtOGxxOG01OEdsZHZqTHZUQmkyb2Y5bzA3M0Vwc0d6aVJYdmlNWUltekdyOHRuSFBtVjdiZklFd1dISkgyOEVrRHAxVFFFTlA0OF9lcw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 06:43:00 GMT"
-    },
-    {
-      "id": "4f459ca556a8a8ec5d2ba4a0cf05fd92",
-      "title": "New leak gives us a glimpse of black iPhone 17 Pro and iPhone 17 Air - Mashable",
-      "source": "Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BN2xQT2Mwc2F4Wk9XUjN2dXV3MEhFMHNIWDdORlA4M2YzQ1RkSE1HM01TRzI5U1BmRXNtbHBxajViZldWOTZVaEtKUXU2TmJoN0Nja0VxcWt4UjMxVzhVY2dIV0JDTkE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 11:07:25 GMT"
-    },
-    {
-      "id": "2ec811b92ab1fb3d59f144fbf36509fe",
-      "title": "The smaller Fairphone 6 introduces swappable accessories - The Verge",
-      "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORlFYckVSQ2RpMUpuSUw1clQ2R3owVHBHbmxkbUNNYXV6M2FXMkxXWlVNZFdFMTBwSkQxUlN4cWlubkZIRWNaZVJFRnlrUjNwY3cxOUMtZ09WN3J1b2laZ0NUUzM4WHRJcGdYODNMeXpQbUdDenM5a3l0NXdwdnF2c195UFBKZkJGdGExandKVFBWRFR2Yno1a1ZhSVhhdw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 12:12:25 GMT"
-    },
-    {
-      "id": "5d79eb132630c219c7a80f25683054ff",
-      "title": "This 250W Charging Station Replaces All Your Chargers, Now at a Record Low Price for Early Prime Day - Gizmodo",
+      "id": "c8a2ef858b0b744c890ccfe35c8aac7a",
+      "title": "Google to Gemini Users: We’re Going to Look at Your Texts Whether You Like It or Not - Gizmodo",
       "source": "Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQjdlNFVySTMwSlE5QTRfVWRtbE5YWTBuUG9iR1VTcEVKM0hkdXJFTVpxQmZLLVNVWFhrcnpSbTNDS1U1OVlSdy1JQjVZZWlHMm03X0JMczZXRDBFdmxIYnhVRnNkZkwwV3ZSSjRtYk5MMi1XLWd1Q3pNRkRQdGJzTHFyOGZXYkVFaURpNlpOdjdQb0NKTW9jeWYzV0M3cDVpWGlIdW11Tnp5R21YN2dBMm5OX2xJOXFFQzBLa3hyeWRoQnROaEwxM2x3?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 24 Jun 2025 21:28:59 GMT"
-    },
-    {
-      "id": "83869f1b5f0a8a47aa15acc5c0fc2c5b",
-      "title": "Google Pixel 10 series allegedly gets brighter displays with better PWM on Pro models - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JVlpzREZSNDZLMEFRc3RSZkk5bTlGUUZTenBKc3Z3MnJET3R1UFEySXdmUjd5dUlDNDBQeVdPMnN0d2NpN3N0akI4VlBjZExVdk16bGJpMmRtM3BUY29peFBidDJtN25ZRzUyTklWSG9GMkE0VWdrS3p6b205eEU?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 13:30:00 GMT"
-    },
-    {
-      "id": "6dbe53b84b3fee85ca26b228baade30a",
-      "title": "There's finally a power bank with a retractable USB-C cable — and it's on sale ahead of Prime Day - Android Central",
-      "source": "Android Central",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd29vYjJvQXpCbDVqQ01ndGRhNUwwY0g4TENQdHBWUS1BZTBhUFU0dnJRdFFDeEc1cFNGZDJSZlkyUDFhLXRpb1RlSHZxUEUweDYzaG83WGx4XzliMWVKRlVOSGNKZVlDM2lzQ2kzODl1Rm05M0lITTNNZVNraThvWW9VYVhReEU2cjkzZXBySmZsZlRnWDVnOXVBY1kxTmVrSDdSSTRHZFZSQzNGT2VieUhiNA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 24 Jun 2025 02:11:49 GMT"
-    },
-    {
-      "id": "116d3e8d2cc17ffc3a34169d683abf59",
-      "title": "Samsung offers $1,000 off preorder deal for new Galaxy foldable phones ahead of Unpacked - ZDNet",
-      "source": "ZDNet",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVhjaDIzVHZ2QU5LaFBoQTB4ZWxUazU3MTlRdTZ1dDY4bnlQWDVyZmhUenoyeWQ5SGp2VFJ0RDR5MnRxX3VYczNBRFFwTnpjWVRNdC1DN0ZNdUxxOVRjM244RW83bllsQ0xjYklNWFg2NmVOdVVIYWZ5eW9mNWU4Qm9ra25aRkxDUllneW9RUEJ6TVFndGpKRk4tQldOVmlDRVRycVczbVpIZDRwXy1nVFA3bkRMT1Fw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 24 Jun 2025 17:07:00 GMT"
-    },
-    {
-      "id": "3db7470cefe2de2de8b07391d90319af",
-      "title": "Samsung launches three 4K 32-inch Smart monitors: M9 gets QD-OLED panel and $1599 price tag - VideoCardz.com",
-      "source": "VideoCardz.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalhtOUVXTzJ4SXhIVXFYOWRGOUVRb2hmc2NtV2c2WlZsNjhiZDRINVJpN1BQVndmZzFEX3RKMXFpTUxNcWRrSC1MUEc1czZWZ2tmWkg0NWc4YUxPMnR5UWpRSHFEUWdyVGpMbFlOUUg0dWpwOXFhWDdMazBnUnhMX0hBQVpfem1MNjJzWmdmZUVnRl9kQXVhQ1RZanFkU1B2ZDVZbEZOY1VpN0pvVnlBT0xTeHpHMWlJ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 15:49:00 GMT"
-    },
-    {
-      "id": "c90aba6d2561c5a6ad0efd77981cd9a3",
-      "title": "Insta360’s new wireless mic looks no bigger than an Apple AirTag - The Verge",
-      "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeWhLN0JQME5TbzlLR2JCbDZVVUFkdEl4MUZpTVZtOUJJMWpfSWdjcWk5RTM5Yk5QaXBsNjF3bjgwQmJjT1U0RzUtTDNBazFmWGZYVEdBemoxejJ1blV4MUlnNXhNMEpRT1lhZnJmT25nMmlJeVhMcjA1RVNyOURCRk9KVFFscmtqdzRvdS1SYUQ3bDRLd253ZjBHRQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 14:10:45 GMT"
-    },
-    {
-      "id": "12f9c6742d7b023087b9c507528d4f0c",
-      "title": "Ring cameras and doorbells now use AI to provide specific descriptions of motion activity - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdk5CVHdoWWt2UmZjeU55dVQ4RW8zbFNqQjZhdU1VenRhUWpQQ2d0NXFxUE43SWJSdzFjb1lkRnNkVzMtRUt4cDdJNDF2MjBHM3F5My1LekFJcS1jSkFGQlZHUlV2X0o5cUwxSk9INl9XdndMaHdmaGhDbnZnRHhXOTZjNWViN2xBdWJzWUZNZE03V20zQURtRjVFeW1WTEFIUktPWmJTazAyZUFvcjVrS252VFBoLWhtbzZIVVlVVUNJUQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 13:00:00 GMT"
-    },
-    {
-      "id": "c80588286784572356f1d2d897c07e02",
-      "title": "Microsoft dangles extended Windows 10 support in exchange for Reward Points - theregister.com",
-      "source": "theregister.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhTmN1cUI5TERiSGkxanVrVXlXV2cwcmpnTXp3bERpbkZTTC1zS013OGd0SndwaUhwdmFqRHhxUzJVVWRKU0tTYzFCOUF5VUlybmk2X2NIclZ4a1pCX2ZUaENTaWdBSW5vaGx3RU9tMmPSAXZBVV95cUxQbHczMmE3bzdSeV9Td3gzM243R2VrZi01Y3NkblBMdGVNX01vOG5wajE5dFpUdVBmbXhVUEg0VHRTMG5oQ1BXSm80MmxqN1BELUJNdHlUWGxzQUVaVWlPeVZkNkM0UTFMVXhGU2pheXJ6aThoZjFR?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 13:35:00 GMT"
+      "url": "https://gizmodo.com/google-to-gemini-users-were-going-to-look-at-your-texts-whether-you-like-it-or-not-2000620141",
+      "image_url": "https://gizmodo.com/app/uploads/2025/06/geminigooglegetty-1200x675.jpg",
+      "summary": "Google to Gemini Users: We’re Going to Look at Your Texts Whether You Like It or Not An email sent out to Android users should raise the eyebrows of anyone worried about privacy. Published June 25, 2025 | Comments (41) | © NurPhoto / Contributor / Getty Images The idea of agentic AI is pretty appealing. Like, sure, I want...",
+      "published": "Wed, 25 Jun 2025 16:26:29 GMT"
     },
     {
       "id": "71ce8822b2332a6d1a6ea0b5512843f8",
       "title": "Little Nightmares 3 gets October release date and there's an enhanced edition of the original on the way - Eurogamer",
       "source": "Eurogamer",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb2RhS2I0Y0ZaVkY4cEs4MWlBWlNLQWh3b2l5YV9RdVNBMjZmTVRtdEtoaXdJaWJ3OWwyVFNjZ3FZUjNmRzBCNTljS3RDRXZadWU3clgxN3k1RndWSmQwdW16M0ExLWdzdjhwQWhwY1pmT0ROaXBuSjVyVmVCWW1VaXZBNXJLenRRSVUxMWp3QUllX25EZUJjNk9ZbFdCeV81R0ZlNFluUkRqY3ozVmFvY0dFR1RZRS1iN1ZxMkFSV1YtdjJSeFlfYg?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.eurogamer.net/little-nightmares-3-gets-october-release-date-and-theres-an-enhanced-edition-of-the-original-on-the-way",
+      "image_url": "https://assetsio.gnwcdn.com/Screenshot-2023-09-02-at-17.27.01.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "All Mario Kart World Unlockables If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News Little Nightmares III Little Nightmares 3 gets October release date and there's an enhanced edition of the original on the way Image credit: Supermassive Games / Bandai Namco News by Matt Wales News...",
       "published": "Tue, 24 Jun 2025 22:03:10 GMT"
     },
     {
-      "id": "6fe5153c1831f7ec9be9f6ca83eb9c89",
-      "title": "Death Stranding 2's instantaneous loading times truly prove the power of the PS5 - Eurogamer",
-      "source": "Eurogamer",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmlxSVdSNmlCQXd2RW15U1Y3WDlDMXd3aDE5WF82QmZMX05BaFl3VWR2MDhzbkpSdHdLZFZJTHdORkJlMDE5X1BhaEZOV2h2cVVqQTZmS1AtQW5CZl9FdGppNXhLVHR3Z2dvckR4MkNMLVVKWjVTYWNLTjNuc19UdEhYZ2pUYVN5QUFqd0tIS1I5TnlSejZTMmhtcEF6N2tBLVlKMlFRZGI?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 11:36:32 GMT"
+      "id": "6daaf6323eaf1396418cf63c26e05df6",
+      "title": "The Switch 2 is coming to Walmart tonight at 9PM ET — but there's a catch - Engadget",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/gaming/nintendo/the-switch-2-is-coming-to-walmart-tonight-at-9pm-et--but-theres-a-catch-203129228.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/7r676UUFv80VhvusV6NQiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/62bc4070-4639-11f0-afee-cc8613e61572",
+      "summary": "Apple iOS 26: What you need to know Meta Quest 3S Xbox Edition arrives for. .. Prime Day 2025: The best early deals How to buy the Nintendo Switch 2 Engadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission. Read more...",
+      "published": "Wed, 25 Jun 2025 20:31:29 GMT"
     },
     {
-      "id": "e3ec1c4416b085d53bdc7d5e377f5a78",
-      "title": "Here’s a running list of all of Tesla’s robotaxi mishaps so far - The Verge",
-      "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNckZEN2xTckRFLVRobHhwYVQxSGdoUFlVM0pVVG9oQTV4MUUwU1o0UjJ2UlhkNnIxVlh2cm92bi0ta2hLUk8yWDJNTjlRMVlobzFMMlJrWFhacElKWHZ6YklPRDYwWXhST1FWY0x6VlI0X0prWEJJSnZwa1ZVNFBzUS1sNzUyOTk4Wno2LXdPZw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 14:56:08 GMT"
-    },
-    {
-      "id": "1c80367bb9f5459daac51f64adc1658f",
-      "title": "Philips Hue lighting is getting even more expensive on July 1 as a ‘direct result’ of tariffs - 9to5Google",
+      "id": "5bc0ceb86be0d94c40c54b8f5f8e6a80",
+      "title": "Google will prompt Android users to adjust Find Hub privacy during device setup - 9to5Google",
       "source": "9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15NTNpcGQydFdjLXNHNTNrZWtyb2dTOFFyejRPUTFaSXIyVU85TFlqR1pYazU5ZDY5SDktRDdLeHVxN09GYVBWOUgyeGEzNi1fMnZnME1xSjFQazFuVmVnc240aWR6ZGd4SUFtZXhYLUpFQ0h0R2JiNDh3S3FoVlE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 24 Jun 2025 18:35:00 GMT"
+      "url": "https://9to5google.com/2025/06/25/google-android-find-hub-privacy-setup-prompt/",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Google-Find-Hub-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Google will prompt Android users to adjust Find Hub privacy during device setup Google is making a change to Android device setup that will prompt users to change their Find Hub privacy settings, hopefully addressing a long-standing shortcoming of Google’s tracker network. In the latest update to the June 2025 Google System Services changelog (see our coverage here), Google has...",
+      "published": "Wed, 25 Jun 2025 18:20:00 GMT"
     },
     {
-      "id": "64d99a735c20957bec0e36a696af61b4",
-      "title": "Sex advice: My girlfriend has a way to \"finish the job\" in bed. I hate every second of it. - Slate Magazine",
-      "source": "Slate Magazine",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NemxrY0VfM1N2Si1Mcl9jd1VielhlRjg5SUotLVFNUzA2ZTMwLWZqd2dfaGdYMVIxeUlXRDZKZVFoeGYzU0p5SUs2ckRTTmI0Z2dPYU9sYjNMRWVmTzQzbEFtM1IzOUNzMWZucXlYTllDdzAweUZPQjdLWkRaUVU?oc=5",
+      "id": "f7d490e544215c98fc41fc4b2ec7c6db",
+      "title": "FTC Sends $126 Million in Refunds to Fortnite Players Who Were Charged for Unwanted Items, Reopens Claims Process - Federal Trade Commission (.gov)",
+      "source": "Federal Trade Commission (.gov)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/06/ftc-sends-126-million-refunds-fortnite-players-who-were-charged-unwanted-items-reopens-claims",
+      "image_url": "https://www.ftc.gov/sites/default/files/styles/social_standard/public/images/press-releases/social-share/badge-explore-data-ftc-refunds-fb_0.png?h=ec041e41&itok=O8xF38KO",
+      "summary": "An official website of the United States government Home News and Events News Press Releases FTC Sends $126 Million in Refunds to Fortnite Players Who Were Charged for Unwanted Items, Reopens Claims Process Players who have not already filed a claim will now have until July 9 to submit one Tags: Consumer Protection Bureau of Consumer Protection consumer refunds Credit...",
+      "published": "Wed, 25 Jun 2025 13:39:34 GMT"
+    },
+    {
+      "id": "de532dc6d68cba580620bb8daea2ca10",
+      "title": "Jack Black to Reprise Officer Dick in ‘Tony Hawk’s Pro Skater 3 + 4’ (EXCLUSIVE) - Variety",
+      "source": "Variety",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDBKdk1xcHRRUHVocUtwZjZLWHpobHNwaEFjYlE0NHhUcm83RnA5YmVZSWZCcnV4TEZvRzdpaWNJMUVvNVU0TGJ4UVZIR0dDZWdHZVp1UXEzMXNFWmJOOV9jcl9tZWRHa0ZyT1BhSHNnNW5UQV9FRXR1RWxDR1pIUnpaQ3JISnIyNXE2NDNhRzY0WHhhXzc5T2VoTVdwelE?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 16:00:00 GMT"
+      "published": "Wed, 25 Jun 2025 17:00:00 GMT"
+    },
+    {
+      "id": "e75e2853af05882137695f2b8c0feb22",
+      "title": "Ring debuts Video Descriptions, Gen AI-powered updates on what’s happening at home - AboutAmazon.com",
+      "source": "AboutAmazon.com",
+      "url": "https://www.aboutamazon.com/news/devices/ring-video-descriptions-gen-ai",
+      "image_url": "https://assets.aboutamazon.com/dims4/default/2f0abac/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F26%2F93%2F5966d3a947e384bdfb7ab8db9ff9%2Fringai-car2.gif",
+      "summary": "To sign up for news alerts from Amazon, click here and choose \"Allow\" for notifications. Ring debuts Video Descriptions, Gen AI-powered updates on what’s happening at home A new era at Ring starts with detailed alerts that let you distinguish between urgent and everyday activity at a glance. We’re seizing on the potential of gen AI to shift more of...",
+      "published": "Wed, 25 Jun 2025 12:59:31 GMT"
+    },
+    {
+      "id": "5f071e999bb415189273b48cf0377376",
+      "title": "Google's Imagen 4 text-to-image model promises 'significantly improved' boring images - Engadget",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/ai/googles-imagen-4-text-to-image-model-promises-significantly-improved-boring-images-111711517.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/G9ZhjAr..8tCmOLJ56SEKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NTU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/de452d40-51a3-11f0-aaa1-14639992456a",
+      "summary": "Apple iOS 26: What you need to know Meta Quest 3S Xbox Edition arrives for. .. Prime Day 2025: The best early deals How to buy the Nintendo Switch 2 Google's Imagen 4 text-to-image model promises 'significantly improved' boring images The new Imagen 4 Ultra model allows more precision in your prompts. Wed, Jun 25, 2025, 7:17 AM EDT·2 min...",
+      "published": "Wed, 25 Jun 2025 11:17:11 GMT"
+    },
+    {
+      "id": "01bbaf63af1afe544095830d1d22a90c",
+      "title": "Philips Hue is raising prices in the US ‘as a direct result of tariffs’ - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/692130/philips-hue-us-tariffs-smart-lighting-price-increase",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/philips_hue_wallwasher3.jpg?quality=90&strip=all&crop=0%2C10.705428492698%2C100%2C78.589143014605&w=1200",
+      "summary": "Philips Hue is raising prices in the US ‘as a direct result of tariffs’Pricing across smart lighting and security products will go up for US customers on July 1st. Some products like the Philips Hue Play Wall Washer light already cost more in the US. Image: Signify Jess Weatherbed is a news writer focused on creative industries, computing, and internet...",
+      "published": "Tue, 24 Jun 2025 16:59:09 GMT"
+    },
+    {
+      "id": "5d79eb132630c219c7a80f25683054ff",
+      "title": "This 250W Charging Station Replaces All Your Chargers, Now at a Record Low Price for Early Prime Day - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/this-250w-charging-station-replaces-all-your-chargers-now-at-a-record-low-price-for-early-prime-day-2000619839",
+      "image_url": "https://gizmodo.com/app/uploads/2025/06/anker-250w-charger-1200x675.jpg",
+      "summary": "We may earn a commission when you buy through links on the site. This 250W Charging Station Replaces All Your Chargers, Now at a Record Low Price for Early Prime Day It’s the all-in-one charger for everything. Amazon’s one-day deals are coming out before Prime Day and this year there is a true gem for customers who appreciate speed and...",
+      "published": "Tue, 24 Jun 2025 21:28:59 GMT"
+    },
+    {
+      "id": "c80588286784572356f1d2d897c07e02",
+      "title": "Microsoft dangles extended Windows 10 support in exchange for Reward Points - theregister.com",
+      "source": "theregister.com",
+      "url": "https://www.theregister.com/2025/06/25/microsoft_free_esu_tier/",
+      "image_url": "https://regmedia.co.uk/2016/07/06/windows_10_by_anton_watman_image_via_shutterstock.jpg",
+      "summary": "Microsoft dangles extended Windows 10 support in exchange for Reward Points Or your cloud-bound soul. Otherwise, $30 please Microsoft has found a new use for Reward Points – and another incentive to upload everything you hold dear to someone else's servers. You know the drill by now. Windows 10 is approaching its end of life (although the special LTSC edition...",
+      "published": "Wed, 25 Jun 2025 13:35:00 GMT"
+    },
+    {
+      "id": "5c0c5e08fee435bac8a9f3f11b2b867b",
+      "title": "\"One Of The Slowest Modern LCDs I've Ever Seen\" - Digital Foundry's John Linneman On Switch 2's Display - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2025/06/one-of-the-slowest-modern-lcds-ive-ever-seen-digital-foundrys-john-linneman-on-switch-2s-display",
+      "image_url": "https://images.nintendolife.com/1fbd80acc0dfd/large.jpg",
+      "summary": "Nintendo Switch 2 News Reviews Features Games Guides Videos Forums Better eShop \"One Of The Slowest Modern LCDs I've Ever Seen\" - Digital Foundry's John Linneman On Switch 2's Display \"About 3 times slower than the original Steam Deck LCD\" Image: Damien McFerran / Nintendo Life We already reported a few days back that the boffins over at Digital Foundry...",
+      "published": "Tue, 24 Jun 2025 10:30:30 GMT"
+    },
+    {
+      "id": "61864f5682dab01ada6d1f22632bd146",
+      "title": "Anthropic now lets you make apps right from its Claude AI chatbot - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/693342/anthropic-claude-ai-apps-artifact",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Claude-Create-Artifacts-MBP.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "summary": "Anthropic now lets you make apps right from its Claude AI chatbotA new way to vibe code. Jay Peters is a news editor covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme. Anthropic is adding a new feature to its Claude AI chatbot that lets you build AI-powered apps right inside the...",
+      "published": "Wed, 25 Jun 2025 22:33:29 GMT"
+    },
+    {
+      "id": "ca26b68161f7dd63ff456459fac4ad29",
+      "title": "REVEALED: The secret to a happy marriage, according to scientists - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/sciencetech/article-14845941/secret-happy-marriage-PDA-Couples-affection.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/25/13/99708417-0-image-m-10_1750853368666.jpg",
+      "summary": "Wednesday, Jun 25th 2025 10PM 83°F REVEALED: The secret to a happy marriage, according to scientists READ MORE:  Men let their partners beat them at scrabble to save their marriage By XANTHA LEATHAM, EXECUTIVE SCIENCE EDITOR PUBLISHED: 14:00 EDT, 25 June 2025 | UPDATED: 14:44 EDT, 25 June 2025 Honesty, respect and communication are all crucial to a happy marriage.",
+      "published": "Wed, 25 Jun 2025 18:00:46 GMT"
+    },
+    {
+      "id": "2c06510b7e2d93f3b19c8968f6686d25",
+      "title": "Latest Galaxy Z Fold 7 and Flip 7 price leak brings awesome news! - SamMobile",
+      "source": "SamMobile",
+      "url": "https://www.sammobile.com/news/latest-galaxy-z-fold-flip-7-price-leak-awesome-news/",
+      "image_url": "https://www.sammobile.com/wp-content/uploads/2024/07/Galaxy-Z-Fold-6-review-13.jpg",
+      "summary": "Reserve the next Galaxy, Get a $50 Samsung Credit. New deals, S25 Ultra, Watch Ultra. Last updated: June 25th, 2025 at 15:17 UTC+02:00 SamMobile has affiliate and sponsored partnerships, we may earn a commission. Latest Galaxy Z Fold 7 and Flip 7 price leak brings awesome news! Samsung won't charge extra but will sell the Flip 7 cheaper! After having...",
+      "published": "Wed, 25 Jun 2025 13:17:00 GMT"
+    },
+    {
+      "id": "8ed35c7324ad52538cb5ef70692c2ae5",
+      "title": "nOAuth Vulnerability Still Affects 9% of Microsoft Entra SaaS Apps Two Years After Discovery - The Hacker News",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGYncjvO0vJFI8sTRcrFdOcYGrVJkd3hRVzA7bdG6bPHEupmoScTm-p2EDTJPl5xTk_QVnUVzhzx-ecDzEDRvw_RmUULMrEJ9vNX19y_03bdGHBfM-xoemhrvxKmk4Vn0ggN_APP0nizU7eoirtFeMIo5mpvx7-wPX9q3RRSwKb61TkH-iSr_TFjgy-B74/s728-rw-e365/ms-entra.jpg",
+      "summary": "nOAuth Vulnerability Still Affects 9% of Microsoft Entra SaaS Apps Two Years After Discovery New research has uncovered continued risk from a known security weakness in Microsoft's Entra ID, potentially enabling malicious actors to achieve account takeovers in susceptible software-as-a-service (SaaS) applications. Identity security company Semperis, in an analysis of 104 SaaS applications, found nine of them to be vulnerable...",
+      "published": "Wed, 25 Jun 2025 16:56:00 GMT"
     },
     {
       "id": "9ce4f57f8adcb3f95c6d8967c1583ae8",
       "title": "The next season of Diablo IV adds extra challenges to the endgame - Engadget",
       "source": "Engadget",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeTJ2WkRiMmpHYU43aDlwQTJBMUl5YW9WRzl4V0FPbllqRVpWZXN1TUFySnVURVVNX095WUQtVWFiVk1ocjk4MDNRci1GZzhTcnJlbHhVdi1WajBvSmx6b3ZwNUxncjF4aDY4RGRRNFdWaVBGVWk2TTNaNTFmSjVodDV5M1NxQ2FDOFF2RElEdDZxbktIR2ZsNGxOU2Q0MHc4TlZROFFXWkNYc3dqbVpNekxR?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.engadget.com/gaming/the-next-season-of-diablo-iv-adds-extra-challenges-to-the-endgame-203832761.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/B2XB8vU5u8SkXhsZEQQTvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzI7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/ed4170c0-5139-11f0-bfff-2551fffd80f4",
+      "summary": "Apple iOS 26: What you need to know Meta Quest 3S Xbox Edition arrives for. .. Prime Day 2025: The best early deals How to buy the Nintendo Switch 2 The next season of Diablo IV adds extra challenges to the endgame Nightmare Dungeons will get even more nightmarish. Tue, Jun 24, 2025, 4:38 PM EDT·1 min read Diablo IV...",
       "published": "Tue, 24 Jun 2025 20:38:32 GMT"
     }
   ]
