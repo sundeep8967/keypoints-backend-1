@@ -1,27 +1,36 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-26 02:10:36",
+    "generation_time": "2025-06-26 07:08:48",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "b11e4bfa54005e17933849970dcc5267",
-      "title": "In a Win for Trump, NATO Agrees to a Big Increase in Military Spending - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/25/world/europe/nato-increase-military-spending-trump.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Thu, 26 Jun 2025 00:30:44 GMT"
+      "id": "6e039d3be65e98c94e2094e0f695425d",
+      "title": "See how much NATO countries spend on defense, and how that has changed - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/06/25/nato-defense-spending-gpp-charts/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6RVVYIH4GRVJ3YX67JC7LQMOFU.JPG&w=1440",
+      "summary": "See how much NATO countries spend on defense and how that has changed Many member countries would have to double defense spending by 2035 to meet new targets, charts show. By Cate Brown and Adrián Blanco Ramos As NATO’s yearly summit concluded in The Hague on Wednesday, alliance leaders agreed to increase defense spending to 5 percent of national income...",
+      "published": "Thu, 26 Jun 2025 04:31:33 GMT"
     },
     {
-      "id": "fa35bbbbabbead33896d0834ee68cde5",
-      "title": "Rescuers retrieve body of Brazilian hiker who fell from Indonesian volcano - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/International/wireStory/rescuers-retrieve-body-brazilian-hiker-fell-indonesian-volcano-123200476",
-      "image_url": "https://i.abcnewsfe.com/a/192a62a9-e05e-4b89-985d-b1e2df733e03/wirestory_abade509dd688a5ef2e5ebd250a09b40_16x9.jpg?w=1600",
-      "summary": "Rescuers retrieve body of Brazilian hiker who fell from Indonesian volcano Officials say Indonesian rescuers have retrieved the body of a Brazilian hiker who died after falling from the ridge of a volcano ByROSIDIN Associated Press and EDNA TARIGAN Associated Press International headlines from ABC NewsCatch up on the developing stories from around the globe making headlines. SEMBALUN, Indonesia --...",
-      "published": "Wed, 25 Jun 2025 17:00:03 GMT"
+      "id": "ea6aedea23a08594c867b02f1d5db1a5",
+      "title": "The myth of Iran’s invincibility has been broken, and the fallout could be far-reaching - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/25/middleeast/myth-of-irans-invincibility-broken-intl",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2025-06-18t131226z-1367774385-rc215faim1m9-rtrmadp-3-iran-nuclear.JPG?c=16x9&q=w_800,c_fill",
+      "summary": "The myth of Iran’s invincibility has been broken, and the fallout could be far-reaching Updated 2:16 AM EDT, Thu June 26, 2025 Iran's Supreme Leader Ayatollah Ali Khamenei speaks in a televised message following the Israeli strikes, in Tehran, Iran on June 18. Office of the Iranian Supreme Leader/WANA/Reuters For over three decades, Iran built a web of proxy networks...",
+      "published": "Thu, 26 Jun 2025 06:16:00 GMT"
+    },
+    {
+      "id": "42347acec28063dee887915c69bcb8f3",
+      "title": "The Weapon That Terrorizes Ukrainians by Night - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/25/magazine/ukraine-russia-war-drone-shahed-iran.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 25 Jun 2025 09:01:15 GMT"
     },
     {
       "id": "5b61883cd9c18b872b7a02dfbd5df66d",
@@ -33,76 +42,13 @@
       "published": "Wed, 25 Jun 2025 16:42:33 GMT"
     },
     {
-      "id": "138c621f6642ba99c72001a968ca7136",
-      "title": "Ukraine to set up war tribunal with Council of Europe - Financial Times",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/61e42c2d-1ad0-4d8f-a86b-9845b848a753",
-      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F542b2201-1406-4cd9-94eb-eda741144137.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Ukraine to set up war tribunal with Council of Europe Special court will have jurisdiction over Russian officials who planned and carried out the full-scale invasion in 2022 Ukraine to set up war tribunal with Council of Europe on...",
-      "published": "Wed, 25 Jun 2025 10:00:07 GMT"
-    },
-    {
-      "id": "5f24acdcb92a1de58c6f4b43cbd80889",
-      "title": "When the Supreme Leader emerges, he'll be leading a changed Iran - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0j4g1ll8yqo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4cf8/live/b4be7d90-51c7-11f0-8485-7bd50fa63665.png",
-      "summary": "When Iran's Supreme Leader emerges from hiding he will find a very different nation Special Correspondent, BBC Persian After spending nearly two weeks in a secret bunker somewhere in Iran during his country's war with Israel, the supreme leader, Ayatollah Ali Khamenei, 86, might want to use the opportunity of the ceasefire to venture out. He is believed to be...",
-      "published": "Wed, 25 Jun 2025 23:05:14 GMT"
-    },
-    {
-      "id": "d8a2a0e5132000d5185e23d952a309cb",
-      "title": "U.S. strikes crippled Iran’s nuclear program, Israeli analysis finds - Los Angeles Times",
-      "source": "Los Angeles Times",
-      "url": "https://www.latimes.com/world-nation/story/2025-06-25/israeli-agents-made-initial-assessment-of-u-s-strikes-to-iran-source-says",
-      "image_url": "https://ca-times.brightspotcdn.com/dims4/default/c35be5e/2147483647/strip/true/crop/5146x2702+0+365/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2d%2Fe0%2F1094881146a08c3d436a3f100888%2Fnetherlands-nato-summit-88631.jpg",
-      "summary": "U.S. strikes crippled Iran’s nuclear program, Israeli analysis finds Defense Secretary Pete Hegseth holds a news conference at the NATO summit in The Hague on June 25, 2025. (Alex Brandon / Associated Press) THE HAGUE — Israel’s preliminary analysis of the damage caused by U. S. strikes on Iran’s main nuclear facilities — based in part on assessments on the...",
-      "published": "Wed, 25 Jun 2025 19:53:58 GMT"
-    },
-    {
-      "id": "103c8e640fb5c6b8ffa1b6284b57a07f",
-      "title": "Explosions Rock Russian Drone Plant in Taganrog – Ukraine Claims Direct Strike - Kyiv Post",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/55162",
-      "image_url": "https://static.kyivpost.com/storage/2025/06/25/15750f3ac0a13ac969b185d112f03490.png?w=1200&q=90&f=jpg",
-      "summary": "Explosions Rock Russian Drone Plant in Taganrog – Ukraine Claims Direct Strike Explosions Rock Russian Drone Plant in Taganrog – Ukraine Claims Direct Strike The strike came amid a wave of overnight Ukrainian drone attacks reported by Russian authorities, which targeted several regions, including Rostov, which borders Ukraine. by Alisa Orlova | June 25, 2025, 1:40 pm Screenshot from video:t.",
-      "published": "Wed, 25 Jun 2025 10:52:42 GMT"
-    },
-    {
-      "id": "e9c9776104db1dc1e819d44806e9b00a",
-      "title": "Police fire tear gas and water cannons at protesters in Kenya as thousands take to the streets - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/25/africa/kenya-anti-tax-anniversary-protests-intl",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/img-8909.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Police fire tear gas and water cannons at protesters in Kenya as thousands take to the streets By Larry Madowo and Nimi Princewill, CNN Updated 3:10 PM EDT, Wed June 25, 2025 Police dispersed peaceful protesters in Kenya's capital of Nairobi on Wednesday. Festo Lang/CNN Kenyan police have fired tear gas and water cannons to disperse protesters as thousands took...",
-      "published": "Wed, 25 Jun 2025 19:10:00 GMT"
-    },
-    {
-      "id": "4445c0faf610520a4d7e1cfc043358b7",
-      "title": "Europe placates Trump with NATO pledges it can ill afford - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/europe-placates-trump-with-nato-pledges-it-can-ill-afford-2025-06-25/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 14:47:40 GMT"
-    },
-    {
-      "id": "23dfb9cc2e5a4962fe82e69429bdbf97",
-      "title": "Iran’s Attack on a U.S. Base in Qatar Is a Nightmare Come True for Gulf States - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/25/world/middleeast/gulf-states-iran-attack-us-qatar-base.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 13:46:55 GMT"
-    },
-    {
-      "id": "c7574598e6b7c717eb2336afd3dae54e",
-      "title": "7 Israeli troops are killed in a Gaza bombing as Palestinian officials say Israeli attacks kill 79 - AP News",
+      "id": "52835c77fd32c78578a7d54f21c3f8f9",
+      "title": "Trump meets with Zelenskyy and says higher NATO defense spending may deter future Russian aggression - AP News",
       "source": "AP News",
-      "url": "https://apnews.com/article/israel-hamas-war-gaza-06-25-2025-fa3d0a63c2b78a2e95984f1122b89317",
+      "url": "https://apnews.com/article/nato-ukraine-summit-zelenskyy-trump-2e95a3f3426d9037b7d1a89765f55a82",
       "image_url": "https://apnews.com/favicon.ico",
       "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 25 Jun 2025 20:22:00 GMT"
+      "published": "Wed, 25 Jun 2025 19:42:00 GMT"
     },
     {
       "id": "7e0cb530936d8f9e0e198b65e48aac81",
@@ -114,76 +60,130 @@
       "published": "Wed, 25 Jun 2025 22:57:00 GMT"
     },
     {
+      "id": "d4d366cdb81d04886ca9afeb86b8e4e9",
+      "title": "Kenya's Gen Z protests: Eight killed, hundreds hurt as protesters battle police - BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xMWN5TG0wMWtLTWxZd0VNYlJ4WVd3UEpqOHd5T1lEMUMyYi01RUt0M0VzeUhXd0RsVHktUFNLZkZBaWF5UGl1OXVVYUxSM3Qtd2tRSkNrdElLUdIBX0FVX3lxTE9nOENNak1taVcwQjJ0SEtEdTVla19kaXZYUWdiM3RXbG5OWTFyT2lubzFLNW9vLTBEWV9tUGI5dVZHSVVyYjJfd3JZa19aMHhnQ1RpMGdJOERaOU1rYXZn?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 25 Jun 2025 19:04:03 GMT"
+    },
+    {
+      "id": "562d9916ffa39d5b8dc069d43b0e2c2c",
+      "title": "When the US president helped save Israel, then went ballistic on its leadership - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkI1R1FVaFpvZnFES0NvUE1ESm95NTVieWV6QjRmdEFkbDA4QUVENlFEVXIwUkVOYUNBd19mXzJoRXYzNXV1WHZQSGRrMDVvUzh1S3d6U24wdDFKWWU1Rndyb2J3ZlZBTElVMHpGT0JLVTlGR3lvdE5ycFB1cW13Z0dkZUdpTE1TdUpzandJV2tDS3RsUV9hRW1hVEoycmx3YXNaeUZFVGFrOXBCQVHSAbMBQVVfeXFMTlRHYThadnNGeFFlaHo4ekZIOW92VjI5Q01uMkJLZlllUU9Od2tCdm9KRGFwR2NaZ2hjNzVCd0pDNEwtVEwxTU51cTd3cnJNXzM0amRmQTZNc1d2a0dDZGxZTGVjc2hFTWRNem1OV0JrY0drdWpid0p6eHZ5ei1qQWVwV0lwV3dWVmRWNkYyN2VIOHRDZkYwTjlGNEpWcjBQdE0xT2FYV21UVURvcV9YMFV3R2s?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 25 Jun 2025 13:26:00 GMT"
+    },
+    {
+      "id": "a9780bdac232ba1d2c592b9a19178a3f",
+      "title": "Greetings from Odesa, Ukraine, where a Black Sea beach offers respite from war - NPR",
+      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OaDctQlBtbXZQNGxJRmdmR2M0STdtYUVjWFExdE1FTl9Hc1hNenVSNUMyQV9WUG5ZYkhKNFdSSy1HUUZMRXU4NWgxZnFkdEpGWkc2VVAtR3ZTT1lyZDBXa3dkYXZUb1VfTGRla2MzMUlIdGY4emZpX2xBNA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 25 Jun 2025 14:35:29 GMT"
+    },
+    {
+      "id": "23dfb9cc2e5a4962fe82e69429bdbf97",
+      "title": "Iran’s Attack on a U.S. Base in Qatar Is a Nightmare Come True for Gulf States - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1RrNzRKMnBVWTZ1Tm1CTzhOTElpUkJtVDJBSWlVdTJCYko2Mk15eGtSQzZzWEh5TjdzbGZRZW80dFpicUdlam1pckx3SWEwWHRXX0VPSDNsMTZ2dUNiWk1ZelMweDZaTzRTLUFIcDVnOTBxTENaaHQ2Q3FFVzBrMVNJbHJGTHcxeTkwWnd4cFl3Ykk1SUNfUHhn?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 25 Jun 2025 13:15:22 GMT"
+    },
+    {
       "id": "437417683576b2868027e2362a14ff96",
       "title": "The US and Iran have had bitter relations for decades. After the bombs, a new chapter begins - AP News",
       "source": "AP News",
-      "url": "https://apnews.com/article/history-iran-america-relations-coup-nuclear-bombing-c7eedf41df2784325b0db09cf197dceb",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 25 Jun 2025 23:25:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSHJHXzcxTVBia2oySTY2b2NwdERtaktKbWoza1RHR1c0ck1XRkxfaUpjRm5XS1pOckp2SUpXdy1TVXV0NndBUVVQWGNlRTBaZnF5UU9tVkU2Y3d1QXZ1VnNsaTZOQnRqTlp5WlYyR3gxQUozOXVxVTRUdmZjM1Q2ZzBZS0E0U002QnhidWxEc0dleHhSc2JtSndBOWVKN3NMNjh1RGtMc1FGVlRHbDRpSw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 25 Jun 2025 23:51:00 GMT"
+    },
+    {
+      "id": "4eb439046569c687a59634f759d35851",
+      "title": "Iran: Is the cost of closing the Strait of Hormuz too high? - DW",
+      "source": "DW",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXVGX1R5SVY5WHNCSzZfeW9VekVXbWluazlITEt4YnM5N0gxbV9qWXFJWm4wclBWRDFLWGJYVGpkOENRcGpaZTRUdDZ5ejBHazFYTnd4RVkzTE1FaTA4ZVU2aWl0QlVneU5NY0tRVEJMOWZtOXcwUW1oZmo3R2tRWWw3QUo1SDNZQkhjb3o5NklsZldm0gGUAUFVX3lxTE9XYkQ2WHowa3JrMFBzLWQySkM1Z21IOWNqOWZRUTItTjkxSmhQWXNEb0VCTnJpWjBTOTZ1bk4xQzB2MVZlWFF2Vk1TdFQwM05PY09YRlZEVHlzMFRPaUVFSjJhTloyd1NUdzRscnJnSzJtbUNxVjlEc3JpeWx0THcyeWE1MWRjaHcwQVRUVXpfYXlvS3g?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 25 Jun 2025 19:17:23 GMT"
+    },
+    {
+      "id": "5f5e77825ce610396b3554c505485aa5",
+      "title": "Thailand's 'weed wild west' faces new rules as smuggling to UK rises - BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HT0ZnRmRmRXhuOHdlc3BURkNRSnJTaGxGRDFhRVNjMUdNN0hiYXRuUmp3YVRGaGtwRnM1aE9zbC1HVUZscVZDbzZFR2l0WWMtRmlLdjV4QmlOZ9IBX0FVX3lxTFBmWmpQY0xvQ2tfLUQzSklUYnJYMzI3Z0FLS25Hb3BlU0RWSHY2ZmRtNkhrX1dZQmlfMnYwcTR0OVk4aEt0YWF6TERQM05UMTIwUjJxTWpvZWZ0WlRMUm1Z?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 25 Jun 2025 22:05:25 GMT"
+    },
+    {
+      "id": "6e86a78255816464360e0ece8ec96ddc",
+      "title": "Inside the air policing mission keeping NATO leaders safe - politico.eu",
+      "source": "politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSlpuSjNyWVUzblhxVjRMbXF2RHdGd2xfZW1KT2dDZFZUWlNlRVBEdVgyemJJeXJodHBaU19jN1hQaHV3UzlGazJHcDhDb1NycGJWdk1mUGJpRHpjTHRESW1tTWx5dktvb1dXblJsQ29jTV83WTZQSS11LVF6cHdqcF9rcDlOU2lLdGRtTkV2NWdxOW9XeE9QLUE2TUhvTFk?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 25 Jun 2025 03:43:00 GMT"
     },
     {
       "id": "8809a7117cd3cfbd9d8bd75b196b401d",
       "title": "Axiom Space launches 4 private astronauts to ISS, moves forward space station plans - ABC News - Breaking News, Latest News and Videos",
       "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/axiom-space-launches-4-private-astronauts-iss-moves/story?id=123183637",
-      "image_url": "https://i.abcnewsfe.com/a/b8a74451-4c54-44d1-9c28-573fe3e9894c/Axiom-4-launch-DB-260625_1750835872218_hpMain_16x9.jpg?w=1600",
-      "summary": "Axiom Space launches 4 private astronauts to ISS, moves forward space station plans The Dragon will dock with the ISS at approximately 7 a. m. EDT on Thursday. Astronauts head to ISS in private space flightFour private astronauts from the U. S., India, Poland and Hungary are on board the SpaceX Dragon spacecraft, which is heading to the International Space...",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQazNjMlpVb2psX1Q2X240anpmeWlUUXVEUEZzc0ZKRF9FWHN0MGhxUU4yYXZxZG5BNU9ET2tXMlFja1N3RERJUVFib2hmTkRRNmgwcXNBbnFVM1c2b0p4TW5aMjhHYjNrX0pxcnd0bGZaTkhfclJqQW9iN2hneXFVRk1GQkFzUjJjWGV3Ri1JbTd3bTNyMzh5TU5iZi3SAaIBQVVfeXFMTUpKQmZRU0ZfT2hmZnNDRjJBLXVxM2NDSGRWajBzTTVOVXk1bi1RdHJyYkxQVkRkM2JXMXlUMnJEZFI1MzE4cWNXY1g2ai11eHhhUnJiVWk0dzBGeHE3dkp6NHVxZUtpbHZ2eDdCU2tneWJCMlh3QWFuZGtPczJkZjk0R29HdWZ3enVrZ2ZWeGdlencyWFl3MlRaNUNxRy03bzhR?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Wed, 25 Jun 2025 07:41:15 GMT"
     },
     {
-      "id": "127f1603cae7776a5feebc14b784708f",
-      "title": "Iran turns to internal crackdown in wake of 12-day war - Reuters",
+      "id": "25d7406c112176e48c745ca6ddc52c64",
+      "title": "Iran intensifies internal security crackdown with executions and mass arrests - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2025/jun/25/iran-intensifies-internal-security-crackdown-with-executions-and-mass-arrests",
+      "image_url": "https://i.guim.co.uk/img/media/1f007419e28939b6ad490bf68a7ce3fdb9f63680/833_0_4167_3333/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46efaed605bfa88a4e6955977d9062f7",
+      "summary": "Fund the free press with $5 per month A member of Iran's Revolutionary Guard in downtown Tehran. A senior Iranian security official said the Revolutionary Guard had been put on alert and that their primary focus was now internal security. Photograph: Vahid Salemi/AP Iran intensifies internal security crackdown with executions and mass arrests Iranian rights group has recorded 705 arrests...",
+      "published": "Wed, 25 Jun 2025 21:35:00 GMT"
+    },
+    {
+      "id": "5b1d86e8c0d950fa3172f7824daa57ca",
+      "title": "Family Furious Over ‘Botched’ Mission to Save Tourist in Volcano - The Daily Beast",
+      "source": "The Daily Beast",
+      "url": "https://www.thedailybeast.com/juliana-marins-family-demands-justice-after-she-is-left-for-dead-in-indonesia-volcano/",
+      "image_url": "https://www.thedailybeast.com/resizer/v2/XWVBR3HGMBGYZI7AXNBCXMZJFI.jpg?smart=true&auth=f54a3bccd8eadc0ed7889c96797d39c078867c5e86d21d63d84470fad7582111&width=1200&height=630",
+      "summary": "Family Furious Over ‘Botched’ Mission to Save Tourist in Volcano Juliana Marins’ family is shocked and outraged that Indonesian authorities didn’t try harder to save the beloved young woman. Updated Jun. 25 2025 3:39PM EDT Published Jun. 25 2025 12:15PM EDT The loved ones of Juliana Marins are outraged after Indonesian search and rescue teams failed to retrieve her from...",
+      "published": "Wed, 25 Jun 2025 19:39:00 GMT"
+    },
+    {
+      "id": "3e74963e16b9a58bc61944f059454216",
+      "title": "IDF assesses Iran’s nuclear program set back years, but ‘too early’ to know for sure - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/idf-assesses-irans-nuclear-program-set-back-years-but-too-early-to-know-for-sure/",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/site-olympus-עדכון-דובר-צהל-fK-S0tLm2Ys-1840x1035-3m37s.png",
+      "summary": "IDF assesses Iran’s nuclear program set back years, but ‘too early’ to know for sure Trump says US intelligence ‘very inconclusive’ about strikes, but ‘it could’ve been very severe’; IAEA says working to inspect, as Iran’s parliament votes to quit cooperating with UN watchdog IDF Spokesman Brig. Gen. Effie Defrin speaks at a press conference at the Kirya base in...",
+      "published": "Wed, 25 Jun 2025 10:11:00 GMT"
+    },
+    {
+      "id": "4445c0faf610520a4d7e1cfc043358b7",
+      "title": "Europe placates Trump with NATO pledges it can ill afford - Reuters",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-turns-internal-crackdown-wake-12-day-war-2025-06-25/",
+      "url": "https://www.reuters.com/business/aerospace-defense/europe-placates-trump-with-nato-pledges-it-can-ill-afford-2025-06-25/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 16:41:41 GMT"
+      "published": "Wed, 25 Jun 2025 14:47:40 GMT"
     },
     {
-      "id": "31ad0bdae526ae3e61d5c8493e80f9e3",
-      "title": "Trump meets with Zelenskyy at NATO summit, says Ukraine war is ‘a mess’ for Putin - PBS",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/world/trump-meets-with-zelenskyy-at-nato-summit-says-ukraine-war-is-a-mess-for-putin",
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/2025-06-25T153951Z_24274160_RC2OWM5BFU4V_RTRMADP_3_NATO-SUMMIT-TRUMP-ZELENSKIY-1024x683.jpg",
-      "summary": "By — Mike Corder, Associated Press By — Aamer Madhani, Associated Press Trump meets with Zelenskyy at NATO summit, says Ukraine war is ‘a mess’ for Putin THE HAGUE, Netherlands (AP) — President Donald Trump met with Ukrainian leader Volodymyr Zelenskyy on the sidelines of the NATO summit Wednesday and suggested that increased spending by the trans-Atlantic alliance could help...",
-      "published": "Wed, 25 Jun 2025 17:57:36 GMT"
-    },
-    {
-      "id": "e271d74fede7b21e96502aec1517e0fd",
-      "title": "Witkoff: US, Iran seeking ‘peace deal,’ strikes set Tehran’s nuke program back years - The Times of Israel",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/witkoff-us-iran-seeking-peace-deal-strikes-set-tehrans-nuke-program-back-years/",
-      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/Screenshot-2025-06-25-at-8.40.01-e1750829973614.png",
-      "summary": "Witkoff: US, Iran seeking ‘peace deal,’ strikes set Tehran’s nuke program back years Trump’s envoy tells Fox News that reporting the US may not have destroyed Iran’s underground nuclear sites is ‘preposterous,’ says IAEA chief Rafael Grossi agrees with his assessment 25 June 2025, 9:19 amUpdated at 10:34 am US envoy Steve Witkoff appears on Fox News' \"Laura Ingraham Show,\"...",
-      "published": "Wed, 25 Jun 2025 06:19:00 GMT"
-    },
-    {
-      "id": "200add244d9bad6225670d63d73b786f",
-      "title": "Beijing, a longtime friend of Tehran, turns to cautious diplomacy in Iran’s war with Israel - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/china-iran-israel-geopolitics-oil-a66b5fe05670980c544662bb633e6fe3",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 25 Jun 2025 00:02:00 GMT"
-    },
-    {
-      "id": "2cef814abe9f1613d1d8c42f0ddc7e1d",
-      "title": "Vacation selfies of a British woman ‘dripping in diamonds’ lead to her arrest for jewelry theft, police say - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/25/world/uk-lucy-roberts-jewelry-theft-sentence-intl-latam",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/lucy-roberts-39-pleaded-quilty-to-theft-by-an-employee-humberside-police.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Vacation selfies of a British woman ‘dripping in diamonds’ lead to her arrest for jewelry theft, police say Updated 7:23 PM EDT, Wed June 25, 2025 Lucy Roberts, a former jewelry store manager in the UK, was sentenced to 28 months in prison for the theft, police said. Humberside Police A former jewelry store manager in the United Kingdom was...",
-      "published": "Wed, 25 Jun 2025 23:23:00 GMT"
-    },
-    {
-      "id": "ad71a5cecebed9297a6f1204c21208ed",
-      "title": "Iran's nuclear program 'set back by years,' IDF says, as new satellite images show destruction - Ynetnews",
-      "source": "Ynetnews",
-      "url": "https://www.ynetnews.com/article/b111ncqtvxx",
-      "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/06/25/rJzB0bYEeg/rJzB0bYEeg_0_0_3000_1960_0_large.jpg",
-      "summary": "Top Urologist: How To Remove A Hanging Belly Quickly Without warning: IDF again attacks Yemen's Sanaa airport Iran's nuclear program 'set back by years,' IDF says, as new satellite images show destruction Images released Wednesday show widespread surface damage, while leaked Pentagon intel suggests Iran’s nuclear program was only temporarily delayed, sparking a sharp response from Tehran and the IAEA...",
-      "published": "Wed, 25 Jun 2025 08:25:42 GMT"
+      "id": "4c21e334d018de777a3cc10e5e564dc6",
+      "title": "Tariff clock is ticking and no one knows what comes next - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2025/06/25/trump-tariffs-china-mexico-canada",
+      "image_url": "https://images.axios.com/7Tin0UIskAOWfFPYK-qW1rJMS_Y=/0x0:4289x2413/1366x768/2025/06/23/1750688167899.jpg",
+      "summary": "The tariff clock is ticking with just two weeks left President Trump holds up a signed executive order at his \"Liberation Day\" event. Photo: Andrew Harnik/Getty Images When the Trump administration paused sweeping tariffs in early April, it promised 90 trade deals in 90 days that would fundamentally reshape the global economic order. Why it matters: With two weeks to...",
+      "published": "Wed, 25 Jun 2025 11:50:58 GMT"
     }
   ]
 }
