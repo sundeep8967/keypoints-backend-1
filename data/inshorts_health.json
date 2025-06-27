@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-06-27 02:40:06",
+    "generation_time": "2025-06-27 07:15:38",
     "total_articles": 20
   },
   "articles": [
@@ -12,7 +12,16 @@
       "url": "https://www.washingtonpost.com/health/2025/06/26/rfk-jr-acip-thimerosal-flu/",
       "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YWQXI6RIN2SEGQW6GLNQTZ4HCU_size-normalized.jpg&w=1440",
       "summary": "RFK Jr. wins his fight against a rare, safe flu-shot ingredient A CDC panel’s vote to stop recommending thimerosal-containing flu shots would have limited impact, but it illustrates how the anti-vaccine movement is achieving its goals. The meeting of the Centers for Disease Control and Prevention’s new Advisory Committee on Immunization Practices underway in the agency's Atlanta headquarters on Thursday.",
-      "published": "Fri, 27 Jun 2025 01:00:27 GMT"
+      "published": "Fri, 27 Jun 2025 04:44:15 GMT"
+    },
+    {
+      "id": "ac1aaf35324bfa3f0f51d38ccd99d0a5",
+      "title": "New drug offers potential cure for ultra rare inherited condition - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c07dzrx02e0o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/b664/live/108cfee0-5320-11f0-8485-7bd50fa63665.jpg",
+      "summary": "Drug for rare disease brings 'joy and hope'",
+      "published": "Thu, 26 Jun 2025 23:01:44 GMT"
     },
     {
       "id": "33a670c88e3939e41ff81d3885149401",
@@ -24,6 +33,15 @@
       "published": "Thu, 26 Jun 2025 21:55:19 GMT"
     },
     {
+      "id": "38ced09dc467119520f26e923cb85061",
+      "title": "Millions of children at risk from stalling global vaccinations, study says - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/06/25/global-child-vaccination-uptake-study/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GMOLTWWNNC3AYWSCV2MEBUAVKQ.JPG&w=1440",
+      "summary": "Millions of children at risk from stalling global vaccinations, study says The study noted persisting outbreaks of vaccine-preventable diseases, including the U. S. measles outbreaks this year reaching over 1,000 cases. A health worker administers a dose of the measles vaccine to a child during a measles vaccination drive in Ciudad Juárez, Mexico, on June 15. (Carlos Sanchez/Reuters) Millions of...",
+      "published": "Wed, 25 Jun 2025 21:56:12 GMT"
+    },
+    {
       "id": "0a4511af5c43b982ede3a43ecffc1699",
       "title": "Promise of Victory Over H.I.V. Fades as U.S. Withdraws Support - The New York Times",
       "source": "The New York Times",
@@ -31,24 +49,6 @@
       "image_url": null,
       "summary": "No content available for summarization.",
       "published": "Thu, 26 Jun 2025 11:57:00 GMT"
-    },
-    {
-      "id": "ae51541510117a94658e0f5b3e1e727f",
-      "title": "Heart Attacks Are Down Nearly 90% Since 1970, Yet Heart Disease Has Become A More Complex Killer -- Here’s How - Study Finds",
-      "source": "Study Finds",
-      "url": "https://studyfinds.org/heart-disease-complex-1970s/",
-      "image_url": null,
-      "summary": "Verify you are human by completing the action below. studyfinds. org needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Thu, 26 Jun 2025 17:06:54 GMT"
-    },
-    {
-      "id": "9978e8743d83fe05b449ee77346b134c",
-      "title": "We will not stay silent on vaccines, say leaders of five major U.S. medical associations - STAT",
-      "source": "STAT",
-      "url": "https://www.statnews.com/2025/06/26/vaccine-policy-us-aafp-aap-acp-acog-idsa-presidents/",
-      "image_url": "https://www.statnews.com/wp-content/uploads/2025/06/AP21157161101676-1024x576.jpg",
-      "summary": "Reporting from the frontiers of health and medicine We will not stay silent on vaccines, say leaders of five major U. S. medical associations We’ll alert you each week when a new episode of our First Opinion podcast drops.",
-      "published": "Thu, 26 Jun 2025 18:05:16 GMT"
     },
     {
       "id": "8ae9b4b574926694cce7b9a553e4623d",
@@ -60,6 +60,15 @@
       "published": "Thu, 26 Jun 2025 21:17:32 GMT"
     },
     {
+      "id": "ae51541510117a94658e0f5b3e1e727f",
+      "title": "Heart Attacks Are Down Nearly 90% Since 1970, Yet Heart Disease Has Become A More Complex Killer -- Here’s How - Study Finds",
+      "source": "Study Finds",
+      "url": "https://studyfinds.org/heart-disease-complex-1970s/",
+      "image_url": null,
+      "summary": "Verify you are human by completing the action below. studyfinds. org needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Thu, 26 Jun 2025 17:06:54 GMT"
+    },
+    {
       "id": "3a3521d236c9bcd92cba0dd5a44e1ca1",
       "title": "North Carolina confirms first measles case of 2025; health director recommends vaccination - WLOS",
       "source": "WLOS",
@@ -69,121 +78,112 @@
       "published": "Thu, 26 Jun 2025 01:51:25 GMT"
     },
     {
-      "id": "12f7883bf36a626a0e7afe8824d9706f",
-      "title": "UK investigates weight-loss jab risks after many hospitalised with pancreatitis - Mint",
-      "source": "Mint",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY2N4S1VCcFJydGF2dXM2Q1hFME1oc2RqQ3UtVkZfMTVtVkZDSGhWdldja09HdmNoM1VGeDE2VVdFVTRRRjVwR29kb1ItXzlmWlJHYXgxeEdjTEZiblpvaFUtNEFsT3hLeXhuTG4wMV9EeWU2SDRDV2JtNGhISzhOVl91cGxnV3d1dEVoSFowRjROZjNBWFNzWDAwUHpLRVFSZ0E0dFRFS2lBV0ZsUUFBSkNmYi1LRFdUR1Bpa00yMkhKX2FXaVIwY3dqbUkzZDlP0gHWAUFVX3lxTE1ESzhKeVZMR3Iyb3ZqdEhTR3o3bnFZQWV4Sy1hVWZhNEwzemJKdlF1X3I3Wkx2SWtZN0hCOTRzM0tVSV9yZUlSN05FazZZemJ4T203Q3J0T3N2bExqbEt5Q05NNDRkWDktRW1UR3RZNVlNYWIwSmlJcEZ6MF9taGxacmV1YzRObml2Rjh5SWxFMFo4QnR2Ti1UdVdEX1QyYkpqTVJkZ1Jxb1ZpSnJxMlQ5ZS1jbDlZemhFQmYzejlzNVhxbjBrMVJYcmVWX1FqdVp5dkozTVE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 26 Jun 2025 18:44:51 GMT"
+      "id": "9978e8743d83fe05b449ee77346b134c",
+      "title": "We will not stay silent on vaccines, say leaders of five major U.S. medical associations - STAT",
+      "source": "STAT",
+      "url": "https://www.statnews.com/2025/06/26/vaccine-policy-us-aafp-aap-acp-acog-idsa-presidents/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2025/06/AP21157161101676-1024x576.jpg",
+      "summary": "Reporting from the frontiers of health and medicine We will not stay silent on vaccines, say leaders of five major U. S. medical associations We’ll alert you each week when a new episode of our First Opinion podcast drops.",
+      "published": "Thu, 26 Jun 2025 18:05:16 GMT"
     },
     {
-      "id": "38ced09dc467119520f26e923cb85061",
-      "title": "Millions of children at risk from stalling global vaccinations, study says - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPenF1Tl9aU3JPVk1POXFjdVkyd0M2c2VwWUJzT0xmWlFCYWpQU05hUTFfNjVXRHhDOFFYaUNFQnV6SGpxa2F5YzlZY3pSa1oyZnNadmN2bEIyUzdGTVdGV2x2R1lQSGp2V1EwWmhhUXk1bzVsTENvNEp4T0VFc05yalVSRHB2ekhIV1hhZEFrS00?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 21:56:12 GMT"
-    },
-    {
-      "id": "8a21633622c5b90d2785609a6852b842",
-      "title": "How to Manage ADHD at Work and Turn It Into a Strength - VINnews",
-      "source": "VINnews",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkNlTWJ6SFZoX2h0aXo4eTQ1RGFPam5qaWdPUkMwS0ZKbGVTbXExalI5d0o1SGJXdFZWUDNIV180UzJwbG91c1psRDdWc0d1REtmYXZscHdrVXhNU0ZrWjFKRmptVDF0Q24yMld4eGhfSEItX2psOEFGN3pnSmF6VzZfWEozT0p2RmtkLW9FSQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 26 Jun 2025 19:00:09 GMT"
-    },
-    {
-      "id": "79f930e1db070b35a9e9270f2e849b1a",
-      "title": "Staying Active Slows Cognitive Decline - Neuroscience News",
-      "source": "Neuroscience News",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81ZTF4ejF0RExIWXhMQzNZbFpNcFh0ZTJGZXFCY1ZTVzJual8zWXk5QU42cS1NcjM3WUJOQ3g3eExEUGI1NVRIWkR3dnJkMGNqaVl2OEdLNkxlRllfeVhlcVVHRHV4UTlOU0xQYw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 26 Jun 2025 12:52:32 GMT"
+      "id": "e928b32f95f15efa7f4ed7411652f4f7",
+      "title": "Ozempic-Style Drugs Linked To Hundreds of Illnesses and Deaths - Futurism",
+      "source": "Futurism",
+      "url": "https://futurism.com/neoscope/ozempic-glp-1-illnesses-deaths",
+      "image_url": "https://wordpress-assets.futurism.com/2025/06/ozempic-glp-1-illnesses-deaths.jpg",
+      "summary": "The United Kingdom's health regulator is investigating weight loss jabs like Ozempic and Mounjaro after linking it to hundreds of severe illnesses and even a handful of deaths. As the Independent reports, the UK Medicines and Healthcare products Regulatory Agency (MHRA) is asking residents to submit their own experiences with glucagon-like peptide-1 (GLP-1) receptor/agonist drugs after the release of new...",
+      "published": "Thu, 26 Jun 2025 19:19:55 GMT"
     },
     {
       "id": "bfc7b65b1e761717f3a2cc110e32e6ca",
       "title": "The New 'Razor Blade Throat' Nimbus COVID Variant: Symptoms, Incubation Period and When to Test - KQED",
       "source": "KQED",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLWtoN0U4TnBXWXhhSERYeEJla1BOUkVhM2E0OUF1djJfU005cktxUVpTZ2RLcklWakt2WnR6b2dtMUVHZVdKQlF5MGplMzBQSTVhWUgwVzBQb2dudnNxOFczVzRzQ2ljVEhsR21xTHNVV2JNRkNhdzcyd0RhaUt6M0djUS1OcjhPdzlTaElBNURLRUwwazJKaFpfVnFaMllYSmZsZUZzTHRSTFFmQURMZVNSd1VNdw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.kqed.org/news/12045979/nimbus-nb181-covid-variant-symptoms-razor-blade-throat-incubation-period-testing",
+      "image_url": "https://cdn.kqed.org/wp-content/uploads/sites/10/2024/05/005_StockPhoto_AtHomeCOVIDTest_02022022_qut-1020x680.jpg",
+      "summary": "What to know about COVID symptoms, testing and incubation in 2025. (Beth LaBerge/KQED) The New 'Razor Blade Throat' Nimbus COVID Variant: Symptoms, Incubation Period and When to Test If it feels like several people you know are complaining of feeling sick with what they assume is an “awful summer cold” — perhaps with a painful sore throat — there’s a...",
       "published": "Thu, 26 Jun 2025 11:00:39 GMT"
+    },
+    {
+      "id": "79f930e1db070b35a9e9270f2e849b1a",
+      "title": "Staying Active Slows Cognitive Decline - Neuroscience News",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com/cognition-aging-activity-29350/",
+      "image_url": "https://neurosciencenews.com/files/2025/06/activity-cognition-neurosciencce.jpg",
+      "summary": "Even increasing moderate physical activity from once per week to multiple times per week led to a slower rate of cognitive decline over time. Credit: Neuroscience News Staying Active Slows Cognitive Decline FeaturedNeurologyNeuroscience·June 26, 2025 Summary: Regular physical activity isn’t just good for the body—it protects the brain as we age. A 16-year study of over 13,000 adults found that...",
+      "published": "Thu, 26 Jun 2025 12:52:32 GMT"
+    },
+    {
+      "id": "c0c034df4758fb8d43c1e00a9c61f821",
+      "title": "ADHD medication linked to less impulsive behavior, crashes, and crime - STAT",
+      "source": "STAT",
+      "url": "https://www.statnews.com/2025/06/25/study-links-adhd-medication-to-less-impulsive-behavior-crime/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2025/03/AdobeStock_1246270412-1024x576.jpeg",
+      "summary": "Reporting from the frontiers of health and medicine ADHD medication linked to less impulsive behavior, crashes, and crime A new study tracked nearly 250,000 Swedish people using ADHD medication for 14 years By O. Rose BroderickJune 25, 2025 Disability in Health Care Reporting Fellow A study tracking nearly 250,000 Swedish people using ADHD medication for 14 years found that these...",
+      "published": "Wed, 25 Jun 2025 21:09:53 GMT"
     },
     {
       "id": "67fabde5c073c661bd56e8fce1a4d7e1",
       "title": "Connecticut Confirms Seasons First West Nile Virus-Positive Mosquitoes: What To Know - Patch",
       "source": "Patch",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbTJyYnZsZWZpVmstNTJyWjVTZnZUVE5lOHY1aHZHdEVHbGJXNUdLQWZIUXBhd1FyN2YzekM2Umc3NDVxQU9jRkxyZkptNnNfSVhGN0hENzd5YmxEaVVxakdSemdLdE9XWkhuNDhmZjF0V3BTNnJUcWJpUWJJQ0dIcWxBR1gxVDI5OVBUX1ZOMV9JcWZ6Ym41R1lYcDY3cmZLTThkS194OG5QZl9sajJQMdIB0wFBVV95cUxQMzJwQlRZb1NQS0FCWmFmM25pNUFReTdXRWNpbHEzN1RzS2pveVVrd0Zpb3RkWkk5VmpvVTJ3b2g0Z3ZJaXNkLVNVZWpIWENwRHpXTXBQN3lqN3pzRnBIeV80enhzLUFwWGQ4eDlMTFNhbVBCYVU3cTVtLXdkSVY5dExzaVZiZ0JvYll3S3EteWhKOU9aQlpSV3RPSndsRVNxU053a1c4RWtzQUx1QnJEWjBkNUo3NmpueHlZMmVKSzRkUEZzTFlTdVc4RG9yRHdGSWVN?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://patch.com/connecticut/across-ct/connecticut-confirms-season-s-first-west-nile-virus-positive-mosquitoes",
+      "image_url": "https://patch.com/img/cdn20/shutterstock/22994611/20250625/061203/styles/patch_image/public/shutterstock-200494427___25181134150.jpg",
+      "summary": "Connecticut Confirms Season’s First West Nile Virus-Positive Mosquitoes Connecticut reports first West Nile virus-positive mosquitoes of 2025, urges preventive measures. Posted Wed, Jun 25, 2025 at 6:12 pm ET Updated Wed, Jun 25, 2025 at 6:35 pm ET Large Tree Falls On Car, 2 Taken To Trauma Center: Officials: CT News CONNECTICUT — The first mosquitoes to test positive for...",
       "published": "Wed, 25 Jun 2025 22:12:04 GMT"
     },
     {
       "id": "44f7efa4cd3038bd3bd779e9704c27cd",
       "title": "'Say no to power peeing' and other good tips from a pelvic floor physical therapist - NPR",
       "source": "NPR",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MdG9OWDRPcWZDRTRPam5HQUZYZWtLSEhXU0NubHhDeFZoR21VdjdsbGZocWo1WmRxQWFiUHZVNnNsMHhZeGpybTBGNjE5a2pDUVphMlRHNTF1bXh4NHZZcC0ycm1CdkZneWdZbWlJd0RpOHM?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.npr.org/2025/06/26/nx-s1-5413369/pelvic-floor-therapy",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5682x3196+0+162/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F25%2Fc2%2F4665f3864ed09d294936c711a80d%2Fgettyimages-1665519771.jpg",
+      "summary": "'Say no to power peeing' and other good tips from a pelvic floor physical therapist \"Just say no to power peeing,\" says pelvic floor physical therapist Sara Reardon. \"You want to sit, relax and let it flow. \" Tense pelvic floor muscles can cause constipation. Antonio Hugo Photo/Getty Images Painful sex. Urinary leakage. Constipation. Weak orgasms. What do these unpleasant...",
       "published": "Thu, 26 Jun 2025 12:15:44 GMT"
     },
     {
-      "id": "1751f3b0430b0e7cfa31cac9c9813ca7",
-      "title": "Wasted miracle? Concerns as revolutionary HIV drug approved - DW",
-      "source": "DW",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWUMzZUwwTmpMRERPQzE1QkEtUEM5WXJMeXRULXNHek1XcjRMWERmbTdPTFBwY0RCbFdRbEwtbmpCazd4SUhqSFNGbHVtRlRSV0Nwa0xVcU1YTjJ5eDRPR3B1QUh5ZjFzUUx5ZG5CY3ZCa2d6M29La2s1VlMwUjJMVXNkZGk0TlRPV251Zlh3UndjLXN1NXfSAZYBQVVfeXFMUFBQRTF1djl4ZER2Mm15b3YxOERkN3c0bVk2by1Bc3c5RVZzWFc1RC1OVV9SQ25kUHFWamJ4XzNaR093RXd0eWR1WHhQamNITjdwYmc0bHNad3hIa3ZIX0xTRHU0cTNxS09iS2U3ZVp2UGVzdEVTM0hHUnVtUk9rbDFmOWQxcVJaNHo0VkhkWFZxaGN4TTVn?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 25 Jun 2025 05:24:37 GMT"
+      "id": "f407af93474473936bf956e631a98024",
+      "title": "Rucking: Why women are wearing weighted vests - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2025/06/26/rucking-weighted-vest-women-fitness-trend",
+      "image_url": "https://images.axios.com/wkRdcK5EnKFy4ux0VmhJHYx5cJY=/0x0:1920x1080/1366x768/2025/06/24/1750798286481.jpg",
+      "summary": "Rucking: Why more women are doing weighted walks More people are \"rucking\" with weighted vests or loaded backpacks to build muscle and protect bones. Why it matters: It's a military exercise that's become a mainstream low-impact, longevity trend. Catch up quick: Originally used in military training, rucking is hiking with added weight. Wellness influencers and gear brands helped turn it...",
+      "published": "Thu, 26 Jun 2025 03:19:44 GMT"
     },
     {
-      "id": "24fe5f0a17a48f901b399acb1c569bc3",
-      "title": "Are Weighted Vests Worth the Hype? - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPclBUajl4bWZMRVBJZGp3NjRlMi1OMzhqYU4wNURLLXpFS29lZmh0b3lEN0Zoa05NbUdYRVIxekhMRTFYbnBtZE93a0lFdHRIeTA4d2VNVmJPdXRDUmpyNnY0NFJtUzlrNHo1WUlfMVlQWllqWXZXSDlWbkdWajlHR01XTFRjVFdz?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 26 Jun 2025 09:00:48 GMT"
-    },
-    {
-      "id": "fcb4b99e1737134943ceed77a049fda5",
-      "title": "Got 20 minutes? Leading Neurologist says its enough to cut Cholesterol, Blood Pressure, and Dementia Risk - Times of India",
-      "source": "Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQSHpMWEJQUG1VMHlmdERBS3E0V01razFxbmhGUENfLUtoZUZheWNWTk1zeVNXWUxqdWtlTzhQeTFZdkpCNDl2V3dlSFV5WENfWW9sUW1wbXhfY2poT2IwbHlwalZvQy1OVlFxcC1zWkFLZ1F1RExRcTdoODJMTVNxMy1SN21UckhfeEREWENCQ1RtSWdxTHhOZHNlMG44OHJ2eTd3djM2MUlIdFZvUUFYd2FGQjh4Qk16bHRKazNRUW56TmZ6dnRocm1HRllpSm00c0syd0QtNHBwNGs5Z0doVHA2VmJqTWhvSjhyb2xZS0VaUEFodDFQaE1jQS11cHVvTGlTSmNsVTFFTThtaVdfMF9Dd2ctd1V5SEdtbnowblowYTZ1WnY5aFN3?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 26 Jun 2025 14:30:00 GMT"
+      "id": "d09e6b72f049aa8b5fe5ed114a4f17e5",
+      "title": "Measles cases in California surpass 2024 total amid U.S. outbreak - Honolulu Star-Advertiser",
+      "source": "Honolulu Star-Advertiser",
+      "url": "https://www.staradvertiser.com/2025/06/26/breaking-news/measles-cases-in-california-surpass-2024-total-amid-u-s-outbreak/",
+      "image_url": "https://www.staradvertiser.com/wp-content/uploads/2025/06/web1_2025-04-24T153200Z_880400442_RC20DDAW5GY9_RTRMADP_3_USA-HEALTH-MEASLES.JPG",
+      "summary": "Measles cases in California surpass 2024 total amid U. S. outbreak By Rong-Gong Lin II / Los Angeles Times Today • Last updated 10:18 a. m. A measles alert sign hangs outside the entrance to the Cohen Children’s Medical Center, where the state health department confirmed that a baby tested positive and that there is a possibility of exposure to...",
+      "published": "Thu, 26 Jun 2025 20:15:26 GMT"
     },
     {
       "id": "41e75bcdac9789b44a118c53296a1323",
       "title": "5 Natural Ways to Keep Ticks Out of Your Lawn and Garden - marthastewart.com",
       "source": "marthastewart.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vZkpUQmY3dEZRQW1qMjFJcEZ2YVpGRW5xdUxOdm9OVWxsU2p4ejhwVGlIZkIyU0N3WERTRkNUWlR3dXFEaDdTY3pTZDdsY1BFeFhMNngxajFhcHllUktKN0VTZDdGdXpvVjZ3Yjhnd0l6WURLZGlr?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.marthastewart.com/keep-ticks-out-of-lawn-garden-11759531",
+      "image_url": "https://www.marthastewart.com/thmb/Dx9GOXkqthYj9OQwePCn1hyOORI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TickonGrass-e9286570ec714870bdbb455ce90cf904.jpg",
+      "summary": "How to Use Diatomaceous Earth for Pests Plants to Grow Next to Apple Trees How to Use Banana Peels for Better Roses 5 Natural Ways to Keep Ticks Out of Your Lawn and Garden These harmful parasites can carry all sorts of diseases. Credit: SERGEY ALESHIN / Getty Images No one wants ticks in their yard. Not only are these...",
       "published": "Wed, 25 Jun 2025 20:01:00 GMT"
     },
     {
-      "id": "abc03dba9af9cf33098654f90f99f0cd",
-      "title": "Fast food calorie consumption drops, though Long Island experts split - Newsday",
-      "source": "Newsday",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yZjZCUk5WX0VXQVlJM19TNlNYbFlKblRwa2dubEdQbEFWbWl4THYwMmNQQTN3cHk1QXNyOTM1bUpPdExnenFNVDRLd2V1WmRDaE8wODZ0MnpSaW1aOGNSV2ZEU0NaektFZWdNd09rbDI?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 26 Jun 2025 19:56:43 GMT"
+      "id": "f6663a5de01fb2efb7d84378ffd32ac7",
+      "title": "Could drinking instant coffee affect your vision as you age? - Medical News Today",
+      "source": "Medical News Today",
+      "url": "https://www.medicalnewstoday.com/articles/instant-coffee-age-related-macular-degeneration-risk",
+      "image_url": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2025/06/coffee-eyes-Stocksy_txpbddd99f15v8400_Medium_1482314-Facebook.jpg",
+      "summary": "Instant coffee tied to almost sevenfold higher risk of vision problems, study finds Written by Corrie Pelc on June 26, 2025 — Fact checked by Jill Seladi-Schulman, Ph. D. Drinking instant coffee was correlated with macular degeneration in a new study. Image credit: Tamara Evsiukova/Stocksy. About 200 million people around the world are living with the vision loss condition age-related...",
+      "published": "Thu, 26 Jun 2025 05:09:16 GMT"
     },
     {
-      "id": "250769eb0174cbae1ca2846137e07712",
-      "title": "No vaccines, no school: Mass. city cracking down on student vaccinations - WCVB",
-      "source": "WCVB",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TYzhldDdiRFlsT19TTDczSVE5YnhoTjQzLUJ0LWpfUHY1Xzh3NkhWeWZMVk5jYzVfNjZNd01vU251N3hMOUtrejB2cWdOaGdzQ1JidFRrQ2dmQ0VEUDVMRkd0bEdGWDJvc3VRUU9ZUzNJYWZOa2s5R09nX3k?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 26 Jun 2025 20:53:00 GMT"
+      "id": "61397bd673f53046ad6c83aef56fb8fe",
+      "title": "Body Fat Beats BMI in Predicting Death - Medscape",
+      "source": "Medscape",
+      "url": "https://www.medscape.com/viewarticle/body-fat-beats-bmi-predicting-death-2025a1000h4h",
+      "image_url": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/dt_220915_weight_impedance_scale_800x450.jpg",
+      "summary": "Body Fat Beats BMI in Predicting Death Body fat percentage (BF%) may be a better predictor of all-cause and cardiovascular mortality in individuals aged 20-49 years than BMI, according to a new study published in the Annals of Family Medicine. Researchers suggested that clinicians more widely adopt the tool used in the study to measure BF%, a bioelectrical impedance analysis...",
+      "published": "Thu, 26 Jun 2025 07:49:19 GMT"
     }
   ]
 }
