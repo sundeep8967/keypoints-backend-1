@@ -1,45 +1,144 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-27 07:51:27",
+    "generation_time": "2025-06-27 13:48:25",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "f0922e023c0ce0003012a8cabafe3f9f",
-      "title": "This AI-powered startup studio plans to launch 100,000 companies a year — really - TechCrunch",
+      "id": "49845165aa3301cb9bc2e0fb190dd91f",
+      "title": "Microsoft shuts down iconic 'Blue Screen of Death' - DW",
+      "source": "DW",
+      "url": "https://www.dw.com/en/microsoft-shuts-down-iconic-blue-screen-of-death/a-73056857",
+      "image_url": "https://static.dw.com/image/73056723_6.jpg",
+      "summary": "DW uses cookies and similar technologies to measure usage, display personalized advertising and share personal data and information with up to 186 third parties. You decide for yourself whether you agree to this use of your data. You can adjust individual details under “Settings” and change them at any time. You can view all of DW's content without agreeing. Social...",
+      "published": "Fri, 27 Jun 2025 02:20:33 GMT"
+    },
+    {
+      "id": "cba537ae3d6eb4de7ab718ff068a7b36",
+      "title": "Brief Look at Resident Evil Requiem Gameplay Reveals First- and Third-Person Footage - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/brief-look-at-resident-evil-requiem-gameplay-reveals-first-person-footage",
+      "image_url": "https://assets-prd.ignimgs.com/2025/06/26/screenshot-2025-06-26-233338-1750977316878.png?width=1280",
+      "summary": "Brief Look at Resident Evil Requiem Gameplay Reveals First- and Third-Person Footage Capcom has revealed our first look at Resident Evil Requiem gameplay in brief snippets shown during a livestream. During the Capcom Spotlight event, Capcom showed a small portion of first-person gameplay, heavy on the horror and featuring new protagonist FBI Agent Grace Ashcroft. We see the character slowly...",
+      "published": "Thu, 26 Jun 2025 22:42:13 GMT"
+    },
+    {
+      "id": "206b9788017ef39c767938955b91d86f",
+      "title": "Google launches Doppl, a new app that lets you visualize how an outfit might look on you - TechCrunch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/06/26/this-ai-powered-startup-studio-plans-to-launch-100000-companies-a-year-really/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/Henrik-and-Nicholas.jpg?w=720",
-      "summary": "This AI-powered startup studio plans to launch 100,000 companies a year — really Henrik Werdelin has spent the last 15 years helping entrepreneurs build big brands like Barkbox through his startup studio Prehype. Now, with his new, New York-based venture Audos, he’s betting that AI can help him scale that process from “tens” of startups a year to “hundreds of...",
-      "published": "Fri, 27 Jun 2025 01:59:29 GMT"
+      "url": "https://techcrunch.com/2025/06/26/google-launches-doppl-a-new-app-that-lets-you-visualize-how-an-outfit-might-look-on-you/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/doppl.png?resize=1200,673",
+      "summary": "Google launches Doppl, a new app that lets you visualize how an outfit might look on you Google is launching a new experimental app called Doppl that uses AI to visualize how different outfits might look on you, the company announced on Thursday. The app is available on iOS and Android in the U. S. Doppl is designed to let...",
+      "published": "Thu, 26 Jun 2025 21:19:11 GMT"
     },
     {
-      "id": "50882aeec3dc9323e49a26a7a58456bb",
-      "title": "Windows’ infamous ‘blue screen of death’ will soon turn black - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/bsod-black-screen-windows-error-page-9711e0e60d3b7e70d3285b7969506d86",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Fri, 27 Jun 2025 00:23:00 GMT"
+      "id": "838d8c091075862542ec8bdddaa094f5",
+      "title": "Next year, the iPhone is going ultra-premium with its fall lineup - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2025/06/26/next-year-iphone-is-going-ultra-premium-with-its-fall-lineup/",
+      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/First-impressions-of-the-iPhone-16-Pro-Max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Next year, the iPhone is going ultra-premium with its fall lineup Recently, Apple’s iPhone lineup has consisted of the same four models each year, but that’s about to change. This fall, a thinner iPhone 17 Air will shake things up, but next year an even bigger shift is coming, with Apple offering its highest-end, most premium fall lineup yet. Apple’s...",
+      "published": "Thu, 26 Jun 2025 17:49:00 GMT"
     },
     {
-      "id": "2df767a259b58c84beceed86ea6b8d67",
-      "title": "My Couples Retreat With 3 AI Chatbots and the Humans Who Love Them - WIRED",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/couples-retreat-with-3-ai-chatbots-and-humans-who-love-them-replika-nomi-chatgpt/",
-      "image_url": "https://media.wired.com/photos/685d5ee01ff227cfb5d35b1c/191:100/w_1280,c_limit/WIRED-AIRomance-HR-04219.jpg",
-      "summary": "My Couples Retreat With 3 AI Chatbots and the Humans Who Love Them I found people in serious relationships with AI partners and planned a weekend getaway for them at a remote Airbnb. We barely survived. Several humans and their AI partners met up in a big house in the woods for a group vacation. PHOTOGRAPH: JUTHARAT PINYODOONYACHET AT FIRST,...",
+      "id": "558eab2343767585484a50e2fc314181",
+      "title": "Here's What Apple's iPhone Could Look Like Every Year Through 2030 - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/06/26/iphone-predicted-design-evolution-to-2030/",
+      "image_url": "https://images.macrumors.com/t/tOFWmU21sBV1KukGzutUD_oDEDM=/2500x/article-new/2025/06/All-Screen-iPhone-2030-Feature.jpg",
+      "summary": "iOS 26macOS Tahoe 26iPadOS 26iPhone 17iPhone 17 AiriPhone 17 ProiPhone 16eiPhone 16iPhone 16 ProMacBook ProiOS 18Apple Vision ProiMacMac miniiPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Pro Display XDRApple Watch Ultra 2HomePod miniMac ProMacBook AiriPadiPhone 15AirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch 10Apple Watch SEMac StudioiPad Air iPad miniiPhone 18CarPlayApple PaywatchOS 26 Here's What Apple's iPhone Could Look Like Every...",
+      "published": "Thu, 26 Jun 2025 12:24:30 GMT"
+    },
+    {
+      "id": "8c9318926d81679fe76afe99612ab37c",
+      "title": "Google begins rolling out AI search in YouTube - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2025/06/google-begins-rolling-out-ai-search-in-youtube/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/YouTube-AI-1152x648.jpg",
+      "summary": "Google begins rolling out AI search in YouTube The feature is only available as a test for Premium members for now. Over the past year, Google has transformed its web search experience with AI, driving toward a zero-click experience. Now, the same AI focus is coming to YouTube, and Premium subscribers can get a preview of the new search regime.",
+      "published": "Thu, 26 Jun 2025 16:43:05 GMT"
+    },
+    {
+      "id": "d32e8892852eda5c0d49298a13fa145f",
+      "title": "Swift, a coding language developed by Apple, is working to add Android support - 9to5Google",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2025/06/26/swift-coding-language-android-support/",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/swift-android-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Swift, a coding language developed by Apple, is working to add Android support Apple usually doesn’t give Android the time of day, but that’s not stopping the company’s Swift coding language from expanding over to Android app development. As it stands today, Android apps are generally coded in Kotlin, but Apple is looking to provide its Swift coding language as...",
+      "published": "Thu, 26 Jun 2025 19:35:00 GMT"
+    },
+    {
+      "id": "f1be44784fdc9844da087169955d9c00",
+      "title": "Xiaomi enters ‘smart glasses war’ with first AI-powered eyewear - South China Morning Post",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/tech/big-tech/article/3315917/xiaomis-first-ai-powered-eyewear-brings-smartphone-firm-war-hundreds-glasses",
+      "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/06/26/7903855e-c78a-4632-ab1c-6f8b88538876_68b28ae6.jpg?itok=NawrjWCw&v=1750924685",
+      "summary": "Xiaomi’s first AI-powered eyewear brings smartphone firm into ‘war of hundreds of glasses’ The tech giant announced its camera-equipped frames during an event on Thursday, leveraging its vast ecosystem in a crowded market Published: 7:00pm, 26 Jun 2025Updated: 9:32pm, 26 Jun 2025 Xiaomi debuted its first artificial intelligence (AI)-powered smart glasses on Thursday, marking the Chinese smartphone and electric vehicle...",
+      "published": "Thu, 26 Jun 2025 11:00:10 GMT"
+    },
+    {
+      "id": "d857579c1128298d9f440b3d6cbb62dd",
+      "title": "The creator of the Delta emulator made a Game Boy Camera-style app for your iPhone - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/693718/delta-game-boy-camera-app-iphone-emulator",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/deltacamera.jpg?quality=90&strip=all&crop=0%2C10.717457596592%2C100%2C78.565084806817&w=1200",
+      "summary": "The creator of the Delta emulator made a Game Boy Camera-style app for your iPhoneDelta Camera launches for iOS later this year with support for manual exposure and the iPhone’s Camera Control button. Delta Camera recreates the low-res aesthetic of the Game Boy Camera. Image: Riley Testut Andrew Liszewski is a senior reporter who’s been covering and reviewing the latest...",
+      "published": "Thu, 26 Jun 2025 17:31:58 GMT"
+    },
+    {
+      "id": "c90aba6d2561c5a6ad0efd77981cd9a3",
+      "title": "Insta360’s new wireless mic looks no bigger than an Apple AirTag - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/692640/insta360-wireless-microphone-mic-air-lightweight-bluetooth",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/insta360_micair1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "Insta360’s new wireless mic looks no bigger than an Apple AirTag﻿The $49. 99 Mic Air weighs just 7. 9 grams and can connect directly to several of Insta360’s action cams. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. The Mic Air can be worn using a clip or a magnetic...",
+      "published": "Wed, 25 Jun 2025 14:10:45 GMT"
+    },
+    {
+      "id": "7ca62dab7b1e2fe430bd9c2ef1d48935",
+      "title": "Microsoft's Xbox PC store aggregation is rolling out for some Insiders — with Battle.net, Steam, and more in tow - Windows Central",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/pc-gaming/xbox-pc-store-aggregation-begins-steam-june-2025",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/dytcZNzfHjTEqqefpQrjTF.jpg",
+      "summary": "Microsoft's Xbox PC store aggregation is rolling out for some Insiders — with Battle. net, Steam, and more in tow By Samuel Tolbert published 20 hours ago The previously promised Xbox PC store aggregation is beginning to appear for some members of the Insider Program. When you purchase through links on our site, we may earn an affiliate commission. Here’s...",
+      "published": "Thu, 26 Jun 2025 17:28:29 GMT"
+    },
+    {
+      "id": "084836b06ddfd142d0e26efc11563813",
+      "title": "You should probably delete any sensitive screenshots you have in your phone right now. Here's why - ZDNET",
+      "source": "ZDNET",
+      "url": "https://www.zdnet.com/article/you-should-probably-delete-any-sensitive-screenshots-you-have-in-your-phone-right-now-heres-why/",
+      "image_url": "https://www.zdnet.com/a/img/resize/c50d156e26f8f808fc3faea758098b52911f0963/2025/06/25/3a7bd57a-4dcf-4fb2-b6b1-ac9c6d527617/gettyimages-1163540721.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "summary": "tomorrow belongs to those who embrace it today You should probably delete any sensitive screenshots you have in your phone right now. Here's why A new Trojan malware is targeting sensitive information, including crypto wallet seed phrases. Written by Artie Beaty, Contributing Writer It's generally not a good idea to keep screenshots of sensitive information on your phone, but you...",
       "published": "Thu, 26 Jun 2025 10:00:00 GMT"
     },
     {
-      "id": "9733cb5798297fa9a5635f3f4e1464a5",
-      "title": "Amazon's Ring can now use AI to 'learn the routines of your residence' - theregister.com",
-      "source": "theregister.com",
-      "url": "https://www.theregister.com/2025/06/25/amazons_ring_ai_video_description/",
-      "image_url": "https://regmedia.co.uk/2015/04/01/ring-app.jpg",
-      "summary": "Amazon's Ring can now use AI to 'learn the routines of your residence' It's meant to cut down on false positives but could be a trove for mischief-makers Ring doorbells and cameras are using AI to \"learn the routines of your residence,\" via a new feature called Video Descriptions. It's part of Amazon's — really, all of the tech giants...",
-      "published": "Wed, 25 Jun 2025 19:02:00 GMT"
+      "id": "a5e609c72d671721cbda72f17c9fe848",
+      "title": "Google AI Pro now available as annual $200 subscription - 9to5Google",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2025/06/25/google-ai-pro-annual-subscription/",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/03/Google-One-landing-screen-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Google AI Pro now available as annual $200 subscription After previously being limited to a monthly plan, Google AI Pro is now available as an annual subscription for $199. 99. Paying annually saves you 16% versus $19. 99  x 12 = $239. 88. This was a weird omission at launch last year (originally called Google One AI Premium) since the...",
+      "published": "Wed, 25 Jun 2025 21:49:00 GMT"
+    },
+    {
+      "id": "f57112003781b6d0e25e10eea2af28d0",
+      "title": "Samsung's 200MP cameras are about to crack a lucrative market - SamMobile",
+      "source": "SamMobile",
+      "url": "https://www.sammobile.com/news/samsungs-200mp-cameras-are-about-to-crack-a-lucrative-market/",
+      "image_url": "https://www.sammobile.com/wp-content/uploads/2025/04/Galaxy-S25-Ultra-rear-cameras-1200x675.jpg",
+      "summary": "Reserve the next Galaxy, Get a $50 Samsung Credit. New deals, S25 Ultra, Watch Ultra. Last updated: June 26th, 2025 at 14:50 UTC+02:00 SamMobile has affiliate and sponsored partnerships, we may earn a commission. Samsung's 200MP cameras are about to crack a lucrative market Chinese phone makers to increase use of Samsung's 200-megapixel cameras. Samsung has a thriving components business...",
+      "published": "Thu, 26 Jun 2025 12:50:00 GMT"
+    },
+    {
+      "id": "83fc9a9e4e48a96ce81e01184685d191",
+      "title": "Nintendo’s having a summer sale if you want to fill up your Switch 2 storage - Polygon",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/nintendo-switch-2/609417/nintendo-summer-sale-switch-games-eshop",
+      "image_url": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/Nintendo-Summer-Sale-1920-JPG.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "summary": "Nintendo’s having a summer sale if you want to fill up your Switch 2 storage What’s this? A rare Nintendo sale? ! Marc Griffin has been an established gaming and entertainment journalist and associate editor since 2019. He has written for the likes of Grammy. com/The Recording Academy, Fandom Gaming, Gamespew, CBR, The Verge, Billboard, JD Sports, XDA, VIBE Magazine,...",
+      "published": "Thu, 26 Jun 2025 22:05:39 GMT"
     },
     {
       "id": "d4de6df87e1ec40686284f0057deb87f",
@@ -60,130 +159,31 @@
       "published": "Fri, 27 Jun 2025 01:05:00 GMT"
     },
     {
-      "id": "1f1045ab8dfd2132adb0a72b190e27bb",
-      "title": "First Resident Evil Requiem Gameplay Revealed in Dev Deep Dive - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2025/06/first-resident-evil-requiem-gameplay-revealed-in-dev-deep-dive",
-      "image_url": "https://images.pushsquare.com/d44c30a34ee27/large.jpg",
-      "summary": "First Resident Evil Requiem Gameplay Revealed in Dev Deep Dive Multiple brief clips shared by Capcom Subscribe to Push Square on YouTube158K Capcom has shared the first clips of Resident Evil Requiem gameplay as part of a developer deep dive in the publisher's latest Spotlight showcase. Catch the video above. In between interviews with lead developers at the studio, Capcom...",
-      "published": "Thu, 26 Jun 2025 23:00:00 GMT"
+      "id": "ea7d50646b5ba3f73b528a3fd72da777",
+      "title": "PSA: Switch 2 Restocks Are Now Available At Multiple Stores In The US - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2025/06/psa-switch-2-restocks-are-now-available-at-multiple-stores-in-the-us",
+      "image_url": "https://images.nintendolife.com/2b257ea71493d/large.jpg",
+      "summary": "Nintendo Switch 2 News Reviews Features Games Guides Videos Forums Better eShop Nintendo Switch 2NintendoUSNorth AmericaPSA PSA: Switch 2 Restocks Are Now Available At Multiple Stores In The US by Liam Doolan Yesterday, 1:30am Image: Zion Grassl / Nintendo Life The Switch 2 has been flying off the shelves in its opening month, with Nintendo already confirming the new device...",
+      "published": "Thu, 26 Jun 2025 01:30:00 GMT"
     },
     {
-      "id": "ac57c7ba97748bc01885195443174419",
-      "title": "Launch PS5s Overheating Due to Design Flaw, Says Game Dev - PlayStation LifeStyle",
-      "source": "PlayStation LifeStyle",
-      "url": "https://www.playstationlifestyle.net/2025/06/26/launch-ps5-overheat-issue-design-flaw-says-dev/",
-      "image_url": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/06/ps5-pro-low-power-mode.jpg?resize=1200,630",
-      "summary": "Launch PS5s Overheating Due to Design Flaw, Says Game Dev It seems PS5s are continuing to suffer from a liquid metal issue that kills the console after a few years. This is especially true of launch consoles and for consoles that are set up vertically. PS5 liquid metal issue is more apparent with more demanding games, claims game dev On...",
-      "published": "Thu, 26 Jun 2025 17:36:17 GMT"
+      "id": "8f1ed6dc8921a387e38243a9aeb4da51",
+      "title": "Steam Summer Sale Includes A Lot Of Great Games Marked Down To $15 Or Less - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/steam-sale-2025-best-big-deals-schedule-i-battlefront-1851785167",
+      "image_url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e1595bcf945c7154594c2c93fffb31c4.jpg",
+      "summary": "Steam Summer Sale Includes A Lot Of Great Games Marked Down To $15 Or Less Grand Theft Auto, Jurassic World, RoboCop, Star Wars, Halo, The Witcher 3, and more are on sale Image: Nacon / TVGS / CDPR / Behaviour Interactive / EA / Kotaku Steam’s annual and massive summer sale is live! If you’ve been waiting to buy a...",
+      "published": "Thu, 26 Jun 2025 19:00:00 GMT"
     },
     {
-      "id": "828fcbc8c4a740bea6819191488b9a25",
-      "title": "13-inch Microsoft Surface Laptop review: A slightly worse version of a year-old PC - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2025/06/review-microsofts-13-inch-surface-laptop-isnt-bad-but-it-is-a-step-down/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/IMG_3181-1152x648.jpeg",
-      "summary": "13-inch Microsoft Surface Laptop review: A slightly worse version of a year-old PC It only makes any sense at all because of the old Surface Laptop's price hike. Microsoft's new 13-inch Surface Laptop is an odd one. It's inarguably a step down in every respect from last year's 13. 8-inch Surface Laptop. But it's also too good (and too expensive)...",
-      "published": "Thu, 26 Jun 2025 17:27:34 GMT"
-    },
-    {
-      "id": "6daaf6323eaf1396418cf63c26e05df6",
-      "title": "The Switch 2 is coming to Walmart tonight at 9PM ET — but there's a catch - Engadget",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/gaming/nintendo/the-switch-2-is-coming-to-walmart-tonight-at-9pm-et--but-theres-a-catch-203129228.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/7r676UUFv80VhvusV6NQiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/62bc4070-4639-11f0-afee-cc8613e61572",
-      "summary": "Apple iOS 26: What you need to know Trump phone drops 'made in the USA'. .. Prime Day 2025: The best early deals How to buy the Nintendo Switch 2 Engadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission. Read more...",
-      "published": "Wed, 25 Jun 2025 20:31:29 GMT"
-    },
-    {
-      "id": "d1116b583a93e602402017939bf3a884",
-      "title": "Steam store was down — live updates on Summer Sale outage - Tom's Guide",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/news/live/steam-outage-june-26-2025",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/bxRmYPzdwZVjhc9cZPLg7F.jpg",
-      "summary": "Steam store was down — live updates on Summer Sale outage Popular PC gaming platform went down just as sale started By Scott Younker last updated 12 hours ago When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Starting around 9:50 a. m. Pacific, reports of issues with Steam started to...",
-      "published": "Thu, 26 Jun 2025 19:31:27 GMT"
-    },
-    {
-      "id": "83fc9a9e4e48a96ce81e01184685d191",
-      "title": "Nintendo’s having a summer sale if you want to fill up your Switch 2 storage - Polygon",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/nintendo-switch-2/609417/nintendo-summer-sale-switch-games-eshop",
-      "image_url": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/Nintendo-Summer-Sale-1920-JPG.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "summary": "Nintendo’s having a summer sale if you want to fill up your Switch 2 storage What’s this? A rare Nintendo sale? ! Marc Griffin has been an established gaming and entertainment journalist and associate editor since 2019. He has written for the likes of Grammy. com/The Recording Academy, Fandom Gaming, Gamespew, CBR, The Verge, Billboard, JD Sports, XDA, VIBE Magazine,...",
-      "published": "Thu, 26 Jun 2025 22:05:39 GMT"
-    },
-    {
-      "id": "4e6edb28fa33363a8360030c16e04b82",
-      "title": "Windows 11 KB5060829 adds taskbar features, direct download for 24H2 - Windows Latest",
-      "source": "Windows Latest",
-      "url": "https://www.windowslatest.com/2025/06/27/windows-11-kb5060829-adds-taskbar-features-privacy-features-on-24h2/",
-      "image_url": "https://www.windowslatest.com/wp-content/uploads/2025/06/Windows-11-KB5060829-update.jpg",
-      "summary": "Windows 11 KB5060829 adds taskbar features, direct download for 24H2 Windows 11 KB5060829 is June 2025’s optional update for Windows 11 24H2 rolling out with a new taskbar scaling feature, a new PC Migration app with PC-to-PC file transfer and more. It’s released via Windows Update, but as always, Microsoft has posted direct download links for KB5060829 offline installers (.",
-      "published": "Thu, 26 Jun 2025 21:49:10 GMT"
-    },
-    {
-      "id": "43c56e7799cccc98519701e1e51beb6f",
-      "title": "YouTube search gets its own version of Google’s AI Overviews - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/693658/youtube-search-ai-overviews-google",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "YouTube search gets its own version of Google’s AI Overviews﻿Premium members may see an AI-written summary pop up when they search. Illustration: Alex Castro / The Verge Jay Peters is a news editor covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme. Google is bringing an AI Overviews-like feature to another product:...",
-      "published": "Thu, 26 Jun 2025 16:22:57 GMT"
-    },
-    {
-      "id": "7595d0758f0e0e864b0e17af1bf01e36",
-      "title": "Jack Black's Officer Dick returns to Tony Hawk's Pro Skater 3+4, and he's bringing his English cousin with him - Eurogamer",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/jack-blacks-officer-dick-returns-to-tony-hawks-pro-skater-34-and-hes-bringing-his-english-cousin-with-him",
-      "image_url": "https://assetsio.gnwcdn.com/Officer-Dick-in-Tony-Hawk-Pro-Skater-3-%2B-4-sitting-on-a-skateboard-with-his-legs-in-the-air-as-he-grinds-down-a-railing.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "summary": "All Mario Kart World Unlockables If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Home News Tony Hawk's Pro Skater 3 + 4 Jack Black's Officer Dick returns to Tony Hawk's Pro Skater 3+4, and he's bringing his English cousin with him News by Victoria Phillips Kennedy News Reporter...",
-      "published": "Thu, 26 Jun 2025 11:00:36 GMT"
-    },
-    {
-      "id": "23e0e2430b6015c4a11ec0d76b336f22",
-      "title": "Monster Hunter Wilds' next update detailed as Steam reviews continue Overwhelmingly Negative plunge - Eurogamer",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/capcom-details-next-monster-hunter-wilds-update-as-steam-reviews-continue-overwhelmingly-negative-plunge",
-      "image_url": "https://assetsio.gnwcdn.com/monster-hunter-wilds-seregios.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "summary": "All Mario Kart World Unlockables If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Monster Hunter Wilds' next update detailed as Steam reviews continue Overwhelmingly Negative plunge Lagiacrus! Fender collaboration! More! News by Matt Wales News Reporter Monster Hunter Wilds is not having a particularly good time of it...",
-      "published": "Fri, 27 Jun 2025 00:29:02 GMT"
-    },
-    {
-      "id": "366f1f48cbf1c9cd59534139ea3f2a96",
-      "title": "The Dream of an AI Scientist Is Closer Than Ever - SingularityHub",
-      "source": "SingularityHub",
-      "url": "https://singularityhub.com/2025/06/26/the-dream-of-an-ai-scientist-is-closer-than-ever/",
-      "image_url": "https://singularityhub.com/uploads/2025/06/Screenshot-2025-06-22-at-10.53.03-AM-1.png?auto=webp",
-      "summary": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. The Dream...",
-      "published": "Thu, 26 Jun 2025 14:00:00 GMT"
-    },
-    {
-      "id": "444b50356d151e7d52255fb0910e99d5",
-      "title": "The Pixel 7 just got banned in Japan, and the Pixel 8 and 9 series could be next - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/pixel-banned-in-japan/",
-      "image_url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/12/img_7779.jpg",
-      "summary": "The Pixel 7 just got banned in Japan, and the Pixel 8 and 9 series could be next Generate a summary of this story Google has been gaining excellent traction with its recent Pixel devices, but that momentum might come to a screeching halt as a Japanese court has ruled that the company has infringed on patents. While it doesn't...",
-      "published": "Thu, 26 Jun 2025 21:04:00 GMT"
-    },
-    {
-      "id": "03ad4946dda59ea97be28ad5557ee3a8",
-      "title": "Mario Kart World patch defies the way players want to race online - Polygon",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/nintendo-switch-2/609120/mario-kart-world-patch-intermission-races-online",
-      "image_url": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/MK-World-1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "summary": "Mario Kart World patch defies the way players want to race online After change to the way track selection works, traditional 3-lap races are even rarer Oli Welsh is senior editor, U. K., providing news, analysis, and criticism of film, TV, and games. He has been covering the business & culture of video games for two decades. Nintendo has patched...",
-      "published": "Thu, 26 Jun 2025 16:09:21 GMT"
-    },
-    {
-      "id": "b7f2c514201a5c04fd3d3349a228449e",
-      "title": "Like it or not, developers are experimenting with AI for their remasters and remakes - but can they ever be any good? - Eurogamer",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/gaming-ai-remasters-can-they-be-any-good",
-      "image_url": "https://assetsio.gnwcdn.com/AI-detonation-racing-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "summary": "All Mario Kart World Unlockables If you click on a link and make a purchase we may receive a small commission. Read our editorial policy. Like it or not, developers are experimenting with AI for their remasters and remakes - but can they ever be any good? Image credit: Eurogamer/Keywords Studios Feature by Ed Nightingale Deputy News Editor Remakes and...",
-      "published": "Thu, 26 Jun 2025 14:00:00 GMT"
+      "id": "3cc3bc7b2080c33f237ba55bf8475b09",
+      "title": "Windows 11 KB5060829 update released with 38 new changes, fixes - BleepingComputer",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060829-update-released-with-38-new-changes-fixes/",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows--11.jpg",
+      "summary": "HomeNewsMicrosoftWindows 11 KB5060829 update released with 38 new changes, fixes Windows 11 KB5060829 update released with 38 new changes, fixes Microsoft has released the KB5060829 preview cumulative update for Windows 11 24H2, which includes 38 changes, including improvements to the taskbar and a new PC-to-PC migration experience. The KB5060829 update is an optional non-security preview update that delivers updates at...",
+      "published": "Fri, 27 Jun 2025 07:28:59 GMT"
     }
   ]
 }
