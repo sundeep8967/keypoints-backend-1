@@ -1,54 +1,117 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-28 13:25:12",
+    "generation_time": "2025-06-28 19:17:35",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "99ccac169e85cd17005cacddd6874309",
-      "title": "Microsoft Retires Legendary 'Blue Screen of Death' After 40 Years of Frowny Faces - CNET",
-      "source": "CNET",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONjBwRDdWUkNBQ1RqT3M5QllweVJ0eDhaTnNKMWpBRVMyU1RIUDQyM2xybW9NUlBvSzQzbGt0SXh5VGJCS0RPX0ZYOUx4Y2swTDBjeUZrNEZGUGdWYWkzdGtYaE1nVkVQTjZMMGswcmRnbnpqYVNtLWM5c2FkSXYta2xleHU4eDZjVElSclBxcmhmMG43bEdhc0FYOEpvbmI3ZWg5UWs2eUVCMXRybW9TYlZkR01TVEVjUTgwTjB3bUtSWnpSVnFmTA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 27 Jun 2025 20:52:00 GMT"
+      "id": "3bd0a48c22a2146a8b762714fb40290c",
+      "title": "So Long, Blue Screen of Death. Amazingly, You'll Be Missed - WIRED",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/so-long-blue-screen-of-death-amazingly-youll-be-missed/",
+      "image_url": "https://media.wired.com/photos/685f0f81313641784030d3f2/191:100/w_1280,c_limit/Gear_BSOD_Wiki.jpg",
+      "summary": "So Long, Blue Screen of Death. Amazingly, You'll Be Missed After a long and storied history, the BSOD is being replaced. WIRED takes a trip down memory lane to wave goodbye to the iconic screen we all love to hate. FOR DECADES, THE Blue Screen of Death, or BSOD to its friends, has instilled a mix of panic, dread, exasperation,...",
+      "published": "Fri, 27 Jun 2025 17:37:00 GMT"
     },
     {
-      "id": "206b9788017ef39c767938955b91d86f",
-      "title": "Google launches Doppl, a new app that lets you visualize how an outfit might look on you - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/06/26/google-launches-doppl-a-new-app-that-lets-you-visualize-how-an-outfit-might-look-on-you/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/doppl.png?resize=1200,673",
-      "summary": "Google launches Doppl, a new app that lets you visualize how an outfit might look on you Google is launching a new experimental app called Doppl that uses AI to visualize how different outfits might look on you, the company announced on Thursday. The app is available on iOS and Android in the U. S. Doppl is designed to let...",
-      "published": "Thu, 26 Jun 2025 21:19:11 GMT"
+      "id": "5b2a6df67e56849a0eb43b38113c9270",
+      "title": "How to turn off AI search in Google Photos - 9to5Google",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2025/06/27/how-to-turn-off-google-photos-ai-search/",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-photos-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "How to turn off AI search in Google Photos Google Photos is now rolling out an updated version of its “Ask Photos” search experience, but also a way to disable it altogether. Here’s how to turn off AI search in Google Photos. “Ask Photos” first launched in late 2024 as an AI-powered way to navigate the depths of your Google...",
+      "published": "Fri, 27 Jun 2025 12:30:00 GMT"
     },
     {
-      "id": "719726663b1eeb9314bd56a8a5831420",
-      "title": "Xiaomi Launches AI Smart Glasses With Double the Battery Life Of Ray-Ban Meta Glasses - extremetech.com",
-      "source": "extremetech.com",
-      "url": "https://www.extremetech.com/electronics/xiaomi-launches-ai-powered-smart-glasses-with-double-the-battery-life-of",
-      "image_url": "https://i.extremetech.com/imagery/content-types/00YSjV7jn0aY6hxf2aF9JGq/hero-image.fill.size_1200x675.png",
-      "summary": "Xiaomi Launches AI Smart Glasses With Double the Battery Life Of Ray-Ban Meta Glasses At the launch, the company said the standard version of the glasses would cost 1,999 yuan, or about $280. Share on Facebook (opens in a new window) Share on X (opens in a new window) Share on Reddit (opens in a new window) Share on Hacker...",
-      "published": "Fri, 27 Jun 2025 14:51:02 GMT"
+      "id": "f8cb28a2cf8b7764bb63dcb70438511e",
+      "title": "The Apple Watch Series 10 is $100 off ahead of Prime Day - Engadget",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/deals/the-apple-watch-series-10-is-100-off-ahead-of-prime-day-152348092.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/FI9MapmYwhWx2fVcrHjt1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/e43f5ae0-74b3-11ef-bdfb-ca3f5f939c1e",
+      "summary": "Apple iOS 26: What you need to know Trump phone drops 'made in the USA'. .. Prime Day 2025: The best early deals How to buy the Nintendo Switch 2 Engadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission. Read more...",
+      "published": "Fri, 27 Jun 2025 15:23:48 GMT"
     },
     {
-      "id": "e87ff21a25d63268a305c423afcd83c4",
-      "title": "Facebook is starting to feed its AI with private, unpublished photos - The Verge",
+      "id": "17f867a85c158e56d45c51cba84c6a25",
+      "title": "Kobo’s Libra Colour and Elipsa 2E e-readers have dropped to some of their best prices - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/meta/694685/meta-ai-camera-roll",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257467_Meta_Quest_3S_AKrales_0117.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "Facebook is starting to feed its AI with private, unpublished photos﻿Always read the terms and conditions, folks. Photo by Amelia Holowaty Krales / The Verge Tina Nguyen is a senior reporter for The Verge, covering the Trump administration, Elon Musk’s takeover of the federal government, and the tech industry’s embrace of the MAGA movement. For years, Meta trained its AI...",
-      "published": "Fri, 27 Jun 2025 23:30:00 GMT"
+      "url": "https://www.theverge.com/tech/694492/kobo-elipsa-2e-libra-color-yeedi-cube-deal-sale",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/vergedealskindlepaperwhitekidsmay82025-1-1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "Kobo’s Libra Colour and Elipsa 2E e-readers have dropped to some of their best pricesWe also found deals on the Yeedi Cube mopping robot vacuum and Anker’s travel-friendly 511 charger. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. The Kobo Elipsa 2E is our favorite note-taking e-reader. Image: The Verge...",
+      "published": "Sat, 28 Jun 2025 13:04:32 GMT"
     },
     {
-      "id": "47d6cb1653672727bde20ba975bcf951",
-      "title": "Nintendo Switch 2 restocks — live updates and retailers to check now - Tom's Guide",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/live/news/nintendo-switch-2-restocks-live-updates-and-news",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/2uQ4GsqLJHm3CW4dwURXeb.jpg",
-      "summary": "Nintendo Switch 2 restocks — live updates and retailers to check now Don't miss your chance to get a Switch 2! By Jeff Parsons, Rory Mellon Contributions from Louis Ramirez last updated 41 minutes ago When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Nintendo Switch 2 continues to be a...",
-      "published": "Mon, 23 Jun 2025 10:17:18 GMT"
+      "id": "e42544f4e8186f8272658936f9779be9",
+      "title": "Facebook is asking to use Meta AI on photos in your camera roll you haven’t yet shared - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/facebook-asking-meta-ai-photos-183138610.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/NVjGoQR_Nqj6RpTEiLuJEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/techcrunch_finance_785/e07711ddfc3c61983abfee17ee802db4",
+      "summary": "Facebook is asking to use Meta AI on photos in your camera roll you haven’t yet shared Fri, June 27, 2025 at 2:31 PM EDT 5 min read The Meta AI app is displayed on a mobile phone with the Meta AI logo visible on a tablet in this photo illustration | Image Credits:Jonathan Raa/NurPhoto / Getty Images Facebook is...",
+      "published": "Fri, 27 Jun 2025 18:31:38 GMT"
+    },
+    {
+      "id": "d0ba58f3bc7b0da29c523310f9745b83",
+      "title": "How Long Will It Take To Connect All Of Australia In Death Stranding 2? - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/death-stranding-2-how-long-to-beat-sequel-story-hltb-1851785232",
+      "image_url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6698cde3b7fde0b6a254037ead27b7a9.jpg",
+      "summary": "How Long Will It Take To Connect All Of Australia In Death Stranding 2? It's once again time to strap some packages to your body and hit the road to make a difference Screenshot: Kojima Productions / George Yang / Kotaku Hideo Kojima’s highly anticipated sequel to 2019’s Death Stranding, Death Stranding 2: On the Beach, is out now. This...",
+      "published": "Fri, 27 Jun 2025 20:35:00 GMT"
+    },
+    {
+      "id": "b06648b1b5d89c5526cea2e4c9bcdb5a",
+      "title": "Nintendo Switch 2 restock: the next time Best Buy and Walmart will have it in stock - The Shortcut | Matt Swider",
+      "source": "The Shortcut | Matt Swider",
+      "url": "https://www.theshortcut.com/p/nintendo-switch-2-restock-next-time",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!ucx2!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68abbf84-817c-4325-abc3-d5a4f5f0d37b_1366x768.jpeg",
+      "summary": "Discover more from The Shortcut Get smarter about tech in 7 minutes with The Shortcut, the #1 consumer tech publication on Substack. Join for FREE to get trusted news and honest reviews – and Nintendo Switch 2 pre-order alerts! By subscribing, I agree to Substack's Terms of Use, and acknowledge its Information Collection Notice and Privacy Policy. Already have an...",
+      "published": "Sat, 28 Jun 2025 06:36:01 GMT"
+    },
+    {
+      "id": "b7b71ffb81ad791bfaf136a411fdc3f6",
+      "title": "More on Apple’s Trust-Eroding ‘F1 The Movie’ Wallet Ad - Daring Fireball",
+      "source": "Daring Fireball",
+      "url": "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad",
+      "image_url": "https://daringfireball.net/graphics/df-wide-card.png",
+      "summary": "WorkOS powers authentication and authorization for secure, scalable AI agents. More on Apple’s Trust-Eroding ‘F1 The Movie’ Wallet Ad This is a funny gag from Claude Zeins, but if you think about it, it shows just how destructive Apple’s decision was to send a push notification from the Wallet app promoting F1 The Movie. It’s a fact that no company...",
+      "published": "Fri, 27 Jun 2025 17:28:44 GMT"
+    },
+    {
+      "id": "27054241c0dd30875affce7367034e26",
+      "title": "Tamagotchi Plaza Nintendo Switch™ 2 Edition for Nintendo Switch 2 - Nintendo",
+      "source": "Nintendo",
+      "url": "https://www.nintendo.com/us/store/products/tamagotchi-plaza-nintendo-switch-2-edition-switch-2/",
+      "image_url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch-2/70010000097142/9d776872b23c8971013b475e482559eaf11f5651e700241e55e10e7f14e20f37",
+      "summary": "Redeem your My Nintendo Platinum Points for fun rewards Tamagotchi Plaza Nintendo Switch™ 2 Edition Tamagotchi Plaza Nintendo Switch™ 2 Edition This item will be sent to your system automatically after purchase. A shop simulator game nurturing dreams in the Tamagotchi world! Tamagotchi Plaza is coming to Nintendo Switch™ and Nintendo Switch™ 2! Tamagotchi Plaza is set in Tamahiko Town...",
+      "published": "Fri, 27 Jun 2025 08:33:47 GMT"
+    },
+    {
+      "id": "ebf98210be7584d548faa1ef386edee6",
+      "title": "The FTC has reopened claims for Fortnite settlement refunds: here’s how you can submit one - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/694168/ftc-fortnite-epic-games-settlement-new-claims",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/fortnite-reload-elite-zadie-slurp-rush-map-1920x1080-7515cd7aa2e9.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "summary": "The FTC has reopened claims for Fortnite settlement refunds: here’s how you can submit one﻿If you didn’t previously submit a refund claim, you now have until July 9th to do so. The refund itself may not arrive until next year for new applicants. Image: Epic Games Jess Weatherbed is a news writer focused on creative industries, computing, and internet culture.",
+      "published": "Fri, 27 Jun 2025 14:11:15 GMT"
+    },
+    {
+      "id": "250c676e520186fa82c3fcbe7820df3a",
+      "title": "Eufy’s Omni C20 mopping robovac is $300 off for a limited time - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/694442/eufy-omni-c20-mopping-robovac-biolite-super-mario-odyssey-deal-sale",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Eufy-Robot-Vacuum-Omni-C20-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "Eufy’s Omni C20 mopping robovac is $300 off for a limited timePlus, you can save on the Apple Watch Series 10 and Super Mario Odyssey. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Brandon Russell is a commerce writer covering deals and buying guides. Previously, he was a freelance writer...",
+      "published": "Fri, 27 Jun 2025 19:19:56 GMT"
+    },
+    {
+      "id": "7f5ea5cc4191dc07876c056e5787b278",
+      "title": "Pokémon Go Fest 2025 event habitat spawns and bonuses - polygon.com",
+      "source": "polygon.com",
+      "url": "https://www.polygon.com/pokemon-go-guide/609534/fest-2025-global-habitat-schedule-ticket-perks",
+      "image_url": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/jlee_250619_1001_pogofest25.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "Pokémon Go Fest 2025 event habitat spawns and bonuses Here’s a quick rundown of what you need to know about Go Fest 2025 Updated Jun 28, 2025, 3:01 PM UTC Graphic: Julia Lee/Polygon | Source images: Game Freak/Nintendo, The Pokémon Company Julia Lee (she/her) is a guides producer, writing guides for games like The Legend of Zelda: Tears of the...",
+      "published": "Sat, 28 Jun 2025 04:54:00 GMT"
     },
     {
       "id": "aa2d0b4586b7f0f25ca95e54fa970afa",
@@ -56,7 +119,7 @@
       "source": "Windows Central",
       "url": "https://www.windowscentral.com/software-apps/windows-11/windows-11-version-25h2-official-announcement",
       "image_url": "https://cdn.mos.cms.futurecdn.net/xhVcK68PshXPbNM4ZVwdYe.jpg",
-      "summary": "Microsoft confirms Windows 11 version 25H2 is coming soon — will install much faster than version 24H2 By Zac Bowden published 17 hours ago Windows 11 version 25H2 is coming this fall, and will share the same servicing and platform release as version 24H2, meaning it will be a breeze to install. When you purchase through links on our site,...",
+      "summary": "Microsoft confirms Windows 11 version 25H2 is coming soon — will install much faster than version 24H2 By Zac Bowden published 23 hours ago Windows 11 version 25H2 is coming this fall, and will share the same servicing and platform release as version 24H2, meaning it will be a breeze to install. When you purchase through links on our site,...",
       "published": "Fri, 27 Jun 2025 20:46:31 GMT"
     },
     {
@@ -69,42 +132,6 @@
       "published": "Fri, 27 Jun 2025 23:30:02 GMT"
     },
     {
-      "id": "27054241c0dd30875affce7367034e26",
-      "title": "Tamagotchi Plaza Nintendo Switch™ 2 Edition for Nintendo Switch 2 - Nintendo",
-      "source": "Nintendo",
-      "url": "https://www.nintendo.com/us/store/products/tamagotchi-plaza-nintendo-switch-2-edition-switch-2/",
-      "image_url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch-2/70010000097142/9d776872b23c8971013b475e482559eaf11f5651e700241e55e10e7f14e20f37",
-      "summary": "Redeem your My Nintendo Platinum Points for fun rewards Tamagotchi Plaza Nintendo Switch™ 2 Edition Tamagotchi Plaza Nintendo Switch™ 2 Edition This item will be sent to your system automatically after purchase. A shop simulator game nurturing dreams in the Tamagotchi world! Tamagotchi Plaza is coming to Nintendo Switch™ and Nintendo Switch™ 2! Tamagotchi Plaza is set in Tamahiko Town...",
-      "published": "Fri, 27 Jun 2025 08:33:47 GMT"
-    },
-    {
-      "id": "67f63aa1c2803b4aae6cedc4d7ccb2a8",
-      "title": "The FTC is sending $126 million in refunds to Fortnite players who were charged for unwanted items - Polygon",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/gaming/609507/fortnite-ftc-refunds-126-million-unwanted-items",
-      "image_url": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/FortnitePayout.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "summary": "The FTC is sending $126 million in refunds to Fortnite players who were charged for unwanted items The claims process has also been reopened, allowing more Fortnite players to get refunds Claire Lewis Claire is an RPG-loving lore nerdess. She’s spent roughly 1,000 hours (each) exploring Baldur’s Gate 3 and Cyberpunk 2077, and will happily talk your ear off about...",
-      "published": "Fri, 27 Jun 2025 14:27:24 GMT"
-    },
-    {
-      "id": "225a8cd7b296c02e63aa054d36c3b404",
-      "title": "Crushing, in a Way - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/27/crosswords/daily-puzzle-2025-06-28.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 02:00:04 GMT"
-    },
-    {
-      "id": "9ce7c01ce2005cd9bdeac798ae056a23",
-      "title": "The 12 best early vacuum deals our testing editor found before Amazon Prime Day - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/cnn-underscored/deals/early-amazon-prime-day-vacuum-deals-2025-06-26",
-      "image_url": null,
-      "summary": "Press & Hold to confirm you are Reference ID 24468aae-5423-11f0-9fdc-cb7c8ab7b281",
-      "published": "Thu, 26 Jun 2025 19:40:00 GMT"
-    },
-    {
       "id": "3a6c3cee3b11cb7fd7b735cb281864e8",
       "title": "Crowned Shield Zamazenta Raid Guide - Pokémon GO Hub",
       "source": "Pokémon GO Hub",
@@ -112,6 +139,15 @@
       "image_url": "https://pokemongohub.net/wp-content/uploads/2025/06/crowned-shield-zamazenta-pokemon-go.jpg",
       "summary": "Crowned Shield Zamazenta Raid Guide Crowned Shield Zamazenta is a Tier 5 legendary raid boss in Pokémon GO and it can be shiny! You will not be able to catch the Crowned Shield form of Zamazenta, and will instead encounter the Hero of Many Battles form of Zamazenta. This can be form changed into the Crowned Shield form of Zamazenta.",
       "published": "Sat, 28 Jun 2025 09:36:27 GMT"
+    },
+    {
+      "id": "1d5c92e4de89470fc2f8527babe43893",
+      "title": "Leon S. Kennedy Was Considered A 'Bad Match' For Resident Evil Requiem - Game Informer",
+      "source": "Game Informer",
+      "url": "https://www.gameinformer.com/2025/06/27/leon-s-kennedy-was-considered-a-bad-match-for-resident-evil-requiem",
+      "image_url": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2025/06/27/7650603c/RE4_Leon_1.jpg",
+      "summary": "Last chance to get your Borderlands 4 issue when ordered by July 1st. Subscribe Now! Leon S. Kennedy Was Considered A 'Bad Match' For Resident Evil Requiem by Marcus Stewart on Jun 27, 2025 at 08:32 AM Resident Evil Requiem stars a new character in Grace Ashcroft, but fans have speculated that Leon S. Kennedy may play a role in...",
+      "published": "Fri, 27 Jun 2025 13:32:00 GMT"
     },
     {
       "id": "5fc8fcda321fd8f1bdb0b5d8d85984b8",
@@ -123,13 +159,22 @@
       "published": "Sat, 28 Jun 2025 10:30:00 GMT"
     },
     {
-      "id": "c0f53aa40ef6ef1c25ebc297999176e0",
-      "title": "Capcom Experimented With Open-World and Online Resident Evil: Requiem Ideas, Before Going 'Back to the Drawing Board' - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/capcom-experimented-with-open-world-and-online-resident-evil-requiem-ideas-before-going-back-to-the-drawing-board",
-      "image_url": "https://assets-prd.ignimgs.com/2025/06/26/re9-1750976946976.png?width=1280",
-      "summary": "Capcom Experimented With Open-World and Online Resident Evil: Requiem Ideas, Before Going 'Back to the Drawing Board' \"You might have heard some of the rumors. ..\" Capcom has confirmed it experimented with plans to make Resident Evil: Requiem an open-world game, and for it feature online elements, before it ultimately changed course. In a revealing developer diary video, Requiem director...",
-      "published": "Fri, 27 Jun 2025 10:19:57 GMT"
+      "id": "225a8cd7b296c02e63aa054d36c3b404",
+      "title": "Crushing, in a Way - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/27/crosswords/daily-puzzle-2025-06-28.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sat, 28 Jun 2025 02:00:04 GMT"
+    },
+    {
+      "id": "b65e207815b810683e7421938aafb72b",
+      "title": "‘Marathon’ NDA Alpha Leaks Show Visual Improvements, Detail New Additions - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2025/06/28/marathon-nda-alpha-leaks-show-visual-improvements-detail-new-additions/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/680a3759221cda8a61cc9650/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "summary": "11 Things Olivia Munn Loves, Including An Unusual Item In Her Carry-On NYT ‘Connections’ Hints And Answers For Sunday, June 29th ‘The Waterfront’ Dethroned In Netflix’s Top 10 List By A New Show ‘Quordle’ Hints And Answers For Sunday, June 29 ‘Marathon’ NDA Alpha Leaks Show Visual Improvements, Detail New Additions ByPaul Tassi, Senior Contributor. News and opinion about video...",
+      "published": "Sat, 28 Jun 2025 12:55:15 GMT"
     },
     {
       "id": "acf8e51616a3ffbeaed6b30393e7fdcb",
@@ -139,51 +184,6 @@
       "image_url": "https://cdn.vox-cdn.com/thumbor/gjkS7YUze4xv3FsNJtu7uLUDjzU=/0x63:3200x1738/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25968742/ap_social.png",
       "summary": "Arrowhead Pride | Kansas City Chiefs Schedule, News, Roster and Stats Chiefs trivia: Your in-5 daily game, Friday edition Think you can figure out which Chiefs player we’re talking about? You’ll get five clues to figure him out in our new guessing game! By Pete Sweeney and David Fucillo Jun 27, 2025, 7:00am CDT 4 Comments / 4 New Share...",
       "published": "Fri, 27 Jun 2025 12:00:00 GMT"
-    },
-    {
-      "id": "8c9318926d81679fe76afe99612ab37c",
-      "title": "Google begins rolling out AI search in YouTube - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2025/06/google-begins-rolling-out-ai-search-in-youtube/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/YouTube-AI-1152x648.jpg",
-      "summary": "Google begins rolling out AI search in YouTube The feature is only available as a test for Premium members for now. Over the past year, Google has transformed its web search experience with AI, driving toward a zero-click experience. Now, the same AI focus is coming to YouTube, and Premium subscribers can get a preview of the new search regime.",
-      "published": "Thu, 26 Jun 2025 16:43:05 GMT"
-    },
-    {
-      "id": "501a1c3b565cee11a2e33fd4e60fef03",
-      "title": "Early 4th of July TV deals are live at Best Buy - here are 11 TVs I'd buy from $69.99 - TechRadar",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/seasonal-sales/early-4th-of-july-tv-deals-are-live-at-best-buy-here-are-11-tvs-id-buy-from-usd69-99",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/inJmUwDJkXWkZdyKsEkdbZ.png",
-      "summary": "Early 4th of July TV deals are live at Best Buy - here are 11 TVs I'd buy from $69. 99 By Mackenzie Frazier published 2 days ago Shop record-low prices on best-selling 4K, QLED, and OLED TVs When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. The 4th of July...",
-      "published": "Thu, 26 Jun 2025 18:51:52 GMT"
-    },
-    {
-      "id": "f6edc6b11d1f02a2b730cad55e177ddf",
-      "title": "The Helldivers 2 review bomb cape is finally here, a year after PSN backlash - Polygon",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/gaming/609611/helldivers-2-review-bomb-cape",
-      "image_url": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/BombCape.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "summary": "The Helldivers 2 review bomb cape is finally here, a year after PSN backlash Players may have forgotten about the controversy, but Arrowhead Game Studios clearly hasn’t Image: Arrowhead Game Studios via Polygon Claire Lewis Claire is an RPG-loving lore nerdess. She’s spent roughly 1,000 hours (each) exploring Baldur’s Gate 3 and Cyberpunk 2077, and will happily talk your ear...",
-      "published": "Fri, 27 Jun 2025 17:25:22 GMT"
-    },
-    {
-      "id": "677cac878c40fed0b10c915f95f708cd",
-      "title": "What 200+ million Galaxy users can expect during Samsung Unpacked - SamMobile",
-      "source": "SamMobile",
-      "url": "https://www.sammobile.com/news/what-200-million-galaxy-users-expect-samsung-unpacked/",
-      "image_url": "https://www.sammobile.com/wp-content/uploads/2024/07/Galaxy-Unpacked-2024-30.jpg",
-      "summary": "Reserve the next Galaxy, Get a $50 Samsung Credit. New deals, S25 Ultra, Watch Ultra. Last updated: June 28th, 2025 at 02:43 UTC+02:00 SamMobile has affiliate and sponsored partnerships, we may earn a commission. What 200+ million Galaxy users can expect during Samsung Unpacked New hardware may be followed by a new software update for millions of existing Samsung customers.",
-      "published": "Sat, 28 Jun 2025 00:43:00 GMT"
-    },
-    {
-      "id": "d0ba58f3bc7b0da29c523310f9745b83",
-      "title": "How Long Will It Take To Connect All Of Australia In Death Stranding 2? - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/death-stranding-2-how-long-to-beat-sequel-story-hltb-1851785232",
-      "image_url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6698cde3b7fde0b6a254037ead27b7a9.jpg",
-      "summary": "How Long Will It Take To Connect All Of Australia In Death Stranding 2? It's once again time to strap some packages to your body and hit the road to make a difference Screenshot: Kojima Productions / George Yang / Kotaku Hideo Kojima’s highly anticipated sequel to 2019’s Death Stranding, Death Stranding 2: On the Beach, is out now. This...",
-      "published": "Fri, 27 Jun 2025 20:35:00 GMT"
     }
   ]
 }
