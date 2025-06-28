@@ -1,27 +1,27 @@
 {
   "metadata": {
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-28 03:26:20",
+    "generation_time": "2025-06-28 08:00:57",
     "total_articles": 20
   },
   "articles": [
+    {
+      "id": "eb2a3a57b153c1c8b800f5c844286ffb",
+      "title": "Obscure rock formation in Canada may contain the world's oldest minerals - Live Science",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/planet-earth/geology/rocks-in-canada-may-be-oldest-on-earth-dating-back-4-16-billion-years",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vm6tSwL8pJoNR9tCnwAgRm.jpg",
+      "summary": "Rocks in Canada may be oldest on Earth, dating back 4. 16 billion years By Ben Turner published 12 hours ago The rocks could offer insight into Earth's primordial crust and the environment that gave birth to life. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. (Image credit: David Hutt...",
+      "published": "Fri, 27 Jun 2025 19:38:19 GMT"
+    },
     {
       "id": "d7509565f494cc09e714ee9dbdf94d7b",
       "title": "Rare daytime fireball bright enough to be seen from orbit may have punched a hole in a house in Georgia - Space",
       "source": "Space",
       "url": "https://www.space.com/stargazing/rare-daytime-fireball-bright-enough-to-be-seen-from-orbit-may-have-punched-a-hole-in-a-house-in-georgia",
       "image_url": "https://cdn.mos.cms.futurecdn.net/nyDmuZZTXppn2TbJZrdKZf.gif",
-      "summary": "Daytime fireball meteorite hits house! Rare daytime fireball bright enough to be seen from orbit may have punched a hole in a house in Georgia By Anthony Wood published 14 hours ago The fireball was bright enough to be spotted by a lightning-tracking satellite from orbit. When you purchase through links on our site, we may earn an affiliate commission.",
+      "summary": "Daytime fireball meteorite hits house! Rare daytime fireball bright enough to be seen from orbit may have punched a hole in a house in Georgia By Anthony Wood published 18 hours ago The fireball was bright enough to be spotted by a lightning-tracking satellite from orbit. When you purchase through links on our site, we may earn an affiliate commission.",
       "published": "Fri, 27 Jun 2025 13:45:37 GMT"
-    },
-    {
-      "id": "e758dbd47e22db79b94234bd0d5f7bbd",
-      "title": "4-Billion-Year-Old Stripey Rocks in Canada May Be The Oldest on Earth - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/4-billion-year-old-stripey-rocks-in-canada-may-be-the-oldest-on-earth",
-      "image_url": "https://www.sciencealert.com/images/2025/06/greenstone-belt.jpg",
-      "summary": "4-Billion-Year-Old Stripey Rocks in Canada May Be The Oldest on Earth The Nuvvuagittuq Greenstone Belt in Quebec contains some of the oldest rocks on the surface of the planet. (Jonathan O’Neil) A belt of swirly, stripey rock in the northeast reaches of Canada looks like it contains some of the oldest minerals ever found on our planet's surface. A new...",
-      "published": "Fri, 27 Jun 2025 12:01:49 GMT"
     },
     {
       "id": "647ffc7eef8c8ece2fbc2d097ed7620d",
@@ -33,15 +33,6 @@
       "published": "Fri, 27 Jun 2025 19:37:24 GMT"
     },
     {
-      "id": "2ff30678ea8821238adbbfbdb8ce2bae",
-      "title": "Scientists discover rare planet at the edge of the Milky Way using space-time phenomenon predicted by Einstein - Live Science",
-      "source": "Live Science",
-      "url": "https://www.livescience.com/space/scientists-discover-rare-planet-at-the-edge-of-the-milky-way-using-space-time-phenomenon-predicted-by-einstein",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/5NEBV786zgPDE4dBetTPB7.jpg",
-      "summary": "Scientists discover rare planet at the edge of the Milky Way using space-time phenomenon predicted by Einstein By Ben Turner published 9 hours ago Using gravitational microlensing, scientists have discovered a rare, large planet at the edge of the Milky Way. The planet is only the third to be found on the outskirts of our galaxy's dense central bulge. When...",
-      "published": "Fri, 27 Jun 2025 18:08:31 GMT"
-    },
-    {
       "id": "b6270f6ac580bdfbb35c8df74456c245",
       "title": "Chile observatory captures the universe with 3,200-megapixel camera - Reuters",
       "source": "Reuters",
@@ -49,6 +40,15 @@
       "image_url": null,
       "summary": "No content available for summarization.",
       "published": "Fri, 27 Jun 2025 12:49:11 GMT"
+    },
+    {
+      "id": "8697d90fd625e907bb390f543dba2235",
+      "title": "'Zombie' Fungus Caught Bursting From Host Bodies 99 Million Years Ago - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/zombie-fungus-caught-bursting-from-host-bodies-99-million-years-ago",
+      "image_url": "https://www.sciencealert.com/images/2025/06/zombie-fungus-in-amber.jpg",
+      "summary": "'Zombie' Fungus Caught Bursting From Host Bodies 99 Million Years Ago Fungi have been invading the brains of insect hosts for millions of years. (Zhuang et al. , Proc. R. Soc. B., 2025) Scientists have caught ancient parasitic fungi in the act of bursting from insect hosts, in dramatic scenes frozen in amber. Dating back almost 100 million years, these...",
+      "published": "Fri, 27 Jun 2025 04:55:56 GMT"
     },
     {
       "id": "9c9840aa9b7f985d938780e544dd4f92",
@@ -60,13 +60,13 @@
       "published": "Fri, 27 Jun 2025 15:29:52 GMT"
     },
     {
-      "id": "ef3f4fa09e64a17e8f671cef07b08e92",
-      "title": "'City killer' asteroid 2024 YR4 could shower Earth with 'bullet-like' meteors if it hits the moon in 2032 - Live Science",
+      "id": "2ff30678ea8821238adbbfbdb8ce2bae",
+      "title": "Scientists discover rare planet at the edge of the Milky Way using space-time phenomenon predicted by Einstein - Live Science",
       "source": "Live Science",
-      "url": "https://www.livescience.com/space/asteroids/city-killer-asteroid-2024-yr4-could-shower-earth-with-bullet-like-meteors-if-it-hits-the-moon-in-2032",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/3u2hCjmPtzcDj22PPG9h7o.jpg",
-      "summary": "'City killer' asteroid 2024 YR4 could shower Earth with 'bullet-like' meteors if it hits the moon in 2032 By Harry Baker published yesterday There is currently a 4. 3% chance that the giant space rock 2024 YR4 will hit the moon in seven years. If this does happen, debris from the nuclear bomb-like impact could trigger a \"spectacular\" meteor shower...",
-      "published": "Thu, 26 Jun 2025 16:19:54 GMT"
+      "url": "https://www.livescience.com/space/scientists-discover-rare-planet-at-the-edge-of-the-milky-way-using-space-time-phenomenon-predicted-by-einstein",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/5NEBV786zgPDE4dBetTPB7.jpg",
+      "summary": "Scientists discover rare planet at the edge of the Milky Way using space-time phenomenon predicted by Einstein By Ben Turner published 14 hours ago Using gravitational microlensing, scientists have discovered a rare, large planet at the edge of the Milky Way. The planet is only the third to be found on the outskirts of our galaxy's dense central bulge. When...",
+      "published": "Fri, 27 Jun 2025 18:08:31 GMT"
     },
     {
       "id": "04a9534b88c756d7506edffe72643375",
@@ -83,35 +83,8 @@
       "source": "Space",
       "url": "https://www.space.com/stargazing/bootid-meteor-shower-2025-peaks-tonight-heres-what-you-need-to-know",
       "image_url": "https://cdn.mos.cms.futurecdn.net/SgKJPJNj9D2CkiWqSjYAim.jpg",
-      "summary": "Rubin Observatory's 1st stunning images! Bootid meteor shower 2025 peaks tonight: Here's what you need to know By Anthony Wood published 13 hours ago The meteor shower radiant can be found in the constellation Bootes. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. A meteor captured crossing the Milky Way...",
+      "summary": "Rubin Observatory's 1st stunning images! Bootid meteor shower 2025 peaks tonight: Here's what you need to know By Anthony Wood published 18 hours ago The meteor shower radiant can be found in the constellation Bootes. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. A meteor captured crossing the Milky Way...",
       "published": "Fri, 27 Jun 2025 14:00:00 GMT"
-    },
-    {
-      "id": "48f4d9570bd571eb66587e94857824c0",
-      "title": "Hello, neighbor! See the Andromeda galaxy like never before in stunning new image from NASA's Chandra telescope (video) - Space",
-      "source": "Space",
-      "url": "https://www.space.com/astronomy/hello-neighbor-see-the-andromeda-galaxy-like-never-before-in-stunning-new-image-from-nasas-chandra-telescope-video",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Ku3YoMfWSg2NHNcvTAFhkm.png",
-      "summary": "Daytime fireball meteorite hits house! Hello, neighbor! See the Andromeda galaxy like never before in stunning new image from NASA's Chandra telescope (video) By Robert Lea published 11 hours ago Created as a tribute to dark matter pioneer Vera Rubin, the image was created with the aid of a vast array of telescopes. When you purchase through links on our...",
-      "published": "Fri, 27 Jun 2025 16:00:00 GMT"
-    },
-    {
-      "id": "c0d9be5cf5a842d557dabaf7d53bea18",
-      "title": "NASA Mars Orbiter Learns New Moves After Nearly 20 Years in Space - NASA (.gov)",
-      "source": "NASA (.gov)",
-      "url": "https://www.nasa.gov/missions/mars-reconnaissance-orbiter/nasa-mars-orbiter-learns-new-moves-after-nearly-20-years-in-space/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/06/1-pia04918-mro-artists-concept.jpg",
-      "summary": "NASA Mars Orbiter Learns New Moves After Nearly 20 Years in Space An antenna sticks out like whiskers from NASA’s Mars Reconnaissance Orbiter in this artist’s concept of the spacecraft, which has been orbiting the Red Planet since 2006. This antenna is part of SHARAD, a radar that peers below the Martian surface. The Mars Reconnaissance Orbiter is testing a...",
-      "published": "Thu, 26 Jun 2025 16:12:28 GMT"
-    },
-    {
-      "id": "8697d90fd625e907bb390f543dba2235",
-      "title": "'Zombie' Fungus Caught Bursting From Host Bodies 99 Million Years Ago - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/zombie-fungus-caught-bursting-from-host-bodies-99-million-years-ago",
-      "image_url": "https://www.sciencealert.com/images/2025/06/zombie-fungus-in-amber.jpg",
-      "summary": "'Zombie' Fungus Caught Bursting From Host Bodies 99 Million Years Ago Fungi have been invading the brains of insect hosts for millions of years. (Zhuang et al. , Proc. R. Soc. B., 2025) Scientists have caught ancient parasitic fungi in the act of bursting from insect hosts, in dramatic scenes frozen in amber. Dating back almost 100 million years, these...",
-      "published": "Fri, 27 Jun 2025 04:55:56 GMT"
     },
     {
       "id": "8eac334bb060d3001a16ed69ba1cf900",
@@ -128,17 +101,26 @@
       "source": "Phys.org",
       "url": "https://phys.org/news/2025-06-discovery-mini-halo-early-universe.html",
       "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.169.14.5 : f53f7cb4-af11-40fa-a671-7f39f817",
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 172.214.175. 241 : 8c44a97b-c735-4db6-9cd9-e69063b8",
       "published": "Thu, 26 Jun 2025 23:00:01 GMT"
     },
     {
-      "id": "15f74472d17fe17df82d43ea8bf294ce",
-      "title": "NASA Wants Y’all To Quit - NASA Watch",
-      "source": "NASA Watch",
-      "url": "https://nasawatch.com/personnel-news/nasa-wants-yall-to-quit/",
-      "image_url": null,
-      "summary": "Verify you are human by completing the action below. nasawatch.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Fri, 27 Jun 2025 20:17:24 GMT"
+      "id": "48f4d9570bd571eb66587e94857824c0",
+      "title": "Hello, neighbor! See the Andromeda galaxy like never before in stunning new image from NASA's Chandra telescope (video) - Space",
+      "source": "Space",
+      "url": "https://www.space.com/astronomy/hello-neighbor-see-the-andromeda-galaxy-like-never-before-in-stunning-new-image-from-nasas-chandra-telescope-video",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Ku3YoMfWSg2NHNcvTAFhkm.png",
+      "summary": "Daytime fireball meteorite hits house! Hello, neighbor! See the Andromeda galaxy like never before in stunning new image from NASA's Chandra telescope (video) By Robert Lea published 16 hours ago Created as a tribute to dark matter pioneer Vera Rubin, the image was created with the aid of a vast array of telescopes. When you purchase through links on our...",
+      "published": "Fri, 27 Jun 2025 16:00:00 GMT"
+    },
+    {
+      "id": "c0d9be5cf5a842d557dabaf7d53bea18",
+      "title": "NASA Mars Orbiter Learns New Moves After Nearly 20 Years in Space - NASA (.gov)",
+      "source": "NASA (.gov)",
+      "url": "https://www.nasa.gov/missions/mars-reconnaissance-orbiter/nasa-mars-orbiter-learns-new-moves-after-nearly-20-years-in-space/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/06/1-pia04918-mro-artists-concept.jpg",
+      "summary": "NASA Mars Orbiter Learns New Moves After Nearly 20 Years in Space An antenna sticks out like whiskers from NASA’s Mars Reconnaissance Orbiter in this artist’s concept of the spacecraft, which has been orbiting the Red Planet since 2006. This antenna is part of SHARAD, a radar that peers below the Martian surface. The Mars Reconnaissance Orbiter is testing a...",
+      "published": "Thu, 26 Jun 2025 16:12:28 GMT"
     },
     {
       "id": "7512f13cce988fc2870779cc6017ca46",
@@ -146,8 +128,26 @@
       "source": "Space",
       "url": "https://www.space.com/space-exploration/private-spaceflight/human-remains-lost-after-memorial-spaceflight-capsule-crashes-into-the-sea",
       "image_url": "https://cdn.mos.cms.futurecdn.net/dupdZWeHxumkDBnTrerueG.jpg",
-      "summary": "Universe's 'missing' matter found! Space Exploration Private Spaceflight Human remains lost after memorial spaceflight capsule crashes into the sea By Josh Dinner published yesterday Things almost went exactly as planned. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. (Image credit: The Exploration) A space capsule included on a recent SpaceX...",
+      "summary": "Universe's 'missing' matter found! Space Exploration Private Spaceflight Human remains lost after memorial spaceflight capsule crashes into the sea By Josh Dinner published 2 days ago Things almost went exactly as planned. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. (Image credit: The Exploration) A space capsule included on a...",
       "published": "Thu, 26 Jun 2025 18:00:15 GMT"
+    },
+    {
+      "id": "b69f9c7fcd70c3cedc80468df7e1ba16",
+      "title": "NASA’s Webb Digs into Structural Origins of Disk Galaxies - NASA Science (.gov)",
+      "source": "NASA Science (.gov)",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-digs-into-structural-origins-of-disk-galaxies/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/webb-STScI-01JXX1TQRCDE8F92WV13SF4NE7-1K.jpg",
+      "summary": "NASA’s Webb Digs into Structural Origins of Disk Galaxies Astronomers pulled from NASA’s James Webb Space Telescope’s data to analyze a sample of 111 edge-on galaxies. The team’s analysis suggests that thick disk formation occurs first, and thin disk formation follows. Full image and caption below. Credits: NASA, ESA, CSA, T. Tsukui (Australian National University). Image: A Sample of Galaxy...",
+      "published": "Thu, 26 Jun 2025 14:00:00 GMT"
+    },
+    {
+      "id": "c08ecbfb1760f30ab8a185e8e6764409",
+      "title": "\"Rhythmic surges\" detected in Africa where a new ocean is forming - Earth.com",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/news/fresh-lava-from-deep-earth-mantle-pulses-burst-onto-land-where-new-ocean-is-forming/",
+      "image_url": "https://cff2.earth.com/uploads/2025/06/27191219/Ethiopian-rift_Erta-Ale-volcano_Africa_mantle-pulse_lava_ocean-forming_USouthampton_1m.jpg",
+      "summary": "Scientists find fresh lava from Earth's mantle bursting onto the surface where a new ocean is forming Deep beneath the Earth’s surface, in a layer called the mantle, heat builds up and pulses, causing rock to slowly rise toward the crust. This movement is known as a mantle upwelling, and it plays a major role in forming volcanoes, breaking continents...",
+      "published": "Sat, 28 Jun 2025 01:18:55 GMT"
     },
     {
       "id": "427f02f8f61cf7e5fe291a6c602d1873",
@@ -159,31 +159,31 @@
       "published": "Fri, 27 Jun 2025 19:15:00 GMT"
     },
     {
-      "id": "82f0d81b84acf1c72d9b8a774a117924",
-      "title": "Scientists Retrace 30,000-Year-Old Sea Voyage, in a Hollowed-Out Log - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/25/science/anthropology-ocean-migration-japan.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Fri, 27 Jun 2025 15:49:00 GMT"
+      "id": "369300c5625487fb429b275c099cd144",
+      "title": "Scientists May Have Just Discovered the First Ever Pieces of Mercury - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/scientists-discovered-first-pieces-mercury/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Scientists-May-Have-Just-Discovered-the-First-Ever-Pieces-of-Mercury.jpg",
+      "summary": "Scientists May Have Just Discovered the First Ever Pieces of Mercury Meteorites from mercury? The groundbreaking discovery that could change everything. Credit: ESA | The Daily Galaxy --Great Discoveries Channel Scientists may have solved a longstanding mystery in the study of Mercury. For the first time, pieces of the Solar System’s innermost planet could be on Earth, potentially shedding light...",
+      "published": "Fri, 27 Jun 2025 19:30:00 GMT"
     },
     {
-      "id": "48af1d8612370240b29b7a2a09bb6b6c",
-      "title": "Woman Forms Magical Friendship With A Tiny Spider Living In Her Bathroom - The Dodo - For Animal People",
-      "source": "The Dodo - For Animal People",
-      "url": "https://www.thedodo.com/daily-dodo/woman-forms-magical-friendship-with-a-tiny-spider-living-in-her-bathroom",
-      "image_url": "https://assets3.thrillist.com/v1/image/3196694/1200x600/crop;;webp=auto;jpeg_quality=85.jpg",
-      "summary": "Woman Forms Magical Friendship With A Tiny Spider Living In Her Bathroom The started the sweetest routine ❤️🕷️ Published on June 27, 2025 at 5:57 PM Apple Valley Farm Sanctuary in Penrose, Colorado, is home to around 100 rescued animals, all lovingly cared for by Deanna Downer and her husband, Weldon. But while farm animals are their focus, the sanctuary...",
-      "published": "Fri, 27 Jun 2025 21:57:01 GMT"
+      "id": "c90f07b7cc4c71a767a7603d5982b766",
+      "title": "Mysterious 'runner' dinosaur a sign there are more Jurassic secrets to unlock beneath western US - Live Science",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/animals/dinosaurs/enigmatic-runner-dinosaur-from-colorado-helps-rewrite-understanding-of-several-jurassic-species",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xo3Jr8Q8uibzkBRRafaknc.jpg",
+      "summary": "Animals Extinct species Dinosaurs Mysterious 'runner' dinosaur a sign there are more Jurassic secrets to unlock beneath western US By Patrick Pester published 2 days ago The discovery of Enigmacursor mollyborthwickae, a dog-size \"runner\" dinosaur, has left researchers re-evaluating Nanosaurus and several other US dinosaurs from the Morrison Formation in Colorado. When you purchase through links on our site, we...",
+      "published": "Thu, 26 Jun 2025 17:54:29 GMT"
     },
     {
-      "id": "b69f9c7fcd70c3cedc80468df7e1ba16",
-      "title": "NASA’s Webb Digs into Structural Origins of Disk Galaxies - NASA Science (.gov)",
-      "source": "NASA Science (.gov)",
-      "url": "https://science.nasa.gov/missions/webb/nasas-webb-digs-into-structural-origins-of-disk-galaxies/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/webb-STScI-01JXX1TQRCDE8F92WV13SF4NE7-1K.jpg",
-      "summary": "NASA’s Webb Digs into Structural Origins of Disk Galaxies Astronomers pulled from NASA’s James Webb Space Telescope’s data to analyze a sample of 111 edge-on galaxies. The team’s analysis suggests that thick disk formation occurs first, and thin disk formation follows. Full image and caption below. Credits: NASA, ESA, CSA, T. Tsukui (Australian National University). Image: A Sample of Galaxy...",
-      "published": "Thu, 26 Jun 2025 14:00:00 GMT"
+      "id": "a453334c6b28787f98d21db138b39d96",
+      "title": "Get Ready for the Moon and Mars Show: A Celestial Spectacle You Can’t Miss - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/the-moon-and-mars-show-celestial-spectacle/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/Get-Ready-for-the-Moon-and-Mars-Show-A-Celestial-Spectacle-You-Cant-Miss.jpg",
+      "summary": "Get Ready for the Moon and Mars Show: A Celestial Spectacle You Can’t Miss This weekend, witness a stunning celestial show as the Moon and Mars align in a rare close conjunction. Image credit: KPNO/NOIRLab/NSF/AURA/J. Winsky | The Daily Galaxy --Great Discoveries Channel Skywatchers around the world have the perfect opportunity this weekend to witness a dazzling celestial show featuring...",
+      "published": "Fri, 27 Jun 2025 16:30:00 GMT"
     }
   ]
 }
