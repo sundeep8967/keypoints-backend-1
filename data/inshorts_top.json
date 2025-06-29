@@ -1,45 +1,36 @@
 {
   "metadata": {
     "source_file": "data/news_top.json",
-    "generation_time": "2025-06-29 02:17:57",
+    "generation_time": "2025-06-29 07:03:44",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "1fbda093af8ca71c341db8ef4c78f998",
-      "title": "Senate Republicans prepare to take up Trump’s tax bill - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6WGUzNm1hMXI4U1pfVVo2WDdvV1NRNm5FMW00OWVhWEdjSmZBbFhUWGtTYk1pbEtrRUNqYjZiNEJqcExvbXpUcDNNaHVQMUhsOGFuZXhLLTQtdnRhZ1daaktCY1lUU2d6bWJqRTZkUklFTG5OczBYZ3FBSDIwUQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "id": "86df4343c0629bc7606ad6d1b6fcc9cf",
+      "title": "Trump's 'Big Beautiful Bill' advances, but still faces Republican dissent - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c15wn34z0z4o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/919c/live/e6e9bb10-5436-11f0-bd57-912fd7e4c7e7.jpg",
+      "summary": "Senate Republicans advance Trump's 'Big Beautiful Bill' but final vote hangs in balance",
+      "published": "Sun, 29 Jun 2025 03:39:27 GMT"
+    },
+    {
+      "id": "02bad1aa4ecc43b05b6b921799bec0b8",
+      "title": "Musk Wades Back Into Politics, Slamming Trump’s Domestic Policy Bill - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/28/us/politics/musk-trump-bill.html",
+      "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 00:01:55 GMT"
+      "published": "Sat, 28 Jun 2025 23:23:23 GMT"
     },
     {
-      "id": "57bf80bdd054786e60b6875bb578fc89",
-      "title": "Hurricane season is here and meteorologists are losing a vital tool for forecasting them - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/hurricane-season-meteorologists-losing-vital-tool-forecasting/story?id=123305760",
-      "image_url": "https://s.abcnews.com/images/Video/hurricane-irma-noaa-jc-170908_16x9t_992.jpg?w=1600",
-      "summary": "Hurricane season is here and meteorologists are losing a vital tool for forecasting them A permanent service change could impact hurricane forecasting. ByMatthew Glasser and Kyle Reiman The importance of hurricane huntersABC News Chief Meteorologist Ginger Zee reports on the people who fly through the clouds to keep people safe. Meteorologists are losing a sophisticated tool that many say has...",
-      "published": "Sat, 28 Jun 2025 21:13:26 GMT"
-    },
-    {
-      "id": "bb69b28a61715ec8f2a0bd5c3509b983",
-      "title": "Biden, Harris attend funeral for slain Minnesota lawmaker - The Hill",
-      "source": "The Hill",
-      "url": "https://thehill.com/homenews/state-watch/5375223-biden-harris-melissa-hortman-funeral-minnesota/",
-      "image_url": "https://thehill.com/wp-content/themes/the-hill/assets/the-hill-logo-horizontal.svg",
-      "summary": "Press & Hold to confirm you are Reference ID d84826b8-548e-11f0-b4c0-2772d3f6a078",
-      "published": "Sat, 28 Jun 2025 20:10:00 GMT"
-    },
-    {
-      "id": "d79dbd959005e2f0a8c9f4d74c26f575",
-      "title": "Tens of thousands defy Hungary’s ban on Pride in protest against Orbán - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2025/jun/28/tens-of-thousands-defy-hungarys-ban-on-pride-in-protest-against-orban",
-      "image_url": "https://i.guim.co.uk/img/media/fecc690fb0876b3b83a5cd933e0825023d12d8c0/758_0_6550_5243/master/6550.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7542d3371f1e14a34aa9bc94f7d304d9",
-      "summary": "Fund the free press with $15 per month Tens of thousands march against Hungary's government for LGBT rights – video Tens of thousands defy Hungary’s ban on Pride in protest against Orbán Crackdown on Pride is part of effort to curb democratic freedoms ahead of a hotly-contested election next year Lili Rutai in Budapest, and Ashifa Kassam Last modified on...",
-      "published": "Sat, 28 Jun 2025 18:14:00 GMT"
+      "id": "4f97bdd6ef4846e9ccfbd4cdbc64c420",
+      "title": "Hungary's LGBTQ+ community defies government ban on Pride march - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/nbc-out/out-news/hungarys-lgbtq-community-defies-government-ban-pride-march-rcna215740",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250628-pride-hungary-ch-1525-32dd25.jpg",
+      "summary": "Hungary's LGBTQ+ community defies government ban on Pride march The populist party of Prime Minister Viktor Orbán in March fast-tracked a law through parliament that made it an offense to hold or attend events that “depict or promote” homosexuality to minors aged under 18. People take part in the Budapest Pride parade in Budapest downtown on June 28. Attila KisbenedekI...",
+      "published": "Sat, 28 Jun 2025 19:29:04 GMT"
     },
     {
       "id": "490a76e4628e08a64c656dc97dea3743",
@@ -51,13 +42,22 @@
       "published": "Sat, 28 Jun 2025 17:20:10 GMT"
     },
     {
-      "id": "ed6237d5589cf026903540bbe621b0f0",
-      "title": "'Insane and destructive': Elon Musk resumes attacks on Trump's 'big, beautiful bill' - NBC News",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/congress/elon-musk-resumes-attacks-trumps-big-beautiful-bill-rcna215755",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250628-elon-musk-rm-b52492.jpg",
-      "summary": "'Insane and destructive': Elon Musk resumes attacks on Trump's 'big, beautiful bill' The Tesla CEO's criticisms of the massive bill to fund Trump's agenda previously led to a high-profile spat with the president. Elon Musk listens as President Donald Trump speaks during a news conference in the Oval Office on May 30. Evan Vucci / AP Create your free profile...",
-      "published": "Sat, 28 Jun 2025 23:00:35 GMT"
+      "id": "41451505b6ae49887cdf878bcbc3572c",
+      "title": "Slain Minnesota lawmaker Melissa Hortman mourned at funeral service - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/28/g-s1-74962/minnesota-melissa-hortman-funeral-house-speaker",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1387x780+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2Fe3%2Fde2d6da3492781d7bc268d56692a%2Fap25179561922116.jpg",
+      "summary": "Slain Minnesota lawmaker Melissa Hortman mourned at funeral service Mourners view the caskets of Melissa and Mark Hortman as they enter the Basilica of St. Mary in Minneapolis before their funeral service on Saturday. Mourners gathered on Saturday for the funeral of Melissa Hortman, the Minnesota lawmaker who was slain in a display of political violence that shocked the nation.",
+      "published": "Sat, 28 Jun 2025 18:45:10 GMT"
+    },
+    {
+      "id": "57bf80bdd054786e60b6875bb578fc89",
+      "title": "Hurricane season is here and meteorologists are losing a vital tool for forecasting them - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/hurricane-season-meteorologists-losing-vital-tool-forecasting/story?id=123305760",
+      "image_url": "https://s.abcnews.com/images/Video/hurricane-irma-noaa-jc-170908_16x9t_992.jpg?w=1600",
+      "summary": "Hurricane season is here and meteorologists are losing a vital tool for forecasting them A permanent service change could impact hurricane forecasting. ByMatthew Glasser and Kyle Reiman The importance of hurricane huntersABC News Chief Meteorologist Ginger Zee reports on the people who fly through the clouds to keep people safe. Meteorologists are losing a sophisticated tool that many say has...",
+      "published": "Sat, 28 Jun 2025 21:13:26 GMT"
     },
     {
       "id": "4a550a61a2d71c63e4cbab72cbca6eed",
@@ -65,8 +65,17 @@
       "source": "Politico",
       "url": "https://www.politico.com/live-updates/2025/06/28/congress/louisiana-hospitals-warn-mike-johnson-of-devastation-from-megabill-00431385",
       "image_url": "https://www.politico.com/dims4/default/352e6e9/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F90%2F93%2F64292e38477bb00c5f1da885d824%2Fcongress-tax-cuts-02380.jpg",
-      "summary": "About Us Advertising Breaking News Alerts Careers Credit Card Payments Digital Edition FAQ Feedback Headlines Photos Press Print Subscriptions Request A Correction Write For Us RSS Site Map Terms of Service Privacy Policy",
+      "summary": "Louisiana hospitals warn Mike Johnson of ‘devastation’ from megabill Every major health system in Louisiana is warning Speaker Mike Johnson and the rest of the state’s congressional delegation that the Senate GOP’s planned Medicaid cuts “would be historic in their devastation. ” The group sent the warning in a letter that also went to Majority Leader Steve Scalise and GOP...",
       "published": "Sat, 28 Jun 2025 21:00:33 GMT"
+    },
+    {
+      "id": "e1bb07d299e78c5bbb31858eeeeaf611",
+      "title": "Protesters line highway in Florida Everglades to oppose ‘Alligator Alcatraz’ - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/immigration/protesters-line-highway-florida-everglades-oppose-alligator-alcatraz-rcna215767",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/everglades-immigration-detention-protest-d5820b.jpg",
+      "summary": "Protesters line highway in Florida Everglades to oppose ‘Alligator Alcatraz’ Environmental activists and Native American tribes say fast-tracked construction of an immigrant detention camp threatens sacred lands, endangered species. Demonstrators protest the construction of an immigrant detention center, dubbed \"Alligator Alcatraz,\" in the Everglades near Ochopee, Florida, on June 28, 2025. GIORGIO VIERA / AFP - Getty Images Create your...",
+      "published": "Sun, 29 Jun 2025 01:44:00 GMT"
     },
     {
       "id": "0218fd9a5807c4b1f024dbe8acefe0e9",
@@ -87,22 +96,31 @@
       "published": "Sat, 28 Jun 2025 21:38:00 GMT"
     },
     {
-      "id": "d514260150e6fd6310b527a9ed5e0a23",
-      "title": "DHS ends deportation protection for Haitians, says Haiti is ‘safe’ - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/immigration/2025/06/28/haiti-dhs-tps-temporary-protected-status/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MMA42MPLIEWW6HS7YTZM2FVNVE_size-normalized.jpg&w=1440",
-      "summary": "DHS ends deportation protection for Haitians, says Haiti is ‘safe’ DHS Secretary Kristi Noem said allowing Haitians to stay in the country was against the “national interest. ” A Haitian immigrant mows his yard in Texas. (Eric Gay/AP) The Trump administration announced an end to temporary legal protections for Haitian migrants in the United States, leaving hundreds of thousands of...",
-      "published": "Sat, 28 Jun 2025 19:58:53 GMT"
+      "id": "0e92b8342dcef00833146d794959890c",
+      "title": "Israel's leaders slam a news report on a Gaza 'killing field' near food sites - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/28/nx-s1-5449587/israel-gaza-haaretz-report",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3159+0+293/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd2%2Fdb%2F94f31091449e958c77a5785006e0%2Fap25177611197230.jpg",
+      "summary": "Israel's leaders slam a news report on a Gaza 'killing field' near food sites Palestinians carry food packages near a distribution site operated by the U. S.-backed Gaza Humanitarian Foundation in Khan Younis, southern Gaza Strip, Thursday. A newspaper report published in Hebrew and English quoting Israeli soldiers saying commanders have ordered them to shoot at unarmed hungry crowds of...",
+      "published": "Sat, 28 Jun 2025 10:16:45 GMT"
     },
     {
-      "id": "2c35e16daacc304c4add9723892ed626",
-      "title": "Israeli strikes kill more than 60 people in Gaza, health officials say - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2025/jun/28/israeli-strikes-kill-scores-of-people-in-gaza-health-officials-say",
-      "image_url": "https://i.guim.co.uk/img/media/401df8f77c3867b7128248db84b04ace6fbe739c/465_0_4283_3427/master/4283.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1255c50890020ea11ffd4740a6679934",
-      "summary": "Fund the free press with $15 per month Footage shows aftermath of Israeli strike on tent camp in Gaza City – video Israeli strikes kill more than 60 people in Gaza, health officials say Latest deaths come amid worsening humanitarian situation despite renewed hope for ceasefire Last modified on Sat 28 Jun 2025 13. 55 EDT At least 62 people...",
-      "published": "Sat, 28 Jun 2025 11:35:07 GMT"
+      "id": "85ccd29252dbc55feb98eff5e1361cbb",
+      "title": "Ancient city possibly ruled by females living in a \"matriarchal society\" more than 9,000 years ago, researchers say - CBS News",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ancient-city-ruled-by-females-catalhoyuk/",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/28/f93069ef-f91a-4ecf-bec3-a5d32c061854/thumbnail/1200x630/ca4db01bd0de94d0323a49b0f2e8e1c3/gettyimages-2052270519.jpg",
+      "summary": "Ancient city possibly ruled by females living in a \"matriarchal society\" more than 9,000 years ago, researchers say June 28, 2025 / 4:26 PM EDT / CBS News An ancient city was most likely ruled by females living in a \"matriarchal society\" more than 9,000 years ago, according to a study published in Science this week. Researchers extracted the ancient...",
+      "published": "Sat, 28 Jun 2025 20:26:47 GMT"
+    },
+    {
+      "id": "d2c196432d68ef117b8b174461fedf1a",
+      "title": "Who Is Ibrahim Traoré? The Coup Leader Who’s Become an Anti-Western Hero in Africa and Beyond - WSJ",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/world/africa/who-is-ibrahim-traore-burkina-faso-ef9ace8d",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sun, 29 Jun 2025 04:01:00 GMT"
     },
     {
       "id": "39334780451f729efad1739d9a7946b9",
@@ -114,24 +132,6 @@
       "published": "Sat, 28 Jun 2025 22:52:21 GMT"
     },
     {
-      "id": "75afcc226f9867a854a22b345465effa",
-      "title": "Kneecap Brings Pro-Palestinian Politics Back Onstage at Glastonbury - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/28/arts/music/kneecap-glastonbury.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 21:45:26 GMT"
-    },
-    {
-      "id": "7c10886921e1ab09d40c836484e7ba21",
-      "title": "With a series of wars, Israel's military reshapes the Mideast - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/28/nx-s1-5440332/with-a-series-of-wars-israels-military-reshapes-the-mideast",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+427/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2F2f%2Fe165666045f39edd0d541ba4a378%2Fisrael-iran-4-gettyimages-2220183552.jpg",
-      "summary": "With a series of wars, Israel's military reshapes the Mideast Israeli Prime Minister Benjamin Netanyahu visits Soroka Hospital in the southern city of Beersheba, after it was hit by a missile fired from Iran on June 19. Israel has scored a series of military successes and reshaped the Middle East since being stunned by a surprise Hamas attack in October...",
-      "published": "Sat, 28 Jun 2025 13:20:46 GMT"
-    },
-    {
       "id": "a8355936a14b45f1426543945a876a36",
       "title": "Final party set to end Bezos-Sánchez wedding extravaganza in Venice - The Guardian",
       "source": "The Guardian",
@@ -139,6 +139,15 @@
       "image_url": "https://i.guim.co.uk/img/media/7e854cfc6701670d19ab71188e4af0875d94179e/0_0_2676_2141/master/2676.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b65dea3f975a8a6de8f4ff99a0190ee",
       "summary": "Fund the free press with $15 per month Newlyweds Amazon founder Jeff Bezos and journalist Lauren Sánchez leaving their luxury hotel on Venice’s Grand canal on Saturday. Photograph: Daniel Dal Zennaro/EPA Final party set to end Bezos-Sánchez wedding extravaganza in Venice Saturday evening’s bash set to take place in Arsenale, a former medieval shipyard in eastern district of city Last...",
       "published": "Sat, 28 Jun 2025 22:53:00 GMT"
+    },
+    {
+      "id": "8852b6e4f90c222bf98e2c63dbfdb417",
+      "title": "Stock market reclaims February record peak. How the fundamentals and technicals look now vs. then - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/28/stock-market-reclaims-february-record-peak-how-the-fundamentals-and-technicals-look-now-vs-then.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108164895-1750984378779-gettyimages-2221365172-US_STOCKS.jpeg?v=1751112674&w=1920&h=1080",
+      "summary": "Stock market reclaims February record peak. How the fundamentals and technicals look now vs. then Trump’s ‘big, beautiful bill’ clears key Senate hurdle after high drama Elon Musk rips into ‘utterly insane’ Trump-backed megabill How China could shut down auto factories around the world I’m 79 years old and the ‘father of functional medicine’: My daily routine for a healthy...",
+      "published": "Sat, 28 Jun 2025 13:00:09 GMT"
     },
     {
       "id": "181dcdc0f0c71084b7b8c52455597e9b",
@@ -150,31 +159,13 @@
       "published": "Sat, 28 Jun 2025 21:04:00 GMT"
     },
     {
-      "id": "482a4946dfc24804affd047d69b9506b",
-      "title": "Elon Musk’s early birthday present to himself—the first Tesla just drove itself from its factory straight to the customer - Fortune",
-      "source": "Fortune",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGdRbEllbG8wRy1VUXFxcVV5RzZoam5uOWwyZVFfYkFJQzBEXzdmQ240ZmJVOWtrWVBxbU9PYXpfbWt2N0ZOMy1JM0tYSVhwSWppQzJmWmdPcmtwQ0RMQ1JfUnVyZFJidzRObk5NWGJMLU1ucnc3LTgtbEdCaVZudFdtcVpYUXN0RW9GXzJPUjZ3c1hUQnVDWVRBTDlBcnQxLXB0enlRNDZNZWZmMVY0Zlp0WF8?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 17:51:00 GMT"
-    },
-    {
-      "id": "d26a096049f023ab61019c92cf9acd28",
-      "title": "Traders bet on interest rate cuts from Jay Powell’s successor at the Fed - Financial Times",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5fc01ad9-233b-45f2-9271-806f7cdf6390",
-      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb2feb6ab-5d9f-4d3d-94a7-428fb3131b50.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Charts that Matter US interest rates Traders bet on interest rate cuts from Jay Powell’s successor at the Fed Donald Trump’s criticism of central bank chair has fuelled expectations of a dovish shift once he leaves in May next...",
-      "published": "Sat, 28 Jun 2025 12:00:06 GMT"
-    },
-    {
-      "id": "f7b3195cc99318da583ac1385ac3279a",
-      "title": "Exclusive: Nothing Headphones (1) Specs Leak - Android Headlines",
-      "source": "Android Headlines",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfS1JSR2tLRkN2bV9WWXBFMVJGUllPaE10OTg3U0JMMEwxT3N6MjlKOWRFbmpOMF9kRHJRWjZUSW0zc1FvLWhELXk5Y1ptYTdGR3lMUjFid243d3p2NHdDeUMzTQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 17:44:27 GMT"
+      "id": "9046cc5e8c431b8756e61c635554d231",
+      "title": "J.M. Smucker plans to remove artificial colors from its jams and other products - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/28/nx-s1-5449648/j-m-smucker-plans-to-remove-artificial-colors-from-its-jams-and-other-products",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3159+0+585/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2F32%2Fef59fd8c41edb1fc34dc6f78d450%2Fap25178692785023.jpg",
+      "summary": "J.M. Smucker plans to remove artificial colors from its jams and other products A jar of Smucker's preserves is displayed on Aug. 16, 2010, in Philadelphia. J.M. Smucker Co. plans to remove artificial colors from its products by the end of 2027. Orrville, Ohio-based Smucker said Thursday it will also remove synthetic dyes from foods sold to K-12 schools by...",
+      "published": "Sat, 28 Jun 2025 16:45:35 GMT"
     },
     {
       "id": "3bd0a48c22a2146a8b762714fb40290c",
@@ -184,6 +175,15 @@
       "image_url": "https://media.wired.com/photos/685f0f81313641784030d3f2/191:100/w_1280,c_limit/Gear_BSOD_Wiki.jpg",
       "summary": "So Long, Blue Screen of Death. Amazingly, You'll Be Missed After a long and storied history, the BSOD is being replaced. WIRED takes a trip down memory lane to wave goodbye to the iconic screen we all love to hate. FOR DECADES, THE Blue Screen of Death, or BSOD to its friends, has instilled a mix of panic, dread, exasperation,...",
       "published": "Fri, 27 Jun 2025 17:37:00 GMT"
+    },
+    {
+      "id": "85208bc0ace9590e5f53105e528974b0",
+      "title": "Devolver Digital Nintendo Switch eShop sale: lowest prices ever for Plucky Squire, Neva, more - Nintendo Everything",
+      "source": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/devolver-digital-nintendo-switch-eshop-sale-plucky-squire-neva/",
+      "image_url": "https://nintendoeverything.com/wp-content/uploads/Devolver-Digital-Nintendo-Switch-sale-Plucky-Squire-Neva.jpg",
+      "summary": "Switch 2SwitchSwitch eShopamiiboMobile [Let’s Talk] How are you feeling about Donkey Kong Bananza? Is Sonic x Shadow Generations worth double dipping on Nintendo Switch 2? We decide Devolver Digital Nintendo Switch eShop sale: lowest prices ever for Plucky Squire, Neva, more Posted on June 28, 2025 by Brian(@NE_Brian) in News, Switch eShop Just recently, Devolver Digital began a new Nintendo...",
+      "published": "Sat, 28 Jun 2025 16:06:49 GMT"
     }
   ]
 }

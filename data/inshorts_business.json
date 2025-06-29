@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source_file": "data/news_business.json",
-    "generation_time": "2025-06-29 03:46:16",
-    "total_articles": 10
+    "generation_time": "2025-06-29 09:15:51",
+    "total_articles": 9
   },
   "articles": [
     {
@@ -11,8 +11,17 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/technology/2025/jun/28/final-party-set-to-end-bezos-sanchez-wedding-extravaganza-in-venice",
       "image_url": "https://i.guim.co.uk/img/media/7e854cfc6701670d19ab71188e4af0875d94179e/0_0_2676_2141/master/2676.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b65dea3f975a8a6de8f4ff99a0190ee",
-      "summary": "Fund the free press with $15 per month Newlyweds Amazon founder Jeff Bezos and journalist Lauren Sánchez leaving their luxury hotel on Venice’s Grand canal on Saturday. Photograph: Daniel Dal Zennaro/EPA Final party set to end Bezos-Sánchez wedding extravaganza in Venice Saturday evening’s bash set to take place in Arsenale, a former medieval shipyard in eastern district of city Last...",
+      "summary": "Fund the free press with $5 per month Newlyweds Amazon founder Jeff Bezos and journalist Lauren Sánchez leaving their luxury hotel on Venice’s Grand canal on Saturday. Photograph: Daniel Dal Zennaro/EPA Final party set to end Bezos-Sánchez wedding extravaganza in Venice Saturday evening’s bash set to take place in Arsenale, a former medieval shipyard in eastern district of city Last...",
       "published": "Sat, 28 Jun 2025 22:53:00 GMT"
+    },
+    {
+      "id": "8852b6e4f90c222bf98e2c63dbfdb417",
+      "title": "Stock market reclaims February record peak. How the fundamentals and technicals look now vs. then - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/28/stock-market-reclaims-february-record-peak-how-the-fundamentals-and-technicals-look-now-vs-then.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108164895-1750984378779-gettyimages-2221365172-US_STOCKS.jpeg?v=1751112674&w=1920&h=1080",
+      "summary": "Stock market reclaims February record peak. How the fundamentals and technicals look now vs. then Trump’s ‘big, beautiful bill’ clears key Senate hurdle after high drama Elon Musk rips into ‘utterly insane’ Trump-backed megabill I’m 79 years old and the ‘father of functional medicine’: My daily routine for a healthy life How China could shut down auto factories around the...",
+      "published": "Sat, 28 Jun 2025 13:00:09 GMT"
     },
     {
       "id": "181dcdc0f0c71084b7b8c52455597e9b",
@@ -24,24 +33,6 @@
       "published": "Sat, 28 Jun 2025 21:04:00 GMT"
     },
     {
-      "id": "482a4946dfc24804affd047d69b9506b",
-      "title": "Elon Musk’s early birthday present to himself—the first Tesla just drove itself from its factory straight to the customer - Fortune",
-      "source": "Fortune",
-      "url": "https://fortune.com/2025/06/28/elon-musk-tesla-robotaxi-austin-first-driverless-delivery-from-factory-to-customer/",
-      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-2205605894-e1751130808288.jpg?resize=1200,600",
-      "summary": "Elon Musk’s early birthday present to himself—the first Tesla just drove itself from its factory straight to the customer Elon Musk, who turned 54 on Saturday, celebrated his birthday with another milestone in Tesla's self-driving program. In its second milestone in a week, Tesla arranged for a Model Y crossover to drive itself from its Texas factory to a customer...",
-      "published": "Sat, 28 Jun 2025 17:51:00 GMT"
-    },
-    {
-      "id": "d26a096049f023ab61019c92cf9acd28",
-      "title": "Traders bet on interest rate cuts from Jay Powell’s successor at the Fed - Financial Times",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5fc01ad9-233b-45f2-9271-806f7cdf6390",
-      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb2feb6ab-5d9f-4d3d-94a7-428fb3131b50.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Charts that Matter US interest rates Traders bet on interest rate cuts from Jay Powell’s successor at the Fed Donald Trump’s criticism of central bank chair has fuelled expectations of a dovish shift once he leaves in May next...",
-      "published": "Sat, 28 Jun 2025 12:00:06 GMT"
-    },
-    {
       "id": "9046cc5e8c431b8756e61c635554d231",
       "title": "J.M. Smucker plans to remove artificial colors from its jams and other products - NPR",
       "source": "NPR",
@@ -51,22 +42,40 @@
       "published": "Sat, 28 Jun 2025 16:45:35 GMT"
     },
     {
-      "id": "bd0bfb8cb98f488f4401e42b876ebf76",
-      "title": "S&P 500 squeaks out record high even as new trade tensions emerge with Canada - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2025/06/27/stock-market-record-tariffs-trump-trade/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A3FNNQOLTJWPQF64OVPZDCGTO4_size-normalized.jpg&w=1440",
-      "summary": "S&P 500 squeaks out record high even as new trade tensions emerge with Canada The tech-heavy Nasdaq also notched a record finish to help cap Wall Street’s comeback from the tariff-fueled lows of April. Trader Michael Capolino works on the floor of the New York Stock Exchange on Friday. (Richard Drew/AP) By Margot Amouyal and Taylor Telford U. S. stocks...",
-      "published": "Sat, 28 Jun 2025 03:04:29 GMT"
+      "id": "5b4367b70466b9b82e9e9c6602348d43",
+      "title": "A shadow Fed chief could lead to a 'revolt' on the FOMC against Powell's successor, former vice chair warns - Fortune",
+      "source": "Fortune",
+      "url": "https://fortune.com/2025/06/28/shadow-fed-chair-backfire-fomc-revolt-trump-jerome-powell/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-2209986280.jpg?resize=1200,600",
+      "summary": "A shadow Fed chief could lead to a ‘revolt’ on the FOMC against Powell’s successor, former vice chair warns Federal Reserve Chair Jerome Powell at the Economic Club of Chicago on April 16. Former Federal Reserve Vice Chair Alan Blinder said naming a so-called shadow Fed chief well before Jerome Powell’s term is up would sow confusion in financial markets...",
+      "published": "Sat, 28 Jun 2025 22:33:00 GMT"
     },
     {
-      "id": "7d015a803ef2e5aaaccd012565e2b7cd",
-      "title": "Hundreds of flights cancelled, more expected as Atlanta airport recovers from severe weather amid holiday travel rush - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/28/us/atlanta-airport-flight-cancellations-storm",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21742474-13121-464-still.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Hundreds of flights cancelled, more expected as Atlanta airport recovers from severe weather amid holiday travel rush A lightning strike is seen from Atlanta’s Hartsfield-Jackson International Airport on Friday. Nick Brown Hundreds of flights have been canceled at Atlanta’s Hartsfield-Jackson International Airport – the busiest airport in the world – after a severe storm overnight, just as a busy travel...",
-      "published": "Sat, 28 Jun 2025 18:00:00 GMT"
+      "id": "845006c029213ff9a094ab28e0ba9e12",
+      "title": "Delta focused on customer care, operational recovery following ATL storms - Delta News Hub",
+      "source": "Delta News Hub",
+      "url": "https://news.delta.com/delta-focused-customer-care-operational-recovery-following-atl-storms",
+      "image_url": "https://news.delta.com/sites/default/files/styles/twitter_share_1200/public/2025-01/20191207_dl_acexterior_764-1226-1.jpg?itok=H6uOEEss",
+      "summary": "Delta focused on customer care, operational recovery following ATL storms STAFF WRITER Jun 28, 2025 4:59pm The Delta team is working to safely restore operations and assist customers impacted by the severe storms at our Atlanta hub Friday night. We thank our customers for their continued patience and understanding. The storm resulted in hundreds of system cancellations across the system...",
+      "published": "Sat, 28 Jun 2025 20:23:13 GMT"
+    },
+    {
+      "id": "35db56069fc150da4a5223cce599c790",
+      "title": "Mega Millions Jackpot Won in Virginia - Mega Millions",
+      "source": "Mega Millions",
+      "url": "https://www.megamillions.com/News/2025/Mega-Millions-Jackpot-Won-in-Virginia.aspx",
+      "image_url": "https://www.megamillions.com/GLC-Megamillions/media/images/logos/logo_MM_233x110.png",
+      "summary": "Latest Winning Numbers: Friday, 6/27/2025 Cash Option: $22. 4 Million Next Drawing Home  /  News Releases  /  2025  /  Mega Millions Jackpot Won in Virginia Mega Millions Jackpot Won in Virginia At the halfway point in 2025, Mega Millions® has its fourth jackpot win of the year! A single ticket sold in Virginia matched all six numbers drawn June 27...",
+      "published": "Sat, 28 Jun 2025 06:37:49 GMT"
+    },
+    {
+      "id": "7b4ff1528b701b829002de9aa25e0519",
+      "title": "Trump vows to replace Powell with a Fed chair who’s all-in on interest rate cuts - Cryptopolitan",
+      "source": "Cryptopolitan",
+      "url": "https://www.cryptopolitan.com/trump-vows-to-replace-powell-with-fed-chair/",
+      "image_url": "https://www.cryptopolitan.com/wp-content/uploads/2025/06/Trump-Says-Hell-Pick-a-Fed-Chair-Who-Wants-to-Cut-Rates.webp",
+      "summary": "FREE REPORT: A New Way to Earn Passive Income in 2025 DOWNLOAD Home » News » Economy » Trump vows to replace Powell with a Fed chair who’s all-in on interest rate cuts Trump vows to replace Powell with a Fed chair who’s all-in on interest rate cuts Updated: June 28 2025 9:44 AM UTC 1. Trump pushes for 2.",
+      "published": "Sat, 28 Jun 2025 09:44:00 GMT"
     },
     {
       "id": "bdc143c35db42226e7d641e168434ad0",
@@ -76,24 +85,6 @@
       "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-2214747282-e1751136027669.jpg?resize=1200,600",
       "summary": "Falling home prices are raising the risk of a deeper correction as the housing market cracks under high mortgage rates A for sale sign sits in front of a home in Miami on May 12. Recent housing market indicators show persistent weakness in home prices, including consecutive month-over-month declines. That’s as housing supply has increased while demand has stayed tepid...",
       "published": "Sat, 28 Jun 2025 19:45:00 GMT"
-    },
-    {
-      "id": "74a890a50d4c1b9dec0cde6494c723b1",
-      "title": "Jeff Bezos and Lauren Sánchez are one of the richest married couples. Here's how the ultrawealthy do prenups. - Business Insider",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/ultrawealthy-prenups-jeff-bezos-lauren-sanchez-wedding-2025-6",
-      "image_url": "https://i.insider.com/68605839f748d8c055f49a62?width=1080&format=jpeg",
-      "summary": "Jeff Bezos and Lauren Sánchez are one of the richest married couples. Here's how the ultrawealthy do prenups. By Sarah Jackson and Alice Tecotzky @laurensanchezbezos via Instagram/via REUTERS . save-icon-fill { display: none; } . save-icon.is-active . save-icon-fill, . save-icon-fill. is-active { display: block; fill: currentColor; } With Jeff Bezos and Lauren Sánchez now married, they're likely to have a...",
-      "published": "Sat, 28 Jun 2025 08:33:00 GMT"
-    },
-    {
-      "id": "cc35b75ebd1cc087c39bf4ca545c7da7",
-      "title": "The $5 trillion company: Wall Street got more bullish on tech stocks this week - MarketWatch",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-5-trillion-company-wall-street-gets-bullish-on-tech-stocks-this-week-8330ee26",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Fri, 27 Jun 2025 18:17:00 GMT"
     }
   ]
 }
