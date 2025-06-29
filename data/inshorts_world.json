@@ -1,27 +1,45 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-29 13:22:57",
+    "generation_time": "2025-06-29 19:19:54",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "814baa7207779dd414bd656402f91234",
-      "title": "Russia hits Ukraine with biggest attack of the war; F-16 pilot is killed - politico.eu",
-      "source": "politico.eu",
-      "url": "https://www.politico.eu/article/russia-ukraine-biggest-attack-war-f16-pilot-kill/",
-      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/29/13146445-scaled.jpg",
-      "summary": "Russia hits Ukraine with biggest attack of the war; F-16 pilot is killed",
-      "published": "Sun, 29 Jun 2025 10:09:00 GMT"
+      "id": "f44157f9a593a1c69d6252480bae442d",
+      "title": "Ukraine F-16 pilot killed in large-scale Russian attack, Zelenskiy calls for US help - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/least-six-wounded-large-scale-russian-air-attack-ukraine-ukrainian-authorities-2025-06-29/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sun, 29 Jun 2025 11:42:44 GMT"
     },
     {
-      "id": "243284170d4bc02ebf1052e3b5af10a0",
-      "title": "Israel’s Military Appears Poised to Expand into Gaza City Amid Cease-Fire Calls - The New York Times",
+      "id": "a73764511e335af53db3eddca06b2852",
+      "title": "Alone in Tehran, a young Iranian turns to ChatGPT and video games for comfort - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/29/nx-s1-5449064/iran-israel-war-ai-chatgpt",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x1800+0+166/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F80%2Fbb%2F8b66441848b1858ae79493b3b6ee%2Fgettyimages-2219731254.jpg",
+      "summary": "Alone in Tehran, a young Iranian turns to ChatGPT and video games for comfort Smoke billows from an explosion at the Islamic Republic of Iran Broadcasting (IRIB) building in Tehran after an Israeli strike hit the building, cutting off live coverage, on June 16. AMMAN, Jordan — Roxana, a young shop manager living alone in Tehran, was panicking during the...",
+      "published": "Sun, 29 Jun 2025 13:47:22 GMT"
+    },
+    {
+      "id": "4972c6dcdd2f83146db6bc9690adda0a",
+      "title": "Israel’s Military Appears Poised to Expand Into Gaza City Amid Cease-Fire Calls - The New York Times",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2025/06/29/world/middleeast/gaza-israel.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 11:47:28 GMT"
+      "published": "Sun, 29 Jun 2025 10:56:21 GMT"
+    },
+    {
+      "id": "cb4d0a39a6b93bbab28a5dd493d6863a",
+      "title": "Serbian police clash with anti-government protesters in Belgrade - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/serbian-police-clash-anti-government-protest-belgrade-aleksandar-vucic/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/29/13155819-scaled.jpg",
+      "summary": "Serbian police clash with anti-government protesters in Belgrade",
+      "published": "Sun, 29 Jun 2025 12:33:00 GMT"
     },
     {
       "id": "2437c1641cd1793cddffef8da9e279e3",
@@ -33,13 +51,22 @@
       "published": "Sun, 29 Jun 2025 09:13:09 GMT"
     },
     {
-      "id": "6e097de3c3b21a91216c2b0d297ae8cc",
-      "title": "Ukraine pilot killed, F-16 fighter jet lost, Ukrainian military says - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukraine-pilot-killed-f-16-fighter-jet-lost-ukrainian-military-says-2025-06-29/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 06:02:00 GMT"
+      "id": "6a716b3c2bfb2b8610d2d4f13af1376e",
+      "title": "Extreme heat grips southern Europe as temperatures surpass 100 degrees - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/climate-environment/2025/06/29/southern-europe-heat-wave-2025/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FWKHX5SCE5NMFHRQ4SIA2VGYB4_size-normalized.jpg&w=1440",
+      "summary": "Extreme heat grips southern Europe as temperatures surpass 100 degrees Portugal is expected to see highs of up to 109 degrees Fahrenheit. Parts of Spain, France, Italy and Greece are also bracing for extreme heat. Water fountains in the Parque Madrid Rio offer respite amid sweltering temperatures on Saturday during the first heat wave of the summer in Madrid. (Thomas...",
+      "published": "Sun, 29 Jun 2025 15:49:14 GMT"
+    },
+    {
+      "id": "53468e46c4eb8e402f797729aa97dc92",
+      "title": "Deadline nears for Taiwan's Chinese immigrants to prove no China household registration - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/29/g-s1-73842/taiwan-china-immigrants-household-registration",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+378/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2F6d%2Fed6604e2425f8e7500572e0a011d%2Fchang-2.jpeg",
+      "summary": "Deadline nears for Taiwan's Chinese immigrants to prove no China household registration Chang Chih-yuan as a child, with his mother and Taiwanese father, when they were still living in China. TAIPEI, Taiwan — The clock is ticking for roughly 12,000 Chinese immigrants in Taiwan, who have until Monday to prove they've given up their household registration in China. Failure to...",
+      "published": "Sun, 29 Jun 2025 13:36:12 GMT"
     },
     {
       "id": "37554d6213bc7f1d32133e25baa4a3a2",
@@ -51,49 +78,13 @@
       "published": "Sun, 29 Jun 2025 06:18:07 GMT"
     },
     {
-      "id": "b20c310c0f4068b2aee2f5d01e02dc12",
-      "title": "Iran emerged weakened and vulnerable after war with Israel − and that could mean trouble for country’s ethnic minorities - The Conversation",
-      "source": "The Conversation",
-      "url": "https://theconversation.com/iran-emerged-weakened-and-vulnerable-after-war-with-israel-and-that-could-mean-trouble-for-countrys-ethnic-minorities-259753",
-      "image_url": "https://images.theconversation.com/files/677066/original/file-20250627-56-pdwf1y.jpg?ixlib=rb-4.1.0&rect=0%2C1324%2C7624%2C3812&q=45&auto=format&w=1356&h=668&fit=crop",
-      "summary": "Iranians celebrate the ceasefire in downtown Tehran, but many blame their own leaders for the escalation. Morteza Nikoubazl/NurPhoto via Getty Images Iran emerged weakened and vulnerable after war with Israel − and that could mean trouble for country’s ethnic minorities Published: June 28, 2025 8:09am EDT Ph. D. Student of Planning, Governance and Globalization, Virginia Tech Shukriya Bradost does not...",
-      "published": "Sat, 28 Jun 2025 12:09:48 GMT"
-    },
-    {
-      "id": "85ccd29252dbc55feb98eff5e1361cbb",
-      "title": "Ancient city possibly ruled by females living in a \"matriarchal society\" more than 9,000 years ago, researchers say - CBS News",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/ancient-city-ruled-by-females-catalhoyuk/",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/28/f93069ef-f91a-4ecf-bec3-a5d32c061854/thumbnail/1200x630/ca4db01bd0de94d0323a49b0f2e8e1c3/gettyimages-2052270519.jpg",
-      "summary": "Ancient city possibly ruled by females living in a \"matriarchal society\" more than 9,000 years ago, researchers say June 28, 2025 / 4:26 PM EDT / CBS News An ancient city was most likely ruled by females living in a \"matriarchal society\" more than 9,000 years ago, according to a study published in Science this week. Researchers extracted the ancient...",
-      "published": "Sat, 28 Jun 2025 20:26:47 GMT"
-    },
-    {
-      "id": "e55ed2d9b19ed6bbd0b0574c299ccf0a",
-      "title": "Northern Irish rap group Kneecap plays Glastonbury despite controversy - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/29/nx-s1-5450122/irish-rap-group-kneecap-glastonbury",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7165x4030+0+373/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2F4c%2F23b998b14263a8082d953d2624b8%2Fap25179578402755.jpg",
-      "summary": "Northern Irish rap group Kneecap plays Glastonbury despite controversy J. J. O Dochartaigh from the hip hop trio Kneecap performs during the Glastonbury Festival in Worthy Farm, Somerset, England, Saturday, June 28, 2025. PILTON, England — Irish-language rap group Kneecap gave an impassioned performance for tens of thousands of fans on Saturday at the Glastonbury Festival despite criticism by British...",
-      "published": "Sun, 29 Jun 2025 06:39:27 GMT"
-    },
-    {
-      "id": "5a8286c50b68391ee8cd8cf753bb6087",
-      "title": "Iran’s judiciary says at least 71 killed in Israel’s attack on Tehran’s notorious Evin prison - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/israel-iran-war-nuclear-06-29-2025-da0d0f6e1a9bf89a30a2589e73cff2ad",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Sun, 29 Jun 2025 08:18:00 GMT"
-    },
-    {
-      "id": "6a716b3c2bfb2b8610d2d4f13af1376e",
-      "title": "Extreme heat grips southern Europe as temperatures surpass 100 degrees - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdnBTTzgydWFsbF9aWG8wQkFTWVJCbEI0ZHlzMFRJUjVIYnVDbF9EZ01KcV9JSF96QnVrUW1pLU5XaHVaQ2VaOTR1dW1YTWFfbVRzOUhxRmtxM3Z5NlFFZjdtTWR0Y19IX185WS1aUUEycVp1b3hMaXBPX2J6dVY2enZBTUNfQUhNSzdCTFd3aHhZeDdLaC1CZQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "id": "5a079e26978235856f1a363217186a74",
+      "title": "Glastonbury ‘Appalled’ by Bob Vylan’s Chant Against Israel’s Military - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/29/world/europe/bob-vylan-idf-palestine-glastonbury.html",
+      "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 12:24:56 GMT"
+      "published": "Sun, 29 Jun 2025 16:25:15 GMT"
     },
     {
       "id": "dc493a655acf579cfb87e712b1321fd6",
@@ -105,31 +96,22 @@
       "published": "Sun, 29 Jun 2025 07:51:01 GMT"
     },
     {
-      "id": "456350a038d42b0ed41278a07d761ac5",
-      "title": "Serbia: Police clash with anti-government demonstrators - dw.com",
-      "source": "dw.com",
-      "url": "https://www.dw.com/en/serbia-police-clash-with-anti-government-demonstrators/a-73080472",
-      "image_url": "https://static.dw.com/image/73081078_6.jpg",
-      "summary": "DW uses cookies and similar technologies to measure usage, display personalized advertising and share personal data and information with up to 186 third parties. You decide for yourself whether you agree to this use of your data. You can adjust individual details under “Settings” and change them at any time. You can view all of DW's content without agreeing. Social...",
-      "published": "Sun, 29 Jun 2025 04:46:43 GMT"
+      "id": "65a10d4a81fade630cb1ab40bf223b69",
+      "title": "How Biden Is to Blame for Israel and the U.S.’s 12-Day War Against Iran - The Intercept",
+      "source": "The Intercept",
+      "url": "https://theintercept.com/2025/06/29/biden-iran-nuclear-deal-israel/",
+      "image_url": "https://theintercept.com/wp-content/uploads/2025/06/GettyImages-2162795900-e1751048334643.jpg?fit=6000%2C3000&w=1200&h=800",
+      "summary": "How Biden Is to Blame for Israel and the U. S.’s 12-Day War Against Iran Biden’s failure to reenter Obama’s nuclear deal helped create the risk for a potentially catastrophic U. S. war against Iran. President Joe Biden meets with Israeli Prime Minister Benjamin Netanyahu at the White House on July 25, 2024, in Washington. Photo: Andrew Harnik/Getty Images ALMOST...",
+      "published": "Sun, 29 Jun 2025 09:00:00 GMT"
     },
     {
-      "id": "7938206558a859281c094bb068d81e27",
-      "title": "Israel, UK officials slam BBC over 'Death to IDF' chant at Glastonbury Festival - The Jerusalem Post",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-859304",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/670225",
-      "summary": "Jerusalem Post/Diaspora/Antisemitism Israel, UK officials slam BBC over 'Death to IDF' chant at Glastonbury Festival British rapper Bob Vylan took to the stage and repeated the chant during his set, while voicing support for Kneecap. Revellers with Palestinian and other flags gather as Kneecap performs at Glastonbury Festival at Worthy Farm in Pilton, Somerset, Britain, June 28, 2025. (photo credit:...",
-      "published": "Sat, 28 Jun 2025 22:38:06 GMT"
-    },
-    {
-      "id": "95678aacbf6fcdc7d1b6572dbc5c3466",
-      "title": "Iran holds funeral procession for top commanders killed in Israeli strikes - Financial Times",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/2937ebc0-fb72-4660-a8a5-ed1e70bac659",
-      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0c8e7346-26e1-4741-8e67-991c841ab5dd.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Iran holds funeral procession for top commanders killed in Israeli strikes Mourners take to Tehran streets but supreme leader Ayatollah Ali Khamenei does not attend traditional prayers The crowd marches behind vehicles carrying the caskets of 60 people Iran...",
-      "published": "Sat, 28 Jun 2025 09:55:12 GMT"
+      "id": "5a8286c50b68391ee8cd8cf753bb6087",
+      "title": "Iran’s judiciary says at least 71 killed in Israel’s attack on Tehran’s notorious Evin prison - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/israel-iran-war-nuclear-06-29-2025-da0d0f6e1a9bf89a30a2589e73cff2ad",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sun, 29 Jun 2025 13:33:00 GMT"
     },
     {
       "id": "d9a6d3537221cb86d969815456b25dce",
@@ -141,13 +123,40 @@
       "published": "Sat, 28 Jun 2025 09:00:00 GMT"
     },
     {
-      "id": "16a7b657da55a4721632413e0db35558",
-      "title": "Top Ukrainian commander sees new assault on key eastern city - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/top-ukrainian-commander-sees-new-assault-key-eastern-city-2025-06-28/",
+      "id": "36d4881fc7cbb49aff0b29cebf7328ff",
+      "title": "Kneecap Curse Out Prime Minister In Controversial Glastonbury Set - Stereogum",
+      "source": "Stereogum",
+      "url": "https://www.stereogum.com/2313513/kneecap-curse-out-prime-minister-in-controversial-glastonbury-set/news/",
       "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 19:17:42 GMT"
+      "summary": "The request could not be satisfied. Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner. If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this...",
+      "published": "Sat, 28 Jun 2025 19:55:06 GMT"
+    },
+    {
+      "id": "95678aacbf6fcdc7d1b6572dbc5c3466",
+      "title": "Iran holds funeral procession for top commanders killed in Israeli strikes - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2937ebc0-fb72-4660-a8a5-ed1e70bac659",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0c8e7346-26e1-4741-8e67-991c841ab5dd.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Iran holds funeral procession for top commanders killed in Israeli strikes Mourners take to Tehran streets but supreme leader Ayatollah Ali Khamenei does not attend traditional prayers The crowd marches behind vehicles carrying the caskets of 60 people ©...",
+      "published": "Sat, 28 Jun 2025 09:55:12 GMT"
+    },
+    {
+      "id": "83afa00570ea9515026654f43614423b",
+      "title": "France to ban smoking in public places to protect children - Euronews.com",
+      "source": "Euronews.com",
+      "url": "https://www.euronews.com/health/2025/06/28/france-to-ban-smoking-in-schools-parks-beaches-to-protect-children",
+      "image_url": "https://static.euronews.com/articles/stories/09/34/79/45/1200x675_cmsv2_11e10504-5480-5581-867f-124401efaced-9347945.jpg",
+      "summary": "With your agreement, we and our 190 partners use cookies or similar technologies to store, access, and process personal data like your visit on this website, IP addresses and cookie identifiers. Some partners do not ask for your consent to process your data and rely on their legitimate business interest. You can withdraw your consent or object to data processing...",
+      "published": "Sat, 28 Jun 2025 14:20:20 GMT"
+    },
+    {
+      "id": "8188ff8c551793224a34970e44fdb1ed",
+      "title": "GHF boss defends Gaza aid operation after hundreds of Palestinians killed near sites - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c20rz63g1zko",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/84d1/live/1eed42b0-5375-11f0-9fdf-1397077316aa.jpg",
+      "summary": "GHF boss defends Gaza aid operation after hundreds of Palestinians killed near sites A Palestinian man carrying a sack of aid in Khan Younis last month The head of a controversial US and Israeli-backed aid group has defended its work after repeated incidents of killings and injuries of Palestinians seeking aid. Gaza Humanitarian Foundation (GHF) boss Johnnie Moore told the...",
+      "published": "Fri, 27 Jun 2025 21:29:43 GMT"
     },
     {
       "id": "355618db364ce4057f9812cb7186f99c",
@@ -159,31 +168,22 @@
       "published": "Fri, 27 Jun 2025 22:42:11 GMT"
     },
     {
-      "id": "9954cc60c3293ee3e46c1bf38f42c439",
-      "title": "Israeli Soldiers Killed at Least 410 People at Food Aid Sites in Gaza This Month - The Intercept",
-      "source": "The Intercept",
-      "url": "https://theintercept.com/2025/06/27/israel-killed-palestinians-food-aid-gaza/",
-      "image_url": "https://theintercept.com/wp-content/uploads/2025/06/GettyImages-2221457165-e1750970502312.jpeg?fit=6240%2C3120&w=1200&h=800",
-      "summary": "Israeli soldiers and officers have said they were ordered to shoot at unarmed civilians waiting for food in Gaza. A man carries a flour sack from the World Health Organization warehouse, in Gaza City, Gaza, on June 26, 2025. Photo: Saeed M. M. T. Jaras/Anadolu/Getty Images THE ISRAELI MILITARY has killed at least 410 people trying to get food at...",
-      "published": "Fri, 27 Jun 2025 14:05:40 GMT"
+      "id": "16a7b657da55a4721632413e0db35558",
+      "title": "Top Ukrainian commander sees new assault on key eastern city - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/top-ukrainian-commander-sees-new-assault-key-eastern-city-2025-06-28/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sat, 28 Jun 2025 19:17:42 GMT"
     },
     {
-      "id": "c565b80568cb131d91e5810fb69ae23f",
-      "title": "Israel strikes Lebanon in one of biggest attacks since November ceasefire - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/06/27/israel-lebanon-strike/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-27-2025/t_d96690ae703c420ab3c5dffd969e7020_name_1___1920x1080___30p_00_00_40_11_Still014.jpg&w=1440",
-      "summary": "Israel strikes Lebanon in one of biggest attacks since November ceasefire One person died and 21 others were injured, Lebanon’s Health Ministry said. Israel said it was targeting an underground Hezbollah site. Plumes of smoke filled the air in southern Lebanon’s Nabatieh district on June 27 after a series of Israeli airstrikes. (Video: Reuters) By Rachel Chason, Suzan Haidamous, Mohamad...",
-      "published": "Sat, 28 Jun 2025 02:37:26 GMT"
-    },
-    {
-      "id": "83afa00570ea9515026654f43614423b",
-      "title": "France to ban smoking in public places to protect children - Euronews.com",
-      "source": "Euronews.com",
-      "url": "https://www.euronews.com/health/2025/06/28/france-to-ban-smoking-in-schools-parks-beaches-to-protect-children",
-      "image_url": "https://static.euronews.com/articles/stories/09/34/79/45/1200x675_cmsv2_11e10504-5480-5581-867f-124401efaced-9347945.jpg",
-      "summary": "With your agreement, we and our 190 partners use cookies or similar technologies to store, access, and process personal data like your visit on this website, IP addresses and cookie identifiers. Some partners do not ask for your consent to process your data and rely on their legitimate business interest. You can withdraw your consent or object to data processing...",
-      "published": "Sat, 28 Jun 2025 14:20:20 GMT"
+      "id": "eb5f0043508355e39cd6f5f163ff259d",
+      "title": "Heavy rain hits China's flood-stricken Guizhou for second time in a week - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/climate-energy/heavy-rain-hits-chinas-flood-stricken-guizhou-second-time-week-2025-06-28/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sat, 28 Jun 2025 10:41:18 GMT"
     }
   ]
 }
