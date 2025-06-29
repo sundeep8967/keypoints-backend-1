@@ -1,72 +1,54 @@
 {
   "metadata": {
     "source_file": "data/news_business.json",
-    "generation_time": "2025-06-28 19:23:14",
-    "total_articles": 20
+    "generation_time": "2025-06-29 03:46:16",
+    "total_articles": 10
   },
   "articles": [
     {
-      "id": "603e9614196b015240a801026bab7a85",
-      "title": "Jeff Bezos and Lauren Sanchez wedding leaves Venice divided - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5ylk5nznkyo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/cd7e/live/c8289780-5447-11f0-8485-7bd50fa63665.jpg",
-      "summary": "Venice divided as lavish Bezos wedding brings glamour and protests",
-      "published": "Sat, 28 Jun 2025 17:04:59 GMT"
+      "id": "a8355936a14b45f1426543945a876a36",
+      "title": "Final party set to end Bezos-Sánchez wedding extravaganza in Venice - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2025/jun/28/final-party-set-to-end-bezos-sanchez-wedding-extravaganza-in-venice",
+      "image_url": "https://i.guim.co.uk/img/media/7e854cfc6701670d19ab71188e4af0875d94179e/0_0_2676_2141/master/2676.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b65dea3f975a8a6de8f4ff99a0190ee",
+      "summary": "Fund the free press with $15 per month Newlyweds Amazon founder Jeff Bezos and journalist Lauren Sánchez leaving their luxury hotel on Venice’s Grand canal on Saturday. Photograph: Daniel Dal Zennaro/EPA Final party set to end Bezos-Sánchez wedding extravaganza in Venice Saturday evening’s bash set to take place in Arsenale, a former medieval shipyard in eastern district of city Last...",
+      "published": "Sat, 28 Jun 2025 22:53:00 GMT"
     },
     {
-      "id": "35db56069fc150da4a5223cce599c790",
-      "title": "Mega Millions Jackpot Won in Virginia - Mega Millions",
-      "source": "Mega Millions",
-      "url": "https://www.megamillions.com/News/2025/Mega-Millions-Jackpot-Won-in-Virginia.aspx",
-      "image_url": "https://www.megamillions.com/GLC-Megamillions/media/images/logos/logo_MM_233x110.png",
-      "summary": "Latest Winning Numbers: Friday, 6/27/2025 Cash Option: $22. 4 Million Next Drawing Home  /  News Releases  /  2025  /  Mega Millions Jackpot Won in Virginia Mega Millions Jackpot Won in Virginia At the halfway point in 2025, Mega Millions® has its fourth jackpot win of the year! A single ticket sold in Virginia matched all six numbers drawn June 27...",
-      "published": "Sat, 28 Jun 2025 06:37:49 GMT"
-    },
-    {
-      "id": "04c6b06d23cd29ecac0e1ce50767b8f9",
-      "title": "Tesla says it delivered its first car autonomously from factory to customer - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/694801/tesla-autonomous-delivery-factory-customer-robotaxi",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK086_TeslaB.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "Tesla says it delivered its first car autonomously from factory to customerThe milestone was achieved a day early. But Tesla’s robotaxis still require safety monitors and remote supervisors. Updated Jun 28, 2025, 6:22 PM UTC Andrew J. Hawkins is transportation editor with 10+ years of experience who covers EVs, public transportation, and aviation. His work has appeared in The New...",
-      "published": "Sat, 28 Jun 2025 13:51:44 GMT"
-    },
-    {
-      "id": "a2c783c17331759bb35b7d2b8748d9c0",
-      "title": "Big banks all pass the Federal Reserve's stress tests, but the tests were less vigorous this year - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/06/27/big-banks-all-pass-less-vigorous-federal-reserves-stress-tests.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108161300-17502747412025-06-18t184645z_86208532_rc265fafhr3s_rtrmadp_0_usa-economy-fed.jpeg?v=1750274806&w=1920&h=1080",
-      "summary": "Big banks all pass the Federal Reserve’s stress tests, but the tests were less vigorous this year U. S. Federal Reserve Chair Jerome Powell attends a press conference following the issuance of the Federal Open Market Committee’s statement on interest rate policy in Washington, D. C., U.S., June 18, 2025. All the major banks passed the Federal Reserve’s annual “stress...",
-      "published": "Fri, 27 Jun 2025 22:20:18 GMT"
-    },
-    {
-      "id": "c0c464bf6f9fffef56a1a8bcb4d12b03",
-      "title": "Donald Trump says he will only pick Fed chair who cuts interest rates - Financial Times",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c6127c95-4b28-4777-aa6b-77bd28c9e5e9",
-      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc27fa424-5722-4773-8867-d6e401e4d9df.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Donald Trump says he will only pick Fed chair who cuts interest rates US president renews attack on Jay Powell and says borrowing costs should fall to 1% Donald Trump: ‘Whoever’s in there will cut rates’ © AFP/Getty Images...",
-      "published": "Fri, 27 Jun 2025 22:01:47 GMT"
-    },
-    {
-      "id": "843cabab7f1675f0c79693ecee2edfdf",
-      "title": "J.M. Smucker plans to remove artificial colors from its jams and other products by the end of 2027 - AP News",
+      "id": "181dcdc0f0c71084b7b8c52455597e9b",
+      "title": "Warren Buffett announces $6 billion in donations to five foundations - AP News",
       "source": "AP News",
-      "url": "https://apnews.com/article/smucker-artificial-colors-dyes-78f423dd67d2072682851b6edc08b410",
+      "url": "https://apnews.com/article/warren-buffett-donation-charity-gates-foundation-e0d89b0cb2ce6cf8d41547b080d062e6",
       "image_url": "https://apnews.com/favicon.ico",
       "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Fri, 27 Jun 2025 19:40:00 GMT"
+      "published": "Sat, 28 Jun 2025 21:04:00 GMT"
     },
     {
-      "id": "7fbaf14eed0c978987dfff3009eb1c99",
-      "title": "Five Risks for Stocks That Cloud the Outlook for the Second Half - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-28/five-risks-for-stocks-that-cloud-the-outlook-for-the-second-half",
-      "image_url": null,
-      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
-      "published": "Sat, 28 Jun 2025 08:01:29 GMT"
+      "id": "482a4946dfc24804affd047d69b9506b",
+      "title": "Elon Musk’s early birthday present to himself—the first Tesla just drove itself from its factory straight to the customer - Fortune",
+      "source": "Fortune",
+      "url": "https://fortune.com/2025/06/28/elon-musk-tesla-robotaxi-austin-first-driverless-delivery-from-factory-to-customer/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-2205605894-e1751130808288.jpg?resize=1200,600",
+      "summary": "Elon Musk’s early birthday present to himself—the first Tesla just drove itself from its factory straight to the customer Elon Musk, who turned 54 on Saturday, celebrated his birthday with another milestone in Tesla's self-driving program. In its second milestone in a week, Tesla arranged for a Model Y crossover to drive itself from its Texas factory to a customer...",
+      "published": "Sat, 28 Jun 2025 17:51:00 GMT"
+    },
+    {
+      "id": "d26a096049f023ab61019c92cf9acd28",
+      "title": "Traders bet on interest rate cuts from Jay Powell’s successor at the Fed - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5fc01ad9-233b-45f2-9271-806f7cdf6390",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb2feb6ab-5d9f-4d3d-94a7-428fb3131b50.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Charts that Matter US interest rates Traders bet on interest rate cuts from Jay Powell’s successor at the Fed Donald Trump’s criticism of central bank chair has fuelled expectations of a dovish shift once he leaves in May next...",
+      "published": "Sat, 28 Jun 2025 12:00:06 GMT"
+    },
+    {
+      "id": "9046cc5e8c431b8756e61c635554d231",
+      "title": "J.M. Smucker plans to remove artificial colors from its jams and other products - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/28/nx-s1-5449648/j-m-smucker-plans-to-remove-artificial-colors-from-its-jams-and-other-products",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3159+0+585/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2F32%2Fef59fd8c41edb1fc34dc6f78d450%2Fap25178692785023.jpg",
+      "summary": "J.M. Smucker plans to remove artificial colors from its jams and other products A jar of Smucker's preserves is displayed on Aug. 16, 2010, in Philadelphia. J.M. Smucker Co. plans to remove artificial colors from its products by the end of 2027. Orrville, Ohio-based Smucker said Thursday it will also remove synthetic dyes from foods sold to K-12 schools by...",
+      "published": "Sat, 28 Jun 2025 16:45:35 GMT"
     },
     {
       "id": "bd0bfb8cb98f488f4401e42b876ebf76",
@@ -78,67 +60,31 @@
       "published": "Sat, 28 Jun 2025 03:04:29 GMT"
     },
     {
-      "id": "e49414586f2f16e7b5a21454e92388e0",
-      "title": "Nvidia Stock Chasing 5-Day Winning Streak. The AI Trade Is Back. - Barron's",
-      "source": "Barron's",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-trade-d6db45b7",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Fri, 27 Jun 2025 13:42:00 GMT"
+      "id": "7d015a803ef2e5aaaccd012565e2b7cd",
+      "title": "Hundreds of flights cancelled, more expected as Atlanta airport recovers from severe weather amid holiday travel rush - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/28/us/atlanta-airport-flight-cancellations-storm",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21742474-13121-464-still.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Hundreds of flights cancelled, more expected as Atlanta airport recovers from severe weather amid holiday travel rush A lightning strike is seen from Atlanta’s Hartsfield-Jackson International Airport on Friday. Nick Brown Hundreds of flights have been canceled at Atlanta’s Hartsfield-Jackson International Airport – the busiest airport in the world – after a severe storm overnight, just as a busy travel...",
+      "published": "Sat, 28 Jun 2025 18:00:00 GMT"
     },
     {
-      "id": "ed089650d16555f6ea6d1bd18f6fabf6",
-      "title": "FBI, cybersecurity firms say a prolific hacking crew is now targeting airlines and the transportation sector - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/06/28/fbi-cybersecurity-firms-say-scattered-spider-hackers-now-targeting-airlines-transportation-sector/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1177988041.jpg?resize=1200,800",
-      "summary": "FBI, cybersecurity firms say a prolific hacking crew is now targeting airlines and the transportation sector The FBI and cybersecurity firms are warning that the prolific hacking group known as Scattered Spider is now targeting airlines and the transportation sector. In a brief statement on Friday shared with TechCrunch, the FBI said it had “recently observed” cyberattacks resembling Scattered Spider...",
-      "published": "Sat, 28 Jun 2025 13:30:00 GMT"
+      "id": "bdc143c35db42226e7d641e168434ad0",
+      "title": "Falling home prices are raising the risk of a deeper correction as the housing market cracks under high mortgage rates - Fortune",
+      "source": "Fortune",
+      "url": "https://fortune.com/2025/06/28/home-prices-outlook-housing-market-correction-mortgage-rates/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-2214747282-e1751136027669.jpg?resize=1200,600",
+      "summary": "Falling home prices are raising the risk of a deeper correction as the housing market cracks under high mortgage rates A for sale sign sits in front of a home in Miami on May 12. Recent housing market indicators show persistent weakness in home prices, including consecutive month-over-month declines. That’s as housing supply has increased while demand has stayed tepid...",
+      "published": "Sat, 28 Jun 2025 19:45:00 GMT"
     },
     {
-      "id": "a2923a40bbba2c07be3681de967e4738",
-      "title": "Buffett Donates $6 Billion in Berkshire Stock to 5 Charities in Annual Gift - Barron's",
-      "source": "Barron's",
-      "url": "https://www.barrons.com/articles/warren-buffett-donates-berkshire-hathaway-stock-841fb72a",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 15:55:00 GMT"
-    },
-    {
-      "id": "841a401ed0f47074a095f69286aa94d3",
-      "title": "China's rare earths are flowing again, but not freely - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/chinas-rare-earths-are-flowing-again-not-freely-2025-06-27/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Fri, 27 Jun 2025 22:04:00 GMT"
-    },
-    {
-      "id": "425fe09028382823c880387770dcc512",
-      "title": "Hims & Hers’ ugly split with Wegovy maker weighs on the telehealth company’s future - Los Angeles Times",
-      "source": "Los Angeles Times",
-      "url": "https://www.latimes.com/business/story/2025-06-28/hims-hers-ugly-split-wegovy-maker-weighs-on-the-telehealth-companys-future",
-      "image_url": "https://ca-times.brightspotcdn.com/dims4/default/258f161/2147483647/strip/true/crop/4000x2100+0+283/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3b%2Ff0%2Ff15cd01841a299821b76d09ac798%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2198663519",
-      "summary": "Hims & Hers’ ugly split with Wegovy maker weighs on the telehealth company’s future Hims & Hers’ stock price has swung wildly this year. The telehealth company’s public feud with drugmaker Novo Nordisk knocked off a nearly a third of its valuation on Monday. On Friday, Hims & Hers’ share price rose nearly 7% to end the week at $49.",
-      "published": "Sat, 28 Jun 2025 10:00:00 GMT"
-    },
-    {
-      "id": "0c1888af0e686e8cb12419110dde2752",
-      "title": "Key Fed Inflation Rate Overshoots As Trump Eyes New Chair; S&P 500 Rises - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/economy/federal-reserve-pce-inflation-rate-may-trump-tariffs-sp-500/",
-      "image_url": "https://www.investors.com/wp-content/uploads/2019/03/IBD-logo-216x36.png",
-      "summary": "Access to this page has been denied because we believe you are using automation tools to browse the website. This may happen as a result of the following: Javascript is disabled or blocked by an extension (ad blockers for example) Your browser does not support cookies Please make sure that Javascript and cookies are enabled on your browser and that...",
-      "published": "Fri, 27 Jun 2025 19:52:00 GMT"
-    },
-    {
-      "id": "589320ea2a6bf0a87435bb7d8b8ffaed",
-      "title": "Trump Punts on Crypto Divestment, Says If US Didn't Have Bitcoin 'China Would' - Decrypt",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/327451/trump-punts-crypto-divestment-if-us-didnt-have-bitcoin-china-would",
-      "image_url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png",
-      "summary": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.",
-      "published": "Fri, 27 Jun 2025 17:36:42 GMT"
+      "id": "74a890a50d4c1b9dec0cde6494c723b1",
+      "title": "Jeff Bezos and Lauren Sánchez are one of the richest married couples. Here's how the ultrawealthy do prenups. - Business Insider",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/ultrawealthy-prenups-jeff-bezos-lauren-sanchez-wedding-2025-6",
+      "image_url": "https://i.insider.com/68605839f748d8c055f49a62?width=1080&format=jpeg",
+      "summary": "Jeff Bezos and Lauren Sánchez are one of the richest married couples. Here's how the ultrawealthy do prenups. By Sarah Jackson and Alice Tecotzky @laurensanchezbezos via Instagram/via REUTERS . save-icon-fill { display: none; } . save-icon.is-active . save-icon-fill, . save-icon-fill. is-active { display: block; fill: currentColor; } With Jeff Bezos and Lauren Sánchez now married, they're likely to have a...",
+      "published": "Sat, 28 Jun 2025 08:33:00 GMT"
     },
     {
       "id": "cc35b75ebd1cc087c39bf4ca545c7da7",
@@ -148,42 +94,6 @@
       "image_url": null,
       "summary": "No content available for summarization.",
       "published": "Fri, 27 Jun 2025 18:17:00 GMT"
-    },
-    {
-      "id": "306660a812724e49dc1fdd31e2aee14b",
-      "title": "Elon Musk's robotaxi has a serious problem - TheStreet",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/technology/elon-musks-robotaxi-has-a-serious-problem",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 12:33:00 GMT"
-    },
-    {
-      "id": "b0be3f3d5594d78f9eb2181314452d33",
-      "title": "Meta Hires Four More OpenAI Researchers - The Information",
-      "source": "The Information",
-      "url": "https://www.theinformation.com/articles/meta-hires-four-openai-researchers",
-      "image_url": "https://tii.imgix.net/production/articles/15316/d27c8849-86e3-45f9-bcd3-416bafaf2c3a.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "summary": "Breaking: Meta Hires Four More OpenAI Researchers Subscribe to read the full article Meta Hires Four More OpenAI Researchers Join high-powered tech and business leaders who read The Information every day. © 2013–2025 The Information. All Rights Reserved.",
-      "published": "Sat, 28 Jun 2025 16:49:00 GMT"
-    },
-    {
-      "id": "890723c5aefbc538bac641235c51c461",
-      "title": "Top Legitimate Direct Lenders for Payday Loans Online in 2025 - Newswire :) Press Release Distribution",
-      "source": "Newswire :) Press Release Distribution",
-      "url": "https://www.newswire.com/news/top-legitimate-direct-lenders-for-payday-loans-online-in-2025-22598582",
-      "image_url": "https://cdn.nwe.io/files/x/47/96/172e0b5468f57a0b945cfd9f5a8c.jpg",
-      "summary": "Top Legitimate Direct Lenders for Payday Loans Online in 2025 With inflation driving more Americans to seek short-term financial help, this 2025 report identifies trusted online payday loan direct lenders like Honest Loans - offering secure access, flexible terms, and fast approvals without hidden fees. PIGEON FORGE, Tenn. , June 27, 2025 (Newswire. com) - In America, an estimated 12...",
-      "published": "Fri, 27 Jun 2025 17:45:00 GMT"
-    },
-    {
-      "id": "327ceeeb37660f48d31b098302d50967",
-      "title": "Flooding impacting traffic along I-75 near Hartsfield-Jackson International Airport - WSB-TV",
-      "source": "WSB-TV",
-      "url": "https://www.wsbtv.com/news/local/atlanta/flooding-impacting-traffic-along-i-75-near-hartsfield-jackson-international-airport/GB7XU556H5ADZOLSAVFWHQG4KI/",
-      "image_url": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FQQIVP4GTSFEXNBR46NHRWYVF3I.jpeg?auth=f08eef3e5e9cc3993b79cfb574c84897e735911d4a3bc394935765349afbc9e9&width=1200&height=630&smart=true",
-      "summary": "Cox Media Group sites use technologies such as cookies to enable site functionality, analyze site use, and facilitate advertising. Data may be transferred to third parties using tracking technologies. Privacy Policy In every crime, there is a story of a survivor, of… Flooding impacting traffic along I-75 near Hartsfield-Jackson International Airport ATLANTA — Flooding is causing problems along Interstate 75,...",
-      "published": "Sat, 28 Jun 2025 01:42:00 GMT"
     }
   ]
 }
