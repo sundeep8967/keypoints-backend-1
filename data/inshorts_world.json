@@ -1,10 +1,46 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-30 07:36:36",
+    "generation_time": "2025-06-30 14:08:04",
     "total_articles": 20
   },
   "articles": [
+    {
+      "id": "00a0912a9c538f5e55bb0a705d07aee3",
+      "title": "Hundreds of families displaced by Israeli air strikes on Gaza, witnesses say - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c62884y1pl5o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/10c9/live/8ef20450-559c-11f0-960d-e9f1088a89fe.jpg",
+      "summary": "At least 20 Palestinians killed in Israeli strike on Gaza seafront cafe, witnesses say",
+      "published": "Mon, 30 Jun 2025 09:27:42 GMT"
+    },
+    {
+      "id": "a9c7fb95fe66aabefecde1b87505e665",
+      "title": "BBC says it should have pulled livestream of rap group Bob Vylan over ‘antisemitism’ - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/uk-glastonbury-bob-vylan-bbc-israel-5f1c607d498c676378ff1540bda0ec23",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Mon, 30 Jun 2025 10:27:00 GMT"
+    },
+    {
+      "id": "c7c868692b99104a0fa5bdec39813461",
+      "title": "What to Know About the Heat Wave in Europe - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/30/world/europe/heat-wave-europe-what-to-know.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 11:06:17 GMT"
+    },
+    {
+      "id": "63e2495d2e4fd07fd1a7ee50d8d39d4e",
+      "title": "Dalai Lama set to reveal succession plan as China watches - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/dalai-lama-set-reveal-succession-plan-china-watches-2025-06-30/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 07:59:54 GMT"
+    },
     {
       "id": "c16e213fb4c7ee9e6c2f4c3e6082496d",
       "title": "Ukraine F-16 pilot killed in large-scale Russian attack; Zelenskiy calls for US help - KSL News",
@@ -15,49 +51,22 @@
       "published": "Sun, 29 Jun 2025 14:27:25 GMT"
     },
     {
-      "id": "72672976adc46e3cf4e5a094af64ae8d",
-      "title": "Severe heat waves hit southern Europe as local authorities warn against wildfire risks - CNN",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmFMMW1IX05aMlVLaThuZ2s1OGlnMFNYaDY3OXRReFVqeHh5cjNEcGN3Rkd1Zm53M1I0MWlMbmc4N1pfaDJVYmhnV3pxa0EyU3h3WXlNb2tYckFXM1VrRXBQNXpjZlZhVmdKUjVMRGVBaXMteFNaN0FQRDhGWWRsNXYtOU1FWEJoZ3fSAY8BQVVfeXFMUFcyb0VwRlRwejNCVXRtZjFuZkxFNENxZzVleHBTYXRsT0Q2SmtYckQ1QU5qUHpwRWo0VjhUSzk0eHpIZEszS28tbV96ay1kY0dnd1hCLVlVLWhWajJYeUNCVjRCWUw1Tjl4d3dsd0d0ajdzR3JvTVMyMmdZYjFkcEJBZ05IblcwTnlsSlZpeGc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 19:55:00 GMT"
+      "id": "7340e041cfc27f5ca9f8ea8fee942b0f",
+      "title": "80 years later, a Holocaust survivor meets an American soldier who helped free him - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/30/nx-s1-5423692/world-war-ii-reunion-holocaust-liberation-buchenwald-nazis",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4693x2639+385+745/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2Fb2%2F865e95ce4dba85a6710725b33cd2%2F2025-06-usc-holocaustsurvivors-19.jpg",
+      "summary": "80 years later, a Holocaust survivor meets an American soldier who helped free him Andrew Roth (left) stands up from his wheelchair to give Jack Moran a hug at the Shoah Foundation at the University of Southern California in Los Angeles. Roth was imprisoned in the Buchenwald concentration camp, which Moran helped liberate while serving in the U. S. Army....",
+      "published": "Mon, 30 Jun 2025 09:00:00 GMT"
     },
     {
-      "id": "406c4087e7f477570dfa3e815439990d",
-      "title": "Who will be the next Dalai Lama? As he turns 90, the leader is making plans - The Times",
-      "source": "The Times",
-      "url": "https://www.thetimes.com/world/asia/article/dalai-lama-birthday-succession-l2cn0b0m0",
-      "image_url": "https://www.thetimes.com/imageserver/image/%2Ff68d2886-a7a5-49ab-a9ac-c0b88a0518e4.jpg?crop=2772%2C1559%2C0%2C61&resize=1200",
-      "summary": "Now showing content from the last twelve months, not just the past six days. Who will be the next Dalai Lama? As he turns 90, the leader is making plans Having lived in exile since 1959, the Tibetan leader believes his successor must come from the scattered community living outside repressive Chinese rule The 14th Dalai Lama is the figurehead...",
-      "published": "Sat, 28 Jun 2025 23:01:00 GMT"
-    },
-    {
-      "id": "18571c418ae71ef0a538e38982c8ecf4",
-      "title": "“Time Is Right” For F-35 Sale To Turkey? Will Trump 2.0 Approve F35 Stealth Fighters For Ankara Despite S-400 Quagmire? - EurAsian Times",
-      "source": "EurAsian Times",
-      "url": "https://www.eurasiantimes.com/time-is-right-for-f-35-sale-to-turkey-will-trump/",
-      "image_url": "https://www.eurasiantimes.com/wp-content/uploads/2024/11/Turkey-F-35-1.jpg",
-      "summary": "F-35 Sale To Turkey On Cards? U.S. Envoy Says Turkey-US Arms Spat Could Be Settled The End Of Year Expelled from the F-35 Lightning II program by the Donald Trump administration in 2019, Turkey is resetting ties with the United States and lobbying to secure the coveted fifth-generation stealth aircraft from Washington in Trump’s second term as President. Speaking to...",
-      "published": "Sat, 28 Jun 2025 11:14:00 GMT"
-    },
-    {
-      "id": "eabe6562be3907dd5b4140c413e3ad6e",
-      "title": "Starmer criticises 'appalling' Bob Vylan IDF chants - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c33514nryy1o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/27e8/live/d0865c40-5501-11f0-a2ff-17a82c2e8bc4.jpg",
-      "summary": "Starmer criticises 'appalling' Bob Vylan IDF chants",
-      "published": "Sun, 29 Jun 2025 21:52:44 GMT"
-    },
-    {
-      "id": "6ee5dc495a4648570c25a4d3bb310ebb",
-      "title": "Hungary's Orban accuses EU of orchestrating 'repulsive' Pride march - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/hungarys-orban-accuses-eu-orchestrating-repulsive-pride-march-2025-06-29/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 12:36:29 GMT"
+      "id": "fbeee2e7bb10dda3baa7958e78217a44",
+      "title": "France: Smoking ban on beaches goes into effect - DW",
+      "source": "DW",
+      "url": "https://www.dw.com/en/france-smoking-ban-on-beaches-goes-into-effect/a-73081431",
+      "image_url": "https://static.dw.com/image/55664644_6.jpg",
+      "summary": "DW uses cookies and similar technologies to measure usage, display personalized advertising and share personal data and information with up to 186 third parties. You decide for yourself whether you agree to this use of your data. You can adjust individual details under “Settings” and change them at any time. You can view all of DW's content without agreeing. Social...",
+      "published": "Sun, 29 Jun 2025 12:36:21 GMT"
     },
     {
       "id": "b99ba3f8710acfce156fdd78cd64b582",
@@ -69,22 +78,49 @@
       "published": "Sun, 29 Jun 2025 09:30:28 GMT"
     },
     {
-      "id": "452638f8b8df85432cdabb37673b3ab5",
-      "title": "Turkish police arrest more than 50 people before banned Istanbul Pride parade - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2025/jun/29/turkish-police-arrest-more-than-50-people-before-banned-istanbul-pride-parade",
-      "image_url": "https://i.guim.co.uk/img/media/6685f4079e9f493a8fa65417104d2141b31e7aad/577_0_5779_4622/master/5779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f21e1a755ef9ed00ba0e40952ca4a3ab",
-      "summary": "Fund the free press with $15 per month Pride marches held worldwide in support of LGBTQ+ communities – video Turkish police arrest more than 50 people before banned Istanbul Pride parade City’s bar association says people ‘deprived of their liberty through arbitrary, unjust, and illegal detention’ Last modified on Sun 29 Jun 2025 21. 17 EDT Police arrested more than...",
-      "published": "Mon, 30 Jun 2025 01:17:00 GMT"
+      "id": "bc633430cc401e8d0d520391e23caeba",
+      "title": "Russia unleashes its summer offensive with an army mired in problems - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/06/30/russia-military-challenges-summer-offensive/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LWBTHIQ2FKTVVECRC5LKHOETW4.JPG&w=1440",
+      "summary": "Russia unleashes its summer offensive with an army mired in problems Russia’s army has vast manpower and equipment advantages over Ukraine, but its progress has been slow and Russian military bloggers blame a culture of military corruption. Russian soldiers search for explosives during a June demining operation in the Donetsk region of eastern Ukraine. (Alexander Ermochenko/Reuters) Russia has unleashed its...",
+      "published": "Mon, 30 Jun 2025 11:31:44 GMT"
     },
     {
-      "id": "2c35e16daacc304c4add9723892ed626",
-      "title": "Israeli strikes kill more than 60 people in Gaza, health officials say - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2025/jun/28/israeli-strikes-kill-scores-of-people-in-gaza-health-officials-say",
-      "image_url": "https://i.guim.co.uk/img/media/401df8f77c3867b7128248db84b04ace6fbe739c/465_0_4283_3427/master/4283.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1255c50890020ea11ffd4740a6679934",
-      "summary": "Fund the free press with $15 per month Footage shows aftermath of Israeli strike on tent camp in Gaza City – video Israeli strikes kill more than 60 people in Gaza, health officials say Latest deaths come amid worsening humanitarian situation despite renewed hope for ceasefire Last modified on Sat 28 Jun 2025 13. 55 EDT At least 62 people...",
-      "published": "Sat, 28 Jun 2025 17:55:00 GMT"
+      "id": "6ee5dc495a4648570c25a4d3bb310ebb",
+      "title": "Hungary's Orban accuses EU of orchestrating 'repulsive' Pride march - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/hungarys-orban-accuses-eu-orchestrating-repulsive-pride-march-2025-06-29/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sun, 29 Jun 2025 12:36:29 GMT"
+    },
+    {
+      "id": "419d19277a803824493088e7ccd1016d",
+      "title": "Chile picks Jeannette Jara to face off against right-wing presidential field - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/chile-picks-jeannette-jara-face-off-against-right-wing-presidential-field-2025-06-29/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 03:15:00 GMT"
+    },
+    {
+      "id": "1fe440917854fa16647af5b82ff51180",
+      "title": "Serbian president promises fresh crackdown after protest turns violent - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a60905c8-80a2-47d0-8015-c994f3f8abc7",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F675052d3-0190-4f4e-845e-3e53ceb6adfd.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Serbian president promises fresh crackdown after protest turns violent Aleksandar Vučić pledges more arrests after detaining 77 people, the most in eight months of demonstrations Serbian president promises fresh crackdown after protest turns violent on x (opens in a...",
+      "published": "Sun, 29 Jun 2025 16:33:11 GMT"
+    },
+    {
+      "id": "2109a12c28f7ce5c03655aec936a28d2",
+      "title": "Israel kills nearly 600 Palestinians at aid centres: All you need to know - Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/6/29/israel-kills-nearly-600-palestinians-at-aid-centres-all-you-need-to-know",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/06/AP25177367415642-1750933615.jpg?resize=1920%2C1440",
+      "summary": "Enrich your Al Jazeera experience by signing in or creating an account. 'I don't dare to dream about surviving' Israel's history of preemptive strikes Gabor Mate on Palestinian suffering Israel kills nearly 600 Palestinians at aid centres: All you need to know Hundreds killed seeking aid in Gaza as famine deepens and limited food access leaves hundreds of thousands starving...",
+      "published": "Sun, 29 Jun 2025 14:17:39 GMT"
     },
     {
       "id": "a1f72e1539a61f983a15f04550927565",
@@ -96,76 +132,22 @@
       "published": "Sun, 29 Jun 2025 18:42:25 GMT"
     },
     {
-      "id": "cb4d0a39a6b93bbab28a5dd493d6863a",
-      "title": "Serbian police clash with anti-government protesters in Belgrade - politico.eu",
-      "source": "politico.eu",
-      "url": "https://www.politico.eu/article/serbian-police-clash-anti-government-protest-belgrade-aleksandar-vucic/",
-      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/29/13155819-scaled.jpg",
-      "summary": "Serbian police clash with anti-government protesters in Belgrade",
-      "published": "Sun, 29 Jun 2025 12:33:00 GMT"
-    },
-    {
       "id": "36d4881fc7cbb49aff0b29cebf7328ff",
       "title": "Kneecap Curse Out Prime Minister In Controversial Glastonbury Set - Stereogum",
       "source": "Stereogum",
       "url": "https://www.stereogum.com/2313513/kneecap-curse-out-prime-minister-in-controversial-glastonbury-set/news/",
       "image_url": null,
       "summary": "The request could not be satisfied. Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner. If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this...",
-      "published": "Sat, 28 Jun 2025 19:55:06 GMT"
+      "published": "Sat, 28 Jun 2025 19:55:45 GMT"
     },
     {
-      "id": "773fdb6f7009e85abde1371137cb805c",
-      "title": "Israel orders evacuations in northern Gaza as Trump calls for war to end - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israel-orders-evacuations-northern-gaza-trump-calls-war-end-2025-06-29/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 11:40:37 GMT"
-    },
-    {
-      "id": "53468e46c4eb8e402f797729aa97dc92",
-      "title": "Deadline nears for Taiwan's Chinese immigrants to prove no China household registration - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/29/g-s1-73842/taiwan-china-immigrants-household-registration",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+378/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2F6d%2Fed6604e2425f8e7500572e0a011d%2Fchang-2.jpeg",
-      "summary": "Deadline nears for Taiwan's Chinese immigrants to prove no China household registration Chang Chih-yuan as a child, with his mother and Taiwanese father, when they were still living in China. TAIPEI, Taiwan — The clock is ticking for roughly 12,000 Chinese immigrants in Taiwan, who have until Monday to prove they've given up their household registration in China. Failure to...",
-      "published": "Sun, 29 Jun 2025 13:36:12 GMT"
-    },
-    {
-      "id": "f9edfa8b6a317b740d9be2b31eb16f96",
-      "title": "Heatwave peak set to bring 34C to parts of UK - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c89epj8pd9zo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6251/live/1a2f36f0-554d-11f0-a2ff-17a82c2e8bc4.jpg",
-      "summary": "Heatwave peak set to bring 34C to parts of UK Parts of the UK could see one of the hottest June days ever as a heatwave, now in its fourth day, peaks on Monday. Temperatures of 34C are possible around the Greater London and Bedfordshire areas with a small chance of reaching 35C. If the temperature does go above 34C...",
-      "published": "Mon, 30 Jun 2025 06:03:31 GMT"
-    },
-    {
-      "id": "65a10d4a81fade630cb1ab40bf223b69",
-      "title": "How Biden Is to Blame for Israel and the U.S.’s 12-Day War Against Iran - The Intercept",
-      "source": "The Intercept",
-      "url": "https://theintercept.com/2025/06/29/biden-iran-nuclear-deal-israel/",
-      "image_url": "https://theintercept.com/wp-content/uploads/2025/06/GettyImages-2162795900-e1751048334643.jpg?fit=6000%2C3000&w=1200&h=800",
-      "summary": "How Biden Is to Blame for Israel and the U. S.’s 12-Day War Against Iran Biden’s failure to reenter Obama’s nuclear deal helped create the risk for a potentially catastrophic U. S. war against Iran. President Joe Biden meets with Israeli Prime Minister Benjamin Netanyahu at the White House on July 25, 2024, in Washington. Photo: Andrew Harnik/Getty Images ALMOST...",
-      "published": "Sun, 29 Jun 2025 09:00:00 GMT"
-    },
-    {
-      "id": "dc493a655acf579cfb87e712b1321fd6",
-      "title": "Bangkok protests: Thousands rally to call for Thai PM Paetongtarn Shinawatra to resign - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ceq7glqzr53o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1c05/live/66ad9190-5460-11f0-a5bd-49b29032f45f.jpg",
-      "summary": "Thousands protest in Bangkok calling for Thai PM to resign Thousands of protesters have gathered in the Thai capital Bangkok, calling for the resignation of Prime Minister Paetongtarn Shinawatra after a phone call she had with the former Cambodian leader Hun Sen was leaked. In the call, which was about a recent incident on their border, she addressed Hun Sen...",
-      "published": "Sun, 29 Jun 2025 07:51:01 GMT"
-    },
-    {
-      "id": "5b3d1aba5f818f61d48050b7224cf5b6",
-      "title": "What’s Left of the Su-34s at Marinovka Airfield: Ukraine’s Drone Strike Confirmed by Satellite Images - Defense Express",
-      "source": "Defense Express",
-      "url": "https://en.defence-ua.com/news/whats_left_of_the_su_34s_at_marinovka_airfield_ukraines_drone_strike_confirmed_by_satellite_images-14987.html",
-      "image_url": "https://en.defence-ua.com/media/illustration/articles/d0b68615ae05b706.jpg",
-      "summary": "What’s Left of the Su-34s at Marinovka Airfield: Ukraine’s Drone Strike Confirmed by Satellite Images The russian occupying forces primarily use Su-34 fighter-bombers to drop guided glide bombs (KABs) on Ukrainian towns and villages On June 27, Ukraine’s Security Service (SSU) announced that, in cooperation with the Special Operations Forces (SOF), a special operation was carried out at Marinovka airfield...",
-      "published": "Sun, 29 Jun 2025 17:03:45 GMT"
+      "id": "452638f8b8df85432cdabb37673b3ab5",
+      "title": "Turkish police arrest more than 50 people before banned Istanbul Pride parade - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2025/jun/29/turkish-police-arrest-more-than-50-people-before-banned-istanbul-pride-parade",
+      "image_url": "https://i.guim.co.uk/img/media/6685f4079e9f493a8fa65417104d2141b31e7aad/577_0_5779_4622/master/5779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f21e1a755ef9ed00ba0e40952ca4a3ab",
+      "summary": "Fund the free press with $5 per month Pride marches held worldwide in support of LGBTQ+ communities – video Turkish police arrest more than 50 people before banned Istanbul Pride parade City’s bar association says people ‘deprived of their liberty through arbitrary, unjust, and illegal detention’ Last modified on Sun 29 Jun 2025 21. 17 EDT Police arrested more than...",
+      "published": "Mon, 30 Jun 2025 01:17:00 GMT"
     },
     {
       "id": "5edc3718e72a8acbc0740658c35021f9",
@@ -177,13 +159,31 @@
       "published": "Sun, 29 Jun 2025 21:55:33 GMT"
     },
     {
-      "id": "eb5f0043508355e39cd6f5f163ff259d",
-      "title": "Heavy rain hits China's flood-stricken Guizhou for second time in a week - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sustainability/climate-energy/heavy-rain-hits-chinas-flood-stricken-guizhou-second-time-week-2025-06-28/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 10:41:18 GMT"
+      "id": "2751cf96af82098566b5e17fa201b342",
+      "title": "After months of stalling, Russia blames Ukraine, US for slow pace of peace talks - The Kyiv Independent",
+      "source": "The Kyiv Independent",
+      "url": "https://kyivindependent.com/after-months-of-stalling-russia-blames-ukraine-us-for-stalled-peace-talks-06-2025/",
+      "image_url": "https://assets.kyivindependent.com/content/images/2025/06/GettyImages-2216871824.jpg",
+      "summary": "After months of stalling, Russia blames Ukraine, US for slow pace of peace talks Russian Presidential Press Secretary Dmitry Peskov looks on during a Russian-Yemeni meeting at the Kremlin on May 28, 2025, in Moscow, Russia. (Contributor/Getty Images) This audio is created with AI assistance After months of diplomatic stalling, the Kremlin on June 29 blamed Kyiv and Washington for...",
+      "published": "Mon, 30 Jun 2025 06:51:08 GMT"
+    },
+    {
+      "id": "4794b6c261af875a0c8cb8edeb93a632",
+      "title": "PM: Iran war opened broad regional possibilities, ‘first we need to free the hostages’ - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/pm-iran-war-opened-broad-regional-possibilities-first-we-need-to-free-the-hostages/",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/Screenshot-2025-06-29-202153.png",
+      "summary": "PM: Iran war opened broad regional possibilities, ‘first we need to free the hostages’ Top-level cabinet meeting held amid US pressure on Israel to reach a Gaza deal, alongside plans to expand Abraham Accords to Saudi Arabia, Syria; Dermer to meet with US officials Prime Minister Benjamin Netanyahu speaks to Shin Bet staff, June 29, 2025. (Video screenshot) Prime Minister...",
+      "published": "Sun, 29 Jun 2025 21:48:10 GMT"
+    },
+    {
+      "id": "163a6c4c8df4726cf1aaa6e4a4a0a159",
+      "title": "A week of victory for Trump, but his war with the deep state rages on - The Times",
+      "source": "The Times",
+      "url": "https://www.thetimes.com/us/news-today/article/trumps-war-deep-state-rages-on-xwlvbf089",
+      "image_url": "https://www.thetimes.com/imageserver/image/%2F8c7f8b67-3f1c-4616-8257-1fa48577011a.jpg?crop=1500%2C844%2C0%2C78&resize=1200",
+      "summary": "Now showing content from the last twelve months, not just the past six days. A week of victory for Trump, but his war with the deep state rages on A leaked intelligence report questioning the US strikes on Iran outraged the president. His revenge on ‘the establishment’ could be brutal Saturday June 28 2025, 6. 30pm BST, The Sunday Times...",
+      "published": "Sat, 28 Jun 2025 17:30:57 GMT"
     }
   ]
 }

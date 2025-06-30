@@ -1,126 +1,27 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-30 09:00:17",
+    "generation_time": "2025-06-30 15:06:03",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "47d6cb1653672727bde20ba975bcf951",
-      "title": "Nintendo Switch 2 restocks — live updates and retailers to check now - Tom's Guide",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/live/news/nintendo-switch-2-restocks-live-updates-and-news",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/2uQ4GsqLJHm3CW4dwURXeb.jpg",
-      "summary": "Nintendo Switch 2 restocks — live updates and retailers to check now Don't miss your chance to get a Switch 2! By Jeff Parsons, Rory Mellon Contributions from Louis Ramirez last updated 15 hours ago When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Nintendo Switch 2 continues to be a...",
-      "published": "Mon, 23 Jun 2025 10:17:18 GMT"
+      "id": "ecf80cddba8b419a6efade48a806e204",
+      "title": "Apple Planning to Launch Low-Cost MacBook Powered By iPhone Chip - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/06/30/apple-to-launch-low-cost-macbook/",
+      "image_url": "https://images.macrumors.com/t/EDFs9C5AbdoraTw0aaul8-QUHM4=/1600x/article-new/2023/03/macbook-air-spacegray-purple.jpg",
+      "summary": "iOS 26macOS Tahoe 26iPadOS 26iPhone 17iPhone 17 AiriPhone 17 ProiPhone 16eiPhone 16iPhone 16 ProMacBook ProiOS 18Apple Vision ProiMacMac miniiPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Pro Display XDRApple Watch Ultra 2HomePod miniMac ProMacBook AiriPadiPhone 15AirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch 10Apple Watch SEMac StudioiPad Air iPad miniiPhone 18CarPlayApple PaywatchOS 26 Apple Planning to Launch Low-Cost MacBook Powered By...",
+      "published": "Mon, 30 Jun 2025 10:20:48 GMT"
     },
     {
-      "id": "4b0208026f07fee6a7bb20601be95146",
-      "title": "Microsoft makes huge change to Windows - TheStreet",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/technology/microsoft-makes-huge-change-to-windows",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 18:45:59 GMT"
-    },
-    {
-      "id": "b72afbf2fbd7407f6dd8c9469d97c071",
-      "title": "Samsung Encouraging Users to Activate Latest Anti-Theft Features to Help Tackle Phone Theft - Samsung Global Newsroom",
-      "source": "Samsung Global Newsroom",
-      "url": "https://news.samsung.com/us/samsung-encouraging-users-activate-latest-anti-theft-features-help-tackle-phone-theft/",
-      "image_url": "https://img.us.news.samsung.com/us/wp-content/uploads/2025/06/27124916/one-ui-7-now-bar-featured-image.png",
-      "summary": "Samsung Encouraging Users to Activate Latest Anti-Theft Features to Help Tackle Phone Theft As incidents of phone theft continue to rise around the world, Samsung is calling on Galaxy users to activate the latest anti-theft features now available on their devices. These updates reflect Samsung’s commitment to delivering smarter, stronger protection – helping users safeguard their data and stay in...",
-      "published": "Sat, 28 Jun 2025 14:35:40 GMT"
-    },
-    {
-      "id": "a68ab3331385fd8b48a440470ef3f5f5",
-      "title": "PlayStation gamers ‘worried’ about Xbox’s newly announced console - GAMINGbible",
-      "source": "GAMINGbible",
-      "url": "https://www.gamingbible.com/news/platform/playstation/playstation-gamers-worried-new-xbox-console-025601-20250627",
-      "image_url": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt4958b6b806dbc839/685ea9121580c534ed4c29a1/playstation_kratos.png",
-      "summary": "Home> News> Platform> Playstation Published 20:00 29 Jun 2025 GMT+1 PlayStation gamers ‘worried’ about Xbox’s newly announced console Sony PlayStation has been told it should be worried following Xbox’s newly announced console hybrid. My earliest memory of a “console war” was between SEGA and Nintendo, back in the 80s and early to mid-90s. It was an odd time, with fierce...",
-      "published": "Sun, 29 Jun 2025 19:00:02 GMT"
-    },
-    {
-      "id": "ea0056da1d9ce1388d93939b9b33b829",
-      "title": "Windows 10 is almost dead, but this tool can help your old PC upgrade to Windows 11 - XDA",
-      "source": "XDA",
-      "url": "https://www.xda-developers.com/windows-10-almost-dead-flyby11-help-upgrade-windows-11/",
-      "image_url": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/windows-11-with-flyby11.jpg",
-      "summary": "Windows 10 is almost dead, but this tool can help your old PC upgrade to Windows 11 Generate a summary of this story It's been a long time coming, but at the end of 2025, Windows 10 will officially reach its end-of-life status. Sure, users will have the option to pay an extra fee to extend the support period, but...",
-      "published": "Sat, 28 Jun 2025 16:00:00 GMT"
-    },
-    {
-      "id": "bdac35a6d465d344c1fb547a3220cbff",
-      "title": "Galaxy Z Fold 7 and Flip 7 leak reveals a few enticing new tidbits - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRV9FRWxuaTNtZWhzaldVYXduSVdqRU9uOWVneUlXTU9CVkRmREdiWnVqbFRXWlJtdzZaczhkeDIxR2pnckFtR3p2RVZ6U2lkY25jaUNBUW9iVTBvWnozaHdqMEc3dnlzV2kwWHdPTF9YaGp3ODdxSGNNOU5qX0tQVGJn?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 18:05:00 GMT"
-    },
-    {
-      "id": "55450dcaa0cdefd4128ee0d17ecb0abf",
-      "title": "Brazilian Gamers Infuriated by Sudden PS5 Price Hikes - Push Square",
-      "source": "Push Square",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMHBYOWc0ckp3cEYybmFGd1pkWlFJaWFLTG1HUXdZRTBNVmtlWEVEelppdlhQdXhWMXZ3eG8xSzJiZGxuSWpFaXhDb05CXzBjXzBDRVQ4dUl5S245OU04TWNRaFBtWDM3b2sxWlZxeU4tdC1nazg3ZzhUZEtGLTdWYVZQTjAtS0JpM21lM3BNcHhiWVUwc0xRRA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 23:30:00 GMT"
-    },
-    {
-      "id": "a21046a45ce36349b83b4d6edf3ddedb",
-      "title": "Fans slam The Alters after discovering evidence of undisclosed gen AI in images, text, and translation - Eurogamer",
-      "source": "Eurogamer",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMVZFQjNxTEpNMDRBVUM5REI4cEhYdmFEZ0R6eUMzRUM1MUdSR1FSUzIxeTV1ODNuLUdQZ1Q4OFlvOU9QcEp2TElZSnNTc2s3UzFrVHlod0FKM1Fjbl9yNmt6R0wzN2paQWFUZmZIblhCNU1UUWlFcWRMbk1hdVQzVVdJcFlyaldJUmIydjBGOXBXQ0VoaWdqTGVhNEJNTFYzSjRLZWdRaHRfemp5VG10ZHUzM0dvMnlFa0RldFBkNHN5WFNF?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 14:21:05 GMT"
-    },
-    {
-      "id": "b41c5d8ff2cb84d47a8fd3071e848cd8",
-      "title": "Full Steam Ahead! – Volcanion Special Research Guide (Pokémon GO Fest 2025 Global) - Pokémon GO Hub",
-      "source": "Pokémon GO Hub",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCQm4zdGl0NlYtcnFDRlVobzFEOXhpVUx4aFBKNzhaSk9YY1UybC1rT05rWlctUkJuSDJGQl9FZW56LVVWaWdRN3dDWkZxNnJzUURLSEZ2LUNWdDRGR0Q0WGlUS0Y5eUNiMEg1Q0x1WVBiQ2RfUDhDbHRvNzBiZw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 09:32:20 GMT"
-    },
-    {
-      "id": "477cf3e80d628b2edc0c0e0ba9fb92dc",
-      "title": "UK's Death Stranding 2 PS5 Physical Sales Down 66% Compared to Predecessor, But Context Matters - Push Square",
-      "source": "Push Square",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYktnbGkxakZoMTY0TFdCdnhYb09jSFYzNVc1a3A5a1RNWGZxQVpURXFObnN5eFdRVDlLVDVJX2tqUkN6TTZ4QWVySngzM2hFUmNvbW0xVDh4ekd1ZUZfM0hJbE5TQkhMUXlOaHJRSXpPb21MbF9nWDBLTEZuWWRyd3BSUjU5SDhNRi1SZzFCUlJWaHpOb1J1RzdRNmFUY0tXLXMzQm1lamRESmVXbE9CYnY5cGJFZE9Uc0tmVmdaQWI0b2FvQmZXRGIyT1F0NUxLMDM1NFhR?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 00:00:00 GMT"
-    },
-    {
-      "id": "45457548a2489c0b090563dbbf44967e",
-      "title": "Ramy Youssef Gets Teary Bringing Out Zohran Mamdani and Mahmoud Khalil on Stage - Vulture",
-      "source": "Vulture",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbERQcnNFYi1TTzM4aElrZV90R1VjaUZQLUw5NDRDel9PSldZcGI2blJmS1FVYkE4c0p4NTliTF9SVDdLa1dNbHhGcHp2M3h1OFlNNUhSOXhjVTduYlJ4blU3TnEyNDNkc0Nzem9mcmhkOEh4LXJzXzl6UFFaWDdVUUtIaUE3Znl1QjFjMGtiM0JaZUVrYWNOZXpMNlp4Z2w1?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 16:52:51 GMT"
-    },
-    {
-      "id": "0cd84e81110f72db197cc054ed545d72",
-      "title": "This combo Roomba that vacuums and mops is nearly half off for Prime Day - Engadget",
-      "source": "Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMXBMQTg5Nnk4SEllWUM4bHF0cWN5bnh0MlcyTS1pR3hZRDc2VGJWYnNDRV82WFhaWlg4aGhQTnZTdkNXMEw5MnJmZFIxTW5kRXBfY0ZSd3ZBVDcydlg2NnV6OVJYeEw1R3VUQl9IVHR3LWdPV1VseGUyYkN0dHFQZ2c2bTVMdTFtN3dkaU5zWVdtbEpmU1daNXJhaV9kbVRCVWZxYmNFYXY4UUZWczFQR3MtVmU2V0ZPaHc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 14:10:13 GMT"
-    },
-    {
-      "id": "ae4e5bc739d02e056ab8e2046a28dd58",
-      "title": "‘I think Xbox hardware is dead’, says Microsoft gaming veteran - Video Games Chronicle",
-      "source": "Video Games Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDBDVDNtTC1GREttQ0RTRmtZYW9fY29QaWpIMDhEcWdkR3JRSUZfMnREZGpfUUkyTmlDeUJJcHlIZUZ4blRtaFM1LVRxX0VDbzRscm1DN2F0VURIM3BMc1VfY3pWTW9vYlRTMWJDMnd3WHF6VFJyTW1SOHRVLWZOMGRLb0stRHBIQXFGN2JaVHY4UlJuNDF2QnJ5UDhJMUFXaTFB?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 17:06:56 GMT"
+      "id": "00e104df430031449c422c532a526a72",
+      "title": "Android 16 review: Post-hype - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2025/06/android-16-review-post-hype/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-16-1-1152x648.jpg",
+      "summary": "The age of big, exciting Android updates is probably over. Android 16 is currently only available for Pixel phones. Credit: Ryan Whitwam Google recently released Android 16, which brings a smattering of new features for Pixel phones, with promises of additional updates down the road. The numbering scheme has not been consistent over the years, and as a result, Android...",
+      "published": "Mon, 30 Jun 2025 11:00:40 GMT"
     },
     {
       "id": "2d8c9ee6c6aaa00fa00878da713e440c",
@@ -132,58 +33,157 @@
       "published": "Sun, 29 Jun 2025 22:26:00 GMT"
     },
     {
+      "id": "899439214af43597fba2117624ccc9e8",
+      "title": "Samsung U-turns on ‘ugly’ camera ring with Z Fold 7 – Galaxy S26 next? - Sammy Fans",
+      "source": "Sammy Fans",
+      "url": "https://www.sammyfans.com/2025/06/29/samsung-u-turns-on-ugly-camera-ring-with-z-fold-7-galaxy-s26-next/",
+      "image_url": "https://www.sammyfans.com/wp-content/uploads/2025/02/s25-ultra-camera-rings-img1-1000x576.jpg",
+      "summary": "Samsung U-turns on ‘ugly’ camera ring with Z Fold 7 – Galaxy S26 next? Published 1 day ago on June 29, 2025 Samsung’s new foldable phones will launch soon, and leaks suggest a major design shift. The company reportedly ditched its bold “Saturn Ring” camera design in the Galaxy Z Fold 7; could the Galaxy S26 series follow this change?",
+      "published": "Sun, 29 Jun 2025 07:40:11 GMT"
+    },
+    {
+      "id": "632c207060dafe4ec595245054e1b0e5",
+      "title": "Apple iPhone 17: Key Design Upgrade Promised In New Leak - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidphelan/2025/06/29/apple-iphone-17-key-design-upgrade-promised-in-new-leak/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/66f2c3550929c8844b211fdb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "summary": "Apple iPhone 17: Key Design Upgrade Promised In New Leak ByDavid Phelan, Senior Contributor. I write about lifestyle tech Jun 29, 2025, 10:47am EDTJun 29, 2025, 10:48am EDT Updated June 29 with details of how the display for one of the iPhone 17 series will differ from the rest. Apple’s next big release, it’s thought, will be the iPhone 17...",
+      "published": "Sun, 29 Jun 2025 14:47:00 GMT"
+    },
+    {
+      "id": "9c412d36e846267cc5c8c63350555286",
+      "title": "The Galaxy Watch 8 Classic leaks again and this time we got real world images - PhoneArena",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/the-galaxy-watch-8-classic-leaks-again-and-this-time-we-got-real-world-images_id171807",
+      "image_url": "https://m-cdn.phonearena.com/images/article/171807-wide-two_1200/The-Galaxy-Watch-8-Classic-leaks-again-and-this-time-we-got-real-world-images.jpg",
+      "summary": "Reserves open for the new Samsung phones! The Galaxy Watch 8 Classic leaks again and this time we got real world images Samsung’s Watch 8 Classic appears in another early leak, showing off its newly \"squircled\" shape Leaked CAD renders of the Samsung Galaxy Watch 8 Classic. | Image Credit — Evan Blass The Galaxy Watch 8 Classic has leaked...",
+      "published": "Sun, 29 Jun 2025 18:06:41 GMT"
+    },
+    {
       "id": "c3ec534675772c53b3b40d576a68d8c9",
       "title": "‘Resident Evil: Requiem’ Will Refocus On the Series’ Past - Gizmodo",
       "source": "Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTlBZUGo3aU1wNEpzUlhfTWJpODluckdYTGNaYVg2T0M0M0Z4RzJZWjhfbUlvUndkLU9abjZSYmdSRU1qNmRtQlRvUVc2RFBXejg0VFBZcW1XTnFEZG5jTWFBTUZpa3FzenhTMEhtQ3BKUEV4LXA3SFB5bGNhcnJJOGZqeUVCSmxZT3JxMA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://gizmodo.com/resident-evil-requiem-will-refocus-on-the-series-past-2000621811",
+      "image_url": "https://gizmodo.com/app/uploads/2025/06/residentevil-requiem-1200x675.jpg",
+      "summary": "‘Resident Evil: Requiem’ Will Refocus On the Series’ Past Capcom is pulling out all the stops for 'Resident Evil: Requiem' to celebrate the franchise's 30-year run. Published June 29, 2025 | Comments (1) | After the series explored new, undead ground in the last two main games, Resident Evil: Requiem is going back to narrative threads from the franchise’s past.",
       "published": "Sun, 29 Jun 2025 20:15:24 GMT"
     },
     {
-      "id": "7033d419cc6b9e9f5438d8235ed87596",
-      "title": "Ever Wonder What Those Chrome Tubes On Semis Are? (No, They're Not Fuel Tanks) - Jalopnik",
-      "source": "Jalopnik",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVDdtRzRySml5d2dISDNvVF9TWWdHVmgya0NJcmc5Q2paeDVSajN5U1dSNmdwckZCbE9wVDlTM0tmajdQeElJRGF3ZGFEcF81MGxOLVNwZUtwR3I2UXQyTlRBVTl6WTNsV1NDVmYyY0k2RzVBeFIwbkMtbFZ6bjkwaw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 15:25:00 GMT"
+      "id": "bdac35a6d465d344c1fb547a3220cbff",
+      "title": "Galaxy Z Fold 7 and Flip 7 leak reveals a few enticing new tidbits - 9to5Google",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2025/06/29/galaxy-z-fold-7-flip-7-specs-leak-tidbits/",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/galaxy-z-fold-7-teaser-launch-event-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Galaxy Z Fold 7 and Flip 7 leak reveals a few enticing new tidbits A ton of leaks have detailed many of the new updates to Samsung’s Galaxy Z Fold 7 and Flip 7, but there are still some details that haven’t yet come to light. In a new post, though, we’re getting a few new Galaxy Z Fold 7...",
+      "published": "Sun, 29 Jun 2025 18:05:00 GMT"
     },
     {
-      "id": "fb7d8f018d7bba2e3be5986afb35f86f",
-      "title": "His Overpriced Mustang Went Up In Flames Then Ford Mailed Him A Souvenir - Carscoops",
-      "source": "Carscoops",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMU43RkZ5V2djVi16U1ktbFJ3RURITFlhWDJJQzJWVmFwN0V5N1NYWlJlODUzSElpNnZ4RmF0VzlOblhjcEdRLWZFSkVuc3ZnSW9WTnYxNV9NQmlJdDlqdXZZN0NmMTRJa1JSTXg0YkZyWUhEN0dJbnFQdzEtaHBST2JQSjdYY29UNTZtNjIyb2Nvd2VKZmxFQlU0QTYwcE1uT2c?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 14:59:06 GMT"
+      "id": "721af4db5c87605e28095b3ec5c659f4",
+      "title": "Cloudflare open-sources Orange Meets with End-to-End encryption - BleepingComputer",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-open-sources-orange-meets-with-end-to-end-encryption/",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2025/06/12/Cloudflare.jpg",
+      "summary": "HomeNewsSecurityCloudflare open-sources Orange Meets with End-to-End encryption Cloudflare open-sources Orange Meets with End-to-End encryption Cloudflare has implemented end-to-end encryption (E2EE) to its video calling app Orange Meets and open-sourced the solution for transparency. The application has been available since last year when the internet giant launched it as a demo for Cloudflare Calls (now Realtime). With the introduction of E2EE...",
+      "published": "Sun, 29 Jun 2025 14:11:21 GMT"
     },
     {
-      "id": "680f733273c94ff06e2af072fd4a2227",
-      "title": "The Complete Guide To What The Actual Hell Is Going On In Death Stranding - Kotaku",
-      "source": "Kotaku",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTM5ZGthTDJMd0VBOGtPOWprYXVLWV9NaFhSdG10dTBZSDBDUnBWOU1HSFo0YVlGbWV5VUN1V1ZCcE1yVDR1LXl0clpCUWhBSDJfNVBjWjRQVkxiaTdNV0w1TTc2aWt0dFZDUzdYVVJ0NnJBRnFpWG9pOUFCenFuemVpZ0tjV0YtZlE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 15:00:00 GMT"
+      "id": "bdf03a57de04fa2eeae34605ec880c74",
+      "title": "Windows 11 KB5062233/ KB5060843/ KB5062197/ KB5061090 setup, recovery updates released - Neowin",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/windows-11-kb5062233-kb5060843-kb5062197-kb5061090-setup-recovery-updates-released/",
+      "image_url": "https://cdn.neowin.com/news/images/uploaded/2025/06/1751122700_windows_11_update2_story.webp",
+      "summary": "When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Windows 11 KB5062233/ KB5060843/ KB5062197/ KB5061090 setup, recovery updates released Sayan Sen @ssc_combater007 · Jun 28, 2025 11:16 EDT released non-security preview updates for Windows 11 22H2 and 23H2 under KB5060826 as well as for 24H2 under KB5060829. The company also published...",
+      "published": "Sat, 28 Jun 2025 15:16:00 GMT"
     },
     {
-      "id": "6f0288355fbdd9bb2f0deea96af3eb86",
-      "title": "How to get free Crowned Sword Energy and Crowned Shield Energy with codes in Pokémon Go - Polygon",
+      "id": "47d6cb1653672727bde20ba975bcf951",
+      "title": "Nintendo Switch 2 restocks — live updates and retailers to check now - Tom's Guide",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/live/news/nintendo-switch-2-restocks-news-and-updates",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/K5KeExkmJ5nmkZXDxgHuCZ.jpg",
+      "summary": "Nintendo Switch 2 restocks live — Best Buy drop confirmed and retailers to check now Switch 2 will be in stock at Best Buy this week By Rory Mellon last updated 4 minutes ago When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Nintendo Switch 2 continues to be sold out...",
+      "published": "Mon, 23 Jun 2025 10:17:18 GMT"
+    },
+    {
+      "id": "8c77804fbde218a3e2619ec1afd03964",
+      "title": "The Kodak Brand Gets a Second Life - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/30/nyregion/the-kodak-brand-gets-a-second-life.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 07:00:11 GMT"
+    },
+    {
+      "id": "4b0208026f07fee6a7bb20601be95146",
+      "title": "Microsoft makes huge change to Windows - TheStreet",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/technology/microsoft-makes-huge-change-to-windows",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sat, 28 Jun 2025 18:45:59 GMT"
+    },
+    {
+      "id": "1b4354b2d37a1cd2dac1f56ce3aed6c3",
+      "title": "Xbox Game Pass: All Games Coming Soon In July 2025 - Pure Xbox",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/guides/xbox-game-pass-all-games-coming-soon-in-july-2025",
+      "image_url": "https://images.purexbox.com/10c3589621e70/large.jpg",
+      "summary": "News Reviews Features Games Guides Videos Forums Search XboxXbox Game PassGuidesJuly 2025 Xbox Game Pass: All Games Coming Soon In July 2025 All the confirmed reveals so far Looking for a complete list of games coming to Xbox Game Pass in July 2025? It can be pretty difficult to keep track of all the comings and goings in the world...",
+      "published": "Mon, 30 Jun 2025 11:06:04 GMT"
+    },
+    {
+      "id": "2e939b248ae80c2ceb1f524948fb747c",
+      "title": "Samsung warns millions to activate this important One UI security feature - Sammy Fans",
+      "source": "Sammy Fans",
+      "url": "https://www.sammyfans.com/2025/06/29/samsung-warns-millions-to-activate-this-important-one-ui-security-feature/",
+      "image_url": "https://www.sammyfans.com/wp-content/uploads/2025/02/s25-ultra-corners-home-screen-img-1-1000x576.jpg",
+      "summary": "Samsung warns millions to activate this important One UI security feature Published 20 hours ago on June 29, 2025 Phone theft is getting worse, and Samsung is sounding the alarm for millions of Galaxy users worldwide, especially for folks in the US. The new One UI 7 has a new anti-theft security feature suite to keep your data safe if...",
+      "published": "Sun, 29 Jun 2025 18:26:45 GMT"
+    },
+    {
+      "id": "ae4e5bc739d02e056ab8e2046a28dd58",
+      "title": "‘I think Xbox hardware is dead’, says Microsoft gaming veteran - Video Games Chronicle",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/i-think-xbox-hardware-is-dead-says-microsoft-gaming-veteran/",
+      "image_url": "https://www.videogameschronicle.com/files/2023/08/xbox-series-consoles.jpg",
+      "summary": ".cls-1{fill:url(#linear-gradient)}. cls-2{fill:#fff} GO AD-FREE! Support VGC on Patreon ‘I think Xbox hardware is dead’, says Microsoft gaming veteran One of the founding members of the Xbox team has questioned Microsoft’s multiplatform gaming strategy, and said they believe the Xbox hardware business is effectively “dead”. Microsoft left many pondering the future of Xbox hardware this month, following the announcement of multiple...",
+      "published": "Sun, 29 Jun 2025 17:06:56 GMT"
+    },
+    {
+      "id": "0cd84e81110f72db197cc054ed545d72",
+      "title": "This combo Roomba that vacuums and mops is nearly half off for Prime Day - Engadget",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/deals/prime-day-deal-get-49-percent-off-this-roomba-combo-robot-vacuum-and-mop-141013800.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/Jzf3y2yxxMd3ak.WcVARFA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/86aed9a0-4f96-11f0-a7fb-764ce18396ca",
+      "summary": "Apple iOS 26: What you need to know Trump phone drops 'made in the USA'. .. Prime Day 2025: The best early deals How to buy the Nintendo Switch 2 Engadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission. Read more...",
+      "published": "Sat, 28 Jun 2025 14:10:13 GMT"
+    },
+    {
+      "id": "d1793b059eb1abebcff8bda00dd90ec9",
+      "title": "Pokémon Go Fest 2025 day 2 event habitat spawns and bonuses - Polygon",
       "source": "Polygon",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOenJoTzUxREtJRW10c29icjF4OFl3VjZyRzkwZzhZQjhSdlYyYXZEaXZWcmplNHlmU0c5UV9lVEI4dktBWTJaWGtSRVhZYmpnM1N5eVRfdTF3RWxsM2U4TmhZWGE2UXBHYWh5UXFrT3J4eGdOOHlNNUtFbEpydngzMGNqR2czUjB2WFUzNHR0OTJqendwUG14QjhCVEt2dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdkVJS1FtZnJXd2pXRVlYcERBTXVOZXlVWXNXbUlfTjFWYmNOX0dCckFPZk50YWUyUEVvcUoxMk9TY29HRFAtLWNFczRPN2xrV3ZZOTRxcGxsNU9yYmlKd08zenFhSzB3bVc2Nng4em1RZG9ZcXF3Q0Vfb0ZtZ191SjFMeXcxcER6WnpqNlNMMXhkSFdia2pHU3ZR?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 14:44:21 GMT"
+      "published": "Sun, 29 Jun 2025 14:41:56 GMT"
     },
     {
-      "id": "635ef353c94e7252df2221685d24959b",
-      "title": "SEGA customer support says Sonic Racing: CrossWorlds is Game-Key Card - My Nintendo News",
-      "source": "My Nintendo News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFFmWkxZRklKTGxIZU80UUlQclhzZWZETkZYX3lWNFNYUU1pX2FhZFFTZzhQeUVzVFpZenpxUEJnX0ZTVWNQSUV1c0FXel9FVlRwaW9zajRLaHVsdzNEWk13VUJHT1FuR1FlV3FMclQ0bm5kVmxLOU1SUFpkbGxrNUVwd09rOFY0VG0zbFFqRmF3cXNWdjVHSFgybTdEMkkxbWpTY2FYV2RDOEk?oc=5",
+      "id": "905fdf3c1df17f135c497d482021b596",
+      "title": "Switching From Desktop Linux To FreeBSD - Hackaday",
+      "source": "Hackaday",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uazhRSlNBUEpBLThvLU41eUlIaDlMOWlFMTAwaUw0Q2xVZEVrcEx3VmJIQ0l1QXVMMkdrM3dEWUlVaDExeXJXMDREZTNra0ViTTFwNFhPZHY3LTdLNWlaSFEtelhUckp2U0RnTG80a1pYRkpxY294NVNwSlU?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 22:23:09 GMT"
+      "published": "Mon, 30 Jun 2025 05:00:00 GMT"
+    },
+    {
+      "id": "f996bf98e6d29dab63e0461acfef6701",
+      "title": "Assassin's Creed 4: Black Flag Actor Drops The Biggest Remake Hint Yet - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3k5TUZGb3pXdVRjOTZWV3lGeHp5SmNoZkJkVmNzVk9PMUFqNVJqbG0yU1lTT1pEQkNpaDRyd2pfcHJGVnh6U2tVd2F3RHRrRnM3RjIyNjhnbi1WVjlaOGlJUWVQdjNHZk9lbDNOUWs3ckx0eC1qZVN4b1Q3UXR5NUtVbkMxcG11b3VLbHBPeGZ2RjlLbXNWTlEydVZDMEhDc0hJaFpoNkpWQzR4V3ZR?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 09:52:37 GMT"
     }
   ]
 }
