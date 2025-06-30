@@ -1,45 +1,90 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-30 14:08:04",
+    "generation_time": "2025-06-30 19:20:14",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "00a0912a9c538f5e55bb0a705d07aee3",
-      "title": "Hundreds of families displaced by Israeli air strikes on Gaza, witnesses say - BBC",
+      "id": "b3010a87b4802d9a578caf003e958a21",
+      "title": "Glastonbury: Police launch criminal investigation into Bob Vylan and Kneecap sets - BBC",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c62884y1pl5o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/10c9/live/8ef20450-559c-11f0-960d-e9f1088a89fe.jpg",
-      "summary": "At least 20 Palestinians killed in Israeli strike on Gaza seafront cafe, witnesses say",
-      "published": "Mon, 30 Jun 2025 09:27:42 GMT"
+      "url": "https://www.bbc.com/news/articles/cd0vvnl41mno",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7868/live/7e9986a0-55ce-11f0-a1ca-8125e59f5995.jpg",
+      "summary": "Police launch criminal investigation into Bob Vylan and Kneecap Glastonbury sets",
+      "published": "Mon, 30 Jun 2025 17:13:20 GMT"
     },
     {
-      "id": "a9c7fb95fe66aabefecde1b87505e665",
-      "title": "BBC says it should have pulled livestream of rap group Bob Vylan over ‘antisemitism’ - AP News",
+      "id": "6f52deb2d123a3c8870085fc33a3adc3",
+      "title": "Israel strikes pound Gaza, killing 60, ahead of US talks on ceasefire - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israel-steps-up-gaza-bombardment-ahead-white-house-talks-ceasefire-2025-06-30/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 14:55:48 GMT"
+    },
+    {
+      "id": "b6047cc52b2eeb267712e29021b21a29",
+      "title": "Spain records highs of 46C and France under alert as Europe swelters in heatwave - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/jun/30/spain-records-highs-of-46c-and-france-under-alert-as-europe-swelters-in-heatwave",
+      "image_url": "https://i.guim.co.uk/img/media/8e1d81a3152dc49a3ceb332bbe2863e070ec440c/764_0_4301_3441/master/4301.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ff940d3818457bc55a9502b0bf080818",
+      "summary": "Fund the free press with $5 per month People seek relief from the heat under a public water jet in Paris, France. Photograph: Romain Perrocheau/AFP/Getty Images Spain records highs of 46C and France under alert as Europe swelters in heatwave Extreme heat ‘the new normal’, says UN chief, as authorities across the continent issue health warnings Ajit Niranjan, European environment...",
+      "published": "Mon, 30 Jun 2025 12:39:00 GMT"
+    },
+    {
+      "id": "183431f64388c32c363d897942a27dda",
+      "title": "Israel in ‘advanced talks’ for deal to end hostilities with Syria, says senior official - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/israel-in-advanced-talks-for-deal-to-end-hostilities-with-syria-says-senior-official/",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/AFP__20250626__63WT68Z__v1__HighRes__IsraelUsArabIranPoliticsDiplomacyConflict.jpg",
+      "summary": "Israel in ‘advanced talks’ for deal to end hostilities with Syria, says senior official Pact would fall short of full peace, with Syrian officials said to prefer limited deal; FM Sa’ar stresses Golan Heights will remain Israeli even if countries normalize relations A billboard is displayed in Tel Aviv by the \"Coalition for Regional Security,\" an Israeli political-security initiative, depicting...",
+      "published": "Mon, 30 Jun 2025 14:24:11 GMT"
+    },
+    {
+      "id": "bf36aa3f5eb8cf8c8acd2fda998a1d49",
+      "title": "In effort to protect children, France bans smoking at parks and beaches - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/30/nx-s1-5450376/france-bans-smoking-parks-beaches-pools-children",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4724x2657+0+295/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2Fee%2F499ad34043488a75dc0dd4b4c648%2Fgettyimages-2217102869.jpg",
+      "summary": "In effort to protect children, France bans smoking at parks and beaches A woman smokes a cigarette at Kerlouan in Brittany in France on May 30. The country is banning smoking in many public places. Vincent Feuray/Hans Lucas/AFP via Getty Images PARIS — A restrictive outdoor smoking ban has come into force in France, a country where café culture, which...",
+      "published": "Mon, 30 Jun 2025 09:46:17 GMT"
+    },
+    {
+      "id": "e5a5c637864a84a2d4ac0b4dc56e6b34",
+      "title": "92-year-old British man convicted of rape and murder in 1967 cold case - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/30/europe/british-man-guilty-rape-louisa-dunne-cold-case-intl-latam-gbr",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/01jz0jw036az18nfqkpz6wn8pq.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Senate holds vote-a-rama on President Trump’s sweeping domestic agenda bill. Watch live 92-year-old British man convicted of rape and murder in 1967 cold case Published 12:41 PM EDT, Mon June 30, 2025 An undated handout photo issued by Avon and Somerset Police of Ryland Headley, now aged 92. Avon and Somerset Police/PA A 92-year-old British man has been convicted of...",
+      "published": "Mon, 30 Jun 2025 16:41:00 GMT"
+    },
+    {
+      "id": "e9c331694713b019dedf12781465394b",
+      "title": "A week into the fragile Israel-Iran peace agreement, here’s what we still don’t know - AP News",
       "source": "AP News",
-      "url": "https://apnews.com/article/uk-glastonbury-bob-vylan-bbc-israel-5f1c607d498c676378ff1540bda0ec23",
+      "url": "https://apnews.com/article/iran-nuclear-program-israel-united-states-uranium-e4656baed33d28e44765bbdc50377197",
       "image_url": "https://apnews.com/favicon.ico",
       "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Mon, 30 Jun 2025 10:27:00 GMT"
+      "published": "Mon, 30 Jun 2025 13:35:00 GMT"
     },
     {
-      "id": "c7c868692b99104a0fa5bdec39813461",
-      "title": "What to Know About the Heat Wave in Europe - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/30/world/europe/heat-wave-europe-what-to-know.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 11:06:17 GMT"
+      "id": "0709166cf35f844ab55fadabd9286e85",
+      "title": "Nato’s summit cannot disguise Ukraine’s plight - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/fd4fe246-3dd7-449a-8740-70bcb0ba08a9",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe70a6d07-4b39-4f54-9a16-238bee444a76.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Nato’s summit cannot disguise Ukraine’s plight Without more military aid, Kyiv’s situation on the battlefield could deteriorate rapidly Nato’s summit cannot disguise Ukraine’s plight on x (opens in a new window) Nato’s summit cannot disguise Ukraine’s plight on facebook...",
+      "published": "Mon, 30 Jun 2025 11:35:03 GMT"
     },
     {
-      "id": "63e2495d2e4fd07fd1a7ee50d8d39d4e",
-      "title": "Dalai Lama set to reveal succession plan as China watches - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/dalai-lama-set-reveal-succession-plan-china-watches-2025-06-30/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 07:59:54 GMT"
+      "id": "fbc095887b5966f3af5627f29d839587",
+      "title": "Israeli settlers rampage at a military base in the West Bank - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/israel/israeli-settlers-rampage-military-base-west-bank-rcna215891",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250630-Israeli-settlers-rampage-rs-2db5db.jpg",
+      "summary": "Israeli settlers rampage at a military base in the West Bank Far-right Security Minister Itamar Ben-Gvir, who has often defended Israelis accused of similar crimes, offered a rare condemnation of Sunday's violence. Mourners carry the bodies of three Palestinians who were killed on Wednesday when Jewish settlers stormed the West Bank village of Kafr Malik. Leo Correa / AP Create...",
+      "published": "Mon, 30 Jun 2025 09:14:34 GMT"
     },
     {
       "id": "c16e213fb4c7ee9e6c2f4c3e6082496d",
@@ -51,58 +96,31 @@
       "published": "Sun, 29 Jun 2025 14:27:25 GMT"
     },
     {
-      "id": "7340e041cfc27f5ca9f8ea8fee942b0f",
-      "title": "80 years later, a Holocaust survivor meets an American soldier who helped free him - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/30/nx-s1-5423692/world-war-ii-reunion-holocaust-liberation-buchenwald-nazis",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4693x2639+385+745/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2Fb2%2F865e95ce4dba85a6710725b33cd2%2F2025-06-usc-holocaustsurvivors-19.jpg",
-      "summary": "80 years later, a Holocaust survivor meets an American soldier who helped free him Andrew Roth (left) stands up from his wheelchair to give Jack Moran a hug at the Shoah Foundation at the University of Southern California in Los Angeles. Roth was imprisoned in the Buchenwald concentration camp, which Moran helped liberate while serving in the U. S. Army....",
-      "published": "Mon, 30 Jun 2025 09:00:00 GMT"
+      "id": "1cc65ed7c183dcd530705454aa917414",
+      "title": "Daily Crossword: The Racing Puzzle — June 30 - Vulture",
+      "source": "Vulture",
+      "url": "https://www.vulture.com/article/daily-crossword-puzzle-june-30-2025.html",
+      "image_url": "https://pyxis.nymag.com/v1/imgs/b23/c87/5d9a5852d38b97bdf8ceed134be2d8609c-Crossword-20250627-lede.1x.rsocial.w1200.jpg",
+      "summary": "By Stella Zawistowski, a crossword constructor, author, and top-ranked speed solver New crosswords dropped every weekday. Find all our games here. Get the 10x10 crossword, Cinematrix, and Telematrix sent to your inbox when they’re ready to play. How YouTube Won the Living Room The streaming giant’s VP of product breaks down its 15-year battle for your TV, and what’s next.",
+      "published": "Mon, 30 Jun 2025 09:00:04 GMT"
     },
     {
-      "id": "fbeee2e7bb10dda3baa7958e78217a44",
-      "title": "France: Smoking ban on beaches goes into effect - DW",
-      "source": "DW",
-      "url": "https://www.dw.com/en/france-smoking-ban-on-beaches-goes-into-effect/a-73081431",
-      "image_url": "https://static.dw.com/image/55664644_6.jpg",
-      "summary": "DW uses cookies and similar technologies to measure usage, display personalized advertising and share personal data and information with up to 186 third parties. You decide for yourself whether you agree to this use of your data. You can adjust individual details under “Settings” and change them at any time. You can view all of DW's content without agreeing. Social...",
-      "published": "Sun, 29 Jun 2025 12:36:21 GMT"
+      "id": "2437c1641cd1793cddffef8da9e279e3",
+      "title": "Massive Pride march in Budapest in defiance of ban - Euronews.com",
+      "source": "Euronews.com",
+      "url": "https://www.euronews.com/2025/06/29/budapest-pride-unprecedented-crowd-defies-hungarian-government-at-illegal-march",
+      "image_url": "https://static.euronews.com/articles/stories/09/34/81/93/1200x675_cmsv2_c9b6976b-9073-5cc0-8310-880e57dacf18-9348193.jpg",
+      "summary": "With your agreement, we and our 188 partners use cookies or similar technologies to store, access, and process personal data like your visit on this website, IP addresses and cookie identifiers. Some partners do not ask for your consent to process your data and rely on their legitimate business interest. You can withdraw your consent or object to data processing...",
+      "published": "Sun, 29 Jun 2025 09:13:09 GMT"
     },
     {
-      "id": "b99ba3f8710acfce156fdd78cd64b582",
-      "title": "Aftermath of deadly Israeli attack on Tehran’s Evin Prison - Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2025/6/29/aftermath-of-deadly-israeli-attack-on-tehrans-evin-prison",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/06/AFP__20250629__647H9KD__v1__HighRes__FilesIranIsraelConflictPrisonToll-1751185024.jpg?resize=1920%2C1440",
-      "summary": "Enrich your Al Jazeera experience by signing in or creating an account. A brief history of US-Iran relations What do satellite images of Fordow show? How Trump rejoined 'team' Netanyahu What is the Fordow nuclear facility? Aftermath of deadly Israeli attack on Tehran’s Evin Prison Iran says Israel kills 71 people in the attack, including staff, soldiers, prisoners and visiting...",
-      "published": "Sun, 29 Jun 2025 09:30:28 GMT"
-    },
-    {
-      "id": "bc633430cc401e8d0d520391e23caeba",
-      "title": "Russia unleashes its summer offensive with an army mired in problems - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/06/30/russia-military-challenges-summer-offensive/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LWBTHIQ2FKTVVECRC5LKHOETW4.JPG&w=1440",
-      "summary": "Russia unleashes its summer offensive with an army mired in problems Russia’s army has vast manpower and equipment advantages over Ukraine, but its progress has been slow and Russian military bloggers blame a culture of military corruption. Russian soldiers search for explosives during a June demining operation in the Donetsk region of eastern Ukraine. (Alexander Ermochenko/Reuters) Russia has unleashed its...",
-      "published": "Mon, 30 Jun 2025 11:31:44 GMT"
-    },
-    {
-      "id": "6ee5dc495a4648570c25a4d3bb310ebb",
-      "title": "Hungary's Orban accuses EU of orchestrating 'repulsive' Pride march - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/hungarys-orban-accuses-eu-orchestrating-repulsive-pride-march-2025-06-29/",
-      "image_url": null,
+      "id": "7ad28e72e90c80a966ad2e7e8733fc57",
+      "title": "Netanyahu says ‘opportunities have opened up’ to free hostages, as Trump demands Gaza ‘deal’ - CNN",
+      "source": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1NYUTRKZXB6OVJLd1lZOVd3OWJ2eUxfRDhPaWlObE1Xd3hCOHZjYlpBc1hJdGlRM3BDZldPdmpBSV9zanpJaG8xdEFIUzVBdFItQjE5TFVoaEJZcXJ4LU1OWF9zaXBZN3F4cTJnM0pKSHFBQnZzdUszcC1aREIwZ0xMTHRIQUs5NVVxVExJUEhGQdIBlwFBVV95cUxPT2t2WlFBbGVmZU1WZzF1c0RGczFGQWlFUzB2b3l3NlA0Yl9KZzZNcnRkSHVULTdUc004M1ZNekZUdnllR2FsMjliWUJMU05INV83X0tvNGpvWWpLcy1hRjVBcTcwbXplcS1uUlVCVWQyeS1rZndkek5XZklpZzlyU3pOb1NlNWdsbW8tQjhHc05vTmEyajhJ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 12:36:29 GMT"
-    },
-    {
-      "id": "419d19277a803824493088e7ccd1016d",
-      "title": "Chile picks Jeannette Jara to face off against right-wing presidential field - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/chile-picks-jeannette-jara-face-off-against-right-wing-presidential-field-2025-06-29/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 03:15:00 GMT"
+      "published": "Mon, 30 Jun 2025 10:22:00 GMT"
     },
     {
       "id": "1fe440917854fa16647af5b82ff51180",
@@ -114,6 +132,42 @@
       "published": "Sun, 29 Jun 2025 16:33:11 GMT"
     },
     {
+      "id": "bc633430cc401e8d0d520391e23caeba",
+      "title": "Russia unleashes its summer offensive with an army mired in problems - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLXF6TVo1WXdWV0g1RmsyWXJCcEVWZWhBbnhtcS1hMXVLdXpWeXlXSmpmVlNENDZjRXVacWpidnBYUGJNVE9sNm1ZcFdYeDdHcl9RSUhpUzdoNERvWWhKVTBQYlVsMGJlSTZIcnRUNnhSdzlzMVNsWmJfTnBLWUlEYzRRalUzWFdkRkR3bFlnbGMxem5zTUE0?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 14:00:34 GMT"
+    },
+    {
+      "id": "406c4087e7f477570dfa3e815439990d",
+      "title": "Who will be the next Dalai Lama? As he turns 90, the leader is making plans - The Times",
+      "source": "The Times",
+      "url": "https://www.thetimes.com/world/asia/article/dalai-lama-birthday-succession-l2cn0b0m0",
+      "image_url": "https://www.thetimes.com/imageserver/image/%2Ff68d2886-a7a5-49ab-a9ac-c0b88a0518e4.jpg?crop=2772%2C1559%2C0%2C61&resize=1200",
+      "summary": "Now showing content from the last twelve months, not just the past six days. Who will be the next Dalai Lama? As he turns 90, the leader is making plans Having lived in exile since 1959, the Tibetan leader believes his successor must come from the scattered community living outside repressive Chinese rule The 14th Dalai Lama is the figurehead...",
+      "published": "Mon, 30 Jun 2025 12:17:14 GMT"
+    },
+    {
+      "id": "b99ba3f8710acfce156fdd78cd64b582",
+      "title": "Aftermath of deadly Israeli attack on Tehran’s Evin Prison - Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2025/6/29/aftermath-of-deadly-israeli-attack-on-tehrans-evin-prison",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/06/AFP__20250629__647H9KD__v1__HighRes__FilesIranIsraelConflictPrisonToll-1751185024.jpg?resize=1920%2C1440",
+      "summary": "Enrich your Al Jazeera experience by signing in or creating an account. A brief history of US-Iran relations What do satellite images of Fordow show? How Trump rejoined 'team' Netanyahu What is the Fordow nuclear facility? Aftermath of deadly Israeli attack on Tehran’s Evin Prison Iran says Israel kills 71 people in the attack, including staff, soldiers, prisoners and visiting...",
+      "published": "Sun, 29 Jun 2025 09:30:28 GMT"
+    },
+    {
+      "id": "419d19277a803824493088e7ccd1016d",
+      "title": "Chile picks Jeannette Jara to face off against right-wing presidential field - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/chile-picks-jeannette-jara-face-off-against-right-wing-presidential-field-2025-06-29/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 03:15:00 GMT"
+    },
+    {
       "id": "2109a12c28f7ce5c03655aec936a28d2",
       "title": "Israel kills nearly 600 Palestinians at aid centres: All you need to know - Al Jazeera",
       "source": "Al Jazeera",
@@ -123,67 +177,13 @@
       "published": "Sun, 29 Jun 2025 14:17:39 GMT"
     },
     {
-      "id": "a1f72e1539a61f983a15f04550927565",
-      "title": "One of Hong Kong's last major pro-democracy parties disbands - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cz7l08dzvljo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/baec/live/307d96a0-5510-11f0-9faa-b7ae8025f148.jpg",
-      "summary": "One of Hong Kong's last major pro-democracy parties disbands Current and former members of the League of Social Democrats announced the disbandment on Sunday On the wall of the League of Social Democrats office, the Chinese characters for freedom are spelt out with court admission slips. Members of the party take turns speaking into a microphone connected to a loudspeaker.",
-      "published": "Sun, 29 Jun 2025 18:42:25 GMT"
-    },
-    {
-      "id": "36d4881fc7cbb49aff0b29cebf7328ff",
-      "title": "Kneecap Curse Out Prime Minister In Controversial Glastonbury Set - Stereogum",
-      "source": "Stereogum",
-      "url": "https://www.stereogum.com/2313513/kneecap-curse-out-prime-minister-in-controversial-glastonbury-set/news/",
+      "id": "acb50906dd837a2d1dedda05aa5d54c8",
+      "title": "Syrian forces massacred 1,500 Alawites. The chain of command led to Damascus. - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/investigations/syrian-forces-massacred-1500-alawites-chain-command-led-damascus-2025-06-30/",
       "image_url": null,
-      "summary": "The request could not be satisfied. Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner. If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this...",
-      "published": "Sat, 28 Jun 2025 19:55:45 GMT"
-    },
-    {
-      "id": "452638f8b8df85432cdabb37673b3ab5",
-      "title": "Turkish police arrest more than 50 people before banned Istanbul Pride parade - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2025/jun/29/turkish-police-arrest-more-than-50-people-before-banned-istanbul-pride-parade",
-      "image_url": "https://i.guim.co.uk/img/media/6685f4079e9f493a8fa65417104d2141b31e7aad/577_0_5779_4622/master/5779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f21e1a755ef9ed00ba0e40952ca4a3ab",
-      "summary": "Fund the free press with $5 per month Pride marches held worldwide in support of LGBTQ+ communities – video Turkish police arrest more than 50 people before banned Istanbul Pride parade City’s bar association says people ‘deprived of their liberty through arbitrary, unjust, and illegal detention’ Last modified on Sun 29 Jun 2025 21. 17 EDT Police arrested more than...",
-      "published": "Mon, 30 Jun 2025 01:17:00 GMT"
-    },
-    {
-      "id": "5edc3718e72a8acbc0740658c35021f9",
-      "title": "@nascarcasm: Fake texts to EchoPark summer winner Chase Elliott - NASCAR.com",
-      "source": "NASCAR.com",
-      "url": "https://www.nascar.com/gallery/fake-texts-2025-echopark-summer-winner-chase-elliott/",
-      "image_url": "https://www.nascar.com/wp-content/uploads/sites/7/2025/06/29/2025-JUNE-ATLANTATEXTS-INTRO.jpg",
-      "summary": "By @nascarcasm | Published: June 29, 2025 10 @nascarcasm imagines fake, congratulatory texts to No. 9 Hendrick Motorsports driver Chase Elliott, winner of the 2025 NASCAR Cup Series summer race at EchoPark Speedway, formerly Atlanta Motor Speedway. Do Not Sell / Share My Information",
-      "published": "Sun, 29 Jun 2025 21:55:33 GMT"
-    },
-    {
-      "id": "2751cf96af82098566b5e17fa201b342",
-      "title": "After months of stalling, Russia blames Ukraine, US for slow pace of peace talks - The Kyiv Independent",
-      "source": "The Kyiv Independent",
-      "url": "https://kyivindependent.com/after-months-of-stalling-russia-blames-ukraine-us-for-stalled-peace-talks-06-2025/",
-      "image_url": "https://assets.kyivindependent.com/content/images/2025/06/GettyImages-2216871824.jpg",
-      "summary": "After months of stalling, Russia blames Ukraine, US for slow pace of peace talks Russian Presidential Press Secretary Dmitry Peskov looks on during a Russian-Yemeni meeting at the Kremlin on May 28, 2025, in Moscow, Russia. (Contributor/Getty Images) This audio is created with AI assistance After months of diplomatic stalling, the Kremlin on June 29 blamed Kyiv and Washington for...",
-      "published": "Mon, 30 Jun 2025 06:51:08 GMT"
-    },
-    {
-      "id": "4794b6c261af875a0c8cb8edeb93a632",
-      "title": "PM: Iran war opened broad regional possibilities, ‘first we need to free the hostages’ - The Times of Israel",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/pm-iran-war-opened-broad-regional-possibilities-first-we-need-to-free-the-hostages/",
-      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/Screenshot-2025-06-29-202153.png",
-      "summary": "PM: Iran war opened broad regional possibilities, ‘first we need to free the hostages’ Top-level cabinet meeting held amid US pressure on Israel to reach a Gaza deal, alongside plans to expand Abraham Accords to Saudi Arabia, Syria; Dermer to meet with US officials Prime Minister Benjamin Netanyahu speaks to Shin Bet staff, June 29, 2025. (Video screenshot) Prime Minister...",
-      "published": "Sun, 29 Jun 2025 21:48:10 GMT"
-    },
-    {
-      "id": "163a6c4c8df4726cf1aaa6e4a4a0a159",
-      "title": "A week of victory for Trump, but his war with the deep state rages on - The Times",
-      "source": "The Times",
-      "url": "https://www.thetimes.com/us/news-today/article/trumps-war-deep-state-rages-on-xwlvbf089",
-      "image_url": "https://www.thetimes.com/imageserver/image/%2F8c7f8b67-3f1c-4616-8257-1fa48577011a.jpg?crop=1500%2C844%2C0%2C78&resize=1200",
-      "summary": "Now showing content from the last twelve months, not just the past six days. A week of victory for Trump, but his war with the deep state rages on A leaked intelligence report questioning the US strikes on Iran outraged the president. His revenge on ‘the establishment’ could be brutal Saturday June 28 2025, 6. 30pm BST, The Sunday Times...",
-      "published": "Sat, 28 Jun 2025 17:30:57 GMT"
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 10:08:57 GMT"
     }
   ]
 }

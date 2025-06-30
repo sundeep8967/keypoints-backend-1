@@ -1,28 +1,10 @@
 {
   "metadata": {
     "source_file": "data/news_science.json",
-    "generation_time": "2025-06-30 15:43:22",
+    "generation_time": "2025-06-30 19:29:48",
     "total_articles": 20
   },
   "articles": [
-    {
-      "id": "6f2ff4c8db786dd234dd925413b04256",
-      "title": "How the largest digital camera ever made is revolutionizing our view of space - vox.com",
-      "source": "vox.com",
-      "url": "https://www.vox.com/future-perfect/418023/vera-rubin-observatory-space-astronomy-asteroids-telescope",
-      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/06/DSC00761-Enhanced-NR.jpg?quality=90&strip=all&crop=0%2C10.750607497012%2C100%2C78.498785005977&w=1200",
-      "summary": "This moment demands more than headlines In a time of noise, confusion, and spin, we’re committed to clarity, truth, and depth — even when it’s hard. That kind of journalism isn’t easy. We rely on readers like you to fund our journalism. Will you support our work and become a Vox Member today? How the largest digital camera ever made...",
-      "published": "Sat, 28 Jun 2025 12:30:00 GMT"
-    },
-    {
-      "id": "4d366a0a5a0b9c29dcd09aaf6daa2f52",
-      "title": "SpaceX sends two batches of Starlink satellites on Saturday doubleheader (video) - Space",
-      "source": "Space",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-34-b1092-ccsfs-asog",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/oVJ9RXkasYR9DpxBqfBLB4.jpg",
-      "summary": "Daytime fireball meteorite hits house! Space Exploration Launches & Spacecraft SpaceX sends two batches of Starlink satellites on Saturday doubleheader (video) By Robert Z. Pearlman last updated 2 days ago The liftoffs occurred at 12:26 a. m. and 1:13 p. m EDT on June 28 from Florida and California, respectively. When you purchase through links on our site, we may...",
-      "published": "Sat, 28 Jun 2025 17:22:17 GMT"
-    },
     {
       "id": "0faa123b1652384d5b3e3aa0d1af6432",
       "title": "NASA Headquarters Budget Protest On Monday - NASA Watch",
@@ -31,6 +13,33 @@
       "image_url": null,
       "summary": "Verify you are human by completing the action below. nasawatch.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
       "published": "Sun, 29 Jun 2025 19:38:31 GMT"
+    },
+    {
+      "id": "ef45df247b320313b7e57496ae4b9ac9",
+      "title": "The second launch of New Glenn will aim for Mars - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2025/06/the-second-launch-of-new-glenn-will-aim-for-mars/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/New-Glenn-1-1152x648.jpg",
+      "summary": "The second launch of New Glenn will aim for Mars The payload likely to spark the most interest is the Blue Moon MK1 lander. Blue Origin's New Glenn rocket launches from Cape Canaveral Space Force Station early January 16, 2025. Credit: Blue Origin Blue Origin is making steady progress toward the second launch of its New Glenn rocket, which could...",
+      "published": "Mon, 30 Jun 2025 14:15:15 GMT"
+    },
+    {
+      "id": "1ee2fa26089d0ee904ca88563be034a6",
+      "title": "Geologists say these rocks are the oldest ever found on Earth - Earth.com",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/news/earths-oldest-known-rocks-formed-over-four-billion-years-ago/",
+      "image_url": "https://cff2.earth.com/uploads/2025/06/27102230/old-rocks.jpg",
+      "summary": "Geologists say these rocks are the oldest ever found on Earth The story of Earth begins long before forests, oceans, or even life itself. Deep beneath our feet lie ancient stones that silently preserve the secrets of our planet’s earliest days. These fragments of Earth’s crust, forged during a time of violent formation and fiery beginnings, are nearly impossible to...",
+      "published": "Mon, 30 Jun 2025 17:55:22 GMT"
+    },
+    {
+      "id": "798cc03ac05238a8441f1cc683a4c0c0",
+      "title": "Scientists warn of 'catastrophic' risks as labs 'play God' with human DNA - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/sciencetech/article-14855031/Scientists-warn-catastrophic-risks-labs-play-God-human-DNA.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/30/14/99857571-0-image-m-19_1751290016408.jpg",
+      "summary": "Scientists sound alarm over lab-made human DNA as 'God-like' project moves forward READ MORE: Police spark outcry for using 'unethical' mind-reading technology on suspects against their will By OSHEEN YADAV FOR DAILYMAIL. COM PUBLISHED: 12:15 EDT, 30 June 2025 | UPDATED: 14:36 EDT, 30 June 2025 Scientists have taken a bold and controversial step toward creating synthetic human DNA from...",
+      "published": "Mon, 30 Jun 2025 16:15:56 GMT"
     },
     {
       "id": "04eb983ace1f5c1f2f4d0792616b9318",
@@ -42,148 +51,139 @@
       "published": "Mon, 30 Jun 2025 11:05:00 GMT"
     },
     {
-      "id": "1ee2fa26089d0ee904ca88563be034a6",
-      "title": "Geologists say these rocks are the oldest ever found on Earth - Earth.com",
-      "source": "Earth.com",
-      "url": "https://www.earth.com/news/earths-oldest-known-rocks-formed-over-four-billion-years-ago/",
-      "image_url": "https://cff2.earth.com/uploads/2025/06/27102230/old-rocks.jpg",
-      "summary": "Geologists say these rocks are the oldest ever found on Earth The story of Earth begins long before forests, oceans, or even life itself. Deep beneath our feet lie ancient stones that silently preserve the secrets of our planet’s earliest days. These fragments of Earth’s crust, forged during a time of violent formation and fiery beginnings, are nearly impossible to...",
-      "published": "Mon, 30 Jun 2025 11:54:36 GMT"
-    },
-    {
-      "id": "bacbbf52d89a0488530460cb0d60281c",
-      "title": "Scientists Launch Wild New Project to Build a Human Genome From Scratch - Gizmodo",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/scientists-launch-wild-new-project-to-build-a-human-genome-from-scratch-2000620762",
-      "image_url": "https://gizmodo.com/app/uploads/2021/02/fenmrzanveycrumkbawt.jpg",
-      "summary": "Scientists Launch Wild New Project to Build a Human Genome From Scratch The medical charity behind the controversial new plan says the benefits outweigh the risks. Published June 29, 2025 | Comments (14) | Researchers are hoping to synthesize an entire human genome from scratch © Mario Tama/Getty Images (Getty Images) A team of UK-based researchers is going where no...",
-      "published": "Sun, 29 Jun 2025 14:00:04 GMT"
+      "id": "a0d235e0cc7e6137c6e043c390a52b08",
+      "title": "Zombie fungus-infected fly that likely lived among dinosaurs is preserved in amber - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/29/science/zombie-fungi-fossil-science-newsletter-wt",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2021-03-10-21-33-03-b-radius8-smoothing4-20250626164808940.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Senate holds vote-a-rama on President Trump’s sweeping domestic agenda bill. Watch live Zombie fungus-infected fly that likely lived among dinosaurs is preserved in amber Published 11:00 AM EDT, Sun June 29, 2025 Fungi can be seen growing out of the head of an insect encased in 99-million-year-old amber. Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences/NIGPAS Editor’s note:...",
+      "published": "Sun, 29 Jun 2025 15:00:00 GMT"
     },
     {
       "id": "af3344b571a7a56ec6aa82160dc02bd0",
       "title": "Scientists retrace 30,000-year-old sea voyage, in a hollowed-out log - The Seattle Times",
       "source": "The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSUJQQkxaU1paX0lmNTNCMURIYUJvelQtdTdIdGRMWVE0VXFzM0NxUGtyOUdtaE95SGNEWERrTllkZWNyS2Y1cnpKaFZ2MGJYa1VDS2dyQk5TUzJWV2NaLXNKakRGWjMwOFgtdENHOGtheTZ0cWh4WWhjY2JDaDgxNm10TDUzY1FlSG1HUWdRTUIwMHVETzdwVlRZU1FfYUlPOEZmcm9rQjRibDlfWnc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.seattletimes.com/nation-world/scientists-retrace-30000-year-old-sea-voyage-in-a-hollowed-out-log/",
+      "image_url": "https://images.seattletimes.com/wp-content/uploads/2025/06/06262025_dugout-tzr_tzr_134508.jpg?d=1200x630",
+      "summary": "Scientists retrace 30,000-year-old sea voyage, in a hollowed-out log June 29, 2025 at 7:01 am Updated June 29, 2025 at 7:01 am In a photo provided by National Museum of Nature and Science, Tokyo shows, researchers crafted a replica of a Paleolithic canoe and set out from Taiwan in 2019 to examine how ancient humans managed to reach islands such...",
       "published": "Sun, 29 Jun 2025 14:01:01 GMT"
     },
     {
-      "id": "a0d235e0cc7e6137c6e043c390a52b08",
-      "title": "Zombie fungus-infected fly that likely lived among dinosaurs is preserved in amber - CNN",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSU8yRXBOUkU4ei15ZUdTOWE0Vm1xV0VzY0w5d0lqQVUyQ3dHZ09oWGc4QXpLQ3BBNVQ3ZmdZZFh0Zm85ZzhSdUNoZUMzaU90dE5aaEg1UjU3XzFUdHlPRzdQeVJBd3BJcHlwdGVERFl3bWVSeUxtYTdOMFFoaHNhY18xLW1YNkHSAYwBQVVfeXFMTkVBR2l2SDQtd1p6RnBDQzY1VDJZMUJKTmZMREx6cXF4RG5yOG00QTVYTUl3VDlPdVdDaEZqZmdVcjZaSXJsSEFLWmRtNjcyZlBLTGZ2MEVJa3Y3MFIwczZ0dzZPVDdQRXllaTRUUFdHR0pKaHdYMlY4dXhXSGtNTWFPSnlDZm4tVnl0NW8?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 15:00:00 GMT"
+      "id": "f1c442f86419cccf4479b702c017dc61",
+      "title": "October 31, 2000: The Final Day When Every Single Human Was on Earth, Before Things Began to Change - Indian Defence Review",
+      "source": "Indian Defence Review",
+      "url": "https://indiandefencereview.com/october-31-2000-the-final-day-when-every-single-human-was-on-earth-before-things-began-to-change/",
+      "image_url": "https://indiandefencereview.com/wp-content/uploads/2025/06/people-walking-in-the-street-in-the-karsiyaka-district.jpg",
+      "summary": "October 31, 2000: The Final Day When Every Single Human Was on Earth, Before Things Began to Change On October 31, 2000, a small crew made history by marking the last time all humans were on Earth. This event set in motion a new chapter in space exploration. October 31, 2000: The Final Day When Every Single Human Was on...",
+      "published": "Mon, 30 Jun 2025 11:30:00 GMT"
     },
     {
-      "id": "70df4f08f9c371b70b8fde10c8cd2ef0",
-      "title": "Removing this one thing from your diet could dramatically increase lifespan - Earth.com",
-      "source": "Earth.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblJpeUVSdWpneFhqcjB6STZQYkdQVzRwNTRlNEVqS3I1UWNJUi02YmZkMVM5UnlKNlc0Yldqd05nd0ZnZkNIQWhIcElDN3JldEd0bzVjM2h6eWUxVVpVNUIxRXE4dUMtbHJmeGhlZHU1YmZUQkJfTDRqNGNuUFprX2NKMGNDSTJMTmNhZXg2WXdBM1pYaDlSR2NCRlFOVHJWeVp0YVE5bGNISXAtUndvZE0xYkFLQlRSclE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 02:15:08 GMT"
+      "id": "71f2850681e7352d766ed145e4d087ea",
+      "title": "First Signal of Climate Change Became Detectable 130 Years Ago - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/first-signal-of-climate-change-became-detectable-130-years-ago",
+      "image_url": "https://www.sciencealert.com/images/2025/06/FireInBoiler.jpg",
+      "summary": "First Signal of Climate Change Became Detectable 130 Years Ago If scientists of the 19th century could have used modern tools to study the atmosphere, they might have noticed the early warning signs of a major shift: human activities, like burning coal and wood, had already begun changing the climate. In a recent thought experiment, a team of Earth and...",
+      "published": "Sun, 29 Jun 2025 19:01:35 GMT"
+    },
+    {
+      "id": "38e6f9ce3d11b71d79fe2396bd44761a",
+      "title": "The ‘Dragon Man’ Skull Isn’t What We Thought—And That’s More Terrifying Than You Realize - The Daily Galaxy",
+      "source": "The Daily Galaxy",
+      "url": "https://dailygalaxy.com/2025/06/dragon-man-skull-isnt-what-we-thought/",
+      "image_url": "https://dailygalaxy.com/wp-content/uploads/2025/06/The-‘Dragon-Man-Skull-Isnt-What-We-Thought—And-Thats-More-Terrifying-Than-You-Realize.jpg",
+      "summary": "The ‘Dragon Man’ Skull Isn’t What We Thought—And That’s More Terrifying Than You Realize A giant skull discovered in China has been confirmed as a Denisovan, not a new species. Credit: Kai Geng | The Daily Galaxy --Great Discoveries Channel A groundbreaking study has resolved the mystery surrounding the “Dragon Man” skull, one of the most significant fossil discoveries in...",
+      "published": "Sun, 29 Jun 2025 19:00:00 GMT"
+    },
+    {
+      "id": "eed038a0de5a9e0e04e4ff666c6e17ba",
+      "title": "MIT's high-tech 'bubble wrap' turns air into safe drinking water — even in Death Valley - Live Science",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/technology/engineering/mits-high-tech-bubble-wrap-turns-air-into-safe-drinking-water-even-in-death-valley",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/UoX9aRza9ZTwtqsMEMFDgZ.png",
+      "summary": "MIT's high-tech 'bubble wrap' turns air into safe drinking water — even in Death Valley By Damien Pine published yesterday Researchers at MIT have tested a new technology for turning water vapor in the atmosphere into drinkable water, even in extreme environments. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.",
+      "published": "Sun, 29 Jun 2025 12:00:00 GMT"
     },
     {
       "id": "f66e8c9c29d805166885ad9b5312e7c2",
       "title": "Scientists Discover 'Goblin Prince' That Roamed With Dinosaurs - ScienceAlert",
       "source": "ScienceAlert",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTExVMW1ieldpS0lZbjFHaFVqb0NWX24tVGhQQWx0bWxXbGlVVVR3ZldWSHZsQlExRmc3TXk1WGRNS29QMTdFMWFCZ2k3bHo4N0VkeU9jYnBRWFljYjJ4OHJzOUFFalg1VjJxUk8zX2JPX0pVbDN4TE5rSmFJWXgwYWhEQy00VWx5R0gzZWZhTUFTNnM?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.sciencealert.com/scientists-discover-goblin-prince-that-roamed-with-dinosaurs",
+      "image_url": "https://www.sciencealert.com/images/2025/06/bolg-final-1.jpg",
+      "summary": "Scientists Discover 'Goblin Prince' That Roamed With Dinosaurs An artist's impression of Bolg amondol. (Cullen Townsend) A newly discovered monstersaur roamed beneath the feet of giant dinosaurs. Paleontologists have described the new species as a giant Gila monster-like reptile, and bestowed on it a name fit for fantasy royalty. The new species has been named Bolg amondol, which basically translates...",
       "published": "Sat, 28 Jun 2025 22:01:44 GMT"
     },
     {
       "id": "13c6b83221912882c29f273f2a9d2c1a",
       "title": "NASA says 'city killer' asteroid could smash into moon and is 'not safe' - Irish Star",
       "source": "Irish Star",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOEFTZnR2RTZkUGNmNGh1Mm13NXkxc3BSQlhST0Q2dnl2WnRkSXlZNVpUQ0tKMmhaRUFVUWQ0YWU4RXRQS0tJQUdicldBbF9HTlNxdFB3d3ZlUEZTN2o0Mm9wUllQVURGcG15WHJoUG9ocm1QYmtodldVbndmTHgzQjFB?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.irishstar.com/news/us-news/yr4-asteroid-nasa-space-moon-35470577",
+      "image_url": "https://i2-prod.irishstar.com/article35470574.ece/ALTERNATES/s1200/0_Near-Earth-asteroid-artwork.jpg",
+      "summary": "NASA says 'city killer' asteroid could smash into moon and is 'not safe' The huge asteroid 2024 YR4 was first discovered in 2024 and initially thought to have a 1 in 450 chance of smashing into Earth, but the space agency has now said it will instead hit the Moon, though the consequences could still be devastating Ryan Fahey News...",
       "published": "Sun, 29 Jun 2025 13:45:00 GMT"
-    },
-    {
-      "id": "eed038a0de5a9e0e04e4ff666c6e17ba",
-      "title": "MIT's high-tech 'bubble wrap' turns air into safe drinking water — even in Death Valley - Live Science",
-      "source": "Live Science",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM1NNN2w2YnZYNEZWMWpRYkhZR2toUEpLLU4wTTRhbzE0TFdaZlRGNlJTYjNGclRyN3dSaG9laGJDeWF0WVdScVNmZ3RLQ0xndEc4YjRzN21qZENsQjNDeDRDelViVS15QXdDdFNyZUZuekg2aVpsS3BjbzNJeURKYWI1ZXhGUExHdC1lSWdPbUhyTW1CVzQ2a3NRVWR0ajY1R1BXclNqU2Z6dlhlaTh1V2xPbFZ5V2wwRmNfTWZxMGVYUFNwSkdEWkxra1M0Zw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 12:00:00 GMT"
-    },
-    {
-      "id": "46eb02c5b3b1b16629357763fa5a2501",
-      "title": "Physicists Catch Light in 'Imaginary Time' in Scientific First - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjAtenRqVzVXYlRSX0ZncTBEdFJTWVpUc2lhQ1ZQem9WS295X3l5b21uY3ZpU2k3WXA0b29MLS05TjA2VGt6TUo4YzdjSHdBZElWZ0s5a0t5ZkcwREtaMTlhRkZHT2J2SWNNQ2h6dVFiVm5mc0s0WDJQRWVxVVNYb0twdFhVRDZsVGRFRnJMR3ZPNXc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 01:40:47 GMT"
-    },
-    {
-      "id": "38e6f9ce3d11b71d79fe2396bd44761a",
-      "title": "The ‘Dragon Man’ Skull Isn’t What We Thought—And That’s More Terrifying Than You Realize - The Daily Galaxy",
-      "source": "The Daily Galaxy",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4bVlhc2tlVEhRendOUW9iaVRnblJrZENBWTBSd09BNVgyeGxTbkFFajVXUzJyTEpRSXROalFZNG51SE9va3ZWcVkzMThpaGJZemZOQWtvTE5LMXN3aThwOW1qekdDXzZscmxIblBFeGtGanZ6cjdZYmVB?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 19:00:00 GMT"
-    },
-    {
-      "id": "466377363db279ef6193494b7a22d10d",
-      "title": "Solar Flare Photobombs The ISS in Perfectly Timed Photo - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb2FyQV9hWmZMYkZ0aFVDMmlPVkhyNmpWb2dFbktQUXpZQ196LXg4Ulk4czM3WF9VSEpncVpEUTUxX21KODZFWGdFam1yNlFLUnRRYVBySVA2Vk1EVlAzYkNGT2lzRnhTWVhtWTVEUUlIeU5ZVEVQRkFheXdDbjg2OFh2NEdkUWZYZGd1Qw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 13:04:29 GMT"
-    },
-    {
-      "id": "c09dad069e112927f60dc845c86d0539",
-      "title": "Fresh lava from Earth's mantle found bursting onto the surface where a new ocean is forming - Earth.com",
-      "source": "Earth.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWTJZdFdhbnJNYXJqMWdPcGI1ZTNCRXVKUzBqZEk2VHZnejZqbEV4bEMwZy1aMTFtWHd1MnpaOUFmcmR6TWZVbjZ2TU5QTzBiSzc5NzBVVVVQSVNNR2lyOXJwQ092S0VfdWpVRUo0SnVtalJ5X2lOeUJpM2Vxd0RuRmZaT2hHbFoyRTZWb1hvaVpGSlR3MUxyNEU4SDBUVHR6NHpObXdvYlVpZ3B2clU0NA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 10:59:09 GMT"
-    },
-    {
-      "id": "f2c025a601ff1aca7d8dbc906bf5fbc7",
-      "title": "Early visions of Mars: Meet the 19th-century astronomer who used science fiction to imagine the red planet - Space",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSWFhODk4alc4cXpDRkdQUjUzNUZnZFROZXI3cjZWdE9YQ045ckxfcWN1NkFMYjV5X0xHZ0xPemxoQV9nNU8zV0dqZ0luc2JnZ1dqbTlKdFl1eDViX2RpcE9jUXFkcW9tb3hFanRJZnRJWndmOXE4MUIwb2lxWWhDZ253bmFvalpZSERVb1FlSWdiMXlEMVd3TC12amQ4UmlKSW1nOURfQWRETXRWbTl5QVBPenRvaWJhRzYyUTlMYXJzSUF3eWdTLTRtVVdCY0Q4TmNxQmFzREMxdw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 13:00:00 GMT"
     },
     {
       "id": "6c31f39059c86e3fa9e1fa5bf809115a",
       "title": "Astronomers capture first direct image of the \"cosmic web\" that binds the Universe - Earth.com",
       "source": "Earth.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORFZvOGs2QXhIaGVtQ3pySDVTRmU0WWwwNXZrek5POTFocUw0eUViWW1rS1JKUFh4NEVSZDNnWlhLRDFRVUcxVUxWdGFPN0lXdXB2WERzOVpBekE3dFltT0tpWVFIVG4waWh6VVFaMmdsVDJvZmJqc0hnZ25JenRUUzNmMlBzUXdXdjFXakYyd2xXTXZzMVhGNXk3SU9yanF2MmFzbQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 10:34:54 GMT"
+      "url": "https://www.earth.com/news/first-direct-image-cosmic-web-filaments-hidden-highways-universe-framework/",
+      "image_url": "https://cff2.earth.com/uploads/2025/02/28211520/cosmic-web_gas-filaments_universe-framework-highways_credit-Davide-Tornotti_1m.jpg",
+      "summary": "Astronomers capture first direct image of the \"cosmic web\" that binds the Universe Space isn’t empty at all. It’s threaded with wisps of matter so thin that even the best telescopes struggle to see them. Astronomers call this vast network the cosmic web. It is the hidden skeleton that anchors galaxies and steers their growth. Until recently, the web’s finest...",
+      "published": "Sun, 29 Jun 2025 03:33:45 GMT"
+    },
+    {
+      "id": "70df4f08f9c371b70b8fde10c8cd2ef0",
+      "title": "Removing this one thing from your diet could dramatically increase lifespan - Earth.com",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/news/eating-less-of-this-amino-acid-isoleucine-boosts-lifespan-in-mice-an-average-of-33-percent/",
+      "image_url": "https://cff2.earth.com/uploads/2025/06/29192623/isoleucine-amino-acid_soy-protein_cutting-back_longer-life_1m.jpg",
+      "summary": "Removing this one thing from your diet could dramatically increase lifespan For decades, studies on mice, monkeys, and even roundworms have pointed to calorie restriction as a ticket to longevity. Trouble is, perpetual hunger does not rank high on most bucket lists, and adherence to such strict diets tends to plummet once real life barges in with birthdays and barbecues.",
+      "published": "Mon, 30 Jun 2025 02:15:08 GMT"
+    },
+    {
+      "id": "52762bd9cb24bce9b8ba64323766d715",
+      "title": "Earth's Energy Imbalance Has Doubled in 2 Decades, Study Warns - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/earths-energy-imbalance-has-doubled-in-2-decades-study-warns",
+      "image_url": "https://www.sciencealert.com/images/2021-09/processed/childrenclimatedisaster_1024.jpg",
+      "summary": "Earth's Energy Imbalance Has Doubled in 2 Decades, Study Warns By STEVEN SHERWOOD ET AL. , THE CONVERSATION (Fajrin Raharjo Raharjo/Getty Images) How do you measure climate change? One way is by recording temperatures in different places over a long period of time. While this works well, natural variation can make it harder to see longer-term trends. But another approach...",
+      "published": "Mon, 30 Jun 2025 02:54:59 GMT"
+    },
+    {
+      "id": "982d015d0ee451651f9ca5c7eaa44e42",
+      "title": "Mysterious Pulsation Shakes the Earth’s Mantle Beneath Africa… Something Is Afoot! - Indian Defence Review",
+      "source": "Indian Defence Review",
+      "url": "https://indiandefencereview.com/mysterious-pulsation-shakes-the-earths-mantle-beneath-africa-something-is-afoot/",
+      "image_url": "https://indiandefencereview.com/wp-content/uploads/2025/06/aerial-view-of-the-great-rift-valley-kenya.jpg",
+      "summary": "Mysterious Pulsation Shakes the Earth’s Mantle Beneath Africa… Something Is Afoot! A mysterious pulse beneath Africa’s surface is reshaping the continent in ways that could change the world. Deep within the Afar region, powerful forces are quietly at work. Aerial View Of The Great Rift Valley, Kenya. Credit: Shutterstock | Indian Defence Review In the remote Afar region of northeastern...",
+      "published": "Sun, 29 Jun 2025 10:45:00 GMT"
+    },
+    {
+      "id": "46eb02c5b3b1b16629357763fa5a2501",
+      "title": "Physicists Catch Light in 'Imaginary Time' in Scientific First - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/physicists-catch-light-in-imaginary-time-in-scientific-first",
+      "image_url": "https://www.sciencealert.com/images/2025/06/abstract_light_imaginary_no_header.jpg",
+      "summary": "Physicists Catch Light in 'Imaginary Time' in Scientific First (agsandrew/Getty Images Pro/Canva) For the first time, researchers have seen how light behaves during a mysterious phenomenon called 'imaginary time'. When you shine light through almost any transparent material, the gridlock of electromagnetic fields that make up the atomic alleys and side streets will add a significant amount of time to...",
+      "published": "Mon, 30 Jun 2025 01:40:47 GMT"
+    },
+    {
+      "id": "466377363db279ef6193494b7a22d10d",
+      "title": "Solar Flare Photobombs The ISS in Perfectly Timed Photo - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/solar-flare-photobombs-the-iss-in-perfectly-timed-photo",
+      "image_url": "https://www.sciencealert.com/images/2025/06/iss-photobomb.jpg",
+      "summary": "Solar Flare Photobombs The ISS in Perfectly Timed Photo A solar flare and the ISS in the one shot of the face of the Sun. (Andrew McCarthy/X) Pictures of the International Space Station as it passes in front of the Sun or Moon are a bit of a feather in the cap of space photographers – but Arizona-based astrophotographer Andrew...",
+      "published": "Sun, 29 Jun 2025 13:04:29 GMT"
     },
     {
       "id": "eb339fd170a614aafc11dd27f2d3b134",
       "title": "Does Mars have a moon? - Live Science",
       "source": "Live Science",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tZkdXekwxbzlZRzA3d3ZwMXF5NVJQeV9wQjlLNG53THZ3WTNDTW1RRHFvLVhZN1Qwc0p5cW95d2tnTW9yMFR6bmlDSmhjTVg3bVdvMk1YeTFjbXFKejZ1enFvUENnR2dBTHBvTQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.livescience.com/space/mars/does-mars-have-a-moon",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/uTAhaXURnAR8FUgnPeqcxL.jpg",
+      "summary": "By Marilyn Perkins published yesterday Mars is smaller than Earth, but does it have any moons? When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Does the Red Planet have any moons? (Image credit: NASA/JPL-Caltech/USGS) One summer night in 1877, American astronomer Asaph Hall was looking through his telescope in Washington,...",
       "published": "Sun, 29 Jun 2025 09:00:00 GMT"
-    },
-    {
-      "id": "74907abf90bf2f8a145de5a3a846dd42",
-      "title": "Scientists Stumble Upon Mysterious Lifeform They Can’t Yet Explain - The Daily Galaxy",
-      "source": "The Daily Galaxy",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YSjZRbV83STNDbnlxR2VpTS1fX1VwWmZuV185bzZGRlozcjhaRmFuUDhOczBwSU1LUmpTeDctMU03bU1rLWZnc3dIZm1nOFVKRkw1YzNFZ2xSLXVRZ0VhOTRZSTBFSTNOWjdpVnZhMTFyc1k?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 18:00:00 GMT"
     }
   ]
 }
