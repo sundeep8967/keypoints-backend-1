@@ -1,36 +1,63 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-06-29 19:19:54",
+    "generation_time": "2025-06-30 02:44:47",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "f44157f9a593a1c69d6252480bae442d",
-      "title": "Ukraine F-16 pilot killed in large-scale Russian attack, Zelenskiy calls for US help - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/least-six-wounded-large-scale-russian-air-attack-ukraine-ukrainian-authorities-2025-06-29/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 11:42:44 GMT"
+      "id": "7ad28e72e90c80a966ad2e7e8733fc57",
+      "title": "Netanyahu says ‘opportunities have opened up’ to free hostages, as Trump demands Gaza ‘deal’ - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/29/middleeast/netanyahu-hostages-opportunity-iran-intl-latam",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2209060847.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Netanyahu says ‘opportunities have opened up’ to free hostages, as Trump demands Gaza ‘deal’ By Oren Liebermann and Tamar Michaelis, CNN Updated 9:20 PM EDT, Sun June 29, 2025 Israeli Prime Minister Benjamin Netanyahu attends a meeting with US President Donald Trump in the Oval Office of the White House in Washington, DC, on April 7. Kevin Dietsch/Getty Images Prime...",
+      "published": "Sun, 29 Jun 2025 21:32:00 GMT"
     },
     {
-      "id": "a73764511e335af53db3eddca06b2852",
-      "title": "Alone in Tehran, a young Iranian turns to ChatGPT and video games for comfort - NPR",
+      "id": "b1e8b6d7fbd4ed074b36e05e8cd6596e",
+      "title": "Russia launches record aerial attack on Ukraine - NPR",
       "source": "NPR",
-      "url": "https://www.npr.org/2025/06/29/nx-s1-5449064/iran-israel-war-ai-chatgpt",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x1800+0+166/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F80%2Fbb%2F8b66441848b1858ae79493b3b6ee%2Fgettyimages-2219731254.jpg",
-      "summary": "Alone in Tehran, a young Iranian turns to ChatGPT and video games for comfort Smoke billows from an explosion at the Islamic Republic of Iran Broadcasting (IRIB) building in Tehran after an Israeli strike hit the building, cutting off live coverage, on June 16. AMMAN, Jordan — Roxana, a young shop manager living alone in Tehran, was panicking during the...",
-      "published": "Sun, 29 Jun 2025 13:47:22 GMT"
+      "url": "https://www.npr.org/2025/06/29/nx-s1-5450152/russia-attack-ukraine",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2531+0+233/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F5f%2F14f4b5bf4ad18f307ba3798ed6f4%2Fap25179464848280.jpg",
+      "summary": "Russia launches record aerial attack on Ukraine Russian President Vladimir Putin, Moscow, Russia, Saturday, June 28, 2025. Gavriil Grigorov/Pool Sputnik Kremlin/AP KYIV — Russia launched the largest aerial assault on Ukraine overnight since the beginning of the full-scale invasion, according to the Ukrainian Air Force, which added that one of its F-16 fighter jet pilots was killed in the attack.",
+      "published": "Sun, 29 Jun 2025 11:54:23 GMT"
     },
     {
-      "id": "4972c6dcdd2f83146db6bc9690adda0a",
-      "title": "Israel’s Military Appears Poised to Expand Into Gaza City Amid Cease-Fire Calls - The New York Times",
+      "id": "345e5a23f7178cf4e85eb511af19a115",
+      "title": "Iran releases death toll of Israel’s Evin prison attack as officials remain suspicious of ceasefire - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/israel-iran-war-nuclear-06-29-2025-da0d0f6e1a9bf89a30a2589e73cff2ad",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sun, 29 Jun 2025 20:11:00 GMT"
+    },
+    {
+      "id": "dda436c7ee2bf5cd318048a2e64718b9",
+      "title": "Europe Heat Wave Drives Record-High Temperatures, Prompting Health Alerts - The New York Times",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/29/world/middleeast/gaza-israel.html",
+      "url": "https://www.nytimes.com/2025/06/29/world/europe/europe-heat-wave-record-temperatures.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 10:56:21 GMT"
+      "published": "Sun, 29 Jun 2025 19:13:14 GMT"
+    },
+    {
+      "id": "6ee5dc495a4648570c25a4d3bb310ebb",
+      "title": "Hungary's Orban accuses EU of orchestrating 'repulsive' Pride march - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/hungarys-orban-accuses-eu-orchestrating-repulsive-pride-march-2025-06-29/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sun, 29 Jun 2025 12:36:29 GMT"
+    },
+    {
+      "id": "a1f72e1539a61f983a15f04550927565",
+      "title": "One of Hong Kong's last major pro-democracy parties disbands - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cz7l08dzvljo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/baec/live/307d96a0-5510-11f0-9faa-b7ae8025f148.jpg",
+      "summary": "One of Hong Kong's last major pro-democracy parties disbands",
+      "published": "Sun, 29 Jun 2025 18:42:25 GMT"
     },
     {
       "id": "cb4d0a39a6b93bbab28a5dd493d6863a",
@@ -42,49 +69,76 @@
       "published": "Sun, 29 Jun 2025 12:33:00 GMT"
     },
     {
-      "id": "2437c1641cd1793cddffef8da9e279e3",
-      "title": "Massive Pride march in Budapest in defiance of ban - Euronews.com",
-      "source": "Euronews.com",
-      "url": "https://www.euronews.com/2025/06/29/budapest-pride-unprecedented-crowd-defies-hungarian-government-at-illegal-march",
-      "image_url": "https://static.euronews.com/articles/stories/09/34/81/93/1200x675_cmsv2_c9b6976b-9073-5cc0-8310-880e57dacf18-9348193.jpg",
-      "summary": "With your agreement, we and our 190 partners use cookies or similar technologies to store, access, and process personal data like your visit on this website, IP addresses and cookie identifiers. Some partners do not ask for your consent to process your data and rely on their legitimate business interest. You can withdraw your consent or object to data processing...",
-      "published": "Sun, 29 Jun 2025 09:13:09 GMT"
+      "id": "106927a118075fa82db1f01862488464",
+      "title": "Glastonbury Officials “Appalled” By Bob Vylan’s Anti-Israel “Hate Speech” Chant From Stage - Deadline",
+      "source": "Deadline",
+      "url": "https://deadline.com/2025/06/glastonbury-response-bob-vylan-1236445442/",
+      "image_url": "https://deadline.com/wp-content/uploads/2025/06/GettyImages-2222667430.jpg?w=1024",
+      "summary": "You will be redirected back to your article in 8 seconds",
+      "published": "Sun, 29 Jun 2025 19:06:00 GMT"
     },
     {
-      "id": "6a716b3c2bfb2b8610d2d4f13af1376e",
-      "title": "Extreme heat grips southern Europe as temperatures surpass 100 degrees - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/climate-environment/2025/06/29/southern-europe-heat-wave-2025/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FWKHX5SCE5NMFHRQ4SIA2VGYB4_size-normalized.jpg&w=1440",
-      "summary": "Extreme heat grips southern Europe as temperatures surpass 100 degrees Portugal is expected to see highs of up to 109 degrees Fahrenheit. Parts of Spain, France, Italy and Greece are also bracing for extreme heat. Water fountains in the Parque Madrid Rio offer respite amid sweltering temperatures on Saturday during the first heat wave of the summer in Madrid. (Thomas...",
-      "published": "Sun, 29 Jun 2025 15:49:14 GMT"
-    },
-    {
-      "id": "53468e46c4eb8e402f797729aa97dc92",
-      "title": "Deadline nears for Taiwan's Chinese immigrants to prove no China household registration - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/29/g-s1-73842/taiwan-china-immigrants-household-registration",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+378/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2F6d%2Fed6604e2425f8e7500572e0a011d%2Fchang-2.jpeg",
-      "summary": "Deadline nears for Taiwan's Chinese immigrants to prove no China household registration Chang Chih-yuan as a child, with his mother and Taiwanese father, when they were still living in China. TAIPEI, Taiwan — The clock is ticking for roughly 12,000 Chinese immigrants in Taiwan, who have until Monday to prove they've given up their household registration in China. Failure to...",
-      "published": "Sun, 29 Jun 2025 13:36:12 GMT"
-    },
-    {
-      "id": "37554d6213bc7f1d32133e25baa4a3a2",
-      "title": "At least 81 people killed in Israeli strikes in Gaza, Hamas-run health ministry says - BBC",
+      "id": "4cb1f0958a3c5901d1624889bbfca990",
+      "title": "Thousands in Norway told they won up to millions in lottery error - BBC",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/czry8g5n80zo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0999/live/b8653d70-5443-11f0-aa04-63f097c9ce41.jpg",
-      "summary": "At least 81 people killed in Israeli strikes in Gaza, Hamas-run health ministry says",
-      "published": "Sun, 29 Jun 2025 06:18:07 GMT"
+      "url": "https://www.bbc.com/news/articles/c15wn70v7z8o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/95cc/live/110ac960-54ec-11f0-b6d1-7fd871c2cc9d.jpg",
+      "summary": "Thousands in Norway told they won up to millions in lottery error Eurojackpot tickets are sold across a number of European countries (file photo from Poland) Scores of Norwegians thought they had become millionaires after receiving a notification from the state-owned gambling company saying they had won eye-watering sums - until it turned out it was a mistake. \"Several thousand\"...",
+      "published": "Sun, 29 Jun 2025 15:04:00 GMT"
     },
     {
-      "id": "5a079e26978235856f1a363217186a74",
-      "title": "Glastonbury ‘Appalled’ by Bob Vylan’s Chant Against Israel’s Military - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/29/world/europe/bob-vylan-idf-palestine-glastonbury.html",
+      "id": "2c35e16daacc304c4add9723892ed626",
+      "title": "Israeli strikes kill more than 60 people in Gaza, health officials say - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2025/jun/28/israeli-strikes-kill-scores-of-people-in-gaza-health-officials-say",
+      "image_url": "https://i.guim.co.uk/img/media/401df8f77c3867b7128248db84b04ace6fbe739c/465_0_4283_3427/master/4283.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1255c50890020ea11ffd4740a6679934",
+      "summary": "Fund the free press with $5 per month Footage shows aftermath of Israeli strike on tent camp in Gaza City – video Israeli strikes kill more than 60 people in Gaza, health officials say Latest deaths come amid worsening humanitarian situation despite renewed hope for ceasefire Last modified on Sat 28 Jun 2025 13. 55 EDT At least 62 people...",
+      "published": "Sat, 28 Jun 2025 17:55:00 GMT"
+    },
+    {
+      "id": "452638f8b8df85432cdabb37673b3ab5",
+      "title": "Turkish police arrest more than 50 people before banned Istanbul Pride parade - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2025/jun/29/turkish-police-arrest-more-than-50-people-before-banned-istanbul-pride-parade",
+      "image_url": "https://i.guim.co.uk/img/media/6685f4079e9f493a8fa65417104d2141b31e7aad/577_0_5779_4622/master/5779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f21e1a755ef9ed00ba0e40952ca4a3ab",
+      "summary": "Fund the free press with $5 per month Pride marches held worldwide in support of LGBTQ+ communities – video Turkish police arrest more than 50 people before banned Istanbul Pride parade City’s bar association says people ‘deprived of their liberty through arbitrary, unjust, and illegal detention’ Last modified on Sun 29 Jun 2025 21. 17 EDT Police arrested more than...",
+      "published": "Sun, 29 Jun 2025 21:38:00 GMT"
+    },
+    {
+      "id": "d9a6d3537221cb86d969815456b25dce",
+      "title": "Big beautiful bottleneck: Trump's high-stakes week at home and abroad - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/28/nx-s1-5449188/trump-trade-tariffs-supreme-court-megabill",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4983x2803+0+260/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F4f%2F3a59a46a406dbccf89bedc1636cc%2Fgettyimages-2222467286.jpg",
+      "summary": "Big beautiful bottleneck: Trump's high-stakes week at home and abroad President Trump takes part in a news conference on Friday's Supreme Court rulings in the briefing room at the White House. For President Trump, it's been — to borrow a phrase — one big, beautiful week. A favorable Supreme Court ruling on Friday prompted Trump to hold an impromptu press...",
+      "published": "Sat, 28 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "id": "e073c19597041ee3d0b4b82988003f1e",
+      "title": "Kneecap Curse Out Prime Minister In Controversial Glastonbury Set - stereogum.com",
+      "source": "stereogum.com",
+      "url": "https://www.stereogum.com/2313513/kneecap-curse-out-prime-minister-in-controversial-glastonbury-set/news/",
+      "image_url": null,
+      "summary": "The request could not be satisfied. Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner. If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this...",
+      "published": "Sat, 28 Jun 2025 19:55:06 GMT"
+    },
+    {
+      "id": "773fdb6f7009e85abde1371137cb805c",
+      "title": "Israel orders evacuations in northern Gaza as Trump calls for war to end - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israel-orders-evacuations-northern-gaza-trump-calls-war-end-2025-06-29/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 16:25:15 GMT"
+      "published": "Sun, 29 Jun 2025 11:40:37 GMT"
+    },
+    {
+      "id": "5b3d1aba5f818f61d48050b7224cf5b6",
+      "title": "What’s Left of the Su-34s at Marinovka Airfield: Ukraine’s Drone Strike Confirmed by Satellite Images - Defense Express",
+      "source": "Defense Express",
+      "url": "https://en.defence-ua.com/news/whats_left_of_the_su_34s_at_marinovka_airfield_ukraines_drone_strike_confirmed_by_satellite_images-14987.html",
+      "image_url": "https://en.defence-ua.com/media/illustration/articles/d0b68615ae05b706.jpg",
+      "summary": "What’s Left of the Su-34s at Marinovka Airfield: Ukraine’s Drone Strike Confirmed by Satellite Images The russian occupying forces primarily use Su-34 fighter-bombers to drop guided glide bombs (KABs) on Ukrainian towns and villages On June 27, Ukraine’s Security Service (SSU) announced that, in cooperation with the Special Operations Forces (SOF), a special operation was carried out at Marinovka airfield...",
+      "published": "Sun, 29 Jun 2025 17:03:45 GMT"
     },
     {
       "id": "dc493a655acf579cfb87e712b1321fd6",
@@ -105,76 +159,13 @@
       "published": "Sun, 29 Jun 2025 09:00:00 GMT"
     },
     {
-      "id": "5a8286c50b68391ee8cd8cf753bb6087",
-      "title": "Iran’s judiciary says at least 71 killed in Israel’s attack on Tehran’s notorious Evin prison - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/israel-iran-war-nuclear-06-29-2025-da0d0f6e1a9bf89a30a2589e73cff2ad",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Sun, 29 Jun 2025 13:33:00 GMT"
-    },
-    {
-      "id": "d9a6d3537221cb86d969815456b25dce",
-      "title": "Big beautiful bottleneck: Trump's high-stakes week at home and abroad - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/28/nx-s1-5449188/trump-trade-tariffs-supreme-court-megabill",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4983x2803+0+260/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F4f%2F3a59a46a406dbccf89bedc1636cc%2Fgettyimages-2222467286.jpg",
-      "summary": "Big beautiful bottleneck: Trump's high-stakes week at home and abroad President Trump takes part in a news conference on Friday's Supreme Court rulings in the briefing room at the White House. For President Trump, it's been — to borrow a phrase — one big, beautiful week. A favorable Supreme Court ruling on Friday prompted Trump to hold an impromptu press...",
-      "published": "Sat, 28 Jun 2025 09:00:00 GMT"
-    },
-    {
-      "id": "36d4881fc7cbb49aff0b29cebf7328ff",
-      "title": "Kneecap Curse Out Prime Minister In Controversial Glastonbury Set - Stereogum",
-      "source": "Stereogum",
-      "url": "https://www.stereogum.com/2313513/kneecap-curse-out-prime-minister-in-controversial-glastonbury-set/news/",
-      "image_url": null,
-      "summary": "The request could not be satisfied. Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner. If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this...",
-      "published": "Sat, 28 Jun 2025 19:55:06 GMT"
-    },
-    {
-      "id": "95678aacbf6fcdc7d1b6572dbc5c3466",
-      "title": "Iran holds funeral procession for top commanders killed in Israeli strikes - Financial Times",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/2937ebc0-fb72-4660-a8a5-ed1e70bac659",
-      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0c8e7346-26e1-4741-8e67-991c841ab5dd.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Iran holds funeral procession for top commanders killed in Israeli strikes Mourners take to Tehran streets but supreme leader Ayatollah Ali Khamenei does not attend traditional prayers The crowd marches behind vehicles carrying the caskets of 60 people ©...",
-      "published": "Sat, 28 Jun 2025 09:55:12 GMT"
-    },
-    {
-      "id": "83afa00570ea9515026654f43614423b",
-      "title": "France to ban smoking in public places to protect children - Euronews.com",
-      "source": "Euronews.com",
-      "url": "https://www.euronews.com/health/2025/06/28/france-to-ban-smoking-in-schools-parks-beaches-to-protect-children",
-      "image_url": "https://static.euronews.com/articles/stories/09/34/79/45/1200x675_cmsv2_11e10504-5480-5581-867f-124401efaced-9347945.jpg",
-      "summary": "With your agreement, we and our 190 partners use cookies or similar technologies to store, access, and process personal data like your visit on this website, IP addresses and cookie identifiers. Some partners do not ask for your consent to process your data and rely on their legitimate business interest. You can withdraw your consent or object to data processing...",
-      "published": "Sat, 28 Jun 2025 14:20:20 GMT"
-    },
-    {
-      "id": "8188ff8c551793224a34970e44fdb1ed",
-      "title": "GHF boss defends Gaza aid operation after hundreds of Palestinians killed near sites - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c20rz63g1zko",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/84d1/live/1eed42b0-5375-11f0-9fdf-1397077316aa.jpg",
-      "summary": "GHF boss defends Gaza aid operation after hundreds of Palestinians killed near sites A Palestinian man carrying a sack of aid in Khan Younis last month The head of a controversial US and Israeli-backed aid group has defended its work after repeated incidents of killings and injuries of Palestinians seeking aid. Gaza Humanitarian Foundation (GHF) boss Johnnie Moore told the...",
-      "published": "Fri, 27 Jun 2025 21:29:43 GMT"
-    },
-    {
-      "id": "355618db364ce4057f9812cb7186f99c",
-      "title": "Trump Said He OK'd Iran's Plan to Strike Al Udeid. His Top Military Adviser Said Troops There Fended Off Missiles. - Military.com",
-      "source": "Military.com",
-      "url": "https://www.military.com/daily-news/2025/06/27/trump-said-he-okd-irans-plan-strike-al-udeid-his-top-military-adviser-said-troops-there-fended-off.html",
-      "image_url": "https://images04.military.com/sites/default/files/styles/full/public/2025-06/ApNewsroom_APTOPIX_Netherlands_NATO_Summit_99225.jpg",
-      "summary": "Trump Said He OK'd Iran's Plan to Strike Al Udeid. His Top Military Adviser Said Troops There Fended Off Missiles. President Donald Trump speaks during a media conference at the end of the NATO summit as Foreign Secretary Marco Rubio, right, and Defence Secretary Pete Hegseth listen, in The Hague, Netherlands, Wednesday, June 25, 2025. (AP Photo/Alex Brandon) Military. com...",
-      "published": "Fri, 27 Jun 2025 22:42:11 GMT"
-    },
-    {
-      "id": "16a7b657da55a4721632413e0db35558",
-      "title": "Top Ukrainian commander sees new assault on key eastern city - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/top-ukrainian-commander-sees-new-assault-key-eastern-city-2025-06-28/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 19:17:42 GMT"
+      "id": "56f1fe1c67a341639e8cf0091a3d314b",
+      "title": "France bans smoking in beaches, parks and bus shelters from Sunday - France 24",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20250628-france-bans-smoking-in-beaches-parks-and-bus-shelters-from-sunday",
+      "image_url": "https://s.france24.com/media/display/6b1596c6-3cb2-11f0-9538-005056bfb2b6/w:1280/p:16x9/000_18A2E9.jpg",
+      "summary": "Your personal data, your options, our responsibility We and our partners use cookies or similar technologies to access and store non-sensitive information such as your IP address. The processing of your personal data allows us, for example, to improve your user experience, monitor audience ratings, offer social networks features, or display personalized advertisements. By clicking \"Accept\", you consent to the...",
+      "published": "Sat, 28 Jun 2025 07:13:32 GMT"
     },
     {
       "id": "eb5f0043508355e39cd6f5f163ff259d",
@@ -184,6 +175,15 @@
       "image_url": null,
       "summary": "No content available for summarization.",
       "published": "Sat, 28 Jun 2025 10:41:18 GMT"
+    },
+    {
+      "id": "a73764511e335af53db3eddca06b2852",
+      "title": "Alone in Tehran, a young Iranian turns to ChatGPT and video games for comfort - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/29/nx-s1-5449064/iran-israel-war-ai-chatgpt",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x1800+0+166/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F80%2Fbb%2F8b66441848b1858ae79493b3b6ee%2Fgettyimages-2219731254.jpg",
+      "summary": "Alone in Tehran, a young Iranian turns to ChatGPT and video games for comfort Smoke billows from an explosion at the Islamic Republic of Iran Broadcasting (IRIB) building in Tehran after an Israeli strike hit the building, cutting off live coverage, on June 16. AMMAN, Jordan — Roxana, a young shop manager living alone in Tehran, was panicking during the...",
+      "published": "Sun, 29 Jun 2025 13:47:22 GMT"
     }
   ]
 }
