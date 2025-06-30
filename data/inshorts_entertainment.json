@@ -1,10 +1,55 @@
 {
   "metadata": {
     "source_file": "data/news_entertainment.json",
-    "generation_time": "2025-06-30 04:42:42",
+    "generation_time": "2025-06-30 10:10:11",
     "total_articles": 20
   },
   "articles": [
+    {
+      "id": "bde551af3d5a110f23d556c886b2c837",
+      "title": "Brad Pitt and ‘F1 The Movie’ zoom to $55.6 million in Apple’s biggest box office debut - Los Angeles Times",
+      "source": "Los Angeles Times",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2025-06-29/brad-pitt-and-f1-the-movie-zoom-to-55-million-in-apples-biggest-box-office-debut",
+      "image_url": "https://ca-times.brightspotcdn.com/dims4/default/3745958/2147483647/strip/true/crop/3840x2016+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F20%2Fa8%2F1510183345cfae4723d4158d356d%2Ff1-copy.jpeg",
+      "summary": "Brad Pitt and ‘F1 The Movie’ zoom to $55. 6 million in Apple’s biggest box office debut Damson Idris and Brad Pitt in a still from the movie “F1. ” (Warner Bros. Pictures) By Samantha Masunaga and Ryan Faughnder June 29, 2025 Updated 2:11 PM PT The Brad Pitt-led racing film “F1 The Movie” sped to the top of the...",
+      "published": "Sun, 29 Jun 2025 21:11:28 GMT"
+    },
+    {
+      "id": "1083c377b6df1801b68ae1992f296e4e",
+      "title": "Key moments from the closing arguments at Sean ‘Diddy’ Combs’ sex trafficking trial - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/sean-combs-diddy-trial-closings-564d626da5c1be0f4a794861e5aaa11f",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sun, 29 Jun 2025 23:21:00 GMT"
+    },
+    {
+      "id": "626f8e1e829f6ccc757af63a8054fe7a",
+      "title": "Olivia Rodrigo, Glastonbury Festival, review: Monster show that puts rock royalty on notice - The Telegraph",
+      "source": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/music/concerts/olivia-rodrigo-glastonbury-festival-review/",
+      "image_url": "https://www.telegraph.co.uk/content/dam/music/2025/06/29/TELEMMGLPICT000430621863_17512389572650_trans_NvBQzQNjv4BqO-vdARX2RH6YuU9Z8sWtF7yz91Skp7cj6eQFEaED0vA.jpeg?impolicy=OG-Review-5",
+      "summary": "Olivia Rodrigo, Glastonbury Festival, review: Monster show that puts rock royalty on notice Glastonbury’s youngest headliner proves she is a rock queen rising, outshining veterans in a triumphant set Rodrigo left more experienced rockers in the dust Credit: Samir Hussein Glastonbury’s youngest Pyramid Stage headliner delivered a monster set that crossed the best of old rock values with contemporary pop...",
+      "published": "Sun, 29 Jun 2025 23:19:00 GMT"
+    },
+    {
+      "id": "41f43ff24d6fcc88b82b3531d75747f3",
+      "title": "Vin Diesel Teases Paul Walker Could Return for 'Fast and Furious 11' - Variety",
+      "source": "Variety",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSmltSGJpU1ktTEhDQmxsLUlGTVBnLXRfT3VBemV1MEVzb0RjLU81N2hTWGNuWUs3ank0Z0x4LXRHY3ZIM3VkQW5Sb09HTDh6ekV0aXFRcmlpNUZlOXcyeDdOeTdpNE53ZVVGT0wyUkZRdUdKQktvN0trdjg3OW5mWVR2ZGZpVVprd2xrN09rbnFBZUFsZWJhNWJYMFU?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 29 Jun 2025 17:14:00 GMT"
+    },
+    {
+      "id": "04568d2b926f21e0795a27aac3136027",
+      "title": "Charlize Theron Calls Out Immigration Policies That Have “Destroyed the Lives of Families, Not Criminals” - The Hollywood Reporter",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/news/general-news/charlize-theron-immigration-policies-destroyed-families-1236302246/",
+      "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2025/06/GettyImages-2222696477.jpg?crop=0px%2C430px%2C5000px%2C2798px&resize=1440%2C810",
+      "summary": "The Hollywood Reporter homepage Charlize Theron Calls Out Immigration Policies That Have “Destroyed the Lives of Families, Not Criminals” The star hosted her fifth annual Charlize Theron Africa Outreach Project Block Party on Saturday, as she told guests, \"We're moving backwards fast. \" Charlize Theron at the Africa Outreach Project Block Party on June 28. PRESLEY ANN/GETTY IMAGES FOR CTAOP...",
+      "published": "Sun, 29 Jun 2025 15:00:34 GMT"
+    },
     {
       "id": "5ea6384d427b589f81eea78cde9be43d",
       "title": "Beyoncé Briefly Dangles Over Houston Stadium Crowd As Flying Prop Car Malfunctions - Deadline",
@@ -15,38 +60,11 @@
       "published": "Sun, 29 Jun 2025 19:50:00 GMT"
     },
     {
-      "id": "656e752fda20e8ed7abe0fd4210ef380",
-      "title": "Brad Pitt’s ‘F1’ Delivers Apple’s First Box Office Hit With $55.6 Million Debut, ‘M3GAN 2.0’ Fizzles With $10 Million - Variety",
-      "source": "Variety",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRGhMWXJlclIyM0VuTnRYYXpZNHZlNklkeEdxdTU5Rlh2dDRiU3dzWmhIQTh3STJsNmRqYVNDS3hpZVJvajlHUlNfVGZIUGlMZUNYTDhHYjZPdUNQRnU0NkdDNVZfSFd6M2dFRmRZYlR6aHhILWZXaW9QOERXQkx1alVOWENYUVFtOEYwbkFhOHdVNGc3cG9ETl9RMW9QWkxNeWd4dThXZXJkUDg0TXc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 15:33:00 GMT"
-    },
-    {
-      "id": "1083c377b6df1801b68ae1992f296e4e",
-      "title": "Key moments from the closing arguments at Sean ‘Diddy’ Combs’ sex trafficking trial - AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRk92UUUtcVBaYXRkYmlqV2RENGVOeHJvaEMxc0xZdGU3NGpOLWxzSUo3bkNsQXpGSU9wampPMWFPQ0k1ZmxqWTNzcmFGWG83Q3c1eGZ6c2ZOVERnX1d6TGRoY09pbWpNMWppU3ROQ0kxbTZyRlltTjZNS0lYeGJkVnRJNkNOVVZaWWNobVVtalVuaVk2Wmc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 23:21:00 GMT"
-    },
-    {
-      "id": "6706b69544193814d08c4075106322d1",
-      "title": "Olivia Rodrigo Brings Out The Cure’s Robert Smith at Glastonbury 2025 - Yahoo",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWMxX0NlTDM5eWVueFlzd2pYclVFYlQyckNsc1RiM21ZaG1nMUxvSDRlTjJYaUhvUDJveXNHakdLcks1aDhxVHF4QUQ0OUMyU1VFdkhsOVZBUmNfT2ltVlFLbTVuRDNEQ1ZqUGJzMFdVTjJQS0pOYzlBSlh2Mm5jOFVNY2xvcUxJcnJTVWJ0RFJpRVR5MTUwZw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 23:11:11 GMT"
-    },
-    {
       "id": "5a079e26978235856f1a363217186a74",
       "title": "Glastonbury ‘Appalled’ by Bob Vylan’s Chant Against Israel’s Military - The New York Times",
       "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUkZTMDl6X2tTZ1RKbTJYb043VFVtcFJ1VXVUQWNESm1tV1VCTEhiaGhUWFIzaEl5UHlXcFZwQ1cySHhDQlh3VXROLUlsX2xuTGZHZmp0bFVqbTRGOVJfdnRXMGFRMkw5cG93ZllqODlHUFBncVZfVjNhamtxb042WjFGUFZYM3A1ckpTa1pCZzA4UQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "url": "https://www.nytimes.com/2025/06/29/world/europe/bob-vylan-idf-palestine-glastonbury.html",
+      "image_url": null,
       "summary": "No content available for summarization.",
       "published": "Sun, 29 Jun 2025 16:25:15 GMT"
     },
@@ -54,82 +72,55 @@
       "id": "4d9a7f75d461ef47524ac0b0870e945e",
       "title": "Syd seeks the advice of a fifth grader in a beautifully directed The Bear - AV Club",
       "source": "AV Club",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GSEVqcGNKSFhwczAxUWZ1Z0dVaWhJX1dSeHRxUVRtSkhkTm1SRVZxZE1rY0VfR1JodTc0N2QyUTdfdFhJZUFZR1MwelNYLTRXcFFfMVl0WDV5bTdrejFfa2k3YTZrZHZOVTBsLUhsSQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.avclub.com/the-bear-recap-season-4-episode-4-worms",
+      "image_url": "https://img.pastemagazine.com/wp-content/avuploads/2025/06/26204346/2bear44-recap-header.jpg",
+      "summary": "xmlns=\"http://www. w3.org/2000/svg\"> Pop culture obsessives writing for the pop culture obsessed. Syd seeks the advice of a fifth grader in a beautifully directed The Bear \"I think you should work wherever you want, even if it's scary. \" By Jenna Scherer  |  June 29, 2025 | 7:00am [Editor’s note: The recap of episode five publishes June 30. This recap contains...",
       "published": "Sun, 29 Jun 2025 12:00:00 GMT"
     },
     {
-      "id": "d59edbf0e9815fc91293306cdd7310b7",
-      "title": "In pictures: Sunday at Glastonbury Festival - BBC",
+      "id": "7eb374fbd46261333f5fb869a9dd9b14",
+      "title": "Rod Stewart at Glastonbury: Old school charm from another era - BBC",
       "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50c2pFcTF4V2ZGNms1ekc5S3ZpNUNYa0lWMVFCQjR4dFJsS0NzbWZGT2N2dXJiZ0YxVU00a3RqSWtpOHkwaVdQX2NMQ3A3TktRWGRST19wM052QdIBX0FVX3lxTE5JTXM2M2V6VHNUbXFBXzVJQVZheTBqRTJOMm1TcUJIb2x0Yl8tUGZnb0RmYTloNFhodVlqQkF0R1RMRGgzOGMyVEhmWWhQTXFUb01DbS1ZeFhyT1ZTak5F?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 19:31:43 GMT"
-    },
-    {
-      "id": "8c869781ddeb6d0f7aa26c29cf26d0b6",
-      "title": "Elliot Page Debuts New Relationship with ‘Overcompensating’ Actress Julia Shiplett - Just Jared",
-      "source": "Just Jared",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV0VudlEyYzBJU1BDTTY0VmtMTHRvSnBtUFBFb09YYTRlR215WVB5bUtoNkxjQ2M0elB0dzZ3Z1BobXloY0E5WFhUVGxwNDAtZ3o0bGswcFV3YUZqc252VWRVV1ZpMmdpUU13N0tXeUJJLUFlVF83c3B6R01obzZsN3VkWGt2OWsxZ1hYWm9xWnFMZGcydXVJbjJhM0c2U0ZmTW5ycFhSSXJMSi10Y0VQaDhXQW12dWNXanc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 19:36:47 GMT"
+      "url": "https://www.bbc.com/news/articles/cd0vlymky4ko",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9cfe/live/97caa740-550a-11f0-9faa-b7ae8025f148.jpg",
+      "summary": "Rod Stewart at Glastonbury: Old school charm from another era Reporting fromGlastonbury Festival",
+      "published": "Sun, 29 Jun 2025 17:55:04 GMT"
     },
     {
       "id": "e55ed2d9b19ed6bbd0b0574c299ccf0a",
       "title": "Northern Irish rap group Kneecap plays Glastonbury despite controversy - NPR",
       "source": "NPR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTXB1cGNfYjlyM3luNU5fd0NYMzFFT0U1YnByc210MGhPME82SF9IYlhCQ2tYVU9NRkxsZTBDQnA3UDZwWmpicnBmVXZCVlFlcDZxdDROWS11bWhhOE9xblB6UDdxTHBMY1pPVTMwVXhYTkk2ZzJkcXppejY1WU5QTlhBel93Nnc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.npr.org/2025/06/29/nx-s1-5450122/irish-rap-group-kneecap-glastonbury",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7165x4030+0+373/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2F4c%2F23b998b14263a8082d953d2624b8%2Fap25179578402755.jpg",
+      "summary": "Northern Irish rap group Kneecap plays Glastonbury despite controversy J. J. O Dochartaigh from the hip hop trio Kneecap performs during the Glastonbury Festival in Worthy Farm, Somerset, England, Saturday, June 28, 2025. PILTON, England — Irish-language rap group Kneecap gave an impassioned performance for tens of thousands of fans on Saturday at the Glastonbury Festival despite criticism by British...",
       "published": "Sun, 29 Jun 2025 06:39:27 GMT"
+    },
+    {
+      "id": "5a10b765482cfeb040265756ca857dd5",
+      "title": "Marvel Iron Man recast signals a big problem for the MCU - GAMINGbible",
+      "source": "GAMINGbible",
+      "url": "https://www.gamingbible.com/news/tv-and-film/marvel/marvel-iron-man-recast-signals-problem-for-mcu-582078-20250628",
+      "image_url": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt8b59f2949b165870/685fcc476c18275a25ec1d22/GAMINGbible_Review_Header_Template_Master_(1)_(3).png",
+      "summary": "Home> News> TV and Film> Marvel Published 12:10 28 Jun 2025 GMT+1 Marvel Iron Man recast signals a big problem for the MCU A new Marvel series has signalled a big problem for the MCU’s new Iron Man replacement. Earlier this week, Ironheart debuted on Disney Plus. It’s the latest television miniseries from Marvel that features the character from Black...",
+      "published": "Sat, 28 Jun 2025 11:10:54 GMT"
     },
     {
       "id": "4538f28577a8b763cb753b5970ee92be",
       "title": "6 Ups & 3 Downs From WWE Night Of Champions 2025 (Results & Review) - WhatCulture.com",
       "source": "WhatCulture.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYlVSTnhRbzRaRHFhamdiVDlhTUVUUFlNZUUzVjdzUVJfeHNoaHNzZ0g1aFUzYTFmb0pRUXl0LUhiRnhFbmZhQkxQNkJGbzZ3V19uNUMzbXN3ckViaDlMbEtFUHVWR01GWmNPXzI0cWVqOEF6Y2l2OGtXX2NXNS00TDRRSnZlNklTWTlXWjJJWGswY0k?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://whatculture.com/wwe/6-ups-3-downs-from-wwe-night-of-champions-2025-results-review",
+      "image_url": "https://d2thvodm3xyo6j.cloudfront.net/media/2025/06/ad7c8375a42ad466c7f8067d0d966e08-1200x675.png",
+      "summary": "6 Ups & 3 Downs From WWE Night Of Champions 2025 (Results & Review) John Cena beats CM Punk; WWE crowns a new 'King' and 'Queen'; Hikuleo debuts as Tala Tonga. All hail 'King' Cody. Unless you're Randy Orton, that is. Cody Rhodes and Jade Cargill were the ones handed WWE's King and Queen Of The Ring crowns on an...",
       "published": "Sun, 29 Jun 2025 00:13:23 GMT"
-    },
-    {
-      "id": "21f8abc03260c30f2b1b2903ede759a7",
-      "title": "Savannah Chrisley Makes Blunt Confession About Donald Trump Pardoning Her Parents - TV Insider",
-      "source": "TV Insider",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSW5ibFcwZF9SZFp0TnFSbUxBdmVGTnZvbi1xYkRUeDlOLVlEWGpDZW00dVh1aU4yc05BMmwydkJkUWJPN25KZTByUk1mQWlGbnQxcmVrVmt4U1ZHMVUwdFZfNE9heVV5dEhNNEtvbTFOTkFOY3VNeFpydWtPNEthVWhRZXc3dGd5alR0b0d5WEJtTXlsTE9JeXdQNEU5dC1LZ2JmbTVYVmtWWlFHdTdqVUM1b1dJYkNuSF9r?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 13:34:21 GMT"
     },
     {
       "id": "29c333495503121424e4aa470f89a13b",
       "title": "‘Squid Game’ Finale Recap, Season 3, Ep. 6: ‘Humans Are…’ - Vulture",
       "source": "Vulture",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVmp0TTF0TEJpblZkTDZtMDVjc0J3ZlhBQUhET1dzZEZtVE01ODJRVkNjOXVUa0dwVGJfRkZtbF9NTXN0R0QyTEpMWWROU1NmNnRlMkc4dWNkWWxib2hNRkR5UXhQUTZxWHZOUzMzZGZ2aW51alNpc19iUTlFZ0dUTkYwWlBBUENyU0ZPbHRnQUdXa0hi?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.vulture.com/article/squid-game-finale-recap-season-3-episode-6-humans-are.html",
+      "image_url": "https://pyxis.nymag.com/v1/imgs/740/f9a/bf86e47f1721b55aa279ef2d7edb4db7ed-Squidgame-Unit-311-N015082.1x.rsocial.w1200.jpg",
+      "summary": "Squid Game Series-Finale Recap: Game Over By Jennifer Zhan, a Vulture news blogger covering music, internet culture, and TV. Gi-hun’s final act of resistance and the aftermath of the game make for a sobering ending. Photo: Noh Ju-han/Netflix At the end of the first season of Squid Game, Gi-hun calls the game’s recruitment number from the airport. “Listen carefully,” he...",
       "published": "Sat, 28 Jun 2025 19:00:03 GMT"
-    },
-    {
-      "id": "d77cde56b780d04d26eacc357bbbef52",
-      "title": "Scarlett Johansson Says She Was Offered ‘A Lot’ of Roles ‘Revolving’ Around ‘Desirability’ and ‘The Male Gaze’ as a Young Actress: ‘That Is Less Frequent’ - Variety",
-      "source": "Variety",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWZGdnhVY0ZfNEZ5ajdBZ1E1NjVPQTdFRWdBS1hFWi0tR0FrT0k2S1EtR0FCYnZNei1Dc0d1TFgzTV96SXpnZ0tWODkzczVEejhBd1RDU1ItOVNickxNamZTYVJrcGM1QU9oZGRNaDg5ejU3Zm41ZF9tbjc3MTl0cEo1cTRtWi1rZ1pLOThCckpEcjhCcUJNV05penZmbElOanlncjJnOA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 19:49:00 GMT"
-    },
-    {
-      "id": "47fbaaa05acc75e37351f05c56982684",
-      "title": "Taylor Swift Channels Her 'Lover' Era in a Pink Houndstooth Dress for Travis Kelce Date - instyle.com",
-      "source": "instyle.com",
-      "url": "https://www.instyle.com/taylor-swift-pink-houndstooth-dress-travis-kelce-date-new-york-city-11763259",
-      "image_url": "https://www.instyle.com/thmb/Onth9F659KRyVB1PJFsWeWEh78o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-21702262331-3163a4798ce044948eb8a12b10a54284.jpg",
-      "summary": "Taylor Swift Channels Her 'Lover' Era in a Pink Houndstooth Dress for Travis Kelce Date Her blush Balmain plaid minidress is so old money-coded. Published on June 29, 2025 @ 01:00PM Taylor Swift and Travis Kelce in New York City in September 2024. Taylor Swift gave plaid an old money-coded upgrade for her latest date night with Travis Kelce on...",
-      "published": "Sun, 29 Jun 2025 17:00:54 GMT"
     },
     {
       "id": "e7a913faa5feed3ed46f4fbf6ff4f03f",
@@ -150,31 +141,40 @@
       "published": "Sat, 28 Jun 2025 17:00:00 GMT"
     },
     {
+      "id": "a09c7d900a210f5a86d29eb2cac85799",
+      "title": "Leonardo DiCaprio’s Girlfriend Has Major Wardrobe Malfunction at Bezos Wedding Party - The Daily Beast",
+      "source": "The Daily Beast",
+      "url": "https://www.thedailybeast.com/obsessed/leonardo-dicaprios-girlfriend-vittoria-ceretti-shares-wardrobe-malfunction-at-bezos-wedding-party/",
+      "image_url": "https://www.thedailybeast.com/resizer/v2/SZPHPGJ7BRE2LFV5YQ2NI4V6OU.jpg?smart=true&auth=11c95bd85f2812104f8889402f2e734ef8b19732b4387c2f90d97216b1ad082a&width=1200&height=630",
+      "summary": "Leonardo DiCaprio’s Girlfriend Has Major Wardrobe Malfunction at Bezos Wedding Party The actor’s girlfriend, Italian model Vittoria Ceretti, shared snippets of what went wrong to her Instagram Stories. Published Jun. 29 2025 6:33PM EDT STEFANO RELLANDINI/AFP via Getty Images Leonardo DiCaprio’s girlfriend Vittoria Ceretti suffered a major wardrobe malfunction while attending Jeff Bezos and Lauren Sanchez’s final wedding celebration on...",
+      "published": "Sun, 29 Jun 2025 22:33:00 GMT"
+    },
+    {
+      "id": "d117cbaf367d0f4d5693a4f5dbce738d",
+      "title": "Sydney Sweeney Didn’t Care If She Broke Her Nose Playing Boxer Christy Martin, Says Co-Star Katy O’Brien - IndieWire",
+      "source": "IndieWire",
+      "url": "https://www.indiewire.com/news/general-news/sydney-sweeney-didnt-care-broke-nose-christy-martin-biopic-1235135721/",
+      "image_url": "https://www.indiewire.com/wp-content/uploads/2025/06/P101FG7O.jpg?w=650",
+      "summary": "Sydney Sweeney Didn’t Care If She Broke Her Nose Playing Boxer Christy Martin, Says Co-Star Katy O’Brien The upcoming biopic finds the \"Euphoria\" star taking on the role of the groundbreaking female sports figure. Sydney Sweeney at The 2025 Met Gala Michael Buckner/Penske Media Sydney Sweeney was not afraid to pull punches when playing real-life Christy Martin in the upcoming...",
+      "published": "Sat, 28 Jun 2025 22:00:00 GMT"
+    },
+    {
+      "id": "d77cde56b780d04d26eacc357bbbef52",
+      "title": "Scarlett Johansson Says She Was Offered ‘A Lot’ of Roles ‘Revolving’ Around ‘Desirability’ and ‘The Male Gaze’ as a Young Actress: ‘That Is Less Frequent’ - Variety",
+      "source": "Variety",
+      "url": "https://variety.com/2025/film/news/scarlett-johansson-roles-desirability-male-gaze-hollywood-1236443695/",
+      "image_url": "https://variety.com/wp-content/uploads/2025/06/GettyImages-2216898971.jpg?w=1000&h=563&crop=1",
+      "summary": "Scarlett Johansson Says She Was Offered ‘A Lot’ of Roles ‘Revolving’ Around ‘Desirability’ and ‘The Male Gaze’ as a Young Actress: ‘That Is Less Frequent’ Scarlett Johansson is opening up about how roles have changed for women since she joined Hollywood. In a recent interview with The Times of London, Johansson said that when she first entered the industry, the...",
+      "published": "Sun, 29 Jun 2025 19:49:00 GMT"
+    },
+    {
       "id": "f67a749d6015f8486a6582b4759492de",
       "title": "Karrion Kross and Scarlett issue public statements following the 2025 Night of Champions PLE - NoDQ.com",
       "source": "NoDQ.com",
       "url": "https://nodq.com/news/karrion-kross-and-scarlett-issue-public-statements-following-the-2025-night-of-champions-ple/",
       "image_url": "https://nodq.com/wp-content/uploads/2025/04/Screenshot-2025-04-25-at-14-50-34-hq720.jpg-JPEG-Image-686-×-386-pixels.png",
-      "summary": "Wrestling news, opinions, and features since 1998 The Case For More Karrion Kross Rhea Ripley comments on the “sexy pin” she uses in WWE Abyss (Chris Park) explains why he never signed with WWE as a wrestler when given the opportunity Karrion Kross and Scarlett issue public statements following the 2025 Night of Champions PLE As seen during the 2025...",
+      "summary": "Wrestling news, opinions, and features since 1998 Former WCW President Eric Bischoff comments on his physical transformation at 70 years old Behind-the-scenes footage of WrestleMania: The Arcade Game featuring The Undertaker Karrion Kross and Scarlett issue public statements following the 2025 Night of Champions PLE As seen during the 2025 WWE Night of Champions PLE, Sami Zayn defeated Karrion Kross...",
       "published": "Sun, 29 Jun 2025 16:27:53 GMT"
-    },
-    {
-      "id": "6463885b75af3ea416b022a517f24dc5",
-      "title": "Dick Van Dyke Drops Out Of Malibu Fan Event Amid “Bad Day” At 99 - Deadline",
-      "source": "Deadline",
-      "url": "https://deadline.com/2025/06/dick-van-dyke-pulls-out-malibu-fan-bad-day-99-1236445485/",
-      "image_url": "https://deadline.com/wp-content/uploads/2024/12/GettyImages-2156569513-e1751231462838.jpg?w=1024",
-      "summary": "Dick Van Dyke Drops Out Of Malibu Fan Event Amid “Bad Day” At 99 Although Dick Van Dyke had to miss the third iteration of his Vandy Camp fan gathering this weekend, he was there in spirit. The 6x Emmy winner’s wife Arlene Silver announced that he was “not up to” attending Saturday’s event in Malibu as planned, but he...",
-      "published": "Sun, 29 Jun 2025 21:31:00 GMT"
-    },
-    {
-      "id": "e7e7a31cb36c01f83afa18bb7798beff",
-      "title": "Rhea Ripley Injured At WWE Night Of Champions 2025, Matt Cardona Chants Break Out In Front Of Triple H - Wrestling Headlines",
-      "source": "Wrestling Headlines",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMU41cnBuamdWZzJKQzI1dWhWcUM3cU5HNzloYVg2YjhxWUZyRkE1Z21KVFMybEY0R0V1Snl6OUgxQm5BUzVRUUZSLWZCb1lrbHF5Q2o4NVRrR0Zyd1JCYXZTUi1BRXlfRVRpaFNBZTVzUTBWbG5TRGQwT1RsUFk5ZDFSak1sUmdON1Y4U2FqUGFlRENXTEV3T1JmQkZGZXBDR2w3WnpoT0ZqdndKbjNUU0tSZ2k4VVF4WU9LRUVWOXBRbFBFOTh3dkFaUklsQdIB0wFBVV95cUxOYTZkZHJERkRPQWs3Q3ZhenRhOVExdkQ2U0xNT0FDUGJVUFFUWXM2M0k5VlBUM01GQUpDd25BS1R6bmFyZG5ZQVVuVGNScXgyRlJiQzRqM0E1RjlicEdNcVZTbUFHSmJFclRRM2ZzWmlsRVgxeHBxeHl5SldMNVQ2eXJ0bXR0ajg1LVNpbnBRZzZlQjZ4cFFXVS1yejhtWTNYelE1V3gtT2pkSHZmTEdFNWg4V0QyUEVTUDIwVlNaaTYxdmJXMHp0WFhnZjIxOXRla1pv?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 22:45:46 GMT"
     },
     {
       "id": "cdeb24bf89027d2bf0662bfdc597992b",
