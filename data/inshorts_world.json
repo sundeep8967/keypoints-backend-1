@@ -1,18 +1,72 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-07-01 07:53:49",
+    "generation_time": "2025-07-01 13:47:54",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "a2dcde0f1423426debb6ac2c481f1044",
-      "title": "Israeli strike on cafe near Gaza City port kills dozens, hospital official says - CNN",
+      "id": "30387d4b1c3665b2ea81d7fd04218f0c",
+      "title": "Thailand: PM Paetongtarn Shinawatra suspended over leaked phone call - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c9vrrj72xy7o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2386/live/7b5933d0-563e-11f0-9f23-c9631faaebd4.jpg",
+      "summary": "Thai prime minister suspended over leaked phone call",
+      "published": "Tue, 01 Jul 2025 09:04:56 GMT"
+    },
+    {
+      "id": "3d63f5d89061809c2c73e394951cc62d",
+      "title": "Barcelona records the hottest June ever as a heat wave grips Europe - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/heat-wave-europe-france-spain-portugal-c6c9e6da7e02a77a0818c03ba976ecc8",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Tue, 01 Jul 2025 12:00:00 GMT"
+    },
+    {
+      "id": "a1938c179928d764fa731f09796f2043",
+      "title": "74 killed in Gaza as Israeli forces strike a cafe and fire on people seeking food - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/07/01/nx-s1-5452994/israel-gaza-hamas-cafe-airstrike-aid",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8307x4673+0+433/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2Fc9%2Fac08204f4c719a37604481062ff8%2Fap25181599287201.jpg",
+      "summary": "74 killed in Gaza as Israeli forces strike a cafe and fire on people seeking food A man carries a child, who was wounded in an Israeli strike, after being treated in the Shifa Hospital, Gaza City on Monday. CAIRO (AP) — Israeli forces killed at least 74 people in Gaza on Monday with airstrikes that left 30 dead at...",
+      "published": "Tue, 01 Jul 2025 06:52:33 GMT"
+    },
+    {
+      "id": "67fb3ff5506a0bbbba566378c303aed3",
+      "title": "More than 150 groups call for U.S. and Israeli-backed Gaza aid distribution to be shut down - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/gaza/150-groups-call-us-israeli-backed-gaza-aid-distribution-shut-rcna212270",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250701-gaza-9-rs-0e7e1f.jpg",
+      "summary": "170 charities and NGOs call for U. S. and Israeli-backed Gaza aid distribution to be shut down Charity and aid groups said in a joint statement that more than 500 Palestinians had been killed and almost 4,000 injured in less than four weeks while trying to access or distribute food in Gaza. A funeral service June 24 for Palestinians killed...",
+      "published": "Tue, 01 Jul 2025 11:06:15 GMT"
+    },
+    {
+      "id": "1e25f75e8f044879f6d740f74532c061",
+      "title": "Turkiye detains four over cartoon allegedly depicting Abrahamic prophets - Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/7/1/turkey-detains-four-over-cartoon-allegedly-depicting-abrahamic-prophets",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/07/13160760-1751356600.jpg?resize=1200%2C675",
+      "summary": "Enrich your Al Jazeera experience by signing in or creating an account. Turkiye detains four over cartoon allegedly depicting Abrahamic prophets Istanbul chief public prosecutor’s office announces investigation after charges of ‘openly insulting religious values’. Turkish police secure the street in front of the headquarters of LeMan magazine after hundreds of people protested on July 1, 2025 [Tolga Bozoglu/EPA] Save...",
+      "published": "Tue, 01 Jul 2025 10:07:30 GMT"
+    },
+    {
+      "id": "f024556887bb7ce02812c794c0277f03",
+      "title": "Hundreds of children told to test for disease in Australia after childcare worker charged with child sex abuse - CNN",
       "source": "CNN",
-      "url": "https://www.cnn.com/2025/06/30/middleeast/israeli-strike-gaza-city-cafe-latam-intl",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21745622-9772-057-still.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Senate holds vote-a-rama on President Trump's sweeping domestic agenda bill Israeli strike on cafe near Gaza City port kills dozens, hospital official says By Kareem Khadder and Lauren Kent, CNN Updated 8:04 PM EDT, Mon June 30, 2025 Damage at the cafe near the port in Gaza City on June 30, 2025, following an Israeli airstrike. CNN More than 40...",
-      "published": "Tue, 01 Jul 2025 00:04:00 GMT"
+      "url": "https://www.cnn.com/2025/07/01/australia/australia-childcare-worker-charged-intl-hnk",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2025-07-01-at-4-32-40-pm.png?c=16x9&q=w_800,c_fill",
+      "summary": "Hundreds of children told to test for disease in Australia after childcare worker charged with child sex abuse Published 6:25 AM EDT, Tue July 1, 2025 Victoria Police Acting Commander Janet Stevenson addresses media about the childcare worker's arrest on Tuesday, July 1. Victoria Police Parents of 1,200 children in the Australian state of Victoria are being advised to get...",
+      "published": "Tue, 01 Jul 2025 10:25:00 GMT"
+    },
+    {
+      "id": "6fddcd053196ccfffed6bf9787d454fb",
+      "title": "Royal train to be cut in Palace cost-saving measure - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce377nr5r43o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c2fb/live/3824f480-564a-11f0-960d-e9f1088a89fe.jpg",
+      "summary": "Royal train to be cut in Palace cost-saving measure Queen Elizabeth II on board the Royal Train with her son Prince Edward (centre), niece Sarah Armstrong-Jones (left) and nephew David Armstrong-Jones (right), in 1968. The royal train is going to be taken out of service by 2027, in a cost-saving measure announced by Buckingham Palace. There have been dedicated trains...",
+      "published": "Mon, 30 Jun 2025 21:01:57 GMT"
     },
     {
       "id": "40dfe9bb3d863231cdc016f6d745a4b8",
@@ -24,22 +78,67 @@
       "published": "Mon, 30 Jun 2025 20:54:08 GMT"
     },
     {
-      "id": "a056bdd734fe6c940b79477c458bd8e6",
-      "title": "State Department bans visas for English punk duo Bob Vylan after Glastonbury performance - NBC News",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/state-department-bans-visas-english-punk-duo-bob-vylan-glastonbury-per-rcna215996",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250630-Bob-Vylan-ew-1216p-c4f78d.jpg",
-      "summary": "State Department bans visas for English punk duo Bob Vylan after Glastonbury performance Bob Vylan led crowds in chants of \"free, free Palestine\" and \"death, death to the IDF\" at the English music festival Saturday. Bobby Vylan of the British duo Bob Vylan performs Saturday at the Glastonbury festival in Somerset, England. Oli Scarff / AFP - Getty Images Create...",
-      "published": "Mon, 30 Jun 2025 21:41:10 GMT"
+      "id": "0611580ab1f64d3ef5ae136f5904418c",
+      "title": "Iran Suspected of Scouting Jewish Targets in Europe - WSJ",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/world/europe/iran-suspected-of-scouting-jewish-targets-in-europe-c92367c4",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Tue, 01 Jul 2025 11:16:00 GMT"
     },
     {
-      "id": "8f9502a46a34b0ec6528a963fe803daa",
-      "title": "Lethal heat is Europe’s new climate reality - politico.eu",
-      "source": "politico.eu",
-      "url": "https://www.politico.eu/article/lethal-heat-europe-climate-reality-temperature-heatwave-who-pollution-wildfires/",
-      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/30/GettyImages-2222159253-scaled.jpg",
-      "summary": "Lethal heat is Europe’s new climate reality",
-      "published": "Tue, 01 Jul 2025 03:48:00 GMT"
+      "id": "953e2d54a26e777ef922266d2bc854ad",
+      "title": "Death toll rises to 36 after explosion at a pharmaceutical factory in southern India - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/india-pharmaceutical-factory-fire-telangana-e914c229736d1b2af3d4565d0e227cb1",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Tue, 01 Jul 2025 06:30:00 GMT"
+    },
+    {
+      "id": "6e91fbedcaf6753a92f338445bd6ed1c",
+      "title": "Norwegian pension fund drops US, German defense firms from portfolio over Gaza war - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/norwegian-pension-fund-drops-us-german-defense-firms-from-portfolio-over-gaza-war/",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/whatsapp-image-2024-08-02-at-19-06-05-3.jpeg",
+      "summary": "Norwegian pension fund drops US, German defense firms from portfolio over Gaza war KLP says Oshkosh Corporation and ThyssenKrupp excluded due to sale of products to states that use them in ‘systematic breaches of international law’ An IDF Oshkosh JLTV light armored utility vehicle, August 3, 2024. (Israel Defense Forces) Norway’s biggest pension fund, KLP, said Monday it had dropped...",
+      "published": "Mon, 30 Jun 2025 07:08:00 GMT"
+    },
+    {
+      "id": "948f5aa1188013b56d82d908312ee2f1",
+      "title": "Anti-LGBTQ+ Hungarian PM named 'king of Budapest pride' - PinkNews",
+      "source": "PinkNews",
+      "url": "https://www.thepinknews.com/2025/06/30/hungary-budapest-pride-ban-viktor-orban/",
+      "image_url": "https://www.thepinknews.com/wp-content/uploads/2025/06/hungary-budapest-pride-ban-viktor-orban.jpg",
+      "summary": "Hungary Pride ban prompts largest ever parade in Budapest: ‘There have never been so many people’ Budapest Pride was Hungary’s largest ever parade – in response to PM Viktor Orbán’s ban (ATTILA KISBENEDEK/AFP via Getty Image) Right-wing Hungarian Prime Minister Viktor Orbán has been named the ‘king of Pride’ after the country saw its largest–ever parade in Budapest in response...",
+      "published": "Mon, 30 Jun 2025 00:13:22 GMT"
+    },
+    {
+      "id": "193c35aa4db7e369f656cb02f897049c",
+      "title": "Kim Jong Un Publicly Mourns Troops Killed Fighting for Russia for First Time | World News - Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/kim-jong-un-publicly-mourns-troops-killed-fighting-for-russia-for-first-time-101751366012915.html",
+      "image_url": "https://www.hindustantimes.com/ht-img/img/2025/07/01/1600x900/im-44964856_1751366016564_1751366089591.jpg",
+      "summary": "Kim Jong Un Publicly Mourns Troops Killed Fighting for Russia for First Time Photos of the leader were the first shared with North Koreans showing the country’s contributions to Russia’s war with Ukraine, with more deployments ahead. Performers on stage in front of a screen showing North Korean leader Kim Jong Un draping coffins with the national flag. SEOUL—Kim Jong...",
+      "published": "Tue, 01 Jul 2025 10:35:19 GMT"
+    },
+    {
+      "id": "36a5ba908d06a0fadfdc3feeda9cb5b4",
+      "title": "Three bosses at killer nurse Lucy Letby's hospital arrested by UK police - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/uk-police-arrest-three-senior-health-officials-over-killer-nurse-letby-case-2025-07-01/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Tue, 01 Jul 2025 10:20:47 GMT"
+    },
+    {
+      "id": "5870891405710f44bf88a341e9069cec",
+      "title": "What has been driving the rise in disability benefit claims? - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cg5zz6pm15lo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0076/live/48a74520-55c7-11f0-9074-8989d8c97d87.png",
+      "summary": "What has been driving the rise in disability benefit claims? The government has confirmed details of its scaled-back plan to reform health and disability benefits, following pressure from Labour MPs. Work and Pensions Secretary Liz Kendall said changes to Pip (Personal Independence Payment) would only apply to new claimants. She also confirmed that payments to existing recipients of the health-related...",
+      "published": "Mon, 30 Jun 2025 16:58:30 GMT"
     },
     {
       "id": "f8c92bf2dac272280353e4ed9a4a79dd",
@@ -47,143 +146,44 @@
       "source": "Ynetnews",
       "url": "https://www.ynetnews.com/article/sywdv8lbeg",
       "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/06/30/BJD8KQgrle/BJD8KQgrle_443_307_2307_1299_0_large.jpg",
-      "summary": "AI Bot Flips Wall Street on Its Head: Turns $1K into $50K in Record 30 Days US sues Oakland cafe for refusing to serve Jews, creating special Oct. 7 menu Men With ED Say This New Pill With Tadalafil And Vardenafil Works Like Magic Iran intensifies mass deportations of Afghan refugees, some accused of being 'Israeli spies' As Iran escalates...",
+      "summary": "Tuesday: President Orders IRS To Forgive $300 Million in Tax Debt in 2025 US sues Oakland cafe for refusing to serve Jews, creating special Oct. 7 menu Top Urologist: How To Remove A Hanging Belly Quickly Iran intensifies mass deportations of Afghan refugees, some accused of being 'Israeli spies' As Iran escalates deportations of undocumented Afghans—many born and raised in...",
       "published": "Mon, 30 Jun 2025 20:09:16 GMT"
     },
     {
-      "id": "624334f4ef0975caa967f82b204dd80b",
-      "title": "Israeli military investigates 'reports of harm to civilians' after hundreds killed near Gaza aid sites - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cj9vveg0vp9o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/b329/live/0067a6b0-55e5-11f0-9932-89f9624455b1.jpg",
-      "summary": "Israeli military investigates 'reports of harm to civilians' after hundreds killed near Gaza aid sites",
-      "published": "Mon, 30 Jun 2025 19:17:42 GMT"
-    },
-    {
-      "id": "24b6d53d8ff2cffab63175fe8fd43d64",
-      "title": "Clashes and arrests in Turkey over magazine cartoon allegedly depicting prophet Muhammad - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2025/jul/01/istanbul-turkey-leman-magazine-alleged-prophet-muhammad-cartoon-protests-arrests",
-      "image_url": "https://i.guim.co.uk/img/media/47b8319dd5200d0385430e8d63076fa8186ef92a/326_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03b94c6d778abc2d5e05ecdb4dcacf78",
-      "summary": "Fund the free press with $15 per month Demonstrators clash with anti-riot police in Istanbul after gathering over a LeMan magazine cartoon allegedly of the prophet Muhammad. Photograph: Ozan Köse/AFP/Getty Images Clashes and arrests in Turkey over magazine cartoon allegedly depicting prophet Muhammad Turkey police face demonstrators after prosecutor orders arrests at LeMan magazine, whose editor-in-chief denies allegation and says...",
-      "published": "Tue, 01 Jul 2025 02:54:00 GMT"
-    },
-    {
-      "id": "4d039ffe91ff79558257107ca648d6e1",
-      "title": "UK court rejects Palestinian NGO's case over F-35 parts to Israel - Reuters",
+      "id": "e93d3ba8b724c9afff442b09c45129fa",
+      "title": "Taiwan to simulate Chinese invasion in major drill - Reuters",
       "source": "Reuters",
-      "url": "https://www.reuters.com/sustainability/society-equity/uk-export-f-35-parts-israel-was-lawful-court-rules-2025-06-30/",
+      "url": "https://www.reuters.com/world/china/taiwan-simulate-chinese-invasion-major-drill-2025-07-01/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 14:52:21 GMT"
-    },
-    {
-      "id": "948f5aa1188013b56d82d908312ee2f1",
-      "title": "Anti-LGBTQ+ Hungarian PM named 'king of Budapest pride' - PinkNews",
-      "source": "PinkNews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYi13c1VXOVVoaVViVk0wbFpDZ2hERFpyX3ZnbUZNVE1VY0NmdmU0YmhYdmVqdXp4a292Z0g3ZmI2dHczS1ZNd1hLLUs3VmJ6TnFsbXBzU2szWXYtYUM2eWUwZ3F3R0xxRHJNNVhXcUVnTlViVURHbHg2UDVlcllLRE1IUS1aZw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 00:13:22 GMT"
-    },
-    {
-      "id": "01e41cfaa5de867809c55ccb275dd4d6",
-      "title": "Israel’s Attack on Evin Prison Killed 71, Iranian State Media Report - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15VGxNTjNiNGI0aG5SU3ZUcWpuTmp4eGhSdkRrcEtZcWNaUTR6ZFhHMWRUWWhGRm1nVmFJWjZZd2E3YWNhbklPSFljNmpvdHJRT3djbnJFQTdsejdFQXdHQlhQaVd1ZUh0TlZPVkw3R0VyWkw4WFRSeWxJWkc0Zw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 16:31:24 GMT"
-    },
-    {
-      "id": "0709166cf35f844ab55fadabd9286e85",
-      "title": "Nato’s summit cannot disguise Ukraine’s plight - Financial Times",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5raWE2ODZZZkxKMjBRclV1RDlUTHVEVDVRZVJuaVJVeHRtUlY5N1pfX2FyS241UVpfZnZSWFBiajg3b3FsNTZpMlVoVzlHbEZiUTBzUkNtLXpqdkRsa3h5R21XTEk0bnhsNDhUYUJUV2E?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 11:35:03 GMT"
-    },
-    {
-      "id": "5870891405710f44bf88a341e9069cec",
-      "title": "What has been driving the rise in disability benefit claims? - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XaEFXQVZHNWtTcE0yRXZYVWZUblU5ckx6ZXhnbC1sRzZxdk45NlA3VkVZUjhiX3JlZzFQNGRqVDVqSmFoNEdoOXJUNXVOVmN4XzBoVmFCVGV0UdIBX0FVX3lxTE50YVRQQjZNbE53cEt4dW9rQlJ4UzNSaG5RblN6WFJ4cFhqVmVPU25kc1BWTWhabmt3MzEzMnRRSV9OZm84VHhTemZScmZmMkZEUWZuVXBDZU0zQUFGVDZN?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 16:58:30 GMT"
+      "published": "Tue, 01 Jul 2025 03:41:00 GMT"
     },
     {
       "id": "78121d3dfe1820c9e527964a3253995d",
       "title": "The Dalai Lama, a tireless advocate for Tibet and its people - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRl9OTjZnRUY2d19qQXpsUjRpR3JHSl9waHk1WTl1c2NZNGJPQncybjlKY0l3Q0J0ZnR1NGprNk02aDBwNThKT1l3dWZ0Q1ZZUExkdFM5M09lSHhrS2FJdlJ6bmE1d09HN1p3bThCMjJBZzRadDFSWWZZcFlvdS1uMHBCR2g4Z05NX2o2OERzT2N0eWttTXc1eQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "url": "https://www.reuters.com/world/china/dalai-lama-tireless-advocate-tibet-its-people-2025-06-30/",
+      "image_url": null,
       "summary": "No content available for summarization.",
       "published": "Mon, 30 Jun 2025 08:01:38 GMT"
     },
     {
-      "id": "4dd3fe990ddb7be016716b1ea733aa2f",
-      "title": "Hong Kong’s security net extends beyond arrests as small businesses pressured - AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONC1KN2N2U3pqUUN2Y2JlXzRUemdMTmhzOEZuS2xaR2ZkZ3VSQ1VJOFFJQzZPNTBSTmtKTDU1b2pCRE5Od0Uwd0ctVFEtUmItVHMwRFhURS1EV3VPRTZEQ3NNZDMzVFhmMnN0YkVNcXRlZ3VKNmIta01TdG02N1dOQXRBNHBJOGRrQ2NWV3YxcGlQYy1ZaUNnX1g2V3M4LVZFUnRjZ3JhRHdqRzZ3TUQ2TlFpSDQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 04:18:00 GMT"
-    },
-    {
-      "id": "1db0b1bfef9473e18c52a00b0dfce140",
-      "title": "Boniface Kariuki: Kenyan vendor shot by police during protests dies - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53aWVDSnd3MDNhbFozTnp1OE8xZHZWREM4LUJuSXNUWndaenNLbXcwVmppbmNkMUJhMjJoSVVUaEJDbjcxSW13c2dIY1FKSEU5dGpjdUVtVXg5UdIBX0FVX3lxTE9kVXF0TC10N1ktR0NLd2o2cnFhaGhBcDduVUxXcjF2ZFJoTG1scUM3dGZoNXoyZFRHLXg3eHJieW9UQ1VPRC1scFdzUHgwUjE3X19PbzNsVmxKSE1ySWZj?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 16:29:26 GMT"
-    },
-    {
-      "id": "1cc65ed7c183dcd530705454aa917414",
-      "title": "Daily Crossword: The Racing Puzzle — June 30 - Vulture",
-      "source": "Vulture",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SM1ZSRVQyaTRoTFUwM0JpY3M1OUVWZXhTMDE1NVpfN3ozdXZqa3hZT29zUDhXLTBzSmVhOEN1NW9yVEVURW9Kbi16NEFjT2NzQ055ZHBxbVRXT0NlckdSbXNjSDJUM0Q2WHBaWWZmVVRTR3pCdDBvZ3YyRUk?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 09:00:04 GMT"
-    },
-    {
-      "id": "f604505a5ca1194d48482335454afc82",
-      "title": "Settlers torch West Bank security site, riot against ‘traitor’ IDF officer; no arrests - The Times of Israel",
-      "source": "The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQazFTZEJkakhDM04temxNa2hQRi01VDNwaWIyUzFGOHQ3N0ZqT3lfQUctZl9DakRlWnZBTmpMLWdPdGxHMzFkNTNUQnRJcFZ3eklxbXdQSmF1QkE2SDNCMGI2MExjWk1pb3FSWmpuX2FXSGd2UHZFUDBjdTBqcHNRbG9nNTFfaWpnR2NKUGRZLTZnREdRWWlTbGFXVWdycDcwYlZqZ3A3Yzl3S2g3SlFMNjRsNNIBuAFBVV95cUxPbjN6SUJaYkdpUHFBbVVXcElzNjVVcWtYWWRFNDl4VWRYTU4tTEVpemxoNVJucFdDUmJGeW9SZVN2Njc3S1k2RXVtQXNHeDdvbkptZEVTbW8zTnNxTVZKLUxWV0djUjlDWXFsbUVKUVJlWTFhcElza0lrWWxvMHhvU2JqdGtJampaNVRPdlVMTVdtMEU2dHROS1cwV3UzaGh1Tm8zZmd6aExoUlVoNnRBZ2dGa3JaTnFL?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 08:09:00 GMT"
-    },
-    {
-      "id": "def18f0539745605273d479081775b03",
-      "title": "Iran Update, June 30, 2025 - Institute for the Study of War",
-      "source": "Institute for the Study of War",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40dk9oaTBmWGp6Tl9IUUc4cEFlS00yaHgtcGpKRDhDSllDXzJsbnNrWkVlZzRYSDVSeUkxTmdtWlMtek9XMFA4Uy03MHh4dVY4cElLbHV0OUp0ZVRkVlVSRGJOaGZyaGdxVlBpak5qM0pOeW5uNVhyLS1R?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 23:43:52 GMT"
-    },
-    {
-      "id": "7ad28e72e90c80a966ad2e7e8733fc57",
-      "title": "Netanyahu says ‘opportunities have opened up’ to free hostages, as Trump demands Gaza ‘deal’ - CNN",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1NYUTRKZXB6OVJLd1lZOVd3OWJ2eUxfRDhPaWlObE1Xd3hCOHZjYlpBc1hJdGlRM3BDZldPdmpBSV9zanpJaG8xdEFIUzVBdFItQjE5TFVoaEJZcXJ4LU1OWF9zaXBZN3F4cTJnM0pKSHFBQnZzdUszcC1aREIwZ0xMTHRIQUs5NVVxVExJUEhGQdIBlwFBVV95cUxPT2t2WlFBbGVmZU1WZzF1c0RGczFGQWlFUzB2b3l3NlA0Yl9KZzZNcnRkSHVULTdUc004M1ZNekZUdnllR2FsMjliWUJMU05INV83X0tvNGpvWWpLcy1hRjVBcTcwbXplcS1uUlVCVWQyeS1rZndkek5XZklpZzlyU3pOb1NlNWdsbW8tQjhHc05vTmEyajhJ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 10:22:00 GMT"
-    },
-    {
-      "id": "55eee15281e98538659c2cfff56620af",
-      "title": "Pedro Sánchez aide held in prison over Spanish kickback allegations - Financial Times",
+      "id": "0709166cf35f844ab55fadabd9286e85",
+      "title": "Nato’s summit cannot disguise Ukraine’s plight - Financial Times",
       "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vU3VHMXFvRWtLX04tSWFNaW03SnFuV0FpMHpya05iVElrUTRWaUZyWVJtekNnbVFUVXVtTEhaVFJvNWlwdWREWTB3aEdnQTRFTm5kVzd3Y1EyUUhGODZtZHpvSE16X0sxY2JQa3A2bnU?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "url": "https://www.ft.com/content/fd4fe246-3dd7-449a-8740-70bcb0ba08a9",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe70a6d07-4b39-4f54-9a16-238bee444a76.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Nato’s summit cannot disguise Ukraine’s plight Without more military aid, Kyiv’s situation on the battlefield could deteriorate rapidly Nato’s summit cannot disguise Ukraine’s plight on x (opens in a new window) Nato’s summit cannot disguise Ukraine’s plight on facebook...",
+      "published": "Mon, 30 Jun 2025 11:35:03 GMT"
+    },
+    {
+      "id": "ca32d20cb2cd5e064fd37e63ee5d0ebb",
+      "title": "'Lovebugs' are swarming Seoul as South Korea warms, and residents aren't happy - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/climate-energy/lovebugs-are-swarming-seoul-south-korea-warms-residents-arent-happy-2025-07-01/",
+      "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 16:03:50 GMT"
+      "published": "Tue, 01 Jul 2025 06:49:00 GMT"
     }
   ]
 }

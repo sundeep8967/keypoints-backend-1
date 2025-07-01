@@ -1,52 +1,391 @@
 {
   "metadata": {
     "type": "topic",
-    "timestamp": "2025-07-01T06:36:46.258479",
+    "timestamp": "2025-07-01T12:51:35.123354",
     "info": "topic: entertainment",
-    "count": 22
+    "count": 35
   },
   "articles": [
     {
-      "title": "'Jurassic World Rebirth' Review: Scarlett Johansson in New Chapter - The Hollywood Reporter",
+      "title": "‘Jurassic World Rebirth’ Review: Scarlett Johansson, Jonathan Bailey and Mahershala Ali Find Signs of Life in 32-Year-Old Dino Franchise - The Hollywood Reporter",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX1ZIbVZ0MFhueDJIV1NyUkd0TkhZTmw0TG9pNTRWbVpvQnFFeGRyaDYtRU5EZEhwUnFFZ3hoM20wdjFhdURXZFhPcUJPRWMyREJidzlsUTJ2YjZXYjU5U2JISk1OdFE3dFVhSmI3cng2a0tYRXc4SVNRQmRJZUdfY1g4djNaQzJkRVNfZXdHT29DS0NZMElpOWdfZlp6WldyN0JTNENYNzlRbXVnUFV1OUFVS0diZw?oc=5",
-      "published": "Mon, 30 Jun 2025 20:31:31 GMT",
+      "published": "Tue, 01 Jul 2025 04:31:32 GMT",
       "published_parsed": [
         2025,
-        6,
-        30,
-        20,
+        7,
+        1,
+        4,
         31,
-        31,
-        0,
-        181,
+        32,
+        1,
+        182,
         0
       ],
       "source": "The Hollywood Reporter",
       "sub_articles": [
         {
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX1ZIbVZ0MFhueDJIV1NyUkd0TkhZTmw0TG9pNTRWbVpvQnFFeGRyaDYtRU5EZEhwUnFFZ3hoM20wdjFhdURXZFhPcUJPRWMyREJidzlsUTJ2YjZXYjU5U2JISk1OdFE3dFVhSmI3cng2a0tYRXc4SVNRQmRJZUdfY1g4djNaQzJkRVNfZXdHT29DS0NZMElpOWdfZlp6WldyN0JTNENYNzlRbXVnUFV1OUFVS0diZw?oc=5",
-          "title": "'Jurassic World Rebirth' Review: Scarlett Johansson in New Chapter",
+          "title": "‘Jurassic World Rebirth’ Review: Scarlett Johansson, Jonathan Bailey and Mahershala Ali Find Signs of Life in 32-Year-Old Dino Franchise",
           "publisher": "The Hollywood Reporter"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uUnN5Tmc0bnFUMHQ0SUdzNjh1UTB4cDZjamQ1SjVWX2FlS1VTRDlmcEgybG1kVUw1bzRwYnoxT2xubzBULWo0QmhmZWxQV2ptclBsWmJlVk9BMkF6YUlrNk1xWmNOejFVTVJLdzlCcHk2eTZXM0NJbnJQWWhpa0k?oc=5",
-          "title": "Jurassic World Rebirth review: 'Stale' and with 'few thrills', it may be the weakest of the franchise",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXZ6cVhVc1dzNEQ4SHdiaHhGYmY4aUJRb2F2VWp0cVU3X1d2MXRiYzM5Qi0wZ2pVM3dXTkt4UVM5Uk5vWjByUWpnaEJRWWNXb1U1Wk5kWlRzd0taNWNxYmtlZHpTQzNSTkpxYjhaM0NZcDlMazdwOERyT2FMWFNQMmpR?oc=5",
+          "title": "‘Jurassic World Rebirth’ Review: Wonder, Gone Extinct",
+          "publisher": "The New York Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUFhodGFfQU9mN0VRTWxRaHJzOWNMM2RhLVZmZDhLZ2VMbURxZGRNV3puSFZaSm1ELVNMLVA2Nm1qTXI5TTg3V1pIV196SGpSM0N4d3J5elZMdVJtNERtbl94Z2E0Sk00ODJvN09nQTUwS21VWWxQVE5ZRjBBYjdRT3pKcXMzMnd6eXc?oc=5",
+          "title": "Jurassic World Rebirth First Reviews: Old-School Dino Mayhem with Thrilling Set Pieces and Top-Notch VFX",
+          "publisher": "Rotten Tomatoes"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pOS0yMXNGNExldXhWc0hCQzV0azZIVndnOU93SGx4c0EtSnUwSFRUdGxUTnBhVDVLaHJmNkhiYllERnNCb25hamROS0ZtWERVMmdaUkduZC1KcTMzUFpFLV9WdFltbWF2VWtDVVlxTQ?oc=5",
+          "title": "Jurassic World Rebirth Is the Best Jurassic Movie Since Spielberg’s Original: Review",
+          "publisher": "Consequence of Sound"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaHlkWGVSTFRqa25zdFNXRVpZMkVBOV9uMlVtX0drREFZWGJWaV9uX0xDZGJGb2k1WTZVNTFtMWdwSEtMNDd6b2o5UGpvd1NuVVJRQ1UxbExkVFJ6VXRQV2NvTDloMGdHNzVEMFV1U21qSFJwSWg0WmtvbW1ma0l5Ul9IeGJieVBKVmRGa3BFNXNqZGQwQ3ZTNDVLcTNoN181VFhsVkltaXV3TldENkRPSU5MdXM1VXJBaXNhT0tFbXQ1ZHp6U3ZqeC03Si1JSWlHQXZyLThMaUdqU25pTE1PTXNR?oc=5",
+          "title": "Jurassic World Rebirth review – Scarlett Johansson runs show as near-extinct franchise roars back to life",
+          "publisher": "The Guardian"
+        }
+      ]
+    },
+    {
+      "title": "Jury returns to deliberate for a second day at Sean ‘Diddy’ Combs’ sex trafficking trial - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWRWYUw1dk1EbTc3QU9fZlhjNUswdHFOWXRsRG5sR0NrQUN1UGgyd3d0M2tPNS1FWDdCWl9TQWowRkNqOGxQRGlUTmJrQldIclEtTWhPaHBja1F3amxvTXpPOEZXa3NCUzV1Y2hfNUF0bXBRck9uOUdTMnU5b2h6ZVBfWVBwVUFwem5qR3FqbDJZR0c5SkFLaUF5X3ZQa28yOTVR?oc=5",
+      "published": "Tue, 01 Jul 2025 04:05:00 GMT",
+      "published_parsed": [
+        2025,
+        7,
+        1,
+        4,
+        5,
+        0,
+        1,
+        182,
+        0
+      ],
+      "source": "AP News",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWRWYUw1dk1EbTc3QU9fZlhjNUswdHFOWXRsRG5sR0NrQUN1UGgyd3d0M2tPNS1FWDdCWl9TQWowRkNqOGxQRGlUTmJrQldIclEtTWhPaHBja1F3amxvTXpPOEZXa3NCUzV1Y2hfNUF0bXBRck9uOUdTMnU5b2h6ZVBfWVBwVUFwem5qR3FqbDJZR0c5SkFLaUF5X3ZQa28yOTVR?oc=5",
+          "title": "Jury returns to deliberate for a second day at Sean ‘Diddy’ Combs’ sex trafficking trial",
+          "publisher": "AP News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS3hjREYtYXJMeERSWHRNcEh6ekJTRW9PN25IMjhoWG1EVWV0TDhXcV9xSkMyTW84ZlhpYVN3OXF4R0lJVnVLeUc3cEdqdHJYYmhsWTkwU1VsVEw2OVU0cEs2WEtZNFo0QWVkMUtMUURCV2c2R09SZGliTGl6S203eg?oc=5",
+          "title": "June 30, 2025 - Jury begins deliberations in the Sean ‘Diddy’ Combs trial",
+          "publisher": "CNN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0N2dkFvLVY0TzRCeEpCNU5Ca1daeXpjaFBhZlhTc2ZyLS1MS3FoZVVtaTdSOXRPaTVTeG9yd1cyWXVhdGxKTmhyZ25fbENrZ0pNbXpPZzNZbU94cmlEbmE4SmhpVWR5VTk5ODdKWnBhS1dNanNVNzdPRU53dzBOQi1FNA?oc=5",
+          "title": "Sean \"Diddy\" Combs trial jury shares concerns about juror with judge after starting deliberations",
+          "publisher": "CBS News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOENDdE9kdkQ5RXJ5a2NqUmdaYy1wbzNjczNmc0tteUQzMzZGU3FKcUdLSXRraFFyT1VSQnljeEhhT0R5UDRrSUNDYnBqSDQwd3pDM0lrLVo1Z3FMRDVsVFY5SXhPdHBuYUdaNmQ2S1lYcm15UngtTFFxWGZQVFRUU1JYSzZxMi0wR0lrdEhJekNXcllNNlJkalI1LTktMkdp0gGmAUFVX3lxTE9oY2FKUkVta3FVTFR1SndYdlhCMjBXWVIxQ19hYi14c0hWY2lKeFlmNF8tb0ZrcHFFTVBkU3JZTnNDM05lakRnLVljQnBNc0pTMDgxWWxObkdpTmlMNzJfek56Ym5PTTBJdUZLQ3pfZzZwM1NDTzltZUdqa0xHQ2tLZ3lnOXJIcV9lSnhuN2RQenlBUnBSYjlaczgwLVo0VldldW1TcXc?oc=5",
+          "title": "Jurors to resume deliberations Tuesday in Sean 'Diddy' Combs trial",
+          "publisher": "upi.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzZUSzQ2Z2ROWTNoQVd3ZFM3bVBHcW43elpwRnVtRDZzUjN6aFR2bkdkaFdJc0VMSlZ0ZndoM0NHV3htTmZRQllIYUFYZFU4ZFZJUjFGV2dRVUJWdC1pMEdadFo0UlY2TmNCNmllRFN2T3dHWjEycTdPaFprVXdVZFBKWVpNRlNZNC1UeElyTEIyaTlxN1dQUWduajdCRWlyYVN6bDYwNDY5anlsOTdTbEd3?oc=5",
+          "title": "Diddy trial updates: Jury in Sean Combs' sex-crimes case returns for deliberations",
+          "publisher": "USA Today"
+        }
+      ]
+    },
+    {
+      "title": "State Department bans visas for English punk duo Bob Vylan after Glastonbury performance - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcWEwUzlQdFNicktQd01kVVpwSFQtR01vLXY3WnBKbjV2MzlOV0dRRWJCMVhyNUhCSktHT3dmMFdQM2tNWm41SDRadURzdmpjLTRlTTZFOERUeVl5YXBZRUxGQUxKUWZXRnNqN0g1REtudjIxUEtvQlozVnJwYl9mUDQ5VGVuOXBYeVFMV1NCRTdiWkI3VEt1bERmTS1udEwyN3M2c2tmWHVmdHgtanhjU0Vwa2JrUnhKVVHSAVZBVV95cUxNQlpDS0xhQjNUdzR5YmhkWnFfM21JYlFFTU9HUkR4eDdLODhrTU5FXzZZUEdCU0dqRWk0cEtXNy1OTDhQNW92T1hIOHE1WWZrREVfNTZ5UQ?oc=5",
+      "published": "Tue, 01 Jul 2025 11:53:00 GMT",
+      "published_parsed": [
+        2025,
+        7,
+        1,
+        11,
+        53,
+        0,
+        1,
+        182,
+        0
+      ],
+      "source": "NBC News",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcWEwUzlQdFNicktQd01kVVpwSFQtR01vLXY3WnBKbjV2MzlOV0dRRWJCMVhyNUhCSktHT3dmMFdQM2tNWm41SDRadURzdmpjLTRlTTZFOERUeVl5YXBZRUxGQUxKUWZXRnNqN0g1REtudjIxUEtvQlozVnJwYl9mUDQ5VGVuOXBYeVFMV1NCRTdiWkI3VEt1bERmTS1udEwyN3M2c2tmWHVmdHgtanhjU0Vwa2JrUnhKVVHSAVZBVV95cUxNQlpDS0xhQjNUdzR5YmhkWnFfM21JYlFFTU9HUkR4eDdLODhrTU5FXzZZUEdCU0dqRWk0cEtXNy1OTDhQNW92T1hIOHE1WWZrREVfNTZ5UQ?oc=5",
+          "title": "State Department bans visas for English punk duo Bob Vylan after Glastonbury performance",
+          "publisher": "NBC News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xekRWeHNUb25zSTlnOGcwTGhjUWVEdVU5YW0xMndHSXc5Z1h5QWk1Tmx4Z1lXdjQ0eVdSVXltRVFMQ0ZVeEdmS1BjRTBMNzEyVkkzcUJqSmRvQQ?oc=5",
+          "title": "Did BBC's focus on one potential Glastonbury controversy miss another?",
           "publisher": "BBC"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb01lVVJ2YUtYNk9uWl9uUGo3OW5wLXVPTDR3TTRXNkp6RTFtUlpJelFlQmZ2akJzcjR6aFVaV2t5Umo0R2VyWWc2V3lzV2ZPSkpxclZyODBxM1p6U002aGFEcy1sQlptX3NEMHFKa19JZnNqWVBobXBfNGN2empkamwwdTl0UQ?oc=5",
-          "title": "'Jurassic World Rebirth' Review: Dino Franchise Returns to Its Roots",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHpwOGhQcERBRGJOQTlzYmdDdUVwMTJVOFlSMGRod2dVUWdGaFFjWS1vSFM5UGJramg2azRzb2loc2dGSzdaWVRVT3Vhb2twX3oxSy1NNTdGalFaYUhFbmFvRE05N3l2a2NsVG5iU21idlJ5WDBxM25xZEFFMWVMd0l6cW5pTlNWa09XZ1o3NDFqdkxKMmYxNlpHb0tMVVk?oc=5",
+          "title": "BBC chief faces questions over failure to pull live stream of Bob Vylan IDF chant",
+          "publisher": "The Guardian"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFdISnhmU1RoVmtjZGlnY3hHU01lQXU3LWF4c19ZVHAyTDItRTYzWnVDbENSU2tHanYzbkl4b0dhU0FWV0V6ZlhvT1A4Wi1UdWZYYy1Fd2o3NHZxOGh3OGhnMXkxeWFENXoySnRSbHNxVUJvcnN1MmhBVUw3NFZraUVsRDNCdzA?oc=5",
+          "title": "U.S. revokes U.K. band's visas over anti-Israel chant at Glastonbury",
+          "publisher": "Yahoo"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQktPaDhEQ1ZxdTN2SGc0Y2ZNbmtFRE1DYWJvUEVhUlJDTUJ0SFpOYjZidG5XSVl6bDVtMjFvRG5qaHZJUHQxdFgyMWFnMlY5VnVxeXFDOHVrdnU4QWRJX05ucEhnMU54cWtjSGxzVXVsNEx0dFdUMy1MY205TUllZm1vcTdxUXBOMnhuakFIcGFEdlowX2hrVlc1Tm54UnNXLWc?oc=5",
+          "title": "Bob Vylan claim they are being ‘targeted for speaking up’",
+          "publisher": "The Telegraph"
+        }
+      ]
+    },
+    {
+      "title": "Neil Sedaka Executed One of Pop’s Great Comebacks. Now, He Just Plays. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95dnJ0VVhKcGFrUUl3emRqZUVrZjBmU0VmWU5iQXp0N0J0WUVfSVhsdlFyWUdvclBzazI4b3kxVXYzUnhDRWVxcTJNVC1ncFJMZ1RiS3MySDNhN0tkb1pPLThQS0hSS3FsbDF2MHFZNA?oc=5",
+      "published": "Tue, 01 Jul 2025 09:01:15 GMT",
+      "published_parsed": [
+        2025,
+        7,
+        1,
+        9,
+        1,
+        15,
+        1,
+        182,
+        0
+      ],
+      "source": "The New York Times",
+      "sub_articles": []
+    },
+    {
+      "title": "Horoscope for Tuesday, July 01, 2025 - Chicago Sun-Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcTFDLTIxOUlqbERsVkJYOFp6d19qd2JWX1B2MV90cEgtRWE1aUhLVWlaQVlTMlMzZXpaeUR0OVJSenFabnJNQTZRRUpQYnZZdEhwZS02RXJZaEM4dG9BVUdVQlBlV01NeTc4V25lY0JmQzdFNDhZWWhQTXR2NlhmbU14Q2N3UHFfWHc4OS1NWWU?oc=5",
+      "published": "Tue, 01 Jul 2025 05:04:21 GMT",
+      "published_parsed": [
+        2025,
+        7,
+        1,
+        5,
+        4,
+        21,
+        1,
+        182,
+        0
+      ],
+      "source": "Chicago Sun-Times",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcTFDLTIxOUlqbERsVkJYOFp6d19qd2JWX1B2MV90cEgtRWE1aUhLVWlaQVlTMlMzZXpaeUR0OVJSenFabnJNQTZRRUpQYnZZdEhwZS02RXJZaEM4dG9BVUdVQlBlV01NeTc4V25lY0JmQzdFNDhZWWhQTXR2NlhmbU14Q2N3UHFfWHc4OS1NWWU?oc=5",
+          "title": "Horoscope for Tuesday, July 01, 2025",
+          "publisher": "Chicago Sun-Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdnJWcGNHYmlUaGdreW40eUdvVG5RZU01YTduZzdyN2xjVlNyRHpvTEFNTXJxcUhWM3lMX0xwNW9UZFJSQVItVW1naUdoUVR6ajRXdjAyeUltTkpUWEllM3VhRFJXZ01GWWkwQnJkN0hVdDZNQUJsU3R2RUxvTG8yYk1qUXpGSVB0eG1sQl9DQXg?oc=5",
+          "title": "Horoscopes Today, July 1, 2025",
+          "publisher": "USA Today"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTENtMC16WlhieExZeTV6LXdyUVhvZG9nTUNNTEZIT0JXMUNVWTlLQlRzSlJXRDhBdF9sUzZ6WkNQYnpsWVUxUVJ5R3ZwYmFjanJnV3ZhWlYyamNsYlBMcGpxUGZmVmxua3hFamZDaUpoWWVGZ3hiLXZOaVpMbThNSWJaQWJJNUstOWg2RnRZUW9rLVXSAacBQVVfeXFMUFNDU19Fbk1NSWU0VjRhYVBzenVrZTJ4Q1BJd3NPQTBRQUpLcEhhVi1rbndST2EwdGhiUUczaTlvSURFaXI0MW9laUh5ekxEZUd0Ry1PUEZ1c2tNYUNGUEhxeVRsMGpqcXZaU2N0dGdiOUJ0V28zY2hpUDlnWDZGUmNZMkNRV2FyRjdDdVFiazdrU0ZqV3pCRTZmOHh4S1JzYmgzN3hhTnc?oc=5",
+          "title": "July 1 birthday horoscope and your daily astrology",
+          "publisher": "NJ.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaFlHMGlfSHhDNUk0clJwM1NLalRTaW1OOU1QR3Bla3ZYcm1aV1VBQ3JybUpTMDgydE5iT0VlRTFkWmZlNm13Q21tWERueVhBN1haM3pKcWR3anRqUkhaLUJBSUVLYVEyWDJMUVlIeVczclJrb0VRQXVXdkg4OF91dTBUTFRrYXRMSWhlN0hVM1dmU2o0TGFXOGhXLUMyOHhSOTRPdE0wMWx6NUlsNHlLY0FDMHc3VTJYUzNaekpsb0UtV1JtYXFjTllyT180XzM0YVlWVXZrM1VkTngt?oc=5",
+          "title": "Leo Horoscope for July 1, 2025: You may earn extra from side ideas",
+          "publisher": "Hindustan Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUFQbk0xTWVaSnd3YUFtVnl5eVZEZERmdTk2SXYxZUZGbENPQlg0SVlQaUNIcWpzZVhwYzFkNVozYnoyT1lTM3JHSXVnajBRUjRuWE9acWo5Ym1xZGg1Z1lNdE9WVEN0U0FUMS1DV2h6a2pGUVh4VUlHTm1qYVVyUk1CZ295eEtHTzRXQmR5dV9xZw?oc=5",
+          "title": "Your Daily Horoscope by Madame Clairevoyant: July 1, 2025",
+          "publisher": "The Cut"
+        }
+      ]
+    },
+    {
+      "title": "Read this: Pixar's self-censorship of Elio's queer themes may have doomed it - AV Club",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LNVNHMndzQzJEdjY1NExwVFZVbVp4YjZ5ZXJfUmxKVVdKMWdELUVka3FRLWctal9LRFBieUVMT2VJTXJieUhiSFZ3bTN5RzFBZk1kSjFtaHNlZE9mVU9FQlYyWFZGRjRvT1lVQ0ZKcy1NNTA?oc=5",
+      "published": "Tue, 01 Jul 2025 02:28:00 GMT",
+      "published_parsed": [
+        2025,
+        7,
+        1,
+        2,
+        28,
+        0,
+        1,
+        182,
+        0
+      ],
+      "source": "AV Club",
+      "sub_articles": []
+    },
+    {
+      "title": "Vera Wang Celebrates Her 76th Birthday in the Shortest, Backless Little Black Dress - instyle.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBcEF1ckY4bEJza3dhZl9ybDV4eWRob0JPb3NXWFVRdXR6QTFzV1dqbjRJSXdfT0lvZ0Znd0xZSTUyR1ROLUswOExCLWhwWW1FSDd4YjBGT08tbXIyaERBdmtxeEMwbW9mSUFWSmZjSnhxMk4tV0paR0VqMEgxdw?oc=5",
+      "published": "Mon, 30 Jun 2025 15:57:03 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        30,
+        15,
+        57,
+        3,
+        0,
+        181,
+        0
+      ],
+      "source": "instyle.com",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBcEF1ckY4bEJza3dhZl9ybDV4eWRob0JPb3NXWFVRdXR6QTFzV1dqbjRJSXdfT0lvZ0Znd0xZSTUyR1ROLUswOExCLWhwWW1FSDd4YjBGT08tbXIyaERBdmtxeEMwbW9mSUFWSmZjSnhxMk4tV0paR0VqMEgxdw?oc=5",
+          "title": "Vera Wang Celebrates Her 76th Birthday in the Shortest, Backless Little Black Dress",
+          "publisher": "instyle.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTRWWnR6cmNnX3lyaV9zbi16QkxINHV0TXl2bS10MWcyWlpaVHBYQU0yQVlFWmdoVnZ1Tkxpc3Ywamo4NjU2UGtSQkpSSkRpdXpoRDhhNlJWS2hUWXBEM3BTUUsyUk9TMDlqYWg5aWZqNmZRT04ydW5VcklXYXRRdG12enZfNXBYQW5BdGpyYjQ?oc=5",
+          "title": "Vera Wang Celebrates 76th Birthday in the Tiniest Little Black Dress",
+          "publisher": "E! Online"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeEhmZ0FlRU13TFFyU3J2U0VPbTJDVzI5UjNsRGVwNWlDc0s2bldDWmxXVlp4dndUc3lfSm1maVpDbUVVc2YzdjR6cHNvei1lV0d1VUZxUTZNNWhRdERiSTJBRm4zWmFQSkJUaWhOeERMeGhsc196QlZZNnNtOEZTcm9lZWgwMXo4T0ZR?oc=5",
+          "title": "Vera Wang Stuns in Low-Cut Minidress for 76th Birthday Celebration",
+          "publisher": "Yahoo"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcEk1Z1FCSEhQYU1wcXcwR29PWGJsajYwMFJMeEpyMlRGZG5tRzd1Yk84aVMzYjVhdk4wTzEtOEZkRllfQ2tGc0ZYMzBrSmY2WWlIS1JMM0tTS2tqdFp1OHpyT1hZOW1YYndocXFZVU5yWTd4MFM4X3JmUHJPcl93LWRWM0VhbDNI?oc=5",
+          "title": "Vera Wang Wears This Divisive Carrie Bradshaw-Inspired Trend After Her 76th Birthday",
+          "publisher": "instyle.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkFydDhFUHFuVTBzMWVkU0hRanJNT0otOTM2Ynd5bWhsbXByazNDS1FzSW9vYTlwbGxkOEd1MmhTUTVzbE9IYlRFdzA3OG9EdlpQOGd3TjhfUjhfblBENmtXTjkxRFZjMEZlRkhDeWN2OUNUMVNRRldPNnRxQ2g0bXoxWGhMeGwwX3pQUUZPb3J6bmhydXBiVkUta2JEbkFNMVplOWlrYkNVQQ?oc=5",
+          "title": "Vera Wang flashes a hint of thigh in peekaboo dress on 76th birthday",
+          "publisher": "Page Six"
+        }
+      ]
+    },
+    {
+      "title": "Vin Diesel announces final Fast & Furious film’s release date, reveals return of Paul Walker’s Brian O’Conner - Entertainment Weekly",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ0hzakJQLU0tdnpvNWdlTDVOa2t0b1FidW44Wlg1V2dhSEp5V3JxQ2R2cmtCSWJxRWlPN3dNS24wREloS1VKRTBSU1pWdW9LOHNRNkNZTmFLdGNNdlZBNHVBVmdXSUFDWFhSZlppX21nUmFpcENYcWs2cExQbVBRcmpZTnFscGZZOHJ1ZkYzUDFZaVhsVlE?oc=5",
+      "published": "Sun, 29 Jun 2025 20:35:23 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        29,
+        20,
+        35,
+        23,
+        6,
+        180,
+        0
+      ],
+      "source": "Entertainment Weekly",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ0hzakJQLU0tdnpvNWdlTDVOa2t0b1FidW44Wlg1V2dhSEp5V3JxQ2R2cmtCSWJxRWlPN3dNS24wREloS1VKRTBSU1pWdW9LOHNRNkNZTmFLdGNNdlZBNHVBVmdXSUFDWFhSZlppX21nUmFpcENYcWs2cExQbVBRcmpZTnFscGZZOHJ1ZkYzUDFZaVhsVlE?oc=5",
+          "title": "Vin Diesel announces final Fast & Furious film’s release date, reveals return of Paul Walker’s Brian O’Conner",
+          "publisher": "Entertainment Weekly"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPamk0SWI3QWQzUmN0Q2hmMlVVQ3lzVVZwazd1N2pTNklaN184QjNkNTQtbnVrSDN3RTBrXzQxZ3hCVXRuRGR6a016c1hwTUM4ZmNQYkRabUpkTUl2VkR5SktjRzNEMEdmZDVDWHhDbVJDMlZKVGNQeE85aEVFdWM3bXVOZkVZcjRuWW5DUTVXdURBdEJYbmNMMEdzRFJLTm5Yb3BDRFZB?oc=5",
+          "title": "Back from the dead: can the new Fast and Furious movie really ‘reunite’ Vin Diesel and Paul Walker?",
+          "publisher": "The Guardian"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSmltSGJpU1ktTEhDQmxsLUlGTVBnLXRfT3VBemV1MEVzb0RjLU81N2hTWGNuWUs3ank0Z0x4LXRHY3ZIM3VkQW5Sb09HTDh6ekV0aXFRcmlpNUZlOXcyeDdOeTdpNE53ZVVGT0wyUkZRdUdKQktvN0trdjg3OW5mWVR2ZGZpVVprd2xrN09rbnFBZUFsZWJhNWJYMFU?oc=5",
+          "title": "Vin Diesel Teases Paul Walker Could Return for 'Fast and Furious 11'",
           "publisher": "Variety"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzVsU2s0Qko5clVJejYtNFQ2ZnVVa1hZVVFULTlQdWx3bmJXUDhWY2l1M3RhLTh6aFRFMVBJMS0zYWlpX3p0R3d1LTBEQ0c1UV9FUm10UWdwUHZSM2pWVGJBd1Y2TlhEbWZENm9UVm95QldwQ1RsSEY3dEV0RWx5NTdxX3ZyZUNUQWNUSA?oc=5",
-          "title": "‘Jurassic World: Rebirth’ Review: For the Love of God, Can Something Please Kill All the Dinosaurs Again",
-          "publisher": "IndieWire"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNXRDZ0RWbVpmc1dhMkVUYjk2YnM3cHlkSThwdTFsZkR1VlZGLUs5Q0ZJSi1Yb2VvS0pVTmJjRFFFSHAxM2N1ZGc1TnBMMEpsUmotaDM3WHNOcmppY3lQNjQ1ODFsZ1ZKcjBqMDhvdzhFVzR6bldOTmY5UTZpc1g2OGRuOWJnLVQyZFNGRGtqSlY2N2VMUno2VmQzRWxMM1drTmwxRmtmMzlsams?oc=5",
+          "title": "Vin Diesel shows off new physique at star-studded charity event",
+          "publisher": "New York Post"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1lUMDhIXzdZRWFxa3dhQzNlU1BoOUQyYjZ2YkkxTkNBaDJ0eTFWTFJtZU1sRlFLNG1JclFVSElsdjV3MFVoR1pic0JGOVdmWUdzUVlFZWotWTlDYk5kS3g3UElGTEwtWHFEU1pWT1ZnVUtadE9KQzFvTEg2YWpjYjl2ZHZaNXROaTJKbXVTNXIwNW1zNURkemV0TkhNQ2JQ?oc=5",
-          "title": "‘Jurassic World Rebirth’ Review: Scarlett Johansson In Spielbergian Reboot That Is Part ‘Jaws’, ‘Skull Island’ & ‘Indiana Jones’ Mixed With The Pure DNA Of 1993 Original",
-          "publisher": "Deadline"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeEQzUXV5UDliOUZqWUZBdkNObDM2R0s3SUV6dTdqVTVjcjNnQkwtcnYzRTR5alpZYjVhT1NpNm1JaFI0dUhXcC1XVkllMHFUb0hDSzk4YmFFeG5sb0UtbS01dGRtZTFmLWhtQi1yUUF4NjZUU2xWYXlXdklSeE5QWTlaVkVXZmRscWdFTzJlWjh0aG5a?oc=5",
+          "title": "How Paul Walker’s Brian Could Return in Fast X: Part 2",
+          "publisher": "Yahoo"
+        }
+      ]
+    },
+    {
+      "title": "Raw recap & reactions: Who’s the champion? - Cageside Seats",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGx5WEpIUmRLTmdqMkJjYWFPWFJicFRkcFJXME1TdzJWS3VUNm1heUlrQUNnWGZQUUhINkxkTlQtSEpqWWJIc0dsbC1UcjRITlVXSzE4M2ROMFZ2S0RTRzd3b3pNTm5Ya05xNllwdEx2TTJmU2daV2NlbVJfbEw5aHY5VUxvbGE5cHBzRi1Nb2pLRklxWlRXX2xjV2lGSVNTbFM5alI1ODlhY2dIMlRFYzR3SmRfaUNxU3BSWG9va3Y?oc=5",
+      "published": "Tue, 01 Jul 2025 01:37:14 GMT",
+      "published_parsed": [
+        2025,
+        7,
+        1,
+        1,
+        37,
+        14,
+        1,
+        182,
+        0
+      ],
+      "source": "Cageside Seats",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGx5WEpIUmRLTmdqMkJjYWFPWFJicFRkcFJXME1TdzJWS3VUNm1heUlrQUNnWGZQUUhINkxkTlQtSEpqWWJIc0dsbC1UcjRITlVXSzE4M2ROMFZ2S0RTRzd3b3pNTm5Ya05xNllwdEx2TTJmU2daV2NlbVJfbEw5aHY5VUxvbGE5cHBzRi1Nb2pLRklxWlRXX2xjV2lGSVNTbFM5alI1ODlhY2dIMlRFYzR3SmRfaUNxU3BSWG9va3Y?oc=5",
+          "title": "Raw recap & reactions: Who’s the champion?",
+          "publisher": "Cageside Seats"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IVTRyVTdZcTVMbWxtNzdtUktxdHVyYTdwa3k2VE1yWGlVYVhxRy0waVJ4OC1jUEVHV1dhZWNWbkU2RnNBZFNLNEk4WHU1U21MdGc?oc=5",
+          "title": "Raw results, June 30, 2025: Jey Uso saves Sami Zayn and Penta from a Bron Breakker and Bronson Reed beatdown",
+          "publisher": "WWE"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOb3ktck54S3NoOHp6emFRY21xMUVjaWVRYWZJVUQ1SzI3YzMxdUhvTjRsZTZqZkhfRl9lcVZLUm1CN1N2bW5temxfcVM0cmttTHdzZUd4N24tQmdVa2loMjB0bVJQSmgzTWpDNzhQc21NalhhMjM1TEpaUE1FSHMtczUxQ1B6V0N2UkZYTnhQZkVWaG0tNWt2a0o0SjZpNURDeVVCMmxZbktiWmx0XzVTdU5FNG5MblB1UkszSFRRbTA2dlNISVN4MWpiNDE5WUliWXl0OGx3ZklYMjNqLXpuM28teDVuRDRhVWNFNjJXemNETEx0Z1NaMDlzZ3d1ZEw3?oc=5",
+          "title": "WWE Raw results, highlights (June 30): Judgment Day reclaim tag titles, Seth Rollins targets Gunther",
+          "publisher": "Yahoo Sports"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZnE5TE93V3hacVdtaTltYWhQS1lHdnFaQUp6MFRJaFBnQzZPZkhoeXNud1NOMWVMcTNUck96clRwZFM5NWZiUEVPVE1aRUZBVTFoYlo4MlBTQlJQQ0tvV2ZGMlh5WmVTNHFNM05xOUFjMDZDbzVZMVBLMllUemh3bDdiWVFIclZ5MlYwemlkNWQtYWZBSld6dHpFWkZTOTZNcDZKR212c2MzS3k1Y05VNnBRekxsZjRFVDdDNURsUQ?oc=5",
+          "title": "WWE Raw Results, Winners, Live Grades, Reaction, Highlights After Night of Champions",
+          "publisher": "Bleacher Report"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSXVkRG4zSzdUVzVBSUNwMUgxYmxyWjVMMUFDdlh5V3VKY2xXT29kbXBYdWRNUHF5ZVFQMkZmOVFGc2xFUHZyUzN4dmZmQ0lsYnJWU0E3VDhIQjZWcHBVWlYzUXpmX0NhLVowbEotdkZnRG11RDFCR2JzLTd4ZWNnTFo2dWxLTHpjb1lOenE0UlgySm1OY2c4cUJ2Z3RMVXdxV3hpcG50Z24yVHBCQmd0YVdiUzNQQQ?oc=5",
+          "title": "Finn Balor & JD McDonagh Beat New Day, Win WWE World Tag Belts To Huge Reaction On Raw",
+          "publisher": "Wrestling Inc."
+        }
+      ]
+    },
+    {
+      "title": "Multiple matches confirmed for the 2025 WWE Evolution PLE - NoDQ.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTEFVSDhvMzI0Tk1IQ19uMXQwc09oOFdDSE9uTVhJc29OWDRXNGZ5aC0xSVJSREh6S0xJSHNFRXBoenJURFdsRElmZzFFS1NOOTR4OTZSSEZNNGR5OXVXZHljdmhfUElraVc2NjlpS0w0OEswZGItWHp4TzdvVjNyejJkNkRYZTA?oc=5",
+      "published": "Mon, 30 Jun 2025 23:21:04 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        30,
+        23,
+        21,
+        4,
+        0,
+        181,
+        0
+      ],
+      "source": "NoDQ.com",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTEFVSDhvMzI0Tk1IQ19uMXQwc09oOFdDSE9uTVhJc29OWDRXNGZ5aC0xSVJSREh6S0xJSHNFRXBoenJURFdsRElmZzFFS1NOOTR4OTZSSEZNNGR5OXVXZHljdmhfUElraVc2NjlpS0w0OEswZGItWHp4TzdvVjNyejJkNkRYZTA?oc=5",
+          "title": "Multiple matches confirmed for the 2025 WWE Evolution PLE",
+          "publisher": "NoDQ.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2xnaXFldmxmOTJGYkRidWgwbDlSRkRfbVlhYmFQM1pzS3VIUGMxbnJnYWFzMzF4T2hDbXV5RlJBdGZtelJIcUcwOVNET3ZYYVJhOTZFVGpzb3IzRnJmeVJINGtpMGtSOUY1QVpJZEdIazZPd0J5Z3owRVhjc2hVYUxvX0h0SEpYSll2MkR2REVxU0E3dVNDSGVSdk51RFZicFBpOGFFeFZBXzJ6T3ZiS3lnWi1makNo?oc=5",
+          "title": "Women's World Champ IYO SKY Challenges Rhea Ripley To Evolution Title Match On WWE Raw",
+          "publisher": "Wrestling Inc."
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sbzhHRW1VUFNldEk2UjFkNUUtRmZMMWJ0ZlFwUXpJQ04wbVJmbGNVdDFBM2xYSzZ4X2taOW9wckRFMXE2YldiemZFaFA0VFVGZ1QwbjVDR0VyVDcwSnFodldtZWt1czFaYVhOcFFGRHNlTUFmRWZJ?oc=5",
+          "title": "Spoiler For New Match At WWE Evolution",
+          "publisher": "411MANIA"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUXlIUFFuSVVqWjlPU0ZhYXdIT2lCeXhqS3FXdTlMSjV6SXoxMk5PYndLNU94UEZ0OEcwTzJhNkRGRnVieUN4NzZ3X3RvSzZNbHh4alIwM3RRRGFtUG9kRVpockUtWC1jdlhzUGNMZkpHR05hZkt3Y3A2UGdtQkFNXzFCMUl3SDdxYmwwZlFlWTlrMjZENlg0WDRZdnpJOUxHMmI5alpXdjdlVWtNdzNWNXAyS0M3RUlMSGxURjZ30gHDAUFVX3lxTE5VeDVVVW1qWDJZbDV2ZnVlOWg2OTk4WmZKNkJzQkgyVGtBQkN2cFJKQ3NSNkxCM24xMDVBdnhBcWR1dkdtcDgzTGNYRXNnVFdnc21UaUNPYUl4SjMwaFZraUtHXzl1UFF5d2Z5LU4xajFPR0VVT2h2RmxJOVJMaXd2Qk5tNEoydGF0WTZMRWRkbkp2dE1nUHgyY0ExZmw0MDZWbU5XcnE1OEtDVms0S05uS2xfb19ORU5DaE9xb0Q4ekoyVQ?oc=5",
+          "title": "Rhea Ripley Doesn’t Deliver ‘Special Message,’ Co-Main Event For WWE Evolution 2025 Announced",
+          "publisher": "Wrestling Headlines"
         }
       ]
     },
@@ -83,58 +422,268 @@
           "publisher": "The New York Times"
         },
         {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ObzlLMUVaM2dSSlNxWEtIYzViR0pDVk91ODUzUUREN0RlaDhLeEI2Snp0WXFvS2dLT0Y1LWh6eV9IN29YS3ROVS1vS0JuU21QN003TTloVWxYUW5HMXlPc2dBQXRQSF9GZGFRR1lTNFBQVGxLU3BLbDh5Yw?oc=5",
+          "title": "Is the ‘F1’ Movie Better in IMAX or 4DX?",
+          "publisher": "PetaPixel"
+        },
+        {
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTWURyWHFOcUtaSDkxTnJ2UFJBbjlNMnh6NlN3UEhwNmhiQnZNX0w4aF93ekRmdlZBZ2VhSFRMRFdpWmZUSk9VRUcwMjFCSEdBeVp1aThudTdXN2g4dWt1cXBWTEVZTVpGOGQ4c2FFMktkUQ?oc=5",
           "title": "The F1 Movie’s Success May Be Helping Apple Stock. But Here Are the Bigger Winners.",
           "publisher": "Barron's"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTFRUT212NW1GbndxNENTcTgxUjV2dWw5NU1NOHk5b0wtR2l2TThwSFFFWXdtNFB0ZE5qdXM0djNHUEtvak5DMFZhbDNRY0t4LU1lekF5NzN5VFI4Z2FWQkd0bmEzMC1fYnlReWx2dE5pUlJfYVNUVUdfTGJtOXFlc0tjTQ?oc=5",
-          "title": "With ‘F1’, Apple finally has a theatrical hit",
-          "publisher": "Yahoo Finance"
         }
       ]
     },
     {
-      "title": "State Department bans visas for English punk duo Bob Vylan after Glastonbury performance - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcWEwUzlQdFNicktQd01kVVpwSFQtR01vLXY3WnBKbjV2MzlOV0dRRWJCMVhyNUhCSktHT3dmMFdQM2tNWm41SDRadURzdmpjLTRlTTZFOERUeVl5YXBZRUxGQUxKUWZXRnNqN0g1REtudjIxUEtvQlozVnJwYl9mUDQ5VGVuOXBYeVFMV1NCRTdiWkI3VEt1bERmTS1udEwyN3M2c2tmWHVmdHgtanhjU0Vwa2JrUnhKVVHSAVZBVV95cUxNQlpDS0xhQjNUdzR5YmhkWnFfM21JYlFFTU9HUkR4eDdLODhrTU5FXzZZUEdCU0dqRWk0cEtXNy1OTDhQNW92T1hIOHE1WWZrREVfNTZ5UQ?oc=5",
-      "published": "Mon, 30 Jun 2025 21:41:10 GMT",
+      "title": "‘Squid Game’ Creator Weighs in on American Spinoff Reports and Explains That Surprise Cameo - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ200dkNfTldadi15U0NwcWNaVWNQQzRHaHNtd19KeVZkLVkycGdCMl9CSENBbXJoT2s3a3B3QzBBVnJoQXY5Vnd6eC1JVWtSelBpczN0X1BIN1RUaWNWMXdBOUNUVk9Rekdyd2Nlalc3eVhxVzN3UFc1eXI0ZW5ZUUNzNENCV1BOamdXZ0NVc0k0VnVBeURzWG83NURzQ1YwUE54XzRRXy1UYnkweG85eWdTMEpGVkpQNVE?oc=5",
+      "published": "Mon, 30 Jun 2025 16:03:42 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        30,
+        16,
+        3,
+        42,
+        0,
+        181,
+        0
+      ],
+      "source": "The Hollywood Reporter",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ200dkNfTldadi15U0NwcWNaVWNQQzRHaHNtd19KeVZkLVkycGdCMl9CSENBbXJoT2s3a3B3QzBBVnJoQXY5Vnd6eC1JVWtSelBpczN0X1BIN1RUaWNWMXdBOUNUVk9Rekdyd2Nlalc3eVhxVzN3UFc1eXI0ZW5ZUUNzNENCV1BOamdXZ0NVc0k0VnVBeURzWG83NURzQ1YwUE54XzRRXy1UYnkweG85eWdTMEpGVkpQNVE?oc=5",
+          "title": "‘Squid Game’ Creator Weighs in on American Spinoff Reports and Explains That Surprise Cameo",
+          "publisher": "The Hollywood Reporter"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjBKWGttN3VOV2VpOHFyTzh5TFNkNU9la2E5bUxEdlhFWmJXWUh0ODZ5RGdYTjZaZ2FtR3ZpLXI3ZkM1RmRGQ3I4dTE2eVVzSENsMnRsVnczX2ZmZzRrSEhyV1A1UFJaWmNSS3JFVVhXRTM1UHJXOUVwcmdsVEI1M2JibFFRQW9qNFVFLUZMUEU3VlYxR3lQYTA3X1VueFBkajZVMnl3?oc=5",
+          "title": "Netflix’s Most Popular Show of All Time Has Finally Come to an End. Did It Stick the Landing?",
+          "publisher": "Slate Magazine"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY1FXcUJ5SGpwS19vOWFNbmQ4ZGtwX2V1TXlZVl9GRjYyTE1YTi1WNWhsLUN3N0tLWktEZ3pfaTFZU0pVWnZlbnF2WkFtSlBiX1hUMUVhVG0wdGFFa0hJM01fZm8wbFJhYWctZU9YV2VPeW1JVzVZb2FxaGYzRGdMVUl0MGRhM3I2R0pPeXFGVFpJQQ?oc=5",
+          "title": "For South Koreans,‘Squid Game’ Was More Than Just Entertainment",
+          "publisher": "The New York Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWWp4MFhwQVhnbzdxR1pHZ0hfZHRFTHlaUGpwQjRLOHdwWXdoVG1rd25SWER4RmNqclNnRnM4bGVoQ2p1bi1jNFdGaS1mU280ZXJoN0NCR0FrTms5RVMtYmhncEpzb0kwVzIxN0EwMHJZOWNYbjZWdzY5TXhVUDhlcU9PZC13R0ZqS0Jsa0NMbUcwRjdQaTFVcmp5bXpyblIwTU9wZzE2MG15ZzZ1Z1RjcENDMEs?oc=5",
+          "title": "Could 'Squid Game' plan Season 4 or a spinoff? With 'caution,' creator says",
+          "publisher": "USA Today"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT0h5LUtFaHZnTjNWN0tnR0FTMG9PREIzZkFlQjc0REloa3NmQkRuWUR1a0Y2T3RtOUk0S0JIZDAycVhtSmVZeGFCUDZHSE8xQ2FLQnV2Nk5WclRHREdxV18zUHNUZmUtd2FubEt2ZzhUWWthZmFnVkFweGhiTzBCM2V0ZkVXMmdweGM3cVUtNGl2TTM0UWVSZ0xSS1ZGR0RCT2luWl9R?oc=5",
+          "title": "‘Squid Game’ Creator Details the Original Ending Where [SPOILER] Lives, the Connection Between That Cameo and an American Spinoff and How Season 4 Is Still a Possibility",
+          "publisher": "Variety"
+        }
+      ]
+    },
+    {
+      "title": "Kylie Page, Adult Film Star, Dead at 28 - E! Online",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyTml3RWdSci1nMWdQMnV4c1JHa2tqMlJia2xYTmtSQjhOdm5oSkdCaV9HQ2lDN3k4cklkOTM2NVgwR2pzcGowbE9MZFlBOHNjVnFyT2o3Y1ZTZWZaY0VvMmNnQVI1TVZuWURwMHY3YVpQM3YzbTFPWk9fZ2xxWXM?oc=5",
+      "published": "Wed, 25 Jun 2025 07:00:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        25,
+        7,
+        0,
+        0,
+        2,
+        176,
+        0
+      ],
+      "source": "E! Online",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyTml3RWdSci1nMWdQMnV4c1JHa2tqMlJia2xYTmtSQjhOdm5oSkdCaV9HQ2lDN3k4cklkOTM2NVgwR2pzcGowbE9MZFlBOHNjVnFyT2o3Y1ZTZWZaY0VvMmNnQVI1TVZuWURwMHY3YVpQM3YzbTFPWk9fZ2xxWXM?oc=5",
+          "title": "Kylie Page, Adult Film Star, Dead at 28",
+          "publisher": "E! Online"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWGxxc08tRTJud3ZSWWIzTnpXMW5aMWhadFZoM1djZHlnUk5fWW1LWU8zYXkzbUlZbEtDWjNyU3ZxMk83anF4azhqN3JPMjJhazhpdG9RNTU2bGx2MzlLNzVPTFNqakRZM2w2UXU4eEtUTkZhaXZ4QXpCb2RuNVJhZzVwYndWcDdYSldYNkYxRDlIVlIwekg2UTdpVUFHZnpRSVZES29EZFlER3Q3UnhpbEFwUm9taUd4em1TZXhJNDU?oc=5",
+          "title": "Kylie Page's Death Highlights 'Unspeakable' Crisis: Young Female Porn Stars Face Skyrocketing Depression Rates",
+          "publisher": "International Business Times UK"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzRtclFFQXlTT2FkNDF3N2ZVN2RnendES0FfT2Mzb0JVM2lHcVRSdzVReGNWaU9LUlR4SGh1LUh6a2NpcGJzWkUtcnVvYUM2SGRFdFV0d1ZxS2hDSHFkTU1UbkxuNFg5SFBJRjBfQnJrNDZnaTJEcEJQZWVyYkxNclZHZXZFTVFDQU50T3pBZWF3UkxPYzBfTGpzOUdVSnd6M3lrVW12aTRZQQ?oc=5",
+          "title": "Kylie Page Cause of Death a Mystery as Tributes Flow for Actress",
+          "publisher": "Men's Journal"
+        }
+      ]
+    },
+    {
+      "title": "Dana Carvey Says He Was 'Delicate' With 'SNL' Joe Biden Impression - Variety",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGxOUC1xaUhMR2lKMUlvZ2NYRXI4cmxza2lzZUdYdGdqb0Y1WDhJYkstX19KZzhteVAwelBIVFBuRVBDS0YyZTRQLTNscTRoMmszVXVISTdQajVQVExtdDdTeEctaF9ReW9nNWQyUFVBbWotYzJlLW03aWRxdERpRi1SNnNpWFl0?oc=5",
+      "published": "Tue, 01 Jul 2025 02:53:00 GMT",
+      "published_parsed": [
+        2025,
+        7,
+        1,
+        2,
+        53,
+        0,
+        1,
+        182,
+        0
+      ],
+      "source": "Variety",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGxOUC1xaUhMR2lKMUlvZ2NYRXI4cmxza2lzZUdYdGdqb0Y1WDhJYkstX19KZzhteVAwelBIVFBuRVBDS0YyZTRQLTNscTRoMmszVXVISTdQajVQVExtdDdTeEctaF9ReW9nNWQyUFVBbWotYzJlLW03aWRxdERpRi1SNnNpWFl0?oc=5",
+          "title": "Dana Carvey Says He Was 'Delicate' With 'SNL' Joe Biden Impression",
+          "publisher": "Variety"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ2c1Z2tkRkN2WkJXQ2c4TEVYMXJWQU9RekZVbGhMcUZyTnhETEVoSE9ncVQ1aVZIb21vc1pCZk03elhFaU5TMlRSd0EzZXlXczdnT2VUcUpFWk41XzNvTDNXcWRyWVpUSE5YdjRUek95OWV0QzB3bUdJTGNOcmlaVWdkWlRYMWh5TXNOTDJncDhGNngyMkd5dFVVamIzMUxOQzFkN0NSSGtNUQ?oc=5",
+          "title": "Dana Carvey Says His Biden Impression Was ‘Delicate’: ‘He Was Compromised Mentally’",
+          "publisher": "Rolling Stone"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaEtkUHJjaW1nTEh0SkY1TGZaNW1uVXVhOU1QYVVpWUZaRDlaeWJkNHZ3ZXEwNGZaWTJnd2tzbEpDRV9xdUJEUml1OElHUmU2cnBRUkZhbndDblFuZk9Xb0YzUnRibGJWZmowR2pUQ2kwbWI3Qkozbkc0ckFveE93WU16dm96aEJrSmswRnFjQlBjYllEU2psOV96NnVSbmptS0VnSWQ0YzFocnfSAbABQVVfeXFMUHdIaXVmUHByTnVyNFpxLWl4SFhjQ0FGZEhTdnZHdmUzRUVvdEIzdWhJYXVqc09sNTZZS01BVXpxOWxWekJ0MjlZWXJOMGJtR0dsUUJ6U0h4VGk0enNPWFZTenJYMkNqZDMxWUN5Sm1aZFhfeW96TUFPSWplTXFsRHdIQkg4Rm42UU1YeUhhZEtyeF9Jcy1CTW8xWkFiQ2FVSmprdURibnFZd1htNy1nemE?oc=5",
+          "title": "SNL Biden impersonator Dana Carvey knew former president was 'compromised mentally'",
+          "publisher": "Fox News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY2NacGJLZDcyeDZlRjRHR0VRZ0M4TDRYOEFEQWNjM2R3SkJia09Yak9mcnFVMDhEMzI3dTJ1T0oxY2dhS2E5QzgtclBJUG0weXNGRW43RWpwclBKWTdqY1BmdnViQVBDajAzN1ZPcU5Xd29NZ0ZNUzlXZmI0dnRzVlZKM0MzM1o0WjV0R2tYYXBldTVCeVVVTkp3?oc=5",
+          "title": "Dana Carvey Reveals How He Wrestled With Biden’s ‘Obvious’ Mental Decline In ‘SNL’ Skits",
+          "publisher": "Yahoo"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb0VaZ3p6YlVoQzBOTl9idEd3eDN4dGhkWmtRRGFtNExwLVFYNGREcEhMLWhOMlZocmFlenJvWEVwcWhiN25rZkMwMEdGUkdzMmpIUGdTNHhBYVc4dFlSajVFMVVzeXJ4Uk4ySnJZQUNLXzNpZnkwNEZZRmRRdmIzSlZPUXFFT1cxcHpwUDJMX2p3bXA5Uy12bEx6RVdJUQ?oc=5",
+          "title": "Dana Carvey Slipped Biden’s ‘Obvious’ Mental Decline Into ‘SNL’ Skits",
+          "publisher": "kboi.com"
+        }
+      ]
+    },
+    {
+      "title": "Keith Urban ends interview after ‘uncomfortable’ question about wife Nicole Kidman’s steamy scenes with Zac Efron - Page Six",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc1FrRnRJRFRzams5VG1XUXlQSFNpbTlxS0gtVmV5S3djZm8xTkFLb2t0ZlV0c2xON1FVQmQ3UTVuaElmeXpobUUzekR0UDB0U1NjaHJicnFQU0tlSEp5c2hKSEw5dF9kakh5VU1obnQzNHpwa1dfR0hJRURXN1JWVWZMSnF5UGR3dnpxcVhLY3h0M1I5Y2NCTkU0aWFEVjVBaHg1NGJZMmM5Mm5IX2JQVjRJd3M5cGd4NTBabnBKUUNqY1Z5OFRN?oc=5",
+      "published": "Tue, 01 Jul 2025 11:10:00 GMT",
+      "published_parsed": [
+        2025,
+        7,
+        1,
+        11,
+        10,
+        0,
+        1,
+        182,
+        0
+      ],
+      "source": "Page Six",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc1FrRnRJRFRzams5VG1XUXlQSFNpbTlxS0gtVmV5S3djZm8xTkFLb2t0ZlV0c2xON1FVQmQ3UTVuaElmeXpobUUzekR0UDB0U1NjaHJicnFQU0tlSEp5c2hKSEw5dF9kakh5VU1obnQzNHpwa1dfR0hJRURXN1JWVWZMSnF5UGR3dnpxcVhLY3h0M1I5Y2NCTkU0aWFEVjVBaHg1NGJZMmM5Mm5IX2JQVjRJd3M5cGd4NTBabnBKUUNqY1Z5OFRN?oc=5",
+          "title": "Keith Urban ends interview after ‘uncomfortable’ question about wife Nicole Kidman’s steamy scenes with Zac Efron",
+          "publisher": "Page Six"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNlpPa0pILUVyYWxoNXUwbVVqSGlJbE1Zbm1oVUY5elZSZXlkZ3dqZGV1TFZ6MDVtOEFtNmRDb1FrdUI0UEJXQ3hsVEl2WmJySTJwRWo4NHh5ZGl1aXlVRVZNZktQMnA5eV9fVGJWblotTGxPVGlMQUthQWoxYkJBNlJDQjFvWkplRWpaZG1nS04yWVgtTUNZNkstd0tfTnQ1M05famVrSWZjYlRvdF9Qak03S0xsSWlsdFVVMmNuS25ma1BYY3o1THpIVG5VcTVjMGtUME1wa18?oc=5",
+          "title": "Keith Urban hangs up on Aussie radio hosts when asked intimate question about wife Nicole Kidman",
+          "publisher": "New York Post"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdWNUMWl6cmZ3el9HcU9rdDNhME5YaklIZmxIOVlsa2Y5NkVQOE1DcWQwMWFQRTB5a1pqMm90ak1OSFIzUUtpSlp4eXZUWlRGVnpGNDB6VFJ0ZDhQTHFoYldmN3p4SWI5S1pXLTdwQi1WUzdBTFdtRE9Wa2h0MXlOcTdzZnN6RGptcUtNRV85QmtIbGltTHI2V09uQXhndU5pc09Md21ONlRjR2RjZGdnUkNR?oc=5",
+          "title": "Keith Urban Ends Interview Over Nicole Kidman Sex Scene Question",
+          "publisher": "Us Weekly"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbjlvYURySkVfdmQ5S1llYkU2SVN5RUY0b1dqM3U5YV94dmo1Ty1xZkRDVDdfVHJwMXBXM1g5UUJfZzNRM3lpeGJubmZYQ1BWM2tvYmczMkFLeWVZMVRWLUc3ZDVSTmQ4Y3NEZlVXM1ptc0t6ZXctSkowaTAzSmhBTmZWaEYxVXpIWjduajFiNWN5czdOdTV5OTZZWjRKRkMzWUE3QnJndEZPTFdoUFdILUpSOGY4WnhkRHlCUXBNTdIBzgFBVV95cUxNem5ESXhGSXlTMjBQQVJ4a19HUEsxeTQwaDZCVmUyRVhYWFJUdWw5RWpaWXBvQVJ2Y0ZxcHpQbGJjdjZPaXRlVFQ3NXFrZ25Ba1pQYWVBMUJQaWVDRGFwMG90aXk2N1gtWTNqcDJFSEtFLUNYcFhKVTE4TEhIcFMzZzZFb1pQZzY1RGd3TTlwaGdQbFo2VGtiM2hOdTFHYWNhODlmenBuSVlWRlYwY2VfOXA0V3dWWWY0em1mSVZ0VzVKZk9fNzlzT1VLeEh3Zw?oc=5",
+          "title": "Keith Urban abruptly hangs up on radio interview when quizzed about wife Nicole Kidman",
+          "publisher": "hellomagazine.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN1htNGtBMnc3OUM1cVhla19LM3EwakNCVDBMUHNkZ0xWeFRyTWVHd29nNUlXNDhuTk5IbDAwd29OM0hqeFpMZUtQUmU5WGEzaUVwdDFDb0k2QU1vMjNzdlhXRGsxRTFYVnpBeEI4UXA0SmxHbmRvTEtoejVSTW1VcU5GWGVZMnNmVXpFRmRuN1cxZTVCRFZKaFFyN0lORE81Q1p0UzVNbktNMHhwdjJ5MTRFdUU?oc=5",
+          "title": "Keith Urban Abruptly Ends Interview Over Question About Nicole Kidman's Sex Scenes With Zac Efron",
+          "publisher": "Cosmopolitan"
+        }
+      ]
+    },
+    {
+      "title": "Royal train to be cut in Palace cost-saving measure - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPNGNFamtmR2tmSU92c01NTU1QcWtSWG5MdzhTSXFMWnRKQlQwVDRRYVFVSXh2YXRiMF8wajJVTXpqS25ZMTRkR21YXzBFTzFNOUUxT2IxcUJ2d9IBX0FVX3lxTE5EOF96ZUZzLWNkdk5Jajg4LThtWUJCZWt2dlMtc0lqVXZNUFhDankyNlJld0xpeUh5Wmh5OW9FSm9XRENMRUJ6ZDhPTVF6U0dibmhMYTkyTTlyRFlTZjc4?oc=5",
+      "published": "Mon, 30 Jun 2025 21:01:57 GMT",
       "published_parsed": [
         2025,
         6,
         30,
         21,
-        41,
-        10,
+        1,
+        57,
         0,
         181,
         0
       ],
-      "source": "NBC News",
+      "source": "BBC",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcWEwUzlQdFNicktQd01kVVpwSFQtR01vLXY3WnBKbjV2MzlOV0dRRWJCMVhyNUhCSktHT3dmMFdQM2tNWm41SDRadURzdmpjLTRlTTZFOERUeVl5YXBZRUxGQUxKUWZXRnNqN0g1REtudjIxUEtvQlozVnJwYl9mUDQ5VGVuOXBYeVFMV1NCRTdiWkI3VEt1bERmTS1udEwyN3M2c2tmWHVmdHgtanhjU0Vwa2JrUnhKVVHSAVZBVV95cUxNQlpDS0xhQjNUdzR5YmhkWnFfM21JYlFFTU9HUkR4eDdLODhrTU5FXzZZUEdCU0dqRWk0cEtXNy1OTDhQNW92T1hIOHE1WWZrREVfNTZ5UQ?oc=5",
-          "title": "State Department bans visas for English punk duo Bob Vylan after Glastonbury performance",
-          "publisher": "NBC News"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPNGNFamtmR2tmSU92c01NTU1QcWtSWG5MdzhTSXFMWnRKQlQwVDRRYVFVSXh2YXRiMF8wajJVTXpqS25ZMTRkR21YXzBFTzFNOUUxT2IxcUJ2d9IBX0FVX3lxTE5EOF96ZUZzLWNkdk5Jajg4LThtWUJCZWt2dlMtc0lqVXZNUFhDankyNlJld0xpeUh5Wmh5OW9FSm9XRENMRUJ6ZDhPTVF6U0dibmhMYTkyTTlyRFlTZjc4?oc=5",
+          "title": "Royal train to be cut in Palace cost-saving measure",
+          "publisher": "BBC"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZzloSjBsWjFvQng3dFQ0VFFyUU1naWtOSkJyQkVnUmNKYnBZZHA5SEkwaGR5Wnc0VDAxeTlTbUwyOEhuZTlMNmxKQ3hQMzJQMFduY3A1OTlBcWkxdGhWbXV2S051VjBYLWEwU3RTczFxYjZmSHk4Zk5FbFlzSXRsSUFTOXdiNUlFSm5lMjMyaWxKLWE0TWI1dGxWYXJyR2_SAaQBQVVfeXFMT00wVmFDTGtNSU1yMU1FNzVEQ2RDZ3lYM0tGc1F6Q2JzNWYzNmZQZjJsMF9pYnFvbXNXNzlCc3NhZjlwc01JcUJ2QUhfaExOSmR0Q3A0bE1rZG9VdGx0Unl3RmtPOWVHWF9GNGhxUmd5YVRJNy1tS2M3aFZmNHZ5Q1FWaTFxVjNEYWZ5UDYzcDBWTkJPVnRndzkxWURKNmhQRWpDSEE?oc=5",
-          "title": "U.S. revokes Bob Vylan's visas as BBC apologizes for live streaming Glastonbury set with anti-Israel chant",
-          "publisher": "CBS News"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUNrTy11MGZJdm84ZDZGTGxHaTlzRjBSb3RQLXBXWDl4XzdRa2ZMMHBHd1duZUxjcGJyMG9scEVqVS1DNWd6bV9VZEtHX0dQMUpGYlowN0dyTFI2WlNkVWllWHdmUXR5TmZmQ3BpbXJwMlV2MW12SzYwdHE2SkRQZmlqQ3FxeTFKM0YyMEhTZnh2b3FtNzZSRF8zeWVzVjh6MzdzYlFVT0padUpPLWRsbzFR?oc=5",
+          "title": "Britain’s Royals Give Up Their Luxury Train in the Name of Fiscal Restraint",
+          "publisher": "WSJ"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSGJSNTcwSnpTU2x0UkZsUF9sS2xrQzhfX2l0cXFYb0tDT0l5bUtxb1VsejBYX2JpZTB0aU5vUmpISlgtS0h3bVFPMzdkbUxTNTdtU0dUbTRVdVl6WTJkLXZWY25oRHRucU95MzJ4TnJuTjFzeklCRzlPaHNvcTBTZGtpZkZmNFJZaUHSAY8BQVVfeXFMUEUyUkN4RXhQTjhEYXBOdTc1Tl9zVGduWE1MYmxWSHJZTjkyNFM0R2FKclU0dmVVMUxDTkhWaldXd0FYdjRHd0w1b3dta3FJVWk1MWFxS0Q3X0RIczA2a205NGN1VGdTVG81cVJ2SHF0eFpfRmF1WDVhc3p2WnpMeWtuZkRqNlFzZE5ONGhHb0k?oc=5",
-          "title": "Bob Vylan’s Israeli military chant prompts US visa cancellation and UK criminal probe",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTRBZmRibklNSUNKcmV5UmlTazJyTGtkY2E2UW5OWWVvSTZWYVV1SkRxTnBoX1kyWFNpUE1fa2ZiX2kyVU9EVm1mS1YwR1FLdGlpbElPSEVjcTVXYkpmMFNoNmh1WHNVQWhSX1VLcE12OEk1XzlJWFJLdzV1Zk8xRUJ6VmxfTDDSAYwBQVVfeXFMT2RhcXBiejJ2NHBLdnY5NF8wUlZqSHMtdng1alhDcmwxNmlocnV5YzhvbFdhTGVUOTNxZS1HOTJGTnpSaXFONV9od0s0cUtxTUVJNVE4bFlOc1pEN0dQaUFsVm1lVk5QakhBaC1rd0FrWHAwa2xRMlllT3pvT0I1VEMwamotZVgzUUE5akE?oc=5",
+          "title": "British monarchy will receive around $118 million in government funding, annual report shows",
           "publisher": "CNN"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHpUX2V2czc1SW1NTGVDemF5dGE3Yk5VSHQxaGdmU2Nud05HVzM4NVVlQ3N1MHhFdGxHLVFPblpfTUZ3Zy1rbE9QLXptS2lRZmtoei1QdnRRVGFYNFU1dWRvSF9sZnUxRkREdFBxU2tJMDVTN0V3X1ZPSWhjUERMOVBfQjA1ZmMtNnBrY3Zn?oc=5",
-          "title": "After Glastonbury, Bob Vylan faces U.K. criminal investigation and U.S. visa revocation",
-          "publisher": "NPR"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSE9hVW5CWE5PaDc4WTVnanp5Szl2aV9uQ3Q5TE90NHRhMWVxZ1llbUlsZk04N1Q3YThLVG02ME8yR0FtTmF4QWphdHpUZ0NsVFJTQVowbG11THdoNWc1elYxR2xGbDl6b0dYbHhSdURYWVV0T3E1NUJPSkJVOW9CMm9mV0MteWVOdVlPOW5BVmxrVVZPUkJNY2Q1YkdLYVZvN2dVX1dlMWpiSUJyZGFZY0x1eTNMaFlE?oc=5",
+          "title": "Royal train to be retired as King Charles seeks to modernise monarchy",
+          "publisher": "The Guardian"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRTdzTVNuZEhsa3BfWWw5UURiWTA0djNwQ1l6b29KeEcydEptbWhPSEJGY0FqZ1RDYXNYVGRLdkJpQVN3N19EMURaOGttQkEtQ0FrM08wd2pza016YWg2RUViOHB1MFhhRW41TkVlbUV5WmljU3UtUE04NUYyVEloem1GS00tYXNzU3hLV0xWS05CZE5zVFF6d3JuemRmQUpnVHRr0gFzQVVfeXFMTUtRTmlqT2xGN3l2TlYyaGp1RjhQQ1E3WVlvRTNUcUYzZXRtQmU3MDNueUFiTjliR2NTSWI2WUhEVmlkbkh3WU1uMmF5VGFyNFFMenFFM2dIR2N3M0kycV9kbnY3ZlJPdFhJeW1lemhsbllrZw?oc=5",
-          "title": "Trump admin revokes visas for punk duo that chanted 'death to IDF' at Glastonbury Festival",
-          "publisher": "MSNBC News"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdGJIMjBjVVRuY1BtUlBqbDFra1AteS00RC1zbnJuck50MXc4SEx1WktmY2pTc1F5RkVnZVo3YWk1MUdMTHZNNVZaaUphalE1U1UyRXBOUDZnMGdGVjVaM1g2TXFIRERLelZVYXdkamhnQUFzRklkTVF2VEJxYWtPa01iNno5NEMxWUZ5UjZLeGlmVjhncTF0a0Q0MzBnSktMRTRRaXVFRG9fLU0?oc=5",
+          "title": "How train beloved by late Queen fell out of fashion with younger royals",
+          "publisher": "The Telegraph"
+        }
+      ]
+    },
+    {
+      "title": "Black Sabbath get Freedom of Birmingham before last ever concert - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByV2tNY3FUNFJQMy1RZXUyX1hMN25ILVZpNC1fOWp5bkxKQk1NZkJpSlo3UzVaQ3JwenBKMnAyWWxuWjNTMW9tTWwtRDVhcE1nMjJXMEhkdFE4QdIBX0FVX3lxTE80YUFNbW9ZZDVKVjlJWWxDN0x0Rm5RbmxaX0VGUk50UzJHbUdZU0k0al9JUEtOS3cwRlJwZ3dOM25zNnBKelJNcGJzbFA3Q0pZMDJKWl8tTzdTQml2M0hj?oc=5",
+      "published": "Mon, 30 Jun 2025 05:08:23 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        30,
+        5,
+        8,
+        23,
+        0,
+        181,
+        0
+      ],
+      "source": "BBC",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByV2tNY3FUNFJQMy1RZXUyX1hMN25ILVZpNC1fOWp5bkxKQk1NZkJpSlo3UzVaQ3JwenBKMnAyWWxuWjNTMW9tTWwtRDVhcE1nMjJXMEhkdFE4QdIBX0FVX3lxTE80YUFNbW9ZZDVKVjlJWWxDN0x0Rm5RbmxaX0VGUk50UzJHbUdZU0k0al9JUEtOS3cwRlJwZ3dOM25zNnBKelJNcGJzbFA3Q0pZMDJKWl8tTzdTQml2M0hj?oc=5",
+          "title": "Black Sabbath get Freedom of Birmingham before last ever concert",
+          "publisher": "BBC"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaGhaSlNqUkpUVzlHYmZ2NHExenJYcUtYbmw2NFljNHhTNWNicGtMQ2p0bzJMR25IVExwQ1AzdklNYlpJUGtGUXdjSU5wOXJzWExqbjh3NWJFT09WZDNoR2RuQnlRRHJLdVNKOEpXRmVNRzFKRU5WV3o1blZON2ZFWFl0bE14bG1LR2RMVFYzaGxNVEFPbzlXOHBoOVNiVEo3OXFQOQ?oc=5",
+          "title": "BLACK SABBATH's Farewell Concert Set To Bring Boost To Birmingham Economy",
+          "publisher": "BLABBERMOUTH.NET"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZl92QTBaMUE4T2dHNktJMGNKdWlwLXdlOFdKcFBMbVJSVUtOMzhsblJ2QzN6ZjR5eUozcFMxSHNEel9CWXQxM083MEtJbHp3MVE3VV8xWkVpQ1dWTDB5Y04wVWhFd0FtS3hMZzhuMm1BN2t4WnZGTXFsOGdKN2I3a3F1eERMNXBENGM2Q0VzWUNndW5RVWdXVk9WeFFIcTM0X1E4dWJHWWVPQQ?oc=5",
+          "title": "OZZY OSBOURNE And Original Members of BLACK SABBATH Visit Birmingham Mural",
+          "publisher": "Metal Injection"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83ZFZZaHAwN0U2ZU4yTlhxeVpoME14YnB5ZUtva3piMmlaRnpEazliTTJZejlFTWNKUGZNSm5KSjFfV0lEUUw2LTh2ZWNKemstVU0yQ0ZLRWJYQ3V2?oc=5",
+          "title": "Surprise gift for artist as Ozzy and Black Sabbath visit Birmingham mural",
+          "publisher": "BBC"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZHZjMkx1WEtkNUpqakZ1aklxNUR1bkoxRV92b0JtQmVyald3bUljWGdhM0ZQZjc0VTN2Q3p2Y2F0cXVOb18weEx5TjBOcG1sWW8zMmhQMTJjaUxxeWJoXzlIM3hObl9aejNMalpRX3dGaVpyVWdVQWpVMDVZYnRNbWdkU0xjdkUyNkM2MGpvb2Y5TVgwbk5XUzRZSk56TzFEa0lELdIBrAFBVV95cUxPNzlRTG1VbzFvRTdNNjFTajRGUVVHNkJZOERnZDBTUlZlc2RRRkcxZkR4OXRzbkYxdS0wLWZvc1p2b2Y3cTJhU2kxV1ZyR0JZT1JZSDZjX1dGTTNITXpmOXczTjZ4UlhlcGotWVBSalU3cnJpODA5RFFrc05JWk1wVWNqZmpOOGd2M3FxemVUcjQyTm1tNTB3Z2VjNGx3ckE1dmFaSFFxUTY2Zkdl?oc=5",
+          "title": "Black Sabbath Receive High Honor Ahead Of Final Performance",
+          "publisher": "iHeart"
         }
       ]
     },
@@ -161,283 +710,68 @@
           "publisher": "Entertainment Weekly"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjA3VTE3VDV6a1Z3eE1ldTFZRnRKT182SXJSNkZ5SFBNU0NqeGlXTU5LTHVHNGFvaUdwejk4cXh1bXY1alNpRjhLWTdFaEtEQjJORDBnWTYzU2RYWXRIVnRwSUtQbDh6ejZRV2NvY0lrUXhHcHpLSmFQRUpxYTlTRHVSbXhJMk9mNC11RjJOQXJtWmxjMmFKUg?oc=5",
-          "title": "‘Devil Wears Prada 2’ Starts Filming With Meryl Streep, Anne Hathaway, Emily Blunt and Stanley Tucci Returning; Kenneth Branagh Joins Cast",
-          "publisher": "Variety"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYXhCWm5weGpkQS1IRldfeXdyVTJvWTRBUFBUZTU5cHRVN1RoOXBiY0xJaWNmdFJabmd1MFFNbUQ5aEttdXU5ZERyU09KWkFTLWt5d3FQNUJwbFBBNDJwcXJ1MHJjNDBfRkhhTHZSX1NMYUxPRm5kUG5DOGI1bHhUVUJuX0E1ZENOZXRtRl94RTVZUE5BYjc5SkhUdmRZWVV3U0I1cDBDOXhZWXNtNUtz?oc=5",
+          "title": "‘Devil Wears Prada 2’ Starts Filming With Anne Hathaway, Meryl Streep, Emily Blunt and Stanley Tucci",
+          "publisher": "The Hollywood Reporter"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQeXdQamNNcTZXMGpWRER6VlBZd2ttVkg3czA1RnRfU2J6U1N2bkIyOGNWSHJKbW5rTDNuZDYzREFyS0Q2ZFVfMTBYWVcyZmtKdDlFeTRkQkZEaXd2Ty03ZVBqUDhGc1BIQ1NwRUVXcFJGZE1xbEhoOElCUXNuOG9qeFBhYkktTDJ3WkRTV1R1Y1p2czQ5cmVYMVhwSnU0b1FHeUh1YWJiaU9TeUJKZHBCb1ZwbWk1Uk03aXdoei1jc3gxZWxmZ291bk00YVFwUGNlNkVpM05QNW15ZXl6VFJoVGhPZzdNLXJHd2w2ZENTb2xzTlZncWhiNTBrdDdCNEtTdlNGNVdhWHFpbE9xOHBSWWFLOUpXZWMtYmZxY1Fzdko?oc=5",
+          "title": "'The Devil Wears Prada 2' is officially in production: Anne Hathaway, Meryl Streep, Emily Blunt and Stanley Tucci to reportedly return",
+          "publisher": "Yahoo"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNU5NaDZuTU1HeUt1dXRtQzg5TjdpYm9oMkVJN0ZOLVpkU2Q1OGZjcVE4Q1BpWW5VcFhUMGpOYmdKbF9NMnBVbEZHcXJzX0lQUTNkb2ZDZHlnd2doWGZubXRvNHBFQjZ4eDFUekRaNjgwQ2d6XzdockN2YUxzay14eHI2b9IBiAFBVV95cUxPTGMtdzNQMk9kb3dJUWRjb0JDcWRXUWZaUkMtSTB1N0M2aWNfVWFoTTlCRUdOMDlBanBDLTRCYUZPMVByb3dDby1JclJSZkJvNDUzSkpzZ1RrbGt3cGhnVl9iR1Z3S1hUbDdISjYzcDZSRGx4TE1GRlBGSWViQmNKQXNiNjgwdjZ5?oc=5",
+          "title": "‘Devil Wears Prada 2’ starts filming just as Anna Wintour is leaving Vogue",
+          "publisher": "CNN"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwSjJ3bGk3RDBRQkhrQ2VmUkN4ZzJ2aTl5WkhkaGo5T010dFdzRmhkTElZZVNKWDZ5WFFvMzZzSWdqbUIwYWtNVktaZW03NGNTcUwwVTRzYmI5QkVWSWNmcVdVS3R4Rk9FUU40bmpROWt4UmE4cmVLemp6a1A?oc=5",
           "title": "The Devil Wears Prada 2: Kenneth Branagh joins cast as sequel begins filming",
           "publisher": "The Guardian"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNnVqZndUNl9acG5ZWE01V0doc25nbE9UdVN4RjhnZjVEY215NTFXNFFsMEJOOWlmRUNDbFZXWVF2emNDTTlEQ0JZSUxsanlLWVVHSDFMOEFYQWJHWE5XaFNjUm5ORHNEalZ1c3c4Qk9qT2YyQzhVbGw1WTY5TUxULWV1Qi1IV2tMYnRz?oc=5",
-          "title": "Adrian Grenier Won’t Be Back as His Controversial Boyfriend Character in The Devil Wears Prada Sequel: Report",
-          "publisher": "People.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYXhCWm5weGpkQS1IRldfeXdyVTJvWTRBUFBUZTU5cHRVN1RoOXBiY0xJaWNmdFJabmd1MFFNbUQ5aEttdXU5ZERyU09KWkFTLWt5d3FQNUJwbFBBNDJwcXJ1MHJjNDBfRkhhTHZSX1NMYUxPRm5kUG5DOGI1bHhUVUJuX0E1ZENOZXRtRl94RTVZUE5BYjc5SkhUdmRZWVV3U0I1cDBDOXhZWXNtNUtz?oc=5",
-          "title": "‘Devil Wears Prada 2’ Starts Filming With Anne Hathaway, Meryl Streep, Emily Blunt and Stanley Tucci",
-          "publisher": "The Hollywood Reporter"
         }
       ]
     },
     {
-      "title": "Jury deliberates in Sean \"Diddy\" Combs sex-trafficking trial - live updates - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ldGVvNjByWWoxMjNHODE4Q1VxcXVkRXFtMXlOZS1HVUxNYTg4N3AweDJMNWZReDJTSGhQbzNUdF85R3plejltUlNtX25OeFpDVGRnNQ?oc=5",
-      "published": "Mon, 30 Jun 2025 21:52:02 GMT",
+      "title": "'Hamilton' producer Jeffrey Seller traces his journey from 'Theater Kid' to Broadway - NPR",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWUNGaWZsT1NLcGcwZTZ3THQtNFdpaHFmTDhKTHUwdVUtb2VlcnR4QW44UjN3bkhhWVJNMnkzTElPX1NPZmJkRTJpRTdqejZaTkoxanZmanJnUVVyX2hDQlc4MzQ2SElPY000S3JBNTBJTzdhUVUwZGtGemJGZ25tdmJ5QTZWZ0x2WGV6bV9KZ2NURGZxZ05PNjRR?oc=5",
+      "published": "Mon, 30 Jun 2025 17:56:05 GMT",
       "published_parsed": [
         2025,
         6,
         30,
-        21,
-        52,
-        2,
+        17,
+        56,
+        5,
         0,
         181,
         0
       ],
-      "source": "BBC",
+      "source": "NPR",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ldGVvNjByWWoxMjNHODE4Q1VxcXVkRXFtMXlOZS1HVUxNYTg4N3AweDJMNWZReDJTSGhQbzNUdF85R3plejltUlNtX25OeFpDVGRnNQ?oc=5",
-          "title": "Jury deliberates in Sean \"Diddy\" Combs sex-trafficking trial - live updates",
-          "publisher": "BBC"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWUNGaWZsT1NLcGcwZTZ3THQtNFdpaHFmTDhKTHUwdVUtb2VlcnR4QW44UjN3bkhhWVJNMnkzTElPX1NPZmJkRTJpRTdqejZaTkoxanZmanJnUVVyX2hDQlc4MzQ2SElPY000S3JBNTBJTzdhUVUwZGtGemJGZ25tdmJ5QTZWZ0x2WGV6bV9KZ2NURGZxZ05PNjRR?oc=5",
+          "title": "'Hamilton' producer Jeffrey Seller traces his journey from 'Theater Kid' to Broadway",
+          "publisher": "NPR"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SbHhxcWtMaExPOWZlWUlkWEVYSXlPMk9iY3E2OVNlOFpfZzdDRXhVclhMRmY2dWZ4RVNtcXlLWVJvNXlkVWdkM0lBQ25SV1Z5RDJ1TnQ5ZGlURENUWkFTVlRwWlIxcjZEeWlvSXVhV2tBUnFiODZjN2M5d3IxZXM?oc=5",
-          "title": "Diddy's Trial Takes Dramatic Turn Two Hours Into Deliberations As Jury Sends Note To Judge About Disobedient Juror",
-          "publisher": "Yahoo"
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3pJSjAzbUx1R19IWWVabXJ0bXkyMU5aRFgtU3JLa2RBSzBZWHBVbVNEcDFVX2ZPSkhEcHo0aUFPVnVQYnVHeUdnc3Q0M2N4c2VFRFNndGlWSS1iMHJScWY0UjYySDRXX1FXeFdjRVV1ekxSclQ4cDlCYVQ1ZWF2Y3FFM0JTaUFRcUFVMkVDX0xkR3hldDlDU3NrcHVXRE9UOVJEcXJvbGYxclFiUEZlYXd5TEh1VGk5M3lkMlBuVWJPWXZ4Wm1Ha0ZOWWZ4M1lRd201YURqeDV0YTdMT3pzWjZreTVuUkc0N3c?oc=5",
+          "title": "‘Theater Kid’: Showcasing one of the greatest producers of all time",
+          "publisher": "Los Angeles Downtown News"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbVkya0FNc0NmMkl1TWRpaHl1dnFvblVwTDRoUlhyVXBodG91eE9jR1pzRXk5QlpDTXVaOEhsWklOR0JRVHM1ckpidk5tWlBNeExQckRjc01mUjhscUFNVS1Xamx0ZW83MTJSeDlYRmhscGVCTUkzVmFVS3dFSUphYTBPb1J5QlktSjNQZUd6Vi1BRTY5TV9GUm1Venp6cFNEUjRnOEJCNGE5Uko5d1lYV0dEd3hOU2lsYm5BeG1OX2VXUnFicTZTLURWRGV5QnpieVVLQnd1bjBnclU?oc=5",
-          "title": "Judge in \"Diddy\" trial informed of concerns about juror's ability to follow court's instructions",
-          "publisher": "MSN"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJYkotbFNDanZKUHZXWnlPd1d1VzAtZFZoc29nWk0ycU9wYjE5MVRrT1FsZDFxdzV5TnY0Q0Q3TnE3Y1owVExLbkl6XzE0dlg3d3RGcjNMblduMWdBblpOMU00ZHlmRmFWdG5j?oc=5",
+          "title": "Jeffrey Seller’s Theater Kid Explores How Art, Identity, and Grit Built a Broadway Icon",
+          "publisher": "BookTrib"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS3hjREYtYXJMeERSWHRNcEh6ekJTRW9PN25IMjhoWG1EVWV0TDhXcV9xSkMyTW84ZlhpYVN3OXF4R0lJVnVLeUc3cEdqdHJYYmhsWTkwU1VsVEw2OVU0cEs2WEtZNFo0QWVkMUtMUURCV2c2R09SZGliTGl6S203eg?oc=5",
-          "title": "June 30, 2025 - Jury begins deliberations in the Sean ‘Diddy’ Combs trial",
-          "publisher": "CNN"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObWxxbVNUU0RnZEtKcEpKV3dLeTFRSTVCZXRTY012UEFkb1EwYWNFMmdaT2Q1NFkyU2ZQWk9BZmx3SHlRbzV0R2VVQTBzOVJnQnlueXZPU2xQNW1Pd05NN1NEUHVQdGhrUHBfN21qSnZCcHd0X3ZrdXZFbmUwSkVKTko0a1M?oc=5",
+          "title": "Producer Seller’s Upbringing Fueled his Success",
+          "publisher": "Culver City News"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGY2TFFwc0ZYU2d2M3ZLbTlQZWx0THlzMDZ1YTE0dnF3OEd2SnVlcFBwYWVpd1Fnb1N4cXZLVy11Y3lTYWFoaHdwOXFwYW5TZU1lYlpmdGl5eFdJTDBWY2VEQk94TF90RkFrMXBOSVBwQkpNRXdBQlpKVUQta1NVR2l1M0o0SFcwS3RpUzZibGdNM3dzNjZB?oc=5",
-          "title": "Sean ‘Diddy’ Combs Jury Ends First Day of Deliberations Without a Verdict",
-          "publisher": "The New York Times"
-        }
-      ]
-    },
-    {
-      "title": "Inside ‘Elio’s’ “Catastrophic” Path: America Ferrera’s Exit, Director Change and Erasure of Queer Themes - The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSjNKbzhkQUZHN1p5eVF1NlQ5ZlVINUJJd1ZLdFJoZmpWTEJrNEVlUHFQTHpNSTg1UlVYLVNzRGVTZWhDZV9BZEptNEdocW03TjBCNnBxMHJlMXFrSHk4UTFmMUNmSEVVYktBZnp5OEJsNzk0bGhPU0NWdE5BN3pzWEtJQ3FhSVFFOTZUNVk0U3dpaC1pQWNiVkpHc3YyZTZrNnJWajZXWEZHa1E?oc=5",
-      "published": "Mon, 30 Jun 2025 23:31:19 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        30,
-        23,
-        31,
-        19,
-        0,
-        181,
-        0
-      ],
-      "source": "The Hollywood Reporter",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSjNKbzhkQUZHN1p5eVF1NlQ5ZlVINUJJd1ZLdFJoZmpWTEJrNEVlUHFQTHpNSTg1UlVYLVNzRGVTZWhDZV9BZEptNEdocW03TjBCNnBxMHJlMXFrSHk4UTFmMUNmSEVVYktBZnp5OEJsNzk0bGhPU0NWdE5BN3pzWEtJQ3FhSVFFOTZUNVk0U3dpaC1pQWNiVkpHc3YyZTZrNnJWajZXWEZHa1E?oc=5",
-          "title": "Inside ‘Elio’s’ “Catastrophic” Path: America Ferrera’s Exit, Director Change and Erasure of Queer Themes",
-          "publisher": "The Hollywood Reporter"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LNVNHMndzQzJEdjY1NExwVFZVbVp4YjZ5ZXJfUmxKVVdKMWdELUVka3FRLWctal9LRFBieUVMT2VJTXJieUhiSFZ3bTN5RzFBZk1kSjFtaHNlZE9mVU9FQlYyWFZGRjRvT1lVQ0ZKcy1NNTA?oc=5",
-          "title": "Read this: Pixar's self-censorship of Elio's queer themes may have doomed it",
-          "publisher": "AV Club"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY1dTQjhmOTFfN0RwWUk3bjdGSnF3bHQtaUZjTThQX01kODgyblFxYTg4NVo1b3ZqOWdvWjF4bGxLVDY2QlB4bHVxMlB0NE5qdHFhZ2J5dE9mWXhGS3NZcG9OMjNFRXdRZHZmenNoSHE3R09qQm5vemhmV0gwbVRmaTkwZlVjUVJCS2NZelBqa080dTRheUpVeENKVmZISlNlaUViSmw1b0llX0E5Qng3WjZTREg?oc=5",
-          "title": "THR: Pixar’s ‘Elio’ Was Rewritten, Reshot, and Went Overbudget to Erase Queer Character",
-          "publisher": "World of Reel"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQamo2UjU3aDVmRER5MlhvR0hiZEFxUGc3ZzRXWlJjNkRGM2M1Z1BkQS1KOWNYeFJKeGZBdG9BOUdlZUZmVHdaeVdYMUpVQTZMSVpZNG9VSDJZeVFkaHM3S2pLaGQ0Nlk?oc=5",
-          "title": "Pixar’s Elio was ‘sanded down’ to erase titular character’s queerness from original cut",
-          "publisher": "PinkNews"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdFQyTnlseGtvUFlYTXJHMDZaU001UUE1RjFTaDdNcUZtczdoWUlXbzJJTVZIX3pQYjlDbE12b0lqVFlEVmNGWnpXMzRYemVKcG96bEFxNFNOMWVGU1M5Nm1CTEtDMVBrTzFtZjI4bWlrV2EtRVFyS210S2REczNzdmdNSzN3RE9DenpOYUJCZ2NsSlpUR2hObWpOWQ?oc=5",
-          "title": "New Details Emerge About Changes That Delayed Pixar’s ‘Elio’ – Daily Disney News",
-          "publisher": "thedisinsider.com"
-        }
-      ]
-    },
-    {
-      "title": "Netflix’s Most Popular Show of All Time Has Finally Come to an End. Did It Stick the Landing? - Slate Magazine",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjBKWGttN3VOV2VpOHFyTzh5TFNkNU9la2E5bUxEdlhFWmJXWUh0ODZ5RGdYTjZaZ2FtR3ZpLXI3ZkM1RmRGQ3I4dTE2eVVzSENsMnRsVnczX2ZmZzRrSEhyV1A1UFJaWmNSS3JFVVhXRTM1UHJXOUVwcmdsVEI1M2JibFFRQW9qNFVFLUZMUEU3VlYxR3lQYTA3X1VueFBkajZVMnl3?oc=5",
-      "published": "Mon, 30 Jun 2025 21:35:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        30,
-        21,
-        35,
-        0,
-        0,
-        181,
-        0
-      ],
-      "source": "Slate Magazine",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjBKWGttN3VOV2VpOHFyTzh5TFNkNU9la2E5bUxEdlhFWmJXWUh0ODZ5RGdYTjZaZ2FtR3ZpLXI3ZkM1RmRGQ3I4dTE2eVVzSENsMnRsVnczX2ZmZzRrSEhyV1A1UFJaWmNSS3JFVVhXRTM1UHJXOUVwcmdsVEI1M2JibFFRQW9qNFVFLUZMUEU3VlYxR3lQYTA3X1VueFBkajZVMnl3?oc=5",
-          "title": "Netflix’s Most Popular Show of All Time Has Finally Come to an End. Did It Stick the Landing?",
-          "publisher": "Slate Magazine"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ200dkNfTldadi15U0NwcWNaVWNQQzRHaHNtd19KeVZkLVkycGdCMl9CSENBbXJoT2s3a3B3QzBBVnJoQXY5Vnd6eC1JVWtSelBpczN0X1BIN1RUaWNWMXdBOUNUVk9Rekdyd2Nlalc3eVhxVzN3UFc1eXI0ZW5ZUUNzNENCV1BOamdXZ0NVc0k0VnVBeURzWG83NURzQ1YwUE54XzRRXy1UYnkweG85eWdTMEpGVkpQNVE?oc=5",
-          "title": "‘Squid Game’ Creator Weighs in on American Spinoff Reports and Explains That Surprise Cameo",
-          "publisher": "The Hollywood Reporter"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yQnZuV0ozbmxuWWdSRlZlb2dsOWFuT0FUdUcweWJNNEphZlNQLXQtRFd2VHVGb2w5eHpVdnEwOC1aci1LaElkUGdzRUd4MEZNWFpBbEVhRDlQTnRXTlRTM1M4ZHJBTVR5a3BPa3JzRGxwYXB2TTQ0?oc=5",
-          "title": "Will Squid Game Return for Season 4? It’s Game Over",
-          "publisher": "Netflix"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY1FXcUJ5SGpwS19vOWFNbmQ4ZGtwX2V1TXlZVl9GRjYyTE1YTi1WNWhsLUN3N0tLWktEZ3pfaTFZU0pVWnZlbnF2WkFtSlBiX1hUMUVhVG0wdGFFa0hJM01fZm8wbFJhYWctZU9YV2VPeW1JVzVZb2FxaGYzRGdMVUl0MGRhM3I2R0pPeXFGVFpJQQ?oc=5",
-          "title": "For South Koreans,‘Squid Game’ Was More Than Just Entertainment",
-          "publisher": "The New York Times"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWWp4MFhwQVhnbzdxR1pHZ0hfZHRFTHlaUGpwQjRLOHdwWXdoVG1rd25SWER4RmNqclNnRnM4bGVoQ2p1bi1jNFdGaS1mU280ZXJoN0NCR0FrTms5RVMtYmhncEpzb0kwVzIxN0EwMHJZOWNYbjZWdzY5TXhVUDhlcU9PZC13R0ZqS0Jsa0NMbUcwRjdQaTFVcmp5bXpyblIwTU9wZzE2MG15ZzZ1Z1RjcENDMEs?oc=5",
-          "title": "Could 'Squid Game' plan Season 4 or a spinoff? With 'caution,' creator says",
-          "publisher": "USA Today"
-        }
-      ]
-    },
-    {
-      "title": "The Judgment Day win world tag team titles - Cageside Seats",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU0Y4UHdaUjlzT3RHQ3h6bWpCMm9YRE1WQUtGQWJicnB6Wm5pVmYxcVFOWXJpRnhxa2FlWlNFWDhyQkFXaFBhREhKZkxTWHJrTm1IVU5MUzB5QTNNMHZobk82YlpNN3ItOUdmTmtLdl82TFZoUGFoaVFOM3VLVDhOajNrTEdzdXNpdnhjNGozdVZQRTNuSDdWZ1FDYkd1WjNmY18wQlpNNjlFZEgzcDZLQWowSHlEaU8wTW5fS25hOFhRUHNzYzFBQkRzZHRpSEU?oc=5",
-      "published": "Mon, 30 Jun 2025 22:39:52 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        30,
-        22,
-        39,
-        52,
-        0,
-        181,
-        0
-      ],
-      "source": "Cageside Seats",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU0Y4UHdaUjlzT3RHQ3h6bWpCMm9YRE1WQUtGQWJicnB6Wm5pVmYxcVFOWXJpRnhxa2FlWlNFWDhyQkFXaFBhREhKZkxTWHJrTm1IVU5MUzB5QTNNMHZobk82YlpNN3ItOUdmTmtLdl82TFZoUGFoaVFOM3VLVDhOajNrTEdzdXNpdnhjNGozdVZQRTNuSDdWZ1FDYkd1WjNmY18wQlpNNjlFZEgzcDZLQWowSHlEaU8wTW5fS25hOFhRUHNzYzFBQkRzZHRpSEU?oc=5",
-          "title": "The Judgment Day win world tag team titles",
-          "publisher": "Cageside Seats"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IVTRyVTdZcTVMbWxtNzdtUktxdHVyYTdwa3k2VE1yWGlVYVhxRy0waVJ4OC1jUEVHV1dhZWNWbkU2RnNBZFNLNEk4WHU1U21MdGc?oc=5",
-          "title": "Raw results, June 30, 2025: Jey Uso saves Sami Zayn and Penta from a Bron Breakker and Bronson Reed beatdown",
-          "publisher": "WWE"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XUWk0bFNIZFYwS0VoOWtPWXZUNjVVVVBrU2I0RkZiX3d2QmZLeGdUeEtnUVZndmlSOERzRmFEYlE5cGYyN2t4a0pPczVnLVZIa0dUVXpuSko5cm9QWHh6dXdtVXdTN0lIdExFWHFnRDlqdFlvR2dVaWFTMXQ?oc=5",
-          "title": "What Time Is ‘WWE Raw’ On Tonight? ‘WWE Raw’ on Netflix Start Time, Preview, Location",
-          "publisher": "Yahoo Sports"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZnE5TE93V3hacVdtaTltYWhQS1lHdnFaQUp6MFRJaFBnQzZPZkhoeXNud1NOMWVMcTNUck96clRwZFM5NWZiUEVPVE1aRUZBVTFoYlo4MlBTQlJQQ0tvV2ZGMlh5WmVTNHFNM05xOUFjMDZDbzVZMVBLMllUemh3bDdiWVFIclZ5MlYwemlkNWQtYWZBSld6dHpFWkZTOTZNcDZKR212c2MzS3k1Y05VNnBRekxsZjRFVDdDNURsUQ?oc=5",
-          "title": "WWE Raw Results, Winners, Live Grades, Reaction, Highlights After Night of Champions",
-          "publisher": "Bleacher Report"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGx5WEpIUmRLTmdqMkJjYWFPWFJicFRkcFJXME1TdzJWS3VUNm1heUlrQUNnWGZQUUhINkxkTlQtSEpqWWJIc0dsbC1UcjRITlVXSzE4M2ROMFZ2S0RTRzd3b3pNTm5Ya05xNllwdEx2TTJmU2daV2NlbVJfbEw5aHY5VUxvbGE5cHBzRi1Nb2pLRklxWlRXX2xjV2lGSVNTbFM5alI1ODlhY2dIMlRFYzR3SmRfaUNxU3BSWG9va3Y?oc=5",
-          "title": "Raw recap & reactions: Who’s the champion?",
-          "publisher": "Cageside Seats"
-        }
-      ]
-    },
-    {
-      "title": "Multiple matches confirmed for the 2025 WWE Evolution PLE - NoDQ.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTEFVSDhvMzI0Tk1IQ19uMXQwc09oOFdDSE9uTVhJc29OWDRXNGZ5aC0xSVJSREh6S0xJSHNFRXBoenJURFdsRElmZzFFS1NOOTR4OTZSSEZNNGR5OXVXZHljdmhfUElraVc2NjlpS0w0OEswZGItWHp4TzdvVjNyejJkNkRYZTA?oc=5",
-      "published": "Mon, 30 Jun 2025 23:21:04 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        30,
-        23,
-        21,
-        4,
-        0,
-        181,
-        0
-      ],
-      "source": "NoDQ.com",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTEFVSDhvMzI0Tk1IQ19uMXQwc09oOFdDSE9uTVhJc29OWDRXNGZ5aC0xSVJSREh6S0xJSHNFRXBoenJURFdsRElmZzFFS1NOOTR4OTZSSEZNNGR5OXVXZHljdmhfUElraVc2NjlpS0w0OEswZGItWHp4TzdvVjNyejJkNkRYZTA?oc=5",
-          "title": "Multiple matches confirmed for the 2025 WWE Evolution PLE",
-          "publisher": "NoDQ.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2xnaXFldmxmOTJGYkRidWgwbDlSRkRfbVlhYmFQM1pzS3VIUGMxbnJnYWFzMzF4T2hDbXV5RlJBdGZtelJIcUcwOVNET3ZYYVJhOTZFVGpzb3IzRnJmeVJINGtpMGtSOUY1QVpJZEdIazZPd0J5Z3owRVhjc2hVYUxvX0h0SEpYSll2MkR2REVxU0E3dVNDSGVSdk51RFZicFBpOGFFeFZBXzJ6T3ZiS3lnWi1makNo?oc=5",
-          "title": "Women's World Champ IYO SKY Challenges Rhea Ripley To Evolution Title Match On WWE Raw",
-          "publisher": "Wrestling Inc."
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTDdyblRxdlJEd0dUcEJsb3Zna3ZzZTFwWldUWEdnVHpWazJ5WkhnNzRrbHE5SzJqajRTYUhNc001WS1CbjVnTEtReGZjM29OVjBfcUFFOFdqczVvS0lzQ2QwX2VDX2gzdnI4RzNmSGZ2MjBiVUdrQUJ6am1nYWVsTVZtODFJckhsVXZ4Q0pyS0NCZW9laDVDOVFFVXdpbDBWV0lDaG5SUQ?oc=5",
-          "title": "Spoiler: Title match added to Evolution during SmackDown taping",
-          "publisher": "POST Wrestling"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUXlIUFFuSVVqWjlPU0ZhYXdIT2lCeXhqS3FXdTlMSjV6SXoxMk5PYndLNU94UEZ0OEcwTzJhNkRGRnVieUN4NzZ3X3RvSzZNbHh4alIwM3RRRGFtUG9kRVpockUtWC1jdlhzUGNMZkpHR05hZkt3Y3A2UGdtQkFNXzFCMUl3SDdxYmwwZlFlWTlrMjZENlg0WDRZdnpJOUxHMmI5alpXdjdlVWtNdzNWNXAyS0M3RUlMSGxURjZ30gHDAUFVX3lxTE5VeDVVVW1qWDJZbDV2ZnVlOWg2OTk4WmZKNkJzQkgyVGtBQkN2cFJKQ3NSNkxCM24xMDVBdnhBcWR1dkdtcDgzTGNYRXNnVFdnc21UaUNPYUl4SjMwaFZraUtHXzl1UFF5d2Z5LU4xajFPR0VVT2h2RmxJOVJMaXd2Qk5tNEoydGF0WTZMRWRkbkp2dE1nUHgyY0ExZmw0MDZWbU5XcnE1OEtDVms0S05uS2xfb19ORU5DaE9xb0Q4ekoyVQ?oc=5",
-          "title": "Rhea Ripley Doesn’t Deliver ‘Special Message,’ Co-Main Event For WWE Evolution 2025 Announced",
-          "publisher": "Wrestling Headlines"
-        }
-      ]
-    },
-    {
-      "title": "Glastonbury 2025’s Biggest Moments: Olivia Rodrigo, Lorde, Kneecap - Rolling Stone",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakswSk5uUzJvbzZXOUR2bXNlSU1pM1FMaDVHY3laZjdCVEpFaHA1YlJsTUw4djZvSGVEdDViUHo3X2g5S2tJd0dtSGJyZlA5ZmxBYjZ2U3BEM0hHR2lUNklwVVU5MWE0bGplYjNaWW5ucm5LZzh2UjU5bmZNUWxQSkZLclZjNnMya3VuQWFRaUhueVR0T2NvVU5uUjBjR2o2cDZMTWk4ZXNSVXU2dEFLaQ?oc=5",
-      "published": "Mon, 30 Jun 2025 18:37:51 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        30,
-        18,
-        37,
-        51,
-        0,
-        181,
-        0
-      ],
-      "source": "Rolling Stone",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakswSk5uUzJvbzZXOUR2bXNlSU1pM1FMaDVHY3laZjdCVEpFaHA1YlJsTUw4djZvSGVEdDViUHo3X2g5S2tJd0dtSGJyZlA5ZmxBYjZ2U3BEM0hHR2lUNklwVVU5MWE0bGplYjNaWW5ucm5LZzh2UjU5bmZNUWxQSkZLclZjNnMya3VuQWFRaUhueVR0T2NvVU5uUjBjR2o2cDZMTWk4ZXNSVXU2dEFLaQ?oc=5",
-          "title": "Glastonbury 2025’s Biggest Moments: Olivia Rodrigo, Lorde, Kneecap",
-          "publisher": "Rolling Stone"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNzdmMFNSNGtwOEx4QVBhMk1MbzVXTGljdWprZ3ZKY2JHMHRlcVEwcTZzUTdsekFGOXU3ZDdKSmpBR1JYWFFrYVFsREQxNWI1RUQ5UFRueGIwLW9MSDlTTFBwbkRTcXVrVVJxMWxrLVBpRlFrazJQSDhQZ2NJNGVhbG1UTU85Nl9WczVTbVZTMDN2Nl9kOFBvYUVta012R1NEcXc?oc=5",
-          "title": "Glastonbury 2025 ends after weekend of surprises",
-          "publisher": "RTE.ie"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwRmNpME1oVW9kUWZseXRvQnh1aTc2OF9vVm5fNUlNS25HZmJpaS1wdDZqdjVzam9IMG1aSFc2Z3BXRGhxVm5peTBzOHBmM0FjMDRNTVhaNlVJZw?oc=5",
-          "title": "Rod Stewart at Glastonbury: Old school charm from another era",
-          "publisher": "BBC"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbllBbVNnNnp5d1FpVGxySmViY1NFVGg5RzQyMVJCbFhoT3BUSW9VeVdHVkJrNmNwbDZYOEVacGFGR3o2LXMzTlZHZnlMdGRWNk1MbzQyQnpkNUY0UGNTdXFsTnFfN3RXYTFScWZFVVU3dS0xWll0R2tKT0haUWtwSjRYN1pBbnl5eDZNb09BNW5DSVRsdGxvc1FfQllLNXBYcnphSmpsY3N3U3RiLWlvOU53TQ?oc=5",
-          "title": "Glastonbury 2025 Recap: Politics, Girl Power and Indie Nostalgia Rule",
-          "publisher": "Variety"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX1lkd0xWN0pTbXJ1MGZzNFJKTnJ2OUx4TjVLdnJRZjhxZkh5ZnBLYjZJTS04LXgyaHFuR0J5c0p4aWF3aGtZNkdON2ZJSThQZHprYkVfcUV4ZHNPRGcxZm5rOEdMbjJwQWQ2TndWOTZZQU5yOXVSOG1pMXY2emNXX0FXTEF1c1BGZnRfc3lvcEpCWHd0eW4zeHZYWGVZUUtWQkRIRUFrRUpDb2d3?oc=5",
-          "title": "Olivia Rodrigo at Glastonbury: The Best Headliner of the Whole Weekend",
-          "publisher": "Rolling Stone"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HNUFBOWtMZXkza19zeEpYa2x2ZjI2a1h2ajg2UThvRFNnVTIzdUY5Z0xIQ2xwTVJTYlFScFI0b21KUXFvaEVvaWRSbGxyVEtmY3RmZEtHaU5mRWJrWGg2WlY4aGRnZXQ3NDNRSUhDT1Y5bjBFMXpr?oc=5",
+          "title": "A Theater Kid's Path To Broadway Producer : Fresh Air",
+          "publisher": "NPR"
         }
       ]
     },
@@ -469,14 +803,14 @@
           "publisher": "WWE"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTFYtQVV3VkpEMEVvSWpmX2M2OGIwMUo2N2V0cXBINmxtNVNZNU9Vcl9oZ1dVNmR1Sl8wcWtNMWJQemhUa2txd3RwTlhEeWFrTENWOG1JZFY0UkJ2cXE1OGhEQW9tQXEyVzNreFJYQXJDYjZxTHJCNFBja0RMX3JnY0x0akJWSHZzdVlMS0w3emh2eFJiOVg1SlRsYXh2SlV1SXR3TzhBcTNPc2pPbkdaVktoYW1BSmhyWURwc0lkaXhSek1iZURvQWFsR0JKZ9IB0wFBVV95cUxNMFlBUW1HbFNkeFRCQzlpLWJ5dEhVLTRkc25MSTVxYl9UbkNaT0JVOVFtYzhtaGFtcEhYOV95eEFqQURmTE1wdVNsM2xiUVJRWWxRMkZmazU0NGlnZVk1NmJpZ3VzdkUwa0lweHNLVnJFYWdKdzZ4bGtSRGhSaU4zelJHVGo0LXFza3ZkTE52RzFYbW5YVVZSNnl0NTZhVUNQTnRWY2N4RGlseTNscEtmdkJMSncwNkNjNmV4OW1ONnQyMlJUemRFcTVidzJYLUMzSWsw?oc=5",
-          "title": "CM Punk develops a new rivalry with WWE champion",
-          "publisher": "Times of India"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS1BJeUdjUjQtS3BEcWU3N0hmTUVjbndHcm8xTHYtTGM2MTNTUUFkOW5fMmFDWEEyRkFra2RoMkxka3IzelhUbG9PVC1TZGdqWmMtblVubVV2VlZJUTQwdGtPQUl0aUlsRU5EQ3lfUXhackJ4d095eHRES2p5SXpUaV83U3pPR3poME9JUnBGTk1pSmRsLTJaY05MWm10bzJnLUloSl92Y2p1QTBsYVI4SWFNQi0xWnFKR1hB?oc=5",
+          "title": "LA Knight Back in the Main Event Scene, Rhea Ripley Must Lose, More WWE Raw Fallout",
+          "publisher": "Bleacher Report"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRWxCSG9OZ1IwaVZ1dG1SVHhrbENWWm02UzhGeldDT281MEppNFg0dUU0eE9TbVh4MnMzWWFmTHBCNmdFNjNrVms1bHlxSjg2TUpOZEZaTDU2OFFxRC1oSGJlS2xmVi13VUNCdGc3MnJkZnJfa3JxVmt6MjVOQUp6OV80VFpMY0w4VWszYWRTMUdYUm5WM0l1N0V2ckoyd3NBdEYzb2RXMW9hcm5VZ3ZsRnUtV1h4S2J2SzFxZFFSNGFnRHU0a3RTYWVRRGNjLWRmZ2hUbFdpdElNOENMS2ZUY01MSFU1ZERmTG1nSFdqa3c3UdIB9wFBVV95cUxNVmVCTXoxNG9HMzNVa1VjZWRNcnptRl8zdkJ5MWNDUHJHQTY0TzBHZ0dVWDB4a0NmRXl2d3hCLW1Ud1diakRWMFlmdlFLel9Kelo1eE9OUXhhS1doUlZqSGhKUmdfN0tLQUtjQ1NONHFMMEZlNWQwdjNiYTQzYzdKNHowY1pXc0RrY2RnQTVNRWdUX25oaTd6OHNmU1E0cnBLSGZDUkJRbzcxSnVMd0p2UTF6aDVTVVFRNlYwSl9FOWRCMmdieFU3SzZKUHRPcU5rQURYQjhUQ1hSTHEwcmdzUjdLYkdUZkd6akZoZWs2aGlGemdROVZv?oc=5",
-          "title": "Two Big Matches Set For Saturday Night’s Main Event (7/12/25), 5 Matches Confirmed For WWE Evolution 2, WWE SmackDown Ratings (6/27/25)",
-          "publisher": "Wrestling Headlines"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZVZmR0U4THdPeXFQMnZDMVA3SDZOc2lKUTB2SE5kVnRuNGI3TlJQMENiUXlpRGkyU1ZvM09FbTdWajZHcUFfeWx3NnNfRGVpQ3J2OHo3Y09WSW01a3JLcGpENVBESTh6ZXZfNE5SNjllWVV1QVo3ckdXV0oybHpvQkItNTJUMFh5UjA3a0hBaHJSUUR6NERIVEM1d1cyeG1HUDJfaQ?oc=5",
+          "title": "Spoiler: Third match announced for Saturday Night’s Main Event",
+          "publisher": "POST Wrestling"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ1lmS3d5SEt0REp2aVRQX0lMdzlJdk9fS0E1S0JYYUhWNE8tU0E1RUpmVWY1RktQMzdEZ3V1VEJMb25WTm90cXhIcGdSOEtzSXBWRnVHU2FwRHRMbTg3VG5zaVpDXzYxR1ROaDJYVlpockZsZ0xUTWdtX01LN0pmaDJsaWY3Ti1lNWV6REp6QkZFLUVLc21kbWtBTHFxWFlWcjl5b0xodjlsdjFaWW45SGE3NA?oc=5",
@@ -486,183 +820,136 @@
       ]
     },
     {
-      "title": "Kylie Page, Adult Film Star, Dead at 28 - E! Online",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyTml3RWdSci1nMWdQMnV4c1JHa2tqMlJia2xYTmtSQjhOdm5oSkdCaV9HQ2lDN3k4cklkOTM2NVgwR2pzcGowbE9MZFlBOHNjVnFyT2o3Y1ZTZWZaY0VvMmNnQVI1TVZuWURwMHY3YVpQM3YzbTFPWk9fZ2xxWXM?oc=5",
-      "published": "Wed, 25 Jun 2025 07:00:00 GMT",
+      "title": "Khloé Kardashian names every cosmetic procedure she's done: 'I know some great doctors' - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTE9xWTZRa2hfVDlPTXRhNUtWcGY5a1U4eGx4cjRid2xBX05DMk1PeTIxMi16cTZicndJTkt6MFNkb0lVUGVDTUNVbUtINGt0SDdLRWtFQnJwRy1oTTFyMWZUaEVEamtWS2huanJjTjdPS2Z5M0cwMHhid0pJVHAzMGk2ZmVYTHpfYUNQTzkzRUhNcWRBa1luSFZLdzFIQmhyc2k2bjNSaV95SmZLb01wMHFXQk1FN3Z4Unc?oc=5",
+      "published": "Tue, 01 Jul 2025 01:09:29 GMT",
       "published_parsed": [
         2025,
-        6,
-        25,
         7,
-        0,
-        0,
-        2,
-        176,
-        0
-      ],
-      "source": "E! Online",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyTml3RWdSci1nMWdQMnV4c1JHa2tqMlJia2xYTmtSQjhOdm5oSkdCaV9HQ2lDN3k4cklkOTM2NVgwR2pzcGowbE9MZFlBOHNjVnFyT2o3Y1ZTZWZaY0VvMmNnQVI1TVZuWURwMHY3YVpQM3YzbTFPWk9fZ2xxWXM?oc=5",
-          "title": "Kylie Page, Adult Film Star, Dead at 28",
-          "publisher": "E! Online"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWGxxc08tRTJud3ZSWWIzTnpXMW5aMWhadFZoM1djZHlnUk5fWW1LWU8zYXkzbUlZbEtDWjNyU3ZxMk83anF4azhqN3JPMjJhazhpdG9RNTU2bGx2MzlLNzVPTFNqakRZM2w2UXU4eEtUTkZhaXZ4QXpCb2RuNVJhZzVwYndWcDdYSldYNkYxRDlIVlIwekg2UTdpVUFHZnpRSVZES29EZFlER3Q3UnhpbEFwUm9taUd4em1TZXhJNDU?oc=5",
-          "title": "Kylie Page's Death Highlights 'Unspeakable' Crisis: Young Female Porn Stars Face Skyrocketing Depression Rates",
-          "publisher": "International Business Times UK"
-        }
-      ]
-    },
-    {
-      "title": "Vera Wang flashes a hint of thigh in peekaboo dress on 76th birthday - Page Six",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkFydDhFUHFuVTBzMWVkU0hRanJNT0otOTM2Ynd5bWhsbXByazNDS1FzSW9vYTlwbGxkOEd1MmhTUTVzbE9IYlRFdzA3OG9EdlpQOGd3TjhfUjhfblBENmtXTjkxRFZjMEZlRkhDeWN2OUNUMVNRRldPNnRxQ2g0bXoxWGhMeGwwX3pQUUZPb3J6bmhydXBiVkUta2JEbkFNMVplOWlrYkNVQQ?oc=5",
-      "published": "Mon, 30 Jun 2025 17:22:00 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        30,
-        17,
-        22,
-        0,
-        0,
-        181,
-        0
-      ],
-      "source": "Page Six",
-      "sub_articles": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkFydDhFUHFuVTBzMWVkU0hRanJNT0otOTM2Ynd5bWhsbXByazNDS1FzSW9vYTlwbGxkOEd1MmhTUTVzbE9IYlRFdzA3OG9EdlpQOGd3TjhfUjhfblBENmtXTjkxRFZjMEZlRkhDeWN2OUNUMVNRRldPNnRxQ2g0bXoxWGhMeGwwX3pQUUZPb3J6bmhydXBiVkUta2JEbkFNMVplOWlrYkNVQQ?oc=5",
-          "title": "Vera Wang flashes a hint of thigh in peekaboo dress on 76th birthday",
-          "publisher": "Page Six"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTRWWnR6cmNnX3lyaV9zbi16QkxINHV0TXl2bS10MWcyWlpaVHBYQU0yQVlFWmdoVnZ1Tkxpc3Ywamo4NjU2UGtSQkpSSkRpdXpoRDhhNlJWS2hUWXBEM3BTUUsyUk9TMDlqYWg5aWZqNmZRT04ydW5VcklXYXRRdG12enZfNXBYQW5BdGpyYjQ?oc=5",
-          "title": "Vera Wang Celebrates 76th Birthday in the Tiniest Little Black Dress",
-          "publisher": "E! Online"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBcEF1ckY4bEJza3dhZl9ybDV4eWRob0JPb3NXWFVRdXR6QTFzV1dqbjRJSXdfT0lvZ0Znd0xZSTUyR1ROLUswOExCLWhwWW1FSDd4YjBGT08tbXIyaERBdmtxeEMwbW9mSUFWSmZjSnhxMk4tV0paR0VqMEgxdw?oc=5",
-          "title": "Vera Wang Celebrates Her 76th Birthday in the Shortest, Backless Little Black Dress",
-          "publisher": "instyle.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5cEFkc3l1T0ZKNXJWb0VPSWd4UzRKVHFwQ2JOdDFwOS1iMDBCRmRReWtGeFVSblpMQnJpOTBQUWNNdFpjWWI0YTVrY2Z6QklEUFJVTjA0b0NtRHloRlFiZkhDX2c5R1N0NnJ0UVIzYTlvMEkwSUl3bnJhdnU?oc=5",
-          "title": "Vera Wang, 76, Wears Daring Black Minidress as She Celebrates ‘Yet Another Big Birthday’",
-          "publisher": "People.com"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeEhmZ0FlRU13TFFyU3J2U0VPbTJDVzI5UjNsRGVwNWlDc0s2bldDWmxXVlp4dndUc3lfSm1maVpDbUVVc2YzdjR6cHNvei1lV0d1VUZxUTZNNWhRdERiSTJBRm4zWmFQSkJUaWhOeERMeGhsc196QlZZNnNtOEZTcm9lZWgwMXo4T0ZR?oc=5",
-          "title": "Vera Wang Stuns in Low-Cut Minidress for 76th Birthday Celebration",
-          "publisher": "Yahoo"
-        }
-      ]
-    },
-    {
-      "title": "Royal train to be cut in Palace cost-saving measure - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPNGNFamtmR2tmSU92c01NTU1QcWtSWG5MdzhTSXFMWnRKQlQwVDRRYVFVSXh2YXRiMF8wajJVTXpqS25ZMTRkR21YXzBFTzFNOUUxT2IxcUJ2d9IBX0FVX3lxTE5EOF96ZUZzLWNkdk5Jajg4LThtWUJCZWt2dlMtc0lqVXZNUFhDankyNlJld0xpeUh5Wmh5OW9FSm9XRENMRUJ6ZDhPTVF6U0dibmhMYTkyTTlyRFlTZjc4?oc=5",
-      "published": "Mon, 30 Jun 2025 21:01:57 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        30,
-        21,
         1,
-        57,
-        0,
-        181,
+        1,
+        9,
+        29,
+        1,
+        182,
         0
       ],
-      "source": "BBC",
+      "source": "USA Today",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPNGNFamtmR2tmSU92c01NTU1QcWtSWG5MdzhTSXFMWnRKQlQwVDRRYVFVSXh2YXRiMF8wajJVTXpqS25ZMTRkR21YXzBFTzFNOUUxT2IxcUJ2d9IBX0FVX3lxTE5EOF96ZUZzLWNkdk5Jajg4LThtWUJCZWt2dlMtc0lqVXZNUFhDankyNlJld0xpeUh5Wmh5OW9FSm9XRENMRUJ6ZDhPTVF6U0dibmhMYTkyTTlyRFlTZjc4?oc=5",
-          "title": "Royal train to be cut in Palace cost-saving measure",
-          "publisher": "BBC"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTE9xWTZRa2hfVDlPTXRhNUtWcGY5a1U4eGx4cjRid2xBX05DMk1PeTIxMi16cTZicndJTkt6MFNkb0lVUGVDTUNVbUtINGt0SDdLRWtFQnJwRy1oTTFyMWZUaEVEamtWS2huanJjTjdPS2Z5M0cwMHhid0pJVHAzMGk2ZmVYTHpfYUNQTzkzRUhNcWRBa1luSFZLdzFIQmhyc2k2bjNSaV95SmZLb01wMHFXQk1FN3Z4Unc?oc=5",
+          "title": "Khloé Kardashian names every cosmetic procedure she's done: 'I know some great doctors'",
+          "publisher": "USA Today"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSE9hVW5CWE5PaDc4WTVnanp5Szl2aV9uQ3Q5TE90NHRhMWVxZ1llbUlsZk04N1Q3YThLVG02ME8yR0FtTmF4QWphdHpUZ0NsVFJTQVowbG11THdoNWc1elYxR2xGbDl6b0dYbHhSdURYWVV0T3E1NUJPSkJVOW9CMm9mV0MteWVOdVlPOW5BVmxrVVZPUkJNY2Q1YkdLYVZvN2dVX1dlMWpiSUJyZGFZY0x1eTNMaFlE?oc=5",
-          "title": "Royal train to be retired as King Charles seeks to modernise monarchy",
-          "publisher": "The Guardian"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQTlEUHZSSml1MWlPanpnVk00REQ5R0ptSWY0Y1pjbEZNUXJMZjNyZFVxVzBydjZrVUJ6UFhqM3R4MGM3V3p6NF9nYTRqOU1Sa0JvbkpmVU0zMTFiZEdXWThLRnZDNzBRZmthWXp0WHRaYkhNN2R4RkF0cW1SX0RGU3A4XzM3RXdoTXNyT2F3aE5LdEJDaU96TkxidEJXWl81c1BWV0J5NzRfS3lJUWhyWjExTlpPaVR3d1IyYnNHQlc4SFVManQ2My1mSEV6bmZBM29Fc0N3?oc=5",
-          "title": "Royal train to be decommissioned with family to rely on two new helicopters - as annual accounts revealed",
-          "publisher": "Sky News"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNanpDWTZFNG1DSTdHeC1OSlRhbkh1bXdCY1JVYTdBSmh6S3ZJQTFaYl9JOEZXME83QjdIMVFrZXQ0QXZrUWdTS01kNGxNZWdFOTB3NE8yem9sYkdwQ0QzUi1IMVFsM2lsQW9xeVlyeUlGZXhZY1hTdlNCN2tINHByMGFUbVFjRGVQdEtCRklic21WdDhrazJLNjBXLWxpV05lQnppS1JvaTI?oc=5",
-          "title": "King Charles to Retire Royal Train Beloved by Queen Elizabeth After Cost Concerns",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUUVxX05aN1BHeU0tZTkxb3FJOG8zLVdPQkFZMnJWekdnalFna0ducTJqVi16UW9VYUJjMkhRRkFKSjg3VUpNeTQyaF9CZVBTUmkxalR3OFZqTXU4Z2VZcjI3eW5Ld0xjSS1NNzNlZWlXdkZUMTl2U1pnaFZhLWIwaGtFYzRSc08yMFMwOHJDLXg2T3V3YUVUb0VHSlVxcHpR?oc=5",
+          "title": "Khloé Kardashian Breaks Her Silence on All of Her Cosmetic Work, from a Nose Job to Botox and Beyond",
           "publisher": "People.com"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLXVMRDFDZmVsb3lPRlV1clZhc0Zibl9kbi1mUGhEMkFqd2U2WGU2YWdQVWRmNTE1UE5rck9UaUZ5RFdHMVd6bUhkd0p6V2Eyem5qRjRPSFZ4ZUU0WFR5Z1hvUGE3X1Q0UFQyZnktVmF2MXFpM0tqaEZLZ0l0TERHXzZGdEpSQkJYejlxNTdPVnY2TUk?oc=5",
-          "title": "Royal train to end 156 years of service as King Charles III seeks to economize",
-          "publisher": "AP News"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFg1Y2FhTE5CbkJuelJ3ZkpZQ1FTcnpwQUJnLTNVRHBKOHlGWGtkTlBnZURYLUpOMUd4N1h0VmJXemp1RkdZZ05UN2tTS3hRXzczWVB6dTJJaWh1MGlpSjMwMF9lQVRSLVp3N0lQalczUmJNTWxYc214SER0LVItUU5vUWdmTkhCYkZnVnVNejVLWGktbG9RVFJNSHFucFY4UEtybw?oc=5",
+          "title": "Khloé Kardashian claps back at plastic surgery rumors with full list of procedures",
+          "publisher": "KOMO"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVBUdEFQNFkyZHVEb3Q4cV83WXlrbW95aHdISnBSTHVMOXN4TDFRcTlfRDJtYk93clVDSzhGd0o5RVhpQi1nSFFVR0lEVXpkYzdzOE4wMlRiV01UYXB2Ry02dDl4c3lPQjlaT1lFbVR4RXVIdFBoeS1BZDJ4cTc2Z29UUno0ZDJiNG1EbQ?oc=5",
+          "title": "Khloe Kardashian Reveals List of Every Cosmetic Procedure She's Done",
+          "publisher": "E! Online"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQjhNVU90aDhxaWJGRk52UlkzeVZoeURyWFZDNy1tRTdIeElFRkE0eDFKLXZUTlBjdU8tNzdxaFVxdzlnb29OMnR3RFBxX2tXbV9CbnBiRGFFWmxKMjhpbzFLNDdVODd3SFJYeGFCc0JWT3NmTHhuMjR6Rzd3ZXl2djNxMEVnTWZzRmp1b2dTNllaU2FTTHctLWhHM2w2amtZV3N4ano1TTRiLUV5bVBsSXpQQQ?oc=5",
+          "title": "Khloé Kardashian reveals every cosmetic procedure and surgery she's had done",
+          "publisher": "Page Six"
         }
       ]
     },
     {
-      "title": "Netflix teams up with NASA to show live rocket launches and spacewalks - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HZkxacVQ4dFgzZHlHZHBzRGZWMDlDdEdZQ0c0UzdSbWdySEZmcUZsMklMQWRrYnY4Q01lVi12bW5oZ1VsWWRybWtHeXJnSzZBTGRrakVkRGsxRjYtaGFqdU81M2oxV1lybzhndTFNdTdmUFQ0?oc=5",
-      "published": "Mon, 30 Jun 2025 19:29:38 GMT",
+      "title": "'Downton Abbey: The Grand Finale' reveals Lady Mary and Henry Talbot divorce - Entertainment Weekly",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZzFOOFhCdG5neDMyVTFGOEhxM2xRSExRRVk0Xzc5TUlYOGF2RHlDcEVxR1J5dFhjX2RLLXA3NDVMbV9MY0R2dGdnNDRKT1M5Q0N0ZzQ1Q1JDVFhxeTB3a2s0Zzg0blk5YVMxMVd1bGJrbEtCcDU1QXdOaE5zUXViUXVicWNYQ25ESWRFWmNqanQ2dlhfbzVReA?oc=5",
+      "published": "Mon, 30 Jun 2025 18:52:43 GMT",
       "published_parsed": [
         2025,
         6,
         30,
-        19,
-        29,
-        38,
+        18,
+        52,
+        43,
         0,
         181,
         0
       ],
-      "source": "The Verge",
+      "source": "Entertainment Weekly",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HZkxacVQ4dFgzZHlHZHBzRGZWMDlDdEdZQ0c0UzdSbWdySEZmcUZsMklMQWRrYnY4Q01lVi12bW5oZ1VsWWRybWtHeXJnSzZBTGRrakVkRGsxRjYtaGFqdU81M2oxV1lybzhndTFNdTdmUFQ0?oc=5",
-          "title": "Netflix teams up with NASA to show live rocket launches and spacewalks",
-          "publisher": "The Verge"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZzFOOFhCdG5neDMyVTFGOEhxM2xRSExRRVk0Xzc5TUlYOGF2RHlDcEVxR1J5dFhjX2RLLXA3NDVMbV9MY0R2dGdnNDRKT1M5Q0N0ZzQ1Q1JDVFhxeTB3a2s0Zzg0blk5YVMxMVd1bGJrbEtCcDU1QXdOaE5zUXViUXVicWNYQ25ESWRFWmNqanQ2dlhfbzVReA?oc=5",
+          "title": "'Downton Abbey: The Grand Finale' reveals Lady Mary and Henry Talbot divorce",
+          "publisher": "Entertainment Weekly"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03RGFGSWRoc1RwSFNhNm92ZjljeDc5V2E5X2o5MkVLV3BrRkNkTGR0ZGRNaW1aMlpGWTg2S21kOF9WV3VlMGdXSWVYN3pHN3hocENPb3NtLVI3QnU5clcxQjl4VDdua3dMSG5wd1ZTMXRhMjdPS0VmeGg4Sms?oc=5",
-          "title": "NASA+ is Coming to Netflix This Summer",
-          "publisher": "NASA (.gov)"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVlRiQ3ptRXM1RnBrUW1VdnZXSmg5ME13LVI5QU05a0d0TnN5dVJvRW1mVWJETUtzdHRoaDhLLWNJQ0lzOElJWHN3Tmo3d0ZNYVV3Z3VOblZVZk5kRXpKYmQzZk9DM1JYODVISUgya245ajhObkFrYnJvV0pCU00xa1MyVlo1YWhmYTZ0UF9QRHQ0T1dJT0IwNG5B?oc=5",
+          "title": "“Downton Abbey: The Grand Finale ”reveals Lady Mary and Henry Talbot divorce — and it's quite the scandal",
+          "publisher": "Yahoo"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPdmxCNDFZdzJRMVZyRFg5MUhfNVpobTdsSFY0WG9lUHVHRk1aUWRGRHlGQVRPd1lzYk82QVhHQTlxazVSUlZ6ekxWUEdwZUdkVloxa2dWVWtTWWlVOGhQZTNqWWllWndYTTB6UmVZQTRoY00?oc=5",
-          "title": "NASA+ Live Is Coming to Netflix: How to Watch Spacewalks and More",
-          "publisher": "Netflix"
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50bmZ0c2pYRnV6UE1hcFVBYkZXdGZYdk1zVEZhak9TdWlKMlR4UGhCb0lVZm9BUXB6UWJpaUdSam9rZkh4bDRwTWVyRFN5ZGN2d3pORUJNRXpJUHo2Y2U5OGdhQ3hxaldnRDZiLVRlQTVqa3NwbUpzZFdfNA?oc=5",
+          "title": "'Downton Abbey: The Grand Finale' Teases Scandal for Michelle Dockery's Lady Mary in Dazzling Full Trailer",
+          "publisher": "People.com"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGhkSUFwN1poc0d0bFo2cXFpWVVPTFNNLTVCSVNGc2dFbnFSTmI5Z3ZpVno2RnZKZ3M5VzJNNDlpRnhHVTNWNjM3ZnFfWUc2X1FhZTdYWHV1ZUJfMThWXzJyOHcwSGt5Q2lUaDE5akJsWUFtOWpLTFBKdFBMNXZMMl9XQmROcHM?oc=5",
-          "title": "Thanks to Netflix’s NASA+, You Can Go Out of This World with International Space Station Livestream",
-          "publisher": "IndieWire"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVAzM0U0UnZjazNhWlR1SnFfRUdEN1U4ZzFQY1FpTk1iclY1WnhUZHhQSFZBREVzU0d2UXd0c092Y3F2ZU1HTmpzZnJCREFzSU55MWZ1STR5R3dmV19rWnBqV1VycWNneVVhbnZpa1ZPQTAyV2pidEpCNDlRYjUzX0RCQTNoNGl4NG11SGE2ZnZUazZRd252UDROLVdVWmtaUzdzODgyd2xRUjg?oc=5",
+          "title": "‘Downton Abbey’ Fans Notice Silent Tribute to Late Hollywood Legend in Finale Trailer",
+          "publisher": "parade.com"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcjJ3bHhfXzJQTWdjbk5hSTFQN0JNYktheW9WLUxrVDNiYkNVc3VPTjJQX2lYcDRLd3dPVmRhMU5PalFOZmstR1dzcWszNnRoelFfU0p6WkFIRjh4NGtlb1lIakxZYTdhVV8xSVYySWpLQjJPVklLODVQZlBlNG1hd2ViQi1pZXFwV2xhUm1RZ3BmdUdmLWYteDdLRkxRUmpRY0daZHVMU2vSAVZBVV95cUxORlFrRE9EdWNPSTY3ZmtCVGJ3UlpYdG1mdlAyWWlhbHF3ODM0OUZuTS1KVEw0TmFLaHVvOFpHTHFGQUxUdk1DeEk2SmgyVFFTakZrWVNJUQ?oc=5",
-          "title": "Netflix shoots for the moon with new NASA content partnership",
-          "publisher": "NBC News"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFBRbEZiZDZNamYxZFFaSE5GOVh5VXJaYU1NbkdhS1NjOEdFM1V6MjVUUWV6ZmFodklRU2xFUTJmSFFoUEdvNzBDeXZKWW55OW5xVTZqcy1ZSllPN1BET19wWVBFYzlDWTY3YTJIeXBkVVZVRENqcFZxNi1fakNoSDFDMThjQQ?oc=5",
+          "title": "‘Downton Abbey: The Grand Finale’ Trailer: The Crawley Family Bow Out In Last Entry Of Long-Running Saga",
+          "publisher": "Deadline"
         }
       ]
     },
     {
-      "title": "Rosie O’Donnell Calls Out Oprah for Attending Jeff Bezos’ Wedding: ‘How Is That Possible? He Treats His Employees With Disdain… He Is Not a Nice Man’ - Variety",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQzZjamxKTUVfaU91U3Zaa1B5Y3FMYWFzbTc0SXNYU1FaelVLVE9ad05oRG9saDZxTWpTNGkzTWxfbTVVZ0hZQjBMWFltMm45cGF0d3BOaEhidU1jRTA2VGdIX1VUQ3JHblJOd2tRNEdxWHU1RzhCblBGSXlRWnUwLVJJWU55N3h3XzdmSHJ1UQ?oc=5",
-      "published": "Mon, 30 Jun 2025 19:22:00 GMT",
+      "title": "Rosie O’Donnell Calls Out Oprah for Attending Jeff Bezos’ Wedding: ‘How Is That Possible? He Treats His Employees With Disdain… He Is Not a Nice Man’ - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxS21FRUtlVlN1NUM5UkZCTE16OXpLazNQc09saFBJN2dkWVpCRDltQlItc0VlMVhqcFZlLTRmZ3R6RHlnMXo1aXF2aW1wZ3VXUW5sQVlhdHBmWEVGRERPaWszb29BQWRQTjkzUlp3Q2pHd2NwaWU4?oc=5",
+      "published": "Mon, 30 Jun 2025 19:22:21 GMT",
       "published_parsed": [
         2025,
         6,
         30,
         19,
         22,
-        0,
+        21,
         0,
         181,
         0
       ],
-      "source": "Variety",
-      "sub_articles": []
+      "source": "Yahoo",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxS21FRUtlVlN1NUM5UkZCTE16OXpLazNQc09saFBJN2dkWVpCRDltQlItc0VlMVhqcFZlLTRmZ3R6RHlnMXo1aXF2aW1wZ3VXUW5sQVlhdHBmWEVGRERPaWszb29BQWRQTjkzUlp3Q2pHd2NwaWU4?oc=5",
+          "title": "Rosie O’Donnell Calls Out Oprah for Attending Jeff Bezos’ Wedding: ‘How Is That Possible? He Treats His Employees With Disdain… He Is Not a Nice Man’",
+          "publisher": "Yahoo"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGsxRl8wRGFEd0dQRFp0cDdQcGZEUlMtMFlMY2xIMHhjOVhxZlFwcVFhY1NTTzV5ZzU5VVQzUnhQcEVFNlcwajNpd0lUcWEwNTRyRlkxUnY1Z1l3ODhUZEVJek9Gc1pRU3lzOUc2M1NIamRReVJ6c3hJUXBZaVhTdDlyTHJpbUNDQnQ1UTlRYUwtQ0o0azdvZjluU0R4UQ?oc=5",
+          "title": "Charlize Theron Banned From All Things Related to Jeff Bezos After Dig at Wedding, Says ‘Source’",
+          "publisher": "Yahoo"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVFyUFJMd283WXNHdzJDeGliWmRYTXBpTDF3a3d5cWdGRDRwbDdJdVp1ZDhxUUJ0RFhmR2MyYWwxdmllMEFjaWhZVFZvZ0hBMDkweVlGNnMyWmE5T2NhVlRQMUFfWkt5UFE1TnNEcGNMa0l3WVQ5V1NBWEpjNElZa3FLMmV0cmRDODNPRXJZOGJ4RFBScXd5Rm1yTnpoWkdKVHc?oc=5",
+          "title": "The Dark Poetry of the Bezos Wedding",
+          "publisher": "The Atlantic"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeWZ6ZFFUTEVZUWVXSXc3UDRPWHRpX3RpZWl4QzBUSm80SWNBTWZPa1FHOGlvaTg0LWJ3aV9fa0ZKTnFod3pWbkF5YmJIdWRoZDRWVkRicmhSaTI3RTJBcjBqam9WWGxIaGhlcDNSWEZreExnRG5xRDVjVm1OV2FqOGF6d3NDZUk5a05STmszd0VLdVB0MzBfWmdHbThlcmVsS1JuMS0wQll2c1ZJX1pFdGJ5blJITWNLbWF3ZmZKbHM4V2czVkpGMdIBzgFBVV95cUxPZFIxR0hXVkt4N2VhcUxkNTV1X3YteGo1amlRYXFMMnl5Nmg0d2U2WGdVV3ZqOGhNWjh5ZlpWUXNJSnJ0YnhtXzBjbUVpbF80MFRxODdpdmk4bGZiSmtOLTRLTWNmNEdEODVHRGpsLWM5WFBndmgwajZrd3BONm1LNUpvUC1tS1lDekt5ZUZPZm5FLThUTy1KaUlLVW5CeW9MOUExSzlnYkEySkREUzRXaV9CSzNJZXZfWnJJYU5TTFFwWktqNk9VTGQ5TEVWUQ?oc=5",
+          "title": "Rosie O'Donnell unleashes scathing criticism of Jeff Bezos and Lauren Sánchez's 'gross excess' wedding",
+          "publisher": "Fox News"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYzFNZTVQS25VZnljVHpQbGVHanZKZVBVSjlpZVhfRkRlRzVaZ3M4SVAyVk1ySHNEUDBUbXJzMXBDTUdadURxZE1CWUV3N2dLQWVfNWx1ZDROMGpvZV9tc1d0ekJSRFQ5eW5tbTdFUDFBTjBYSjRQLWJhN1gtSXRIN0ZHREZOYnBOWGl0UXgwaDZhM29GLVp4ZnlWUnlfVXBkajlENnpLd25IN0tBa0JBTlIzTUpsWmRfYWpwd2xaeGVLYXY4VnZzVWJsUzdkTGtrQnRGSw?oc=5",
+          "title": "Charlize Theron Uses 1 Harsh Word To Describe Jeff Bezos And His Wedding Guests",
+          "publisher": "HuffPost"
+        }
+      ]
     },
     {
       "title": "‘M3GAN’ 2.Oh No: Why Blumhouse & Atomic Monster Sequel Sputtered & Crashed At The Box Office - Deadline",
@@ -697,14 +984,58 @@
           "publisher": "The Economist"
         },
         {
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVWlsVUQwWXV2Ym1USXNES1ZjZkdybDF0T0FTRTdTUXZvOVp2ODVnRHZ0RmpFX01JUGs5aXVtcnRZRFJmNzAwdGZrc3BMSmNhWjlva21MVnc3aVFvblZsN3pud0Y3YjVPQm8yV0l4SG5pMlVjZV84STYzcFp3Yl82VWh4MG1PeVBrNktqN18zTjhSNnRXOUNvdDBZblRRUWJ5emlWX3NLR1VaZlFYc2UwejlOZDY1dmdTdHc?oc=5",
+          "title": "M3GAN 2.0 review: The AI camp queen pulls a Terminator 2",
+          "publisher": "Engadget"
+        },
+        {
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5reU5yUU5zdDBPVlljbGJCNzBaSm1LOF9faUVzSDRCNVBlZVlDaEI1c3hEbjBrX0RkU05FR2xrSjQwSlNyR1Q4bFh2ejlLWXZ3M0NzZXc1MWZ0WVdhWm82eXRmT2NGMVZyNmpZTTdtSTBuY0pi?oc=5",
           "title": "Amie Donald Has the Moves as the Killer Robot in ‘M3gan 2.0’",
           "publisher": "The New York Times"
+        }
+      ]
+    },
+    {
+      "title": "What Makes a Person Cool? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zYkpCN2pMb3loTW1RcXRyOGV2Z0s5TjBaNTV5dVpLVHh4S1BPNmNYYjA3WHBXN1M4LW1OZ2dJUHhSeFhCWU1ZcmsyeXNPaVUyY1FPQVV0by1JazNnRXppd1hKRW91bndTQ0hWaHR1dUg1Z2xwdGhnUFAwU2F2QUU?oc=5",
+      "published": "Mon, 30 Jun 2025 13:45:20 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        30,
+        13,
+        45,
+        20,
+        0,
+        181,
+        0
+      ],
+      "source": "The New York Times",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zYkpCN2pMb3loTW1RcXRyOGV2Z0s5TjBaNTV5dVpLVHh4S1BPNmNYYjA3WHBXN1M4LW1OZ2dJUHhSeFhCWU1ZcmsyeXNPaVUyY1FPQVV0by1JazNnRXppd1hKRW91bndTQ0hWaHR1dUg1Z2xwdGhnUFAwU2F2QUU?oc=5",
+          "title": "What Makes a Person Cool?",
+          "publisher": "The New York Times"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mbVVIOEdfVVA2a3hMY1RJX1Vvbk9oT1lWeHp5TndyajRUZ3VFYkxLVkVwbDZ5UGRybEZ0bkpyVVlEUmFHVV9xOEhBdmc2N3ZGLU9sSkRWSUd2Q3RMZGpXMWRpbFVGOGxjWmtGNUZ3?oc=5",
-          "title": "'M3GAN 2.0' is more of an expansion pack than an upgrade",
-          "publisher": "NPR"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZNnl4ZnRIRThNYnZBWmVLQU1MbDJvTUlzYnpGZmlvNnJtOGNRSzFkbG9nNDZIU3luZk1EVFZwQnR4YXJDLXRvcERUSWh1QnZGY21nOFc4MUw3YnF3VlYwTE5QcmhaaF8zZkHSAWhBVV95cUxPRFZXUjI3cU1uNnA0d3pyc0hWT25Fd1J1SVJ3UnRLSGUyZTY3dHA4UDh1WHRPVU9lUi05dGVIQnNTT0M5YnJBOU1TSGJOZUJBN2VSR2kxeUN2SzVwQV9VcDhtMGpNbHpncA?oc=5",
+          "title": "Cool is cool wherever you are: Study finds cross-cultural agreement",
+          "publisher": "Phys.org"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaTJfSlE5ZjNLdnhoX3BSME5BQzVJcEhZV0cxYm1tS3lCQ2xvQ2tEbXBhN0VDTV85Y3h5TE9kNTMxV3ZreEdobzF6cEt2dEQyaEFXZHlXQU4tQWdDeXpyUkMxZVF0eTg5MzZ5aTU1dnVGVjcwcml5MzBmRGZtQlFDRWVOdzdvejBEM2o3UkVDWkx5Z25Yd0lkeEFQVUNvcGs5ZkZv?oc=5",
+          "title": "What makes someone cool? The answer is universal",
+          "publisher": "The Times"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsZG9pS2sxY1JGeFg0SFR2ZE9vdFNuN0hackxVRVBxSklNSjhDazIzZFpldzJiOFJXZkg3VHE3V21fODRWZ3MwRkdwR3ZvazkwY1l0Q0hRVkU3OVdDYjlRSGxNVFN5bnU1MU9RZS12dkZ2Zk82dk44VXpn?oc=5",
+          "title": "What Makes Someone Cool? Science Has An Answer",
+          "publisher": "ScienceBlog.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MSGdRSDczTTE4S09hMklfN3lQeVlSRThXQU5zODc3MnVCREZhV1B2NTFTa2daR25sNFU5WHJ1bEtLYndJdVdUNjFtQTZPYjRLWHVvSEUyTEt0WjAtU2ZKZw?oc=5",
+          "title": "The 6 Universal Traits Of ‘Coolness,’ No Matter Where You Are In The World",
+          "publisher": "Study Finds"
         }
       ]
     },
@@ -731,9 +1062,9 @@
           "publisher": "HuffPost"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRkVzOEluSmJ2X0FncFlMYmxpYUZ1S1hnb001SlJnZWZ2TmN5dlh3Nk1UbEZwdy1ucnhnb09ubDJpUGFXQTkyTTNRMWpLVTFBa1czcFRNTTRQMkk0QzBCNlozejh2MGdRTXltNnZyQnVfcWsxQ0ltMHg1ejhiTzUwOFJaRnVYdm_SAYwBQVVfeXFMT2dleFB5QmlBOVlBSFJjTTJvOTRFRVUxLVRKNlBILW1POXY1MkpBbWxWNVV1cUMtNVE5SFAxbzM3STBlNEJyTkU2ZGJoMEs3amxMT2xURUJZX09VS1prdUZJS0JOWTUzMC1hRlRyczRQeV9FODZyT3BVdUtVVVV1S1k0RndBTktZcnhFbGo?oc=5",
-          "title": "Beyoncé powers through scary car malfunction during \"Cowboy Carter\" concert in Houston",
-          "publisher": "CBS News"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNanQ4ODJDSjRYTDg1N1hjbXRWZ0h6M3lwT1R0Tld3TmFoLTA3aW5xM3Q5RldIQXJKd1dvZTlJUlJOYjgtbUNGV3M5RVRHUHRZSjEyNTFpRjVKMEU5SG90LXNyNzItc3huREFRMXMyUzN4bWMwOE95ZUMtNjUtMFAyWHNhMHM3cTlGLVNxQmZLazBVV1Z1?oc=5",
+          "title": "Beyoncé Pauses Houston Concert After Car Prop Malfunction Left Her Dangling Over Crowds",
+          "publisher": "The New York Times"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTGt3bGNtaEdZMFhrb0RobmNwRk5MbWx4Z210SnBCWG14X0l2cjIwWWt1TEp0OUFWZm96VldFdnZRSHpUenIzdFNyTXhzNi1RLW9aMEI1OGJHNERlNC1UbWFFUWVqdlpWU25RT08yeWdXSVpraXBTRXVlNUFMMjJwNEMyYldEMm5ELVVXQzlaWkN6TTNMaGV2Z0JHMTluZVBta1hjYkswN3p3NGpGcWVZOHFPenlSN21yamR0MkpTQmVkSjRuY3FQRlZqN3FmTWdicHI3Ym1GdWdJMGdlTFdtUw?oc=5",
@@ -746,59 +1077,235 @@
           "publisher": "BBC"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNanQ4ODJDSjRYTDg1N1hjbXRWZ0h6M3lwT1R0Tld3TmFoLTA3aW5xM3Q5RldIQXJKd1dvZTlJUlJOYjgtbUNGV3M5RVRHUHRZSjEyNTFpRjVKMEU5SG90LXNyNzItc3huREFRMXMyUzN4bWMwOE95ZUMtNjUtMFAyWHNhMHM3cTlGLVNxQmZLazBVV1Z1?oc=5",
-          "title": "Beyoncé Pauses Houston Concert After Car Prop Malfunction Left Her Dangling Over Crowds",
-          "publisher": "The New York Times"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRkVzOEluSmJ2X0FncFlMYmxpYUZ1S1hnb001SlJnZWZ2TmN5dlh3Nk1UbEZwdy1ucnhnb09ubDJpUGFXQTkyTTNRMWpLVTFBa1czcFRNTTRQMkk0QzBCNlozejh2MGdRTXltNnZyQnVfcWsxQ0ltMHg1ejhiTzUwOFJaRnVYdm_SAYwBQVVfeXFMT2dleFB5QmlBOVlBSFJjTTJvOTRFRVUxLVRKNlBILW1POXY1MkpBbWxWNVV1cUMtNVE5SFAxbzM3STBlNEJyTkU2ZGJoMEs3amxMT2xURUJZX09VS1prdUZJS0JOWTUzMC1hRlRyczRQeV9FODZyT3BVdUtVVVV1S1k0RndBTktZcnhFbGo?oc=5",
+          "title": "Beyoncé powers through scary car malfunction during \"Cowboy Carter\" concert in Houston",
+          "publisher": "CBS News"
         }
       ]
     },
     {
-      "title": "Bruce Springsteen’s ‘Tracks II: The Lost Albums’: 20 Must-Hear Songs - Rolling Stone",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM01rY1dpc3BHSGpCOWh2eGhwSzg1VmxXSmoyR1JGNFF4bHJMODl4OGNrTl82OTg2MDloa3dnOVVkQW4ySmxPVUs0QzlCYVc4eW5MV04zb1Zzano3OTkxbUp2dmlmNmxsck9sZktYUEJPaWhiQXFweWlpWFlZQ2ZzVk1YQVljcHhaU2hySmhoaktJS05DMS1STDh0bE0?oc=5",
-      "published": "Mon, 30 Jun 2025 13:57:55 GMT",
+      "title": "‘Hershey’ Biopic Movie Reveals First Look at Finn Wittrock, Alexandra Daddario as Filming Wraps (Exclusive) - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMDdGSWN4bmZwT2YwSXA3bURndERRQjlCMHdzSGdPT3EzaFdQYXA1dDhvemZZNFMxNHJpd1pRdTcyWGVrZU9QOTBDMjZoNXg3bVpEcTNaUVpzS3FjTFZDMUlVbTZiVHUybDhRYVVhSENldEpfVEVlRWlZMnMzaERtMUdEdWhFQWxHTHBvNmVmS3R0c3pBR0RVMExabWRXaVBCTG5ZR3RhaUpaY0JPUEpLVTA0ZTFzSFVs?oc=5",
+      "published": "Mon, 30 Jun 2025 14:17:45 GMT",
       "published_parsed": [
         2025,
         6,
         30,
-        13,
-        57,
-        55,
+        14,
+        17,
+        45,
         0,
         181,
         0
       ],
-      "source": "Rolling Stone",
+      "source": "The Hollywood Reporter",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM01rY1dpc3BHSGpCOWh2eGhwSzg1VmxXSmoyR1JGNFF4bHJMODl4OGNrTl82OTg2MDloa3dnOVVkQW4ySmxPVUs0QzlCYVc4eW5MV04zb1Zzano3OTkxbUp2dmlmNmxsck9sZktYUEJPaWhiQXFweWlpWFlZQ2ZzVk1YQVljcHhaU2hySmhoaktJS05DMS1STDh0bE0?oc=5",
-          "title": "Bruce Springsteen’s ‘Tracks II: The Lost Albums’: 20 Must-Hear Songs",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMDdGSWN4bmZwT2YwSXA3bURndERRQjlCMHdzSGdPT3EzaFdQYXA1dDhvemZZNFMxNHJpd1pRdTcyWGVrZU9QOTBDMjZoNXg3bVpEcTNaUVpzS3FjTFZDMUlVbTZiVHUybDhRYVVhSENldEpfVEVlRWlZMnMzaERtMUdEdWhFQWxHTHBvNmVmS3R0c3pBR0RVMExabWRXaVBCTG5ZR3RhaUpaY0JPUEpLVTA0ZTFzSFVs?oc=5",
+          "title": "‘Hershey’ Biopic Movie Reveals First Look at Finn Wittrock, Alexandra Daddario as Filming Wraps (Exclusive)",
+          "publisher": "The Hollywood Reporter"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYUJTSlZaWDdSN0NWUGVaLThlU252bmtrbUtmcHp1X3Uyd2FfXzhyUXBETUFLV1A5eXNvdjR4MER2RFFqaW1iYVBNNDR4c0psMmFlUG5sQTZvcm91bVZSOVRPTVZXMEhxbW5IdjVSQm9sLUdQc0ppSk9SU0xvZVJtaVlHR1JORWxIc1MxcEszUldJZmtwV1hteG9sa1g2Zw?oc=5",
+          "title": "As 'Hershey' biopic wraps filming in W.Pa., production offers first-look photos",
+          "publisher": "Pittsburgh Post-Gazette"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2hvVlJmVDNIbl9JcDZtbkJ0QkVpUnlrR1FwV2p2R3dVZmV3TXdyRlMtc2F4Z0s3OFJrREJheW02WHBsUHBHcTB4Zm1UZDd6cjQ0SWFrUlpycF9ocllJb2VUOEtMUjhpZHB5bzBRRWI3QzU1S1VQdFhUWHRjXzhnTEp1UkVscFd0Ql8xT1JPeUpNWm5vQ3BYV21JbHF3aWxMa2kxQ3BfMFE2WEXSAb8BQVVfeXFMTVgwZWdnaUFkOFFfRlNib0hHd3FFeWxqRFZjcnIxbEowSTdtTE9JbXZlY21XdlR3aXhzZGkwTnREeS1WMW5qX05PUXlPMDNJU2NxRDRvRW81VzQzTWI4amJNVEJfX1Q5SmpkNDN5ODNiR0pkMkRET3luVmpWb3hkTjZvaGhzNnVIVjRFS2lZTVdsWjB4cDdTS244bV95RjBjYUVucVJPS1hOXzdvR0JqSlNfWUIwalVOLXpyWVk5MUk?oc=5",
+          "title": "As Hershey movie wraps shooting in Pa., director expresses gratitude to the state",
+          "publisher": "PennLive.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNzJUcHhVeWNvZ1BUX254Q1JPZmtIZEwycVVZcUk1WTcyN01sT0Y3eDZmcmtvb2dZeUFseVpFYUZLLXM1bDZOcWlRS2htaktRM1FQNV9WNThLN092VVlLWkZiMlZYVHBnZXI0dlNWdnEwY1JRQXplb2FQVVg4TW96bWtuT3ZCOW4xZnpkc3c5aFBuN0s5UktwSWtCOUE5T0R6RFBYS3VQSnBaUEtlbkx2TUxWTE1ldEZlSEhYaTRHY1QxNVhfcGRfeUx0bw?oc=5",
+          "title": "'Hershey' filming wraps in Western Pa.; 1st look at Finn Wittrock, Alexandra Daddario published",
+          "publisher": "TribLIVE.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX2hJWll0azJHd3RMZmw0cUtfZVhWbDV1Tk9oS09naHZsbVBtLWFkWklBaW9VU1pUYlZKeGdIcWtxVUNYWFZGUFR6Q0xYOUYzaE9scGZodU5URXh1WjBvUEl0WjloRVR0R2daVkFhRVYwaVU0WENzVlE3M0s4a3A1QXJiT0tWRFZ4YlVGSkJGUkxMbmE5SVl3NQ?oc=5",
+          "title": "Scene Shot Here: Shooting Wraps up for Hershey Movie",
+          "publisher": "news.thesunontheweb.com"
+        }
+      ]
+    },
+    {
+      "title": "Glastonbury 2025 Recap: Politics, Girl Power and Indie Nostalgia Rule - Variety",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbllBbVNnNnp5d1FpVGxySmViY1NFVGg5RzQyMVJCbFhoT3BUSW9VeVdHVkJrNmNwbDZYOEVacGFGR3o2LXMzTlZHZnlMdGRWNk1MbzQyQnpkNUY0UGNTdXFsTnFfN3RXYTFScWZFVVU3dS0xWll0R2tKT0haUWtwSjRYN1pBbnl5eDZNb09BNW5DSVRsdGxvc1FfQllLNXBYcnphSmpsY3N3U3RiLWlvOU53TQ?oc=5",
+      "published": "Mon, 30 Jun 2025 17:30:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        30,
+        17,
+        30,
+        0,
+        0,
+        181,
+        0
+      ],
+      "source": "Variety",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbllBbVNnNnp5d1FpVGxySmViY1NFVGg5RzQyMVJCbFhoT3BUSW9VeVdHVkJrNmNwbDZYOEVacGFGR3o2LXMzTlZHZnlMdGRWNk1MbzQyQnpkNUY0UGNTdXFsTnFfN3RXYTFScWZFVVU3dS0xWll0R2tKT0haUWtwSjRYN1pBbnl5eDZNb09BNW5DSVRsdGxvc1FfQllLNXBYcnphSmpsY3N3U3RiLWlvOU53TQ?oc=5",
+          "title": "Glastonbury 2025 Recap: Politics, Girl Power and Indie Nostalgia Rule",
+          "publisher": "Variety"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwRmNpME1oVW9kUWZseXRvQnh1aTc2OF9vVm5fNUlNS25HZmJpaS1wdDZqdjVzam9IMG1aSFc2Z3BXRGhxVm5peTBzOHBmM0FjMDRNTVhaNlVJZw?oc=5",
+          "title": "Rod Stewart at Glastonbury: Old school charm from another era",
+          "publisher": "BBC"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZXlUVmJwMGVOc3UyYUVsbkVYMEVja3d2bkF4ZkNpbE9qQmtfeWVvWmRoanZvR04xVzZibVRvY200clFXc2RCZ2dOc3lneWlncjQ3SWJheUI0ODcteldTb2J6T1o2Y2g5YThYbFRkVWROYlpTQXVEOWo3VzltWmlZcjNMTDFreEJuTzFUT0llT2VZenJFM3A5UkNhM09uLWFzem1paUtKLURlN0NXQmJSYkxvYS1FdFphS0xlT1JhTFA4WDRlOHZHNlc5clBza2hReHB2WEFXODVGRzA?oc=5",
+          "title": "BuzzBallz, brat tenacity and hangover face: 25 things I learned about the world at Glastonbury 2025",
+          "publisher": "The Guardian"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakswSk5uUzJvbzZXOUR2bXNlSU1pM1FMaDVHY3laZjdCVEpFaHA1YlJsTUw4djZvSGVEdDViUHo3X2g5S2tJd0dtSGJyZlA5ZmxBYjZ2U3BEM0hHR2lUNklwVVU5MWE0bGplYjNaWW5ucm5LZzh2UjU5bmZNUWxQSkZLclZjNnMya3VuQWFRaUhueVR0T2NvVU5uUjBjR2o2cDZMTWk4ZXNSVXU2dEFLaQ?oc=5",
+          "title": "Glastonbury 2025’s Biggest Moments: Olivia Rodrigo, Lorde, Kneecap",
           "publisher": "Rolling Stone"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3doTE9RQmkyQ0ZUaE1BY2FrOUh0UWd1YWRjbFhjaWtOWDJXWVdSODhoMGRTdERzMDVycmpvYUZMUU9LSGpTajJ0ME5WcTc5X0VpRXlIaXhSNS05RXRPZVRubHZtdkU3Q21td3p4TnRKTkd0QXF5WGJyeFJjV29vVXRnOFIzN1AybVVXbGd6NERsZw?oc=5",
-          "title": "Inside Bruce Springsteen’s 7 Lost Albums",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0VmbUJ4THo4LWptQ0JRdmNRMmZWRWJTbVdSSlVuSThkc1VyazhvQ1ZNN2EzUk5Bem4tbDNfYWwtZ1lES204cm5tSGFfWDdDWlY4YUdacnF1RWdGSUgwbE5NMjBuUmJubEMxVmI1Ty16blNvdTZyR1pkdTZmRFkxUGtmRUNNNWNHbzgxZjBrUnAzRENkM1FB?oc=5",
+          "title": "Rod Stewart Brings Out Ronnie Wood and Other Surprise Guests During Glastonbury Legends Slot",
+          "publisher": "People.com"
+        }
+      ]
+    },
+    {
+      "title": "Olivia Munn discusses living with a very specific condition known as trichotillomania - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoODRUc09YNUV4V01BUnVBdDdlRFFHdGRHSDZXQWpCaU9CWVp4QWs1ZVpZWWFaRm5YdTZOelk2OUxVM1J4Z1V3cjQ0NjRNRlBjNnFxQm5hYXBBN19HZHc2NVdzR0dsQ1BjTC1tYVd1QkY2VkhBU1F0LUVwNVR5Z9IBgwFBVV95cUxPUmZrZnE1d1ViajVuWWtvTTNnYllVS0dEVVo4Njl1WldiUWdNSWhsZ1Jqbks5SzdGMHp3VEZwOHdjbnVDWjlibjYtV2gzSGNDaWRMU2RlaWFBZE5HeV9uQ191TzRGa1MzRG5xejhmc2dkWF9fT1YwYU9KbFRJdEJjWTNxWQ?oc=5",
+      "published": "Mon, 30 Jun 2025 23:43:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        30,
+        23,
+        43,
+        0,
+        0,
+        181,
+        0
+      ],
+      "source": "CNN",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoODRUc09YNUV4V01BUnVBdDdlRFFHdGRHSDZXQWpCaU9CWVp4QWs1ZVpZWWFaRm5YdTZOelk2OUxVM1J4Z1V3cjQ0NjRNRlBjNnFxQm5hYXBBN19HZHc2NVdzR0dsQ1BjTC1tYVd1QkY2VkhBU1F0LUVwNVR5Z9IBgwFBVV95cUxPUmZrZnE1d1ViajVuWWtvTTNnYllVS0dEVVo4Njl1WldiUWdNSWhsZ1Jqbks5SzdGMHp3VEZwOHdjbnVDWjlibjYtV2gzSGNDaWRMU2RlaWFBZE5HeV9uQ191TzRGa1MzRG5xejhmc2dkWF9fT1YwYU9KbFRJdEJjWTNxWQ?oc=5",
+          "title": "Olivia Munn discusses living with a very specific condition known as trichotillomania",
+          "publisher": "CNN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVpwUXMyWHZ4T0ljdnA1WV8zdVdGWFpDeVIzWlBrVTdLR2hMSVlMdFBlXzNtZHJ0MWFxTHRMTFktRmZHY0ZuVjZON1RvbDZpbHg1emZlMWhRMW5CZkRJRzVWcW1PZDNEdnF0SklKLUxqeDlFME5IQk5Na2Y2YUhRSWN3RE9HSEJaVTdxODVwYndJLUNCdVVVR1FiMA?oc=5",
+          "title": "Olivia Munn Got Real About Living With Trichotillomania And How Paparazzi Photos With Chris Pine Triggered It",
+          "publisher": "BuzzFeed"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGNsRWZYMS1SSUN5TE8teWNNQ1NpNjlueTZtYi1QZENuZWlSR2tJQlhWQmpEOVNjS1JjdFlzaGlrQm1XNktjN3JNWTRpMWpuSW1pSjRQLUIwWWs1ZnNDbFpPeGFVY2lDNHB5WkVVSmo0MFgwbDBrb2Q3OGJtblVOMzhZQS1CWFZyenhybVZ4SElUVk1sN0U5Q1RWeS1OczBQdmdBbmp3?oc=5",
+          "title": "Olivia Munn Shares How Ex Chris Pine Paparazzi Photos Led to Trichotillomania Struggle",
+          "publisher": "E! Online"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNEs3T0tGclZxRzVJQnZsd2Z2aEh5dnJvOFBURlpkV09OektzT3NQZTZ2MVM3UGRQRVhvOU1veEJDdFUxMzAxQWlkYXhxVmNUVzhpUE91ZnR1dHIzWjdKU2FlWk4xYUY1aXRBZWU0ck9HbGpjSHhwTDFMUGl6VUFOdTFZM1E2WlFiQlZHSlQ4ZG1IZi1SNFpHSGJUekM?oc=5",
+          "title": "Olivia Munn recalls how paparazzi pics with ex Chris Pine led to hair pulling",
+          "publisher": "Entertainment Weekly"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTk1ZbnVxbU5GOGFfOTItdVJnSG5QcFhuNWtrVlRfam5UQ09LN25Jb1p5dkJFSGgyRkdET2wzVEFZeFE5X0dFVFhsSFNYbjFCZ2tNOWpJUVhpS3RaMXdtNGtfd2FSSDVrdm9kNUJNekk2VGI1Z0RSaVRPTzNvQWQzcTFINTlSbGh0cGc2OF9UTlV5UmNPY2hYZWhuWWk1d3M?oc=5",
+          "title": "Olivia Munn: Comments on Photos Triggered Her to Pull Out Eyelashes",
+          "publisher": "People.com"
+        }
+      ]
+    },
+    {
+      "title": "On The Bear , Carmy says exactly what Syd’s been waiting to hear at exactly the wrong time - AV Club",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHcThyYlZPTlBiamV1MWpFZHM0SGZTTkZTaUQ3WFhoUFVTcVRPSTJ3TVVfWFJtZU5ud1hDWTgwcnlIQXJnRVZjUFRSUWRSMzVmZ0FhRFhKZXo0bjY0Y096YUc1NU9YV3pFYmlfUFFTZVppRGhBYmc?oc=5",
+      "published": "Mon, 30 Jun 2025 12:00:00 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        30,
+        12,
+        0,
+        0,
+        0,
+        181,
+        0
+      ],
+      "source": "AV Club",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHcThyYlZPTlBiamV1MWpFZHM0SGZTTkZTaUQ3WFhoUFVTcVRPSTJ3TVVfWFJtZU5ud1hDWTgwcnlIQXJnRVZjUFRSUWRSMzVmZ0FhRFhKZXo0bjY0Y096YUc1NU9YV3pFYmlfUFFTZVppRGhBYmc?oc=5",
+          "title": "On The Bear , Carmy says exactly what Syd’s been waiting to hear at exactly the wrong time",
+          "publisher": "AV Club"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWhyUDZqSHRaQlU5WTBBUW5WU1l2ZW95SlB4c3JFb1IxUk5EeVdWZW96TDU0QVNPSjRndW1GT3AzcDdsMnJ5Rlh2M0FhU2d4NnN1RzZKY2NpVGVBY1JJejhJcFVRZWxzb25nYURyak43SXVIbDlMQVp5NFNaaUIzdXJwem5tSmM?oc=5",
+          "title": "‘The Bear’ Is Back, but Where’s the Beef?",
           "publisher": "The New York Times"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNnJaaXVTNWkxWmktTGNZSG56ZzRpTDlQRl9MMTIyOGE1YUE2UTJ4ZVpFYXhTN0k0ZWNWQUQwQTllUjhzNlNlem1fVkhwYTJrUXRUcHI1amtvUy1IU3RpUnFCOFBVTWp4Z3FBQkpzTGlpaDFBem44QllySU5Yb1B0SEc0bjdpUjlEZ3I5NnM3YkpiUEpNekRRdnBncUJyME9pRnFOVnRWZnR1NmNKeHN5eUU0cWZFSl90Q3c?oc=5",
-          "title": "Bruce Springsteen Massive New Album Easily Rises Into The Top 10",
-          "publisher": "Forbes"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWFg5d3NtWko0Z1hDTHc2QzV6ZlR2YXUtQ3F0cVJQZGxLWU9OZV82OThSaXUxQm5nbkpSTXk2bjRSTUpOMlB5eFQ0aUxHb09kcjZCZGY5enpxbkw4Z3JfSG1Gd3Z4UERSQnFVQ19lMGJtNkhYb0FkUk9HQmlscWo2RDdmamdZQVdlcFJmbVpUWVBNUnkyWGc?oc=5",
+          "title": "The ‘Bear’ Season 4 Exit Survey",
+          "publisher": "The Ringer"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0JWSElYV1I0QzV0SVhHOVd5eGRUbjN3NHpTRzVvNnZXVFBpQXpsVHRHR2Nqb0ZmTzdJZU9vUmFlbnl0dXJSU1dOQThIYXZpMEhtdWt0c0Z6VFQ3VGtqUEppaG05cE0zVGVnZ1V3UmFYY3pfa3dSSkZPdHdQYXFhR1dqZTZLQ0lfdmpvUlQ4RjZKR0xw?oc=5",
-          "title": "Why Did Bruce Springsteen Hide So Many Albums in His Vault?",
-          "publisher": "Yahoo"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LUVBlV1MwWjI3R095ZFdua2h3ZjluOEdRUTlrRG5JZjBYXzcybnhQR1A5YW5zbnI2bDFCRmQ0b05MOTFTcjV6TmoyUWYtelRwZ09nZGVXWGtGQTRrTHNUTFVaV3RGMG8?oc=5",
+          "title": "You Can't Spoil The Bear",
+          "publisher": "TVGuide.com"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYm83bGprMWdpMHlieXBPS19Ha1Fkb3BZZ1JhVUNfNUQwQmxidWJZVzUzYW5ZakcyQmMtN0dma1N4aGE3RVJHNTh0dXk1bzVXUmtCV1hfMnZJd29LZ0hueTd1M1IwTGNZQkVfSll2Q0hJX0VCcFMzWEVQb0dodEEyYjZLbVB4ZHpOX29qYWl3amttb1A4T1dEOERYcTZPR0dqWER5eFFEbUx0eXVyMWc?oc=5",
-          "title": "Review | On Springsteen’s ‘Tracks II,’ a trove of worthy castoffs",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSTVXcENDUkd2ZDBwT1NwUmc2MmNxNWFDTWpnbV80NjUxajJ4alN0VnBVQ1VJeHhaWm1ZMndaNFFwOUJGZGhYaTJDME5LN1J0RVBIUkxCVWFhTkV4Z1MzQjl0bHhxTmhDb0tyd3QxbWtWbzByVG5XTDF1U2RLVV9oTFJmQkgxYmhEZG1hVk5WbHpYWFU?oc=5",
+          "title": "Analysis | Is it finally time to quit ‘The Bear’? Let’s discuss.",
           "publisher": "The Washington Post"
         }
       ]
     },
     {
-      "title": "Natalie Portman's son ambushes her into surprise video call with streaming star Marlon LuGa: 'That's my mom' - Entertainment Weekly",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXhqdkpoSU1TTmJlZEJvQ010OEMyMktXOEJ6NC1sMjh1N1dmbExIdHZ1RVNYYnNvaXZrMWFremZJd01nOEgwcVFlZnRTYVRQaDZYXzEydEVJTXhaU3hXbU9oWFJlVXVOY3hDblluc3dGSkVfTUtKdTRmcHY3aFh4eGJqcHJvREd6ZFNDbjFIM1ZydkQxWk9DdHRjNA?oc=5",
+      "title": "Project Hail Mary trailer looks like a winner for Andy Weir fans - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVGNzbFJSTHFLN2x3MVB1QnE0ZUNPZ0lrWjRESlQxLUZuVjlhZThnRU5nQkI1eVBuU0JyQTdfWUNmNjZGbFl3ZnNxSjVNTDB4N3lBYVhfTDJpWXFxX1RPdnNwNERpa0pMVlFTb0hRTjN5d2pZYVJpMHlHOU8zekdUcTRNUFQ3MGlHemhpdG94cklwM1BJaXJKS29PMXc3Rm1xdzFWaC0wWmdicEE?oc=5",
+      "published": "Mon, 30 Jun 2025 17:05:50 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        30,
+        17,
+        5,
+        50,
+        0,
+        181,
+        0
+      ],
+      "source": "Ars Technica",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVGNzbFJSTHFLN2x3MVB1QnE0ZUNPZ0lrWjRESlQxLUZuVjlhZThnRU5nQkI1eVBuU0JyQTdfWUNmNjZGbFl3ZnNxSjVNTDB4N3lBYVhfTDJpWXFxX1RPdnNwNERpa0pMVlFTb0hRTjN5d2pZYVJpMHlHOU8zekdUcTRNUFQ3MGlHemhpdG94cklwM1BJaXJKS29PMXc3Rm1xdzFWaC0wWmdicEE?oc=5",
+          "title": "Project Hail Mary trailer looks like a winner for Andy Weir fans",
+          "publisher": "Ars Technica"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2tjdmp2XzBTQ2NETFFueENBNWxtV1czTHRHcV84Z19VN05weENDTXUzYlNPeVFodVFQaEM0VTBBeFFBd0JWUEZkNjhVOUMzdWFzVDl1VTF6MzJULXNydEJ4enpIUkFBX09fSVg5SXhjcXlyYS1HRHpJa1F6SnRUSVh3a1FOV3pqT0x4ajBCd3lMUnlQ?oc=5",
+          "title": "PROJECT HAIL MARY TRAILER: Ryan Gosling Puts the ‘Not’ in Astronaut & Befriends Strange Alien",
+          "publisher": "Yahoo"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS05zdlNuU2I2NGZORjY0LXBNX1daWDZqQ090dXhCcjA5U1hxbnNkZVgxTldKMjViMEptVFBxX1poVFVGUE9hUjhyX01FWDFLaHJUUmhHUGN0TGloZWk1MG5FRUJDQVkxdk56azlTUUxCYmNkWUtQc1BxYm5sYlhGQm9YaFVOSmw1dFJGeE5lYXdJVjZZc3RTY0FOX1dLaWFRRVhOZV9fdEZKQldWT1E5bk5nckZ0Y2RZcGo1WTI1WW96YjNzcHBIVVhwYWhIQQ?oc=5",
+          "title": "'The sun is dying!' Ryan Gosling tries to save a doomed Earth in 1st trailer for 'Project Hail Mary' (video)",
+          "publisher": "Space"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVF80SDZ3RXJKc0JhajV5VjRabGNLX1NhcUJqMnFwOVV2R3hSUFROSUJ2VGEzSS03X2EteXZQN1ZVREZ3Z2NsaXo2RkdJQ1BVUlBjcE03MjdIcFpNLV9jZlpYcFhLUTNfNl9wdnZ5b21TVzJTVl9BNmxzV1RIeWR0U0RVb0o1cDhNejlySG52T0w0ZVMzX3A5bHRQSjRheXVOZU5kckstcEtVS1lrNTFhbXNITlRPZjRNRVgzTG5Sa3ZTQVl5RnA40gHWAUFVX3lxTFBUUHdUN1pkMXllNkh6Q09LODJoZ2dpeTNxeDVyck1VWVprX0ZqTHZpRWhzNmVrNWhwVzkyaGNoTHN5a3A3V3I5enZFSUNJUUNsY2dQYnZsYTJlRnREdkFPMnBCSWFPR1JzcG9WU3EyaWxveEVpcHpKb0NFU3RQOVpRamc4ZXp6WGxyc2V6SkJGcTNyUHZaYUs4d1pkQ3FTVkRDVWRMUHFkUnQ1eWxVMFRWT05ONGVKNnlWVjJlOE1ob2ltbUFkTDBVamc5OVFiXzBPNFFfaGc?oc=5",
+          "title": "Ryan Gosling is unrecognizable in latest photos following major transformation",
+          "publisher": "hellomagazine.com"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVDJnOVJwT1d3YlJZdWU5TjlNdGNkdWUtenFlWk0tWWxhdXgxX3dBenFjMUZYRlVOZ242NDRJMGdBTGhvQThIWTBFbUhXSlNXLVRVREZsSmxZWndaVnMwOEpIZVZNZjRwdHhjdUFVWnhvbElLeVpBZzJORHVwc2J4bmFFZVJRT1FRM3A2MjBSOURlUVN1YzFiR2lndWlhZHRIT08xTG84T0tlaHM?oc=5",
+          "title": "Ryan Gosling stars in 'Project Hail Mary': See trailer, cast, release date",
+          "publisher": "USA Today"
+        }
+      ]
+    },
+    {
+      "title": "Natalie Portman's son ambushes her into surprise video call with streaming star Marlon LuGa: 'That's my mom' - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2RUlNeHRpQlFUdDlUcEFHLVdRZkNjd0dGWFpCSWVIZUJCZ0tNUEQ4M1FXaFNaQ2VHdnROeGktQWRlT1F0VC0xMmtXYTNpWlVFcXNuZXNWVWxYV0tuT2pjTjZBUTc5Tkc1Q01xUTVqV3VNNnIxcEo1ZXBPd19kX0U?oc=5",
       "published": "Mon, 30 Jun 2025 15:48:38 GMT",
       "published_parsed": [
         2025,
@@ -811,68 +1318,138 @@
         181,
         0
       ],
-      "source": "Entertainment Weekly",
+      "source": "Yahoo",
       "sub_articles": []
     },
     {
-      "title": "Penn Badgley, Meghann Fahy to Star in Romantic Comedy ‘You Deserve Each Other’ for Amazon MGM (Exclusive) - The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1FwTjU2RFRVOWFzYTR5Y1A0M0lZelJ1THlzLXdPeG5ZaFdDY0lOOEVWQWlPWUJQcWFSU3FqbjJxV21UUVE0R1l2Z0V3T2RvUmV3dlZMVmYxUFFvUENsNUZtaXQ4VVl3bUE0TThDdEU4ZnEwMUFUZERuQ0lOU2xIMkh1Y3hRLXBCendnMTFaLW1oVUNBZmhOdUp0dmkzaGd6SXdXdU9WY1AwV3E1RUNUdzJ3?oc=5",
-      "published": "Mon, 30 Jun 2025 19:26:34 GMT",
+      "title": "Iconic TV star changing last name, kids are unhappy - Cleveland.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSlhWN1p3b3c5Z0E1dmdWY3RYcFZsNkVXTHk1UENwRWF2VHlLSHdqekJIWk5MSEVTaTVqRTUwT1RFTmRIUm9YdHd3bTFWOU1KSmVjMU5MU0gzcjFTUy0tY0hNSVhsWlZKUFVRMmF2YmREQklseWR0M3RKOVZEVUxMRURiSFBLUFlpWnFxcjJCNHlka2NacUlmazN30gGuAUFVX3lxTE4zcndpVjBOOVdPWEZWNlR4Z01taEV2cUVmcGlZZEJ5Uk1feVVUVmdwNWRDRUd3X1d0aUFCbnpGSFNzZ1RtdkJ4ZExWX2R2c1NfUVBMUUNtLVpTS1N1UGFvWGhYMjdod2dzcDBySDN3OWpMUkc4Vkw3MmkxNEpCY04wSDFyNkdRZ1VlWFFLdTcwcTZnSVVhb3JxeHRmZldpUDMwbUIxTDVnZkRLSFJVUQ?oc=5",
+      "published": "Mon, 30 Jun 2025 14:01:00 GMT",
       "published_parsed": [
         2025,
         6,
         30,
-        19,
-        26,
-        34,
+        14,
+        1,
+        0,
         0,
         181,
         0
       ],
-      "source": "The Hollywood Reporter",
-      "sub_articles": []
-    },
-    {
-      "title": "What Makes a Person Cool? - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zYkpCN2pMb3loTW1RcXRyOGV2Z0s5TjBaNTV5dVpLVHh4S1BPNmNYYjA3WHBXN1M4LW1OZ2dJUHhSeFhCWU1ZcmsyeXNPaVUyY1FPQVV0by1JazNnRXppd1hKRW91bndTQ0hWaHR1dUg1Z2xwdGhnUFAwU2F2QUU?oc=5",
-      "published": "Mon, 30 Jun 2025 13:45:20 GMT",
-      "published_parsed": [
-        2025,
-        6,
-        30,
-        13,
-        45,
-        20,
-        0,
-        181,
-        0
-      ],
-      "source": "The New York Times",
+      "source": "Cleveland.com",
       "sub_articles": [
         {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zYkpCN2pMb3loTW1RcXRyOGV2Z0s5TjBaNTV5dVpLVHh4S1BPNmNYYjA3WHBXN1M4LW1OZ2dJUHhSeFhCWU1ZcmsyeXNPaVUyY1FPQVV0by1JazNnRXppd1hKRW91bndTQ0hWaHR1dUg1Z2xwdGhnUFAwU2F2QUU?oc=5",
-          "title": "What Makes a Person Cool?",
-          "publisher": "The New York Times"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSlhWN1p3b3c5Z0E1dmdWY3RYcFZsNkVXTHk1UENwRWF2VHlLSHdqekJIWk5MSEVTaTVqRTUwT1RFTmRIUm9YdHd3bTFWOU1KSmVjMU5MU0gzcjFTUy0tY0hNSVhsWlZKUFVRMmF2YmREQklseWR0M3RKOVZEVUxMRURiSFBLUFlpWnFxcjJCNHlka2NacUlmazN30gGuAUFVX3lxTE4zcndpVjBOOVdPWEZWNlR4Z01taEV2cUVmcGlZZEJ5Uk1feVVUVmdwNWRDRUd3X1d0aUFCbnpGSFNzZ1RtdkJ4ZExWX2R2c1NfUVBMUUNtLVpTS1N1UGFvWGhYMjdod2dzcDBySDN3OWpMUkc4Vkw3MmkxNEpCY04wSDFyNkdRZ1VlWFFLdTcwcTZnSVVhb3JxeHRmZldpUDMwbUIxTDVnZkRLSFJVUQ?oc=5",
+          "title": "Iconic TV star changing last name, kids are unhappy",
+          "publisher": "Cleveland.com"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaTJfSlE5ZjNLdnhoX3BSME5BQzVJcEhZV0cxYm1tS3lCQ2xvQ2tEbXBhN0VDTV85Y3h5TE9kNTMxV3ZreEdobzF6cEt2dEQyaEFXZHlXQU4tQWdDeXpyUkMxZVF0eTg5MzZ5aTU1dnVGVjcwcml5MzBmRGZtQlFDRWVOdzdvejBEM2o3UkVDWkx5Z25Yd0lkeEFQVUNvcGs5ZkZv?oc=5",
-          "title": "What makes someone cool? The answer is universal",
-          "publisher": "The Times"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRkEway11TG1CanVycTljTmJDSzF6V1NaZU9naGc4bzdRNFZGTEZ4SnZMRkczS2lLX3hvaUY5VlRwYUI1X2Q3cWRVcWFpTmVwczdmMjlLMHVWVzhnd2JmakdfX0tFUFJyRWFpVUhWX1hfM2owSC1SNTFWUEtKVllES19n?oc=5",
+          "title": "Rob McElhenney Files to Legally Change Name to “Rob Mac”",
+          "publisher": "Yahoo"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWkVIOEFuV3RZYTN3V200QVd1QVpVZXFvSmw4NGlKZS1ZanFlTV9MbGtIdzNvMlY0U3ZPMmFqNkk3VXViZTVWaFpMRE5yRG1rdFpiNjF1S25WM1BQVm01NjlsX0JNbkxJeG1UM2w2eFhaRmowTlVkNWxoeDZfOV8tNnJ6QjhMaVhBTkFTcXlMVHd4WFJVd016X01uWnAyQmIwdlBZY1RmZGxVMXo0SzZfa9IBtgFBVV95cUxONVR0d01ZcHhSV2hQQ3ZHdGFMUlB5RUFXdGw0SmZrMVZ0UF9aZ2JGQ1hWWFJaMk1hWWhpblRtNUJLaExaMzZEVi1YUXhBdWQ3Ri1YelpHQmFob1NyMGl3MDZaNHZhbjBtN3g2SkRNcVd2X2dUZUEydE9xcmJsNnFOc1MzMm9XQ25vSF9pNmprb0RxVkZoRUp2Y09jRkVWNGxzanpyaWxYeVlJOU1ndk5pcGl2MXZwUQ?oc=5",
-          "title": "Are YOU cool? Scientists reveal the six attributes that mean you fit the description",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeElWM2RiNEljMXo1VTlBQzVZV0tPS3FWTUx5Qk42S3ZWVkRfSWVnU1ltV3V0UllmdG9GTXM5MWkweDV0YzNyQnI5SWZKUzRCNWJ5R2ZIMDQ4XzlDd2l4S2pQZ2hYVldZc1pHekpvaUxObUtBQmxMMTFSMFhmMTZ0XzhfQVE4QzdxcEFWTTVzMjNLMlJJODhjNmZyTUE?oc=5",
+          "title": "Why Rob McElhenney is filing to legally change his name",
+          "publisher": "The Independent"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWXFfTGtJRjluUTRYSXVTd1ZhQmVFbkV6NnZpR2VmWkNUWDJHZnhOXzhYZ1ZlVU5zVU9ERzJEQkIzOFpZYURsMUxoU2o2ZXc5aDNsdlNTNjgzaXQ1QnBxU3pUQ2pOTUY3djFxX1daLTI5Q24zbVVMNzFaUWNOTlFjYjVqRDdwV2RCZ3JtOWdvcTRKa0c2dlUza2tNcjI3YldhMWtkOGpR?oc=5",
+          "title": "Why It's Always Sunny Star Rob McElhenney Is Legally Changing His Last Name",
+          "publisher": "IGN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY25HVWhUZzB2RzBhdzBlQS16VE9zeC1Wd3JtRGJvVGlXM2hMSUZlYXdyRV9JeXl5RWdsbmlfeTI0SmlLYmx5bUpCcG5Cc19CN1c0ZXdtR2dBeVgxR1RjM0l4Zm1FbGZNUHFTcWEtTUFQcklXd2lJQjlHUmgteWtDcGVR?oc=5",
+          "title": "Rob McElhenney has changed his name to ‘Rob Mac’",
+          "publisher": "Inquirer.com"
+        }
+      ]
+    },
+    {
+      "title": "Cori-Steel Cutter, Abuelo's Awakening, Monstrous Rage and More Included in Largest Standard Banning Since Affinity - Hipsters of the Coast",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iY1ZaSExQSzgyNVI4QmRTLWhSci1ZQmxyRXFoa2tzSVJ3Vy1PWUR4TlNZcGZqaXhrRFY2X28tejJWQ204X1Y0TU9sRHVvOGdPNzFLQ1FWVQ?oc=5",
+      "published": "Mon, 30 Jun 2025 15:57:21 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        30,
+        15,
+        57,
+        21,
+        0,
+        181,
+        0
+      ],
+      "source": "Hipsters of the Coast",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iY1ZaSExQSzgyNVI4QmRTLWhSci1ZQmxyRXFoa2tzSVJ3Vy1PWUR4TlNZcGZqaXhrRFY2X28tejJWQ204X1Y0TU9sRHVvOGdPNzFLQ1FWVQ?oc=5",
+          "title": "Cori-Steel Cutter, Abuelo's Awakening, Monstrous Rage and More Included in Largest Standard Banning Since Affinity",
+          "publisher": "Hipsters of the Coast"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CRjczWkxmNmlCdnl0NUpxLVF2dTAzOEtwRTk2U3VqTGNGeTVHSXJDR0NHVWxmaUotbXE0eENkaklWTG40WmZJbVNaOFAtdm5sdWVLZkgtME9GcUFUQTlOSUYySTBBVFdpQlBnLXR5bEpCMkF3NGU2QlRR?oc=5",
+          "title": "MTG Arena Announcements – June 23, 2025",
+          "publisher": "Magic: The Gathering"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd21IN0NTbDc2Y045Zmg4bmxBZnpOdEVIVHVJc3NuaHo2NFM0MVVwU2dJZ0c3bjNEdnVVeVFzVnNsRm5fNkw5UVgtdnZNa0lrU2FuSl9VUUZVb2RPeVZSVmYwREx1NkZsdGU4Z2xpeXJPLXhjNGFXMFV5cWtPYTB6cTVXODhHV2FsOWpRRGYtelBueVBKdElqeUVWZjQ4OUk5TU44?oc=5",
+          "title": "SEVEN CARDS GET BANNED IN 'MAGIC: THE GATHERING'S' STANDARD FORMAT",
+          "publisher": "ICv2"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpSDViSndHUGVSLUZCa2J4dkt4Y0ZfLV9SNjg0d0gxOTBqLUV5UzBmRUEwU3RhMU5Pam4wc3RnYmhVdmZ5dHVxSkJKS2JJYTNMTmNELUIxQ2tXeEpmd3k1ZGx4TVVPdUVqNXZJc1BvR1d5bnVkSEdlcHNR?oc=5",
+          "title": "Impact of Standard Ban Announcement – June 30, 2025",
+          "publisher": "MTG Arena Zone"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWZYTVk5dUcxOWlUdFdwY3JnSTA2QkFHYUREQTVFb1RnRmN5Y21QTXpXS191bGdLdEdvZWxaVERPZkRPVzJscFJYUFFJRl81R2NTTDJNejV3WWJFSC02dVc3VmlvOGc2M2lXMk9XTzhoQUZFNmtBSk54dHJHclUzbnlDcmFzdnZkYzVISVl6dkliRDQ5Ml9ZYVlnaGJZOWFldGpTR2c5aTFEUQ?oc=5",
+          "title": "Seven Cards Banned In Standard In Latest B&R Update",
+          "publisher": "Star City Games"
+        }
+      ]
+    },
+    {
+      "title": "Sydney Sweeney & Orlando Bloom Stroll Through Venice After Jeff Bezos’ Wedding - Reality Tea",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcmxYc203aVg4am1qM0JzU2hlaEpiYWl0TGZTYnJhQk5YTTI4Tk1LRXVZZjdheTlQTkdfbHNucXBPckNRa0lvS2xVdkd2aGpfdk5VLVFSVjJfR0t3SU9fNmdyeDhBbGR4ODljWlh1ckhmejJLN3VWbWZtZG1NTmZlSDFBNHN0QTJxS1BzZFVyXzVsZklIT2RwYtIBngFBVV95cUxNbEoxN3FhZ0JmbW90dTE4LXM5R3g0RkI1SFllOF9BMVF2OHBFRHR6OFZDbGNpUVFPNFFoMHFSOWtHYmdJQlhZa0w3STZwT25vTFoxdVZJM0VIcWxyN3JPT2R5aDAxOGZzNl9XOTAxMExJUTFUOUs3NU5qWlM1RG9FZ0lscDdTOEV4bjBtUEtabEFsTVo2Y3dxRng4RC1JQQ?oc=5",
+      "published": "Mon, 30 Jun 2025 10:10:04 GMT",
+      "published_parsed": [
+        2025,
+        6,
+        30,
+        10,
+        10,
+        4,
+        0,
+        181,
+        0
+      ],
+      "source": "Reality Tea",
+      "sub_articles": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcmxYc203aVg4am1qM0JzU2hlaEpiYWl0TGZTYnJhQk5YTTI4Tk1LRXVZZjdheTlQTkdfbHNucXBPckNRa0lvS2xVdkd2aGpfdk5VLVFSVjJfR0t3SU9fNmdyeDhBbGR4ODljWlh1ckhmejJLN3VWbWZtZG1NTmZlSDFBNHN0QTJxS1BzZFVyXzVsZklIT2RwYtIBngFBVV95cUxNbEoxN3FhZ0JmbW90dTE4LXM5R3g0RkI1SFllOF9BMVF2OHBFRHR6OFZDbGNpUVFPNFFoMHFSOWtHYmdJQlhZa0w3STZwT25vTFoxdVZJM0VIcWxyN3JPT2R5aDAxOGZzNl9XOTAxMExJUTFUOUs3NU5qWlM1RG9FZ0lscDdTOEV4bjBtUEtabEFsTVo2Y3dxRng4RC1JQQ?oc=5",
+          "title": "Sydney Sweeney & Orlando Bloom Stroll Through Venice After Jeff Bezos’ Wedding",
+          "publisher": "Reality Tea"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wS2xnRF9MZmpkZWdONFlpUXdzX1RjYjN6NlhEVEh5bzZoUzhCQU9ycjlPcWFINWdtMmRUYVVKODFNQUFON3A0NENBWU5ua1FoNFFsSkdEMXdEZGpQcDFrTkJKY2xpZW9ESEVocXltMV93aW1adGxPNDFB0gF_QVVfeXFMTXltWndFWnpuRFpybkNSa3NxWXBmRU4tRWdEWHhzZ25sdV90b21LZ2dzNzQ4X0tlN0htWlpZTnNLZmJhQ2trS0tTQUQ5Z01VUW1FTGxtM0JXMl9ZenZFdTEtSHJYN256YTNiNGtxM1pjcnBXWWlNYWVXd3NvbTNuOA?oc=5",
+          "title": "Jeff Bezos and Lauren Sanchez wrap up three-day Venice wedding extravaganza",
+          "publisher": "CNN"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSnlvQTNITmdoYnFXUGc1Z21scFRQZE5xckNGMFhnOUo5czJ0eno3RTZWTEJuVWhmdWV1enVTM1ZmTEx0b1ByNTNPX2F3ck1JcFFWYlZKeGdCS0h4YWtjOVFGRVJXQUZ1VXI2VmU5UXVsd2JhNXkxYTdwLV9NMVlMQVlkWTZhSjl5VGgydlJsNHdzVWU3WG5LdHRPb2dnaEkyZFlscDE0SEI1bTRnclktTmh1T1E?oc=5",
+          "title": "Sydney Sweeney pretty in pink for Jeff Bezos, Lauren Sánchez Bezos wedding",
+          "publisher": "USA Today"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNWo2YkV3NXk0cE9RZm8ySFpEMnVJOUkxV3NZZTJSdFVtNlJ5ODh2WkdOTk1xTGZRSUJWNnJTOEVHLUhDOEFSektsS2JlbkgzNGE3aEtQcGxROHJFZkJWc0FOSUVmVGpabHFuSG9sV0t5ZUYwLW9GdGdFY0gtcmI3ck9YLUMwbjV6a0JtbDZTV1V2SlJkUkJLbWZIckVxNFdDRDBZN05zLVZwekRpRE9mS0gyanJaQnlHT1A5al9sTENiV1RmNVBZaUN5MzAwd9IB0wFBVV95cUxQQXlNYmEyMkk4a1RyT0JYbGxGU1gtV1c2azFEa1ZDekhUWTRybm9ES0dDSlhselNqcVJ1RjFhZTJpUGxvZWZDWG1pbjlDNFlMWFEwWnNpeUlCcEJkbVduLWlfekpycFFlcFZ4SkxKbHJMN3dwcmFPWGhtZXk4N3pGRl9yNUtMaTFuQlpUVGpPakFqTW0waE9rc01BMk9felI2QXhNT2FOVzBtSmpZdjR3akNTdkRSODNFRU11RUJvYm5kMzl2VnZZMFZLUlVGY053a3lZ?oc=5",
+          "title": "Tom Brady and Sydney Sweeney fuel romance buzz after 'dancing til 2am' at Bezos wedding blowout",
           "publisher": "Daily Mail"
         },
         {
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR2x4aGhzbm1FS0JxaG5aQmgtdzNtOTRhNkFlSHEwUkFSel93cXJvQ1hORjM3YVlhNFVGOF9ZZUl3eWx0MS1EMUxyUjU1cGxRS2E1c0EtS21Vdzk3c2VwMjEwWjVFNVl4QlNGaFVQVVJXWHBUNWVTa0FEWUppYXZQbDdCc1UwNnhuTWdfZDNjOVc?oc=5",
-          "title": "Cool is cool wherever you are",
-          "publisher": "American Psychological Association (APA)"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MSGdRSDczTTE4S09hMklfN3lQeVlSRThXQU5zODc3MnVCREZhV1B2NTFTa2daR25sNFU5WHJ1bEtLYndJdVdUNjFtQTZPYjRLWHVvSEUyTEt0WjAtU2ZKZw?oc=5",
-          "title": "The 6 Universal Traits Of ‘Coolness,’ No Matter Where You Are In The World",
-          "publisher": "Study Finds"
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM3N4OGJUUk1OSlg3YXNhTlE1X0lDenMzd0ZNcVpsRGJkeTNfb29JaFVMdjRramItenozcUd4V3Bha1MxU3IzRk1OWXlyWEU0NDRWd0ZnSXp5cnFJZ3NpNXg1d0RWbUl3RS03ckZ2em9IWWRuM3k2bTRYeWZacHVYTXBGTHR2NjF1N3BhZlpaUlNjNGlRS045Rm9GelE0RVB4cDhUQ2dBWjhtckl5RlFvNnR1cmxHSFlkTDJWcXdmdWxYV1NMX0swZzdsc29RR1VKQVZ3?oc=5",
+          "title": "Tom Brady and Sydney Sweeney dance together at Lauren Sánchez, Jeff Bezos' wedding reception",
+          "publisher": "Page Six"
         }
       ]
     }
