@@ -1,63 +1,108 @@
 {
   "metadata": {
     "source_file": "data/news_tech.json",
-    "generation_time": "2025-06-30 19:26:53",
+    "generation_time": "2025-07-01 03:55:18",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "5ed5c63c5d89ad2033740950ddd7ef65",
-      "title": "New MacBook With A18 Pro Chip Spotted in Apple Code - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2025/06/30/new-macbook-with-a18-chip-spotted/",
-      "image_url": "https://images.macrumors.com/t/zGNmiiqRcFDiX80_YNpZGFhYMhY=/1600x/article-new/2024/09/A18-Pro-Chip.jpg",
-      "summary": "iOS 26macOS Tahoe 26iPadOS 26iPhone 17iPhone 17 AiriPhone 17 ProiPhone 16eiPhone 16iPhone 16 ProMacBook ProiOS 18Apple Vision ProiMacMac miniiPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Pro Display XDRApple Watch Ultra 2HomePod miniMac ProMacBook AiriPadiPhone 15AirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch 10Apple Watch SEMac StudioiPad Air iPad miniiPhone 18CarPlayApple PaywatchOS 26 New MacBook With A18 Pro Chip Spotted in...",
-      "published": "Mon, 30 Jun 2025 15:05:12 GMT"
-    },
-    {
-      "id": "a426a49f327eeb6e3d4582db7d4af7ed",
-      "title": "Latest Galaxy S25 One UI 8 beta has some cool new AI tricks - SamMobile",
-      "source": "SamMobile",
-      "url": "https://www.sammobile.com/news/latest-galaxy-s25-one-ui-8-beta-has-some-cool-new-ai-tricks/",
-      "image_url": "https://www.sammobile.com/wp-content/uploads/2025/04/Galaxy-S25-Plus-Now-Brief-1-1200x675.jpg",
-      "summary": "Reserve the next Galaxy, Get a $50 Samsung Credit. New deals, S25 Ultra, Watch Ultra. Last updated: June 30th, 2025 at 13:23 UTC+02:00 SamMobile has affiliate and sponsored partnerships, we may earn a commission. Latest Galaxy S25 One UI 8 beta has some cool new AI tricks One UI 8 brings some new features for Now Brief. Samsung started rolling...",
-      "published": "Mon, 30 Jun 2025 11:23:00 GMT"
-    },
-    {
-      "id": "bdac35a6d465d344c1fb547a3220cbff",
-      "title": "Galaxy Z Fold 7 and Flip 7 leak reveals a few enticing new tidbits - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2025/06/29/galaxy-z-fold-7-flip-7-specs-leak-tidbits/",
-      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/galaxy-z-fold-7-teaser-launch-event-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "summary": "Galaxy Z Fold 7 and Flip 7 leak reveals a few enticing new tidbits A ton of leaks have detailed many of the new updates to Samsung’s Galaxy Z Fold 7 and Flip 7, but there are still some details that haven’t yet come to light. In a new post, though, we’re getting a few new Galaxy Z Fold 7...",
-      "published": "Sun, 29 Jun 2025 18:05:00 GMT"
-    },
-    {
-      "id": "756a54687eb13b8d95ade79ca7e2aad3",
-      "title": "Got a Galaxy phone? Samsung says you should turn on these security features now! - Android Authority",
-      "source": "Android Authority",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVNJUzBObU5kN2ZMU2YtYnB6b05EMHFWUHVBUFQtNlowWUJNZW5rMUppNmMwTWZwSDZoXzRBWEJWV25LUWs0QkE3N1VLdkpTQU5hRl9xZ3EzNUlYN0ZoeWVqWHkwS1dRa2JGbHNJV3VoVk9TbzZhTDZCVTNsX3JJSmQtZlk?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "id": "e05be0b10d7f1c234ed5d3df461cafa4",
+      "title": "Apple weighs using Anthropic or OpenAI to power Siri in major reversal, Bloomberg News reports - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/apple-weighs-using-anthropic-or-openai-power-siri-major-reversal-bloomberg-news-2025-06-30/",
+      "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 08:33:53 GMT"
+      "published": "Mon, 30 Jun 2025 20:26:32 GMT"
     },
     {
-      "id": "53a3374bdfe70e413ae2b5e574e72893",
-      "title": "One UI 8 Watch beta update is finally rolling out - SamMobile",
-      "source": "SamMobile",
-      "url": "https://www.sammobile.com/news/one-ui-8-watch-beta-program-starts/",
-      "image_url": "https://www.sammobile.com/wp-content/uploads/2025/03/Galaxy-Watch-Ultra-watch-face-1200x675.jpg",
-      "summary": "Reserve the next Galaxy, Get a $50 Samsung Credit. New deals, S25 Ultra, Watch Ultra. Last updated: June 30th, 2025 at 09:33 UTC+02:00 SamMobile has affiliate and sponsored partnerships, we may earn a commission. One UI 8 Watch beta update is finally rolling out The update will be available in South Korea and the USA. A couple of weeks ago,...",
-      "published": "Mon, 30 Jun 2025 07:33:00 GMT"
-    },
-    {
-      "id": "8eb242d700898a2c5418c42b17e71743",
-      "title": "Apple Music launching Replay All Time, revealing your most streamed music ever - 9to5Mac",
+      "id": "0d71592e6ce7edccd7e36940e2963d36",
+      "title": "iOS 18.6 beta 2 and more now available, here’s what to expect - 9to5Mac",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2025/06/30/apple-music-launching-replay-all-time-revealing-your-most-streamed-music-ever/",
-      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/apple-music-replay-all-time.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "summary": "Apple Music launching Replay All Time, revealing your most streamed music ever Apple Music celebrates 10 years today since its June 30, 2015 launch. To mark the occasion, Apple has announced several new initiatives, including a ‘Replay All Time’ playlist where users can see their most streamed music since joining Apple Music, plus a new top 500 countdown, an LA-based...",
-      "published": "Mon, 30 Jun 2025 13:20:00 GMT"
+      "url": "https://9to5mac.com/2025/06/30/ios-18-6-beta-2-and-more-now-available-heres-what-to-expect/",
+      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iOS-18.6-hero-b2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "iOS 18.6 beta 2 and more now available, here’s what to expect Apple has just released iOS 18. 6 beta 2 to developers, alongside companion updates like macOS Sequoia 15. 6 and more. Here’s what to expect. Apple offering two beta cycles this summer, including iOS 18. 6 It’s rare for Apple to offer multiple different beta cycles for its...",
+      "published": "Mon, 30 Jun 2025 17:07:00 GMT"
+    },
+    {
+      "id": "72efbf5ba5938f7aee74426437ddee6f",
+      "title": "Google embraces AI in the classroom with new Gemini tools for educators, chatbots for students, and more - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/06/30/google-embraces-ai-in-the-classroom-with-new-gemini-tools-for-educators-chatbots-for-students-and-more/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/03/students-typing-on-laptops-GettyImages_1513744777.jpeg?resize=1200,800",
+      "summary": "Google embraces AI in the classroom with new Gemini tools for educators, chatbots for students, and more Google on Monday announced a series of updates intended to bring its Gemini AI and other AI-powered tools deeper into the classroom. At the ISTE edtech conference, the tech giant introduced more than 30 AI tools for educators, a version of the Gemini...",
+      "published": "Mon, 30 Jun 2025 16:44:28 GMT"
+    },
+    {
+      "id": "da26f3d8c42ef748f0df417b2b0ba6dc",
+      "title": "Apple iPhone 17: Key Design Upgrade Promised In New Leak - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidphelan/2025/06/30/apple-iphone-17-key-design-upgrade-promised-in-new-leak/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/66f2c3550929c8844b211fdb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "summary": "TCL D2 Pro Smart Lock Lets You Open Your Door ‘Like Iron Man’ Govee’s New Floor Lamps Are Made To Light Up The Quietest Corners Govee Goes Big On Design For New Smart Lamp Line-Up How Smart Glasses Could Redefine Personal Computing—Again Apple iPhone 17: Key Design Upgrade Promised In New Leak",
+      "published": "Mon, 30 Jun 2025 18:17:07 GMT"
+    },
+    {
+      "id": "2ca9128e8e4307afde84ba2e1b5ac6de",
+      "title": "NVIDIA GeForce RTX 5070 SUPER reportedly features 6400 CUDA cores and 18GB memory - VideoCardz.com",
+      "source": "VideoCardz.com",
+      "url": "https://videocardz.com/newz/nvidia-geforce-rtx-5070-super-reportedly-features-6400-cuda-cores-and-18gb-memory",
+      "image_url": null,
+      "summary": "Verify you are human by completing the action below. videocardz. com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sun, 29 Jun 2025 06:27:00 GMT"
+    },
+    {
+      "id": "51aca00e4861f2f5a7b03027bcd7f56a",
+      "title": "Analyst: M5 Vision Pro, Vision Air, and smart glasses coming in 2026–2028 - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2025/06/apple-will-introduce-vision-air-and-smart-glasses-in-2027-analyst-projects/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Vision-Pro-HMD-1152x648.jpeg",
+      "summary": "Analyst: M5 Vision Pro, Vision Air, and smart glasses coming in 2026–2028 Apple analyst Ming-Chi Quo lays out a whole roadmap for Apple XR devices. A close-up look at the Vision Pro from the front. Credit: Samuel Axon Apple's Vision Pro hasn't made huge waves in the market, partly due to its steep price and \"everything including the kitchen sink\"...",
+      "published": "Mon, 30 Jun 2025 21:24:19 GMT"
+    },
+    {
+      "id": "21e921db85fd88b585f8e3e0d3b6d09a",
+      "title": "Change This Setting to Stop Meta From Using Your Facebook Photos to Train Its AI - Lifehacker",
+      "source": "Lifehacker",
+      "url": "https://lifehacker.com/tech/change-meta-ai-photo-permissions-setting",
+      "image_url": "https://lifehacker.com/imagery/articles/01JYZ9R5TNZHNZ6VGPQYARCF4K/hero-image.fill.size_1200x675.jpg",
+      "summary": "View our Bluesky Page (Opens in a new tab) View our Instagram Page (Opens in a new tab) View on Facebook Page (Opens in a new tab) View our Youtube Page (Opens in a new tab) View our Twitter Page (Opens in a new tab) Change This Setting to Stop Meta From Using Your Facebook Photos to Train Its AI...",
+      "published": "Mon, 30 Jun 2025 13:00:00 GMT"
+    },
+    {
+      "id": "c73bb825aec385a06e57d1b5a9576db3",
+      "title": "The Nintendo Switch 2 will be available in-store at Best Buy on July 1st - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/695273/nintendo-switch-2-in-store-restock-best-buy",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0395_588c1a.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "The Nintendo Switch 2 will be available in-store at Best Buy on July 1stSeveral Best Buy locations across a whopping 45 US states will be participating. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Photo: Amelia Holowaty Krales / The Verge Brandon Russell is a commerce writer covering deals and...",
+      "published": "Mon, 30 Jun 2025 20:13:59 GMT"
+    },
+    {
+      "id": "67ec5b1e6d40b2fef551d55fd470f8fc",
+      "title": "Apple Music celebrates 10 years with the launch of a new global hub for artists - Apple",
+      "source": "Apple",
+      "url": "https://www.apple.com/newsroom/2025/06/apple-music-celebrates-10-years-with-the-launch-of-a-new-global-hub-for-artists/",
+      "image_url": "https://www.apple.com/newsroom/images/2025/06/apple-music-celebrates-10-years-with-the-launch-of-a-new-global-hub-for-artists/tile/Apple-Music-10th-anniversary-Los-Angeles-studio-lp.jpg.og.jpg?202506301300",
+      "summary": "Apple Music celebrates 10 years with the launch of a new global hub for artists designed to foster creativity and connection Tune in to Apple Music Radio for a broadcast celebration with hosts Zane Lowe, Ebro Darden, and special guests as they reminisce about their favorite moments from the past 10 years while looking toward the future CULVER CITY, CALIFORNIA...",
+      "published": "Mon, 30 Jun 2025 13:01:02 GMT"
+    },
+    {
+      "id": "609154328e6657f5d9d8a2a3646173a1",
+      "title": "Best Buy’s 4th of July sale takes up to half off tech, TVs, appliances and mowers - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/cnn-underscored/deals/best-buy-4th-of-july-sale-2025-06-30",
+      "image_url": null,
+      "summary": "Press & Hold to confirm you are Reference ID f5362e6a-562e-11f0-b5f0-037709c5ef91",
+      "published": "Mon, 30 Jun 2025 18:23:00 GMT"
+    },
+    {
+      "id": "a506c23239fc4b154398c6f0ddd79096",
+      "title": "Road to HaloWC 2025: June | Halo - Official Site (en) - Halo Waypoint",
+      "source": "Halo Waypoint",
+      "url": "https://www.halowaypoint.com/news/halowc25-june",
+      "image_url": "https://wpassets.halowaypoint.com/wp-content/2025/06/halowc25-june.png",
+      "summary": ".st0{fill:#EBEBEB;} . st1{fill:url(#SVGID_1_);} . st2{fill:#C8C8C8;} In this blog series, we’re posting new Halo World Championship 2025 updates every month, and today we’ve got another jam-packed blog. For those who missed the first two, links are below for you to peruse: First off, we want to give a HUGE thank you to everyone who has already secured their HaloWC tickets, especially...",
+      "published": "Mon, 30 Jun 2025 17:48:49 GMT"
     },
     {
       "id": "ea6a69d2a96c4249ae1168601c0a87d5",
@@ -69,13 +114,67 @@
       "published": "Mon, 30 Jun 2025 12:24:00 GMT"
     },
     {
-      "id": "94af1a53c601db47e1a5993249953dfb",
-      "title": "Nintendo Switch Pricing Update - Newswire Canada",
-      "source": "Newswire Canada",
-      "url": "https://www.newswire.ca/news-releases/nintendo-switch-pricing-update-892304996.html",
-      "image_url": "https://mma.prnewswire.com/media/2720198/Nintendo_of_Canada_Ltd__Nintendo_Switch_Pricing_Update.jpg?p=facebook",
-      "summary": "VANCOUVER, BC, June 30, 2025 /CNW/ - Pricing for the original Nintendo Switch family of systems and products in Canada will change based on market conditions. These include Nintendo Switch - OLED Model, Nintendo Switch, Nintendo Switch Lite, physical and digital Nintendo Switch games and Nintendo Switch accessories. Other Nintendo products, including amiibo and Nintendo Switch Online memberships will also...",
-      "published": "Mon, 30 Jun 2025 16:08:00 GMT"
+      "id": "4fb99265e49f2bf67a7a21d71f0b4eb5",
+      "title": "Original Switch Getting Mysterious 'Price Change' In Canada 8 Years After Launch As Gaming Gets More Expensive - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/nintendo-switch-price-cut-canada-ps-plus-game-pass-1851785360",
+      "image_url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d749c74f88a751335720c053063dca94.png",
+      "summary": "Original Switch Getting Mysterious 'Price Change' In Canada 8 Years After Launch As Gaming Gets More Expensive The Zelda: Breath of the Wild machine never got a price cut The Switch launched in 2017 for $300. It’s now 2025 and it’s still $300. Will it finally get a price cut like every other Nintendo console has had at some point...",
+      "published": "Mon, 30 Jun 2025 18:45:00 GMT"
+    },
+    {
+      "id": "756a54687eb13b8d95ade79ca7e2aad3",
+      "title": "Got a Galaxy phone? Samsung says you should turn on these security features now! - Android Authority",
+      "source": "Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVNJUzBObU5kN2ZMU2YtYnB6b05EMHFWUHVBUFQtNlowWUJNZW5rMUppNmMwTWZwSDZoXzRBWEJWV25LUWs0QkE3N1VLdkpTQU5hRl9xZ3EzNUlYN0ZoeWVqWHkwS1dRa2JGbHNJV3VoVk9TbzZhTDZCVTNsX3JJSmQtZlk?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 08:35:16 GMT"
+    },
+    {
+      "id": "ded37ef65179ce4dfa7d6d58415bc951",
+      "title": "$126M Fortnite class action settlement - Class Action Lawsuits",
+      "source": "Class Action Lawsuits",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/126m-fortnite-class-action-settlement/",
+      "image_url": "https://topclassactions.com/wp-content/uploads/2024/07/AD_4nXeWtB3Qx2Vw_Nvg8EVQPLSGe1ys0ayyFG9L5VFSc2fSTV4wUs8t5pwDa3l19oig2dyUYV4sBe0RQEzvv4xwM_o4YIwcgtvP6D927L2ZoOL2-MqXyVidR4DHjB2w5avARDMCyD5kCg-E4MWh8.jpeg.webp",
+      "summary": "$126M Fortnite class action settlement Edited by: Top class Actions  |  June 30, 2025 (Photo Credit: Nikola Fific/Shutterstock) Epic Games agreed to pay a settlement to resolve Federal Trade Commission (FTC) allegations it unlawfully charged Fortnite players for unwanted in-game purchases. The Fortnite class action settlement benefits Fortnite players who were charged in-game currency for unwanted items between January 2017...",
+      "published": "Mon, 30 Jun 2025 18:35:44 GMT"
+    },
+    {
+      "id": "799ba115574a9d3bbaf9b70135f82d81",
+      "title": "The Alters Developer Confirms It Used Generative AI Text and Translations, Promises Updates - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/the-alters-developer-confirms-it-used-generative-ai-text-and-translations-promises-updates",
+      "image_url": "https://assets-prd.ignimgs.com/2025/06/11/altersthumb-1749651504385.png?width=1280",
+      "summary": "The Alters Developer Confirms It Used Generative AI Text and Translations, Promises Updates \"AI-generated assets were used strictly as temporary WIPs\" The Alters developer 11 Bit Studios has responded to fan accusations it used generative AI text and translation in the game, and has promised an update to both to replace the AI-generated content with handcrafted assets. Last week, players...",
+      "published": "Mon, 30 Jun 2025 18:37:51 GMT"
+    },
+    {
+      "id": "d4bab56e2aac2a28a4deaabf7ac4f3f8",
+      "title": "A Cancelled 'Animaniacs' GBA Game Has Been Rediscovered, And You Can Play It Now - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2025/06/a-cancelled-animaniacs-gba-game-has-been-rediscovered-and-you-can-play-it-now",
+      "image_url": "https://images.nintendolife.com/71c8225a059ab/large.jpg",
+      "summary": "Retro News Reviews Features Games Guides Videos Forums Better eShop A Cancelled 'Animaniacs' GBA Game Has Been Rediscovered, And You Can Play It Now by Alana Hagues Yesterday, 8:15pm If you were a kid who grew up in the '90s, you've probably watched more than a handful of episodes of Animaniacs. The Warner Bros. -produced cartoon ran from 1993 to...",
+      "published": "Mon, 30 Jun 2025 20:15:00 GMT"
+    },
+    {
+      "id": "c5bbacc354c463070b4f7090329d6000",
+      "title": "Xbox Brings Another Call Of Duty To Game Pass Today (June 30) - Pure Xbox",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2025/06/xbox-brings-another-call-of-duty-to-game-pass-today-june-30",
+      "image_url": "https://images.purexbox.com/40bcac15c9aad/large.jpg",
+      "summary": "News Reviews Features Games Guides Videos Forums Search NewsXboxCall of Duty: WWIIXbox Game PassXbox OneXbox Series XXbox Series S Xbox Brings Another Call Of Duty To Game Pass Today (June 30) Welcome to your final Xbox Game Pass update for June 2025! Today, we have just the one new title coming to the library - although it's a fairly big...",
+      "published": "Mon, 30 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "id": "11a6a2cff80a2309b2765455e8e423cf",
+      "title": "Xbox \"Has No Desire\" To Make Hardware Anymore, Founding Team Member Says - GameSpot",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/xbox-has-no-desire-to-make-hardware-anymore-founding-team-member-says/1100-6532825/",
+      "image_url": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4523346-xboxlogo.jpg",
+      "summary": "EA College Basketball Returning GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links. Xbox \"Has No Desire\" To Make Hardware Anymore, Founding Team Member Says Xbox team co-founder Laura Fryer thinks Microsoft is exiting the hardware business. By Blair Marnell on June 30, 2025 at 7:26AM PDT Get the latest gaming...",
+      "published": "Mon, 30 Jun 2025 15:26:01 GMT"
     },
     {
       "id": "cc3095079c59b00e7e179c7e8050d66a",
@@ -85,105 +184,6 @@
       "image_url": "https://www.quantamagazine.org/wp-content/uploads/2025/06/TheoryofCreativity-crAdrianAstorgano-Social.jpg",
       "summary": "Researchers Uncover Hidden Ingredients Behind AI Creativity Image generators are designed to mimic their training data, so where does their apparent creativity come from? A recent study suggests that it’s an inevitable by-product of their architecture. Adrián Astorgano for Quanta Magazine We were once promised self-driving cars and robot maids. Instead, we’ve seen the rise of artificial intelligence systems that...",
       "published": "Mon, 30 Jun 2025 14:04:18 GMT"
-    },
-    {
-      "id": "770f042e59fd0d0cf77af54996105fba",
-      "title": "Former Blizzard president and Xbox exec says Xbox needs to ‘pick their lane and stick to it’ - Video Games Chronicle",
-      "source": "Video Games Chronicle",
-      "url": "https://www.videogameschronicle.com/news/former-blizzard-president-and-xbox-exec-says-xbox-needs-to-pick-their-lane-and-stick-to-it/",
-      "image_url": "https://www.videogameschronicle.com/files/2024/07/Image-from-iOS-1-2560x1920.jpg",
-      "summary": ".cls-1{fill:url(#linear-gradient)}. cls-2{fill:#fff} GO AD-FREE! Support VGC on Patreon Former Blizzard president and Xbox exec says Xbox needs to ‘pick their lane and stick to it’ Former Blizzard president Mike Ybarra says Xbox should decide what its identity should be going forwards, instead of trying to be a jack of all trades. Ybarra, who served various roles at Microsoft for 20...",
-      "published": "Mon, 30 Jun 2025 11:43:03 GMT"
-    },
-    {
-      "id": "a506c23239fc4b154398c6f0ddd79096",
-      "title": "Road to HaloWC 2025: June | Halo - Official Site (en) - Halo Waypoint",
-      "source": "Halo Waypoint",
-      "url": "https://www.halowaypoint.com/news/halowc25-june",
-      "image_url": "https://wpassets.halowaypoint.com/wp-content/2025/06/halowc25-june.png",
-      "summary": ".st0{fill:#EBEBEB;} . st1{fill:url(#SVGID_1_);} . st2{fill:#C8C8C8;} In this blog series, we’re posting new Halo World Championship 2025 updates every month, and today we’ve got another jam-packed blog. For those who missed the first two, links are below for you to peruse: First off, we want to give a HUGE thank you to everyone who has already secured their HaloWC tickets, especially...",
-      "published": "Mon, 30 Jun 2025 17:14:53 GMT"
-    },
-    {
-      "id": "f7b698dbe175e8f4628e22219935fc19",
-      "title": "Space is hard. There is no excuse for pretending it’s easy. - SpaceNews",
-      "source": "SpaceNews",
-      "url": "https://spacenews.com/space-is-hard-there-is-no-excuse-for-pretending-its-easy/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/starship-ship-flt9.jpeg?fit=2050%2C1153&quality=89&ssl=1",
-      "summary": "Covering the business and politics of space Space is hard. There is no excuse for pretending it’s easy. A SpaceX Starship upper stage, or ship, being prepared for an earlier test flight. The ship for the tenth test flight exploded during ground tests June 19. Credit: SpaceX The headlines in the space industry over the past month have delivered a...",
-      "published": "Mon, 30 Jun 2025 13:00:00 GMT"
-    },
-    {
-      "id": "4cb5e8c0e5bb9f0a8ac666fb9d7eb2c9",
-      "title": "Urgent warning for homeowners: Why you should blur your house on Google Maps - and how to do it - Daily Mail",
-      "source": "Daily Mail",
-      "url": "https://www.dailymail.co.uk/sciencetech/article-14860393/Urgent-warning-blur-house-Google-Maps.html",
-      "image_url": "https://i.dailymail.co.uk/1s/2025/06/30/11/99853401-0-image-m-24_1751280287626.jpg",
-      "summary": "Urgent warning for homeowners: Why you should blur your house on Google Maps - and how to do it READ MORE:  How safe is YOUR smart device? Experts warn of hacking risk By XANTHA LEATHAM, EXECUTIVE SCIENCE EDITOR PUBLISHED: 06:55 EDT, 30 June 2025 | UPDATED: 08:27 EDT, 30 June 2025 People will go to all sorts of lengths to...",
-      "published": "Mon, 30 Jun 2025 10:55:43 GMT"
-    },
-    {
-      "id": "1b4354b2d37a1cd2dac1f56ce3aed6c3",
-      "title": "Xbox Game Pass: All Games Coming Soon In July 2025 - Pure Xbox",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/guides/xbox-game-pass-all-games-coming-soon-in-july-2025",
-      "image_url": "https://images.purexbox.com/10c3589621e70/large.jpg",
-      "summary": "News Reviews Features Games Guides Videos Forums Search XboxXbox Game PassGuidesJuly 2025 Xbox Game Pass: All Games Coming Soon In July 2025 All the confirmed reveals so far Looking for a complete list of games coming to Xbox Game Pass in July 2025? It can be pretty difficult to keep track of all the comings and goings in the world...",
-      "published": "Mon, 30 Jun 2025 13:25:05 GMT"
-    },
-    {
-      "id": "ed9d08b2f1068e9fe6b99817adb56c59",
-      "title": "On this date 18 years ago, the world was changed forever - PhoneArena",
-      "source": "PhoneArena",
-      "url": "https://www.phonearena.com/news/the-world-changed-big-time-18-years-ago-today_id171800",
-      "image_url": "https://m-cdn.phonearena.com/images/article/171800-wide-two_1200/On-this-date-18-years-ago-the-world-was-changed-forever.jpg",
-      "summary": "Reserves open for the new Samsung phones! On this date 18 years ago, the world was changed forever It was 18 years ago today when the release of a new product changed the entire world. Today is June 29th which probably means nothing to you. But if you are a long-time smartphone fanatic, this date is very important. On June...",
-      "published": "Sun, 29 Jun 2025 19:35:42 GMT"
-    },
-    {
-      "id": "b881d18f1c9f7dfdd13271bed98f4365",
-      "title": "Nintendo Switch 2 restock live updates: it'll be in stock this week - The Shortcut | Matt Swider",
-      "source": "The Shortcut | Matt Swider",
-      "url": "https://www.theshortcut.com/p/nintendo-switch-2-restock-live-updates",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!IP4_!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d6a9267-55cc-4e52-966f-21a7be473774_1366x768.png",
-      "summary": "Discover more from The Shortcut Get smarter about tech in 7 minutes with The Shortcut, the #1 consumer tech publication on Substack. Join for FREE to get trusted news and honest reviews – and Nintendo Switch 2 pre-order alerts! By subscribing, I agree to Substack's Terms of Use, and acknowledge its Information Collection Notice and Privacy Policy. Already have an...",
-      "published": "Sun, 29 Jun 2025 22:17:47 GMT"
-    },
-    {
-      "id": "8c77804fbde218a3e2619ec1afd03964",
-      "title": "The Kodak Brand Gets a Second Life - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/30/nyregion/the-kodak-brand-gets-a-second-life.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 07:00:11 GMT"
-    },
-    {
-      "id": "01b0a31b523bbcb4a3a1958a6686a181",
-      "title": "Assassin's Creed 4: Black Flag Remake Rumours Return as Actor Drops Big Hint - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2025/06/assassins-creed-4-black-flag-remake-rumours-return-as-actor-drops-big-hint",
-      "image_url": "https://images.pushsquare.com/7e54f1bae9324/large.jpg",
-      "summary": "Assassin's Creed 4: Black Flag Remake Rumours Return as Actor Drops Big Hint \"You might have to beat it again\" The long-rumoured remake of Assassin's Creed 4: Black Flag is one of the worst-kept secrets in gaming at the moment, and its lead actor may have just dropped the biggest hint yet that it's on the way. Matt Ryan, who...",
-      "published": "Mon, 30 Jun 2025 11:00:00 GMT"
-    },
-    {
-      "id": "0ce8a5e75fe473f172b133e9b0b76393",
-      "title": "Cursor launches a web app to manage AI coding agents - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ1piNHBFVEVRUzlFSkJ2S3F3Z2o2MUVoLV9HcnR4d2xJcndFX2hFVkNkQi13cnhGWjFjREUxQU05U3BPRXZBZkpBRjRzc1pVbmtQTWhRR1V3cHlndXZPTlR0eXlsejNIYlFJVTlWMktKbnJ4dlJVQ1gwQnlRMHktck1iSHNwdDE4VENPZ3NqVkQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 15:00:00 GMT"
-    },
-    {
-      "id": "4b0208026f07fee6a7bb20601be95146",
-      "title": "Microsoft makes huge change to Windows - TheStreet",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/technology/microsoft-makes-huge-change-to-windows",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sat, 28 Jun 2025 18:45:59 GMT"
     }
   ]
 }

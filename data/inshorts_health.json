@@ -1,19 +1,10 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-06-30 19:08:21",
+    "generation_time": "2025-07-01 03:01:34",
     "total_articles": 20
   },
   "articles": [
-    {
-      "id": "c9f1796735c4d8f29eb2b6ebc71a6eb9",
-      "title": "Click, speak, move: These brain implants are poised to help people with disabilities - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/06/30/nx-s1-5339708/brain-computer-interface-implants-disabilities-neuralink",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5445x3063+0+63/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F68%2F0d32cff144cf95fe69175e9f6f98%2Fbci-phill-training-1sep2023-7740.jpg",
-      "summary": "Click, speak, move: These brain implants are poised to help people with disabilities Phillip McKenzie, who was paralyzed from the neck down in a fall in 2012, uses a brain-computer interface developed by researchers at the University of Pittsburgh to navigate complex virtual tasks that simulate everyday activities, People who have lost the ability to move or speak may soon...",
-      "published": "Mon, 30 Jun 2025 10:00:00 GMT"
-    },
     {
       "id": "82595d2626f0f45fec712f673bc5b69c",
       "title": "RFK Jr.'s new vaccine advisors signal big changes to come : Short Wave - NPR",
@@ -22,15 +13,6 @@
       "image_url": "https://media.npr.org/assets/img/2025/06/27/6.30.25-ep_wide-5e7f076bdea1ed15ab464710db8ff1579aea7f37.jpg?s=1400&c=100&f=jpeg",
       "summary": "RFK Jr.'s new vaccine advisors signal big changes to come The CDC's Advisory Committee on Immunization Practices voted on the flu vaccine, raising concerns about a rarely used preservative. Medical groups worry this will \"sow distrust\" in vaccines. The Advisory Committee on Immunization Policy, an influential CDC committee that shapes U. S. vaccine policy, has become a flashpoint in recent...",
       "published": "Mon, 30 Jun 2025 07:00:59 GMT"
-    },
-    {
-      "id": "f5b2b778b4a56fbc2f73c11121892767",
-      "title": "Taking too many prescription drugs can be very risky for older people - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/health/2025/06/29/polypharmacy-old-people-risks/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2DPYF54VPDZQ3CMX2CP35OMTQU.jpg&w=1440",
-      "summary": "Taking too many prescription drugs can be very risky for older people 21 pills when only 8 were needed: when doctors pile on the meds, bad interactions can happen including confusion, unsteadiness and blood pressure problems In her mid 70s, Argie, a widowed former teacher, began feeling poorly. She was tired. Her stomach hurt. Sometimes she got agitated. And she...",
-      "published": "Sun, 29 Jun 2025 18:00:47 GMT"
     },
     {
       "id": "a14a986732fcdab5ba88f4f04ff5bf60",
@@ -42,130 +24,85 @@
       "published": "Mon, 30 Jun 2025 17:38:17 GMT"
     },
     {
-      "id": "5b2fd0ca8b113ba109d8aa98f9b5c294",
-      "title": "Newest shocking Ozempic side effect revealed... and users say their lives will never be the same - Daily Mail",
+      "id": "1c33716bfbd2ec513d69d3e69f1f00ae",
+      "title": "Digestive issues are on the rise in the US. Here are 5 of the most common conditions. - AOL.com",
+      "source": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfUW5PN1FNaUt0VnR2S1Y4SnpBWXJ6RWMxWEpVbVRjRUlOTVZEcE1peXc5cUgtb1B3MEhOWF9LMEI0SVVhMkVHWm41UG9HOWh0eHJvWTY1MHRhYkxZeWVuN3l2bjg1NnBNcmNVTm5B?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 17:19:27 GMT"
+    },
+    {
+      "id": "f2619770c90d0d7b70cf05040e04b6bc",
+      "title": "Ten things to know about veganism in childhood - BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMEFpcWdMSXZtanU0cDNVaWl1ODBQWXp0RU1zZ2ctX0JLQWFfYzE4RkpCZjhRTmlDdXFYblNwUG10OUtLZ0FvUU5OVDRub3NvaUZGNVljOG9MUXFuaVB3aEpidjIxWWdIZW9rdXlPb3ZzY2tucFN2Um1tOWlfTFMwYk5qSW45S0hpcnVLT2w4T3JoNTA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 09:43:34 GMT"
+    },
+    {
+      "id": "8d11d204d76f4a10833cbff3d6afcfad",
+      "title": "Doctor warns five common supplements can cause deadly heart attacks and liver failure - Daily Mail",
       "source": "Daily Mail",
-      "url": "https://www.dailymail.co.uk/health/article-14860907/ozempic-effect-revealed-slash-migraine-research.html",
-      "image_url": "https://i.dailymail.co.uk/1s/2025/06/30/16/99859237-0-image-m-16_1751296409500.jpg",
-      "summary": "Newest shocking Ozempic side effect revealed. .. and people's lives will never be the same READ MORE: Experts warn of the Ozempic side effect that can be deadly By EMILY JOSHU STERNE, SENIOR HEALTH REPORTER FOR DAILYMAIL. COM PUBLISHED: 12:17 EDT, 30 June 2025 | UPDATED: 13:44 EDT, 30 June 2025 Blockbuster weight-loss shots may slash migraine days in half...",
-      "published": "Mon, 30 Jun 2025 16:17:37 GMT"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX1dpVDZERm1zZHlvRktkRm42VFl3MmpjY3l3UnA2cXpsSG5zWE5VT2ZjNjFkU0p3X25BSEw3MkV6alVENWVqa09idnZVWXJTR3htNnhoSE9Oc2lPeG1hRWFMcDI0UTJYWHZrVXQ2amd0c2lWZmE4djVoSWo0TTFFY0FXQmlQdElwbHVwM1RMNnVHQURzenV5VWVjeWJ5YWFVUWdDcFRXOE9VUUNiSEJRUjZydWlkWWI4MThWWjVKck03RFdRTXQ0VDR3VWlDcknSAdQBQVVfeXFMTXpWcjF6OU5kR2lRdUJNU2NDSEJDd0hNQmFUWF8tVWpENkRXU2NFRFhpTjIwY1BhSEw4RVg2N0YzWWZXandSZm1HcGM5SXh4SWJIT3lPRjBETnNTRE5Ub0ZuNEdGZXZ1UUd3Sm1DZEhIZjdTbGt3SllhOUxDTnNocnFVNnhKcTBZRV9jZUt3SWpNWW1ic0dFMzlSTGJPbi1JRWlJSUFoU1c2QVN1WF9WdlBHX0owbGRTNzh3aEUzYzhXeUk5SFVtcXdBVXV6YzdVRmVUclU?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 23:43:13 GMT"
     },
     {
-      "id": "39425429713659164b3a8435303d8f5e",
-      "title": "New docs get schooled in old diseases as vax rates fall - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2025/06/30/new-docs-get-schooled-in-old-diseases-as-vax-rates-fall",
-      "image_url": "https://images.axios.com/PkpVEgEDD-0Vznpix_DZUaVcwBw=/0x0:1920x1080/1366x768/2025/06/24/1750783219881.jpg",
-      "summary": "New docs get schooled in old diseases as vax rates fall Rush University Medical Center in Chicago is adding a new twist to its curriculum for medical students and residents, using AI tools and learning modules to teach how to more quickly identify measles rashes on different skin tones. Why it matters: It's another reminder that diseases once thought to...",
-      "published": "Mon, 30 Jun 2025 09:31:25 GMT"
+      "id": "0afd50b2f51eb284f0e69fd089311eb4",
+      "title": "Drug slashes migraine days by half in early trial — and it may work with completely 'new mechanism' - Live Science",
+      "source": "Live Science",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMU53UnJtb3FudlFhUm9fd01zaUR3aE1acVpGTGJ5RXpKbFkwSE1Zb0hSWjB5UGZyM0lNZ1hRYU5yZWwxb1dBY3RGNTFCMS1xaklUVFFfc25YMGxJNzkwY2xuN2w3bEFZMEw1SmJfWUNsbGlMRGs0QVVvekphc2JUSVpOZjhLTmRiRFpYclZOOWtvaGJ1VXA4TWR3RW1sMF9YbHhDNW9fSlVSNEJYcTdNUEV1clQyVF8tVDZWVjJHRlhUM0ppbFlTb1pLQzZpYzhsdjR6dlVrQ2Q0MWhfY1E?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 29 Jun 2025 18:00:00 GMT"
     },
     {
-      "id": "d4d186d63c40f10b9f532ee874d9bcba",
-      "title": "I'm a neuroscientist. I scanned my own brain 26 times to see how it changed during pregnancy. - Yahoo",
-      "source": "Yahoo",
-      "url": "https://www.yahoo.com/lifestyle/article/im-a-neuroscientist-i-scanned-my-own-brain-26-times-to-see-how-it-changed-during-pregnancy-090020326.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/ufrWm4_HjAGWtRmGLH0rJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/f3dcb210-5200-11f0-9bff-a9cb90f1c70c",
-      "summary": "How to eat alone in restaurants I'm a neuroscientist. I scanned my own brain 26 times to see how it changed during pregnancy. 'This is a huge area of research that has been overlooked. ' Mon, June 30, 2025 at 9:00 AM UTC Neuroscience researcher Liz Chrastil (pictured with her child) hopes her brain scans and other studies will help...",
-      "published": "Mon, 30 Jun 2025 09:00:20 GMT"
+      "id": "e4063d9033216617e31d28eb4f13f14c",
+      "title": "Cancer Patients Are Opening Up About The One Early Symptom They Wish Wasn't Ignored - BuzzFeed",
+      "source": "BuzzFeed",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56dFVpUEZHMERBU2E0N214TGxOSXNjaFk2dG5TM3hQZVhQOUlPN3pHX0daV3lGU0dtaTVUVHdmdFF0emg1cl9BOGU1ZVI3N1lkQTEzRVZla3daQkFLblBfRXVzS3RqQkNYeGFUZTZZcXpGTEJiODZXX1BmNFpEdkU?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 23:30:02 GMT"
     },
     {
       "id": "8066ee712856cb6629191c8c820f7442",
       "title": "A Texas boy needed protection from measles. The vaccine cost $1,400. - The Washington Post",
       "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/wellness/2025/06/30/measles-vaccine-cost/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UACIHVYK3N4PVQESVZKWYZXYTE_size-normalized.jpg&w=1440",
-      "summary": "A Texas boy needed protection from measles. The vaccine cost $1,400. A family living in Galveston was surprised to be charged thousands of dollars for immunizations for their children. As the West Texas measles outbreak spread, Thang Nguyen of Galveston worried about his 4-year-old son, Anh Hoang, who had received only the first of the measles vaccine’s two doses. Nguyen...",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16OWd0Z3VYZmZOYjBzRkZyWlZ0TlNxNktlTHg4Wmh4R0h1T2NFczVSRDFwMjZ0QnRpOVBmdVNEQ2VGdmtJUVJzemV0VWU1VnYyanYySXdxcmp4dDhKcTVXWGRfWlduNEVIZ2RFSklVY3h6d3hJRzNyNmhCb20?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Mon, 30 Jun 2025 17:00:00 GMT"
-    },
-    {
-      "id": "e63ffc45c5c4f3d7bf429a9695c0c448",
-      "title": "6 Things to Avoid After 5 P.M. to Help Prevent Alzheimer’s Disease, According to Dietitians - EatingWell",
-      "source": "EatingWell",
-      "url": "https://www.eatingwell.com/things-to-avoid-after-5-pm-to-help-prevent-alzheimers-disease-11761404",
-      "image_url": "https://www.eatingwell.com/thmb/R-j84vBqJmgI2WxA1r7MmAPJLNY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Things-to-Avoid-After-5-P.M.-to-Prevent-Alzheimers-Disease-f05def0ca281485c9057cd5cd16c66f0.jpg",
-      "summary": "The #1 Fruit for Your Gut Health The Best and Worst Foods for Your Kidneys 3 Chefs' Secret to the Best Potato Salad This Vegetable Can Help Reduce Visceral Fat 6 Things to Avoid After 5 P. M. to Help Prevent Alzheimer’s Disease, According to Dietitians Skip these things for better brain health and cognitive function. Reviewed by Dietitian Kelly...",
-      "published": "Sat, 28 Jun 2025 20:00:00 GMT"
-    },
-    {
-      "id": "7b9b14210df3b7a515878550adc7e98e",
-      "title": "The No. 1 Food for Brain Health May Already Be in Your Pantry, Dietitian Says - TODAY.com",
-      "source": "TODAY.com",
-      "url": "https://www.today.com/health/diet-fitness/dietitian-tip-canned-fish-brain-health-rcna215612",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-05/ask-a-dietitian-yellow-dc323e.png",
-      "summary": "This Is the No. 1 Food to Boost Brain Health, Dietitian Says — and It May Already Be in Your Pantry In TODAY. com's Expert Tip of the Day, a dietitian reveals her go-to accessible and cheap food rich in brain-boosting omega-3s. Macy Sinreich / TODAY Illustration / Getty Images June 30, 2025, 12:00 PM UTC / Source: TODAY The...",
-      "published": "Mon, 30 Jun 2025 12:00:00 GMT"
-    },
-    {
-      "id": "20d5815efc11f62315655b12ef991bfa",
-      "title": "How to protect yourself from ticks year-round - NBC News",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/health/health-news/how-to-protect-yourself-from-ticks-rcna215725",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-11/231117-deer-tick-al-1035-3bc71d.jpg",
-      "summary": "How to protect yourself from ticks year-round The best approach is to minimize tick exposure altogether. Create your free profile or log in to save this article June 28, 2025, 5:03 PM UTC / Source: The Associated Press WASHINGTON — Ticks can be active in any season and it’s important to check for and remove the bloodsuckers as quickly as...",
-      "published": "Sat, 28 Jun 2025 17:03:41 GMT"
-    },
-    {
-      "id": "4b4ab707cd627670743ace55bac78594",
-      "title": "People Are Reporting A Frightening COVID Symptom Right Now — Here's What To Know - HuffPost",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/people-are-reporting-a-frightening-covid-symptom-right-now-heres-what-to-know-goog_l_685d64c3e4b0bd0253106e62",
-      "image_url": "https://img.huffingtonpost.com/asset/6846f2d817000067cbbcda04.jpeg?ops=1200_630",
-      "summary": "This $26 Teeth Whitening Kit Is Giving People ‘Dentist-Level Results’ At Home Zappos Is Quietly Having Its Best Sale Of The Year — And These Comfy Options Are Selling Fast This Foot Peel Mask Works Magic On Dry, Cracked Feet: 'The Skin Starts To Shed Dramatically' Twenty Years of Fearless Reporting Join The Movement That Values Truth Over Theatrics. See...",
-      "published": "Sun, 29 Jun 2025 11:00:17 GMT"
     },
     {
       "id": "08bdd90497d368141ccebb5c654f1fc4",
       "title": "People Are Being Committed After Spiraling Into 'ChatGPT Psychosis' - Slashdot",
       "source": "Slashdot",
-      "url": "https://slashdot.org/story/25/06/28/1859227/people-are-being-committed-after-spiraling-into-chatgpt-psychosis",
-      "image_url": "https://a.fsdn.com/sd/topics/ai_64.png",
-      "summary": "Follow Slashdot stories on Twitter Protect your devices with award-winning Avast Free Antivirus — packed with cutting-edge privacy and security tools. Stay safe from even the toughest online threats, backed by the world’s largest cybersecurity network. Trusted and recognized globally, it’s security you can count on — at no cost! Get protected today. People Are Being Committed After Spiraling Into...",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzA0VDI0T2FJa2tBSkdfSkkxSE1kWEJWLTFYVmhUeEpVWmMtX25ianl1RElKQVhTcWFvRDRfc1hXYkl0N05kNi1JWHFVRWpBR2JSbnZKRmx2MDRyRU03cXhkaEdOUDIycGF3N0NoUnFjT1gzVF81aUxpOFI3WEdLY3lyLU9mWU1fd2pCN0xnNTZWdjBQMXlYYkE1eE9BYzhDT240d2trM1RPTTJTdFE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Sun, 29 Jun 2025 02:03:45 GMT"
     },
     {
-      "id": "85240bbf5d102f35e404d6d9b0d702c0",
-      "title": "Man suffers 'infection' that affects us all - it was actually killer cancer that cost him his NOSE - Daily Mail",
-      "source": "Daily Mail",
-      "url": "https://www.dailymail.co.uk/health/article-14860419/Common-infection-actually-killer-lost-NOSE.html",
-      "image_url": "https://i.dailymail.co.uk/1s/2025/06/30/12/99855151-0-image-m-17_1751284324876.jpg",
-      "summary": "Man suffers 'infection' that affects us all - it was actually killer cancer that cost him his NOSE By JOHN ELY DEPUTY HEALTH EDITOR FOR MAILONLINE PUBLISHED: 08:49 EDT, 30 June 2025 | UPDATED: 08:59 EDT, 30 June 2025 A man whose GP said his breathing issues were due to a routine infection has now lost his entire nose to...",
-      "published": "Mon, 30 Jun 2025 12:49:37 GMT"
-    },
-    {
-      "id": "2b51c0b02ee8c14bab6f578b074c0bb7",
-      "title": "Deaths from heart attacks are way down. Here's what's killing us instead - KSL News",
-      "source": "KSL News",
-      "url": "https://www.ksl.com/article/51335151/deaths-from-heart-attacks-are-way-down-heres-whats-killing-us-instead",
-      "image_url": "https://img.ksl.com/slc/3090/309065/30906566.jpg?filter=kslv2/responsive_story_lg",
-      "summary": "Deaths from heart attacks are way down. Here's what's killing us instead By Sandee LaMotte, CNN | Posted - June 29, 2025 at 6:35 p. m. The Baby Boomer population is now reaching a time when they are most likely to develop heart disease. (LaylaBird/E+/Getty Images via CNN Newsource) Heart disease deaths in U. S. adults dropped 66% over 50...",
-      "published": "Mon, 30 Jun 2025 00:36:12 GMT"
+      "id": "a3c242dc985bee88156d691aa4a77f03",
+      "title": "People Are Reporting A Frightening COVID Symptom Right Now — Here's What To Know - Yahoo",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdE1mTHM0aGhKWnpIR3hpTmIxbmQ2MF9FN2wtaWtHWDJzN0dBdzhDcEs5cEhJU05sMXlNaWlpNU1GbnVmMzRjTFFRZXVWbnUxN3pUdXhOY1FqNERKXzVuYzRqUy1Lck8wQUpWS3pQeG4wQ1NrS3h6Z3BLV21IczZFYzI2b0g2Qk5qbG1wMg?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 29 Jun 2025 11:00:17 GMT"
     },
     {
       "id": "c30aef138b1d1d76a2040e0e07cf7040",
       "title": "BMI is B-A-D, a new study suggests. Here's a better way to measure weight - KSL News",
       "source": "KSL News",
-      "url": "https://www.ksl.com/article/51334839/bmi-is-b-a-d-a-new-study-suggests-heres-a-better-way-to-measure-weight",
-      "image_url": "https://img.ksl.com/slc/3090/309055/30905598.jpg?filter=kslv2/responsive_story_lg",
-      "summary": "BMI is B-A-D, a new study suggests. Here's a better way to measure weight By Sandee LaMotte, CNN | Posted - June 29, 2025 at 11:21 a. m. A mild electric current is sent through the body via the feet and thumbs on this bioelectrical impedance analysis machine. Authors of a new study say BIA may be a more accurate...",
-      "published": "Sun, 29 Jun 2025 17:25:41 GMT"
-    },
-    {
-      "id": "8a837a7dbb31771b4774a7099121e4cc",
-      "title": "Doctors And Nurses Are Revealing The \"Small\" Health Signs You Should Never Ignore, And It's Shocking - BuzzFeed",
-      "source": "BuzzFeed",
-      "url": "https://www.buzzfeed.com/lizmrichardson/doctors-health-warning-signs-symptoms-shouldnt-ignore",
-      "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-06/27/20/thumb/AC_Et6ldJ.jpg?crop=2500:1309;0,116%26downsize=1250:*",
-      "summary": "Subscribe to BuzzFeed Daily Newsletter Doctors And Nurses Are Revealing The \"Small\" Health Signs You Should Never Ignore, And It's Shocking \"Vascular surgeon here. A sudden onset of pain in your calf when you walk should NEVER be ignored. It could be a clot in an artery or vein that must be addressed immediately. \" We recently wrote a post...",
-      "published": "Sun, 29 Jun 2025 20:21:02 GMT"
-    },
-    {
-      "id": "28a981ae8fdc595d20234dbdea9c15c0",
-      "title": "Michigan announces second measles outbreak as US goes past 1,200 cases - MLive.com",
-      "source": "MLive.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2lDRlJERDg5ZTRkeDlTTklfTThQRHM1bmJCMURHZmxGZHMtN2RLZ0JoT1dqUWszMDBWTGh6V196b1BfLVlPcWZ6N0l0UHp2ZWVqR3JGMWxWQ1ZnYXRMczk4M2VSOG5CZkJGOEJBMlFDY0oxSHJLem9yXzU5ZnJlTGFsTVNpeGpLUzREUWw4aXpMNFdlQnJKWDlRTDdSc2Zlal9FVjdCSWRUTVNDeWfSAcIBQVVfeXFMTmhCVm4wZy11RUJsYTZUeHZURDlDODVsNjdoZ2NHZ2JtdHFpdmJudU1mczhXeHA4Q0huZkw3a1FDbkdNd2lucldydjlHYXQxM1VmNDU4UHJ5V284amF2OEJKWHVWUFppM19QWWVaZ0RDUjdycll2eVRmSDlkMnFWNjlmQ2hjWEVoTXVPajZHZmdVZ2d3X05VUmdwbjJnbHRFVFRSRGRhVDBrTlpBLVJWdWs1OHRRSnBOM2pDeUFKcEI1enc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS19TWEZINDVsYzZFWVJDeWZLN3NUWXNhNFRWeUJJdEhrSUNYVmJhV1djVVdRb0NMc0xJbWlxRERNVnVhLWFuNGxsd0xlemM5cFJTUEUxMWEtYWhLcWJoRVZ1OWdBS1VWMWtDX0pGVWczVHB6Z1pyS1BJb0hxOVIzcGV5ZG56N0JwaDFJa0JaNk0yMHlRSlV0aFZVbXkzSkxNMGhjcTgtWHAyZVk?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 12:09:00 GMT"
+      "published": "Sun, 29 Jun 2025 17:25:41 GMT"
     },
     {
       "id": "ed318d2c18747e63467871bc05276c14",
@@ -174,16 +111,79 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15M1VoejRhZUcyLTRScDFJUWRWSHRmM2VwTkVGY1pMNVBjSkpIZ1FkSUdsZ3U1X01TV0dTYzREaXQzbkVqbGNVWmw1eGJ3Ty1pd2ZXbzNlT3lLVkIxNnFyaEdaT1VleXVpNzZpRGJxWE5YdW90WkE?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 17:50:00 GMT"
+      "published": "Sun, 29 Jun 2025 18:53:37 GMT"
     },
     {
-      "id": "4bb03417db7d7a7bf97f0bf7fc1d3164",
-      "title": "Intermittent fasting vs portion control: What works best for sustainable weight loss - Times of India",
-      "source": "Times of India",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcFJUUUlMNks1Y1ZaWTBYQmRNaWVVUFlTZ3JqNEFEVW56SmFINWxFMjRkeVJuMWJHSGhVbGdaMTdYemN0c081bmk3azdFUlUzYTNDdlMyT21kc2paX0VuX1BCU0Z2QkZ0SDZaOWt1TjJsdm5ZV3lRQkJCRm5HZkZqT3lBM1hiXy05ZGRyakRTSDlpQjdFRXhaT1MyY05mMmIxQU1zS2o1QTFVck4xcWRjWEJsN3VaU1ZQckpfNUppdTlKbEZ5emhYcnhQcjNnMVRCOUd4VmROaHhsWVdrNDE1Y3Fmc2pid1NhUUZ6N04tZEVTcXVVaS01V2hxMW1iOVdJbE1CNWlUVHR3ZFNCekVnNdIBlgJBVV95cUxOV2xmdFNieGZURk92REdia0hqZWdJV3VfSGp5dHVqelpDSjh3X1N4cGFoNlFHM1UtVmgzNlFEcXhCdTlSVlpXOEtNVkpadWlpZHplMUpnMWV4Z3ZiM0lmLWttRC1nMHJaSm0teUZMRnNaWlpWNGNkWmFMNkhzRTYxNEoxQnZRNV96V05zSjE3Y1JwNVdzbHlWMmc4OVJRZl9PZ3dmSlhoclVLTk9QbnprdVFGbW5LQTduV0taZVJGQkRwZHNDc3NpWUFFdDhiWVRMTnZ1UFE1Y2ctVDhlQjNfSDFzRkI0LUtFMVVERUlFc1hHeTN1Ums3Y0NER09zT0lLQ2xBLVVrNjJwZFlNa3FZVmFwLUJWZw?oc=5",
+      "id": "7b9b14210df3b7a515878550adc7e98e",
+      "title": "The No. 1 Food for Brain Health May Already Be in Your Pantry, Dietitian Says - TODAY.com",
+      "source": "TODAY.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRlYwbWQ1NHdxa2hRY2dZQi1KbU5EMXB6V0hXOGRwTHF3YTM4ZEU0RWY4VS1FeFloZ1Yza3Fnd2lYbUlMcm5yOC10R2dYREgzUFh4OGxBT1RSN0pXRkhzYkFfbzd0SFlFNmpTMjNGbzFPZTR2VGNoM01EbjlsUUJ5ZjBudWdUVXVkVFprWG1ENElIdTBReWfSAVRBVV95cUxQZXZabUNlbXNrOVVuMHNjUlRvR0k3YTVodXdDd05yTC1IbmV2TmkxUlQyU0NQbW5HUW5NbUlpR1k2OXVHYmVnRnpSUkduUTNQeXJmRTM?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 04:08:00 GMT"
+      "published": "Mon, 30 Jun 2025 12:00:00 GMT"
+    },
+    {
+      "id": "91f839665e373a61b871408c9f064e30",
+      "title": "Radiation Therapy Linked to Lower Alzheimer's Risk, Study Finds - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjJJaUNXbGk1WjBYelEyazRhdUFqT3BZeTEtd3lCTDJNU0dEampnOTNCckZualNCYThRSldpT1FIcElEMTQ0eE1xeHh1Y2Fhd0RQdnRsYmh3TzI4OWlicDc1OHFKUHNRNVE2eEs0Q0FBRmpLSTB0M0F3STgwZnc0VjBRSktmRkZ4SnlkMHQyQVNTenNv?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 15:01:40 GMT"
+    },
+    {
+      "id": "2a16fdb92634c4c47e504261e78023c6",
+      "title": "Upstate children sick and dying from meningitis - WYFF",
+      "source": "WYFF",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGQweHJkMFVCbTZOSkdySnhuZzJBa0Z0d3hjSUZ3YW1lZ21VaHB6Q0xxQjBxTXlOX3FtSGlnSXhuWHNWOGs2MGdrcmttSWNCU2RSVU1JTUY4Z3pFVDRsT1ppM0tkWXhiZm1nTDJTXzIzODFXeTk3RGxiTnNqTEE2dDNzVmQtSmRzZUJtMWI3bEw4T3NucVN3?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 22:45:00 GMT"
+    },
+    {
+      "id": "51239b6c7dccf959c2061304e0dc2626",
+      "title": "Alzheimer's Might Not Actually Be a Brain Disease, Says Expert - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmJ1MnU4UkhNRXhuYk5idDRmek04R0NkSGRrdzJ6MmllWkRMa0dOMWlnLW1ocmpUNDd0LUZMSk9KYXpRQ1ZET2ZjS3pCU1p3NThlaThpYm83N2xNMFZPb2V2Q3pUdGN4S2Z6VjRYRFpMWno3aVdnUTd3Mk50dmtQUnFWRnBZdFQ5UlA5ZnctMEgzaG8?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 21:52:40 GMT"
+    },
+    {
+      "id": "4ae613122297c5e623c6d0b75a1e9665",
+      "title": "Scientists find possible cure for diseases that impacts 10 million Americans in groundbreaking study - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2IxMXFTR0otNDE3RjFFQUZoVE1OV0xPTWt2UU1zbDVrYnBoQWQtV2ZreFRlZ3lSelhBR0V5MVkxS2xTX0lJZmsxb0Rhcm9ERV94Q2ZrUFJCZFQxMk53MVNDeFFJbWh4TmlkRXgtN3kwLVB0MWwxdUlobGJSeTdxTzZPbkNuUlVhNEZaME8zWU52b3dxSmlYNG5sUWdmbVZ6YUZtbkoyVkFRUdIBrwFBVV95cUxOc3YxN3BqZmh4LXZrdGl6aEtQWDlhVk13Y2ZQZmpPOW5rYWtTeGh3UFlPQV84WlotNE5OeVEtbkM4VThrVjBkMkk5NzFkeEU5MHVaTGFTNFpfeUVuODQxeVFFWGkyVHFaZHl0TG5EUkVFOURteVdXTDEtaFF3c08yMEVQTWpYYkdOb09xZDBMWk5TRmN4OTU0V2xUTzdlUnFDSlA1ei1tV21MRkxObkgw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 19:02:50 GMT"
+    },
+    {
+      "id": "c9f1796735c4d8f29eb2b6ebc71a6eb9",
+      "title": "Click, speak, move: These brain implants are poised to help people with disabilities - NPR",
+      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQzhJRGxGY1hBajNycDRFYmx3dTJMU2VkeFhjQmhZRGFFSXowOVIxU1JZSlEyMWtncUdxeE83TUpydjdhRFhTRjNSbXlNak81UjBodWRPYjJCV2sxcnlvdFlIQ3BoTi1meXh3VjZzaW0xZy1jTDN4eGx3Zy1aVVd1NTV4dW5hclRsS2drX2M1cWIzSWduc3M0Qzk3eVZHRmVjblYxZzRROGpHd0NJbWxSbjRpejdiUTJMd0NxdGZHYkZlbTlVSTBn?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "id": "2b51c0b02ee8c14bab6f578b074c0bb7",
+      "title": "Deaths from heart attacks are way down. Here's what's killing us instead - KSL News",
+      "source": "KSL News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRk9DYzNad0lwRU5Od1F3SVZzVTBFcVdFNUFlTU5pVEpZTFdFUkc0VG9heVMzbVBINnpCbEZBanNha0U3RVR0cl9maHo1dkk5OUlhTTlnYWhmWXJ2NkN5WnFwYWhfdlY0bTg2SkN2Y01nX3E0N1NlOVB5ZE9VTkU1eENlX0xFMXhYa19BUkZ3TFByd0ZlV2JaN2dpZkl6T1lKVVkzSmp1SEVVQQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 00:36:12 GMT"
+    },
+    {
+      "id": "d4d186d63c40f10b9f532ee874d9bcba",
+      "title": "I'm a neuroscientist. I scanned my own brain 26 times to see how it changed during pregnancy. - Yahoo",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa1dyX09IRkpCd3NRSk9wVy02Nzh6T1VqdDZNNUpvNktMTHJBMUZsRzN5YUxycy1mQW54eEFZaVpsNXhnWGlGcWltRGpXX21pV3JoRk9nbEdhdmRwT1UtSjd5T1ByRlNQVDh1WDVsQi00SFZrV05BRE1ZUTNwcjduYXY5U0NOZnZnaUxaZTRvMGxnWWlMQ2xMcTN0dW53RmRYaXZ1a3VBZThwVEhTTm5wam5zUU5LTGN6R1d0RkFsVHF0aUFLRmtxOEU2QlpZRjZTQ2JQSG8tYkFScE5LOFE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 09:00:20 GMT"
     }
   ]
 }
