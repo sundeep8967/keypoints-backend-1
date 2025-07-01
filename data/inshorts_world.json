@@ -1,90 +1,117 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-07-01 13:47:54",
+    "generation_time": "2025-07-01 19:29:24",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "30387d4b1c3665b2ea81d7fd04218f0c",
-      "title": "Thailand: PM Paetongtarn Shinawatra suspended over leaked phone call - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c9vrrj72xy7o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2386/live/7b5933d0-563e-11f0-9f23-c9631faaebd4.jpg",
-      "summary": "Thai prime minister suspended over leaked phone call",
-      "published": "Tue, 01 Jul 2025 09:04:56 GMT"
-    },
-    {
-      "id": "3d63f5d89061809c2c73e394951cc62d",
-      "title": "Barcelona records the hottest June ever as a heat wave grips Europe - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/heat-wave-europe-france-spain-portugal-c6c9e6da7e02a77a0818c03ba976ecc8",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Tue, 01 Jul 2025 12:00:00 GMT"
-    },
-    {
-      "id": "a1938c179928d764fa731f09796f2043",
-      "title": "74 killed in Gaza as Israeli forces strike a cafe and fire on people seeking food - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/07/01/nx-s1-5452994/israel-gaza-hamas-cafe-airstrike-aid",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8307x4673+0+433/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2Fc9%2Fac08204f4c719a37604481062ff8%2Fap25181599287201.jpg",
-      "summary": "74 killed in Gaza as Israeli forces strike a cafe and fire on people seeking food A man carries a child, who was wounded in an Israeli strike, after being treated in the Shifa Hospital, Gaza City on Monday. CAIRO (AP) — Israeli forces killed at least 74 people in Gaza on Monday with airstrikes that left 30 dead at...",
-      "published": "Tue, 01 Jul 2025 06:52:33 GMT"
-    },
-    {
-      "id": "67fb3ff5506a0bbbba566378c303aed3",
-      "title": "More than 150 groups call for U.S. and Israeli-backed Gaza aid distribution to be shut down - NBC News",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/gaza/150-groups-call-us-israeli-backed-gaza-aid-distribution-shut-rcna212270",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250701-gaza-9-rs-0e7e1f.jpg",
-      "summary": "170 charities and NGOs call for U. S. and Israeli-backed Gaza aid distribution to be shut down Charity and aid groups said in a joint statement that more than 500 Palestinians had been killed and almost 4,000 injured in less than four weeks while trying to access or distribute food in Gaza. A funeral service June 24 for Palestinians killed...",
-      "published": "Tue, 01 Jul 2025 11:06:15 GMT"
-    },
-    {
-      "id": "1e25f75e8f044879f6d740f74532c061",
-      "title": "Turkiye detains four over cartoon allegedly depicting Abrahamic prophets - Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/7/1/turkey-detains-four-over-cartoon-allegedly-depicting-abrahamic-prophets",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/07/13160760-1751356600.jpg?resize=1200%2C675",
-      "summary": "Enrich your Al Jazeera experience by signing in or creating an account. Turkiye detains four over cartoon allegedly depicting Abrahamic prophets Istanbul chief public prosecutor’s office announces investigation after charges of ‘openly insulting religious values’. Turkish police secure the street in front of the headquarters of LeMan magazine after hundreds of people protested on July 1, 2025 [Tolga Bozoglu/EPA] Save...",
-      "published": "Tue, 01 Jul 2025 10:07:30 GMT"
-    },
-    {
-      "id": "f024556887bb7ce02812c794c0277f03",
-      "title": "Hundreds of children told to test for disease in Australia after childcare worker charged with child sex abuse - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/07/01/australia/australia-childcare-worker-charged-intl-hnk",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2025-07-01-at-4-32-40-pm.png?c=16x9&q=w_800,c_fill",
-      "summary": "Hundreds of children told to test for disease in Australia after childcare worker charged with child sex abuse Published 6:25 AM EDT, Tue July 1, 2025 Victoria Police Acting Commander Janet Stevenson addresses media about the childcare worker's arrest on Tuesday, July 1. Victoria Police Parents of 1,200 children in the Australian state of Victoria are being advised to get...",
-      "published": "Tue, 01 Jul 2025 10:25:00 GMT"
-    },
-    {
-      "id": "6fddcd053196ccfffed6bf9787d454fb",
-      "title": "Royal train to be cut in Palace cost-saving measure - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ce377nr5r43o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c2fb/live/3824f480-564a-11f0-960d-e9f1088a89fe.jpg",
-      "summary": "Royal train to be cut in Palace cost-saving measure Queen Elizabeth II on board the Royal Train with her son Prince Edward (centre), niece Sarah Armstrong-Jones (left) and nephew David Armstrong-Jones (right), in 1968. The royal train is going to be taken out of service by 2027, in a cost-saving measure announced by Buckingham Palace. There have been dedicated trains...",
-      "published": "Mon, 30 Jun 2025 21:01:57 GMT"
-    },
-    {
-      "id": "40dfe9bb3d863231cdc016f6d745a4b8",
-      "title": "Russia's Largest Bombardment of Ukraine - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/30/1255015983/russias-largest-bombardment-of-ukraine",
-      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-      "summary": "Russia's Largest Bombardment of Ukraine A multi-story residential building damaged after a Russian drone attack in Odesa on June 28, 2025, amid the Russian invasion of Ukraine. OLEKSANDR GIMANOV/AFP via Getty Images Russia attacked Ukraine with over 500 drones and missiles over the weekend, it was the largest air assault since the Russia's full-scale invasion of Ukraine over three years...",
-      "published": "Mon, 30 Jun 2025 20:54:08 GMT"
-    },
-    {
-      "id": "0611580ab1f64d3ef5ae136f5904418c",
-      "title": "Iran Suspected of Scouting Jewish Targets in Europe - WSJ",
-      "source": "WSJ",
-      "url": "https://www.wsj.com/world/europe/iran-suspected-of-scouting-jewish-targets-in-europe-c92367c4",
+      "id": "23b2c20a41b128d9814103b3503c14f3",
+      "title": "Prime Minister Paetongtarn Shinawatra Suspended Amid Cambodia Dispute - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/07/01/world/asia/thai-pm-shinawatra-suspended.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 11:16:00 GMT"
+      "published": "Tue, 01 Jul 2025 15:24:45 GMT"
+    },
+    {
+      "id": "d352582675e37776740fb45d3a8edb1d",
+      "title": "Israeli strike on waterfront cafe in Gaza City kills dozens, hospital official says - CNN",
+      "source": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMm95LURNNTFZalI4cVp2dENWbEFnYmZyeHF1SlRQclNIbHRLRXB0NEZUNWZaWFo4aDkwNFp5eXZ5c0trVUJtZW4tYXowWXE1cHJkVFdCZ1YxX1hZcU5HQnNmbHF0aVNUUVY3LUxhNkFXbGZ6WkY5RUE5d0VyVU5lcjUwQ09tSE1WZGfSAY8BQVVfeXFMTWVELVJwc0MtYmpjRFQ4VmR0QUdVZmpLWUhBUTUxMTJ3TVp0aVNCdTkxV3ZxSUd2c3dWZDVJVnRCY2tEWlFMZHpHYjlRTWdyRC1CcGtNaXdtSmRSdDlRdDlPR3oweVdqVDNjcnZYLV9sVmhGbC1NSm1aY2NiTVlCbERkeW9RdHpmTGgtaUxIZWs?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 01 Jul 2025 14:43:00 GMT"
+    },
+    {
+      "id": "d92796d6808400b54737339cc3ed5272",
+      "title": "Starmer faces down a revolt over UK welfare reform after a troubled first year in office - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/uk-starmer-labour-welfare-rebellion-ec78160cfff4673978916a3f86b67a5e",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Tue, 01 Jul 2025 16:55:00 GMT"
+    },
+    {
+      "id": "3f29c097aaa6666538b2f86528de624a",
+      "title": "UK police arrest three hospital managers in Lucy Letby investigation - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/uk-police-arrest-three-senior-health-officials-over-killer-nurse-letby-case-2025-07-01/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Tue, 01 Jul 2025 13:46:29 GMT"
+    },
+    {
+      "id": "5b8ad5fa10407e6375669547854f7d94",
+      "title": "Israelis Set a Palestinian Village Ablaze in West Bank Attack - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/07/01/world/middleeast/israel-west-bank-palestinians-attack.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Tue, 01 Jul 2025 14:01:56 GMT"
+    },
+    {
+      "id": "e2cfa2bb7f8e7ae503c5b818f07d6219",
+      "title": "Top of Eiffel Tower closed due to extreme heat - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/eiffel-tower-heatwave-europe-france-temperature-climate/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/01/GettyImages-614182508-scaled.jpg",
+      "summary": "Top of Eiffel Tower closed due to extreme heat",
+      "published": "Tue, 01 Jul 2025 14:28:00 GMT"
+    },
+    {
+      "id": "14e2a8ba981ed163a7d5e11b0c1c4925",
+      "title": "Israeli, US-backed Gaza aid group must end, say 130 charities - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn5kk1w00xyo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c34a/live/9c9d5190-5655-11f0-9074-8989d8c97d87.jpg",
+      "summary": "US-Israeli backed Gaza aid group must be shut down, say 130 charities",
+      "published": "Tue, 01 Jul 2025 17:14:47 GMT"
+    },
+    {
+      "id": "82e82d51225198b04217c49d0949d79f",
+      "title": "Small boat crossings in first half of year up 48% - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx2vv4ndl4zo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/898c/live/b0ecc070-567a-11f0-95fc-edf89039c20a.jpg",
+      "summary": "Small boat crossings in first half of year up 48% Nearly 20,000 people arrived in the UK in the first half of this year by crossing the English Channel in small boats - up 48% on the first six months of 2024. Just under 1,500 people have crossed since Sunday, taking the total until the end of June to 19,982,...",
+      "published": "Tue, 01 Jul 2025 14:00:07 GMT"
+    },
+    {
+      "id": "3212c5f08559de20da5c89d9d01f2b53",
+      "title": "Denmark arrests a man wanted in Germany for allegedly gathering information on Jews for Iran - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/germany-berlin-denmark-iran-jews-6eaaec0849c60043cfb16077c6f1db53",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Tue, 01 Jul 2025 15:56:00 GMT"
+    },
+    {
+      "id": "f40c414f7b9a15e0a4e000bfd178c38e",
+      "title": "Russian stuff blowing up: Oil tanker explodes off coast of Libya - Daily Kos",
+      "source": "Daily Kos",
+      "url": "https://www.dailykos.com/stories/2025/6/30/2330925/-Russian-stuff-blowing-up-Oil-tanker-explodes-off-coast-of-Libya",
+      "image_url": "https://cdn.prod.dailykos.com/images/1451153/story_image/1024px-Makhachkala_201803.jpg?1751304257",
+      "summary": "Russian stuff blowing up: Oil tanker explodes off coast of Libya Community (This content is not subject to review by Daily Kos staff prior to publication. ) Monday, June 30, 2025 at 5:32:29p GMT Makhachkala is the capital of Dagestan. An oil tanker with a million barrels of oil has exploded off the coast of Libya. The ship had made...",
+      "published": "Mon, 30 Jun 2025 17:32:29 GMT"
+    },
+    {
+      "id": "e7ca80008711c71fc70cac7297bf67f3",
+      "title": "Poland to impose border checks with Germany, Lithuania - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/poland-impose-border-checks-with-germany-lithuania-donald-tusk/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/01/GettyImages-2221933592-scaled.jpg",
+      "summary": "Poland to impose border checks with Germany, Lithuania",
+      "published": "Tue, 01 Jul 2025 12:29:00 GMT"
+    },
+    {
+      "id": "00fd9c88c1021428ba19682cea12cb12",
+      "title": "Satirical magazine employees detained over prophet cartoon controversy in Turkey - CBS News",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/prophet-cartoon-controversy-leman-magazine-employees-detained-turkey/",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/07/01/ce4b80c5-c94f-473b-9a0d-4643ac4cb748/thumbnail/1200x630/894752bc1332613b0831b0c74e944954/gettyimages-2222226434.jpg",
+      "summary": "Satirical magazine employees detained over prophet cartoon controversy in Turkey July 1, 2025 / 6:48 AM EDT / CBS/AP Turkish police detained three more employees of a satirical magazine on Tuesday, raising the number of people taken into custody over a cartoon that allegedly depicted the Prophet Muhammad to four. The cartoon, published in LeMan magazine, drew a string of...",
+      "published": "Tue, 01 Jul 2025 10:48:58 GMT"
     },
     {
       "id": "953e2d54a26e777ef922266d2bc854ad",
@@ -96,94 +123,67 @@
       "published": "Tue, 01 Jul 2025 06:30:00 GMT"
     },
     {
-      "id": "6e91fbedcaf6753a92f338445bd6ed1c",
-      "title": "Norwegian pension fund drops US, German defense firms from portfolio over Gaza war - The Times of Israel",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/norwegian-pension-fund-drops-us-german-defense-firms-from-portfolio-over-gaza-war/",
-      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/whatsapp-image-2024-08-02-at-19-06-05-3.jpeg",
-      "summary": "Norwegian pension fund drops US, German defense firms from portfolio over Gaza war KLP says Oshkosh Corporation and ThyssenKrupp excluded due to sale of products to states that use them in ‘systematic breaches of international law’ An IDF Oshkosh JLTV light armored utility vehicle, August 3, 2024. (Israel Defense Forces) Norway’s biggest pension fund, KLP, said Monday it had dropped...",
-      "published": "Mon, 30 Jun 2025 07:08:00 GMT"
-    },
-    {
-      "id": "948f5aa1188013b56d82d908312ee2f1",
-      "title": "Anti-LGBTQ+ Hungarian PM named 'king of Budapest pride' - PinkNews",
-      "source": "PinkNews",
-      "url": "https://www.thepinknews.com/2025/06/30/hungary-budapest-pride-ban-viktor-orban/",
-      "image_url": "https://www.thepinknews.com/wp-content/uploads/2025/06/hungary-budapest-pride-ban-viktor-orban.jpg",
-      "summary": "Hungary Pride ban prompts largest ever parade in Budapest: ‘There have never been so many people’ Budapest Pride was Hungary’s largest ever parade – in response to PM Viktor Orbán’s ban (ATTILA KISBENEDEK/AFP via Getty Image) Right-wing Hungarian Prime Minister Viktor Orbán has been named the ‘king of Pride’ after the country saw its largest–ever parade in Budapest in response...",
-      "published": "Mon, 30 Jun 2025 00:13:22 GMT"
-    },
-    {
-      "id": "193c35aa4db7e369f656cb02f897049c",
-      "title": "Kim Jong Un Publicly Mourns Troops Killed Fighting for Russia for First Time | World News - Hindustan Times - Hindustan Times",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/kim-jong-un-publicly-mourns-troops-killed-fighting-for-russia-for-first-time-101751366012915.html",
-      "image_url": "https://www.hindustantimes.com/ht-img/img/2025/07/01/1600x900/im-44964856_1751366016564_1751366089591.jpg",
-      "summary": "Kim Jong Un Publicly Mourns Troops Killed Fighting for Russia for First Time Photos of the leader were the first shared with North Koreans showing the country’s contributions to Russia’s war with Ukraine, with more deployments ahead. Performers on stage in front of a screen showing North Korean leader Kim Jong Un draping coffins with the national flag. SEOUL—Kim Jong...",
-      "published": "Tue, 01 Jul 2025 10:35:19 GMT"
-    },
-    {
-      "id": "36a5ba908d06a0fadfdc3feeda9cb5b4",
-      "title": "Three bosses at killer nurse Lucy Letby's hospital arrested by UK police - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/uk/uk-police-arrest-three-senior-health-officials-over-killer-nurse-letby-case-2025-07-01/",
-      "image_url": null,
+      "id": "eea88443df1155d17c2db0e767603e63",
+      "title": "Ukrainian Interceptor Drone Reaches 11km Altitude to Target High-Flying Russian UAVs - Kyiv Post",
+      "source": "Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10YUtISmdfcTJIMVc5TnBNUW9GSHZadllsSUx3MVJWX1JkNG1SMzJhM3NsaVlCLUEzQ0J6eFhNaHFxWVdhdWtweDhlUQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 10:20:47 GMT"
+      "published": "Mon, 30 Jun 2025 11:08:39 GMT"
     },
     {
-      "id": "5870891405710f44bf88a341e9069cec",
-      "title": "What has been driving the rise in disability benefit claims? - BBC",
+      "id": "27b41288173a1326172e14e475603a5c",
+      "title": "MAGA's favorite dictator now leads the poorest country in the EU - Daily Kos",
+      "source": "Daily Kos",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRGZiUU91ZHBQREI3UzRvWlktWXQtLTR3SEJrRzNicm41blRiRFc0ZGREVlBMcWxvU3NYS0VsR1c4dk5ZQllCbEFyRV82OTBTdk9rTTBFOTNxYnNhU0xYb19JVzkzTnVGdTFNUWR0eGNraEFULTc2WUxOdlh3V0VSTFV5NDRCSkg3dml2TlEzVG5CTnBaalpSN3MwMHBXcDRtaVl6dFZPN2V1UFlvelk4dmJ0c01fdUk?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 13:46:02 GMT"
+    },
+    {
+      "id": "7632646a84a4484ef46eeb4718743412",
+      "title": "Danish women to face conscription by lottery - BBC",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cg5zz6pm15lo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0076/live/48a74520-55c7-11f0-9074-8989d8c97d87.png",
-      "summary": "What has been driving the rise in disability benefit claims? The government has confirmed details of its scaled-back plan to reform health and disability benefits, following pressure from Labour MPs. Work and Pensions Secretary Liz Kendall said changes to Pip (Personal Independence Payment) would only apply to new claimants. She also confirmed that payments to existing recipients of the health-related...",
-      "published": "Mon, 30 Jun 2025 16:58:30 GMT"
-    },
-    {
-      "id": "f8c92bf2dac272280353e4ed9a4a79dd",
-      "title": "Iran intensifies mass deportations of Afghan refugees, some accused of being 'Israeli spies' - Ynetnews",
-      "source": "Ynetnews",
-      "url": "https://www.ynetnews.com/article/sywdv8lbeg",
-      "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/06/30/BJD8KQgrle/BJD8KQgrle_443_307_2307_1299_0_large.jpg",
-      "summary": "Tuesday: President Orders IRS To Forgive $300 Million in Tax Debt in 2025 US sues Oakland cafe for refusing to serve Jews, creating special Oct. 7 menu Top Urologist: How To Remove A Hanging Belly Quickly Iran intensifies mass deportations of Afghan refugees, some accused of being 'Israeli spies' As Iran escalates deportations of undocumented Afghans—many born and raised in...",
-      "published": "Mon, 30 Jun 2025 20:09:16 GMT"
-    },
-    {
-      "id": "e93d3ba8b724c9afff442b09c45129fa",
-      "title": "Taiwan to simulate Chinese invasion in major drill - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/taiwan-simulate-chinese-invasion-major-drill-2025-07-01/",
-      "image_url": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yYWUybnFFTjdiTmM2TDhRN0dEaGhfTEoxamtqcXNRR0U1Wl9HcHBPcnVBdFZOaDJ1MGsyYWxuUXBXbzNnQ1ZEUVJFb2Y1UnRncURsU3A4cjV3d9IBX0FVX3lxTE91T3JjX2hTQ1dwaXViV0prSEFPWllsdjBlblRYeEJfMXJGZFhVQjBLb0JNUDVZT20xZm5WRHpKUjQ3NjFFNE1tRm5La2ctZG9GQWlxNzhBVWNxajh1ZFBR?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 03:41:00 GMT"
+      "published": "Tue, 01 Jul 2025 10:45:10 GMT"
     },
     {
-      "id": "78121d3dfe1820c9e527964a3253995d",
-      "title": "The Dalai Lama, a tireless advocate for Tibet and its people - Reuters",
+      "id": "6344a6ef4bb315b2f37910aaaffa7980",
+      "title": "'Lucrative' business deals help sustain Israel's Gaza campaign, UN expert says - Reuters",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/dalai-lama-tireless-advocate-tibet-its-people-2025-06-30/",
-      "image_url": null,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV0ZFLUd3VzdBNEJidHhaOUtpWjRDUnU0N2VnX1BMcVl5eU9TLUMxaGxuSFRGTlRqaTNuUVYwVE9xenNjVzdZNkNndFl4SUFZRDFMYU5PTXE5VkhjQ0ZuZ2o0WV80ZU9DZWhOSVl5NTRiRGsxQnZxQ1pMVVVGcG1uZ3haSG9MS193ckJ0U1dWNXFmOFNlRzVLWjdkbWFFOFJrcGZRb3RGdlByQUNIbFl5cFpHVDJPSWFyVmpfNWlDaGVDelpORkYwYzdMelRWZ1czci1V?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 08:01:38 GMT"
+      "published": "Tue, 01 Jul 2025 10:20:32 GMT"
     },
     {
-      "id": "0709166cf35f844ab55fadabd9286e85",
-      "title": "Nato’s summit cannot disguise Ukraine’s plight - Financial Times",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/fd4fe246-3dd7-449a-8740-70bcb0ba08a9",
-      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe70a6d07-4b39-4f54-9a16-238bee444a76.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Nato’s summit cannot disguise Ukraine’s plight Without more military aid, Kyiv’s situation on the battlefield could deteriorate rapidly Nato’s summit cannot disguise Ukraine’s plight on x (opens in a new window) Nato’s summit cannot disguise Ukraine’s plight on facebook...",
-      "published": "Mon, 30 Jun 2025 11:35:03 GMT"
+      "id": "85f068343ef40a862b8492b45526e434",
+      "title": "‘Lovebugs’ return in swarms to South Korea and blanket a mountain peak - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWEJleG9sbExaZDd4dy1UbmlVUGJYbUlkMG5CcHhmcF9RbzlDSlJ4Tl80Sjhka0U5MTFjQVQ0RTRMWXlvMElrZW9BSWxYY0F6bDhfem13eTNmNWlERTFlY3JtZDZoanV1UWd2bE1pMV9JbnFiVWRsMmNEdm5tdm0wQmg4aTZJaTdiVDVHWU9ac0I?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 01 Jul 2025 14:01:00 GMT"
     },
     {
-      "id": "ca32d20cb2cd5e064fd37e63ee5d0ebb",
-      "title": "'Lovebugs' are swarming Seoul as South Korea warms, and residents aren't happy - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sustainability/climate-energy/lovebugs-are-swarming-seoul-south-korea-warms-residents-arent-happy-2025-07-01/",
-      "image_url": null,
+      "id": "73099b45f53ba577940ec698ae9e2396",
+      "title": "King Charles’ royal train to be retired as palace cuts costs - CNN",
+      "source": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTRBZmRibklNSUNKcmV5UmlTazJyTGtkY2E2UW5OWWVvSTZWYVV1SkRxTnBoX1kyWFNpUE1fa2ZiX2kyVU9EVm1mS1YwR1FLdGlpbElPSEVjcTVXYkpmMFNoNmh1WHNVQWhSX1VLcE12OEk1XzlJWFJLdzV1Zk8xRUJ6VmxfTDDSAYwBQVVfeXFMT2RhcXBiejJ2NHBLdnY5NF8wUlZqSHMtdng1alhDcmwxNmlocnV5YzhvbFdhTGVUOTNxZS1HOTJGTnpSaXFONV9od0s0cUtxTUVJNVE4bFlOc1pEN0dQaUFsVm1lVk5QakhBaC1rd0FrWHAwa2xRMlllT3pvT0I1VEMwamotZVgzUUE5akE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 06:49:00 GMT"
+      "published": "Tue, 01 Jul 2025 11:25:00 GMT"
+    },
+    {
+      "id": "070c8555a62c13d886903f3ff6ab6691",
+      "title": "‘It Apparently Bothers Russia’ – US Defends NATO Military Spending Boost Amid Kremlin Outcry - Kyiv Post",
+      "source": "Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rdGlrN3lWb19lRmhZMTdtV3A4UmE0eVVKMmExbGRVekVkRy1aLV82T1pwZ1Z2REs3azdWOHl6NFl5YWpTOENqcGpxWQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 01 Jul 2025 01:00:44 GMT"
     }
   ]
 }
