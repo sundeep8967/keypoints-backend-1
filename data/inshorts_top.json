@@ -1,18 +1,45 @@
 {
   "metadata": {
     "source_file": "data/news_top.json",
-    "generation_time": "2025-07-01 02:18:55",
+    "generation_time": "2025-07-01 06:44:08",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "dc250849ca99a1a50a20c55d0f9a93e8",
-      "title": "Senate Republicans face infighting as vote nears on Trump's $3.3 trillion bill - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/government/senate-republicans-try-get-trumps-tax-cuts-over-line-setting-aside-cost-concerns-2025-06-30/",
+      "id": "c85a2c883f5e93b01db0d91bd40d855b",
+      "title": "On Trump’s tax bill, GOP tries new accounting trick as national debt mounts - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2025/06/30/trump-tax-bill-accounting-fillibuster/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/32Q3R76BPCJJ4XNPGLXRLT3JCA_size-normalized.JPG&w=1440",
+      "summary": "On Trump’s tax bill, GOP tries new accounting trick as national debt mounts A new accounting maneuver could upend the Senate and budget process’s delicate rules — and the country’s financial health. The U.S. Capitol dome is reflected on the Capitol Visitor Center skylights in February. (Ricky Carioti/The Washington Post) Senate Republicans’ vote Monday to advance President Donald Trump’s massive...",
+      "published": "Tue, 01 Jul 2025 03:03:36 GMT"
+    },
+    {
+      "id": "1f819fb0a6b56059842c4a7ca2ab0b48",
+      "title": "Elon Musk just made his starkest political threat since the election - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/30/media/elon-musk-bill-primary-threat",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2217121829.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Senate holds vote-a-rama on President Trump's sweeping domestic agenda bill Elon Musk just made his starkest political threat since the election Updated 2:03 AM EDT, Tue July 1, 2025 Elon Musk looks on during a news conference with US President Donald Trump in the Oval Office on May 30. Allison Robbert/AFP/Getty Images After declaring he was stepping away from the...",
+      "published": "Mon, 30 Jun 2025 23:19:00 GMT"
+    },
+    {
+      "id": "f777910db7f310c0975c43518dcc5c64",
+      "title": "Bryan Kohberger agrees to plead guilty to all counts in Idaho college murders case: Letter from prosecutors - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/bryan-kohberger-plead-guilty-counts-idaho-college-murders/story?id=123356808",
+      "image_url": "https://i.abcnewsfe.com/a/0500a0ef-ff56-43e2-b6a0-6701ef30b361/bryan-kohberger-ap-jef-250630_1751308544311_hpMain_16x9.jpg?w=1600",
+      "summary": "Bryan Kohberger agrees to plead guilty to all counts in Idaho college murders case: Letter from prosecutors Kohberger's trial was set to start in August. ByKayna Whitworth and Emily Shapiro Bryan Kohberger accepts plea deal in Idaho college murdersKohberger has agreed to plead guilty to all counts in the killings of four Idaho college students in 2022, sparing him from...",
+      "published": "Tue, 01 Jul 2025 02:15:00 GMT"
+    },
+    {
+      "id": "2647abd669127e57684421f20e2b482a",
+      "title": "California Rolls Back Its Landmark Environmental Law - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/06/30/us/california-environment-newsom-ceqa.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 21:58:31 GMT"
+      "published": "Tue, 01 Jul 2025 04:42:00 GMT"
     },
     {
       "id": "f0273c3dae0462dc2350b51e66c235e5",
@@ -24,139 +51,112 @@
       "published": "Tue, 01 Jul 2025 00:22:53 GMT"
     },
     {
-      "id": "f777910db7f310c0975c43518dcc5c64",
-      "title": "Bryan Kohberger agrees to plead guilty to all counts in Idaho college murders case: Letter from prosecutors - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/bryan-kohberger-plead-guilty-counts-idaho-college-murders/story?id=123356808",
-      "image_url": "https://i.abcnewsfe.com/a/0500a0ef-ff56-43e2-b6a0-6701ef30b361/bryan-kohberger-ap-jef-250630_1751308544311_hpMain_16x9.jpg?w=1600",
-      "summary": "Bryan Kohberger agrees to plead guilty to all counts in Idaho college murders case: Letter from prosecutors Kohberger's trial was set to start in August. ByKayna Whitworth and Emily Shapiro Bryan Kohberger accepts plea deal in Idaho college murdersKohberger has agreed to plead guilty to all counts in the killings of four Idaho college students in 2022, sparing him from...",
-      "published": "Mon, 30 Jun 2025 22:04:22 GMT"
-    },
-    {
-      "id": "1f819fb0a6b56059842c4a7ca2ab0b48",
-      "title": "Elon Musk just made his starkest political threat since the election - CNN",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FeUxleXcySWhyZWowQVcyZlppU1NGQ3NFSG1INm8ySzEtdEE2VWpCNlpSRmFWU01PdGxOWlpFbHRJeVRiZDFicmhEeElwLXVkby0tQ1RCakhNLWNUWjJBUV9YeEM3REtJYm5QX2NLOThSY2t00gF6QVVfeXFMUFNObF9EdUtiY1FkOXVWZnJSYktSU0R0WUIxdXJvWml5RGtBRlNkNzBFNGpmU01lLXZjNHRhYzRjcThKNENjZTZYSHlDYkhOMW95YndfQlZiNW1Wbnd3dEJGeVJlZV9KNVBGRTJ2ZEFVTW1ZYUlibzZjclE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 23:19:00 GMT"
-    },
-    {
-      "id": "8ce40256ec9e37e3e36d0bb63b82c2cc",
-      "title": "Israeli strike on Gaza seafront cafe kills at least 20 Palestinians, witnesses and rescuers say - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c62884y1pl5o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c85b/live/ebccc0d0-55c8-11f0-9074-8989d8c97d87.jpg",
-      "summary": "Israeli strike on Gaza seafront cafe kills at least 20 Palestinians, witnesses and rescuers say",
-      "published": "Mon, 30 Jun 2025 13:56:59 GMT"
-    },
-    {
-      "id": "9f258d5c45fb841b5152fbf54066717c",
-      "title": "California Democrats Agree to Roll Back Landmark Environmental Law - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/30/us/california-environment-newsom-ceqa.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 01:22:03 GMT"
-    },
-    {
-      "id": "a2e52648c0a02a3bfde092fee3174a2b",
-      "title": "How the Supreme Court’s Ruling on ‘Universal Injunctions’ May Affect Birthright Citizenship - FactCheck.org",
-      "source": "FactCheck.org",
-      "url": "https://www.factcheck.org/2025/06/how-the-supreme-courts-ruling-on-universal-injunctions-may-affect-birthright-citizenship/",
-      "image_url": "https://cdn.factcheck.org/UploadedFiles/unsplash-supreme-court.jpg",
-      "summary": "How the Supreme Court’s Ruling on ‘Universal Injunctions’ May Affect Birthright Citizenship In a June 27 ruling, the Supreme Court granted the Trump administration’s request to partially halt nationwide injunctions blocking President Donald Trump’s executive order ending birthright citizenship for certain people born in the U. S. Justice Amy Coney Barrett, a Trump appointee who wrote the majority opinion, said...",
-      "published": "Mon, 30 Jun 2025 21:44:06 GMT"
-    },
-    {
-      "id": "2d6581b67c6af06fee9563c7e39a494a",
-      "title": "Victim of Boulder Firebombing Attack Dies of Wounds - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/30/us/boulder-fire-bombing-attack.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 17:50:39 GMT"
-    },
-    {
-      "id": "1c3bb69614e1b64bffcc121a4cdd6191",
-      "title": "Hundreds of laptops, bank accounts linked to North Korean fake IT workers scheme seized in major crackdown - Politico",
-      "source": "Politico",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLXNEQXFWcEhXX1hyTkJYUmFwWFJtTTVtMjhiZmV1ZG5DbFhBVWVsYkRyVWtOOUxXZk5ST3QxMERSZnRPSHNuTVN3QVJ4azdTV2VJMThSTzdzcVBPc1hJc2plOWJBNWZPeDFkLUFvalRmTHl0LUUyTUZhSE42MWc0MFQ2VmhvWUNxQjNwZmFEZlZGYjZRQUE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 22:33:25 GMT"
-    },
-    {
-      "id": "34c2195a17d1c1751841148b20d41050",
-      "title": "Scoop: Roy Cooper leans toward N.C. Senate bid, potential Trump showdown - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2025/07/01/north-carolina-senate-roy-cooper-lara-trump",
-      "image_url": "https://images.axios.com/j4mDzzjurF1HVxOI4q-chB4y3oY=/0x645:6192x4128/1366x768/2025/06/30/1751323962979.jpg",
-      "summary": "Scoop: Roy Cooper leans toward N. C. Senate bid, potential Trump showdown Former North Carolina Governor Roy Cooper, in Raleigh, United States on November 4, 2024. Photo by Peter Zay/Anadolu via Getty Images) North Carolina Democrats are getting closer to the gift they've have been asking for all year, with former Gov. Roy Cooper (D) leaning toward a Senate run...",
-      "published": "Tue, 01 Jul 2025 00:17:32 GMT"
-    },
-    {
-      "id": "cb1c9f3de32358c251bdf654d4510ae9",
-      "title": "UK police probe Bob Vylan's festival chants against Israeli military, as US revokes band's visas - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/International/wireStory/bbc-pulled-bob-vylans-glastonbury-livestream-antisemitic-chants-123332298",
-      "image_url": "https://i.abcnewsfe.com/a/e78bd874-9556-4014-b911-33bb202b8a24/wirestory_5f1c607d498c676378ff1540bda0ec23_16x9.jpg?w=1600",
-      "summary": "UK police probe Bob Vylan festival chants against Israeli military; US revokes visas British police have launched a criminal investigation into a performance by rap-punk duo Bob Vylan at the Glastonbury Festival on Saturday, when the group led chants of “death to the IDF,” or Israel Defense Forces International headlines from ABC NewsCatch up on the developing stories from around...",
-      "published": "Mon, 30 Jun 2025 20:03:45 GMT"
-    },
-    {
-      "id": "a64d8a2fc5b79787202fbe94de9f036c",
-      "title": "Europe’s expanding heat wave fuels record temperatures, including in the Alps - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbkpXWXhFS0VhMEZwbm5maWZGa0RsQ0E2TWFJMVEycGVLVVpwMkhwOGpuQlBraXItc1hwek9NeVo5SFU0MmQtWTJNTURIMGRmeE91VHlKWWw1ek5tNG1penQ2RU9sOV9lbHpWZWdFaGY0RTAzaGc2Mk9USjMtRVR3dXJoOXBudWgzSnR5M1MxajhrR3dzdktuUFBpdw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 22:38:34 GMT"
-    },
-    {
-      "id": "ce940dc64c8d06fa416a390b224a02d7",
-      "title": "Russia launches the biggest aerial attack since the start of the war, Ukraine says - NBC News",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/ukraine/russia-launches-aerial-attack-ukraine-rcna215809",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250629-russian-drone-vl-1257p-3a29bc.jpg",
-      "summary": "Russia launches the biggest aerial attack since the start of the war, Ukraine says Russia fired 537 aerial weapons at Ukraine, including 477 drones and decoys and 60 missiles, Ukraine’s air force said. A Russian drone attacks a building during Russia's massive missile and drone air attack in Kyiv, Ukraine, on June 17. Efrem Lukatsky / AP file Create your...",
-      "published": "Sun, 29 Jun 2025 17:06:05 GMT"
-    },
-    {
-      "id": "161c7ce8ec1f8f5b9a37b706e3d3691a",
-      "title": "935 people killed in Israeli strikes on Iran, official says - Reuters",
+      "id": "43c095b601b8e76d8de24e9d67fa6762",
+      "title": "US says it halts healthcare fraud schemes worth nearly $15 billion - Reuters",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/935-people-killed-israeli-strikes-iran-iran-judiciary-spokesperson-says-2025-06-30/",
+      "url": "https://www.reuters.com/legal/government/us-says-it-halts-healthcare-fraud-schemes-worth-nearly-15-billion-2025-06-30/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 19:48:44 GMT"
+      "published": "Mon, 30 Jun 2025 20:16:57 GMT"
     },
     {
-      "id": "cb2c1aad603b762d59fa3ebb6c31a391",
-      "title": "The Dollar Has Its Worst Start to a Year Since 1973 - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/06/30/business/dollar-decline-trump.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 00:35:59 GMT"
+      "id": "1d7fa98e856680fd6230779c2a1ca909",
+      "title": "Judge again delays Abrego Garcia’s release from Tennessee jail over deportation concerns - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/abrego-garcia-deportation-immigration-trump-a94b2d9101bb0da10e6998bead07b9c2",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Mon, 30 Jun 2025 20:06:00 GMT"
     },
     {
-      "id": "5433e03f024ec133f4aa7395e47502a0",
-      "title": "Mark Zuckerberg announces his AI ‘superintelligence’ super-group - The Verge",
-      "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOC1BNHNJcmtZZ2NDVndqbkxOWGVVYzQxOWxTaHkxb2FDQWFuSlBFX0U5RzV0aGh5azBtQldKQnFrZG5aTmtOSW93QnNJNG5qellkVVFCZXJNb1A2MldreUZzVjF0WXNsRWZrTFZTOFR5R3J0RjlKTmx6QXdocXdHR1JPMEoyQXkwLVdB?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 19:23:43 GMT"
+      "id": "4be0d25bbee9b4d7be011855d6b43905",
+      "title": "Why a GOP senator says the budget bill breaks Trump's promise - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/30/1255015997/medicaid-cuts-rural-healthcare-tillis-senate-budget",
+      "image_url": "https://media.npr.org/assets/img/2025/06/30/gettyimages-2222154942_wide-1a2c594fe5ae51d4b4614a2af4abd798460a35c9.jpg?s=1400&c=100&f=jpeg",
+      "summary": "Why a GOP senator says the budget bill breaks Trump's promise U. S. Sen. Thom Tillis (R-NC) talks to reporters at the U. S. Capitol, amid debate over Republicans' spending bill. The massive budget bill that Senate Republicans are debating pays for some of its tax cuts by slashing hundreds of billions of dollars in Medicaid spending. The latest report...",
+      "published": "Mon, 30 Jun 2025 21:36:13 GMT"
     },
     {
-      "id": "00d56f07e2a7562aafd5eab060f5e2df",
-      "title": "Stock futures tick lower after S&P 500 notches new record to cap winning second quarter: Live updates - CNBC",
+      "id": "15f2c162a804220ff379cab5c8a045d8",
+      "title": "Boulder woman, 82, dies from injuries sustained in firebombing attack on Pearl Street Mall - The Colorado Sun",
+      "source": "The Colorado Sun",
+      "url": "https://coloradosun.com/2025/06/30/boulder-attack-victim-dead-karen-diamond/",
+      "image_url": "https://newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2025/06/IMG_2231-scaled.jpg",
+      "summary": "Telling stories that matter in a dynamic, evolving state. Boulder woman, 82, dies from injuries sustained in firebombing attack on Pearl Street Mall Karen Diamond was one of 29 victims in the attack. Additional charges were announced against the suspect, Mohamed Soliman. Police investigate the scene and talk with witnesses after a reported attack on Boulder’s Pearl Street in front...",
+      "published": "Mon, 30 Jun 2025 16:18:48 GMT"
+    },
+    {
+      "id": "61481a3418a5e5db1d92e7be48cec27b",
+      "title": "Father and daughter rescued ‘minutes’ after going overboard on Disney cruise - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/travel/2025/06/30/man-daughter-overboard-disney-cruise/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X65UULQJGFCSBGBRVIL2KJPXCQ_size-normalized.jpg&w=1440",
+      "summary": "Father and daughter rescued ‘minutes’ after going overboard on Disney cruise Multiple passengers posted videos of crew members plucking the duo from the water. The Disney Dream cruise ship, seen here in Portland, United Kingdom. (Finnbarr Webster/Getty Images) Crew members for Disney Cruise Line rescued a father and his 5-year-old daughter from the ocean Sunday after the two passengers went...",
+      "published": "Tue, 01 Jul 2025 05:03:04 GMT"
+    },
+    {
+      "id": "a2dcde0f1423426debb6ac2c481f1044",
+      "title": "Israeli strike on cafe near Gaza City port kills dozens, hospital official says - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/06/30/middleeast/israeli-strike-gaza-city-cafe-latam-intl",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21745622-9772-057-still.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Senate holds vote-a-rama on President Trump's sweeping domestic agenda bill Israeli strike on cafe near Gaza City port kills dozens, hospital official says By Kareem Khadder and Lauren Kent, CNN Updated 8:04 PM EDT, Mon June 30, 2025 Damage at the cafe near the port in Gaza City on June 30, 2025, following an Israeli airstrike. CNN More than 40...",
+      "published": "Tue, 01 Jul 2025 00:04:00 GMT"
+    },
+    {
+      "id": "40dfe9bb3d863231cdc016f6d745a4b8",
+      "title": "Russia's Largest Bombardment of Ukraine - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/06/30/1255015983/russias-largest-bombardment-of-ukraine",
+      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "summary": "Russia's Largest Bombardment of Ukraine A multi-story residential building damaged after a Russian drone attack in Odesa on June 28, 2025, amid the Russian invasion of Ukraine. OLEKSANDR GIMANOV/AFP via Getty Images Russia attacked Ukraine with over 500 drones and missiles over the weekend, it was the largest air assault since the Russia's full-scale invasion of Ukraine over three years...",
+      "published": "Mon, 30 Jun 2025 20:54:08 GMT"
+    },
+    {
+      "id": "a056bdd734fe6c940b79477c458bd8e6",
+      "title": "State Department bans visas for English punk duo Bob Vylan after Glastonbury performance - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/state-department-bans-visas-english-punk-duo-bob-vylan-glastonbury-per-rcna215996",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250630-Bob-Vylan-ew-1216p-c4f78d.jpg",
+      "summary": "State Department bans visas for English punk duo Bob Vylan after Glastonbury performance Bob Vylan led crowds in chants of \"free, free Palestine\" and \"death, death to the IDF\" at the English music festival Saturday. Bobby Vylan of the British duo Bob Vylan performs Saturday at the Glastonbury festival in Somerset, England. Oli Scarff / AFP - Getty Images Create...",
+      "published": "Mon, 30 Jun 2025 21:41:10 GMT"
+    },
+    {
+      "id": "8f9502a46a34b0ec6528a963fe803daa",
+      "title": "Lethal heat is Europe’s new climate reality - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/lethal-heat-europe-climate-reality-temperature-heatwave-who-pollution-wildfires/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/30/GettyImages-2222159253-scaled.jpg",
+      "summary": "Lethal heat is Europe’s new climate reality",
+      "published": "Tue, 01 Jul 2025 03:48:00 GMT"
+    },
+    {
+      "id": "5c8f3adc3b8360811c7c075d00bd888c",
+      "title": "Mark Zuckerberg overhauled Meta's entire AI org in a risky, multi-billion dollar bet on 'superintelligence' - Fortune",
+      "source": "Fortune",
+      "url": "https://fortune.com/2025/06/30/mark-zuckerberg-overhauled-meta-ai-org-superintelligence-alexandr-wang/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/Zuckerberg-and-Wang.jpg?resize=1200,600",
+      "summary": "Mark Zuckerberg overhauled Meta’s entire AI org in a risky, multi-billion dollar bet on ‘superintelligence’ Mark Zuckerberg is stacking the deck in the AI race, betting that unlimited capital, top talent, and raw computing power will ensure victory. If the winning hand Zuckerberg is chasing—AI “superintelligence”— is still very much a vague and theoretical concept, the Meta CEO’s remarkable series...",
+      "published": "Mon, 30 Jun 2025 22:13:00 GMT"
+    },
+    {
+      "id": "b18b489b5036ef7b699acfc55b182863",
+      "title": "US dollar has worst first half in more than 50 years amid Trump tariffs - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2025/jun/30/us-dollar-first-half-trump-tariffs",
+      "image_url": "https://i.guim.co.uk/img/media/c1193e9bdbcc4ae333d7c08f7c6f314f60a9f807/433_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc9fbd3891fbdbbd56f76691728a5c8d",
+      "summary": "Fund the free press with $15 per month The US dollar has fallen by more than 10% against a basket of currencies since the start of 2025. Photograph: Sheldon Cooper/Sopa Images/Rex/Shutterstock US dollar has worst first half in more than 50 years amid Trump tariffs Currency sold off due to concerns economic policies threaten safe-haven role of US dollar-denominated assets...",
+      "published": "Mon, 30 Jun 2025 15:50:00 GMT"
+    },
+    {
+      "id": "68c5904c27024c339d51f3d8f1a9a470",
+      "title": "Asia-Pacific markets trade mixed as investors assess gains on Wall Street and Trump's tariff plans - CNBC",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/06/30/stock-market-today-live-updates.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108163872-1750863528816-Traders-Photo-20250624-KK-PRESS-003.jpg?v=1750863714&w=1920&h=1080",
-      "summary": "China’s June factory activity unexpectedly expands, private survey shows Stock futures are flat after S&P 500 notches new record to cap winning second quarter: Live updates Traders work at the New York Stock Exchange on June 25, 2025. U.S. equity futures were little changed on Monday night after the S&P 500 notched another record to close out a stunning quarter.",
-      "published": "Mon, 30 Jun 2025 22:18:00 GMT"
+      "url": "https://www.cnbc.com/2025/07/01/asia-stock-markets-today-live-updates-nikkei-225-asx-200-kospi-csi-300-senxex-nifty-50.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108166072-1751325393570-gettyimages-601908650-000103455483_Unapproved.jpeg?v=1751325480&w=1920&h=1080",
+      "summary": "Asia-Pacific markets trade mixed as investors assess gains on Wall Street and Trump’s tariff plans This is CNBC’s live blog covering Asia-Pacific markets. Asia-Pacific markets traded mixed Tuesday as investors assessed the record gains on Wall Street and the global impact of U. S. President Donald Trump’s tariff policies as his 90-day tariff reprieve is set to expire next week.",
+      "published": "Tue, 01 Jul 2025 05:10:00 GMT"
     },
     {
       "id": "a3a3bd527186607945b020eca4ee237d",
@@ -168,22 +168,22 @@
       "published": "Mon, 30 Jun 2025 20:26:13 GMT"
     },
     {
-      "id": "e05be0b10d7f1c234ed5d3df461cafa4",
-      "title": "Apple weighs using Anthropic or OpenAI to power Siri in major reversal, Bloomberg News reports - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/apple-weighs-using-anthropic-or-openai-power-siri-major-reversal-bloomberg-news-2025-06-30/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 20:26:32 GMT"
+      "id": "83575907090387d3c4e0a464be8b6ad1",
+      "title": "Apple weighs using Anthropic or OpenAI to power Siri in major reversal, Bloomberg News reports - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/07/01/apple-weighs-using-anthropic-or-openai-to-power-siri-in-major-reversal-bloomberg-news-.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106916376-1627075724207-gettyimages-1231271066-omarques_19022021_tech_5.jpeg?v=1751332767&w=1920&h=1080",
+      "summary": "Apple weighs using Anthropic or OpenAI to power Siri in major reversal, Bloomberg News reports An Apple logo is displayed on a smartphone with stock market values in the background. SOPA Images | LightRocket | Getty Images is weighing using artificial intelligence technology from Anthropic or OpenAI to power a new version of Siri, instead of its own in-house models,...",
+      "published": "Tue, 01 Jul 2025 02:12:00 GMT"
     },
     {
-      "id": "0d71592e6ce7edccd7e36940e2963d36",
-      "title": "iOS 18.6 beta 2 and more now available, here’s what to expect - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORlZNenZwWlZJckdITzBKenFCTTlFYmNFZUpfNW1ZR3ZveUVSNVFvTWF2aDIzaE9ENEMwUU5PZU1iNmZIdE5YZWt6UG5EMklNazBJTC1lNWdkSEtEdnk5VFNERERpQXR6alo1V2Q4b3pySldvYVBxTURDMUd4UFVDSm15LUtVdnQxcWxvZ0FWc3owWU50MWc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 17:07:00 GMT"
+      "id": "da26f3d8c42ef748f0df417b2b0ba6dc",
+      "title": "Apple iPhone 17: Key Design Upgrade Promised In New Leak - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidphelan/2025/06/30/apple-iphone-17-key-design-upgrade-promised-in-new-leak/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/66f2c3550929c8844b211fdb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "summary": "Apple iPhone 17: Key Design Upgrade Promised In New Leak ByDavid Phelan, Senior Contributor. I write about lifestyle tech Updated June 30 with details of how the display for one of the iPhone 17 series will differ from the rest and exactly how the bezels will look across the range. Apple’s next big release, it’s thought, will be the iPhone...",
+      "published": "Mon, 30 Jun 2025 18:17:00 GMT"
     }
   ]
 }

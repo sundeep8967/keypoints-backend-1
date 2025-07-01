@@ -1,18 +1,18 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-07-01 03:01:34",
+    "generation_time": "2025-07-01 07:14:13",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "82595d2626f0f45fec712f673bc5b69c",
-      "title": "RFK Jr.'s new vaccine advisors signal big changes to come : Short Wave - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/06/30/1255015991/vaccines-kids-health-access-rfk-acip-cdc",
-      "image_url": "https://media.npr.org/assets/img/2025/06/27/6.30.25-ep_wide-5e7f076bdea1ed15ab464710db8ff1579aea7f37.jpg?s=1400&c=100&f=jpeg",
-      "summary": "RFK Jr.'s new vaccine advisors signal big changes to come The CDC's Advisory Committee on Immunization Practices voted on the flu vaccine, raising concerns about a rarely used preservative. Medical groups worry this will \"sow distrust\" in vaccines. The Advisory Committee on Immunization Policy, an influential CDC committee that shapes U. S. vaccine policy, has become a flashpoint in recent...",
-      "published": "Mon, 30 Jun 2025 07:00:59 GMT"
+      "id": "1556586f2d2d6be751ac0445cb0c0131",
+      "title": "Kennedy’s vaccine advisers sow doubts as scientists protest US pivot on shots - Tampa Bay Times",
+      "source": "Tampa Bay Times",
+      "url": "https://www.tampabay.com/news/health/2025/06/30/kennedys-vaccine-advisers-sow-doubts-scientists-protest-us-pivot-shots/",
+      "image_url": "https://www.tampabay.com/resizer/v2/6BETISHA7RHDBNVCBMAZT6RANU.jpg?auth=5f970a4ab4ff154255d4caf00a93ef93bbed1b36b6f12e5636fdd37daded192b&height=675&width=1200&smart=true",
+      "summary": "Tampa Bay Times LogoThe words \"Tampa Bay Times\" written in a Gothic font Kennedy’s vaccine advisers sow doubts as scientists protest US pivot on shots The Advisory Committee on Immunization Practices conference met in Atlanta on June 25. New committee members Robert Malone and Joseph Hibbeln attend the first meeting of the CDC' s Advisory Committee On Immunization Practices at...",
+      "published": "Mon, 30 Jun 2025 15:04:19 GMT"
     },
     {
       "id": "a14a986732fcdab5ba88f4f04ff5bf60",
@@ -24,148 +24,76 @@
       "published": "Mon, 30 Jun 2025 17:38:17 GMT"
     },
     {
-      "id": "1c33716bfbd2ec513d69d3e69f1f00ae",
-      "title": "Digestive issues are on the rise in the US. Here are 5 of the most common conditions. - AOL.com",
-      "source": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfUW5PN1FNaUt0VnR2S1Y4SnpBWXJ6RWMxWEpVbVRjRUlOTVZEcE1peXc5cUgtb1B3MEhOWF9LMEI0SVVhMkVHWm41UG9HOWh0eHJvWTY1MHRhYkxZeWVuN3l2bjg1NnBNcmNVTm5B?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 17:19:27 GMT"
-    },
-    {
       "id": "f2619770c90d0d7b70cf05040e04b6bc",
       "title": "Ten things to know about veganism in childhood - BBC",
       "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMEFpcWdMSXZtanU0cDNVaWl1ODBQWXp0RU1zZ2ctX0JLQWFfYzE4RkpCZjhRTmlDdXFYblNwUG10OUtLZ0FvUU5OVDRub3NvaUZGNVljOG9MUXFuaVB3aEpidjIxWWdIZW9rdXlPb3ZzY2tucFN2Um1tOWlfTFMwYk5qSW45S0hpcnVLT2w4T3JoNTA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.bbc.com/future/article/20250627-10-things-to-know-about-veganism-in-childhood",
+      "image_url": "https://ychef.files.bbci.co.uk/624x351/p0lltbqr.jpg",
+      "summary": "Ten things to know about veganism in childhood",
       "published": "Mon, 30 Jun 2025 09:43:34 GMT"
     },
     {
       "id": "8d11d204d76f4a10833cbff3d6afcfad",
       "title": "Doctor warns five common supplements can cause deadly heart attacks and liver failure - Daily Mail",
       "source": "Daily Mail",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX1dpVDZERm1zZHlvRktkRm42VFl3MmpjY3l3UnA2cXpsSG5zWE5VT2ZjNjFkU0p3X25BSEw3MkV6alVENWVqa09idnZVWXJTR3htNnhoSE9Oc2lPeG1hRWFMcDI0UTJYWHZrVXQ2amd0c2lWZmE4djVoSWo0TTFFY0FXQmlQdElwbHVwM1RMNnVHQURzenV5VWVjeWJ5YWFVUWdDcFRXOE9VUUNiSEJRUjZydWlkWWI4MThWWjVKck03RFdRTXQ0VDR3VWlDcknSAdQBQVVfeXFMTXpWcjF6OU5kR2lRdUJNU2NDSEJDd0hNQmFUWF8tVWpENkRXU2NFRFhpTjIwY1BhSEw4RVg2N0YzWWZXandSZm1HcGM5SXh4SWJIT3lPRjBETnNTRE5Ub0ZuNEdGZXZ1UUd3Sm1DZEhIZjdTbGt3SllhOUxDTnNocnFVNnhKcTBZRV9jZUt3SWpNWW1ic0dFMzlSTGJPbi1JRWlJSUFoU1c2QVN1WF9WdlBHX0owbGRTNzh3aEUzYzhXeUk5SFVtcXdBVXV6YzdVRmVUclU?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 23:43:13 GMT"
-    },
-    {
-      "id": "0afd50b2f51eb284f0e69fd089311eb4",
-      "title": "Drug slashes migraine days by half in early trial — and it may work with completely 'new mechanism' - Live Science",
-      "source": "Live Science",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMU53UnJtb3FudlFhUm9fd01zaUR3aE1acVpGTGJ5RXpKbFkwSE1Zb0hSWjB5UGZyM0lNZ1hRYU5yZWwxb1dBY3RGNTFCMS1xaklUVFFfc25YMGxJNzkwY2xuN2w3bEFZMEw1SmJfWUNsbGlMRGs0QVVvekphc2JUSVpOZjhLTmRiRFpYclZOOWtvaGJ1VXA4TWR3RW1sMF9YbHhDNW9fSlVSNEJYcTdNUEV1clQyVF8tVDZWVjJHRlhUM0ppbFlTb1pLQzZpYzhsdjR6dlVrQ2Q0MWhfY1E?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 18:00:00 GMT"
+      "url": "https://www.dailymail.co.uk/health/article-14854459/Doctor-warns-five-common-supplements-cause-deadly-heart-attacks-liver-failure.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/06/30/19/99867685-0-image-a-13_1751308177526.jpg",
+      "summary": "Monday, Jun 30th 2025 12AM 72°F Doctor warns five common supplements can cause deadly heart attacks and liver failure READ MORE: Why heart attacks are striking young people By ISHITA SRIVASTAVA FOR DAILYMAIL. COM PUBLISHED: 16:05 EDT, 30 June 2025 | UPDATED: 16:42 EDT, 30 June 2025 A top heart doctor has revealed the insidious supplements and capsules that could...",
+      "published": "Mon, 30 Jun 2025 20:07:41 GMT"
     },
     {
       "id": "e4063d9033216617e31d28eb4f13f14c",
       "title": "Cancer Patients Are Opening Up About The One Early Symptom They Wish Wasn't Ignored - BuzzFeed",
       "source": "BuzzFeed",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56dFVpUEZHMERBU2E0N214TGxOSXNjaFk2dG5TM3hQZVhQOUlPN3pHX0daV3lGU0dtaTVUVHdmdFF0emg1cl9BOGU1ZVI3N1lkQTEzRVZla3daQkFLblBfRXVzS3RqQkNYeGFUZTZZcXpGTEJiODZXX1BmNFpEdkU?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.buzzfeed.com/alanavalko/early-cancer-symptoms-that-got-ignored",
+      "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-06/25/20/thumb/uPgJKOeR6.jpg?crop=2999:1570;0,0%26downsize=1250:*",
+      "summary": "Internet Finds·Posted 7 hours ago Subscribe to BuzzFeed Daily Newsletter People Are Sharing The Early Signs Of Cancer They Wish They Hadn't Ignored, And Let This Be A Sign To Go Get Checked \"GET YOUR PAP SMEARS. I promise you, the treatment for cervical cancer is so much more invasive than a Pap. \" No one wants to be diagnosed...",
       "published": "Mon, 30 Jun 2025 23:30:02 GMT"
     },
     {
-      "id": "8066ee712856cb6629191c8c820f7442",
-      "title": "A Texas boy needed protection from measles. The vaccine cost $1,400. - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16OWd0Z3VYZmZOYjBzRkZyWlZ0TlNxNktlTHg4Wmh4R0h1T2NFczVSRDFwMjZ0QnRpOVBmdVNEQ2VGdmtJUVJzemV0VWU1VnYyanYySXdxcmp4dDhKcTVXWGRfWlduNEVIZ2RFSklVY3h6d3hJRzNyNmhCb20?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 17:00:00 GMT"
+      "id": "0afd50b2f51eb284f0e69fd089311eb4",
+      "title": "Drug slashes migraine days by half in early trial — and it may work with completely 'new mechanism' - Live Science",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/health/medicine-drugs/drug-slashes-migraine-days-by-half-in-early-trial-and-it-may-work-with-completely-new-mechanism",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/LXmkLGUaRuXtcvPipkmMY6.jpg",
+      "summary": "Drug slashes migraine days by half in early trial — and it may work with completely 'new mechanism' By Marianne Guenot published 2 days ago The obesity drug liraglutide cut migraine days in half in a small trial, though more research is needed to exclude the placebo effect, researchers said. When you purchase through links on our site, we may...",
+      "published": "Sun, 29 Jun 2025 18:00:00 GMT"
     },
     {
-      "id": "08bdd90497d368141ccebb5c654f1fc4",
-      "title": "People Are Being Committed After Spiraling Into 'ChatGPT Psychosis' - Slashdot",
-      "source": "Slashdot",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzA0VDI0T2FJa2tBSkdfSkkxSE1kWEJWLTFYVmhUeEpVWmMtX25ianl1RElKQVhTcWFvRDRfc1hXYkl0N05kNi1JWHFVRWpBR2JSbnZKRmx2MDRyRU03cXhkaEdOUDIycGF3N0NoUnFjT1gzVF81aUxpOFI3WEdLY3lyLU9mWU1fd2pCN0xnNTZWdjBQMXlYYkE1eE9BYzhDT240d2trM1RPTTJTdFE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 02:03:45 GMT"
+      "id": "1c33716bfbd2ec513d69d3e69f1f00ae",
+      "title": "Digestive issues are on the rise in the US. Here are 5 of the most common conditions. - AOL.com",
+      "source": "AOL.com",
+      "url": "https://www.aol.com/digestive-issues-rise-us-5-153000494.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/6t4NZaeFQtAf8UdjIKDbww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_stacker_articles_387/87428741930dad023e91907c5963a808",
+      "summary": "Digestive issues are on the rise in the US. Here are 5 of the most common conditions. Mon, June 30, 2025 at 10:30 AM CDT Digestive issues are on the rise in the US. Here are 5 of the most common conditions. By some estimates, a whopping 66% of Americans live with gut issues—and some medical professionals think gastrointestinal conditions...",
+      "published": "Mon, 30 Jun 2025 17:19:27 GMT"
     },
     {
       "id": "a3c242dc985bee88156d691aa4a77f03",
       "title": "People Are Reporting A Frightening COVID Symptom Right Now — Here's What To Know - Yahoo",
       "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdE1mTHM0aGhKWnpIR3hpTmIxbmQ2MF9FN2wtaWtHWDJzN0dBdzhDcEs5cEhJU05sMXlNaWlpNU1GbnVmMzRjTFFRZXVWbnUxN3pUdXhOY1FqNERKXzVuYzRqUy1Lck8wQUpWS3pQeG4wQ1NrS3h6Z3BLV21IczZFYzI2b0g2Qk5qbG1wMg?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.yahoo.com/news/people-reporting-frightening-covid-symptom-110017394.html",
+      "image_url": "https://media.zenfs.com/en/huffpost_life_308/b97a392d5db9aaab717f28edf95df91d",
+      "summary": "Tillis retiring after Trump attack People Are Reporting A Frightening COVID Symptom Right Now — Here's What To Know Sun, June 29, 2025 at 11:00 AM UTC Some people in China are reporting severe sore throat with COVID infections right now. apomares via Getty Images A positive COVID-19 test result is not something that anyone wants to see — but...",
       "published": "Sun, 29 Jun 2025 11:00:17 GMT"
     },
     {
       "id": "c30aef138b1d1d76a2040e0e07cf7040",
       "title": "BMI is B-A-D, a new study suggests. Here's a better way to measure weight - KSL News",
       "source": "KSL News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS19TWEZINDVsYzZFWVJDeWZLN3NUWXNhNFRWeUJJdEhrSUNYVmJhV1djVVdRb0NMc0xJbWlxRERNVnVhLWFuNGxsd0xlemM5cFJTUEUxMWEtYWhLcWJoRVZ1OWdBS1VWMWtDX0pGVWczVHB6Z1pyS1BJb0hxOVIzcGV5ZG56N0JwaDFJa0JaNk0yMHlRSlV0aFZVbXkzSkxNMGhjcTgtWHAyZVk?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.ksl.com/article/51334839/bmi-is-b-a-d-a-new-study-suggests-heres-a-better-way-to-measure-weight",
+      "image_url": "https://img.ksl.com/slc/3090/309055/30905598.jpg?filter=kslv2/responsive_story_lg",
+      "summary": "BMI is B-A-D, a new study suggests. Here's a better way to measure weight By Sandee LaMotte, CNN | Posted - June 29, 2025 at 11:21 a. m. A mild electric current is sent through the body via the feet and thumbs on this bioelectrical impedance analysis machine. Authors of a new study say BIA may be a more accurate...",
       "published": "Sun, 29 Jun 2025 17:25:41 GMT"
     },
     {
-      "id": "ed318d2c18747e63467871bc05276c14",
-      "title": "This Simple Dietary Switch Could Be a Game-Changer for Women With Diabetes, Endocrinologists Say - AOL.com",
+      "id": "30f49bc3118927c2871ce022b52f6585",
+      "title": "Surprising New Study Links Daytime Napping to Hidden Health Risks - AOL.com",
       "source": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15M1VoejRhZUcyLTRScDFJUWRWSHRmM2VwTkVGY1pMNVBjSkpIZ1FkSUdsZ3U1X01TV0dTYzREaXQzbkVqbGNVWmw1eGJ3Ty1pd2ZXbzNlT3lLVkIxNnFyaEdaT1VleXVpNzZpRGJxWE5YdW90WkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsNGEyOFRETk9uYU5XaFNKMTZ4T1NRdGY1ZDhSRVFldDJ2QUMtY1p4aFF3ZjZSZjBGbmVrZzVSYkdmN0JGemx6d0lVRENyWldDeHNmdm93OGhweDRCMndLYlY4UkJfUlBmaVNnR2h5RDZhTzVOMFNEbTN6TEIwUQ?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 29 Jun 2025 18:53:37 GMT"
-    },
-    {
-      "id": "7b9b14210df3b7a515878550adc7e98e",
-      "title": "The No. 1 Food for Brain Health May Already Be in Your Pantry, Dietitian Says - TODAY.com",
-      "source": "TODAY.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRlYwbWQ1NHdxa2hRY2dZQi1KbU5EMXB6V0hXOGRwTHF3YTM4ZEU0RWY4VS1FeFloZ1Yza3Fnd2lYbUlMcm5yOC10R2dYREgzUFh4OGxBT1RSN0pXRkhzYkFfbzd0SFlFNmpTMjNGbzFPZTR2VGNoM01EbjlsUUJ5ZjBudWdUVXVkVFprWG1ENElIdTBReWfSAVRBVV95cUxQZXZabUNlbXNrOVVuMHNjUlRvR0k3YTVodXdDd05yTC1IbmV2TmkxUlQyU0NQbW5HUW5NbUlpR1k2OXVHYmVnRnpSUkduUTNQeXJmRTM?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 12:00:00 GMT"
-    },
-    {
-      "id": "91f839665e373a61b871408c9f064e30",
-      "title": "Radiation Therapy Linked to Lower Alzheimer's Risk, Study Finds - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjJJaUNXbGk1WjBYelEyazRhdUFqT3BZeTEtd3lCTDJNU0dEampnOTNCckZualNCYThRSldpT1FIcElEMTQ0eE1xeHh1Y2Fhd0RQdnRsYmh3TzI4OWlicDc1OHFKUHNRNVE2eEs0Q0FBRmpLSTB0M0F3STgwZnc0VjBRSktmRkZ4SnlkMHQyQVNTenNv?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 15:01:40 GMT"
-    },
-    {
-      "id": "2a16fdb92634c4c47e504261e78023c6",
-      "title": "Upstate children sick and dying from meningitis - WYFF",
-      "source": "WYFF",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGQweHJkMFVCbTZOSkdySnhuZzJBa0Z0d3hjSUZ3YW1lZ21VaHB6Q0xxQjBxTXlOX3FtSGlnSXhuWHNWOGs2MGdrcmttSWNCU2RSVU1JTUY4Z3pFVDRsT1ppM0tkWXhiZm1nTDJTXzIzODFXeTk3RGxiTnNqTEE2dDNzVmQtSmRzZUJtMWI3bEw4T3NucVN3?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 22:45:00 GMT"
-    },
-    {
-      "id": "51239b6c7dccf959c2061304e0dc2626",
-      "title": "Alzheimer's Might Not Actually Be a Brain Disease, Says Expert - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmJ1MnU4UkhNRXhuYk5idDRmek04R0NkSGRrdzJ6MmllWkRMa0dOMWlnLW1ocmpUNDd0LUZMSk9KYXpRQ1ZET2ZjS3pCU1p3NThlaThpYm83N2xNMFZPb2V2Q3pUdGN4S2Z6VjRYRFpMWno3aVdnUTd3Mk50dmtQUnFWRnBZdFQ5UlA5ZnctMEgzaG8?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 21:52:40 GMT"
-    },
-    {
-      "id": "4ae613122297c5e623c6d0b75a1e9665",
-      "title": "Scientists find possible cure for diseases that impacts 10 million Americans in groundbreaking study - Daily Mail",
-      "source": "Daily Mail",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2IxMXFTR0otNDE3RjFFQUZoVE1OV0xPTWt2UU1zbDVrYnBoQWQtV2ZreFRlZ3lSelhBR0V5MVkxS2xTX0lJZmsxb0Rhcm9ERV94Q2ZrUFJCZFQxMk53MVNDeFFJbWh4TmlkRXgtN3kwLVB0MWwxdUlobGJSeTdxTzZPbkNuUlVhNEZaME8zWU52b3dxSmlYNG5sUWdmbVZ6YUZtbkoyVkFRUdIBrwFBVV95cUxOc3YxN3BqZmh4LXZrdGl6aEtQWDlhVk13Y2ZQZmpPOW5rYWtTeGh3UFlPQV84WlotNE5OeVEtbkM4VThrVjBkMkk5NzFkeEU5MHVaTGFTNFpfeUVuODQxeVFFWGkyVHFaZHl0TG5EUkVFOURteVdXTDEtaFF3c08yMEVQTWpYYkdOb09xZDBMWk5TRmN4OTU0V2xUTzdlUnFDSlA1ei1tV21MRkxObkgw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 19:02:50 GMT"
-    },
-    {
-      "id": "c9f1796735c4d8f29eb2b6ebc71a6eb9",
-      "title": "Click, speak, move: These brain implants are poised to help people with disabilities - NPR",
-      "source": "NPR",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQzhJRGxGY1hBajNycDRFYmx3dTJMU2VkeFhjQmhZRGFFSXowOVIxU1JZSlEyMWtncUdxeE83TUpydjdhRFhTRjNSbXlNak81UjBodWRPYjJCV2sxcnlvdFlIQ3BoTi1meXh3VjZzaW0xZy1jTDN4eGx3Zy1aVVd1NTV4dW5hclRsS2drX2M1cWIzSWduc3M0Qzk3eVZHRmVjblYxZzRROGpHd0NJbWxSbjRpejdiUTJMd0NxdGZHYkZlbTlVSTBn?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Mon, 30 Jun 2025 10:00:00 GMT"
+      "published": "Sun, 29 Jun 2025 19:30:00 GMT"
     },
     {
       "id": "2b51c0b02ee8c14bab6f578b074c0bb7",
@@ -177,6 +105,51 @@
       "published": "Mon, 30 Jun 2025 00:36:12 GMT"
     },
     {
+      "id": "8066ee712856cb6629191c8c820f7442",
+      "title": "A Texas boy needed protection from measles. The vaccine cost $1,400. - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16OWd0Z3VYZmZOYjBzRkZyWlZ0TlNxNktlTHg4Wmh4R0h1T2NFczVSRDFwMjZ0QnRpOVBmdVNEQ2VGdmtJUVJzemV0VWU1VnYyanYySXdxcmp4dDhKcTVXWGRfWlduNEVIZ2RFSklVY3h6d3hJRzNyNmhCb20?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 17:00:00 GMT"
+    },
+    {
+      "id": "ed318d2c18747e63467871bc05276c14",
+      "title": "This Simple Dietary Switch Could Be a Game-Changer for Women With Diabetes, Endocrinologists Say - AOL.com",
+      "source": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15M1VoejRhZUcyLTRScDFJUWRWSHRmM2VwTkVGY1pMNVBjSkpIZ1FkSUdsZ3U1X01TV0dTYzREaXQzbkVqbGNVWmw1eGJ3Ty1pd2ZXbzNlT3lLVkIxNnFyaEdaT1VleXVpNzZpRGJxWE5YdW90WkE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 29 Jun 2025 18:53:37 GMT"
+    },
+    {
+      "id": "c9f1796735c4d8f29eb2b6ebc71a6eb9",
+      "title": "Click, speak, move: These brain implants are poised to help people with disabilities - NPR",
+      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQzhJRGxGY1hBajNycDRFYmx3dTJMU2VkeFhjQmhZRGFFSXowOVIxU1JZSlEyMWtncUdxeE83TUpydjdhRFhTRjNSbXlNak81UjBodWRPYjJCV2sxcnlvdFlIQ3BoTi1meXh3VjZzaW0xZy1jTDN4eGx3Zy1aVVd1NTV4dW5hclRsS2drX2M1cWIzSWduc3M0Qzk3eVZHRmVjblYxZzRROGpHd0NJbWxSbjRpejdiUTJMd0NxdGZHYkZlbTlVSTBn?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "id": "7b9b14210df3b7a515878550adc7e98e",
+      "title": "The No. 1 Food for Brain Health May Already Be in Your Pantry, Dietitian Says - TODAY.com",
+      "source": "TODAY.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRlYwbWQ1NHdxa2hRY2dZQi1KbU5EMXB6V0hXOGRwTHF3YTM4ZEU0RWY4VS1FeFloZ1Yza3Fnd2lYbUlMcm5yOC10R2dYREgzUFh4OGxBT1RSN0pXRkhzYkFfbzd0SFlFNmpTMjNGbzFPZTR2VGNoM01EbjlsUUJ5ZjBudWdUVXVkVFprWG1ENElIdTBReWfSAVRBVV95cUxQZXZabUNlbXNrOVVuMHNjUlRvR0k3YTVodXdDd05yTC1IbmV2TmkxUlQyU0NQbW5HUW5NbUlpR1k2OXVHYmVnRnpSUkduUTNQeXJmRTM?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 12:00:00 GMT"
+    },
+    {
+      "id": "51239b6c7dccf959c2061304e0dc2626",
+      "title": "Alzheimer's Might Not Actually Be a Brain Disease, Says Expert - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmJ1MnU4UkhNRXhuYk5idDRmek04R0NkSGRrdzJ6MmllWkRMa0dOMWlnLW1ocmpUNDd0LUZMSk9KYXpRQ1ZET2ZjS3pCU1p3NThlaThpYm83N2xNMFZPb2V2Q3pUdGN4S2Z6VjRYRFpMWno3aVdnUTd3Mk50dmtQUnFWRnBZdFQ5UlA5ZnctMEgzaG8?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 21:52:40 GMT"
+    },
+    {
       "id": "d4d186d63c40f10b9f532ee874d9bcba",
       "title": "I'm a neuroscientist. I scanned my own brain 26 times to see how it changed during pregnancy. - Yahoo",
       "source": "Yahoo",
@@ -184,6 +157,33 @@
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
       "published": "Mon, 30 Jun 2025 09:00:20 GMT"
+    },
+    {
+      "id": "8a837a7dbb31771b4774a7099121e4cc",
+      "title": "Doctors And Nurses Are Revealing The \"Small\" Health Signs You Should Never Ignore, And It's Shocking - BuzzFeed",
+      "source": "BuzzFeed",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTlHNVEwRnVac2dpVFVTOGdMTU9qd0RoV2FrbW1iWFM5Q0h1NkU0WW9YVVRacUEwZVAzdlpFZFh6cFllbVJhb09HUUFld3hjUmg1ZDVtdkJfQ3pHQUVSWl9qODdZZFVlMDg2TmNmdVVpQk1pQkJKYndINkZrOFdNWUpjNVgyNUtrWXV3MWhtWHR1Mk4wcVY1eQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 29 Jun 2025 20:21:02 GMT"
+    },
+    {
+      "id": "4ae613122297c5e623c6d0b75a1e9665",
+      "title": "Scientists find possible cure for diseases that impacts 10 million Americans in groundbreaking study - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2IxMXFTR0otNDE3RjFFQUZoVE1OV0xPTWt2UU1zbDVrYnBoQWQtV2ZreFRlZ3lSelhBR0V5MVkxS2xTX0lJZmsxb0Rhcm9ERV94Q2ZrUFJCZFQxMk53MVNDeFFJbWh4TmlkRXgtN3kwLVB0MWwxdUlobGJSeTdxTzZPbkNuUlVhNEZaME8zWU52b3dxSmlYNG5sUWdmbVZ6YUZtbkoyVkFRUdIBrwFBVV95cUxOc3YxN3BqZmh4LXZrdGl6aEtQWDlhVk13Y2ZQZmpPOW5rYWtTeGh3UFlPQV84WlotNE5OeVEtbkM4VThrVjBkMkk5NzFkeEU5MHVaTGFTNFpfeUVuODQxeVFFWGkyVHFaZHl0TG5EUkVFOURteVdXTDEtaFF3c08yMEVQTWpYYkdOb09xZDBMWk5TRmN4OTU0V2xUTzdlUnFDSlA1ei1tV21MRkxObkgw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 19:02:50 GMT"
+    },
+    {
+      "id": "a522f76137cef1a861b3d841b7742bdd",
+      "title": "BBC's Discovery: How does the heat affect our health? - KGOU",
+      "source": "KGOU",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPajNRd1NQeENZeFJsTW9ET19wblRHdDhNd3Q5ZnlXZmF0eVc2dUFBZUh3WXRnTll3Q2lSYjRnYmlMTUdQSXl5UHBfOUpHOXBKb19Qbjd4YS1FbWhtekEybV9JR1dWMUJ2MVZvUnhsT0pYWlh1dlo2ZlIxN3gzWDlaY2JFLTRBZ216cl91LTRaWGFJMUVvQldDNUN3bzR0aEFBLXRvTGxyM1IxM3lUQUdZWTlfSQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Mon, 30 Jun 2025 15:30:00 GMT"
     }
   ]
 }
