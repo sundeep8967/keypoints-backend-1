@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-07-02 13:14:41",
+    "generation_time": "2025-07-02 18:48:36",
     "total_articles": 20
   },
   "articles": [
@@ -12,34 +12,79 @@
       "url": "https://www.reuters.com/world/china/dalai-lama-says-institution-dalai-lama-will-continue-2025-07-02/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 08:41:21 GMT"
+      "published": "Wed, 02 Jul 2025 14:00:29 GMT"
     },
     {
-      "id": "6d520fde82ac8004d3a6db25f8ccaa97",
-      "title": "Israel-Gaza war live: Hamas says it is ‘ready’ for ceasefire but stops short of accepting Trump’s plan - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2025/jul/02/israel-gaza-war-live-updates-trump-ceasefire-hamas-latest-news",
-      "image_url": "https://i.guim.co.uk/img/media/dccdb454fc873466aa20132d76d065fbbe34151f/380_0_3800_3040/master/3800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=457bdcb3ee43004091c43ae39699091a",
-      "summary": "Fund the free press with $15 per month Israel-Gaza war live: Hamas says it is ‘ready’ for ceasefire but stops short of accepting Trump’s plan Militant group insists any proposal must bring an end to the war in Gaza Full report on Trump’s ceasefire claim Jane Clinton (now) and Kate Lamb (earlier) First published on Tue 1 Jul 2025 19.",
-      "published": "Wed, 02 Jul 2025 12:23:00 GMT"
-    },
-    {
-      "id": "316ccec756c0fb0a00a7ffd5904b5ebe",
-      "title": "US pauses some munitions shipments to Ukraine, including air defense missiles, senior White House official says - CNN",
+      "id": "6b3f08fb9f440c34404aa6853e65b7a8",
+      "title": "Israeli official says country has accepted 60-day Gaza ceasefire deal detailed by Trump - CNN",
       "source": "CNN",
-      "url": "https://www.cnn.com/2025/07/01/us/pentagon-hegseth-ukraine-munitions-hnk",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap24267687278296.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Trump's megabill heads to House. US pauses some weapons shipments to Ukraine. Paramount agrees to settle Trump lawsuit. US pauses some munitions shipments to Ukraine, including air defense missiles, senior White House official says By Kristen Holmes and Lex Harvey, CNN Updated 7:19 AM EDT, Wed July 2, 2025 US Defense Secretary Pete Hegseth speaks during a press conference at...",
-      "published": "Wed, 02 Jul 2025 04:33:00 GMT"
+      "url": "https://www.cnn.com/2025/07/01/politics/gaza-ceasefire-israel-agreement-trump",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2222325714.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Israeli official says country has accepted 60-day Gaza ceasefire deal detailed by Trump By Kristen Holmes, Kylie Atwood and Jeremy Diamond, CNN Updated 12:52 PM EDT, Wed July 2, 2025 This picture taken from a position at Israel's border with Gaza shows smoke billowing during an Israeli strike on the besieged Palestinian territory on July 1, 2025. Jack Guez/AFP/Getty Images...",
+      "published": "Wed, 02 Jul 2025 16:52:00 GMT"
     },
     {
-      "id": "c7a892aee5a40215ee1590b6fa957f70",
-      "title": "European heat wave closes Eiffel Tower’s top floor and bakes Wimbledon - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/climate-environment/2025/07/02/european-heat-wave-eiffel-tower/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4T573SNVPCTJHMEBINVICN76IU_size-normalized.jpg&w=1440",
-      "summary": "European heat wave closes Eiffel Tower’s top floor and bakes Wimbledon The heat wave that has blanketed much of Europe is expected to linger over the continent this week, driving up temperatures and offering little reprieve. A tourist near the Eiffel Tower in Paris uses a hat to protect herself from the sun on Monday. (Ludovic Marin/AFP/Getty Images) In Paris,...",
-      "published": "Wed, 02 Jul 2025 11:30:55 GMT"
+      "id": "d949625e8f03b9df6a7daa03f22d75c8",
+      "title": "Pound Drops Amid Uncertainty Over UK Chancellor Rachel Reeves - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/07/02/world/europe/rachel-reeves-uk-keir-starmer.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 02 Jul 2025 16:38:10 GMT"
+    },
+    {
+      "id": "df7cc9bd4f2faf3af32e5436532060f5",
+      "title": "Scorching European heatwave turns deadly in Spain, Italy and France - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwyg5pq584eo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8503/live/c53e60b0-5738-11f0-af50-37ee6e9c264e.jpg",
+      "summary": "Scorching European heatwave turns deadly in Spain, Italy and France",
+      "published": "Wed, 02 Jul 2025 16:41:24 GMT"
+    },
+    {
+      "id": "a24727e4f383f7db095401b7bfc9f706",
+      "title": "Greetings from Alishan, Taiwan, whose red cypress forests offer timeless beauty - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/07/02/g-s1-72986/taiwan-red-cypress-forests-alishan",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2F4b%2F5f4d34d44a6788864c57e2fb33f0%2Ffarflungpostcard-efeng.jpg",
+      "summary": "Greetings from Alishan, Taiwan, whose red cypress forests offer timeless beauty Far-Flung Postcards is a weekly series in which NPR's international team shares snapshots of moments from their lives and work around the world. In November, during one of the last weeks of my posting in Taiwan, I went to my favorite place there: the red cypress forests of Alishan,...",
+      "published": "Wed, 02 Jul 2025 13:44:21 GMT"
+    },
+    {
+      "id": "fcee7ee4b01f5939ffe5bbf76648abff",
+      "title": "6 people accused of witchcraft killed, 2 of them burned alive, in Burundi, official says: \"Unspeakable barbarity\" - CBS News",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/witchcraft-accusations-killings-burundi-official-says/",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/07/02/8be52df1-bdcd-4dfe-95fe-0de81a5186c0/thumbnail/1200x630/2c725071153d5d919466abb6edf7e09b/gettyimages-2221384411.jpg",
+      "summary": "6 people accused of witchcraft killed, 2 of them burned alive, in Burundi, official says: \"Unspeakable barbarity\" Updated on: July 2, 2025 / 1:04 PM EDT / CBS/AFP Six people accused of witchcraft were killed, burned alive, stoned or beaten by a militia in Burundi, a local official told AFP on Wednesday. The official and witnesses, who all asked for...",
+      "published": "Wed, 02 Jul 2025 16:55:27 GMT"
+    },
+    {
+      "id": "a874cd4ae4242b4b899ee54da5ce0363",
+      "title": "‘Immoral’ U.N. ‘sabotaging’ food distribution, Gaza Humanitarian Foundation chairman says - Jewish Insider",
+      "source": "Jewish Insider",
+      "url": "https://jewishinsider.com/2025/07/johnnie-moore-gaza-humanitarian-foundation-food-aid-hamas/",
+      "image_url": null,
+      "summary": "Verify you are human by completing the action below. jewishinsider. com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Wed, 02 Jul 2025 09:22:10 GMT"
+    },
+    {
+      "id": "e8c405c823c84461275f632fa18ef609",
+      "title": "Ancient Egyptian history may be rewritten by a DNA bone test - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1dnnyz0z6do",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/99f0/live/86b579b0-5683-11f0-b5c5-012c5796682d.jpg",
+      "summary": "Ancient Egyptian history may be rewritten by DNA bone test Science Correspondent•@BBCPallab Liverpool John Moores University. Nature Tests on the skull could give new insights into ancient history A DNA bone test on a man who lived 4,500 years ago in the Nile Valley has shed new light on the rise of the Ancient Egyptian civilisation. An analysis of his...",
+      "published": "Wed, 02 Jul 2025 15:01:49 GMT"
+    },
+    {
+      "id": "c82ff0fb5d38930f7773d25c9dfd5594",
+      "title": "Russia ramps up offensives on 2 fronts in Ukraine as both sides seek an advantage before the fall - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-offensives-ceasefire-c03921de21027d13117cb668c9a1a959",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Wed, 02 Jul 2025 09:46:00 GMT"
     },
     {
       "id": "1270c2aeb91e859fcc5c69b01166964d",
@@ -57,7 +102,25 @@
       "url": "https://www.nytimes.com/2025/07/01/world/europe/uk-keir-starmer-welfare-cuts-rebellion.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 21:41:37 GMT"
+      "published": "Tue, 01 Jul 2025 18:42:24 GMT"
+    },
+    {
+      "id": "c4872c68b8287276b34c52bd908e0021",
+      "title": "Daily Crossword: The Wedding Puzzle — July 2 - Vulture",
+      "source": "Vulture",
+      "url": "https://www.vulture.com/article/daily-crossword-puzzle-july-2-2025.html",
+      "image_url": "https://pyxis.nymag.com/v1/imgs/689/35a/a360321613ce700d0b882e4b7ec2ec344f-crossword-7-2-2025.1x.rsocial.w1200.jpg",
+      "summary": "By Malaika Handa, a Vulture crossword constructor since 2022 New crosswords dropped every weekday. Find all our games here. Get the 10x10 crossword, Cinematrix, and Telematrix sent to your inbox when they’re ready to play. After the Diddy Verdict, a Strange Celebration Breaks Out Someone brought baby oil. What’s the Beef Between South Park’s Creators and Paramount? Matt Stone and...",
+      "published": "Wed, 02 Jul 2025 09:00:42 GMT"
+    },
+    {
+      "id": "2f9912908b713db638ae5f5882d4dd30",
+      "title": "Von der Leyen to face Parliament confidence vote next Thursday - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/ursula-von-der-leyen-european-parliament-no-confidence-vote/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/02/GettyImages-2222761288-scaled.jpg",
+      "summary": "Von der Leyen to face Parliament confidence vote next Thursday",
+      "published": "Wed, 02 Jul 2025 17:16:37 GMT"
     },
     {
       "id": "6733f50af582bf4dd5ed6e127d1a3109",
@@ -69,13 +132,13 @@
       "published": "Wed, 02 Jul 2025 03:28:00 GMT"
     },
     {
-      "id": "c4872c68b8287276b34c52bd908e0021",
-      "title": "Daily Crossword: The Wedding Puzzle — July 2 - Vulture",
-      "source": "Vulture",
-      "url": "https://www.vulture.com/article/daily-crossword-puzzle-july-2-2025.html",
-      "image_url": "https://pyxis.nymag.com/v1/imgs/689/35a/a360321613ce700d0b882e4b7ec2ec344f-crossword-7-2-2025.1x.rsocial.w1200.jpg",
-      "summary": "By Malaika Handa, a Vulture crossword constructor since 2022 New crosswords dropped every weekday. Find all our games here. Get the 10x10 crossword, Cinematrix, and Telematrix sent to your inbox when they’re ready to play. A Love Letter to Vermeer The Frick’s austere new show about the Dutch master is a quiet triumph. Sarah Ramos Has Seen Your Horny Takes...",
-      "published": "Wed, 02 Jul 2025 09:00:42 GMT"
+      "id": "fd1dc98018a7c4bda44b5926d22f95e8",
+      "title": "Russia-Azerbaijan Tensions Soar, Threatening Moscow’s Influence - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/07/02/world/europe/russia-azerbaijan-tensions-safarov.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 02 Jul 2025 16:18:12 GMT"
     },
     {
       "id": "faa5a49a8fce89cd401db73ab4bcfbf7",
@@ -84,106 +147,43 @@
       "url": "https://www.dw.com/en/us-japan-india-australia-announce-critical-minerals-initiative/a-73113459",
       "image_url": "https://static.dw.com/image/73113557_6.jpg",
       "summary": "DW uses cookies and similar technologies to measure usage, display personalized advertising and share personal data and information with up to 186 third parties. You decide for yourself whether you agree to this use of your data. You can adjust individual details under “Settings” and change them at any time. You can view all of DW's content without agreeing. Social...",
-      "published": "Wed, 02 Jul 2025 03:35:57 GMT"
+      "published": "Wed, 02 Jul 2025 03:38:56 GMT"
     },
     {
-      "id": "00395b48f3e280e1cd9199c3e45332fb",
-      "title": "Ugandan military helicopter crashes at Somalia's Aden Adde airport in Mogadishu, official says - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwye0wggzzko",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/878f/live/101373e0-5717-11f0-b909-8945bce4d179.jpg",
-      "summary": "Ugandan military helicopter crashes and catches fire in Somalia Swaibu Ibrahim, Ibrahim Aden & Fardowsa Hanshi BBC News, Kampala, Mogadishu & Nairobi",
-      "published": "Wed, 02 Jul 2025 08:37:33 GMT"
+      "id": "a1938c179928d764fa731f09796f2043",
+      "title": "74 killed in Gaza as Israeli forces strike a cafe and fire on people seeking food - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/07/01/nx-s1-5452994/israel-gaza-hamas-cafe-airstrike-aid",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8307x4673+0+433/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2Fc9%2Fac08204f4c719a37604481062ff8%2Fap25181599287201.jpg",
+      "summary": "74 killed in Gaza as Israeli forces strike a cafe and fire on people seeking food A man carries a child, who was wounded in an Israeli strike, after being treated in the Shifa Hospital, Gaza City on Monday. CAIRO (AP) — Israeli forces killed at least 74 people in Gaza on Monday with airstrikes that left 30 dead at...",
+      "published": "Tue, 01 Jul 2025 06:52:33 GMT"
     },
     {
-      "id": "8307a1ae4dd56a722ba4dc7755ef5980",
-      "title": "Scorching European heatwave turns deadly in Spain and France - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwyg5pq584eo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8503/live/c53e60b0-5738-11f0-af50-37ee6e9c264e.jpg",
-      "summary": "Scorching European heatwave turns deadly in Spain and France People hydrate at Piazza di Spagna in Rome Two people were found dead by firefighters tackling a blaze in Spain's Catalonia region on Tuesday, as Europe endures scorching temperatures during the ongoing heatwave. In a statement, Catalan authorities said the two bodies were found after firefighters extinguished a fire in the...",
-      "published": "Wed, 02 Jul 2025 10:42:44 GMT"
+      "id": "c81cd0470e87d963281bd4cc6bd25f28",
+      "title": "Ugandan military helicopter crashes at Somalia's Mogadishu airport, five dead - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/africa/military-helicopter-crashes-airport-somalia-capital-2025-07-02/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 02 Jul 2025 13:24:44 GMT"
     },
     {
-      "id": "ac850b6c92c73f75ed60dddfa45042dd",
-      "title": "Russian Offensive Campaign Assessment, July 1, 2025 - Institute for the Study of War",
-      "source": "Institute for the Study of War",
-      "url": "https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-july-1-2025",
-      "image_url": "https://understandingwar.org/sites/default/files/Russo-Ukrainian%20War%20July%2001%2C%202025.png",
-      "summary": "Christina Harward, Angelica Evans, Jessica Sobieski, Daria Novikov, and Frederick W. Kagan Click here to see ISW’s interactive map of the Russian invasion of Ukraine. This map is updated daily alongside the static maps present in this report. Click here to see ISW's interactive map of Ukraine's offensive in Kursk Oblast. Click here to see ISW’s 3D control of terrain...",
-      "published": "Tue, 01 Jul 2025 22:45:02 GMT"
+      "id": "8c9ee71c7b69fcf1414cd55450e6f1ef",
+      "title": "The U.S. military can't quit the Middle East - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2025/07/02/pentagon-navy-iran-nuclear-china",
+      "image_url": "https://images.axios.com/nejlAt6VONGHa3ER6gll2AHCu3w=/0x0:1920x1080/1366x768/2025/07/01/1751386597604.jpg",
+      "summary": "The U.S. military can't quit the Middle East Photo illustration: Aïda Amer/Axios. Photo: Mahmud Hams/AFP via Getty Images If you're in the defense business, you've seen this meme in one form or another. \"Born too late to deploy to the Middle East,\" it reads. \"Born too early to deploy to the Middle East,\" it continues. \"Born just in time to...",
+      "published": "Wed, 02 Jul 2025 10:58:19 GMT"
     },
     {
-      "id": "b1316ec06fac18e01611e6b4ca830903",
-      "title": "170 charities and NGOs call for U.S.- and Israeli-backed Gaza aid distribution to be shut down - NBC News",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/gaza/150-groups-call-us-israeli-backed-gaza-aid-distribution-shut-rcna212270",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250701-gaza-9-rs-0e7e1f.jpg",
-      "summary": "Morning Rundown: House races to pass Trump megabill, U. S. weapons shipment to Ukraine paused, and jury deliberates on Sean Combs racketeering charge 170 charities and NGOs call for U. S.- and Israeli-backed Gaza aid distribution to be shut down Charity and aid groups said more than 500 Palestinians had been killed and almost 4,000 injured in less than four...",
-      "published": "Tue, 01 Jul 2025 13:01:24 GMT"
-    },
-    {
-      "id": "ba19b72c5bfa14f4adf6e6bcc5c37dcc",
-      "title": "Witnesses describe grim aftermath of Israeli strike on busy Gaza cafe | Israel-Gaza war - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2025/jul/01/aftermath-israeli-missile-strike-gaza-al-baqa-cafe-witness-accounts",
-      "image_url": "https://i.guim.co.uk/img/media/9eeb3b916a56936ac3075e0cd063bfc8ea05f5cd/0_0_6831_5464/master/6831.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31eb5e30ba434dfd6bdb2ae93116afaa",
-      "summary": "Fund the free press with $15 per month A Palestinian man carries away the body of a relative killed in the Israeli strike on al-Baqa cafe. Photograph: Omar Al-Qattaa/AFP/Getty Images Witnesses describe grim aftermath of Israeli strike on busy Gaza cafe Women, children and elderly people among at least 24 killed by attack that turned beach spot into scene of...",
-      "published": "Tue, 01 Jul 2025 09:30:00 GMT"
-    },
-    {
-      "id": "953e2d54a26e777ef922266d2bc854ad",
-      "title": "Death toll rises to 36 after explosion at a pharmaceutical factory in southern India - AP News",
+      "id": "80f7f1b6a2982d3fc9005f41022b7cb4",
+      "title": "An oil-drilling ship capsized in the Gulf of Suez, killing at least 4 crewmen, Egypt says - AP News",
       "source": "AP News",
-      "url": "https://apnews.com/article/india-pharmaceutical-factory-fire-telangana-e914c229736d1b2af3d4565d0e227cb1",
+      "url": "https://apnews.com/article/egypt-drilling-ship-oil-gulf-suez-canal-red-sea-dec99bb97bb3cba103b679f5a0cd6727",
       "image_url": "https://apnews.com/favicon.ico",
       "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Tue, 01 Jul 2025 06:30:00 GMT"
-    },
-    {
-      "id": "d6c75835309476420a743bc0c73aeb42",
-      "title": "In an Attack at Sunset, Israelis Set a Palestinian Village Ablaze - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/07/01/world/middleeast/israel-west-bank-palestinians-attack.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 17:56:38 GMT"
-    },
-    {
-      "id": "107c0619bea8eb7151700f014f7a4f6f",
-      "title": "Putin, Macron discuss Iran, Ukraine in first phone call in nearly three years - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/putin-macron-discuss-iran-ukraine-first-phone-call-nearly-three-years-2025-07-01/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 19:30:35 GMT"
-    },
-    {
-      "id": "070c8555a62c13d886903f3ff6ab6691",
-      "title": "‘It Apparently Bothers Russia’ – US Defends NATO Military Spending Boost Amid Kremlin Outcry - Kyiv Post",
-      "source": "Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rdGlrN3lWb19lRmhZMTdtV3A4UmE0eVVKMmExbGRVekVkRy1aLV82T1pwZ1Z2REs3azdWOHl6NFl5YWpTOENqcGpxWQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 01:00:44 GMT"
-    },
-    {
-      "id": "3f29c097aaa6666538b2f86528de624a",
-      "title": "UK police arrest three hospital managers in Lucy Letby investigation - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcWRLbVAyallkZXFiOFNrLXlzc3pMT242aDFpRlA3WGFGV1VORjZfN3d3OVQ1VUt2Rm1ZTHh6T3Z2M01Sc2QzWWV0dW15YXVlTFE1a3FHTklnWk82RUJVb1lkMlRHNE5oY2ZaaWlSWWFGbUhpbmhMQVZ0US1rMmUxYWZ6TG9WaUYxbFJ3TUlVRkhOaHBjNUFsUlNZSC12VDZzb1J5NjZrR3prTWdfc1FuRlBrcmpKenJTbUZYNw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 13:46:29 GMT"
-    },
-    {
-      "id": "4ad1a6ffff3587b3e9911f004cf68852",
-      "title": "Germany launches insurance crackdown on Russian ‘shadow fleet’ - Financial Times",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OcHRQTjljMzNvaDBpN2Ryekh1YkNmVGJiZjQwRkVXT251elJyU0pzOHNqSUN3Mnlwbks0R2hBUk9mR2RmMFNJd1g5VXhyR0JkdWJtc2tEcnpGZkZRZXU0MlpjVl9JWVVxQUV4RXljV3Q?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 19:34:26 GMT"
+      "published": "Wed, 02 Jul 2025 07:11:00 GMT"
     }
   ]
 }

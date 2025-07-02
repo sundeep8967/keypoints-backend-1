@@ -1,189 +1,45 @@
 {
   "metadata": {
     "source_file": "data/news_entertainment.json",
-    "generation_time": "2025-07-02 14:36:51",
-    "total_articles": 20
+    "generation_time": "2025-07-02 20:22:39",
+    "total_articles": 4
   },
   "articles": [
     {
-      "id": "7e72051e0c81554d80eaae1158f1ab74",
-      "title": "‘The Bear’ Renewed for Season 5 by FX - The Hollywood Reporter",
-      "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-bear-renewed-season-5-fx-hulu-1236304187/",
-      "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2025/06/20250502_TBR4_415_SMLS_250514.mov.01_13_54_14.Still019_R-H-2025.jpg?w=1296&h=730&crop=1",
-      "summary": "The Hollywood Reporter homepage Order Up: ‘The Bear’ Renewed for Season 5 by FX The series is set to return in 2026 on Hulu. 'The Bear' — “Replicants\" — Season 4 Episode 5 pictured: Jeremy Allen White as Carmen “Carmy” Berzatto. COURTESY OF FX The final episode of The Bear’s fourth season is titled “Goodbye,” but it won’t be a...",
-      "published": "Tue, 01 Jul 2025 21:45:28 GMT"
-    },
-    {
-      "id": "1c5757b50a1fdb529ecf2d7b43d98a85",
-      "title": "Taylor Swift joins Travis Kelce for Cleveland visit, lunch at JoJo’s Bar in Chagrin Falls - Cleveland.com",
-      "source": "Cleveland.com",
-      "url": "https://www.cleveland.com/entertainment/2025/07/jojos-bar-in-chagrin-falls-hosts-taylor-swift-travis-kelce-during-cleveland-visit.html",
-      "image_url": "https://www.cleveland.com/resizer/v2/VVQU2LZMOVCCNHGUE324RE6CCU.jpg?auth=8ce8530c791c01484d4cabc5909cd09e84f036d1b05075ad789da04b5dc1285d&width=1280&quality=90",
-      "summary": "4th of July Sale - $1 for 3 months - Unlimited Digital Access Rock and Roll Hall of Fame & Museum Taylor Swift joins Travis Kelce for Cleveland visit, lunch at JoJo’s Bar in Chagrin Falls Updated: Jul. 01, 2025, 7:08 p. m.|Published: Jul. 01, 2025, 6:49 p. m. Taylor Swift and Travis Kelce visited JoJo's Bar in Chagrin Falls...",
-      "published": "Tue, 01 Jul 2025 23:08:00 GMT"
-    },
-    {
-      "id": "0148c908def5249069bb162ce3341a8c",
-      "title": "Jury delivers partial verdict in Sean 'Diddy' Combs' sex trafficking trial, deliberations continue - France 24",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20250701-sean-diddy-combs-sex-trafficking-trial",
-      "image_url": "https://s.france24.com/media/display/81dc3a56-56c8-11f0-90b8-005056a97e36/w:1280/p:16x9/2025-06-27T215820Z-745284030-RC29BFA8991L-RTRMADP-3-PEOPLE-SEAN-COMBS.jpg",
-      "summary": "Your personal data, your options, our responsibility We and our partners use cookies or similar technologies to access and store non-sensitive information such as your IP address. The processing of your personal data allows us, for example, to improve your user experience, monitor audience ratings, offer social networks features, or display personalized advertisements. By clicking \"Accept\", you consent to the...",
-      "published": "Tue, 01 Jul 2025 23:09:00 GMT"
-    },
-    {
-      "id": "80a6a587284d90c80a1544e4bd366fac",
-      "title": "Uma Thurman’s back in action in ‘The Old Guard 2′ on Netflix - The Boston Globe",
-      "source": "The Boston Globe",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TMWE5VWIxMkRpRjN6ZEZWekRhTThGRmNaMDg3ZG1hT0Z5RTJQazN0NjlwVEhNTXFHWW14eW5xbEJFVGJDUjZaRU93U0ZXYVhYMlVhOUFxeDZ4cTZuRy1xRU9xSkhVa09KVUp2M28zSmVpQ21aUzR6TEM1UlE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 11:33:00 GMT"
-    },
-    {
-      "id": "116e471c296fdae02685991cdeb753b6",
-      "title": "'Evita' Could Move To Broadway With Rachel Zegler Reprising Role - Deadline",
-      "source": "Deadline",
-      "url": "https://deadline.com/2025/07/evita-to-broadway-london-palladium-rachel-zegler-jamie-lloyd-1236447524/",
-      "image_url": "https://deadline.com/wp-content/uploads/2025/07/IMG_2030.jpeg?w=1024",
-      "summary": "Breaking Baz: London Palladium Hit ‘Evita’ Could Move Straight To Broadway As Rachel Zegler & Jamie Lloyd Cry: “Don’t Wait For Me Argentina! ” Rachel Zegler (center) with London Palladium ‘Evita’ cast EXCLUSIVE: Jamie Lloyd (Sunset Boulevard) is not prepared to sit on his hands and wait another two years to take the electrifying West End production of Andrew Lloyd...",
-      "published": "Wed, 02 Jul 2025 08:18:00 GMT"
-    },
-    {
-      "id": "fd8bd678358062da49be3d153289dc2c",
-      "title": "Bob Vylan dropped from French music festival - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cz09y1r1y1ro",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9cab/live/80a0d9f0-572f-11f0-a129-bdd7ff3be6de.jpg",
-      "summary": "Bob Vylan dropped from Manchester music festival",
-      "published": "Wed, 02 Jul 2025 10:49:07 GMT"
-    },
-    {
-      "id": "9b6503076f9c7609213f37567e3c6aa1",
-      "title": "The Trailer for Christopher Nolan’s Epic ‘The Odyssey’ Has Leaked Online - Rolling Stone",
-      "source": "Rolling Stone",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFdvd2M5U09mSEVfbUxoc2tIUzVrZTdHTVpHcThhWC1Tb0lIM3ZoTDFIYkpqSnpHd3BRbzdWQWdGeWVZaVJjQmllME5Iak50RC1JNjdScTJ2UjdnZjdPVHRBUVdKNGZ5SkVnYzlSMHJSQVdNTFBkbXEyVUZXOG1xVjV4NGQ5RTZqOTZQV1FoNG1rYkUtckpkek9uRG1pdHA3dnNheUhuVXREODFWclE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 23:32:56 GMT"
-    },
-    {
-      "id": "a135102890345cf063057316a79dc092",
-      "title": "Jennifer Aniston to Star in ‘I’m Glad My Mom Died’ Series at Apple TV+ - The Hollywood Reporter",
-      "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/jennifer-aniston-im-glad-my-mom-died-series-apple-tv-1236303666/",
-      "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2025/07/NEW-Jennifer-Aniston-and-Jennette-McCurdy-Split-Getty-H-2025.jpg?w=1296&h=730&crop=1",
-      "summary": "The Hollywood Reporter homepage Jennifer Aniston to Star in ‘I’m Glad My Mom Died’ Series at Apple TV+ Jennette McCurdy is adapting her memoir and will serve as co-showrunner with Ari Katcher. If you purchase an independently reviewed product or service through a link on our website, The Hollywood Reporter may receive an affiliate commission. Jennifer Aniston has lined up...",
-      "published": "Tue, 01 Jul 2025 21:48:20 GMT"
-    },
-    {
-      "id": "998dda67058b16c229bce79aa9b14b2f",
-      "title": "He’s Ringo. And Nobody Else Is. - The New York Times",
+      "id": "4db8385e7bcceda909e42542dda69a21",
+      "title": "Sean 'Diddy' Combs Trial Live Updates: Combs Found Not Guilty of Sex Trafficking and Convicted on Lesser Charges - The New York Times",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/07/02/arts/music/ringo-starr-interview.html",
+      "url": "https://www.nytimes.com/live/2025/07/02/arts/sean-combs-diddy-trial-jury",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 09:00:38 GMT"
+      "published": "Wed, 02 Jul 2025 17:14:11 GMT"
     },
     {
-      "id": "a4c5098e14a70917a10b76346d537b42",
-      "title": "Meghan, Duchess of Sussex, launches ‘thoughtful’ collection of wines - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2025/jul/01/meghan-markle-wine",
-      "image_url": "https://i.guim.co.uk/img/media/a08462a2d9f9894e2061461195d20eac49000572/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25092df9668cd41c8634c05e24330b1e",
-      "summary": "Fund the free press with $15 per month The Duchess of Sussex in May 2024. Photograph: Kola Sulaimon/AFP/Getty Images Meghan, Duchess of Sussex, launches ‘thoughtful’ collection of wines Expansion of As Ever product line marks latest foray into lifestyle branding, with wine manufactured in Napa valley Last modified on Wed 2 Jul 2025 03. 56 EDT The Duchess of Sussex...",
-      "published": "Tue, 01 Jul 2025 15:11:00 GMT"
+      "id": "b4019a2896b8f274efb1a45391880425",
+      "title": "Catherine, Princess of Wales makes first public appearance after dropping out of Royal Ascot - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/07/02/uk/catherine-first-public-appearance-royal-ascot-intl-scli",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2222465148.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Catherine, Princess of Wales opens up about ‘really difficult’ cancer recovery By Max Foster and Issy Ronald, CNN Updated 3:36 PM EDT, Wed July 2, 2025 Princess of Wales discusses cancer recovery Princess of Wales discusses cancer recovery These drones are delivering blood samples across London Catherine, Princess of Wales has reflected on the “really difficult” aftermath of chemotherapy during...",
+      "published": "Wed, 02 Jul 2025 12:54:00 GMT"
     },
     {
-      "id": "3ecf576b4b27fd75f7b913f45bea67e6",
-      "title": "Post Malone Seemingly Struggles To Handle His Alcohol Amid Breakup From Influencer GF: 'He's Not Sober Anymore?' - Yahoo",
+      "id": "1c0ccbfc91f205df595f8b3a0621c06e",
+      "title": "Trey Parker and Matt Stone Allege Paramount Global and Skydance Media Merger Is ‘F**king Up’ ‘South Park’: It’s a ‘Sh**show’ - Yahoo",
       "source": "Yahoo",
-      "url": "https://www.yahoo.com/entertainment/articles/post-malone-seemingly-struggles-handle-173044864.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/Z_C.swo1DBBkjPNIIT6icw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NTQ7Y2Y9d2VicA--/https://media.zenfs.com/en/theblast_73/9600a16569a2ad4c4d36a110f14390ce",
-      "summary": "Post Malone Seemingly Struggles To Handle His Alcohol Amid Breakup From Influencer GF: 'He's Not Sober Anymore? ' Tue, July 1, 2025 at 5:30 PM UTC Post Malone doesn't seem to be coping well with his split from his girlfriend, Christy Lee. Just days after ending things with the aspiring influencer, the singer suffered a nasty fall during a performance...",
-      "published": "Tue, 01 Jul 2025 17:30:44 GMT"
+      "url": "https://www.yahoo.com/entertainment/articles/trey-parker-matt-stone-allege-174809707.html",
+      "image_url": "https://media.zenfs.com/en/indiewire_268/140eb96c69c4d48f2eb5c3f38d673635",
+      "summary": "Trey Parker and Matt Stone Allege Paramount Global and Skydance Media Merger Is ‘F**king Up’ ‘South Park’: It’s a ‘Sh**show’ Wed, July 2, 2025 at 5:48 PM UTC Trey Parker and Matt Stone are predicting a downward spiral for “South Park” amid the proposed merger between Comedy Central parent Paramount Global and Skydance Media. The “South Park” co-creators took to...",
+      "published": "Wed, 02 Jul 2025 17:48:09 GMT"
     },
     {
-      "id": "d709d9eecc7b003e466c93c3f7e591a9",
-      "title": "Adrian Grenier Isn’t Returning for ‘The Devil Wears Prada 2’ - The Hollywood Reporter",
-      "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/adrian-grenier-not-returning-for-devil-wears-prada-sequel-1236303704/",
-      "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2025/07/MCDDEWE_FE079-H-2025.jpg?w=1296&h=730&crop=1",
-      "summary": "The Hollywood Reporter homepage Adrian Grenier Isn’t Returning for ‘The Devil Wears Prada 2’ The actor, played Andy's (Anne Hathaway) boyfriend, Nate. Anne Hathaway and Adrian Grenier in 'The Devil Wears Prada. ' 0TH CENTURY FOX FILM CORP. /COURTESY EVERETT COLLECTION The sequel to the beloved film The Devil Wears Prada is advancing, but one of the characters from the...",
-      "published": "Tue, 01 Jul 2025 20:20:37 GMT"
-    },
-    {
-      "id": "c57364a2a151685b45b8b1d7e04f181f",
-      "title": "Box Office: ‘Jurassic World Rebirth’ Aims for $100 Million Over July 4th Holiday - Variety",
+      "id": "bfd989d1a92f120d816fbea523da4cce",
+      "title": "‘The Old Guard 2’ Review: Charlize Theron Leads Her Team of Immortals in Another, Lesser Battle - Variety",
       "source": "Variety",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWGxrZXllYkxlR01ZaGtGRXREb1lNRUwzajFBYWliZEpCYzU0b0M5eVJYd0F4SF9RcjFlZDVmOUlLdi11eGQ1ZXNJNGFWbm0yYmN2c210cUhhbDNpY3hGRy04ZUt2X2tkOE45OU5LckpMbFNtbk5rcmJuXzFwdndhdFZSRHJVMVdnZEY5UmUzSW1JWWphcWw1ODF1eFkwZXVJRWNadDc3UTN0ZS1vXzlRMUZsNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcXZMOWt1VFhrcEpLUnhoMHVmNXQ0SENmLU4weHdnU2hLdUttckNkM2tZYk1fQTIxMjFoeGFRcjJVTU1iLURBOGVaSHZwcG5oT3ppRzdTdThxaHlZdGpLZVRqbzNhTHpndW9yS01GZS0wSEp6QzlGVEhWTmRDc1V2OHZheW81Wi1SRldER0J0V2R0S3BXbmcxbnB4RzJlN2NK?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 18:57:00 GMT"
-    },
-    {
-      "id": "194e3391bc3fa956a88ae389280f9053",
-      "title": "‘Squid Game 3’ Sets Netflix Record With Massive 60.1 Million Views in Three Days - Variety",
-      "source": "Variety",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnVKZVlnUTdkQmxZY3R4TjBKR083SmFoa0d6SDhxeEJFTk9GLUp2eTBQUTJCdDRwS3hrdVpJNEhPejI2MzZQWWRnZ0tiaUdqejVSZUR5SkNFV0ZKbXhSeGd1NWNEektFWkdBNUFQQUw1dlNkS0dCXzVBdzlUcEpJcjBRbVF6V215cEp1ZFp3WQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 19:00:00 GMT"
-    },
-    {
-      "id": "9d114e47ff6b964fd3964d3fb7357cc8",
-      "title": "Ask an F1 Expert: Can You Crash Your Car on Purpose to Win a Race? - Vulture",
-      "source": "Vulture",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pSENoa2RRbUQzWUF0c2I1YTVRSzZNVVpYTThZWmd6SjNKaUZlemRRMVlrU05ObEJLMVVHYzhyU1IxbkFqeVZiRVZ3MER6Mk01YUF2RW1uTFB5S1BYNWJja1hBU1AzNUxzQmhWS0MxdDdPZ2Y0ZjhkU2UtNGh0Zw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 18:56:06 GMT"
-    },
-    {
-      "id": "b75adeef3228481ee9483f765ea64682",
-      "title": "Kanye West blocked from entering Australia over Hitler song - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JUnAydGNYUlFkRGl4VEtWSFMtazJsNm1HakVYUV92eWJGZE5WbW1aNXRMLUFEN2JWam9XY1BvT3ROVXhha2lhbmRPLVBTeEFVWWtkU0pyay1fZ9IBX0FVX3lxTFBXOTRXRHRBbnQyOWNyVFVYeV9Lb1lMYVBMbm1ILUxxNUY0amZDRHlJSzNQLUxIMTBtU2pfaHpBamxHaFo4RlZ6RF9qTlA1aVloWjQ2SEtmWmVmTm5UVnpJ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 09:07:16 GMT"
-    },
-    {
-      "id": "b22599fd41915844fd5bad1b9a30cc81",
-      "title": "K-pop supergroup BTS promises a new album and a world tour next year - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ0NmaVdRV0FJOTdITkFkcG9oaFZ4WVdNMWhobEFsaXVsSXI1N1p4TzBYMWtONXNKTjJMLVRaRFA2akdTVEMwUUtTSm5iWFhkZ29hS2lIZmpjTjFDcUNMaFVrRGVrOTlja1RYdUtiaTVmd3hxSDNOZVhwU3ZPR0hWdlQ3ZmdDcWszT0tFZHg1TVZkWDVIbDgxeWs5b2RrX0kxOTZ6R0tVbnFsaFZneUVoOC12ZzRtYi1oWFZB?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 23:50:49 GMT"
-    },
-    {
-      "id": "bf6a0b89010128ed15de32202b0f9535",
-      "title": "Controversial and Terrifying New Movie Hits #3 on Netflix—and the Trailer Alone Is Giving Me Nightmares - purewow.com",
-      "source": "purewow.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6bm8xMENQcERWS2hnTjBKMkFnWGtxOEoxLUoyQjRzOUVhRmRKeWxUbEdvYnJDQU9OcWhOOFpVcnlwSGZvcnczV3RsVmJjWXYyelhKUXJraEUwTVR4LUpsYkstYjZMbTI3MFVDc3BR?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 16:46:45 GMT"
-    },
-    {
-      "id": "65c6c3a4292e10d97df24f676081d55a",
-      "title": "Pop Singer ‘Can’t Remember’ How Many Abortions She’s Had - Yahoo",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rZl83MmNNZjBZMzZ0VzNabGJ0ZUxIRm81Nk5aYTRZSlZwbmpYUzZ3M3lrd3BieEFMTm1xbUtudkpYMXpUV040WUhTQWl3VWNrVnNVdjdzNzRUNnpLQkthMWNJbmsxV2dGa3VubmN4WURZcFU1dktYeHZYWlU?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 20:09:52 GMT"
-    },
-    {
-      "id": "d84a104061fe65f8b2da9daa7d46a3a5",
-      "title": "Vera Wang shows off her incredible body after celebrating her 76th birthday - hola.com",
-      "source": "hola.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSmk3R0U1VTJ1Vld6eERpQmdHY3pxdXR3MkJCbFlzTGV3M3dCLVNISVluSVpwYklDLVlQY1pvUElMOUNJQWhieTNHUlUtN19wUVMyUktDV1RxWEFmNUNJVHVMQmRaTFV2S19lRVI1Qkx5ZFY1VlJxZFFDSmk3b1ZPYmNTX2E5OFZ3NzlKVmlDUUJQOUMwUkYyaFFNaWdEWVh4Sk0wcGNjT0tSa1BidXNaX3RKTjJ4UdIBxAFBVV95cUxOQy1aVXZLYXpRV29tUG00cUdSUVJRQmJVZWR5TldGLWZHcjhHcDBsVHJnb0x5WThPTzB5RG5tVmx3TnJlM2o5QlU0eE1teDZEaG9LTkNnNjRZZm15b0k1bGd4V2o1eERuU2MzTklndW13QWRpWWdlS2xocDMwTUo3cGZkSEJIenZQcmQ0allwZGczSjdTY20xVWpBbzUwbGp1d3JNaTlZYU5qZlJsUlZjcmpGaXp2aHRNN3ZvWDRVaVNiM0ZI?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 01:31:00 GMT"
+      "published": "Wed, 02 Jul 2025 07:01:00 GMT"
     }
   ]
 }
