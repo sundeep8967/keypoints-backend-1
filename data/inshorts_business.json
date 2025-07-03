@@ -1,162 +1,36 @@
 {
   "metadata": {
     "source_file": "data/news_business.json",
-    "generation_time": "2025-07-03 04:17:10",
+    "generation_time": "2025-07-03 08:05:06",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "e4b60f611b733349a999000893ef6ce5",
-      "title": "Tesla Deliveries Drop Most in History. Why the Stock Is Up. - Barron's",
-      "source": "Barron's",
-      "url": "https://www.barrons.com/articles/tesla-stock-price-deliveries-sales-musk-99a554a7",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 20:20:00 GMT"
-    },
-    {
-      "id": "a3c67db795d2b7a6fb0d83f7b3d6b4ee",
-      "title": "Trump announces US-Vietnam trade deal - BBC",
+      "id": "22b823a5a8d518a3de47898b450f3d3d",
+      "title": "Jerome Powell: Trump calls for US central bank head to quit immediately - BBC",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c4gd66q0q7go",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1bf1/live/7d820590-5762-11f0-9074-8989d8c97d87.jpg",
-      "summary": "Trump announces trade deal with Vietnam",
-      "published": "Wed, 02 Jul 2025 22:49:55 GMT"
+      "url": "https://www.bbc.com/news/articles/crmv4ldv923o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7e27/live/191d5f50-579e-11f0-928e-73d4c154b474.jpg",
+      "summary": "Trump calls on US central bank head to quit immediately",
+      "published": "Thu, 03 Jul 2025 01:09:56 GMT"
     },
     {
-      "id": "3d6ae4aaa7aacbce2e0e2ec12004acda",
-      "title": "Trump’s plan to replace clean energy with fossil fuels has some major problems - vox.com",
-      "source": "vox.com",
-      "url": "https://www.vox.com/climate/418563/trump-big-beautiful-bill-clean-energy-fossil-climate",
-      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/07/GettyImages-1902316419.jpg?quality=90&strip=all&crop=0%2C10.744382556098%2C100%2C78.511234887803&w=1200",
-      "summary": "This moment demands more than headlines In a time of noise, confusion, and spin, we’re committed to clarity, truth, and depth — even when it’s hard. That kind of journalism isn’t easy. We rely on readers like you to fund our journalism. Will you support our work and become a Vox Member today? Trump’s plan to replace clean energy with...",
-      "published": "Wed, 02 Jul 2025 17:00:00 GMT"
-    },
-    {
-      "id": "738046d1803b84b0516f973c3539b20c",
-      "title": "Microsoft gaming division suffers further layoffs - Engadget",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/gaming/xbox/microsoft-gaming-division-suffers-further-layoffs-142430386.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/Kk91GrtM7p2zjSs0Z2sZVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-05/9b92b3c0-3284-11f0-bef6-0d9e0e1306aa",
-      "summary": "Apple iOS 26: What you need to know Prime Day 2025: The best early deals How to buy the Nintendo Switch 2 Trump phone drops 'made in the USA'. .. Microsoft gaming division suffers further layoffs The PC giant is also cutting 9,000 jobs company-wide. Updated Wed, Jul 2, 2025, 6:46 PM EDT·3 min read Last week, it was rumored...",
-      "published": "Wed, 02 Jul 2025 22:46:20 GMT"
-    },
-    {
-      "id": "b736a010308b950438b4dddfd696c8d8",
-      "title": "Trump Says Fed Chair Should ‘Resign Immediately’ - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/07/02/us/politics/trump-jerome-powell-fed.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 00:24:48 GMT"
-    },
-    {
-      "id": "70451c704a94f54eee4572927bff578b",
-      "title": "ADP says private sector shed 33,000 jobs in June, first time in two years - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2025/07/02/adp-jobs-june-economy",
-      "image_url": "https://images.axios.com/Sbj5HBHCvnjgNL1LJ5oGX0RdTFU=/0x0:4000x2250/1366x768/2025/07/02/1751459300358.jpg",
-      "summary": "ADP says private sector shed 33,000 jobs in June Construction workers build a home at a new housing development on July 01, 2025 in Hercules, Calif. Photo by Justin Sullivan/Getty Images Private employers shed 33,000 workers in June, the first monthly job loss in at least two years, payroll processing firm ADP said on Wednesday. Why it matters: It is...",
-      "published": "Wed, 02 Jul 2025 13:12:15 GMT"
-    },
-    {
-      "id": "9ce00a5e4045c40e131d0abb60a5088b",
-      "title": "FDA vaccine official restricted COVID vaccine approvals against the advice of agency staff - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/covid-shots-fda-trump-kennedy-fda-overruled-3ac51f93225aa5f20d5840468fff8b02",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 02 Jul 2025 23:18:00 GMT"
-    },
-    {
-      "id": "806b06891e5f463883ee818b8c8321ee",
-      "title": "Trump's deportations are hurting Constellation Brands' beer sales - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/07/02/trump-deportations-hurt-modelo-constellation-beer-sales.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108167247-1751481857539-gettyimages-1910383099-img_5768_adeltzzq.jpeg?v=1751481891&w=1920&h=1080",
-      "summary": "Trump’s deportations are hurting Constellation Brands’ beer sales President Donald Trump’s hardline immigration policy is still hurting Constellation Brands’ beer sales as Hispanic shoppers pull back their spending. The brewer, which owns Modelo, Corona and Pacifico, says that roughly half of its beer sales come from U. S. Latinos. Constellation’s earnings and revenue for the quarter ended May 31 fell...",
-      "published": "Wed, 02 Jul 2025 19:11:44 GMT"
-    },
-    {
-      "id": "1a76c112f109e6939025387975a27a40",
-      "title": "Kraft Heinz Foods Company Recalls Turkey Bacon Products Due to Possible Listeria Contamination - fsis.usda.gov",
-      "source": "fsis.usda.gov",
-      "url": "https://www.fsis.usda.gov/recalls-alerts/kraft-heinz-foods-company-recalls-turkey-bacon-products-due-possible-listeria",
-      "image_url": "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png",
-      "summary": "An official website of the United States government Food Safety and Inspection Service ALERT: Kraft Heinz Foods Company Recalls… See more details Kraft Heinz Foods Company Recalls Turkey Bacon Products Due to Possible Listeria Contamination WASHINGTON, July 2, 2025 – Kraft Heinz Foods Company, a Newberry, S. C., establishment, is recalling approximately 367,812 pounds of fully cooked turkey bacon products...",
-      "published": "Wed, 02 Jul 2025 21:23:15 GMT"
-    },
-    {
-      "id": "aadd4f0c0419a4428a9f9db3fc4377ee",
-      "title": "Stellantis Has A New Leader In North America And He's Bringing Back SRT - Jalopnik",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/1902063/stellantis-new-leader-north-america-srt/",
-      "image_url": "https://www.jalopnik.com/img/gallery/stellantis-has-a-new-leader-in-north-america-and-hes-bringing-back-srt/l-intro-1751479869.jpg",
-      "summary": "© 2025 Static Media. All Rights Reserved Stellantis Has A New Leader In North America And He's Bringing Back SRT Ask anyone in the Jalopnik Slack channel, I've long been saying that Stellantis should give the keys to Ram CEO Tim Kuniskis and let him go buck wild. Well, it seems like some folks a the Transatlantic automaker — including...",
-      "published": "Wed, 02 Jul 2025 18:12:04 GMT"
-    },
-    {
-      "id": "18fc9dc1d5c25cfc0a1f02a74d1dcfd1",
-      "title": "Amazon rolls out a stricter performance review process — with culture as a key metric - Business Insider",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/amazon-stricter-performance-review-process-leadership-principles-2025-7",
-      "image_url": "https://i.insider.com/685298903d5881a51c1ba207?width=1200&format=jpeg",
-      "summary": "Amazon rolls out a stricter performance review process — with culture as a key metric . save-icon-fill { display: none; } . save-icon.is-active . save-icon-fill, . save-icon-fill. is-active { display: block; fill: currentColor; } Unlimited access. Unlimited possibility. Subscribers get unlimited access to: Insights & advice to propel your career Pitch decks that raised millions",
-      "published": "Wed, 02 Jul 2025 15:40:00 GMT"
-    },
-    {
-      "id": "0b94ae1d664b7a58910be57a9338379c",
-      "title": "The U.S. dollar has fallen at the fastest clip since 1973. Here's what that means. - NBC News",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/economy/us-dollar-falls-lowest-value-since-1973-what-to-know-rcna216469",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250702-us-dollar-currency-lr-a86686.jpg",
-      "summary": "The U.S. dollar has fallen at the fastest clip since 1973. Here's what that means. Some global investors no longer expect the U. S. economy to outperform the rest of the world. A person handles U. S. dollar banknotes in Fuyang, China, on Sept. 11. NurPhoto via Getty Images Create your free profile or log in to save this article...",
-      "published": "Wed, 02 Jul 2025 21:06:00 GMT"
-    },
-    {
-      "id": "6822a70ba218778556a408b23f9cbc7e",
-      "title": "The latest Musk-Trump feud is a 'nail in the coffin' moment for Tesla, investor Ross Gerber says - Business Insider",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/tesla-stock-price-elon-musk-trump-tsla-prediction-ross-gerber-2025-7",
-      "image_url": "https://i.insider.com/686558b685e81483682d3a2a?width=1200&format=jpeg",
-      "summary": "The latest Musk-Trump feud is a 'nail in the coffin' moment for Tesla, investor Ross Gerber says . save-icon-fill { display: none; } . save-icon.is-active . save-icon-fill, . save-icon-fill. is-active { display: block; fill: currentColor; } Read the latest market-moving news Manage your newsletter preferences By continuing, I agree to receive newsletter and marketing emails from Business Insider and accept...",
-      "published": "Wed, 02 Jul 2025 19:18:00 GMT"
-    },
-    {
-      "id": "5808089de048fe1df83d9e2196982b78",
-      "title": "Del Monte Foods, the Canned Goods Giant, Files for Bankruptcy - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/07/02/business/del-monte-bankruptcy.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 20:42:23 GMT"
-    },
-    {
-      "id": "43dcc6766ffac68bd910dc50e8871e63",
-      "title": "Bank of America sends bold message on looming jobs report - TheStreet",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/fed/bank-of-america-sends-bold-message-on-looming-jobs-report",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 15:03:00 GMT"
-    },
-    {
-      "id": "2da2c72adafa3887f087be6bfd3421ea",
-      "title": "Intel Will Uphold 18A Commitments in Billion?Dollar Bid for Apple, Nvidia - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/intel-intc-may-kill-18a-115845899.html",
-      "image_url": "https://media.zenfs.com/en/us.finance.gurufocus/0202e20e7018f439c6ecc5a2ad4cbf27",
-      "summary": "Intel Will Uphold 18A Commitments in Billion? Dollar Bid for Apple, Nvidia Wed, July 2, 2025 at 3:55 PM EDT 2 min read July 2 - Intel Corp (NASDAQ:INTC) CEO Lip? Bu Tan is weighing ending marketing of its 18A process to new foundry clients and refocusing resources on 14A technology. Tan, who took charge in March, noted that 18A,...",
-      "published": "Wed, 02 Jul 2025 19:55:17 GMT"
-    },
-    {
-      "id": "0264a8b226e062d0bb507b6704f15d5d",
-      "title": "S&P 500, Nasdaq close on record high on Vietnam trade deal, tech stocks - Reuters",
+      "id": "b4ba0387d45145ecb03b845df652a21a",
+      "title": "Trump says he will put 20% tariff on Vietnam's exports - Reuters",
       "source": "Reuters",
-      "url": "https://www.reuters.com/business/futures-inch-higher-investors-eye-trade-deals-payrolls-data-2025-07-02/",
+      "url": "https://www.reuters.com/world/asia-pacific/trump-says-he-has-struck-trade-deal-with-vietnam-2025-07-02/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 21:02:52 GMT"
+      "published": "Wed, 02 Jul 2025 22:53:55 GMT"
+    },
+    {
+      "id": "2799ddb5043b98b1d235eba3b6ca2517",
+      "title": "Even before the Xbox layoffs, there was 'tension' at Halo Studios - Engadget",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/gaming/xbox/even-before-the-xbox-layoffs-there-was-tension-at-halo-studios-002031995.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/fCPtI86EO1vcQqNtuMVlFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzM7Y2Y9d2VicA--/https://o.aolcdn.com/hss/storage/midas/612c15d8fb8525da16052a93142755cd/206610835/halofeat.jpg",
+      "summary": "Apple iOS 26: What you need to know Prime Day 2025: The best early deals How to buy the Nintendo Switch 2 Trump phone drops 'made in the USA'. .. Even before the Xbox layoffs, there was 'tension' at Halo Studios \"I'm personally super pissed,\" a developer told Engadget. Updated Wed, Jul 2, 2025, 5:20 PM MST·4 min read At...",
+      "published": "Thu, 03 Jul 2025 00:20:00 GMT"
     },
     {
       "id": "09b023df9e0c596b86c38c6ec3fab91b",
@@ -168,6 +42,78 @@
       "published": "Wed, 02 Jul 2025 21:14:00 GMT"
     },
     {
+      "id": "e4b60f611b733349a999000893ef6ce5",
+      "title": "Tesla Deliveries Drop Most in History. Why the Stock Is Up. - Barron's",
+      "source": "Barron's",
+      "url": "https://www.barrons.com/articles/tesla-stock-price-deliveries-sales-musk-99a554a7",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 02 Jul 2025 20:20:00 GMT"
+    },
+    {
+      "id": "3d6ae4aaa7aacbce2e0e2ec12004acda",
+      "title": "Trump’s plan to replace clean energy with fossil fuels has some major problems - vox.com",
+      "source": "vox.com",
+      "url": "https://www.vox.com/climate/418563/trump-big-beautiful-bill-clean-energy-fossil-climate",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/07/GettyImages-1902316419.jpg?quality=90&strip=all&crop=0%2C10.744382556098%2C100%2C78.511234887803&w=1200",
+      "summary": "This moment demands more than headlines In a time of noise, confusion, and spin, we’re committed to clarity, truth, and depth — even when it’s hard. That kind of journalism isn’t easy. We rely on readers like you to fund our journalism. Will you support our work and become a Vox Member today? Trump’s plan to replace clean energy with...",
+      "published": "Wed, 02 Jul 2025 17:00:00 GMT"
+    },
+    {
+      "id": "9ce00a5e4045c40e131d0abb60a5088b",
+      "title": "FDA vaccine official restricted COVID vaccine approvals against the advice of agency staff - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/covid-shots-fda-trump-kennedy-fda-overruled-3ac51f93225aa5f20d5840468fff8b02",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Wed, 02 Jul 2025 23:18:00 GMT"
+    },
+    {
+      "id": "0acce7ac027c5626a9003c51180c6d06",
+      "title": "Big Tech Climb Powers S&P 500, Nasdaq to New Records - WSJ",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-07-02-2025-cf691149",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 02 Jul 2025 20:44:00 GMT"
+    },
+    {
+      "id": "0b94ae1d664b7a58910be57a9338379c",
+      "title": "The U.S. dollar has fallen at the fastest clip since 1973. Here's what that means. - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/economy/us-dollar-falls-lowest-value-since-1973-what-to-know-rcna216469",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250702-us-dollar-currency-lr-a86686.jpg",
+      "summary": "The U.S. dollar has fallen at the fastest clip since 1973. Here's what that means. Some global investors no longer expect the U. S. economy to outperform the rest of the world. A person handles U. S. dollar banknotes in Fuyang, China, on Sept. 11. NurPhoto via Getty Images Create your free profile or log in to save this article...",
+      "published": "Wed, 02 Jul 2025 21:06:00 GMT"
+    },
+    {
+      "id": "1488cb4acaeace1efdaa48200feb08a6",
+      "title": "U.S. lifts chip software curbs on China amid trade truce - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/07/03/us-lifts-chip-software-curbs-on-china-amid-trade-truce-synopsys-says-.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108167416-1751515188712-gettyimages-452522892-_P0A9220.jpeg?v=1751515209&w=1920&h=1080",
+      "summary": "Trump’s megabill advances in the House after GOP divisions nearly derail it U. S. lifts chip software curbs on China amid trade truce U. S. chip software maker Synopsys said that the U. S. government has rescinded its export restrictions on chip-design software to China. Its rival, Cadence, also confirmed the reversal and was “restoring access to our software and...",
+      "published": "Thu, 03 Jul 2025 02:28:00 GMT"
+    },
+    {
+      "id": "99d33a54c66f3e84235bc7401659208b",
+      "title": "Trump's 'Big, Beautiful Bill' is bad for American EVs, but it could have been worse - Engadget",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/transportation/evs/trumps-big-beautiful-bill-is-bad-for-american-evs-but-it-could-have-been-worse-210155196.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/gcZgqNRnWU2i7D_TRBrpjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-07/d4b00e20-5785-11f0-bf65-024c57ceee63",
+      "summary": "Apple iOS 26: What you need to know Prime Day 2025: The best early deals How to buy the Nintendo Switch 2 Trump phone drops 'made in the USA'. .. Trump's 'Big, Beautiful Bill' is bad for American EVs, but it could have been worse It'll be a hard blow but not a knockout, and there is one silver lining.",
+      "published": "Wed, 02 Jul 2025 21:01:56 GMT"
+    },
+    {
+      "id": "5808089de048fe1df83d9e2196982b78",
+      "title": "Del Monte Foods, the Canned Goods Giant, Files for Bankruptcy - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/07/02/business/del-monte-bankruptcy.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 02 Jul 2025 20:42:23 GMT"
+    },
+    {
       "id": "45e8d6f6c08ff2f6129897f484154f4f",
       "title": "Whether you're driving or flying, here are travel tips for the Fourth of July weekend - NPR",
       "source": "NPR",
@@ -177,13 +123,67 @@
       "published": "Wed, 02 Jul 2025 16:19:58 GMT"
     },
     {
-      "id": "99d33a54c66f3e84235bc7401659208b",
-      "title": "Trump's 'Big, Beautiful Bill' is bad for American EVs, but it could have been worse - Engadget",
-      "source": "Engadget",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRTV3bzVwbUdhcmE0OXl6bks2UXFzRUNJR3pHXy1YNTFpaXlkakdxMU5ueXZ4cldUTi1CMTJKSHgzMVBBMWtVTlh4UWUxeklXT25mTTlyNzdwRFlsZjdsY0VsTjNob2M4MVVhR0ctWU5SVVNvQ1c5SFVQcXZOaHN6NkN3WGwxdTM1NTlQYXNsYUlkamh4dTVVOEVzOURVWTZEZWNMVmZOSnBsYy1RMldWd3d0TjVKXzd2eUNldFRWbVZGRHFsV21kOTJWbks3TWdwd0NZ?oc=5",
+      "id": "0dc3d901805e6afc2979f02dddc037a8",
+      "title": "Trading Day: Get ready for the jobs report - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/global-markets-trading-day-graphic-2025-07-02/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 02 Jul 2025 22:34:59 GMT"
+    },
+    {
+      "id": "aadd4f0c0419a4428a9f9db3fc4377ee",
+      "title": "Stellantis Has A New Leader In North America And He's Bringing Back SRT - Jalopnik",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/1902063/stellantis-new-leader-north-america-srt/",
+      "image_url": "https://www.jalopnik.com/img/gallery/stellantis-has-a-new-leader-in-north-america-and-hes-bringing-back-srt/l-intro-1751479869.jpg",
+      "summary": "© 2025 Static Media. All Rights Reserved Stellantis Has A New Leader In North America And He's Bringing Back SRT Ask anyone in the Jalopnik Slack channel, I've long been saying that Stellantis should give the keys to Ram CEO Tim Kuniskis and let him go buck wild. Well, it seems like some folks a the Transatlantic automaker — including...",
+      "published": "Wed, 02 Jul 2025 18:12:04 GMT"
+    },
+    {
+      "id": "8c920e0048e191f0c700028bdd10d750",
+      "title": "Congress Should Investigate Federal Reserve Chair Powell, Says FHFA Chief - Barron's",
+      "source": "Barron's",
+      "url": "https://www.barrons.com/articles/fed-powell-pulte-congress-investigate-b6785666",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 02 Jul 2025 20:48:00 GMT"
+    },
+    {
+      "id": "33669e3a437a8a935714dd55edce7bf7",
+      "title": "OpenAI condemns Robinhood’s ‘OpenAI tokens’ - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/07/02/openai-condemns-robinhoods-openai-tokens/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1934195443-e.jpg?resize=1200,800",
+      "summary": "OpenAI condemns Robinhood’s ‘OpenAI tokens’ OpenAI wants to make clear that Robinhood’s sale of “OpenAI tokens” will not give everyday consumers equity — or stock — in OpenAI, the company said in a post from its official newsroom account on X. OpenAI says it does not endorse Robinhood’s effort, nor was it involved in facilitating the token sale. “These ‘OpenAI...",
+      "published": "Wed, 02 Jul 2025 23:43:27 GMT"
+    },
+    {
+      "id": "7c3db88d06cfcf4f6ce2b13a3f3edb0d",
+      "title": "Trump’s Finances Were Shaky. Then He Began to Capitalize on His Comeback. - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/07/02/us/trump-finances-crypto.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 02 Jul 2025 20:42:55 GMT"
+    },
+    {
+      "id": "818c6cb6e42fb60e5b25dc2ca2ea667e",
+      "title": "Regeneron, playing catch up with J&J and Pfizer, wins FDA approval for Lynozyfic in multiple myeloma - Fierce Pharma",
+      "source": "Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORDVDMC1Gek9vcU90eU9uMDVSZnVDWUFYUlh4Y1NYVUhMN0k4LXFaXzJKX2FHeUhweGhGRjFMX212QmN1emFtcXdTSUJkWGlpcFE1amN0SzFXVDdtYW9fSTZnWVpLNUZ6bG4tc2dMbG1EMXhXZmYyR0pnNXBmZG1nWFhQaFhqRGxfN0t5M0YtUGE5QWdBcVlNU2xkbUdsa1NFbHVMQ2VrRlVuOG1iNmpxTmNhRnJoX1VzR1E?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 21:01:56 GMT"
+      "published": "Wed, 02 Jul 2025 15:29:07 GMT"
+    },
+    {
+      "id": "70451c704a94f54eee4572927bff578b",
+      "title": "ADP says private sector shed 33,000 jobs in June, first time in two years - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2025/07/02/adp-jobs-june-economy",
+      "image_url": "https://images.axios.com/Sbj5HBHCvnjgNL1LJ5oGX0RdTFU=/0x0:4000x2250/1366x768/2025/07/02/1751459300358.jpg",
+      "summary": "ADP says private sector shed 33,000 jobs in June Construction workers build a home at a new housing development on July 01, 2025 in Hercules, Calif. Photo by Justin Sullivan/Getty Images Private employers shed 33,000 workers in June, the first monthly job loss in at least two years, payroll processing firm ADP said on Wednesday. Why it matters: It is...",
+      "published": "Wed, 02 Jul 2025 17:16:34 GMT"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-07-03 02:38:27",
+    "generation_time": "2025-07-03 06:51:41",
     "total_articles": 20
   },
   "articles": [
@@ -9,19 +9,19 @@
       "id": "307f1e5c289328351d915fa24b13f77d",
       "title": "Hamas is open to a ceasefire. But Netanyahu says there's no room for Hamas in postwar Gaza - The Washington Post",
       "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZV9OTHByY2NyMWt5bVFRQ2VRMkd2SVJPSVRCYk5UR25yVWNFWEpnY0wxeExyUVhxSDQtV0FOMjQydWN0bzFyV1B1bkRGbHlkUHU4T0JQU1B3cXk1X0xGVGhqeWo1V0ozRTc3U0h6YWx3bEJWcVJTWmxVX3pxNUFZXzJLd0llVUZmZERGWFVkVEpzZDhKZ0lQeWtQLTV2STRjRmZBNmZ1ZDRVVGxDU2pGWXg3WlZUMXZBT1NaLTI2eE9RRVNVU0ZwaUFFaGFUWkNobVZxQXh6MUM?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 00:40:25 GMT"
+      "url": "https://www.washingtonpost.com/world/2025/07/02/israel-palestinians-hamas-war-news-07-02-2025/77bbed34-571b-11f0-b45b-dc9aeb848c03_story.html",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3Y6FECXGEI7BNC33SNOXBEMAM_size-normalized.jpg&w=1440",
+      "summary": "Hamas is open to a ceasefire. But Netanyahu says there's no room for Hamas in postwar Gaza Hamas and Israel staked out their positions ahead of expected talks on a Washington-backed ceasefire proposal Abdel Hadi Bashir mourns the loss of his two daughters, Sabah and Mira who were killed in an Israeli army airstrike of the Gaza Strip, at the...",
+      "published": "Thu, 03 Jul 2025 03:42:46 GMT"
     },
     {
-      "id": "87ce14bd6761d9d0e5a3acd1fb7ea369",
-      "title": "Tibet is silent as Dalai Lama turns 90, BBC finds - BBC",
+      "id": "d310cc6cc751adb4bd3e0730c5e61f5d",
+      "title": "Indonesia: Dozens missing after ferry sinks off Bali - BBC",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5y772jlpgzo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/fb21/live/024184c0-576f-11f0-b5c5-012c5796682d.jpg",
-      "summary": "'Be careful, they are watching you': Tibet is silent as Dalai Lama turns 90 Reporting fromAba, Sichuan province",
-      "published": "Wed, 02 Jul 2025 21:28:28 GMT"
+      "url": "https://www.bbc.com/news/articles/cew0yz5xw1no",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0a40/live/eb93e4b0-57c4-11f0-9437-9774f0da2924.jpg",
+      "summary": "Four dead, dozens missing after ferry sinks off Bali Koh Ewe, Astudestra Ajengrastri and Hanna Samosir Reporting fromSingapore and Jakarta",
+      "published": "Thu, 03 Jul 2025 03:55:48 GMT"
     },
     {
       "id": "d949625e8f03b9df6a7daa03f22d75c8",
@@ -31,6 +31,24 @@
       "image_url": null,
       "summary": "No content available for summarization.",
       "published": "Wed, 02 Jul 2025 22:10:40 GMT"
+    },
+    {
+      "id": "9ead07ca997eed9478a6f3b35a7cc8ce",
+      "title": "NASA Discovers Evidence of New Planet That Could Harbor Life - The Daily Beast",
+      "source": "The Daily Beast",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUVNmMzBHSGpNMFhCLVQyWTdlUE5qWFVUYzV6NkpjZ2x3dnVGbE1PM1VmM1FoZmQtNDk0b1BNaUlRbUFUM2NXVUdQZXprUThXN3Awb3RER3ZQbHpsdzJJSXBrb0MwenUxMEtaMlQ2RlQ5dkp4OHAtZ1YtZUJLWjNBNFBvMjZJeEp3dVhwZnBBWmh3T2c?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 02 Jul 2025 22:30:00 GMT"
+    },
+    {
+      "id": "7df33df00d436966312177e8f8bb6f29",
+      "title": "Haiti’s gangs have ‘near-total control’ of the capital as violence escalates, UN says - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/un-haiti-gangs-capital-violence-government-kenya-c14dd55725e2e415b794ab88b4184e65",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Wed, 02 Jul 2025 21:27:00 GMT"
     },
     {
       "id": "850f29b0aff455cc4f881556940d7e03",
@@ -51,31 +69,49 @@
       "published": "Wed, 02 Jul 2025 20:16:12 GMT"
     },
     {
-      "id": "385c306a751bcc420add85819b8ee432",
-      "title": "New CIA report criticizes investigation into Russia’s support for Trump in 2016 - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-putin-trump-cia-2016-obama-cbb79bc0e957f1d8178a70e0b40b96c0",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 02 Jul 2025 21:25:00 GMT"
+      "id": "0954382da92373fd53f53955b268a3c3",
+      "title": "A Ukrainian actress saw herself in a White House video — and created one in response - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/07/02/nx-s1-5453770/ukraine-actress-white-house-video-trump-antonina-khyzhniak",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/664x374+0+117/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa5%2F7c%2F79599af24620af83d2ef759e9b36%2Fscreenshot-2025-07-02-at-4-01-54-pm.png",
+      "summary": "A Ukrainian actress saw herself in a White House video — and created one in response Ukrainian actress Antonina Khyzhniak made a video in response to seeing stock footage of herself used in a White House video. She acts out an imaginary negotiation between herself and President Trump. KYIV, Ukraine — A social media video promoting President Trump's tax bill...",
+      "published": "Wed, 02 Jul 2025 21:00:49 GMT"
     },
     {
-      "id": "5cc60828b14ec0e5f4327e5eee1a0aab",
-      "title": "The first genome sequenced from ancient Egypt reveals surprising ancestry, scientists say - CNN",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qbmtMbnQyODNsNkdobXRLOXg2cWwxTEVOWHl0S2RuY18tc1FURmhaLTkzYVhieGdxeEZnZWRCckpEOHBGMEVJZXFOQWVpak4yTnEtb3RMRFNqMnFaSk9GbXFickxPUUxkeWtGVUVsbUd1RFJxclZ6c2x1cTTSAYIBQVVfeXFMT2t4MEZhLVFKS05pNkl6R1F0dHpERkpSRk5HLTdlallrRW5LazN1ZHJDWTlxM3R4TEFZbE1fTkpmZ1ZILVBjOXk5Zmc3a243WkMyTlJENlU2YWxrMVYxc3VRUU1ocWRCbTRqbmlBV1hadWVrUmdzVm1hRFVuQkJMOWRwZw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 17:14:00 GMT"
+      "id": "5b587055b765fd69f2f22b8dcb328deb",
+      "title": "Ancient DNA shows genetic link between Mesopotamia and Egypt, researchers find - PBS",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/science/ancient-dna-shows-genetic-link-between-mesopotamia-and-egypt-researchers-find",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/07/2025-07-02T150245Z_625717217_RC2SZF8G8ODC_RTRMADP_3_SCIENCE-DNA-1024x757.jpg",
+      "summary": "By — Christina Larson, Associated Press Ancient DNA shows genetic link between Mesopotamia and Egypt, researchers find Science Jul 2, 2025 6:27 PM EDT WASHINGTON (AP) — Ancient DNA has revealed a genetic link between the cultures of ancient Egypt and Mesopotamia, according to research published Wednesday in the journal Nature. Researchers sequenced whole genomes from the teeth of a...",
+      "published": "Wed, 02 Jul 2025 22:27:06 GMT"
     },
     {
-      "id": "a874cd4ae4242b4b899ee54da5ce0363",
-      "title": "‘Immoral’ U.N. ‘sabotaging’ food distribution, Gaza Humanitarian Foundation chairman says - Jewish Insider",
-      "source": "Jewish Insider",
-      "url": "https://jewishinsider.com/2025/07/johnnie-moore-gaza-humanitarian-foundation-food-aid-hamas/",
-      "image_url": null,
-      "summary": "Verify you are human by completing the action below. jewishinsider. com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 02 Jul 2025 09:22:10 GMT"
+      "id": "3a91fd19b07f6710fb606bfbef94b977",
+      "title": "Von der Leyen's European Commission faces no-confidence vote - DW",
+      "source": "DW",
+      "url": "https://www.dw.com/en/von-der-leyens-european-commission-faces-no-confidence-vote/a-73128322",
+      "image_url": "https://static.dw.com/image/73060275_6.jpg",
+      "summary": "DW uses cookies and similar technologies to measure usage, display personalized advertising and share personal data and information with up to 186 third parties. You decide for yourself whether you agree to this use of your data. You can adjust individual details under “Settings” and change them at any time. You can view all of DW's content without agreeing. Social...",
+      "published": "Thu, 03 Jul 2025 01:04:16 GMT"
+    },
+    {
+      "id": "2e038ae90ab58d7a5cdfbd2fb6b75e8d",
+      "title": "CIA declassifies review of intelligence report on 2016 Russia election interference - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/national-security/cia-review-intelligence-report-2016-election-russian-interference-rcna216634",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240422-cia-headquarters-ew-224p-f5e2ce.jpg",
+      "summary": "CIA review criticizes procedures but not conclusions of intelligence report on 2016 Russia election interference An intelligence assessment after the election found that Russia waged an information warfare campaign designed to boost Trump’s prospects and damage Hillary Clinton's candidacy. CIA headquarters in Langley, Va. Kevin Wolf / AP file Create your free profile or log in to save this article...",
+      "published": "Thu, 03 Jul 2025 00:18:00 GMT"
+    },
+    {
+      "id": "f0ae42cedb2e1b8eb25d04de7f8d1586",
+      "title": "Headlines for July 01, 2025 - Democracy Now!",
+      "source": "Democracy Now!",
+      "url": "https://www.democracynow.org/2025/7/1/headlines",
+      "image_url": "https://assets.democracynow.org/assets/default_content_image-354f4555cc64afadc730d64243c658dd0af1f330152adcda6c4900cb4a26f082.jpg",
+      "summary": "You turn to us for voices you won't hear anywhere else. Sign up for Democracy Now! 's Daily Digest to get our latest headlines and stories delivered to your inbox every day. AboutDaily DigestEventsStationsEspañolDONATE Daily ShowsWeb ExclusivesTopicsColumns HOT TOPICSGazaIranDonald TrumpArtificial IntelligenceImmigrationUkraineClimate CrisisAbortionElon MuskEducation Israel Bombs Crowded Gaza Cafe, Killing Dozens, Including Children Israeli attacks on Gaza killed nearly 100 Palestinians...",
+      "published": "Tue, 01 Jul 2025 14:17:23 GMT"
     },
     {
       "id": "6733f50af582bf4dd5ed6e127d1a3109",
@@ -87,40 +123,49 @@
       "published": "Wed, 02 Jul 2025 03:28:00 GMT"
     },
     {
-      "id": "30387d4b1c3665b2ea81d7fd04218f0c",
-      "title": "Thailand: PM Paetongtarn Shinawatra suspended over leaked phone call - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c9vrrj72xy7o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2386/live/7b5933d0-563e-11f0-9f23-c9631faaebd4.jpg",
-      "summary": "Thai prime minister suspended over leaked phone call Paetongtarn Shinawatra has been suspended as a Thai court considers a petition for her to be removed Thailand's Constitutional Court has suspended Prime Minister Paetongtarn Shinawatra, who has come under mounting pressure to resign over her leaked phone conversation with former Cambodian leader Hun Sen. The clip, in which Paetongtarn called him...",
-      "published": "Tue, 01 Jul 2025 09:04:56 GMT"
+      "id": "74a773c7837d09fd99d9ee653a9c039a",
+      "title": "Russian Offensive Campaign Assessment, July 2, 2025 - Institute for the Study of War",
+      "source": "Institute for the Study of War",
+      "url": "https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-july-2-2025",
+      "image_url": "https://understandingwar.org/sites/default/files/Assessed%20Russian%20Advances%20in%20Kursk%20Oblast%20March%203%2C%202025%20to%20March%2011%2C%202025.png",
+      "summary": "Christina Harward, Grace Mappes, Olivia Gibson, Jennie Olmsted, Daria Novikov, Jessica Sobieski, and George Barros Click here to see ISW’s interactive map of the Russian invasion of Ukraine. This map is updated daily alongside the static maps present in this report. Click here to see ISW's interactive map of Ukraine's offensive in Kursk Oblast. Click here to see ISW’s 3D...",
+      "published": "Thu, 03 Jul 2025 01:37:45 GMT"
     },
     {
-      "id": "faa5a49a8fce89cd401db73ab4bcfbf7",
-      "title": "US, Japan, India, Australia announce minerals initiative - DW",
-      "source": "DW",
-      "url": "https://www.dw.com/en/us-japan-india-australia-announce-critical-minerals-initiative/a-73113459",
-      "image_url": "https://static.dw.com/image/73113557_6.jpg",
-      "summary": "DW uses cookies and similar technologies to measure usage, display personalized advertising and share personal data and information with up to 186 third parties. You decide for yourself whether you agree to this use of your data. You can adjust individual details under “Settings” and change them at any time. You can view all of DW's content without agreeing. Social...",
-      "published": "Wed, 02 Jul 2025 03:40:50 GMT"
-    },
-    {
-      "id": "a1938c179928d764fa731f09796f2043",
-      "title": "74 killed in Gaza as Israeli forces strike a cafe and fire on people seeking food - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/07/01/nx-s1-5452994/israel-gaza-hamas-cafe-airstrike-aid",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8307x4673+0+433/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2Fc9%2Fac08204f4c719a37604481062ff8%2Fap25181599287201.jpg",
-      "summary": "74 killed in Gaza as Israeli forces strike a cafe and fire on people seeking food A man carries a child, who was wounded in an Israeli strike, after being treated in the Shifa Hospital, Gaza City on Monday. CAIRO (AP) — Israeli forces killed at least 74 people in Gaza on Monday with airstrikes that left 30 dead at...",
-      "published": "Tue, 01 Jul 2025 06:52:33 GMT"
+      "id": "84fc248721a7aebe57a74f25b720831c",
+      "title": "US, Indo-Pacific partners agree to strengthen maritime, critical minerals cooperation - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/us-australia-india-japan-ff2f90407d22d6e9cfab0c2dc60e57f2",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Wed, 02 Jul 2025 02:13:00 GMT"
     },
     {
       "id": "c4872c68b8287276b34c52bd908e0021",
       "title": "Daily Crossword: The Wedding Puzzle — July 2 - Vulture",
       "source": "Vulture",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82WlotRDkzNm1sa3Rab1ZmdlU1ZmtlQUZ1LXp3cnlKUTF2NWx0Y19CZnNQQ281NmJlR2NSTC12dDdITVVSZ1pscEtTVUtKVnlIZHFWWUVPOGkzU3o4bndvRWVQYWpQR05CRjRxVG1vVDhQbnRiX1p0Z3A0QQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.vulture.com/article/daily-crossword-puzzle-july-2-2025.html",
+      "image_url": "https://pyxis.nymag.com/v1/imgs/689/35a/a360321613ce700d0b882e4b7ec2ec344f-crossword-7-2-2025.1x.rsocial.w1200.jpg",
+      "summary": "By Malaika Handa, a Vulture crossword constructor since 2022 New crosswords dropped every weekday. Find all our games here. Get the 10x10 crossword, Cinematrix, and Telematrix sent to your inbox when they’re ready to play. It’s Going to Take a Long, Long Time for The Last of Us Season 3 Neil Druckmann has left the show, saying in his goodbye...",
       "published": "Wed, 02 Jul 2025 09:00:42 GMT"
+    },
+    {
+      "id": "a874cd4ae4242b4b899ee54da5ce0363",
+      "title": "‘Immoral’ U.N. ‘sabotaging’ food distribution, Gaza Humanitarian Foundation chairman says - Jewish Insider",
+      "source": "Jewish Insider",
+      "url": "https://jewishinsider.com/2025/07/johnnie-moore-gaza-humanitarian-foundation-food-aid-hamas/",
+      "image_url": null,
+      "summary": "Verify you are human by completing the action below. jewishinsider. com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Wed, 02 Jul 2025 09:22:10 GMT"
+    },
+    {
+      "id": "26eda0db35f1b975324d23120eabb063",
+      "title": "European summers are getting brutally hot. So why is air conditioning so rare? - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/07/02/climate/europe-air-conditioning-heat-wave-intl-latam",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1408705704.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "European summers are getting brutally hot. So why is air conditioning so rare? Air conditioning units dot the exterior of an apartment building in Madrid. Pablo Blazquez Dominguez/Getty Images A brutal heat wave is gripping many parts of Europe, leaving millions of people struggling to adapt to punishing, record-breaking temperatures. Heat persists even at night, with temperatures in some places...",
+      "published": "Wed, 02 Jul 2025 13:55:00 GMT"
     },
     {
       "id": "a4e20f533806495b421198cf4ddb98a4",
@@ -129,61 +174,16 @@
       "url": "https://www.timesofisrael.com/likud-ministers-urge-netanyahu-to-annex-west-bank-by-the-end-of-the-month/",
       "image_url": "https://static-cdn.toi-media.com/www/uploads/2023/03/KBG_GPO6834-e1678125795807.jpg",
       "summary": "Likud ministers urge Netanyahu to annex West Bank by the end of the month Ahead of PM’s trip to Washington and the Knesset’s summer break, senior politicians suggest it is ‘a propitious time to move forward’ with controversial move From left, police chief Kobi Shabtai, Prime Minister Benjamin Netanyahu, National Security Minister Itamar Ben Gvir and Knesset Speaker Amir Ohana...",
-      "published": "Wed, 02 Jul 2025 20:06:16 GMT"
+      "published": "Wed, 02 Jul 2025 20:03:00 GMT"
     },
     {
-      "id": "d8805d80868b3725bdde4587447295c7",
-      "title": "Recent droughts are 'slow-moving global catastrophe' - UN report - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ckg33r1xgymo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4f24/live/326fee30-5728-11f0-a129-bdd7ff3be6de.jpg",
-      "summary": "Recent droughts are 'slow-moving global catastrophe' - UN report Record low water levels in the Amazon basin disrupted drinking water for thousands of people From Somalia to mainland Europe, the past two years have seen some of the most ravaging droughts in recorded history, made worse by climate change, according to a UN-backed report. Describing drought as a \"silent killer\"...",
-      "published": "Wed, 02 Jul 2025 12:31:51 GMT"
-    },
-    {
-      "id": "ac850b6c92c73f75ed60dddfa45042dd",
-      "title": "Russian Offensive Campaign Assessment, July 1, 2025 - Institute for the Study of War",
-      "source": "Institute for the Study of War",
-      "url": "https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-july-1-2025",
-      "image_url": "https://understandingwar.org/sites/default/files/Russo-Ukrainian%20War%20July%2001%2C%202025.png",
-      "summary": "Christina Harward, Angelica Evans, Jessica Sobieski, Daria Novikov, and Frederick W. Kagan Click here to see ISW’s interactive map of the Russian invasion of Ukraine. This map is updated daily alongside the static maps present in this report. Click here to see ISW's interactive map of Ukraine's offensive in Kursk Oblast. Click here to see ISW’s 3D control of terrain...",
-      "published": "Tue, 01 Jul 2025 22:45:02 GMT"
-    },
-    {
-      "id": "c4e211ca016632f0a734ccd84ee3ecb4",
-      "title": "US teen influencer detained in Antarctica while attempting solo flight to 7 continents - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/07/02/americas/us-teen-ethan-guo-solo-flight-antarctica-chile-detained-intl-latam",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ethan-guo-s-plane-lands-in-antarctica-on-june-28-reuters.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "US teen influencer detained in Antarctica while attempting solo flight to 7 continents By Christopher Ulloa and Max Saltman, CNN Published 2:11 PM EDT, Wed July 2, 2025 The plane flown by Ethan Guo is seen landing in Antarctica. Reuters A teenage pilot, who is attempting to fly all seven continents solo, hit a patch of rough air this weekend...",
-      "published": "Wed, 02 Jul 2025 18:11:00 GMT"
-    },
-    {
-      "id": "fd1dc98018a7c4bda44b5926d22f95e8",
-      "title": "Russia-Azerbaijan Tensions Soar, Threatening Moscow’s Influence - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/07/02/world/europe/russia-azerbaijan-tensions-safarov.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 18:04:06 GMT"
-    },
-    {
-      "id": "50aa3b71771b422b1a5380500a01ab6f",
-      "title": "Gaza hospital director killed in Israeli strike, Hamas-run health ministry says - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c4gejed7wgeo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/751b/live/b8ee1910-574f-11f0-aae5-397e31909728.jpg",
-      "summary": "Gaza hospital director killed in Israeli strike, Hamas-run health ministry says Dr Marwan Sultan was the director of the Indonesian Hospital in north Gaza The director of Gaza's Indonesian Hospital has been killed in an Israeli air strike on his home in Gaza City along with several family members, the Hamas-run health ministry has said. The ministry said Dr Marwan...",
-      "published": "Wed, 02 Jul 2025 22:48:33 GMT"
-    },
-    {
-      "id": "d3301f947517c060aab686156385895f",
-      "title": "Germany launches additional measures against Russia's 'shadow fleet' - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/germany-launches-additional-measures-against-russias-shadow-fleet-2025-07-01/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Tue, 01 Jul 2025 16:16:34 GMT"
+      "id": "d8689c59167775cd583002ab9c648580",
+      "title": "Droughts worldwide pushing tens of millions towards starvation, says report - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/jul/02/droughts-worldwide-pushing-tens-millions-starvation-report",
+      "image_url": "https://i.guim.co.uk/img/media/49851ff7b1d6151b891dd04b5bcbb9952b185aaf/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58f29c080fb63aedd6139d8c32e2da46",
+      "summary": "Fund the free press with $15 per month A woman and child at a camp for displaced people near Dollow, Somalia. A quarter of the country’s population are edging towards starvation. Photograph: Jérôme Delay/AP Droughts worldwide pushing tens of millions towards starvation, says report Water shortages hitting crops, energy and health as crisis gathers pace amid climate breakdown Fiona Harvey...",
+      "published": "Wed, 02 Jul 2025 12:31:00 GMT"
     }
   ]
 }
