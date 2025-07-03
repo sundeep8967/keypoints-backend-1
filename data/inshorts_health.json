@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-07-03 06:48:09",
+    "generation_time": "2025-07-03 13:17:32",
     "total_articles": 20
   },
   "articles": [
@@ -24,40 +24,13 @@
       "published": "Wed, 02 Jul 2025 15:38:33 GMT"
     },
     {
-      "id": "773e00a91781603683db067fe1bf35ba",
-      "title": "There is no safe amount of processed meat to eat, according to new research - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/07/02/health/processed-meats-sweet-drinks-disease-wellness",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-184380733.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "There is no safe amount of processed meat to eat, according to new research The equivalent of one medium-size hot dog was associated with an increased risk of colorectal acancer and type 2 diabetes in a new study. RiverRockPhotos/iStockphoto/Getty Images There is strong evidence that there is “no safe amount” of processed meat to eat, nutrition experts say in response...",
-      "published": "Wed, 02 Jul 2025 16:16:00 GMT"
-    },
-    {
-      "id": "69c704499e1db83af2e73821272e410c",
-      "title": "RSV vaccine access expanded to some people in their 50s, according to CDC website - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/rsv-cdc-vaccine-advisers-kennedy-21e52249fcc51032e1c85f713ccdcdbd",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 02 Jul 2025 19:58:00 GMT"
-    },
-    {
-      "id": "dd7041bcedbf08e8534b2ab66d990c3f",
-      "title": "Experts sound alarm over a rise in a mysterious tick-borne illness spreading across America - Daily Mail",
-      "source": "Daily Mail",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRzFILVN0dXk0V0YzWE1QTFJqcDZXczVlVFhFeFc1Z1NrcGNVRlhUSUo1dEVDY2xBbmQzcUpEanU2eEh2alRUMjBOdm1NUWxQbUJGVXNmaGtOemxFREZaMUk1TmlVUEs4MmpsY05lUk43Qkx1MTlJLWhBay1PS0hWMzc4OHFHcEt3T25YVFRTcEhfVENzbGQtcFU0bm5rMVRaaFRZQnBpbkt2U01IR2VJci1vZDNZajNSZDllMWU2SjJibTNfNjVJd9IBzgFBVV95cUxOVlZka21YQm9GNmhQNnkxbkY1NHQtbkgtWk5Yc0RidFZLNnI2dkhhYjJQUER5b2RRRUtRSjlkbFJxVU9xenZ5NDV4RzVaSS04aDYtSWRFNXhBbzI1dzM1TG04X2VPRUhVTVlJQ0JGSGZMODJIUkVwMWZuTXA3SXprT1V1QzR1WUdOWGhGdTBCUW9DTFpkeG1GTlg2dlBkSEpHeXI3R0hxN3lQTDgydkFTNHFlOEFUaGFxRERpR3VQdGdCTnJ3eTltcFNtekttQQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "id": "c9dd909b33c829bdfbfbc4cdb5a7af1a",
+      "title": "How Drinking Alcohol Affects You in Older Age - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/07/03/well/alcohol-older-age-risks.html",
+      "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 15:26:17 GMT"
-    },
-    {
-      "id": "a5fa514ddf44e443dbfe3e89579e549a",
-      "title": "Gut microbes could protect us from toxic ‘forever chemicals’ - University of Cambridge",
-      "source": "University of Cambridge",
-      "url": "https://www.cam.ac.uk/research/news/gut-microbes-could-protect-us-from-toxic-forever-chemicals",
-      "image_url": "https://www.cam.ac.uk/sites/default/files/news/news/patil-crop-885-x-428px.jpg",
-      "summary": "We use necessary cookies to make our site work. If you choose to accept optional cookies, it will help us understand your needs better and personalise what you see. Accept all cookiesDecline optional cookiesChoose your cookie mix Gut microbes could protect us from toxic ‘forever chemicals’ Gut microbes could protect us from toxic ‘forever chemicals’ Scientists have discovered that certain...",
-      "published": "Tue, 01 Jul 2025 09:07:58 GMT"
+      "published": "Thu, 03 Jul 2025 09:00:47 GMT"
     },
     {
       "id": "a88a7cb5b6799537646d2cc1cae756a1",
@@ -69,12 +42,84 @@
       "published": "Wed, 02 Jul 2025 09:00:00 GMT"
     },
     {
+      "id": "69c704499e1db83af2e73821272e410c",
+      "title": "RSV vaccine access expanded to some people in their 50s, according to CDC website - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/rsv-cdc-vaccine-advisers-kennedy-21e52249fcc51032e1c85f713ccdcdbd",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Wed, 02 Jul 2025 19:58:00 GMT"
+    },
+    {
+      "id": "773e00a91781603683db067fe1bf35ba",
+      "title": "There is no safe amount of processed meat to eat, according to new research - CNN",
+      "source": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTTNIempGeWhyQmZkNElDbWZWTENUbGU2bDJQVmVnZ280ZTdIOFNXalhKa2NRQVpXY3RSM1F4YWNqUVJTWmctRFNqQURlS0JKbnprRlJiSDNiLTk4WlRCTXl3ZzFJME9pZmlmQl81bUV2QVFsVFB4SDlBRmVtUmhhV0pEaElHeVJweGFF0gGQAUFVX3lxTE9XSWxVVXdFLWlyTl9MSHJHVHI1UHRFd0FXNlVBajVoV19ubzNVME9zQ2dEWVRwdkhaVDBQYk91LTF0TWFaSlY3eUh4RDNjb3VDdUpXOHpKclJlc1poRlNYY2ItSGNSVU5NYTVlaURwc1kyTnZkazYxWmpDTi0wd1ZIbTBzRmRQZjZFYnVuREpBLQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 02 Jul 2025 16:16:00 GMT"
+    },
+    {
+      "id": "dd7041bcedbf08e8534b2ab66d990c3f",
+      "title": "Experts sound alarm over a rise in a mysterious tick-borne illness spreading across America - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/health/article-14868853/Experts-sound-alarm-rise-mysterious-tick-borne-illness-spreading-America.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/07/02/16/99935021-0-image-a-65_1751469010717.jpg",
+      "summary": "Thursday, Jul 3rd 2025 7AM 74°F Experts sound alarm over a rise in a mysterious tick-borne illness spreading across America READ MORE: Can a tick bite make you allergic to red meat? By DAISY HODGES FOR DAILYMAIL. COM PUBLISHED: 11:26 EDT, 2 July 2025 | UPDATED: 11:33 EDT, 2 July 2025 If you've recently been bitten by a tick, you're...",
+      "published": "Wed, 02 Jul 2025 15:26:17 GMT"
+    },
+    {
+      "id": "a4f675d67a47b84c98e273d56dc2029c",
+      "title": "New study: U.S. preschoolers exposed to broad range of potentially harmful chemicals - University of California - Davis Health",
+      "source": "University of California - Davis Health",
+      "url": "https://health.ucdavis.edu/news/headlines/new-study-us-preschoolers-exposed-to-broad-range-of-potentially-harmful-chemicals/2025/07",
+      "image_url": "https://health.ucdavis.edu/media-resources/contenthub/health-news/2025/06/thumbnail/Chemicals_Thumbnail.jpg",
+      "summary": "New study: U. S. preschoolers exposed to broad range . .. New study: U. S. preschoolers exposed to broad range of potentially harmful chemicals Findings concern researchers because early childhood is a critical period for brain and body development A national study published in Environmental Science & Technology finds children aged 2 to 4 years in the United States are...",
+      "published": "Tue, 01 Jul 2025 18:59:00 GMT"
+    },
+    {
+      "id": "08e345e2f43561d6c3a6e0ec81687545",
+      "title": "Your Food Packaging Is Shedding Microplastics Into Every Meal, Study Reveals - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/your-food-packaging-is-shedding-microplastics-into-every-meal-study-reveals",
+      "image_url": "https://www.sciencealert.com/images/2025/06/plastic-packaging.jpg",
+      "summary": "Your Food Packaging Is Shedding Microplastics Into Every Meal, Study Reveals Both disposable and reusable plastics are sources of contamination. (Ekaterina Demidova/Moment/Getty Images) Simply using your food packaging in the manner it's supposed to be used is enough to contaminate your comestibles with a sprinkling of microplastics. A painstaking review of 103 scientific studies on microplastic food contamination found actions...",
+      "published": "Thu, 03 Jul 2025 03:13:12 GMT"
+    },
+    {
+      "id": "c052a3ea32599b28626f85d7c6acd8e2",
+      "title": "Fresh fears as doctors chart explosion in cancer that's surging more rapidly that colon cancer - food favourite could be to blame - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/health/article-14863667/Alert-cancer-favourite-food-doctors.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2025/07/01/13/99888867-0-The_study_predicted_an_increase_in_uterine_cancers_stock_image_-a-5_1751371271263.jpg",
+      "summary": "Thursday, Jul 3rd 2025 7AM 74°F Fresh fears as doctors chart explosion in cancer that's surging more rapidly that colon cancer - food favourite could be to blame READ MORE: Doctors' alarm at 14 cancers rising sharply in young people PUBLISHED: 08:00 EDT, 1 July 2025 | UPDATED: 08:53 EDT, 1 July 2025 Experts have warned of an alarming surge...",
+      "published": "Tue, 01 Jul 2025 12:00:10 GMT"
+    },
+    {
+      "id": "1413cd01057e87324ba05f4cbc205f70",
+      "title": "A Texas boy needed protection from measles. The vaccine cost $1,400. - The Texas Tribune",
+      "source": "The Texas Tribune",
+      "url": "https://www.texastribune.org/2025/07/01/texas-measles-vaccine-cost/",
+      "image_url": "https://thumbnails.texastribune.org/6gLbHwHVYV-3rxkL6A4u_LkQXzU=/1200x630/filters:quality(95):focal(0x0:3000x2000)/static.texastribune.org/media/files/8801ac331aeaa095f2834ae4216907cd/Nguyen_Family_TT%2001.jpg",
+      "summary": "As the West Texas measles outbreak spread, Thang Nguyen of Galveston worried about his 4-year-old son, Anh Hoang, who had received only the first of the measles vaccine’s two doses. Nguyen took his family to a primary care clinic, where his son got his second shot. He was surprised when his insurer did not cover the vaccine — and its...",
+      "published": "Tue, 01 Jul 2025 15:00:00 GMT"
+    },
+    {
+      "id": "5f4e56d744c0ba654c3c75f58e3b95fa",
+      "title": "Are you a glucose 'dipper'? Here's how to fix those blood sugar highs and lows - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/07/03/nx-s1-5448849/glucose-blood-sugar-diet-weight-loss",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F22%2F83d99ab641579bf9a9393f3f54c8%2Fgettyimages-2202280925.jpg",
+      "summary": "Are you a glucose 'dipper'? Here's how to fix those blood sugar highs and lows A continuous glucose monitor helps people track their blood sugar spikes and dips. By all measurements, Judy Freeman, age 76, is in fantastic health. She doesn't have diabetes or heart disease. She's not overweight. She stays active. \"I try to walk at least four or...",
+      "published": "Thu, 03 Jul 2025 09:00:00 GMT"
+    },
+    {
       "id": "0fcde0050f3e4e74152d955b5e1f7bb7",
       "title": "Wyoming confirms 1st case of measles in 15 years as infections near 30-year high in US - ABC News - Breaking News, Latest News and Videos",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "url": "https://abcnews.go.com/Health/wyoming-confirms-1st-case-measles-15-years-infections/story?id=123407276",
       "image_url": "https://i.abcnewsfe.com/a/96cbf0af-721a-49d6-8ca6-c3054c6b7bfb/measles-sign-ap-jt-250311_1741732269895_hpMain_16x9.jpg?w=1600",
-      "summary": "Wyoming confirms 1st case of measles in 15 years as infections near 30-year high in US The case was confirmed in an unvaccinated child in central Wyoming. How contagious is measles? Measles is one of the most contagious viruses known to humans, experts say. Wyoming is reporting its first measles case in 15 years as the infectious disease continues to...",
+      "summary": "BreakingHiring surged in June, defying concern about Trump's tariffs Wyoming confirms 1st case of measles in 15 years as infections near 30-year high in US The case was confirmed in an unvaccinated child in central Wyoming. How contagious is measles? Measles is one of the most contagious viruses known to humans, experts say. Wyoming is reporting its first measles case...",
       "published": "Wed, 02 Jul 2025 14:03:45 GMT"
     },
     {
@@ -87,24 +132,6 @@
       "published": "Wed, 02 Jul 2025 14:25:00 GMT"
     },
     {
-      "id": "9d21264d34281864be55cd98b35b7f5d",
-      "title": "Is Taking a 'Fart Walk' Good for Your Health? - AOL.com",
-      "source": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkX0ZWVFdTaDk4ZlljbTN1eWdoVGluWW81ZUp6aWZZeGRYZ0J4eXVfRWxhRVRneV9icVR3SURMWkVEVzJaRDFFdlR4blY5ZjI2SjBaWkdzaUNiX1Z2c25tOV9VTWI3SnFvblk0b3V1V2g?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 18:29:49 GMT"
-    },
-    {
-      "id": "1413cd01057e87324ba05f4cbc205f70",
-      "title": "A Texas boy needed protection from measles. The vaccine cost $1,400. - The Texas Tribune",
-      "source": "The Texas Tribune",
-      "url": "https://www.texastribune.org/2025/07/01/texas-measles-vaccine-cost/",
-      "image_url": "https://thumbnails.texastribune.org/6gLbHwHVYV-3rxkL6A4u_LkQXzU=/1200x630/filters:quality(95):focal(0x0:3000x2000)/static.texastribune.org/media/files/8801ac331aeaa095f2834ae4216907cd/Nguyen_Family_TT%2001.jpg",
-      "summary": "As the West Texas measles outbreak spread, Thang Nguyen of Galveston worried about his 4-year-old son, Anh Hoang, who had received only the first of the measles vaccine’s two doses. Nguyen took his family to a primary care clinic, where his son got his second shot. He was surprised when his insurer did not cover the vaccine — and its...",
-      "published": "Tue, 01 Jul 2025 15:00:00 GMT"
-    },
-    {
       "id": "cc8102b2009e90982d64967814aa447d",
       "title": "AI Detects Hidden Lung Tumors Doctors Miss — And It’s Fast - SciTechDaily",
       "source": "SciTechDaily",
@@ -114,76 +141,49 @@
       "published": "Wed, 02 Jul 2025 09:08:14 GMT"
     },
     {
-      "id": "4439c10f64a7583421a8408bb49b4f93",
-      "title": "Utah announces more measles cases — and most of those infected are in one county - The Salt Lake Tribune",
-      "source": "The Salt Lake Tribune",
-      "url": "https://www.sltrib.com/news/2025/07/02/nine-measles-cases-utah-most-are/",
-      "image_url": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FMVSOXNF7JJG5HCTRGSI32RA5BA.jpg?auth=e2339f1afc792fcd39840d0f2a28209f233f6279fa2092c5d1ffa4797cc690b2&width=1200",
-      "summary": "Utah announces more measles cases — and most of those infected are in one county There have now been nine verified measles infections in the state, the Utah Department of Health and Human Services reports (Francisco Kjolseth | The Salt Lake Tribune) Public health officials warn of the first verified case of measles in Utah as Dr. Leisha Nolen, state...",
-      "published": "Wed, 02 Jul 2025 17:59:17 GMT"
-    },
-    {
-      "id": "cd4db9c768ecb7481ccef9258fc4b259",
-      "title": "Area health officials warn of infection outbreak dangerous to pregnant people - WHIO-TV",
-      "source": "WHIO-TV",
-      "url": "https://www.whio.com/news/local/area-health-officials-warn-infection-outbreak-dangerous-pregnant-people/SQYR7TDUCNAE7CLLWJXZBNIKD4/",
-      "image_url": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F2LK5OJLPSVFYVFT6G5ZSBLLY7A.tif?auth=97582d0a8b8eedd2f587442871ad254c6f601a6db454802c243956e3c3ad5641&width=1200&height=630&smart=true",
-      "summary": "You can skip this ad in 12 seconds Newscast covering important local topics and events Area health officials warn of infection outbreak dangerous to pregnant people (Public Health Image Library/CDC) HAMILTON COUNTY — A warning about a contagious disease spreading in southwest Ohio. [DOWNLOAD: Free WHIO-TV News app for alerts as news breaks] The Cincinnati Health Department is alerting people...",
-      "published": "Wed, 02 Jul 2025 18:50:27 GMT"
-    },
-    {
-      "id": "6290b9a1d0ba1eba3550b3c843952c35",
-      "title": "Mpox epidemic strains African health systems after US aid cuts - Financial Times",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/818e017d-8055-4521-b51e-c0291019bdd8",
-      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1e8799f8-81f5-4f46-a5d2-e196985bee69.jpg?source=next-barrier-page",
-      "summary": "Mpox epidemic strains African health systems after US aid cuts Subscribe to unlock this article Get 2 months free with an annual subscription at Access to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on FT. com and receive the FT Edit newsletter. See why over a million readers...",
-      "published": "Wed, 02 Jul 2025 04:01:38 GMT"
-    },
-    {
-      "id": "30d1c1fdc3383671743efc163bf8efdc",
-      "title": "Ketogenic diet raises brain blood flow by 22% and BDNF by 47% in new study - PsyPost",
-      "source": "PsyPost",
-      "url": "https://www.psypost.org/ketogenic-diet-raises-brain-blood-flow-by-22-and-bdnf-by-47-in-new-study/",
-      "image_url": null,
-      "summary": "Verify you are human by completing the action below. www.psypost. org needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 02 Jul 2025 22:07:50 GMT"
-    },
-    {
-      "id": "e2054d4314f828f8fadf2dfdb17f494d",
-      "title": "Taking 1 Common Medicine Could Prevent 100,000 Heart Attacks A Year, Research Finds - bestlifeonline.com",
-      "source": "bestlifeonline.com",
-      "url": "https://bestlifeonline.com/statins-can-prevent-heart-attacks/",
-      "image_url": "https://bestlifeonline.com/media-library/image.jpg?id=61133615&width=1200&height=600&coordinates=0%2C93%2C0%2C93",
-      "summary": "Taking 1 Common Medicine Could Prevent 100,000 Heart Attacks A Year, Research Finds It can also prevent up to 65,000 strokes per year. It’s estimated that 47 million Americans take daily cholesterol medication, usually in the form of a statin, according to 2024 data from Yale Medicine. The lipid-lowering drug prevents plaque from accumulating in the arteries since, when left...",
-      "published": "Tue, 01 Jul 2025 16:04:25 GMT"
-    },
-    {
-      "id": "a772dec0357ce96df627c93a37d3ca8a",
-      "title": "This MRI Reads Your Brain’s Hidden Clock and Predicts Dementia Decades Ahead - SciTechDaily",
-      "source": "SciTechDaily",
-      "url": "https://scitechdaily.com/this-mri-reads-your-brains-hidden-clock-and-predicts-dementia-decades-ahead/",
-      "image_url": "https://scitechdaily.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. scitechdaily. com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Tue, 01 Jul 2025 08:59:22 GMT"
-    },
-    {
-      "id": "6a1f787fc96a2e45df8b3caf66f84fe0",
-      "title": "A common assumption about aging may be wrong, study suggests - The Seattle Times",
-      "source": "The Seattle Times",
-      "url": "https://www.seattletimes.com/nation-world/a-common-assumption-about-aging-may-be-wrong-study-suggests/",
-      "image_url": "https://images.seattletimes.com/wp-content/uploads/2025/07/07022025_TZR_AGING_INFLAMATION-NYT_tzr_101113.jpg?d=1200x630",
-      "summary": "A common assumption about aging may be wrong, study suggests Tsimane men work on making spears used to hunt game in the community of San Bernardo in the Bolivian Amazon. A new analysis of data gathered from a small Indigenous population in the Bolivian Amazon suggests some of our basic assumptions about the biological process of aging might be wrong.",
-      "published": "Wed, 02 Jul 2025 12:57:41 GMT"
+      "id": "9d21264d34281864be55cd98b35b7f5d",
+      "title": "Is Taking a 'Fart Walk' Good for Your Health? - AOL.com",
+      "source": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkX0ZWVFdTaDk4ZlljbTN1eWdoVGluWW81ZUp6aWZZeGRYZ0J4eXVfRWxhRVRneV9icVR3SURMWkVEVzJaRDFFdlR4blY5ZjI2SjBaWkdzaUNiX1Z2c25tOV9VTWI3SnFvblk0b3V1V2g?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 02 Jul 2025 18:29:49 GMT"
     },
     {
       "id": "0e99fbee0bd0943b492fe89bcaf4b3ad",
       "title": "Ozempic-like drug significantly reduces frequency of chronic migraines in pilot study - Medical Xpress",
       "source": "Medical Xpress",
-      "url": "https://medicalxpress.com/news/2025-07-ozempic-drug-significantly-frequency-chronic.html",
-      "image_url": null,
-      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 20.171.130. 99 : a7258efa-e9ca-480f-be79-81af997b",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblJVY0ZiamJ6MHN4Y3AyemZUYUxxRU95amZNemJLY3h0dVRaQlplaEVMY1MtZFZCeFJxemlEcmdrbndEZWgzODlNNFowalpMdEM5ZHhxNS1HUmN0TEdTSS01NVZ2QllKWFRsd2taLVFMRml5THZhQTFhMDhGZGVaYUhfWmpwalhYU2N1ZW5rLUVTQQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Tue, 01 Jul 2025 18:49:57 GMT"
+    },
+    {
+      "id": "6290b9a1d0ba1eba3550b3c843952c35",
+      "title": "Mpox epidemic strains African health systems after US aid cuts - Financial Times",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQLWc0UjNUZzI5VjBLalpyOGJqMXltSE1wVHhWUHlJRTN5c1dydVVqajJOZEhvNFhKdE9DUDM3ZjRXQXl5c2RySEx1MVlvUUlrVnZ6Q1FpUDN6T1lHakg1N0VESVRla3MtMkp3SmVtMk0?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 02 Jul 2025 04:01:38 GMT"
+    },
+    {
+      "id": "4439c10f64a7583421a8408bb49b4f93",
+      "title": "Utah announces more measles cases — and most of those infected are in one county - The Salt Lake Tribune",
+      "source": "The Salt Lake Tribune",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Wd0h3RFZpYXNPRXlzSU9XSGY2azQyR3Z1RS01NjFTOGxHT09zaXRrZ3AtSE03b3EtaEo0S1llV00xbjhFXzJkbUVDSkpLeHpvSlgxNjdnSm8tUEJaME5BaHM4NUxoamtPdUtUZmlCQ2sybUVnTDBtdXNmaUM?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Wed, 02 Jul 2025 17:59:17 GMT"
+    },
+    {
+      "id": "e2054d4314f828f8fadf2dfdb17f494d",
+      "title": "Taking 1 Common Medicine Could Prevent 100,000 Heart Attacks A Year, Research Finds - bestlifeonline.com",
+      "source": "bestlifeonline.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3VUdId3FReE5hSENXN3RtSm9lbHNzXzdoNDZIcV9tWjRMOTlBZkRqR0g5aVpxN0RQYjg0bEhXNy0zSUJIZU9HLUlkRDNjNmswTWhqSUdnMzNIYVRzdE9rRk1XeGN0eGVsbGlqT3Z3?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 01 Jul 2025 16:04:25 GMT"
     }
   ]
 }

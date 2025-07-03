@@ -1,54 +1,90 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-07-03 06:51:41",
+    "generation_time": "2025-07-03 13:28:57",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "307f1e5c289328351d915fa24b13f77d",
-      "title": "Hamas is open to a ceasefire. But Netanyahu says there's no room for Hamas in postwar Gaza - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/07/02/israel-palestinians-hamas-war-news-07-02-2025/77bbed34-571b-11f0-b45b-dc9aeb848c03_story.html",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3Y6FECXGEI7BNC33SNOXBEMAM_size-normalized.jpg&w=1440",
-      "summary": "Hamas is open to a ceasefire. But Netanyahu says there's no room for Hamas in postwar Gaza Hamas and Israel staked out their positions ahead of expected talks on a Washington-backed ceasefire proposal Abdel Hadi Bashir mourns the loss of his two daughters, Sabah and Mira who were killed in an Israeli army airstrike of the Gaza Strip, at the...",
-      "published": "Thu, 03 Jul 2025 03:42:46 GMT"
+      "id": "5b878278c4d2589317f793e26932578b",
+      "title": "Hamas said happy with US guarantee on talks to end Gaza war as ceasefire momentum grows - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/hamas-said-happy-with-us-guarantee-on-talks-to-end-gaza-war-as-ceasefire-momentum-grows/",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/07/F250702JS14.jpg",
+      "summary": "Hamas said happy with US guarantee on talks to end Gaza war as ceasefire momentum grows 60-day halt would reportedly be bookended with release of 10 living hostages, along with 18 deceased captives handed over in 3 separate groups; terror group promises not to hold ceremonies Israelis protest calling for an end to the war in Gaza and for the...",
+      "published": "Thu, 03 Jul 2025 10:56:08 GMT"
     },
     {
-      "id": "d310cc6cc751adb4bd3e0730c5e61f5d",
-      "title": "Indonesia: Dozens missing after ferry sinks off Bali - BBC",
+      "id": "f95e75d115e472dd792e7876a2935ddb",
+      "title": "Reeves makes surprise appearance with PM after tears in Parliament - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce8z3lgkd8eo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8c41/live/a4804020-5803-11f0-960d-e9f1088a89fe.jpg",
+      "summary": "I had a tough day, says Rachel Reeves after Commons tears Automatically selects the best quality available",
+      "published": "Thu, 03 Jul 2025 10:26:52 GMT"
+    },
+    {
+      "id": "04d0ac02610bf0e471111b44a5a0b830",
+      "title": "Haiti's gangs have 'near-total control' of the capital, U.N. says - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/07/03/nx-s1-5455540/haiti-gangs-capital-port-au-prince-violence",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5914x3327+0+338/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F6b%2F8b4f64eb4ccd82dff41c6207fa26%2Fap25177681558070.jpg",
+      "summary": "Haiti's gangs have 'near-total control' of the capital, U. N. says Security guards stand watch as Haiti's Prime Minister Alix Didier Fils-Aime, center, talks with the Mexico's Charge d'Affaires Jesus Cisneros after attending an event marking one year since the start of the Multinational Security Support Mission in Port-au-Prince, Haiti on Thursday. UNITED NATIONS — Haiti's gangs have gained \"near-total...",
+      "published": "Thu, 03 Jul 2025 04:52:16 GMT"
+    },
+    {
+      "id": "b554ab61c9bed7acb19af340688e20c0",
+      "title": "Deputy head of Russian Navy killed by Ukraine in Kursk area, says Moscow - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/deputy-head-russian-navy-killed-by-ukraine-kursk-official-says-2025-07-03/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Thu, 03 Jul 2025 11:48:55 GMT"
+    },
+    {
+      "id": "7d63e8da5afe4e955688d457974865fe",
+      "title": "Dalai Lama Confirms Institution Will Continue With Successor - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-02/dalai-lama-confirms-institution-will-continue-with-successor",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Wed, 02 Jul 2025 08:54:27 GMT"
+    },
+    {
+      "id": "c7fe382af7904cc244f07586be9e18b2",
+      "title": "The Pope Returns to Castel Gandolfo for Summer. And There Will Be Tennis. - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/07/03/world/europe/pope-leo-summer-castel-gandolfo.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Thu, 03 Jul 2025 09:33:15 GMT"
+    },
+    {
+      "id": "6c2209ef14fad24205f25c7b70f3b7f2",
+      "title": "Why Thailand’s Shinawatra Dynasty Is on the Brink of Losing Power Once Again - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-02/why-thailand-s-shinawatra-dynasty-is-on-the-brink-of-losing-power-once-again",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Wed, 02 Jul 2025 10:38:54 GMT"
+    },
+    {
+      "id": "87e846f56c580acdc8195ecf89496114",
+      "title": "Colombia seizes first unmanned narco-submarine with Starlink antenna - France 24",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20250702-colombia-narco-submarine-starlink",
+      "image_url": "https://s.france24.com/media/display/a9fb6748-578e-11f0-96c8-005056bf30b7/w:1280/p:16x9/da982824c3f04b5169cd18a20935516d53b5f5a6.jpg",
+      "summary": "Your personal data, your options, our responsibility We and our partners use cookies or similar technologies to access and store non-sensitive information such as your IP address. The processing of your personal data allows us, for example, to improve your user experience, monitor audience ratings, offer social networks features, or display personalized advertisements. By clicking \"Accept\", you consent to the...",
+      "published": "Wed, 02 Jul 2025 22:06:00 GMT"
+    },
+    {
+      "id": "3e09c55cdb3a3dd419e5d6993fef9b29",
+      "title": "Indonesia: Five dead, dozens missing after ferry sinks off Bali - BBC",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cew0yz5xw1no",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0a40/live/eb93e4b0-57c4-11f0-9437-9774f0da2924.jpg",
-      "summary": "Four dead, dozens missing after ferry sinks off Bali Koh Ewe, Astudestra Ajengrastri and Hanna Samosir Reporting fromSingapore and Jakarta",
-      "published": "Thu, 03 Jul 2025 03:55:48 GMT"
-    },
-    {
-      "id": "d949625e8f03b9df6a7daa03f22d75c8",
-      "title": "Pound Drops Amid Uncertainty Over UK Chancellor Rachel Reeves - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/07/02/world/europe/rachel-reeves-uk-keir-starmer.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 22:10:40 GMT"
-    },
-    {
-      "id": "9ead07ca997eed9478a6f3b35a7cc8ce",
-      "title": "NASA Discovers Evidence of New Planet That Could Harbor Life - The Daily Beast",
-      "source": "The Daily Beast",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUVNmMzBHSGpNMFhCLVQyWTdlUE5qWFVUYzV6NkpjZ2x3dnVGbE1PM1VmM1FoZmQtNDk0b1BNaUlRbUFUM2NXVUdQZXprUThXN3Awb3RER3ZQbHpsdzJJSXBrb0MwenUxMEtaMlQ2RlQ5dkp4OHAtZ1YtZUJLWjNBNFBvMjZJeEp3dVhwZnBBWmh3T2c?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 22:30:00 GMT"
-    },
-    {
-      "id": "7df33df00d436966312177e8f8bb6f29",
-      "title": "Haiti’s gangs have ‘near-total control’ of the capital as violence escalates, UN says - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/un-haiti-gangs-capital-violence-government-kenya-c14dd55725e2e415b794ab88b4184e65",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 02 Jul 2025 21:27:00 GMT"
+      "summary": "Six dead, dozens missing after ferry sinks off Bali Koh Ewe, Astudestra Ajengrastri and Hanna Samosir Reporting fromSingapore and Jakarta Relatives of those missing have been anxiously waiting for updates At least six people have died and dozens are missing after a ferry sank off Indonesia's tourist island of Bali, rescuers said. The boat was carrying 53 passengers and 12...",
+      "published": "Thu, 03 Jul 2025 08:43:37 GMT"
     },
     {
       "id": "850f29b0aff455cc4f881556940d7e03",
@@ -60,22 +96,40 @@
       "published": "Wed, 02 Jul 2025 16:36:34 GMT"
     },
     {
-      "id": "df7cc9bd4f2faf3af32e5436532060f5",
-      "title": "Scorching European heatwave turns deadly in Spain, Italy and France - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwyg5pq584eo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8503/live/c53e60b0-5738-11f0-af50-37ee6e9c264e.jpg",
-      "summary": "Scorching European heatwave turns deadly in Spain, Italy and France People hydrate at Piazza di Spagna in Rome A wildfire in Spain and high temperatures elsewhere in Europe have claimed another six lives as the continent swelters in temperatures topping 40C. Two farmers died when they became trapped by flames near the town of Coscó in Spain's Catalonia region. Authorities...",
-      "published": "Wed, 02 Jul 2025 20:16:12 GMT"
+      "id": "7bf42e3180d8826977461ace0100ef2d",
+      "title": "Daily Crossword: The Candy Store Puzzle — July 3 - Vulture",
+      "source": "Vulture",
+      "url": "https://www.vulture.com/article/daily-crossword-puzzle-july-3-2025.html",
+      "image_url": "https://pyxis.nymag.com/v1/imgs/2f9/92f/8c7cb2d7df5ccbf711d8894a42281bd74b-crossword-7-3-2025.1x.rsocial.w1200.jpg",
+      "summary": "By Malaika Handa, a Vulture crossword constructor since 2022 New crosswords dropped every weekday. Find all our games here. Get the 10x10 crossword, Cinematrix, and Telematrix sent to your inbox when they’re ready to play. The Best Movies of 2025 (So Far) Despite all the sequels, spinoffs, and remakes, audiences are still hungry for original stories. 28 Years Later Sets...",
+      "published": "Thu, 03 Jul 2025 09:00:39 GMT"
     },
     {
-      "id": "0954382da92373fd53f53955b268a3c3",
-      "title": "A Ukrainian actress saw herself in a White House video — and created one in response - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/07/02/nx-s1-5453770/ukraine-actress-white-house-video-trump-antonina-khyzhniak",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/664x374+0+117/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa5%2F7c%2F79599af24620af83d2ef759e9b36%2Fscreenshot-2025-07-02-at-4-01-54-pm.png",
-      "summary": "A Ukrainian actress saw herself in a White House video — and created one in response Ukrainian actress Antonina Khyzhniak made a video in response to seeing stock footage of herself used in a White House video. She acts out an imaginary negotiation between herself and President Trump. KYIV, Ukraine — A social media video promoting President Trump's tax bill...",
-      "published": "Wed, 02 Jul 2025 21:00:49 GMT"
+      "id": "c7a892aee5a40215ee1590b6fa957f70",
+      "title": "European heat wave closes Eiffel Tower’s top floor and bakes Wimbledon - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/climate-environment/2025/07/02/european-heat-wave-eiffel-tower/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4T573SNVPCTJHMEBINVICN76IU_size-normalized.jpg&w=1440",
+      "summary": "European heat wave closes Eiffel Tower’s top floor and bakes Wimbledon The heat wave that has blanketed much of Europe is expected to linger over the continent this week, driving up temperatures and offering little reprieve. A tourist near the Eiffel Tower in Paris uses a hat to protect herself from the sun on Monday. (Ludovic Marin/AFP/Getty Images) In Paris,...",
+      "published": "Wed, 02 Jul 2025 16:58:52 GMT"
+    },
+    {
+      "id": "2efac404150011e66c334fc6175842dd",
+      "title": "Wildfire on Greek island of Crete prompts evacuations of hotels and damages homes - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/wildfires-crete-greece-tourism-greek-island-14e6676462c595374ccfdc1f4c7735a9",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Thu, 03 Jul 2025 00:02:00 GMT"
+    },
+    {
+      "id": "6733f50af582bf4dd5ed6e127d1a3109",
+      "title": "Brussels fiddles on climate target while Europe burns - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/european-commission-2040-climate-target-heat-wave/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/01/12444199-scaled.jpg",
+      "summary": "Brussels fiddles on climate target while Europe burns",
+      "published": "Wed, 02 Jul 2025 03:28:00 GMT"
     },
     {
       "id": "5b587055b765fd69f2f22b8dcb328deb",
@@ -93,61 +147,7 @@
       "url": "https://www.dw.com/en/von-der-leyens-european-commission-faces-no-confidence-vote/a-73128322",
       "image_url": "https://static.dw.com/image/73060275_6.jpg",
       "summary": "DW uses cookies and similar technologies to measure usage, display personalized advertising and share personal data and information with up to 186 third parties. You decide for yourself whether you agree to this use of your data. You can adjust individual details under “Settings” and change them at any time. You can view all of DW's content without agreeing. Social...",
-      "published": "Thu, 03 Jul 2025 01:04:16 GMT"
-    },
-    {
-      "id": "2e038ae90ab58d7a5cdfbd2fb6b75e8d",
-      "title": "CIA declassifies review of intelligence report on 2016 Russia election interference - NBC News",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/national-security/cia-review-intelligence-report-2016-election-russian-interference-rcna216634",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240422-cia-headquarters-ew-224p-f5e2ce.jpg",
-      "summary": "CIA review criticizes procedures but not conclusions of intelligence report on 2016 Russia election interference An intelligence assessment after the election found that Russia waged an information warfare campaign designed to boost Trump’s prospects and damage Hillary Clinton's candidacy. CIA headquarters in Langley, Va. Kevin Wolf / AP file Create your free profile or log in to save this article...",
-      "published": "Thu, 03 Jul 2025 00:18:00 GMT"
-    },
-    {
-      "id": "f0ae42cedb2e1b8eb25d04de7f8d1586",
-      "title": "Headlines for July 01, 2025 - Democracy Now!",
-      "source": "Democracy Now!",
-      "url": "https://www.democracynow.org/2025/7/1/headlines",
-      "image_url": "https://assets.democracynow.org/assets/default_content_image-354f4555cc64afadc730d64243c658dd0af1f330152adcda6c4900cb4a26f082.jpg",
-      "summary": "You turn to us for voices you won't hear anywhere else. Sign up for Democracy Now! 's Daily Digest to get our latest headlines and stories delivered to your inbox every day. AboutDaily DigestEventsStationsEspañolDONATE Daily ShowsWeb ExclusivesTopicsColumns HOT TOPICSGazaIranDonald TrumpArtificial IntelligenceImmigrationUkraineClimate CrisisAbortionElon MuskEducation Israel Bombs Crowded Gaza Cafe, Killing Dozens, Including Children Israeli attacks on Gaza killed nearly 100 Palestinians...",
-      "published": "Tue, 01 Jul 2025 14:17:23 GMT"
-    },
-    {
-      "id": "6733f50af582bf4dd5ed6e127d1a3109",
-      "title": "Brussels fiddles on climate target while Europe burns - politico.eu",
-      "source": "politico.eu",
-      "url": "https://www.politico.eu/article/european-commission-2040-climate-target-heat-wave/",
-      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/01/12444199-scaled.jpg",
-      "summary": "Brussels fiddles on climate target while Europe burns",
-      "published": "Wed, 02 Jul 2025 03:28:00 GMT"
-    },
-    {
-      "id": "74a773c7837d09fd99d9ee653a9c039a",
-      "title": "Russian Offensive Campaign Assessment, July 2, 2025 - Institute for the Study of War",
-      "source": "Institute for the Study of War",
-      "url": "https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-july-2-2025",
-      "image_url": "https://understandingwar.org/sites/default/files/Assessed%20Russian%20Advances%20in%20Kursk%20Oblast%20March%203%2C%202025%20to%20March%2011%2C%202025.png",
-      "summary": "Christina Harward, Grace Mappes, Olivia Gibson, Jennie Olmsted, Daria Novikov, Jessica Sobieski, and George Barros Click here to see ISW’s interactive map of the Russian invasion of Ukraine. This map is updated daily alongside the static maps present in this report. Click here to see ISW's interactive map of Ukraine's offensive in Kursk Oblast. Click here to see ISW’s 3D...",
-      "published": "Thu, 03 Jul 2025 01:37:45 GMT"
-    },
-    {
-      "id": "84fc248721a7aebe57a74f25b720831c",
-      "title": "US, Indo-Pacific partners agree to strengthen maritime, critical minerals cooperation - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/us-australia-india-japan-ff2f90407d22d6e9cfab0c2dc60e57f2",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 02 Jul 2025 02:13:00 GMT"
-    },
-    {
-      "id": "c4872c68b8287276b34c52bd908e0021",
-      "title": "Daily Crossword: The Wedding Puzzle — July 2 - Vulture",
-      "source": "Vulture",
-      "url": "https://www.vulture.com/article/daily-crossword-puzzle-july-2-2025.html",
-      "image_url": "https://pyxis.nymag.com/v1/imgs/689/35a/a360321613ce700d0b882e4b7ec2ec344f-crossword-7-2-2025.1x.rsocial.w1200.jpg",
-      "summary": "By Malaika Handa, a Vulture crossword constructor since 2022 New crosswords dropped every weekday. Find all our games here. Get the 10x10 crossword, Cinematrix, and Telematrix sent to your inbox when they’re ready to play. It’s Going to Take a Long, Long Time for The Last of Us Season 3 Neil Druckmann has left the show, saying in his goodbye...",
-      "published": "Wed, 02 Jul 2025 09:00:42 GMT"
+      "published": "Thu, 03 Jul 2025 07:05:19 GMT"
     },
     {
       "id": "a874cd4ae4242b4b899ee54da5ce0363",
@@ -159,31 +159,31 @@
       "published": "Wed, 02 Jul 2025 09:22:10 GMT"
     },
     {
-      "id": "26eda0db35f1b975324d23120eabb063",
-      "title": "European summers are getting brutally hot. So why is air conditioning so rare? - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/07/02/climate/europe-air-conditioning-heat-wave-intl-latam",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1408705704.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "European summers are getting brutally hot. So why is air conditioning so rare? Air conditioning units dot the exterior of an apartment building in Madrid. Pablo Blazquez Dominguez/Getty Images A brutal heat wave is gripping many parts of Europe, leaving millions of people struggling to adapt to punishing, record-breaking temperatures. Heat persists even at night, with temperatures in some places...",
-      "published": "Wed, 02 Jul 2025 13:55:00 GMT"
+      "id": "1ae4db3cc09329552d27adfc6d61c3ca",
+      "title": "Israel Hits Gaza With Heavy Strikes; 118 Reported Killed in Past Day, Hamas Ministry Says - Haaretz",
+      "source": "Haaretz",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQMEJLTl9FcUpTLXZHbk5xdGV6RnBnOUJ6ZWw1WGRCS29wUl9WRkUtYkd5U1ozbHdUcU9RNkVNUDZ3Sm55c0Rud0ZkajIwdktqOUhlSEpVS1ZZVzNsVE9ubW9UWGVaLXAwS0ZxbG5MNzAwNlp5N1huaXFRRjRyX0FrTm8yd0JscmZtYmJwam55cTJ1dU1ESWU0bTNISXpRX1RMNkxhdGV1RTY1ZTROME1CV0Z1aFBIdkY0UFREa3V0RUQ4aU41ZHZHT2pQZ3VKT0Z0ZVZpMzBYamlXc1EwRWF3UUVndnliTnJMRlR6dU9jcWN5ZXVDM280U1VsX3N5VzhDSUFPY2lCMnRua19XaVVpMkZLUQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 03 Jul 2025 11:59:00 GMT"
     },
     {
-      "id": "a4e20f533806495b421198cf4ddb98a4",
-      "title": "Likud ministers urge Netanyahu to annex West Bank by the end of the month - The Times of Israel",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/likud-ministers-urge-netanyahu-to-annex-west-bank-by-the-end-of-the-month/",
-      "image_url": "https://static-cdn.toi-media.com/www/uploads/2023/03/KBG_GPO6834-e1678125795807.jpg",
-      "summary": "Likud ministers urge Netanyahu to annex West Bank by the end of the month Ahead of PM’s trip to Washington and the Knesset’s summer break, senior politicians suggest it is ‘a propitious time to move forward’ with controversial move From left, police chief Kobi Shabtai, Prime Minister Benjamin Netanyahu, National Security Minister Itamar Ben Gvir and Knesset Speaker Amir Ohana...",
-      "published": "Wed, 02 Jul 2025 20:03:00 GMT"
-    },
-    {
-      "id": "d8689c59167775cd583002ab9c648580",
-      "title": "Droughts worldwide pushing tens of millions towards starvation, says report - The Guardian",
+      "id": "9c5cf94fc0a2bed4a60103e9f0c78d06",
+      "title": "Quad countries agree to diversify critical mineral supplies amid China concerns - The Guardian",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/jul/02/droughts-worldwide-pushing-tens-millions-starvation-report",
-      "image_url": "https://i.guim.co.uk/img/media/49851ff7b1d6151b891dd04b5bcbb9952b185aaf/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58f29c080fb63aedd6139d8c32e2da46",
-      "summary": "Fund the free press with $15 per month A woman and child at a camp for displaced people near Dollow, Somalia. A quarter of the country’s population are edging towards starvation. Photograph: Jérôme Delay/AP Droughts worldwide pushing tens of millions towards starvation, says report Water shortages hitting crops, energy and health as crisis gathers pace amid climate breakdown Fiona Harvey...",
-      "published": "Wed, 02 Jul 2025 12:31:00 GMT"
+      "url": "https://www.theguardian.com/world/2025/jul/02/quad-countries-agree-to-diversify-critical-mineral-supplies-amid-china-concerns",
+      "image_url": "https://i.guim.co.uk/img/media/84740bb951e2c1454d30b31c59c82f9ab8cc15c2/594_199_4748_3800/master/4748.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5622b9038dfbe55ba4e60c487d0e78d8",
+      "summary": "Fund the free press with $5 per month Secretary of state Marco Rubio, accompanied by (from left) India’s Subrahmanyam Jaishankar, Australia’s Penny Wong and Japan’s Iwaya Takeshi, speaks at the Quad meeting. The four agreed to diversify critical mineral supply chains, amid China’s dominance of the industry. Photograph: José Luis Magaña/AP Quad countries agree to diversify critical mineral supplies amid...",
+      "published": "Wed, 02 Jul 2025 04:34:00 GMT"
+    },
+    {
+      "id": "0954382da92373fd53f53955b268a3c3",
+      "title": "A Ukrainian actress saw herself in a White House video — and created one in response - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/07/02/nx-s1-5453770/ukraine-actress-white-house-video-trump-antonina-khyzhniak",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/664x374+0+117/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa5%2F7c%2F79599af24620af83d2ef759e9b36%2Fscreenshot-2025-07-02-at-4-01-54-pm.png",
+      "summary": "A Ukrainian actress saw herself in a White House video — and created one in response Ukrainian actress Antonina Khyzhniak made a video in response to seeing stock footage of herself used in a White House video. She acts out an imaginary negotiation between herself and President Trump. KYIV, Ukraine — A social media video promoting President Trump's tax bill...",
+      "published": "Wed, 02 Jul 2025 21:00:49 GMT"
     }
   ]
 }
