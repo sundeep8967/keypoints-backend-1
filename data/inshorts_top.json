@@ -1,117 +1,108 @@
 {
   "metadata": {
     "source_file": "data/news_top.json",
-    "generation_time": "2025-07-02 18:42:47",
+    "generation_time": "2025-07-03 02:10:00",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "4db8385e7bcceda909e42542dda69a21",
-      "title": "Sean 'Diddy' Combs Trial Live Updates: Combs Found Not Guilty of Sex Trafficking and Convicted on Lesser Charges - The New York Times",
+      "id": "db4325b66f1465bde7147b78ca8f6738",
+      "title": "Republican voters on Trump’s sweeping tax-and-spend legislation: ‘This bill is a no-brainer!’ - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/jul/02/trump-supporters-on-big-beautiful-bill",
+      "image_url": "https://i.guim.co.uk/img/media/7edcd30df37dc8ad87094a663f9b1384b43b8629/974_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94d1753e738f7cdf84d15d85a1ae19a9",
+      "summary": "Fund the free press with $5 per month Donald Trump speaks on the south lawn of the White House on Tuesday. Photograph: Anna Moneymaker/Getty Images Republican voters on Trump’s sweeping tax-and-spend legislation: ‘This bill is a no-brainer! ’ We asked the president’s supporters what they thought of his ‘big, beautiful bill’ – the answers revealed a wide split Tax and...",
+      "published": "Wed, 02 Jul 2025 23:50:00 GMT"
+    },
+    {
+      "id": "86b9ba50191580f54c50baa27ddddc25",
+      "title": "Bryan Kohberger Pleads Guilty to Killing 4 Idaho Students - The New York Times",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2025/07/02/arts/sean-combs-diddy-trial-jury",
+      "url": "https://www.nytimes.com/2025/07/02/us/idaho-murders-kohberger-plea.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 17:14:11 GMT"
+      "published": "Wed, 02 Jul 2025 22:47:44 GMT"
     },
     {
-      "id": "a32805b095c5aed72d10b8a41b94c220",
-      "title": "Freedom Caucus attacks Senate megabill in 3-page dissection - Politico",
+      "id": "45f2531b817924bb871697f316905c24",
+      "title": "Federal judge strikes down Trump's order suspending asylum access at the southern border - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/07/02/nx-s1-5455076/judge-rules-against-trump-asylum-ban",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4799x2699+0+261/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2F60%2F1a44662c4e34a83499135023efd3%2Fap25163034909834.jpg",
+      "summary": "Federal judge strikes down Trump's order suspending asylum access at the southern border A migrant seeking asylum holds up the CBP One app showing his appointment was canceled after President Donald Trump was sworn into office, Jan. 20, 2025, in Matamoros, Mexico. A federal judge Wednesday struck down Trump's suspension of asylums at the southern border. A federal judge in...",
+      "published": "Thu, 03 Jul 2025 00:19:48 GMT"
+    },
+    {
+      "id": "87ce14bd6761d9d0e5a3acd1fb7ea369",
+      "title": "Tibet is silent as Dalai Lama turns 90, BBC finds - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5y772jlpgzo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/fb21/live/024184c0-576f-11f0-b5c5-012c5796682d.jpg",
+      "summary": "'Be careful, they are watching you': Tibet is silent as Dalai Lama turns 90 Reporting fromAba, Sichuan province",
+      "published": "Wed, 02 Jul 2025 21:28:28 GMT"
+    },
+    {
+      "id": "f13e63bb6114e2813b13a3a5f850db7d",
+      "title": "Skydiving plane goes off runway at Cross Keys Airport in Williamstown, New Jersey; 15 injured - CBS News",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/philadelphia/news/plane-crash-cross-keys-airport-williamstown-new-jersey/",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/07/02/d3b1520c-23ff-478b-9e32-9e6efcd697a9/thumbnail/1200x630/d014ce5bbbf28dfc05e1e0f0ceeb1187/lns-chopper-willowstown-small-plane-crash-070225-frame-74094.jpg",
+      "summary": "Skydiving plane crashes at Cross Keys Airport in Williamstown, New Jersey; 14 treated for injuries Updated on: July 2, 2025 / 10:00 PM EDT / CBS Philadelphia Officials provide update after skydiving plane crashes at Cross Keys Airport in Williamstown, N. J. Fourteen of the 15 people on board a skydiving aircraft are being treated for injuries after the small...",
+      "published": "Wed, 02 Jul 2025 22:11:00 GMT"
+    },
+    {
+      "id": "b4fe0cb809f1cebce687622a6dbab17b",
+      "title": "Trump says the Republican mega bill will eliminate taxes on Social Security. It does not - PBS",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/politics/trump-says-the-republican-mega-bill-will-eliminate-taxes-on-social-security-it-does-not",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/07/2025-07-01T193544Z_359289813_RC2VDFAPW1OX_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+      "summary": "By — Fatima Hussein, Associated Press Trump says the Republican mega bill will eliminate taxes on Social Security. It does not Politics Jul 2, 2025 12:15 PM EDT WASHINGTON (AP) — President Donald Trump keeps saying that Republicans’ mega tax and spending cut legislation will eliminate taxes on federal Social Security benefits. At best, Trump’s “no tax on Social Security”...",
+      "published": "Wed, 02 Jul 2025 16:15:13 GMT"
+    },
+    {
+      "id": "e23aaffb9cb818888d1b43676af112db",
+      "title": "Trump allies caught off guard by Pentagon’s Ukraine weapons freeze - Politico",
       "source": "Politico",
-      "url": "https://www.politico.com/live-updates/2025/07/02/congress/freedom-caucus-memo-gop-megabill-00437375",
-      "image_url": "https://www.politico.com/dims4/default/0e67418/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F0f%2F3f%2F6d79ac59475e928f67a2ec434ced%2Fu-s-congress-61823.jpg",
-      "summary": "Freedom Caucus attacks Senate megabill in 3-page dissection The document circulated Wednesday as GOP leaders sought the hard-liners’ support. The House Freedom Caucus is circulating a memo sharply criticizing the Senate-passed GOP megabill as Republican leaders work to secure hard-liners’ votes Wednesday. The three-page document seizes on more than a dozen modifications to the bill made after it passed the...",
-      "published": "Wed, 02 Jul 2025 16:51:29 GMT"
-    },
-    {
-      "id": "fdc7803178d2c8744cd328c460ffefa7",
-      "title": "Bryan Kohberger due in court today to plead guilty in Idaho college killings, sparing him death penalty - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/bryan-kohberger-due-court-today-plead-guilty-idaho/story?id=123373799",
-      "image_url": "https://i.abcnewsfe.com/a/e87e2a20-142f-4e46-8cae-37a53fcbde49/kohberger-ap-jt-250702_1751477296007_hpMain_16x9.jpg?w=1600",
-      "summary": "BreakingBryan Kohberger admits to Idaho college killings in plea hearing Bryan Kohberger admits to Idaho college killings in plea hearing Bryan Kohberger said in court he was \"guilty\" of each of the five counts. ByKayna Whitworth and Emily Shapiro Bryan Kohberger expected to plead guilty in Idaho college murders caseKohberger is expected to change his plea to guilty on all...",
-      "published": "Wed, 02 Jul 2025 15:07:36 GMT"
-    },
-    {
-      "id": "f1937f950b57acd486b007bb4f3a5b95",
-      "title": "Musk vows to start a third party. Funding’s no issue, but there are others. - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHUzUm02UHBfZEI0dE5hXzZTMHdRZ1hHc0dFYVJRRU93cy1BajM5a0xUUEpZeDE3c3VmUTJyRTQ5R0IxWC1YbmRuT3h1NVJ2VFlGZ0g4OXpHRDNUNFFQbkRfa0p4dnMyWXFtYjB2Y3JKNnpYcFpnOUtYNWl2TTE1VDJWYnB3akZn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRUVzUXVEdTE4RHJMNUJzYmhPUXBCeXBoRWZINGd1bTBxVkJORlJobWxPaFZld2hVR0x5WmEtRXBmSmN6Y215NWxUcUZFZTlTM01NNHpwSm02dFczNHV3OWJPNE9PYS15SG0tS2RIbUdyWERCMERGSXhQcjY3UmxWU0hLQWN2cnI4RDJOa2dMcTE?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 14:37:12 GMT"
+      "published": "Thu, 03 Jul 2025 00:28:00 GMT"
     },
     {
-      "id": "8a7876a6b335337e201fd5f61019113d",
-      "title": "Paramount will pay $16 million in settlement with Trump over ’60 Minutes’ interview - AP News",
+      "id": "c5d92b21db536e7d07cf6474426a1ea9",
+      "title": "Wisconsin Supreme Court’s liberal majority strikes down 176-year-old abortion ban - AP News",
       "source": "AP News",
-      "url": "https://apnews.com/article/trump-media-harris-minutes-paramount-6415042fe910ae60b432dd8c73ef61b2",
+      "url": "https://apnews.com/article/wisconsin-abortion-ban-1849-01658358639a63db7df92aeec34c612d",
       "image_url": "https://apnews.com/favicon.ico",
       "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 02 Jul 2025 14:07:00 GMT"
+      "published": "Wed, 02 Jul 2025 18:34:00 GMT"
     },
     {
-      "id": "f61263038babe7d4ce560f491e851173",
-      "title": "Trump warns ‘spoiled’ Japan may not get a US trade deal - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/07/02/business/trump-japan-trade-deal-intl-hnk",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2221629718.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Trump warns ‘spoiled’ Japan may not get a US trade deal By John Liu, Yumi Asada and Ramishah Maruf, CNN Published 3:47 AM EDT, Wed July 2, 2025 US President Donald Trump speaks during a press conference at the White House on June 27, 2025. Mehmet Eser/AFP/Getty Images US President Donald Trump cast doubt on reaching a trade deal with...",
-      "published": "Wed, 02 Jul 2025 07:47:00 GMT"
+      "id": "f1310ac888e506ff976a042f098ea06d",
+      "title": "‘Spineless capitulation.’ Paramount faces backlash over its $16-million Trump settlement - Los Angeles Times",
+      "source": "Los Angeles Times",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2025-07-02/paramount-faces-backlash-over-its-16-million-settlement-with-trump",
+      "image_url": "https://ca-times.brightspotcdn.com/dims4/default/6faa42f/2147483647/strip/true/crop/7763x4076+0+550/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff8%2Fd6%2F0d8385544893accf0d864e6a093f%2Fgettyimages-1247972540.jpg",
+      "summary": "‘Spineless capitulation. ’ Paramount faces backlash over its $16-million Trump settlement Paramount late Tuesday agreed to a landmark settlement with Trump to end his $20-billion broadside against CBS News. (Patrick T. Fallon / AFP / Getty Images) Journalists and others said the payment will embolden attacks by Trump and his allies on news outlets. Some called the settlement a stain...",
+      "published": "Wed, 02 Jul 2025 18:29:55 GMT"
     },
     {
-      "id": "b2f81192a6ba4b4d57b5411f21a5f376",
-      "title": "Trump administration withholds $7 billion from schools; advocates to sue - The Washington Post",
+      "id": "4df535314cb5d7ef97adbff6935cf540",
+      "title": "US Department of Education withholds millions in funding for Vermont school districts - VTDigger",
+      "source": "VTDigger",
+      "url": "https://vtdigger.org/2025/07/02/u-s-department-of-education-withholds-millions-in-funding-for-vermont-school-districts/",
+      "image_url": "https://vtdigger.org/wp-content/uploads/2025/07/Education-Secretary-Linda-McMahon-AP-060325-scaled.jpg",
+      "summary": "Zizian Coverage Jobs Government & Politics Housing Economy Environment Education Health Public Safety US Department of Education withholds millions in funding for Vermont school districts The $26 million in federal grant funding supported after-school and summer programs, professional development for teachers and staff, as well as English language instruction for students. Education Secretary Linda McMahon arrives for a House Committee...",
+      "published": "Wed, 02 Jul 2025 17:09:39 GMT"
+    },
+    {
+      "id": "307f1e5c289328351d915fa24b13f77d",
+      "title": "Hamas is open to a ceasefire. But Netanyahu says there's no room for Hamas in postwar Gaza - The Washington Post",
       "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/education/2025/07/02/schools-education-trump-administration-funding-hold/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WP2BZ36TVNR6JEM7FSKMKX22EY.JPG&w=1440",
-      "summary": "Trump administration withholds $7 billion from schools The Education Department said billions in congressionally approved funding are under review for after-school programs, English-language learning and more. A lawsuit is expected. The Education Department notified schools Tuesday that billions in funding approved by Congress this year are being withheld and are under review “given the change in Administrations. ” (Wesley Lapointe/For...",
-      "published": "Wed, 02 Jul 2025 17:27:19 GMT"
-    },
-    {
-      "id": "40948e884336792f609b199d6d9f0530",
-      "title": "Texas Rep. Chip Roy calls GOP megabill 'garbage' and casts doubt on passage by July 4 - Texas Public Radio | TPR",
-      "source": "Texas Public Radio | TPR",
-      "url": "https://www.tpr.org/government-politics/2025-07-02/why-texas-rep-chip-roy-broke-with-trump-on-the-gops-mega-bill",
-      "image_url": "https://npr.brightspotcdn.com/dims4/default/70f57e4/2147483647/strip/true/crop/4034x2118+0+286/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2Fcb%2Fc9a687724932951b6a8139b1b3c2%2F2025-07-01t185755z-54617494-rc2udfayuftl-rtrmadp-3-usa-congress-tax.JPG",
-      "summary": "Real. Reliable. Texas Public Radio. KCTI-AM/FM is currently off-air due to damage from a previous lightning strike. Parts are en route. Texas Rep. Chip Roy calls GOP megabill 'garbage' and casts doubt on passage by July 4 Texas Public Radio | By Dan Katz Published July 2, 2025 at 2:35 AM CDT U. S. Rep. Chip Roy (R-TX) attends a...",
-      "published": "Wed, 02 Jul 2025 07:35:00 GMT"
-    },
-    {
-      "id": "6664f7d420fae859d7f7322c60e76c69",
-      "title": "Gov. Gavin Newsom signs housing bill overhauling California's landmark environmental law - NBC News",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/newsom-signs-housing-bill-overhauling-california-environmental-law-rcna216380",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250422-Newsom-ch-0916-d9f2ea.jpg",
-      "summary": "Gov. Gavin Newsom signs housing bill overhauling California's landmark environmental law Newsom said the bills, which he signed Monday night, are the most consequential housing reform in recent California history. California Gov. Gavin Newsom in Los Angeles on March 26. Amy Sussman / Getty Images file Create your free profile or log in to save this article July 1, 2025,...",
-      "published": "Tue, 01 Jul 2025 23:02:18 GMT"
-    },
-    {
-      "id": "d4983831f72d812a9658a2e2f0a5edc6",
-      "title": "Fact-checking Trump’s remarks at ‘Alligator Alcatraz’ on immigration and Medicaid - PBS",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/politics/fact-checking-trumps-remarks-at-alligator-alcatraz-on-immigration-and-medicaid",
-      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/07/2025-07-01T224132Z_31334439_RC2SDFABUP38_RTRMADP_3_USA-TRUMP-1-1024x768.jpg",
-      "summary": "By — Louis Jacobson, PolitiFact Fact-checking Trump’s remarks at ‘Alligator Alcatraz’ on immigration and Medicaid Politics Jul 2, 2025 11:46 AM EDT This article originally appeared on PolitiFact. President Donald Trump toured Florida’s Alligator Alcatraz migrant detention facility in the Everglades ahead of its first expected detainees. “It’s known as Alligator Alcatraz, which is very appropriate because I looked outside...",
-      "published": "Wed, 02 Jul 2025 15:46:10 GMT"
-    },
-    {
-      "id": "cf7c418e2e406e6d3889ab89cc5960bf",
-      "title": "Dalai Lama says he will be reincarnated, Trust will identify successor - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/dalai-lama-says-institution-dalai-lama-will-continue-2025-07-02/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 14:00:29 GMT"
-    },
-    {
-      "id": "6b3f08fb9f440c34404aa6853e65b7a8",
-      "title": "Israeli official says country has accepted 60-day Gaza ceasefire deal detailed by Trump - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/07/01/politics/gaza-ceasefire-israel-agreement-trump",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2222325714.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Israeli official says country has accepted 60-day Gaza ceasefire deal detailed by Trump By Kristen Holmes, Kylie Atwood and Jeremy Diamond, CNN Updated 12:52 PM EDT, Wed July 2, 2025 This picture taken from a position at Israel's border with Gaza shows smoke billowing during an Israeli strike on the besieged Palestinian territory on July 1, 2025. Jack Guez/AFP/Getty Images...",
-      "published": "Wed, 02 Jul 2025 16:52:00 GMT"
+      "url": "https://www.washingtonpost.com/world/2025/07/02/israel-palestinians-hamas-war-news-07-02-2025/77bbed34-571b-11f0-b45b-dc9aeb848c03_story.html",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3Y6FECXGEI7BNC33SNOXBEMAM_size-normalized.jpg&w=1440",
+      "summary": "Hamas is open to a ceasefire. But Netanyahu says there's no room for Hamas in postwar Gaza Hamas and Israel staked out their positions ahead of expected talks on a Washington-backed ceasefire proposal Abdel Hadi Bashir mourns the loss of his two daughters, Sabah and Mira who were killed in an Israeli army airstrike of the Gaza Strip, at the...",
+      "published": "Thu, 03 Jul 2025 00:40:25 GMT"
     },
     {
       "id": "d949625e8f03b9df6a7daa03f22d75c8",
@@ -120,61 +111,70 @@
       "url": "https://www.nytimes.com/2025/07/02/world/europe/rachel-reeves-uk-keir-starmer.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 16:38:10 GMT"
+      "published": "Wed, 02 Jul 2025 22:10:40 GMT"
     },
     {
-      "id": "a24727e4f383f7db095401b7bfc9f706",
-      "title": "Greetings from Alishan, Taiwan, whose red cypress forests offer timeless beauty - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/07/02/g-s1-72986/taiwan-red-cypress-forests-alishan",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2F4b%2F5f4d34d44a6788864c57e2fb33f0%2Ffarflungpostcard-efeng.jpg",
-      "summary": "Greetings from Alishan, Taiwan, whose red cypress forests offer timeless beauty Far-Flung Postcards is a weekly series in which NPR's international team shares snapshots of moments from their lives and work around the world. In November, during one of the last weeks of my posting in Taiwan, I went to my favorite place there: the red cypress forests of Alishan,...",
-      "published": "Wed, 02 Jul 2025 13:44:21 GMT"
+      "id": "850f29b0aff455cc4f881556940d7e03",
+      "title": "Starmer's approach to welfare reform 'appalling' - Swinney - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4gdemnng7zo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/bb0d/live/4512ffe0-573d-11f0-b5c5-012c5796682d.jpg",
+      "summary": "Starmer's approach to welfare reform 'appalling' - Swinney John Swinney says the Scottish government has made \"hard choices\" to fund its social security system First Minister John Swinney has accused the UK government of taking an \"absolutely appalling\" approach to welfare reform. MPs have backed changes to the social security system, but only after Labour ministers made major concessions to...",
+      "published": "Wed, 02 Jul 2025 16:36:34 GMT"
     },
     {
-      "id": "61a71a985b884b642fbffd9616ab4bf7",
-      "title": "Tesla Sales Fall as Elon Musk Focuses on Self-Driving Cars - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/07/02/business/tesla-sales-elon-musk.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 13:05:34 GMT"
+      "id": "df7cc9bd4f2faf3af32e5436532060f5",
+      "title": "Scorching European heatwave turns deadly in Spain, Italy and France - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwyg5pq584eo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8503/live/c53e60b0-5738-11f0-af50-37ee6e9c264e.jpg",
+      "summary": "Scorching European heatwave turns deadly in Spain, Italy and France People hydrate at Piazza di Spagna in Rome A wildfire in Spain and high temperatures elsewhere in Europe have claimed another six lives as the continent swelters in temperatures topping 40C. Two farmers died when they became trapped by flames near the town of Coscó in Spain's Catalonia region. Authorities...",
+      "published": "Wed, 02 Jul 2025 20:16:12 GMT"
     },
     {
-      "id": "9a603313f31d32b2840c9f55116a5b12",
-      "title": "S&P 500 hits new record as Trump announces Vietnam trade deal, gains limited by weak jobs data: Live updates - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/07/01/stock-market-today-live-updates.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108167043-1751468401083-Traders-Photo-20250701-KK-PRESS-025.jpg?v=1751468635&w=1920&h=1080",
-      "summary": "S&P 500 hits new record as Trump announces Vietnam trade deal, gains limited by weak jobs data: Live updates Traders work at the New York Stock Exchange on July 2, 2025. rose on Wednesday after President Donald Trump announced a U. S.-Vietnam trade deal. However, investor optimism was limited due to a new report showing private payrolls surprisingly decreased in...",
-      "published": "Wed, 02 Jul 2025 17:15:00 GMT"
-    },
-    {
-      "id": "96096ff9272b405fff8ccec588c3e458",
-      "title": "Trump’s ‘Big, Beautiful Bill’ is a middle finger to US solar energy - Engadget",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/general/trumps-big-beautiful-bill-is-a-middle-finger-to-us-solar-energy-152042835.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/ipzA.8yJs..IqJPU0F4pUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-07/6f049d30-5757-11f0-abf7-223dcb0f4060",
-      "summary": "Apple iOS 26: What you need to know Prime Day 2025: The best early deals How to buy the Nintendo Switch 2 Trump phone drops 'made in the USA'. .. Trump’s ‘Big, Beautiful Bill’ is a middle finger to US solar energy Industry figures say it hands clean power dominance to China. Updated Wed, Jul 2, 2025, 11:20 AM EDT·4...",
-      "published": "Wed, 02 Jul 2025 15:20:43 GMT"
-    },
-    {
-      "id": "2daa42ad6f41c60b01ca8cfa010aaabb",
-      "title": "Microsoft cancels its Perfect Dark and Everwild Xbox games - The Verge",
-      "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlZhUHk3bjNHUUxHQnRpM3NnLTQ1M0VyVkFpYl9qMlBOclVCY1k2TmJsblEzckVxNVhUNkJMUi14clFmdVlqTWhPb1pyU3gtSktXOUY4a2N2YWgxVE9MS1p3cGpNQk40Z2VHa291NXU4b2FPY1Qwa1B4VVBOMmlYbUFUZFdVRU1mTk9yOElWUThtaHpFVXBtYTlIM08?oc=5",
+      "id": "3d6ae4aaa7aacbce2e0e2ec12004acda",
+      "title": "Trump’s plan to replace clean energy with fossil fuels has some major problems - vox.com",
+      "source": "vox.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTXV1c01OeXlob3l6bkMyeG92eXZfd0ZEdTRrTjJMbFNoZkh6YncwSWZYNk5XOFphWjVvOHZTTXA3N0NkNXpXMHRpam1UNHZBVHdjeURyRVkzT1NUdUtOUURlc0Rya1A2Wml3QTdNZ1pYREpkTGpQYWFmZ0hqMVVMNHhYU0VaSjRCUm9fWS1rMU8?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Wed, 02 Jul 2025 17:19:22 GMT"
+      "published": "Wed, 02 Jul 2025 17:00:00 GMT"
     },
     {
-      "id": "adfc20704a051c979c07e9d2ee963d89",
-      "title": "$799 Nothing Phone 3 Has Four 50-Megapixel Cameras and Wild Style - petapixel.com",
-      "source": "petapixel.com",
-      "url": "https://petapixel.com/2025/07/02/799-nothing-phone-3-has-four-50-megapixel-cameras-and-wild-style/",
-      "image_url": "https://petapixel.com/assets/uploads/2025/07/nothing-phone-3-1.jpg",
-      "summary": "$799 Nothing Phone 3 Has Four 50-Megapixel Cameras and Wild Style In March, unusual tech company Nothing, announced the Nothing Phone 3a. Now, just months later, the flagship Nothing Phone (3) has arrived. It features four 50-megapixel cameras and a $799 price tag, making it Nothing’s first true flagship phone. The Nothing Phone 3 still features Nothing’s distinctive design, including...",
-      "published": "Wed, 02 Jul 2025 14:16:47 GMT"
+      "id": "e4b60f611b733349a999000893ef6ce5",
+      "title": "Tesla Deliveries Drop Most in History. Why the Stock Is Up. - Barron's",
+      "source": "Barron's",
+      "url": "https://www.barrons.com/articles/tesla-stock-price-deliveries-sales-musk-99a554a7",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 02 Jul 2025 20:20:00 GMT"
+    },
+    {
+      "id": "a3c67db795d2b7a6fb0d83f7b3d6b4ee",
+      "title": "Trump announces US-Vietnam trade deal - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4gd66q0q7go",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1bf1/live/7d820590-5762-11f0-9074-8989d8c97d87.jpg",
+      "summary": "Trump announces trade deal with Vietnam Trump said Vietnam would give the US full access to its markets. President Donald Trump said on Wednesday that the US will charge 20% tariffs on imports from Vietnam under a new trade deal reached during last-minute negotiations. Products sent from Vietnam to the US had faced a 46% levy, which was set to...",
+      "published": "Wed, 02 Jul 2025 22:49:55 GMT"
+    },
+    {
+      "id": "19d8cf3324d30a1daa3c260c1277226f",
+      "title": "Trump’s Big ‘Growth’ Brag Gets Hit With an Immediate Reality Check - The Daily Beast",
+      "source": "The Daily Beast",
+      "url": "https://www.thedailybeast.com/trumps-big-growth-brag-gets-hit-with-an-immediate-reality-check/",
+      "image_url": "https://www.thedailybeast.com/resizer/v2/5RVND2QTPVHVHGIVQ4TX2LFWKQ.jpg?smart=true&auth=652529ba7a2885a986a9176ef3ca76ffd09a4ca240241443f749ee4a4a9a9930&width=1200&height=630",
+      "summary": "Trump’s Big ‘Growth’ Brag Gets Hit With an Immediate Reality Check A new jobs report suggests the president’s plans are causing economic uncertainty. Published Jul. 2 2025 1:11PM EDT President Donald Trump’s boast that the U. S. is experiencing economic “growth” at levels “never seen before” was quickly fact-checked by a damning jobs report. New data showed private sector employment...",
+      "published": "Wed, 02 Jul 2025 17:11:00 GMT"
+    },
+    {
+      "id": "927c683f5dd67af1f0c8c7c764b81384",
+      "title": "Honor Magic V5 reclaims thinnest-foldable record at 8.8mm, but just look at that camera [Gallery] - 9to5Google",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2025/07/02/honor-magic-v5-details/",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/honor-magic-v5-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Honor Magic V5 reclaims thinnest-foldable record at 8. 8mm, but just look at that camera [Gallery] Honor has just launched its Magic V5 foldable in China, reclaiming its title as the world’s thinnest foldable, but only if you ignore its massive camera bump. The Honor Magic V5 evolves on the prior Magic V3 with two key areas of focus, the...",
+      "published": "Wed, 02 Jul 2025 19:25:00 GMT"
     },
     {
       "id": "7987b950c078999f281f7f5606e71464",
