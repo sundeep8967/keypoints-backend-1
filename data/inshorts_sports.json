@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_file": "data/news_sports.json",
-    "generation_time": "2025-07-04 07:14:05",
+    "generation_time": "2025-07-04 12:55:00",
     "total_articles": 20
   },
   "articles": [
@@ -15,130 +15,85 @@
       "published": "Fri, 04 Jul 2025 04:27:04 GMT"
     },
     {
-      "id": "d882ac67e3f537a60503c5dd2c65b098",
-      "title": "Pedro Neto may miss Chelsea’s Club World Cup quarter-final after friend Jota’s death - The Guardian",
+      "id": "ce94da2f425e8777d290a87dd9b4a047",
+      "title": "What we know about the death of Liverpool soccer star Diogo Jota and his brother - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/07/04/sport/diogo-jota-death-what-we-know-spt",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2213420115.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "What we know about the death of Liverpool soccer star Diogo Jota and his brother Published 6:09 AM EDT, Fri July 4, 2025 Diogo Jota was part of the Liverpool team which won a record-equaling 20th top-flight title in April. Marc Atkins/Getty Images The soccer world is in mourning following the death of Liverpool and Portugal star Diogo Jota in...",
+      "published": "Fri, 04 Jul 2025 10:09:00 GMT"
+    },
+    {
+      "id": "cb5fbad7c83c41c84cf50d100a627b23",
+      "title": "Joey Chestnut to make Coney Island’s summer as hotdog champion returns - The Guardian",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2025/jul/04/pedro-neto-may-miss-chelseas-club-world-cup-quarter-final-after-friend-jotas-death",
-      "image_url": "https://i.guim.co.uk/img/media/0aff8c99944e2dc8eb11d8f6686578fda53c5b2b/401_0_3441_2754/master/3441.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8822efd0a11bf4e6cab40c89d38834fa",
-      "summary": "Fund the free press with $5 per month Chelsea’s Pedro Neto, who has scored three goals during the Club World Cup, has the backing of his teammates and coach to decide whether to play Palmeiras. Photograph: DiaEsportivo/Action Plus/Shutterstock Pedro Neto may miss Chelsea’s Club World Cup quarter-final after friend Jota’s death Enzo Maresca says Neto will make decision if he...",
-      "published": "Fri, 04 Jul 2025 01:47:00 GMT"
-    },
-    {
-      "id": "2b2e40b35216b9688db7c4bca54e1228",
-      "title": "NBA free agency: Breaking down the best and worst moves so far this offseason - NBC News",
-      "source": "NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORlMycEJEY2l4eHFrWmE5dWpuQTBNTFJUR3BKN0c5aG9IMDQ1Tl9QSS1lYjFPM1NGb29sZUNyT0QzclJFUUZCNkdQM2JqRlBBdGlmakFUYm9GM0o1a0xRSUZieDd3N2NlckhqcnoxazhCaXlBOW9tTE9HQ2w3MUQxZTBrc0lPTk9PeklUVDBpLXhQa1hNVC1TX3k0YlJOREwyb3JJ0gFWQVVfeXFMUFpvRzZ5RmZDalpEbWltLVhYU0lnenBmaEtwamhYN0ZiU0k3cGdwdWZyWlV3aUh3bUE1NXFudFNyeE9wNENxblJnZzloVXM0Z01JcnZlRWc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 19:04:52 GMT"
-    },
-    {
-      "id": "5e8297c5102788c44d006e513a18ff12",
-      "title": "Omar Khan’s extension shows no one’s on the hot seat (including Mike Tomlin) - NBC Sports",
-      "source": "NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTU92YkJ3WkY3bHlBUWkzVTc4Wk5RVWctTkdSRkc1cWRZckZkOTFEWC1ad3ZPQTRwVlhSZ1VycVV3NFd1MnhZNDJVaW1vck5MYnlOQmdsZjV2bUYzMWhndUNsdmJ6dDFjalVOS3IzSDdjd2VnVjVqZ0E5bFNOWlFqbER5dFFSenlxOG9vQy1DUnF1a3MwbUNabVV2eWpwZEFXUlpmbXZlQ09YVERhaUxfNWJmMTdJNXo1c0ZqUHNVUjBVWEl3S2dyMjlVT3BSZVk?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 23:20:25 GMT"
+      "url": "https://www.theguardian.com/us-news/2025/jul/04/joey-chestnut-hotdog-eating-nathans-contest",
+      "image_url": "https://i.guim.co.uk/img/media/614769c081387d160bfe6a012fd8737c4a2013f3/454_225_4249_3398/master/4249.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=099cd32d2095a8240d9ffec83c12e576",
+      "summary": "Fund the free press with $15 per month Joey Chestnut attends the weigh-in ceremony ahead of Nathan's Famous Fourth of July hotdog eating contest in Coney Island on 3 July 2023. Photograph: Brendan McDermid/Reuters Joey Chestnut to make Coney Island’s summer as hotdog champion returns The leviathan of competitive eating returns for Nathan’s Fourth of July hotdog eating contest after...",
+      "published": "Fri, 04 Jul 2025 09:00:00 GMT"
     },
     {
       "id": "578efd551f53b4c66066d2e861375e00",
       "title": "‘I don’t think I’ll be going anywhere’ – Russell addresses Mercedes contract talk as he denies talking to other teams - Formula 1",
       "source": "Formula 1",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd2VhTkF6VDV6aUctckcwcjVpa2pyOGQ1cHJ5SDlsc3c1SlZ5VmJQMWhURUhWdmZNbEhKbmlybTRPR2ZxbmQ5UHYycXR2bk92NWpMZWlfdXo2Q2dScjFmYXJkdUZmdjFITFphMUZjNUxmY3BmMGJqUFNBWlBxZjRRZngzMmhTMXpkcUtybUxGUDJRQzA0VlNuckxoTTJqQnVFS2FfNHZIRXhRdlUwYWliXzlwdkozUnBLOGNXMnlQZVIzMVoxRE5JT0htUWM4cmtQcDNzYXpYVjM?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 18:54:29 GMT"
+      "url": "https://www.formula1.com/en/latest/article/i-dont-think-ill-be-going-anywhere-russell-addresses-mercedes-contract-talk.4Iab5zpsr4wBwTJzv104VE",
+      "image_url": "https://media.formula1.com/image/upload/t_16by9North/f_auto/q_auto/v1751550391/trackside-images/2025/F1_Grand_Prix_of_Great_Britain___Previews/2223398016.jpg",
+      "summary": "George Russell has given an update on his contract situation at Mercedes, with the Briton insisting that he is not speaking to other teams. George Russell believes that the chances of him not being at Mercedes next season are “exceptionally low”, the Briton stating that he is not speaking to other teams as his loyalties remain with the Silver Arrows...",
+      "published": "Fri, 04 Jul 2025 00:55:05 GMT"
     },
     {
-      "id": "b21d46b0457ac62cd61ae6b1ceabf198",
-      "title": "Warriors agree to historic seven-team trade involving two-time NBA champion Kevin Durant - Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUhITTY0bEowTGQ0R2hLZXFsS3RrUzZ5a25wQndFU29VVTU5U2lPdFRSWnFfSHhQM2E3a0RXVGRwR3ROS2Z5aUpIYnJTeHgtTklZemMySnJkdy1WTzZQU0V4OGo1MEx6SXI4c3hhaEFzLVF3Tm0xTUpuOVpnNlVZNjF0RUlmVVVhamc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 02:03:00 GMT"
+      "id": "cd7808c71c249d9eb6833bb50d7ae3cd",
+      "title": "White House to host UFC fight, US President Donald Trump says - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1mzxz1m9meo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7c11/live/d83a5490-58bd-11f0-9267-3d10d9c5c6de.jpg",
+      "summary": "White House to host UFC fight, Trump announces",
+      "published": "Fri, 04 Jul 2025 10:01:40 GMT"
     },
     {
-      "id": "28d764d170fdb3f05da3bd8539c32282",
-      "title": "Trump to host UFC fight at White House as part of \"America250\" celebrations - Axios",
-      "source": "Axios",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPenk2VGlNSVlFVDk4R0NLNFMxZ0kwVDUxQlBFRml6TmlTWkNRVjQzVmYtcWtsZXFlZlQ2aWRaOWpIZnJ0Tk5rN1ZKaEtXTzcxbXFfV3ZCWUMxSDh1LXk4UzVjZGRwaHJ6SVlhdDRCUGFiQWJkMzlrVDVybmhhY0htV0s1QVZLbGJfcWlrNw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 05:06:29 GMT"
+      "id": "2e1ecc074211a39c37d8575c89dee7e9",
+      "title": "NBA free agency, offseason winners and losers - NBC Sports",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/nba/news/nba-free-agency-offseason-winners-and-losers",
+      "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/634ba74/2147483647/strip/true/crop/5604x3152+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F15%2Fb3%2F855c1c9a4ce29bcf925c4a3c0b54%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D26044458",
+      "summary": "NBA free agency, offseason winners and losers Published July 3, 2025 09:19 PM 0 seconds of 10 minutes, 4 seconds The NBA offseason moved fast this year — so fast that it started before the NBA Finals were even over with the Kevin Durant trade. Then there were a series of trades around the draft, followed by potential free agents...",
+      "published": "Fri, 04 Jul 2025 01:20:13 GMT"
     },
     {
-      "id": "926c5604127b77f494e25b69e90dcdd4",
-      "title": "Jaxson Hayes Joins Small List of NBA Players With No-Trade Clauses - Sports Illustrated",
-      "source": "Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVl5U3lnMllNZDdFWnBiTG82RDVsZkxOWmJESVlWbFBxNnBna0J0ZFQ4cHBvWVFXS1JoQXhwX0liNTJSOTZWeFRmZW9KdUZhS3VRVUVWWGE2RS1EYmNjVnR1SVk1S2p4QUZBb1VZa0VnVnZWSlIyeTNNT1k5N0h2THZTbFNaS09l?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 00:47:54 GMT"
-    },
-    {
-      "id": "b0ebd8c4e6123ba8c6a3a885e6caa433",
-      "title": "Canes make splash in free agency, sign Winnipeg vet Nikolaj Ehlers - WRALSportsFan.com",
-      "source": "WRALSportsFan.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQklRa0R0dFZQcHFHbFdwZ1VkOFV3SVNLTlJKOWlud2RRQktsbG9IaExOY1gyNFNPRF9kbS1EVzRrd2NIa2p5dURteURoNDlMUi1YTG85bDJnWlJmSThnUXJlWjQ0WDVkX3VPZ3lwMW90WVBBWmowbzhxbDF4OFgzc29xTjJQUGpVWE5Wc0Fxd3NVTXJGRE9MV1ExM2M0V01sOFM5MjJyMTY?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 19:16:00 GMT"
+      "id": "ab1daac7b028ca133bd86982c52967b9",
+      "title": "Misa Ready for NHL? What’s Next for Dickinson? Sharks’ Prospects Scrimmage Thoughts - San Jose Hockey Now",
+      "source": "San Jose Hockey Now",
+      "url": "https://sanjosehockeynow.com/san-jose-sharks-misa-dickinson-marchant-development-camp-prospects-scrimmage/",
+      "image_url": "https://sanjosehockeynow.com/wp-content/uploads/sites/7/2025/07/Misa-1000x600.jpg",
+      "summary": "Misa Ready for NHL? What’s Next for Dickinson? Sharks’ Prospects Scrimmage Thoughts Published 9 hours ago on July 3, 2025 Credit: Joey Cascarano/Sport Shots The San Jose Sharks got a first look at their 2025 No. 2 pick at their annual Prospects Scrimmage. MUST WATCH College Football This Week w/ Crissy Froyd! | Daily Sports Rush This year’s second-overall Michael...",
+      "published": "Fri, 04 Jul 2025 03:34:53 GMT"
     },
     {
       "id": "c36be763cd64923e8c018227fa167c99",
       "title": "Former NBA player Ben McLemore convicted of raping woman in 2021 - The Washington Post",
       "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTVh4YmJtTzlIMUwtam5sZmExRWRwS1Bzb24xaGNMbHV6MUs4UkVsT2ZWWjVhd184WmtrZ3ZmbXlodWhuMFdHcTYwMWlQakFPNmFjdlVobHFqU3dwa0lYRUtiOU5FYXRrZ3lhTUpGY2ZfbnJoYkt3N3pNZEhndThab2VxeUU2VVBBaEZHVVVR?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.washingtonpost.com/sports/2025/07/03/ben-mclemore-rape-conviction-oregon/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QAS22QTOIO6AMDAIV3MR6ZIXEM_size-normalized.JPG&w=1440",
+      "summary": "Former NBA player Ben McLemore convicted of raping woman in 2021 A member of the Trail Blazers at the time, McLemore said the encounter was consensual. A jury found otherwise. Ben McLemore “needs to be held accountable for what he did,” the woman said. (Nick Wagner/AP) An Oregon jury Thursday convicted former NBA player Ben McLemore on rape and sexual...",
       "published": "Fri, 04 Jul 2025 03:57:00 GMT"
     },
     {
-      "id": "b0fa23905577ffcf71af7a37220236eb",
-      "title": "'He's the best climber in the world' – Tadej Pogačar praises Tour de France rival Jonas Vingegaard as rivalry enters next chapter - Cyclingnews",
-      "source": "Cyclingnews",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTklvNjNqVTF3WkFZd2lKRVF5QVVYMlRJcERnTmNkdlN2R1FwOEw5Yko2V1R5QTZxTHhseUNRMUdOMHZFY2JhVk50dm01SFJiY1Fqa0c5YUxNQVowTldPZi0tUzhuNGFHV3p4d0lNdnFJeUR6MjZYWDZqaXZrbmlvWDZyNnRxTk1hX1ZPTzNhVGtEVTJnbmpLTTVONHJtSnlRbjJ2cVVabnYtRFFYY1RTOWx3WTVuWEFvdG56LUpUbjhIYUpIUHJaLXVrUUJiX2xjRXNUcDhrNzMwVTdjWjZmbG5ZMWtjRjJPZTVJOTFncw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 19:28:29 GMT"
+      "id": "267dd98c3393823b6f1c304836414b08",
+      "title": "Witt's magic at home plate proves trick to Royals' win - MLB.com",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/news/bobby-witt-jr-leads-royals-to-win-vs-mariners",
+      "image_url": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1751604159/mlb/cgosew1llh1y5v6jexma.jpg",
+      "summary": "Witt's magic at home plate proves trick to Royals' win SEATTLE -- Bobby Witt Jr. began his night Thursday with a pair of strikeouts and a flyout that ended a golden chance for the Royals to get on the board. He made up for it, and then some, in the span of four pitches in the seventh inning, powering Kansas...",
+      "published": "Fri, 04 Jul 2025 06:50:18 GMT"
     },
     {
-      "id": "a9bea16e13fb34be2f7bd69073432348",
-      "title": "Max Muncy Expects To Miss Around Six Weeks With Bone Bruise - MLB Trade Rumors",
-      "source": "MLB Trade Rumors",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNanlad2JSVFljQXNZMU12UWRtdUI2SFhNLTB3Q3gxVUVyNEV3STZBYVNaOXFMT2FaeG1VNzI3NXR0OXk1d0pXOWRYWFNnNXFNcDVUaHlYWVFZOEg0RTY0SG8zM181NktGak1LUkcwd3lwTlVsMXJ1UEhaMzBNamI2UDVaenpLd21pdEJDYTJHQ3JxMUwxdWdXM0wzaGRMMVZmdXktS1Bn?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 00:14:23 GMT"
-    },
-    {
-      "id": "f78ec7a8cd4e72d6a513e40273de4c94",
-      "title": "Deandre Ayton Thanks Trail Blazers & Sends First Message To Lakers Fans - Lakers Nation",
-      "source": "Lakers Nation",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFNaenVxUmwxa2ZSbzItMTNqczNGMDU2RzQtZnA3czFZbHpiVkZ1LVhqRFlPa0hJWDUxd2NFUzl3Q25COG81UW5MVFU0N3RWMmo1dC1PR3NzeEZFRUc2RjExenR6MU5oMWY0UnduYUxGUFVXWEhjX0xyY1hWYWdoUDh6R01WNDJtMFlIcU45aUVZNTlwXzZiZ2FkUdIBoAFBVV95cUxNUE40bkQyRERUeGZ3eF9wQUNLMnltNWNURTBWM3ZkTnFVampWSHAtbnlZY3B4dW40dE40YUtXZE1fNWdMVjhheTVwYjZQVVpVZ1RxTU9pbnozTEtuNUZmT3VYNFU2QWViQjhSUlpvdUpxR1djTWVtWmtEbGJadGdwODZHWGVGbkV3VmZFWlNYc2dIRXlINTJWTWhIQTNLWmdn?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 00:30:31 GMT"
-    },
-    {
-      "id": "59eb6d9be6bbba6224962a269bee3abc",
-      "title": "Cleveland pitcher Luis Ortiz faces MLB gambling inquiry - NBC Sports",
-      "source": "NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjkybVB5ak4zdFNRNWpqTUJWcS1lWS1LZWVNbHF1VlZMUFVwdjZFVExZTUxZUDBmaERSQ0VKM3VveDdrbWxUM1oyT1hTa29qWFJqSGdlS0lzT0hSeDRkTUxMcmFvX3M3Rmp4S0NIMUMzNHdrM2xXMXY3clU4ckZPdGhUYjA3bHh5b2dLY25zNF9aUHEtRUN3U0k5aE8tVzQ5QnF5MHJGaU8yNmVTVkh2NFRuekdrT0Zi?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 17:34:33 GMT"
-    },
-    {
-      "id": "39253673498f6b6414eb94f044ecbf50",
-      "title": "The latest on Jonathan Kuminga, the Warriors and his restricted free agency - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0hGcFZfTlNSS28wLXp4RjVwdV9VbWpkanBIZ2pySktiWUFzNjkzN3VaYXpoNjRtTEZocFhTV2ZabHUwejJoYkZINUg5YnhhTXZWR29oLUdXdEl5TEhBdzhSN1pNanhxZzZiMmcyYVY4cXhwYkdVa2xfRW44dDlYR09fLUlKUi11YXAteENsQnEyNUNIeWtYQ01Jc3RLZw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 03:34:58 GMT"
+      "id": "46fbfc1da068157ebc3d09632429a8de",
+      "title": "Lakers agree to record-breaking seven-team trade after blockbuster Luka Doncic deal - Yahoo Sports",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/article/lakers-agree-record-breaking-seven-034703463.html",
+      "image_url": "https://media.zenfs.com/en/the_sporting_news_articles_584/cc339d4f14a1b4c3210685b2816a8f4f",
+      "summary": "Lakers agree to record-breaking seven-team trade after blockbuster Luka Doncic deal Luka Doncic, Los Angeles Lakers The Los Angeles Lakers have been highly productive after their season-ending loss to the Minnesota Timberwolves on Apr. 30. The organization has signed free agents Jake LaRavia, Deandre Ayton, and Jaxson Hayes to deals to kick off free agency. According to a recent report...",
+      "published": "Fri, 04 Jul 2025 03:47:00 GMT"
     },
     {
       "id": "53b19c6c27495ebf280f39a782fde9fe",
@@ -150,40 +105,85 @@
       "published": "Thu, 03 Jul 2025 11:45:40 GMT"
     },
     {
+      "id": "a858d8e4256825435e67af8ff11b7505",
+      "title": "Richard leads the way in 3-on-3 tournament - Audacy",
+      "source": "Audacy",
+      "url": "https://www.audacy.com/wgr550/sports/sabres/richard-leads-the-way-in-3-on-3-tournament",
+      "image_url": "https://images.radio.com/aiu-media/Richard-Mich-074f255b-4002-44a1-b10f-dbbbf070d462.jpg",
+      "summary": "Richard leads the way in 3-on-3 tournament Four days of Development Camp ended on Thursday Photo credit Micheline Michaelina (@MiMiV4682) Buffalo, NY (WGR 550) – The Buffalo Sabres wrapped up Development Camp with their annual 3-on-3 tournament. With so few players invited to camp, there were only two teams that played two 30 minute running time periods instead of a...",
+      "published": "Thu, 03 Jul 2025 21:46:00 GMT"
+    },
+    {
+      "id": "bbe9c17abfcbf2ec6f14766261fef698",
+      "title": "Tsarukyan: Topuria won't be as 'confident' vs. me - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mma/story/_/id/45658766/topuria-super-confident-fights-says-tsarukyan",
+      "image_url": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0625%2Fr1350420_1296x729_16%2D9.jpg",
+      "summary": "UFC Fight Night: Lewis vs. Teixeira Topuria won't be 'super confident' if he fights me, says Tsarukyan UFC lightweight contender Arman Tsarukyan does not believe Ilia Topuria will be as confident to face him as he was against Charles Oliveira at UFC 317 last weekend. Topuria (17-0) became the 10th two-weight champion in UFC history last Saturday, when he knocked...",
+      "published": "Thu, 03 Jul 2025 19:31:00 GMT"
+    },
+    {
+      "id": "c8ce4fb8e2035ebc979c6b7b63eca1b9",
+      "title": "'He's the best climber in the world' – Tadej Pogačar praises Jonas Vingegaard as Tour de France rivalry enters next chapter - Cyclingnews",
+      "source": "Cyclingnews",
+      "url": "https://www.cyclingnews.com/news/hes-the-best-climber-in-the-world-tadej-pogacar-praises-tour-de-france-rival-jonas-vingegaard-as-rivalry-enters-next-chapter/",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/eCALs4wqqdgfpy7U8QMKWT.jpg",
+      "summary": "How to watch the Tour de France 'He's the best climber in the world' – Tadej Pogačar praises Jonas Vingegaard as Tour de France rivalry enters next chapter By James Moultrie published 17 hours ago World champion 'hopes to live up to expectations' in search of fourth yellow jersey When you purchase through links on our site, we may earn...",
+      "published": "Thu, 03 Jul 2025 19:28:29 GMT"
+    },
+    {
+      "id": "b0ebd8c4e6123ba8c6a3a885e6caa433",
+      "title": "Canes make splash in free agency, sign Winnipeg vet Nikolaj Ehlers - WRALSportsFan.com",
+      "source": "WRALSportsFan.com",
+      "url": "https://www.wralsportsfan.com/canes-make-splash-in-free-agency-sign-winnipeg-vet-nikolaj-ehlers/22074139/",
+      "image_url": "https://wwwcache.wralsportsfan.com/asset/hockey/nhl/2025/07/01/22071355/6863e5449248f-media_aabad6a8a12241a882a817f447ac3c9c-DMID1-67hprqxlf-640x480.jpg",
+      "summary": "Canes make splash in free agency, sign Winnipeg vet Nikolaj Ehlers Tags: Carolina Hurricanes, NHL, Nikolaj Ehlers Posted July 3, 2025 3:16 p. m. EDT Updated July 3, 2025 4:18 p. m. EDT Hurricanes general manager Eric Tulsky addresses the K'Andre Miller trade and NHL free agency The wait is over - the Carolina Hurricanes signed one of the best...",
+      "published": "Thu, 03 Jul 2025 19:16:00 GMT"
+    },
+    {
+      "id": "f78ec7a8cd4e72d6a513e40273de4c94",
+      "title": "Deandre Ayton Thanks Trail Blazers & Sends First Message To Lakers Fans - Lakers Nation",
+      "source": "Lakers Nation",
+      "url": "https://lakersnation.com/deandre-ayton-thanks-trail-blazers-sends-first-message-to-lakers-fans/",
+      "image_url": "https://lakersnation.com/wp-content/uploads/2025/06/Deandre-Ayton-4.jpg",
+      "summary": "Lakers Nation > > Lakers News > Deandre Ayton Thanks Trail Blazers & Sends First Message To Lakers Fans Deandre Ayton Thanks Trail Blazers & Sends First Message To Lakers Fans PORTLAND, OREGON - FEBRUARY 03: Deandre Ayton #2 of the Portland Trail Blazers celebrates a 121-119 win against the Phoenix Suns at Moda Center on February 03, 2025 in...",
+      "published": "Fri, 04 Jul 2025 00:30:31 GMT"
+    },
+    {
+      "id": "d3322d08a621d01a8f4472447f767708",
+      "title": "Guardians' Luis Ortiz subject of MLB gambling investigation, placed on leave, AP sources say - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/guardians-ortiz-06134e96597c96df1e76c5a96141de53",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Thu, 03 Jul 2025 22:51:00 GMT"
+    },
+    {
+      "id": "cb998898695811e70c1330c250bbb97c",
+      "title": "Wednesday Ratings: USA-Guatemala CONCACAF Gold Cup Semifinal on FS1 and Univision is Top Telecast in Key Demos - Programming Insider",
+      "source": "Programming Insider",
+      "url": "https://programminginsider.com/wednesday-ratings-usa-guatemala-concacaf-gold-cup-semifinal-on-fs1-and-univision-is-top-telecast-in-key-demos/",
+      "image_url": "https://programminginsider.com/wp-content/uploads/2023/07/CONCACAF-GoldCup-2.jpg",
+      "summary": "Wednesday Ratings: USA-Guatemala CONCACAF Gold Cup Semifinal on FS1 and Univision is Top Telecast in Key Demos Douglas Pucci July 3, 2025, 6:22 pm To sign up for our daily email newsletter, CLICK HERE What follows are the Live + Same Day rating results for the night’s network telecasts on Wednesday, July 2, 2025: Fox News: 2. 575, NBC: 2.",
+      "published": "Thu, 03 Jul 2025 22:22:02 GMT"
+    },
+    {
+      "id": "52ea28916292f4e819b253efbeaefac4",
+      "title": "The latest on Jonathan Kuminga, the Warriors and his restricted free agency - The Athletic - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/athletic/6472793/2025/07/03/jonathan-kuminga-warriors-free-agency-latest/",
+      "image_url": "https://static01.nyt.com/athletic/uploads/wp/2025/07/03231453/GettyImages-2191340749-e1751599706460.jpg?width=1200&height=630&fit=cover",
+      "summary": "The latest on Jonathan Kuminga, the Warriors and his restricted free agency July 4, 2025Updated 3:34 am UTC The fourth day of Jonathan Kuminga’s restricted free agency will end without resolution, but there’s been increasing movement and conversation in regard to one of the most intriguing names remaining on the market. The Golden State Warriors, according to league sources, have...",
+      "published": "Fri, 04 Jul 2025 03:25:44 GMT"
+    },
+    {
       "id": "12e96f268c2327a0a16e442ab311b03d",
       "title": "White Sox To Recall Colson Montgomery For MLB Debut - MLB Trade Rumors",
       "source": "MLB Trade Rumors",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk1fWlAzT2FTQnpQZ2NrQnp4QnV5Z1BiSDZiaEpWQXU5dWVIZEp5U2hESE9JWDRFVThwMUUtTHhLdUJLWEYzemRJOFpZR1ZNSjN5V095M0F5ZjhOSnZzQzJIWHItR0JTdzJkVlNZLW1jR2hwQzA4YmRfOExWQVdSUVFtb1ZiLUt1aWxjSEV6NVdzTDU4MGR1eDhXTQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.mlbtraderumors.com/2025/07/white-sox-to-recall-colson-montgomery-for-mlb-debut.html",
+      "image_url": "https://cdn.mlbtraderumors.com/files/2025/07/USATSI_25768609-1024x1024.jpg",
+      "summary": "White Sox To Recall Colson Montgomery For MLB Debut By Anthony Franco | July 3, 2025 at 7:49pm CDT The White Sox will promote Colson Montgomery for this weekend’s series against the Rockies, reports Kris Norton of WITZ Radio in Indiana. Montgomery is already on the 40-man roster, so the Sox only need to make an active roster move. It’s...",
       "published": "Fri, 04 Jul 2025 02:13:48 GMT"
-    },
-    {
-      "id": "4e17ddae3664280eaa6601faabbe9eb2",
-      "title": "Tommy Tofu, PETA to Protest at Nathan's Hot Dog Eat Contest in Joey Chestnut's Return - Bleacher Report",
-      "source": "Bleacher Report",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSGhRUkFxdFRKb3BocndCbGpIT0pvSnNDU1lmZ0FsMjNHdlE2eFBKY3dyUFlWM1p1WlZzWnBNVWItdTNvakhUeWZzaUgyTGtiYnFuNTBDSXJ3eEYybjZIQWw1TXVaT3hwOVJ5R2E4UG04blIzMlZJSHRWU2tQa2dKbGNKLUExZTB1cXNzYW5XU2ItY3BOMjNSTGhiVkVUZ0l5Y0RWb283NXBGMTZyVHVLYTAxWGhWUnRHOHc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 15:45:00 GMT"
-    },
-    {
-      "id": "561fe73e5d82ebbd7a786222d144c1f8",
-      "title": "Stats - All the records Gill broke during his historic 269 - ESPNcricinfo",
-      "source": "ESPNcricinfo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUxQYV9NR3lua3J4UEJxZ3ZKX2RmTnB3Z3c4LWFjZC1CUl9GcGh1anpFQ0o5dWdrV1BncUx6RUMzTHZsM2ZicExiRzk4enhhY2x3OXdPSzFEQWpuS012X1VpWHp3QURpYVVKcDFiQjV3MHNON1VUZThEWWFOdlp3N0NUUEVPUm9QZVRXUTE2TTVpUkxwUnZKbTVSY1pOaS1HdXNVWVJDbWJ3Mjh1a1BBNURwYzlTM3RSaTdVQmxEM1ZHdGVsWWFGa2psMNIB3AFBVV95cUxOSlEtNkxrRGZmWG1aR3ZMWWJFaFdBNldfMFhmYlUzeTloek90bURJX3lvQzhIdmRDd0VtV2JfN3NHYWhudFlmVjFrSmV1c2pYelBGUlVlaTY3eklQMEhMRlhOYzNLYl9GMWMyalNrd1dFbl9ZY3N6dDhwb1gwSWdTM0htNGdwUjZveXhLOWdxMk93LV9uMlpJWWNoTVNBUDBvcUFyNzcxekhMODJYRDZpZXZHb0pYVl9tejhIU095ckVNQkRvVFBSVFRObS1JNzk3cDUySXZmd0I3QVZz?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 16:52:30 GMT"
-    },
-    {
-      "id": "004aea5c1bbe40ba666355583867414c",
-      "title": "Damian Lillard’s message after hitting free agency: ‘Tell em this the jackpot’ - New York Post",
-      "source": "New York Post",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSDNNd3BYTjFuVzlvUWdwMUJHNTk3OVA5RXZGSlJTOGZ0U2thLUF5eWtFd1llQVo2VXpwQml6Y3dsOExFbU9XN25ta09oT2RyUy16akpWVmJsQVQxTWllUjBvMHNHcVJ5ZXBzWVRTbmdKZTQ2bmEyb2hoMlplTnBIX2kyY0pSUW9mQ29ncDRfelQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 03:01:00 GMT"
     }
   ]
 }

@@ -1,18 +1,27 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-07-04 07:30:31",
+    "generation_time": "2025-07-04 13:22:00",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "d94ecedaac1e859b2fbd8c05376e904d",
-      "title": "There is no safe amount of processed meat to eat, according to new research - CNN",
-      "source": "CNN",
-      "url": "https://edition.cnn.com/2025/07/02/health/processed-meats-sweet-drinks-disease-wellness",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-184380733.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "There is no safe amount of processed meat to eat, according to new research The equivalent of one medium-size hot dog was associated with an increased risk of colorectal acancer and type 2 diabetes in a new study. RiverRockPhotos/iStockphoto/Getty Images There is strong evidence that there is “no safe amount” of processed meat to eat, nutrition experts say in response...",
-      "published": "Wed, 02 Jul 2025 16:16:00 GMT"
+      "id": "5417a240320a488823dd99a8a7d72ac2",
+      "title": "Gut Bacteria Found to Soak Up Toxic Forever Chemicals - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/gut-bacteria-found-to-soak-up-toxic-forever-chemicals",
+      "image_url": "https://www.sciencealert.com/images/2025/07/BacteriaImage.jpg",
+      "summary": "Gut Bacteria Found to Soak Up Toxic Forever Chemicals Illustration showing how bacteria can absorb PFAS. (Peter Northrop/MRC Toxicology Unit) Perfluoroalkyl and polyfluoroalkyl substances (PFAS) have the nickname 'forever chemicals' thanks to their persistence in the environment. While a handful of bacteria are known to mop up these insidious compounds, it's unclear whether any of our own microflora hide such...",
+      "published": "Fri, 04 Jul 2025 02:49:38 GMT"
+    },
+    {
+      "id": "93936174928bf965aeffb6879bf35d61",
+      "title": "There is no safe amount of processed meat to eat, according to new research - KSL News",
+      "source": "KSL News",
+      "url": "https://www.ksl.com/article/51338933/there-is-no-safe-amount-of-processed-meat-to-eat-according-to-new-research",
+      "image_url": "https://img.ksl.com/slc/3094/309466/30946683.jpg?filter=kslv2/responsive_story_lg",
+      "summary": "There is no safe amount of processed meat to eat, according to new research By Madeline Holcombe, CNN | Updated - July 2, 2025 at 5:43 p. m. | Posted - July 2, 2025 at 5:43 p. m. The equivalent of one medium-size hot dog was associated with an increased risk of colorectal cancer and type 2 diabetes in a...",
+      "published": "Wed, 02 Jul 2025 18:21:58 GMT"
     },
     {
       "id": "646dbd9387ebd8989eeb62d9458a481a",
@@ -24,15 +33,6 @@
       "published": "Thu, 03 Jul 2025 15:14:00 GMT"
     },
     {
-      "id": "3cb8ff1f1b1d7bafcc847c2f6eca47f9",
-      "title": "NIH study links particulate air pollution to increased mutations in lung cancers among nonsmokers - National Institutes of Health (NIH) | (.gov)",
-      "source": "National Institutes of Health (NIH) | (.gov)",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-study-links-particulate-air-pollution-increased-mutations-lung-cancers-among-nonsmokers",
-      "image_url": "https://www.nih.gov/themes/custom/nih2_uswds/assets/img/nih-logo.png",
-      "summary": "An official website of the United States government Home News & Events News Releases MEDIA ADVISORY  Wednesday, July 2, 2025 NIH study links particulate air pollution to increased mutations in lung cancers among nonsmokers Whole-genome sequencing study found air pollution to cause more cancer-related changes than secondhand smoke. Scientists at the National Institutes of Health (NIH) and their colleagues at...",
-      "published": "Wed, 02 Jul 2025 15:38:33 GMT"
-    },
-    {
       "id": "28e06413fa0fb233b016ef69d9855b3b",
       "title": "The link between cancer and exercise that patients should know - CNN",
       "source": "CNN",
@@ -42,31 +42,58 @@
       "published": "Thu, 03 Jul 2025 16:00:00 GMT"
     },
     {
-      "id": "69c704499e1db83af2e73821272e410c",
-      "title": "RSV vaccine access expanded to some people in their 50s, according to CDC website - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/rsv-cdc-vaccine-advisers-kennedy-21e52249fcc51032e1c85f713ccdcdbd",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Wed, 02 Jul 2025 19:58:00 GMT"
+      "id": "d78698d3d0282fbc12aff80e41fd1eb1",
+      "title": "Her Fevers Returned Every Day. Would Anything Stop Them? - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/07/04/well/fever-childbirth-kikuchi-disease.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 04 Jul 2025 09:01:11 GMT"
+    },
+    {
+      "id": "5f57f3fbef6e871d7ce35bf41c24803d",
+      "title": "Air pollution linked to lung cancer-driving DNA mutations, study finds | Cancer research - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2025/jul/02/air-pollution-lung-cancer-dna-mutations-study",
+      "image_url": "https://i.guim.co.uk/img/media/476e237794985ea162e824fb004e7b8dc0c900e9/292_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0cdd58e789a2ad29682cd2607fa4a93",
+      "summary": "Fund the free press with $15 per month Smog in Beijing. Recent research found that the highest rates of adenocarcinoma attributable to air pollution were in east Asia. Photograph: Tingshu Wang/Reuters Air pollution linked to lung cancer-driving DNA mutations, study finds Research finds that the higher the levels of air pollution in a region, the more cancer-promoting mutations are present...",
+      "published": "Wed, 02 Jul 2025 15:00:00 GMT"
+    },
+    {
+      "id": "cea771e574d8bda63380c32392617cf9",
+      "title": "Kennedy Expands RSV Vaccine Recommendations. Moderna, Pfizer Shares Are Up. - Barron's",
+      "source": "Barron's",
+      "url": "https://www.barrons.com/articles/kennedy-expands-rsv-vaccine-recommendations-moderna-pfizer-shares-are-up-8f1b222d",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Wed, 02 Jul 2025 20:33:00 GMT"
+    },
+    {
+      "id": "20774a113ba2d5430202fa1d7bef801d",
+      "title": "New neurons continue to form in the adult human hippocampus: Study - Medical Xpress",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2025-07-neurons-adult-human-hippocampus.html",
+      "image_url": null,
+      "summary": "Please complete security verification This request seems a bit unusual, so we need to confirm that you're human. Please press and hold the button until it turns completely green. Thank you for your cooperation! If you believe this is an error, please contact our support team. 40.83.166.62 : cf5c5e6f-e33c-4f5e-ad67-5c31a5c7",
+      "published": "Thu, 03 Jul 2025 18:00:09 GMT"
     },
     {
       "id": "6359d54e275da23b86bc1ebed7609270",
       "title": "MN mosquito officials confirm West Nile Virus found in local pools - kare11.com",
       "source": "kare11.com",
-      "url": "https://www.kare11.com/article/news/local/mn-mosquito-officials-west-nile-virus-found-in-local-pools/89-0bad6464-8122-4d92-bdb4-394bfe55f7f8",
-      "image_url": "https://media.kare11.com/assets/KARE/images/cec1011d-b1ad-448d-a605-fc3237616ae7/20240829T211945/cec1011d-b1ad-448d-a605-fc3237616ae7_1140x641.jpg",
-      "summary": "MN mosquito officials confirm West Nile Virus found in local pools Early July is the typical time for the agency to begin detecting the virus, said the agency. Published: 2:29 PM CDT July 3, 2025 Updated: 2:29 PM CDT July 3, 2025 ANOKA COUNTY, Minn. — Officials in Minnesota have confirmed the West Nile virus was detected in mosquito pools...",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZUF4cWJBTk5KdUV5cXVHMlJyNWhBMkVuUnpBYkpqYUZhcGNneVNaUXRpTmlGTWV5c254ZHVXMmlhSXZWdHh6T2VNbzB2TEtLaGJWVTk5Qlh5VW1JZGxnUWF3dmpHemcwVHoyVk9tcGcxUTZkMWI0LVlFRW9VNmFFWVpTbl9nWVNqM0lrUkxobUZyNHEtNll1Q05reWNLZDhpTlg0SG9VZFFyejlEMUthT1BxOVlpeEh2LVFyaklJVlZ6VUZ5ZVEzdFFlVFUzWlRyQXNKMnFfMA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Thu, 03 Jul 2025 19:29:00 GMT"
     },
     {
-      "id": "1e6a1b600738eec959e876501c1dad74",
-      "title": "More measles outbreaks put US total within single digits of modern-day record - CIDRAP",
-      "source": "CIDRAP",
-      "url": "https://www.cidrap.umn.edu/measles/more-measles-outbreaks-put-us-total-within-single-digits-modern-day-record",
-      "image_url": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/measles%20teen%20%282%29.jpg?itok=YrCSwcGe",
-      "summary": "More measles outbreaks put US total within single digits of modern-day record In its weekly update today, the US Centers for Disease Control and Prevention (CDC) reported 40 more measles cases today, boosting the number of infections this year to 1,267, which is just 8 shy of passing the total in 2019, which was the highest since the disease was...",
-      "published": "Wed, 02 Jul 2025 19:44:56 GMT"
+      "id": "7eaa4ee8c9a8eaea1e2711dce7eff8af",
+      "title": "Shock research reveals how types of birth can affect children's chances of getting CANCER - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUV9YN1NPRTBoU093Rmg4SlN4ZHBDVEhiZ1JWdkpucE5vR3cydGRxSEhzMS03SDl5anByM1VzZEhZOFNpQTFhaUt4WDIxVHBYMWU0dE1lM1ZJVzEyT1htcno3TS1QbngwbEFtaHB1MnY4N2M4SFJOUU1WMnA4TS1MdDBOY0ttLUh6bDNrZVFtam00c0RkWXJHV05GalVKYWhkbTdkdkZRbkRvQ2tSUGdXNllqdHNVZFpWR2JJNzlsR25TLWE1dDNGX2Eyd9IB0AFBVV95cUxQTFBka1FuWDNOT0ZyX1V6eWh1ODFGbGZaY1JuaGlQUmtGWkVaNWZWQm1Za3lIdFZDcWdJczRMZ3RRcWdZVTkwbGhUbU1IdGxsR2FraHNhN0hKMXdoaWRwUm1qTmJJVERRZFlBclQwZEFjek1ZV00tMXpjS2RPRWMxRnVWWDY5WlI4WmlOc0pEQTk0WHlRa0pjMkMzNFNmbzcwdXM0WlB3Q0RZdndCQVBHVkIwMDJnMTQ2Q1NkVlZtYWI3UW5IaVY5VWlfZXFiSENv?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Thu, 03 Jul 2025 23:05:20 GMT"
     },
     {
       "id": "426733bff27effca534c7780902418e2",
@@ -92,8 +119,26 @@
       "source": "Daily Mail",
       "url": "https://www.dailymail.co.uk/health/article-14868281/measles-vaccine-son-letter.html",
       "image_url": "https://i.dailymail.co.uk/1s/2025/07/02/16/99930749-0-image-a-13_1751469166962.jpg",
-      "summary": "Thursday, Jul 3rd 2025 12AM 72°F The world's most infectious disease hit our town. .. doctors handed us jaw-dropping bill for antidote By LUKE ANDREWS SENIOR HEALTH REPORTER FOR DAILYMAIL. COM PUBLISHED: 14:32 EDT, 2 July 2025 | UPDATED: 17:33 EDT, 2 July 2025 Living in the state at the center of America's measles outbreak, Thang Nguyen thought getting his...",
+      "summary": "The world's most infectious disease hit our town. .. doctors handed us jaw-dropping bill for antidote By LUKE ANDREWS SENIOR HEALTH REPORTER FOR DAILYMAIL. COM PUBLISHED: 14:32 EDT, 2 July 2025 | UPDATED: 17:33 EDT, 2 July 2025 Living in the state at the center of America's measles outbreak, Thang Nguyen thought getting his son vaccinated against the deadly virus...",
       "published": "Wed, 02 Jul 2025 18:32:32 GMT"
+    },
+    {
+      "id": "3141ce34cf228576e24737da4dd39b9d",
+      "title": "What is prostate cancer: Causes, symptoms, risk factors, and healthy habits that help prevent it - Times of India",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-is-prostate-cancer-causes-symptoms-risk-factors-and-healthy-habits-that-help-prevent-it/articleshow/122219594.cms",
+      "image_url": "https://static.toiimg.com/thumb/msid-122220073,width-1070,height-580,imgsize-24768,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "summary": "What Is Prostate Cancer: Causes, Symptoms, Risk Factors, And Healthy Habits That Help Prevent It What is prostate cancer: Causes, symptoms, risk factors, and healthy habits that help prevent it TOI Lifestyle Desk / etimes. in / Updated: Jul 04, 2025, 12:34 IST Prostate cancer is a significant health concern for men worldwide, with increasing diagnoses and fatalities projected. Early...",
+      "published": "Fri, 04 Jul 2025 07:04:00 GMT"
+    },
+    {
+      "id": "cd308e3b4825b32947dfcfd5d064ca6e",
+      "title": "Alaskan Woman’s Death From Gonorrhea Sparks Fears of a New Strain - Gizmodo",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/alaskan-womans-death-from-gonorrhea-sparks-fears-of-a-new-strain-2000623804",
+      "image_url": "https://gizmodo.com/app/uploads/2025/07/gonorrhea-1200x675.jpg",
+      "summary": "Alaskan Woman’s Death From Gonorrhea Sparks Fears of a New Strain A woman in her 50s died from a rare complication of the bacterial STI this spring, the latest in a recent spike of similar cases in the state. Published July 3, 2025 | Comments (22) | A scanning electron micrograph of Neisseria gonorrhoeae bacteria. © NIAID A well-known sexually...",
+      "published": "Thu, 03 Jul 2025 16:25:42 GMT"
     },
     {
       "id": "22c4a3afa675da76a56b53f9de8414c6",
@@ -105,22 +150,22 @@
       "published": "Thu, 03 Jul 2025 14:22:06 GMT"
     },
     {
-      "id": "cc8102b2009e90982d64967814aa447d",
-      "title": "AI Detects Hidden Lung Tumors Doctors Miss — And It’s Fast - SciTechDaily",
-      "source": "SciTechDaily",
-      "url": "https://scitechdaily.com/ai-detects-hidden-lung-tumors-doctors-miss-and-its-fast/",
-      "image_url": "https://scitechdaily.com/images/Lung-Cancer-Science-Photo-Crop.jpg",
-      "summary": "Home»Health»AI Detects Hidden Lung Tumors Doctors Miss — And It’s Fast AI Detects Hidden Lung Tumors Doctors Miss — And It’s Fast Trained on multi-hospital data, iSeg spots moving tumors doctors sometimes miss, edging radiation treatment toward pinpoint perfection. Credit: Stock An AI system called iSeg is reshaping radiation oncology by automatically outlining lung tumors in 3D as they shift...",
-      "published": "Wed, 02 Jul 2025 09:08:14 GMT"
+      "id": "ba9fb08fe424a66ee8f80a0db803b525",
+      "title": "A couple tried for 18 years to get pregnant. AI made it happen - East Idaho News",
+      "source": "East Idaho News",
+      "url": "https://www.eastidahonews.com/2025/07/a-couple-tried-for-18-years-to-get-pregnant-ai-made-it-happen/",
+      "image_url": "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2025/07/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWNtZGYydHUwMDFyM2I2bnBhNjhndWhj-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtY20zdjA5dDAwNWcyN3BmN2R4MDdtNWM.jpg",
+      "summary": "A couple tried for 18 years to get pregnant. AI made it happen Published at 7:33 am, July 3, 2025 As artificial intelligence shapes fertility care, it’s now helping doctors at Columbia University Fertility Center find hidden sperm. | Chinnapong/iStockphoto/Getty Images via CNN Newsource (CNN) — After trying to conceive for 18 years, one couple is now pregnant with their...",
+      "published": "Thu, 03 Jul 2025 13:33:00 GMT"
     },
     {
-      "id": "3141ce34cf228576e24737da4dd39b9d",
-      "title": "What is prostate cancer: Causes, symptoms, risk factors, and healthy habits that help prevent it - Times of India",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-is-prostate-cancer-causes-symptoms-risk-factors-and-healthy-habits-that-help-prevent-it/articleshow/122219594.cms",
-      "image_url": "https://static.toiimg.com/thumb/msid-122220073,width-1070,height-580,imgsize-24768,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "summary": "What Is Prostate Cancer: Causes, Symptoms, Risk Factors, And Healthy Habits That Help Prevent It What is prostate cancer: Causes, symptoms, risk factors, and healthy habits that help prevent it TOI Lifestyle Desk / etimes. in / Updated: Jul 04, 2025, 12:34 IST Prostate cancer is a significant health concern for men worldwide, with increasing diagnoses and fatalities projected. Early...",
-      "published": "Thu, 03 Jul 2025 05:52:00 GMT"
+      "id": "fe3aa759aec7210e923ff9466c7a05c6",
+      "title": "This Gut-Boosting Drink Could Protect Your Brain From Dementia - SciTechDaily",
+      "source": "SciTechDaily",
+      "url": "https://scitechdaily.com/this-gut-boosting-drink-could-protect-your-brain-from-dementia/",
+      "image_url": "https://scitechdaily.com/images/Neuroscience-Brain-Mapping-Confusion-Dementia.jpg",
+      "summary": "Home»Health»This Gut-Boosting Drink Could Protect Your Brain From Dementia This Gut-Boosting Drink Could Protect Your Brain From Dementia A team of scientists has developed a promising probiotic blend that may support brain health by targeting the gut microbiome. Credit: Stock A multi-strain probiotic blend shows promise for protecting brain function by reducing gut-triggered inflammation linked to Alzheimer’s disease. Hariom Yadav,...",
+      "published": "Thu, 03 Jul 2025 13:54:47 GMT"
     },
     {
       "id": "26271e5c413977595699f0820fe2e9ad",
@@ -132,58 +177,13 @@
       "published": "Thu, 03 Jul 2025 16:34:04 GMT"
     },
     {
-      "id": "065b4603bc88a9aff4fbea42f8347c43",
-      "title": "West Nile Virus detected in Macomb County mosquitoes - ClickOnDetroit | WDIV Local 4",
-      "source": "ClickOnDetroit | WDIV Local 4",
-      "url": "https://www.clickondetroit.com/news/local/2025/07/03/west-nile-virus-detected-in-macomb-county-mosquitoes/",
-      "image_url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/BO6ABNCRUZGKHCYN6FYRBBUT2M.jpg?_a=DATAg1eAZAA0",
-      "summary": "This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Notice Open the WDIV ClickOnDetroit Help Desk 7 advisories in effect for 7 regions in the area West Nile Virus detected in Macomb County mosquitoes Health officials: No human cases of...",
-      "published": "Thu, 03 Jul 2025 13:48:31 GMT"
-    },
-    {
-      "id": "9ac1fd12f9c191369e00129923300591",
-      "title": "Study identifies a much easier and cheaper way to treat depression than with prescription drugs - Earth.com",
-      "source": "Earth.com",
-      "url": "https://www.earth.com/news/vinegar-much-easier-and-cheaper-way-to-treat-depression-than-with-prescription-drugs/",
-      "image_url": "https://cff2.earth.com/uploads/2025/07/03193042/vinegar_treats-depression_study_1m.jpg",
-      "summary": "Study identifies a much easier and cheaper way to treat depression than with prescription drugs Every year, tens of millions of people around the world wrestle with bad moods and various levels of depression. Prescription drugs help many sufferers, yet side effects, cost, and uneven results often leave patients and clinicians on the lookout for other solutions. Then one day,...",
-      "published": "Fri, 04 Jul 2025 02:06:37 GMT"
-    },
-    {
       "id": "dd7041bcedbf08e8534b2ab66d990c3f",
       "title": "Experts sound alarm over a rise in a mysterious tick-borne illness spreading across America - Daily Mail",
       "source": "Daily Mail",
       "url": "https://www.dailymail.co.uk/health/article-14868853/Experts-sound-alarm-rise-mysterious-tick-borne-illness-spreading-America.html",
       "image_url": "https://i.dailymail.co.uk/1s/2025/07/02/16/99935021-0-image-a-65_1751469010717.jpg",
-      "summary": "Thursday, Jul 3rd 2025 12AM 72°F Experts sound alarm over a rise in a mysterious tick-borne illness spreading across America READ MORE: Can a tick bite make you allergic to red meat? By DAISY HODGES FOR DAILYMAIL. COM PUBLISHED: 11:26 EDT, 2 July 2025 | UPDATED: 11:33 EDT, 2 July 2025 If you've recently been bitten by a tick, you're...",
+      "summary": "Sophia Hutchins accident site shows wrecked ATV in ravine where Caitlyn Jenner's trans manager died Diddy hit by explosive new sex scandal hours after being cleared of most serious charges he faced Inside Donald and Melania's festive Fourth of July weekend plans filled with family, fireworks and a surprise The real story behind John Travolta's stunning decline: As his latest...",
       "published": "Wed, 02 Jul 2025 15:26:17 GMT"
-    },
-    {
-      "id": "fe3aa759aec7210e923ff9466c7a05c6",
-      "title": "This Gut-Boosting Drink Could Protect Your Brain From Dementia - SciTechDaily",
-      "source": "SciTechDaily",
-      "url": "https://scitechdaily.com/this-gut-boosting-drink-could-protect-your-brain-from-dementia/",
-      "image_url": "https://scitechdaily.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. scitechdaily. com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Thu, 03 Jul 2025 13:54:47 GMT"
-    },
-    {
-      "id": "7eaa4ee8c9a8eaea1e2711dce7eff8af",
-      "title": "Shock research reveals how types of birth can affect children's chances of getting CANCER - Daily Mail",
-      "source": "Daily Mail",
-      "url": "https://www.dailymail.co.uk/health/article-14873977/Shock-research-reveals-types-birth-affect-childrens-chances-getting-CANCER.html",
-      "image_url": "https://i.dailymail.co.uk/1s/2025/07/04/00/99991307-0-image-a-25_1751583746413.jpg",
-      "summary": "Shock research reveals how types of birth can affect children's chances of getting CANCER PUBLISHED: 19:05 EDT, 3 July 2025 | UPDATED: 19:26 EDT, 3 July 2025 Babies born by planned caesarean section are more likely to develop childhood cancer, according to researchers. Those delivered that way were more than a quarter more likely to get the most common form...",
-      "published": "Thu, 03 Jul 2025 23:05:20 GMT"
-    },
-    {
-      "id": "5f4e56d744c0ba654c3c75f58e3b95fa",
-      "title": "Are you a glucose 'dipper'? Here's how to fix those blood sugar highs and lows - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/07/03/nx-s1-5448849/glucose-blood-sugar-diet-weight-loss",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F22%2F83d99ab641579bf9a9393f3f54c8%2Fgettyimages-2202280925.jpg",
-      "summary": "Are you a glucose 'dipper'? Here's how to fix those blood sugar highs and lows A continuous glucose monitor helps people track their blood sugar spikes and dips. By all measurements, Judy Freeman, age 76, is in fantastic health. She doesn't have diabetes or heart disease. She's not overweight. She stays active. \"I try to walk at least four or...",
-      "published": "Thu, 03 Jul 2025 09:00:00 GMT"
     }
   ]
 }
