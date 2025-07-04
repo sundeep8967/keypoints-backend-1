@@ -1,18 +1,36 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-07-04 02:31:05",
+    "generation_time": "2025-07-04 07:30:31",
     "total_articles": 20
   },
   "articles": [
     {
+      "id": "d94ecedaac1e859b2fbd8c05376e904d",
+      "title": "There is no safe amount of processed meat to eat, according to new research - CNN",
+      "source": "CNN",
+      "url": "https://edition.cnn.com/2025/07/02/health/processed-meats-sweet-drinks-disease-wellness",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-184380733.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "There is no safe amount of processed meat to eat, according to new research The equivalent of one medium-size hot dog was associated with an increased risk of colorectal acancer and type 2 diabetes in a new study. RiverRockPhotos/iStockphoto/Getty Images There is strong evidence that there is “no safe amount” of processed meat to eat, nutrition experts say in response...",
+      "published": "Wed, 02 Jul 2025 16:16:00 GMT"
+    },
+    {
       "id": "646dbd9387ebd8989eeb62d9458a481a",
       "title": "He Died From a Bat Bite. It Wasn't Rabies - Newser",
       "source": "Newser",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUtwdkhhaGxGdEZtdy1JdUJSUkkyajRsRXFHaTBKX2FoSzhHeEJncDlFSzJoRGJONkdvWEVjOXBCcmJoM09oMVItc3I0b1hCNEpMdmRObmIzWUl2YXlEOVNzMk4zMW5pQ1MySDJJS0x4T0pIZEZySjBPQTh6enNuRk03Yl9lMUU?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.newser.com/story/371329/he-died-from-a-bat-bite-it-wasnt-rabies.html",
+      "image_url": "https://img1-azrcdn.newser.com/image/1620194-12-20250703103231.jpeg",
+      "summary": "He Died From a Bat Bite. It Wasn't Rabies Fourth human case of Australian bat lyssavirus proves fatal in New South Wales Posted Jul 3, 2025 10:14 AM CDT A colored transmission electron micrograph image of Australian bat lyssavirus. (Wikimedia Commons/CSIRO) An Australian man has died after becoming just the fourth known person to contract an extremely rare, bat-borne virus.",
       "published": "Thu, 03 Jul 2025 15:14:00 GMT"
+    },
+    {
+      "id": "3cb8ff1f1b1d7bafcc847c2f6eca47f9",
+      "title": "NIH study links particulate air pollution to increased mutations in lung cancers among nonsmokers - National Institutes of Health (NIH) | (.gov)",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-study-links-particulate-air-pollution-increased-mutations-lung-cancers-among-nonsmokers",
+      "image_url": "https://www.nih.gov/themes/custom/nih2_uswds/assets/img/nih-logo.png",
+      "summary": "An official website of the United States government Home News & Events News Releases MEDIA ADVISORY  Wednesday, July 2, 2025 NIH study links particulate air pollution to increased mutations in lung cancers among nonsmokers Whole-genome sequencing study found air pollution to cause more cancer-related changes than secondhand smoke. Scientists at the National Institutes of Health (NIH) and their colleagues at...",
+      "published": "Wed, 02 Jul 2025 15:38:33 GMT"
     },
     {
       "id": "28e06413fa0fb233b016ef69d9855b3b",
@@ -33,13 +51,13 @@
       "published": "Wed, 02 Jul 2025 19:58:00 GMT"
     },
     {
-      "id": "3cb8ff1f1b1d7bafcc847c2f6eca47f9",
-      "title": "NIH study links particulate air pollution to increased mutations in lung cancers among nonsmokers - National Institutes of Health (NIH) | (.gov)",
-      "source": "National Institutes of Health (NIH) | (.gov)",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-study-links-particulate-air-pollution-increased-mutations-lung-cancers-among-nonsmokers",
-      "image_url": "https://www.nih.gov/themes/custom/nih2_uswds/assets/img/nih-logo.png",
-      "summary": "An official website of the United States government Home News & Events News Releases MEDIA ADVISORY  Wednesday, July 2, 2025 NIH study links particulate air pollution to increased mutations in lung cancers among nonsmokers Whole-genome sequencing study found air pollution to cause more cancer-related changes than secondhand smoke. Scientists at the National Institutes of Health (NIH) and their colleagues at...",
-      "published": "Wed, 02 Jul 2025 15:38:33 GMT"
+      "id": "6359d54e275da23b86bc1ebed7609270",
+      "title": "MN mosquito officials confirm West Nile Virus found in local pools - kare11.com",
+      "source": "kare11.com",
+      "url": "https://www.kare11.com/article/news/local/mn-mosquito-officials-west-nile-virus-found-in-local-pools/89-0bad6464-8122-4d92-bdb4-394bfe55f7f8",
+      "image_url": "https://media.kare11.com/assets/KARE/images/cec1011d-b1ad-448d-a605-fc3237616ae7/20240829T211945/cec1011d-b1ad-448d-a605-fc3237616ae7_1140x641.jpg",
+      "summary": "MN mosquito officials confirm West Nile Virus found in local pools Early July is the typical time for the agency to begin detecting the virus, said the agency. Published: 2:29 PM CDT July 3, 2025 Updated: 2:29 PM CDT July 3, 2025 ANOKA COUNTY, Minn. — Officials in Minnesota have confirmed the West Nile virus was detected in mosquito pools...",
+      "published": "Thu, 03 Jul 2025 19:29:00 GMT"
     },
     {
       "id": "1e6a1b600738eec959e876501c1dad74",
@@ -60,15 +78,6 @@
       "published": "Thu, 03 Jul 2025 15:01:19 GMT"
     },
     {
-      "id": "22c4a3afa675da76a56b53f9de8414c6",
-      "title": "RFK Jr., CDC panel have been casting doubt on the hepatitis B vaccine. Here's why it's safe - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Health/rfk-jr-cdc-panel-casting-doubt-hepatitis-vaccine/story?id=123423585",
-      "image_url": "https://i.abcnewsfe.com/a/9b184e61-2844-46f5-9857-da3be3f825c1/rfk-1-gty-er-250416_1744832380728_hpMain_16x9.jpg?w=1600",
-      "summary": "RFK Jr., CDC panel have been casting doubt on the hepatitis B vaccine. Here's why it's safe The first dose of the hepatitis B vaccine is recommended at birth. Why the hepatitis B vaccine is safe and effectiveThe best way to prevent hepatitis B is to get vaccinated, and no evidence suggests the hepatitis B vaccine is unsafe, an infectious...",
-      "published": "Thu, 03 Jul 2025 14:22:06 GMT"
-    },
-    {
       "id": "c9dd909b33c829bdfbfbc4cdb5a7af1a",
       "title": "How Drinking Alcohol Affects You in Older Age - The New York Times",
       "source": "The New York Times",
@@ -78,58 +87,22 @@
       "published": "Thu, 03 Jul 2025 09:00:47 GMT"
     },
     {
-      "id": "065b4603bc88a9aff4fbea42f8347c43",
-      "title": "West Nile Virus detected in Macomb County mosquitoes - ClickOnDetroit | WDIV Local 4",
-      "source": "ClickOnDetroit | WDIV Local 4",
-      "url": "https://www.clickondetroit.com/news/local/2025/07/03/west-nile-virus-detected-in-macomb-county-mosquitoes/",
-      "image_url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/BO6ABNCRUZGKHCYN6FYRBBUT2M.jpg?_a=DATAg1eAZAA0",
-      "summary": "Open the WDIV ClickOnDetroit Help Desk 7 advisories in effect for 7 regions in the area West Nile Virus detected in Macomb County mosquitoes Health officials: No human cases of West Nile Virus reported Sara Powers, Digital Content Producer Published: July 3, 2025 at 9:48 AM Updated: July 3, 2025 at 11:06 AM Tags: Macomb County, West Nile Virus FILE...",
-      "published": "Thu, 03 Jul 2025 13:48:31 GMT"
-    },
-    {
-      "id": "a88a7cb5b6799537646d2cc1cae756a1",
-      "title": "Feeling Hoarse? You Might Have the New ‘Stratus’ Covid Variant - WIRED",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/feeling-hoarse-you-might-have-the-new-stratus-covid-variant/",
-      "image_url": "https://media.wired.com/photos/68627f60c79f0d63de68d86c/191:100/w_1280,c_limit/1366654397",
-      "summary": "Feeling Hoarse? You Might Have the New ‘Stratus’ Covid Variant The World Health Organization has added the variant, known formally as XFG, to its monitoring list. A dry, irritated throat is among its main symptoms. ANOTHER NEW COVID variant is currently rapidly gaining a foothold. Known officially as XFG—or informally as “Stratus”—it has been declared a “variant under monitoring” by...",
-      "published": "Wed, 02 Jul 2025 09:00:00 GMT"
-    },
-    {
       "id": "8413b76454d940be5229db8157ef7623",
       "title": "I got my son his measles vaccine. Then an insane letter arrived - Daily Mail",
       "source": "Daily Mail",
       "url": "https://www.dailymail.co.uk/health/article-14868281/measles-vaccine-son-letter.html",
       "image_url": "https://i.dailymail.co.uk/1s/2025/07/02/16/99930749-0-image-a-13_1751469166962.jpg",
-      "summary": "Thursday, Jul 3rd 2025 7PM 68°F The world's most infectious disease hit our town. .. doctors handed us jaw-dropping bill for antidote By LUKE ANDREWS SENIOR HEALTH REPORTER FOR DAILYMAIL. COM PUBLISHED: 14:32 EDT, 2 July 2025 | UPDATED: 17:33 EDT, 2 July 2025 Living in the state at the center of America's measles outbreak, Thang Nguyen thought getting his...",
+      "summary": "Thursday, Jul 3rd 2025 12AM 72°F The world's most infectious disease hit our town. .. doctors handed us jaw-dropping bill for antidote By LUKE ANDREWS SENIOR HEALTH REPORTER FOR DAILYMAIL. COM PUBLISHED: 14:32 EDT, 2 July 2025 | UPDATED: 17:33 EDT, 2 July 2025 Living in the state at the center of America's measles outbreak, Thang Nguyen thought getting his...",
       "published": "Wed, 02 Jul 2025 18:32:32 GMT"
     },
     {
-      "id": "d94ecedaac1e859b2fbd8c05376e904d",
-      "title": "There is no safe amount of processed meat to eat, according to new research - CNN",
-      "source": "CNN",
-      "url": "https://edition.cnn.com/2025/07/02/health/processed-meats-sweet-drinks-disease-wellness",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-184380733.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "There is no safe amount of processed meat to eat, according to new research The equivalent of one medium-size hot dog was associated with an increased risk of colorectal acancer and type 2 diabetes in a new study. RiverRockPhotos/iStockphoto/Getty Images There is strong evidence that there is “no safe amount” of processed meat to eat, nutrition experts say in response...",
-      "published": "Wed, 02 Jul 2025 16:16:00 GMT"
-    },
-    {
-      "id": "26271e5c413977595699f0820fe2e9ad",
-      "title": "New State Reports Measles Outbreak as RFK Jr. Guts Vaccine Access - Yahoo",
-      "source": "Yahoo",
-      "url": "https://www.yahoo.com/news/state-reports-measles-outbreak-rfk-163404438.html",
-      "image_url": "https://media.zenfs.com/en/the_new_republic_521/fd1420e3ed86b6be92b1ffbc76fd45da",
-      "summary": "New State Reports Measles Outbreak as RFK Jr. Slashes Vaccines Thu, July 3, 2025 at 4:34 PM UTC Measles is on the rise in Kentucky. Health officials in the state confirmed that the disease has spread to Fayette County, marking the seventh case of the highly contagious illness in Kentucky since the beginning of the year. Previous cases had been...",
-      "published": "Thu, 03 Jul 2025 16:34:04 GMT"
-    },
-    {
-      "id": "3141ce34cf228576e24737da4dd39b9d",
-      "title": "What is prostate cancer: Causes, symptoms, risk factors, and healthy habits that help prevent it - Times of India",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-is-prostate-cancer-causes-symptoms-risk-factors-and-healthy-habits-that-help-prevent-it/articleshow/122219594.cms",
-      "image_url": "https://static.toiimg.com/thumb/msid-122220073,width-1070,height-580,imgsize-24768,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "summary": "What Is Prostate Cancer: Causes, Symptoms, Risk Factors, And Healthy Habits That Help Prevent It What is prostate cancer: Causes, symptoms, risk factors, and healthy habits that help prevent it TOI Lifestyle Desk / etimes. in / Updated: Jul 04, 2025, 07:07 IST Prostate cancer is a significant health concern for men globally, with rising incidence and mortality rates. Early...",
-      "published": "Thu, 03 Jul 2025 05:52:00 GMT"
+      "id": "22c4a3afa675da76a56b53f9de8414c6",
+      "title": "RFK Jr., CDC panel have been casting doubt on the hepatitis B vaccine. Here's why it's safe - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Health/rfk-jr-cdc-panel-casting-doubt-hepatitis-vaccine/story?id=123423585",
+      "image_url": "https://i.abcnewsfe.com/a/9b184e61-2844-46f5-9857-da3be3f825c1/rfk-1-gty-er-250416_1744832380728_hpMain_16x9.jpg?w=1600",
+      "summary": "RFK Jr., CDC panel have been casting doubt on the hepatitis B vaccine. Here's why it's safe The first dose of the hepatitis B vaccine is recommended at birth. Why the hepatitis B vaccine is safe and effectiveThe best way to prevent hepatitis B is to get vaccinated, and no evidence suggests the hepatitis B vaccine is unsafe, an infectious...",
+      "published": "Thu, 03 Jul 2025 14:22:06 GMT"
     },
     {
       "id": "cc8102b2009e90982d64967814aa447d",
@@ -141,13 +114,40 @@
       "published": "Wed, 02 Jul 2025 09:08:14 GMT"
     },
     {
-      "id": "47e35304644132204bd1ddcc4901eeb5",
-      "title": "How Smell Guides Our Inner World - Quanta Magazine",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/how-smell-guides-our-inner-world-20250703/",
-      "image_url": "https://www.quantamagazine.org/wp-content/uploads/2025/07/MolecularSmell-crMichaelWaraksa-Social.jpg",
-      "summary": "How Smell Guides Our Inner World A better understanding of human smell is emerging as scientists interrogate its fundamental elements: the odor molecules that enter your nose and the individual neurons that translate them into perception in your brain. Millions of molecules, often in complex bouquets, enter the nose and are processed by neurons to generate a sense of smell...",
-      "published": "Thu, 03 Jul 2025 14:28:35 GMT"
+      "id": "3141ce34cf228576e24737da4dd39b9d",
+      "title": "What is prostate cancer: Causes, symptoms, risk factors, and healthy habits that help prevent it - Times of India",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-is-prostate-cancer-causes-symptoms-risk-factors-and-healthy-habits-that-help-prevent-it/articleshow/122219594.cms",
+      "image_url": "https://static.toiimg.com/thumb/msid-122220073,width-1070,height-580,imgsize-24768,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "summary": "What Is Prostate Cancer: Causes, Symptoms, Risk Factors, And Healthy Habits That Help Prevent It What is prostate cancer: Causes, symptoms, risk factors, and healthy habits that help prevent it TOI Lifestyle Desk / etimes. in / Updated: Jul 04, 2025, 12:34 IST Prostate cancer is a significant health concern for men worldwide, with increasing diagnoses and fatalities projected. Early...",
+      "published": "Thu, 03 Jul 2025 05:52:00 GMT"
+    },
+    {
+      "id": "26271e5c413977595699f0820fe2e9ad",
+      "title": "New State Reports Measles Outbreak as RFK Jr. Guts Vaccine Access - Yahoo",
+      "source": "Yahoo",
+      "url": "https://www.yahoo.com/news/state-reports-measles-outbreak-rfk-163404438.html",
+      "image_url": "https://media.zenfs.com/en/the_new_republic_521/fd1420e3ed86b6be92b1ffbc76fd45da",
+      "summary": "New State Reports Measles Outbreak as RFK Jr. Slashes Vaccines Thu, July 3, 2025 at 4:34 PM UTC Measles is on the rise in Kentucky. Health officials in the state confirmed that the disease has spread to Fayette County, marking the seventh case of the highly contagious illness in Kentucky since the beginning of the year. Previous cases had been...",
+      "published": "Thu, 03 Jul 2025 16:34:04 GMT"
+    },
+    {
+      "id": "065b4603bc88a9aff4fbea42f8347c43",
+      "title": "West Nile Virus detected in Macomb County mosquitoes - ClickOnDetroit | WDIV Local 4",
+      "source": "ClickOnDetroit | WDIV Local 4",
+      "url": "https://www.clickondetroit.com/news/local/2025/07/03/west-nile-virus-detected-in-macomb-county-mosquitoes/",
+      "image_url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/BO6ABNCRUZGKHCYN6FYRBBUT2M.jpg?_a=DATAg1eAZAA0",
+      "summary": "This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Notice Open the WDIV ClickOnDetroit Help Desk 7 advisories in effect for 7 regions in the area West Nile Virus detected in Macomb County mosquitoes Health officials: No human cases of...",
+      "published": "Thu, 03 Jul 2025 13:48:31 GMT"
+    },
+    {
+      "id": "9ac1fd12f9c191369e00129923300591",
+      "title": "Study identifies a much easier and cheaper way to treat depression than with prescription drugs - Earth.com",
+      "source": "Earth.com",
+      "url": "https://www.earth.com/news/vinegar-much-easier-and-cheaper-way-to-treat-depression-than-with-prescription-drugs/",
+      "image_url": "https://cff2.earth.com/uploads/2025/07/03193042/vinegar_treats-depression_study_1m.jpg",
+      "summary": "Study identifies a much easier and cheaper way to treat depression than with prescription drugs Every year, tens of millions of people around the world wrestle with bad moods and various levels of depression. Prescription drugs help many sufferers, yet side effects, cost, and uneven results often leave patients and clinicians on the lookout for other solutions. Then one day,...",
+      "published": "Fri, 04 Jul 2025 02:06:37 GMT"
     },
     {
       "id": "dd7041bcedbf08e8534b2ab66d990c3f",
@@ -155,7 +155,7 @@
       "source": "Daily Mail",
       "url": "https://www.dailymail.co.uk/health/article-14868853/Experts-sound-alarm-rise-mysterious-tick-borne-illness-spreading-America.html",
       "image_url": "https://i.dailymail.co.uk/1s/2025/07/02/16/99935021-0-image-a-65_1751469010717.jpg",
-      "summary": "Thursday, Jul 3rd 2025 7PM 68°F Experts sound alarm over a rise in a mysterious tick-borne illness spreading across America READ MORE: Can a tick bite make you allergic to red meat? By DAISY HODGES FOR DAILYMAIL. COM PUBLISHED: 11:26 EDT, 2 July 2025 | UPDATED: 11:33 EDT, 2 July 2025 If you've recently been bitten by a tick, you're...",
+      "summary": "Thursday, Jul 3rd 2025 12AM 72°F Experts sound alarm over a rise in a mysterious tick-borne illness spreading across America READ MORE: Can a tick bite make you allergic to red meat? By DAISY HODGES FOR DAILYMAIL. COM PUBLISHED: 11:26 EDT, 2 July 2025 | UPDATED: 11:33 EDT, 2 July 2025 If you've recently been bitten by a tick, you're...",
       "published": "Wed, 02 Jul 2025 15:26:17 GMT"
     },
     {
@@ -173,17 +173,17 @@
       "source": "Daily Mail",
       "url": "https://www.dailymail.co.uk/health/article-14873977/Shock-research-reveals-types-birth-affect-childrens-chances-getting-CANCER.html",
       "image_url": "https://i.dailymail.co.uk/1s/2025/07/04/00/99991307-0-image-a-25_1751583746413.jpg",
-      "summary": "Thursday, Jul 3rd 2025 7PM 68°F Shock research reveals how types of birth can affect children's chances of getting CANCER PUBLISHED: 19:05 EDT, 3 July 2025 | UPDATED: 19:26 EDT, 3 July 2025 Babies born by planned caesarean section are more likely to develop childhood cancer, according to researchers. Those delivered that way were more than a quarter more likely...",
+      "summary": "Shock research reveals how types of birth can affect children's chances of getting CANCER PUBLISHED: 19:05 EDT, 3 July 2025 | UPDATED: 19:26 EDT, 3 July 2025 Babies born by planned caesarean section are more likely to develop childhood cancer, according to researchers. Those delivered that way were more than a quarter more likely to get the most common form...",
       "published": "Thu, 03 Jul 2025 23:05:20 GMT"
     },
     {
-      "id": "2f9981aca1c4c8065b61c8a1d89d942e",
-      "title": "Alcohol-related liver problems escalate in Wisconsin, especially for women, young people - Milwaukee Journal Sentinel",
-      "source": "Milwaukee Journal Sentinel",
-      "url": "https://www.jsonline.com/story/news/2025/07/03/wisconsin-deaths-from-alcohol-related-liver-diseases-sharply-rise/84392219007/",
-      "image_url": "https://www.gannett-cdn.com/-mm-/ce3b25da04cc1b18869350229a03f2b42f7ac3af/c=0-83-2000-1213/local/-/media/2017/06/23/WisPub/LakeCountry/636338180534634540-JCPG-LCR-BREW-FEST-5476-28407669.JPG?auto=webp&format=pjpg&width=1200",
-      "summary": "Alcohol-related liver problems escalate in Wisconsin, especially for women, young people MADELINE HEIM   Milwaukee Journal Sentinel Deaths from liver diseases that result from consuming too much alcohol are escalating dramatically in Wisconsin, and even more alarming, such diseases are showing up more in younger people. The numbers mirror national trends described in a June 11 study in JAMA Open Network,...",
-      "published": "Thu, 03 Jul 2025 10:03:30 GMT"
+      "id": "5f4e56d744c0ba654c3c75f58e3b95fa",
+      "title": "Are you a glucose 'dipper'? Here's how to fix those blood sugar highs and lows - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/07/03/nx-s1-5448849/glucose-blood-sugar-diet-weight-loss",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F22%2F83d99ab641579bf9a9393f3f54c8%2Fgettyimages-2202280925.jpg",
+      "summary": "Are you a glucose 'dipper'? Here's how to fix those blood sugar highs and lows A continuous glucose monitor helps people track their blood sugar spikes and dips. By all measurements, Judy Freeman, age 76, is in fantastic health. She doesn't have diabetes or heart disease. She's not overweight. She stays active. \"I try to walk at least four or...",
+      "published": "Thu, 03 Jul 2025 09:00:00 GMT"
     }
   ]
 }
