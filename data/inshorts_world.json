@@ -1,36 +1,54 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-07-03 19:05:52",
+    "generation_time": "2025-07-04 02:33:55",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "5ba5e7ccf78968f13c77cdd5f57bf061",
-      "title": "UK borrowing costs fall as investors' nerves ease - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ce3nj7yw2wvo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/23dc/live/ecfe2ba0-57db-11f0-bac7-59e5f1e1335c.jpg",
-      "summary": "UK borrowing costs fall as investors' nerves ease",
-      "published": "Thu, 03 Jul 2025 13:07:05 GMT"
+      "id": "92948c2021381486b9385f73857f6473",
+      "title": "Trump says US has given Ukraine too many weapons in first public comments on pause in shipments - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/putin-trump-call-ukraine-iran-9b0054c655cbb3b54126bb3f2c32713c",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Thu, 03 Jul 2025 17:30:00 GMT"
     },
     {
-      "id": "aaf233c71553e62ec5cb679eca0a3bc1",
-      "title": "Rescuers search for survivors after ferry sinking near Bali, Indonesia - NPR",
+      "id": "8d09d301f1f84133dc7c69ecfdb98b77",
+      "title": "At least 5 dead after ferry sinks on its way to Bali, Indonesia - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/07/03/bali-indonesia-ferry-sinks/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FJ6LNPUOW7N4QI5QZDIXW6TXIY.JPG&w=1440",
+      "summary": "At least 5 dead after ferry sinks on its way to Bali Ask A Pro: \"What Expenses Can Be Deducted From Capital Gains Tax? \" We and our third-party partners process personal data including through the use of cookies, pixels, and other tracking technologies to provide, analyze, and improve our services; personalize your experience (including content); and personalize ads on...",
+      "published": "Fri, 04 Jul 2025 01:31:22 GMT"
+    },
+    {
+      "id": "ca81d6eb5d9d05f851b1c19e82aa70c5",
+      "title": "UK Markets Rebound as Starmer Quashes Fears of a Reeves Exit - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/uk-markets-bounce-starmer-says-082307409.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/Ml5XtU2BcWZV1Vw1AN9P9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/bloomberg_holding_pen_162/8ef6748edcfefff28053b3dcdfaa63ae",
+      "summary": "UK Markets Rebound as Starmer Quashes Fears of a Reeves Exit UK Markets Rebound as Starmer Quashes Fears of a Reeves Exit Thu, July 3, 2025 at 6:06 AM PDT 3 min read (Bloomberg) -- UK markets rebounded from a sharp selloff as Prime Minister Keir Starmer sought to calm speculation about a possible exit by Chancellor of the Exchequer...",
+      "published": "Thu, 03 Jul 2025 13:06:41 GMT"
+    },
+    {
+      "id": "b671a5691d4f81e9b8fcfb98737e3156",
+      "title": "Wildfires on Greek island Crete force thousands to evacuate - CBS News",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/greece-wildfires-evacuations-crete/",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/07/03/e40c696f-c480-46d2-b6a1-65091d75c62a/thumbnail/1200x630/05583b8ea61795f46995a728e0243217/ap25184342447726.jpg",
+      "summary": "Wildfires on Greek island Crete force thousands to evacuate July 3, 2025 / 12:57 PM EDT / CBS/AP Greek authorities ordered thousands to evacuate from different parts of the southern island of Crete, one of the country's most popular tourist spots, where wildfires burned uncontrollably on Thursday. Firefighters were struggling to contain the blaze as gale-force winds fueled the flames.",
+      "published": "Thu, 03 Jul 2025 16:57:38 GMT"
+    },
+    {
+      "id": "103af63de4c0c7ad8c02c44bb8889228",
+      "title": "U.K. High Court slams MI5 over informant deception and lack of transparency - NPR",
       "source": "NPR",
-      "url": "https://www.npr.org/2025/07/03/nx-s1-5455541/bali-indonesia-ferry-sinking-survivors",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1250x703+0+65/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F20%2Fc879fd1d4cffb4af91aeafa5d146%2Fap25184037796383.jpg",
-      "summary": "Rescuers search for survivors after ferry sinking near Bali, Indonesia In this photo released by the Indonesian National Search and Rescue Agency (BASARNAS) rescuers search for victims after a ferry enroute for the resort island of Bali sank off Ketapang, East Java, Indonesia on Thursday. JAKARTA, Indonesia — Rescuers were searching Thursday for 32 people missing after a ferry sank...",
-      "published": "Thu, 03 Jul 2025 04:59:10 GMT"
-    },
-    {
-      "id": "4e3e0d3ba0f69c64d30211cbf2a4da77",
-      "title": "Crete: Wildfire on Greek island prompts evacuations - DW",
-      "source": "DW",
-      "url": "https://www.dw.com/en/crete-wildfire-on-greek-island-prompts-evacuations/a-73135182",
-      "image_url": "https://static.dw.com/image/73135226_6.jpg",
-      "summary": "DW uses cookies and similar technologies to measure usage, display personalized advertising and share personal data and information with up to 186 third parties. You decide for yourself whether you agree to this use of your data. You can adjust individual details under “Settings” and change them at any time. You can view all of DW's content without agreeing. Social...",
-      "published": "Thu, 03 Jul 2025 11:35:10 GMT"
+      "url": "https://www.npr.org/2025/07/03/nx-s1-5454722/uk-mi5-high-court",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7360x4140+0+386/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2F5a%2Fb465f98b46cf95acdc6940944576%2Fe23c3d.jpg",
+      "summary": "U.K. High Court slams MI5 over informant deception and lack of transparency The entrance to the headquarters of MI5, Britain's domestic intelligence agency, in London. LONDON — A High Court ruling in London Wednesday has cast a critical spotlight on Britain's MI5 domestic intelligence agency. A ruling by a three-judge panel at London's High Court cited the agency's failure to...",
+      "published": "Thu, 03 Jul 2025 20:35:22 GMT"
     },
     {
       "id": "d4b45d504688010884d7495e641373bb",
@@ -38,7 +56,7 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "url": "https://abcnews.go.com/International/wireStory/elephant-kills-2-female-tourists-uk-new-zealand-123452015",
       "image_url": "https://i.abcnewsfe.com/a/113a059d-69b5-4e12-868f-53407d361cf9/wirestory_c047655a941a28341f5652c4a7f1982d_16x9.jpg?w=1600",
-      "summary": "BreakingHouse votes to pass Trump's spending bill Elephant kills 2 female tourists from the UK. New Zealand in Zambian national park Two elderly female tourists from the U. K. and New Zealand have been killed by an elephant while on a walking safari in a national park in Zambia International headlines from ABC NewsCatch up on the developing stories from...",
+      "summary": "Elephant kills 2 female tourists from the UK. New Zealand in Zambian national park Two elderly female tourists from the U. K. and New Zealand have been killed by an elephant while on a walking safari in a national park in Zambia International headlines from ABC NewsCatch up on the developing stories from around the globe making headlines. LUSAKA, Zambia...",
       "published": "Thu, 03 Jul 2025 16:05:30 GMT"
     },
     {
@@ -48,61 +66,34 @@
       "url": "https://www.reuters.com/world/middle-east/hamas-seeks-ceasefire-guarantees-scores-more-killed-gaza-2025-07-03/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 13:08:10 GMT"
+      "published": "Thu, 03 Jul 2025 22:28:21 GMT"
     },
     {
-      "id": "ad6feca2ec0535155405129b561669ce",
-      "title": "Top Russian naval commander latest general to be killed by Ukraine - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/07/03/russia-navy-commander-gudkov-kursk/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6I34MFNRWB55KPNH3IIYKAODBA.JPG&w=1440",
-      "summary": "Top Russian naval commander latest general to be killed by Ukraine Maj. Gen. Mikhail Gudkov is one of the highest-ranking Russian commanders killed in the war. His death comes as the U. S. seeks to pause military aid to Ukraine. Flowers are placed in front of a billboard showing Maj. Gen. Mikhail Gudkov, who was deputy head of the Russian...",
-      "published": "Thu, 03 Jul 2025 17:54:07 GMT"
+      "id": "493efb5b2d45329ffdde7c3f84a4bf84",
+      "title": "Ukraine’s European backers mull their options after the US pauses weapons shipments - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/zelenskyy-ukraine-denmark-eu-20ab5cfa9ba97460972cfb9998c16546",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Thu, 03 Jul 2025 19:18:00 GMT"
     },
     {
-      "id": "9668d0670ba6a4aa070247e15787f0e8",
-      "title": "The Site of the Jonestown Massacre Opens to Tourists. Some Ask Why. - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/07/03/world/americas/jonestown-guyana-tourists.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 09:00:13 GMT"
-    },
-    {
-      "id": "c7fe382af7904cc244f07586be9e18b2",
-      "title": "The Pope Returns to Castel Gandolfo for Summer. And There Will Be Tennis. - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/07/03/world/europe/pope-leo-summer-castel-gandolfo.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 09:33:15 GMT"
-    },
-    {
-      "id": "95f3e5df2ad1d042c12c2bcc1d587176",
-      "title": "Lovebugs vex South Korea, covering hiking trails and sidewalks - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/07/03/lovebugs-seoul-korea/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OQUK54OFXL5BOHOGJMXHF3BNXI_size-normalized.JPG&w=1440",
-      "summary": "Lovebugs vex South Korea, covering hiking trails and sidewalks The non-native insects have no natural predators and have grown in numbers in recent years. Experts say warming temperatures could be a factor in their proliferation. Performer and influencer Park Da-hye wears a disposable raincoat in an attempt to keep out lovebugs as she climbs to the top of Gyeyangsan, a...",
-      "published": "Thu, 03 Jul 2025 18:05:27 GMT"
-    },
-    {
-      "id": "4a6261d4248590e3ae35b81ae77fb491",
-      "title": "Denmark pushes to suspend Hungary’s EU voting rights - politico.eu",
-      "source": "politico.eu",
-      "url": "https://www.politico.eu/article/denmark-suspend-hungary-eu-voting-right/",
-      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/03/12870738-scaled.jpg",
-      "summary": "Denmark pushes to suspend Hungary’s EU voting rights",
-      "published": "Thu, 03 Jul 2025 11:26:00 GMT"
-    },
-    {
-      "id": "d56fb274436c32a35ce9a30ce4f86650",
-      "title": "UN expert asks states to cut trade ties with Israel over ‘genocidal campaign’ in Gaza – as it happened - The Guardian",
+      "id": "5f40cb81ef70824f117d9351267e82da",
+      "title": "Countries must protect human right to a stable climate, court rules - The Guardian",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2025/jul/03/israel-gaza-war-latest-news-updates-hamas-ceasefire-middle-east-iran",
-      "image_url": "https://i.guim.co.uk/img/media/306fb8a2e45084eef23a4f8f9a9bdebf6e0659b7/151_0_2326_1861/master/2326.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=688d36a15e4b1999ab566973ab41344a",
-      "summary": "Fund the free press with $15 per month UN expert asks states to cut trade ties with Israel over ‘genocidal campaign’ in Gaza – as it happened This blog is now closed, you can read more on this story here Jane Clinton (now) and Tom Ambrose (earlier) First published on Thu 3 Jul 2025 04. 31 EDT Relatives of the...",
-      "published": "Thu, 03 Jul 2025 08:31:00 GMT"
+      "url": "https://www.theguardian.com/environment/2025/jul/03/countries-must-protect-human-right-to-a-stable-climate-court-rules",
+      "image_url": "https://i.guim.co.uk/img/media/f2990b5ca6e7ce2ce71cfda4a472be168dd5869e/461_0_2792_2235/master/2792.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bb9e4b6875e23ad8228125cdfa1a6328",
+      "summary": "Fund the free press with $15 per month A forest fire outside Quito, Ecuador last September. Countries should take ‘urgent and effective’ action to reduce greenhouse gas emissions, according to the IACHR. Photograph: Agencia Press South/Getty Images Countries must protect human right to a stable climate, court rules Costa Rica-based inter-American court of human rights says states have obligation to...",
+      "published": "Thu, 03 Jul 2025 22:18:00 GMT"
+    },
+    {
+      "id": "ba54c2fc3d3871b8501b44492164ffcc",
+      "title": "Russia becomes first country to recognise Taliban government of Afghanistan - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/russia-becomes-first-country-recognise-taliban-government-afghanistan-2025-07-03/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Thu, 03 Jul 2025 19:10:37 GMT"
     },
     {
       "id": "b902d15ca8e7b33880118d44b17faaf4",
@@ -110,17 +101,71 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c4gejed7wgeo",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/751b/live/b8ee1910-574f-11f0-aae5-397e31909728.jpg",
-      "summary": "Gaza hospital director killed in Israeli strike, relative says Dr Marwan Sultan was the director of the Indonesian Hospital in north Gaza The director of Gaza's Indonesian Hospital has been killed in an Israeli air strike on his home in Gaza City along with several family members, a relative has confirmed. Dr Marwan Sultan and his loved ones died on...",
+      "summary": "Gaza hospital director killed in Israeli strike, relative says",
       "published": "Thu, 03 Jul 2025 12:23:09 GMT"
     },
     {
-      "id": "78ec4f6715d729c332ca8df5720bde20",
-      "title": "Amnesty International says Israel and aid system use starvation to commit Gaza genocide - AP News",
+      "id": "53c76271338803db47e81ed0edf54c90",
+      "title": "Anger, protests, tears and courtesy as Netanyahu finally visits Nir Oz, worst-hit Oct. 7 kibbutz - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/anger-tears-demands-protests-as-netanyahu-finally-visits-nir-oz-worst-hit-oct-7-kibbutz/",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/07/Gu8-Ij1W0AA2-V0-e1751569320156.jpg",
+      "summary": "Anger, protests, tears and courtesy as Netanyahu finally visits Nir Oz, worst-hit Oct. 7 kibbutz 636 days after Hamas massacre, freed hostage refuses to shake PM’s hand, urges him to show ‘responsibility,’ get the hostages home, launch state inquiry; Einav Zangauker embraces him and wife Sara Your browser does not support the video tag. Protesters seen outside kibbutz Nir Oz...",
+      "published": "Thu, 03 Jul 2025 20:41:00 GMT"
+    },
+    {
+      "id": "c6bb3b31585c84d31e873c028f298a89",
+      "title": "UN expert calls for companies to stop doing business with Israel - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx2039xpv87o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/485c/live/c9a0ba40-5805-11f0-9074-8989d8c97d87.jpg",
+      "summary": "UN expert calls for companies to stop doing business with Israel The report called out companies which sell technology and weapons to Israel A United Nations expert has called on dozens of multinational companies to stop doing business with Israel, warning them they risk being complicit in war crimes in Gaza and the occupied West Bank. Francesca Albanese, presenting her...",
+      "published": "Thu, 03 Jul 2025 15:24:39 GMT"
+    },
+    {
+      "id": "ad6feca2ec0535155405129b561669ce",
+      "title": "Top Russian naval commander latest general to be killed by Ukraine - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/07/03/russia-navy-commander-gudkov-kursk/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6I34MFNRWB55KPNH3IIYKAODBA.JPG&w=1440",
+      "summary": "Top Russian naval commander latest general to be killed by Ukraine We and our third-party partners process personal data including through the use of cookies, pixels, and other tracking technologies to provide, analyze, and improve our services; personalize your experience (including content); and personalize ads on and off the services. Learn more and manage your preferences at our Privacy Policy.",
+      "published": "Thu, 03 Jul 2025 22:23:31 GMT"
+    },
+    {
+      "id": "94d34e9f30a194434fde5a2ac46529f8",
+      "title": "'Blood for food': The US soldier-spies sidelining UN aid work in Gaza - France 24",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20250703-blood-for-food-us-soldier-spies-sidelining-un-aid-work-gaza-ghf-safe-reach",
+      "image_url": "https://s.france24.com/media/display/19ed5a02-54d8-11f0-a12c-005056a90284/w:1280/p:16x9/000-36WK6G9.jpg",
+      "summary": "Your personal data, your options, our responsibility We and our partners use cookies or similar technologies to access and store non-sensitive information such as your IP address. The processing of your personal data allows us, for example, to improve your user experience, monitor audience ratings, offer social networks features, or display personalized advertisements. By clicking \"Accept\", you consent to the...",
+      "published": "Thu, 03 Jul 2025 15:35:05 GMT"
+    },
+    {
+      "id": "13a24d2dbdd338a3cd4237c1a500e847",
+      "title": "Ethiopia completes the power-generating dam on the Nile that caused a dispute with Egypt - AP News",
       "source": "AP News",
-      "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-amnesty-international-bc0964d64178999809770493df90607d",
+      "url": "https://apnews.com/article/ethiopia-nile-dam-complete-b567f19bcfeaca6315acf29d56944b9e",
       "image_url": "https://apnews.com/favicon.ico",
       "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Thu, 03 Jul 2025 10:40:00 GMT"
+      "published": "Fri, 04 Jul 2025 00:46:00 GMT"
+    },
+    {
+      "id": "1567974702636673e85692551a4c897e",
+      "title": "Teenage Aviator Detained After Landing in Antarctica, Chile Says - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/07/03/world/americas/ethan-guo-chile-detained.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Thu, 03 Jul 2025 22:05:33 GMT"
+    },
+    {
+      "id": "cb30ebca34a5c0eea40496ccef68bbc8",
+      "title": "As Dalai Lama turns 90, BBC visits heart of Tibetan resistance to China - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5y772jlpgzo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0d8b/live/0ba12f20-57e7-11f0-960d-e9f1088a89fe.jpg",
+      "summary": "BBC visits heart of Tibetan resistance as showdown looms between Dalai Lama and China Reporting fromAba, Sichuan province Shrouded in crimson robes, prayer beads moving rhythmically past his fingers, the monk walks towards us. We are being followed by eight unidentified men. Even saying a few words to us in public could get him in trouble. But he appears willing...",
+      "published": "Wed, 02 Jul 2025 21:28:28 GMT"
     },
     {
       "id": "04d0ac02610bf0e471111b44a5a0b830",
@@ -132,58 +177,13 @@
       "published": "Thu, 03 Jul 2025 04:52:16 GMT"
     },
     {
-      "id": "7bf42e3180d8826977461ace0100ef2d",
-      "title": "Daily Crossword: The Candy Store Puzzle — July 3 - Vulture",
-      "source": "Vulture",
-      "url": "https://www.vulture.com/article/daily-crossword-puzzle-july-3-2025.html",
-      "image_url": "https://pyxis.nymag.com/v1/imgs/2f9/92f/8c7cb2d7df5ccbf711d8894a42281bd74b-crossword-7-3-2025.1x.rsocial.w1200.jpg",
-      "summary": "By Malaika Handa, a Vulture crossword constructor since 2022 New crosswords dropped every weekday. Find all our games here. Get the 10x10 crossword, Cinematrix, and Telematrix sent to your inbox when they’re ready to play. Michael Madsen, of Reservoir Dogs and Kill Bill, Dead at 67 The actor, who worked in independent film in recent years, had a forthcoming book...",
-      "published": "Thu, 03 Jul 2025 09:00:39 GMT"
-    },
-    {
-      "id": "c4e211ca016632f0a734ccd84ee3ecb4",
-      "title": "US teen influencer detained in Antarctica while attempting solo flight to 7 continents - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/07/02/americas/us-teen-ethan-guo-solo-flight-antarctica-chile-detained-intl-latam",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ethan-guo-s-plane-lands-in-antarctica-on-june-28-reuters.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "US teen influencer detained in Antarctica while attempting solo flight to 7 continents By Christopher Ulloa and Max Saltman, CNN Published 2:11 PM EDT, Wed July 2, 2025 The plane flown by Ethan Guo is seen landing in Antarctica. Reuters A teenage pilot, who is attempting to fly all seven continents solo, hit a patch of rough air this weekend...",
-      "published": "Wed, 02 Jul 2025 18:11:00 GMT"
-    },
-    {
-      "id": "55ae39f0d7468a96cc25de1662745b18",
-      "title": "Dalai Lama Confirms Institution Will Continue With Successor - Bloomberg",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-02/dalai-lama-confirms-institution-will-continue-with-successor",
-      "image_url": null,
-      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
-      "published": "Wed, 02 Jul 2025 08:54:27 GMT"
-    },
-    {
-      "id": "5b9d54f29224f29899af3e075abf0bce",
-      "title": "Gerd: Ethiopia has finished building mega-dam, Abiy Ahmed says - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ce8z37g6p97o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6f55/live/a452ac30-581e-11f0-988d-abc8933015ea.jpg",
-      "summary": "Ethiopia has finished building mega-dam on Nile, PM says The dam is the biggest hydro-electric project in Africa Ethiopia says it has completed building a mega-dam on the Blue Nile that has long been a source of tension with Egypt and Sudan. Launched in 2011 with a $4bn (£2. 9bn) budget, the dam is Africa's biggest hydro-electric plant, and a...",
-      "published": "Thu, 03 Jul 2025 15:45:16 GMT"
-    },
-    {
-      "id": "6733f50af582bf4dd5ed6e127d1a3109",
-      "title": "Brussels fiddles on climate target while Europe burns - politico.eu",
-      "source": "politico.eu",
-      "url": "https://www.politico.eu/article/european-commission-2040-climate-target-heat-wave/",
-      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/01/12444199-scaled.jpg",
-      "summary": "Brussels fiddles on climate target while Europe burns",
-      "published": "Wed, 02 Jul 2025 03:28:00 GMT"
-    },
-    {
-      "id": "c7a892aee5a40215ee1590b6fa957f70",
-      "title": "European heat wave closes Eiffel Tower’s top floor and bakes Wimbledon - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/climate-environment/2025/07/02/european-heat-wave-eiffel-tower/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4T573SNVPCTJHMEBINVICN76IU_size-normalized.jpg&w=1440",
-      "summary": "European heat wave closes Eiffel Tower’s top floor and bakes Wimbledon The heat wave that has blanketed much of Europe is expected to linger over the continent this week, driving up temperatures and offering little reprieve. A tourist near the Eiffel Tower in Paris uses a hat to protect herself from the sun on Monday. (Ludovic Marin/AFP/Getty Images) In Paris,...",
-      "published": "Wed, 02 Jul 2025 16:58:52 GMT"
+      "id": "f3f8391b41cb89f21159a0ef4323e9d7",
+      "title": "Trump meets with Saudi defense minister at the White House and discusses Iran situation - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2025/07/04/trump-saudi-defense-minister-white-house-meeting-iran",
+      "image_url": "https://images.axios.com/6VZtEvSLipLfrUqpQ-KGnh3DIls=/0x0:3000x1688/1366x768/2025/07/03/1751586801016.jpg",
+      "summary": "Trump meets with Saudi defense minister, discusses Iran situation President Trump and Saudi Defense Minister Prince Khalid bin Salman at the White House in 2018. Photo: Chip Somodevilla/Getty Images President Trump met with the Saudi Defense Minister Prince Khalid bin Salman at the White House on Thursday and discussed the situation with Iran and other regional issues, according to a...",
+      "published": "Fri, 04 Jul 2025 00:11:57 GMT"
     }
   ]
 }
