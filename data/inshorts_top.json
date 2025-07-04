@@ -1,18 +1,99 @@
 {
   "metadata": {
     "source_file": "data/news_top.json",
-    "generation_time": "2025-07-04 13:17:14",
+    "generation_time": "2025-07-04 18:40:49",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "1ecc9b6fa664467aa02cde04ab7279c5",
-      "title": "How every House member voted on Trump’s big tax bill - The Washington Post",
+      "id": "3a2d8b7559820e8fac51001479c3d899",
+      "title": "'Selling' the megabill: Republicans tout taxes, Democrats point to Medicaid cuts - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/selling-megabill-republicans-tout-taxes-democrats-point-medicaid/story?id=123468529",
+      "image_url": "https://i.abcnewsfe.com/a/ccb0af17-9e6c-4ea2-a82c-6edd0f49b04d/trump-8-ap-er-250703_1751578102522_hpMain_16x9.jpg?w=1600",
+      "summary": "'Selling' the megabill: Republicans tout taxes, Democrats point to Medicaid cuts Republicans are touting tax cuts, while Democrats point to health care. Republicans will ‘be punished in the upcoming elections,’ Rep. Greg Stanton saysDemocratic Rep. Greg Stanton joined ABC News Live to react to the GOP megabill passing the House and heading to President Donald Trump’s desk. Fresh off a...",
+      "published": "Fri, 04 Jul 2025 13:52:30 GMT"
+    },
+    {
+      "id": "1192713487331a469d6fbe6277cef7aa",
+      "title": "Fatalities reported in catastrophic central Texas flooding - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/weather/live-news/texas-flooding-07-04-2025",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21758101-33575-353-still.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Officials report multiple deaths from catastrophic flooding in Central Texas By meteorologists Mary Gilbert and Briana Waxman, with Holly Yan, Rebekah Riess and Tori B. Powell Updated 2:32 PM EDT, Fri July 4, 2025 Debris from severe flooding along the Guadalupe River is seen in the San Antonio area in Texas on Friday. KSAT • There have been multiple deaths...",
+      "published": "Fri, 04 Jul 2025 18:21:00 GMT"
+    },
+    {
+      "id": "fd75e2818a1300b2981ea31273b83a9b",
+      "title": "US threatens EU with 17% tariff on food exports - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d947b21a-18a4-473a-8dd1-e01920c4b644",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb14ae6c8-8372-406d-a386-e0a666499d54.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. US threatens EU with 17% tariff on food exports Warning was handed to EU trade commissioner at Washington meetings US threatens EU with 17% tariff on food exports on x (opens in a new window) US threatens EU with...",
+      "published": "Fri, 04 Jul 2025 16:17:37 GMT"
+    },
+    {
+      "id": "f4aa84eb0cdf1c5ef9e8dfcad0d2c7e4",
+      "title": "ICE prepares detention blitz with historic $45 billion in funding - The Washington Post",
       "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/interactive/2025/07/03/house-vote-trump-tax-bill/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C7OXDNJM4ZCSVH7A4Y4RPFDKII.jpg&w=1200",
-      "summary": "How every House member voted on Trump’s big tax bill We and our third-party partners process personal data including through the use of cookies, pixels, and other tracking technologies to provide, analyze, and improve our services; personalize your experience (including content); and personalize ads on and off the services. Learn more and manage your preferences at our Privacy Policy.",
-      "published": "Fri, 04 Jul 2025 01:55:03 GMT"
+      "url": "https://www.washingtonpost.com/business/2025/07/04/trump-bill-ice-immigrant-detention/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QWBLJQTAOT5G7QVQVH46WCKORQ_size-normalized.jpg&w=1440",
+      "summary": "ICE prepares detention blitz with historic $45 billion in funding Much of the new allocation from Congress — larger than detention spending by the Obama, Biden and first Trump administrations combined — will go to private prison contractors tasked with doubling the nation’s capacity to lock up migrants. President Donald Trump and Homeland Security Secretary Kristi L. Noem tour a...",
+      "published": "Fri, 04 Jul 2025 14:31:50 GMT"
+    },
+    {
+      "id": "4e0d5e57ee71307cb15297d33bde1fdf",
+      "title": "Anti-Defamation League decries Trump’s use of ‘centuries-old antisemitic trope’ at rally - Politico",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2025/07/04/trump-antisemitic-trope-response-00440000",
+      "image_url": "https://static.politico.com/b1/00/716cda5148d387d0539470e8ad6a/trump-48972.jpg",
+      "summary": "Anti-Defamation League decries Trump’s use of ‘centuries-old antisemitic trope’ at rally Trump has claimed that he did not know the weight that the term, which originated in a Shakespearean play, carried. President Donald Trump used a word viewed as an antisemitic term during a campaign-style rally speech in Iowa on Thursday. | Charlie Neibergall/AP The Anti-Defamation League on Friday condemned...",
+      "published": "Fri, 04 Jul 2025 15:48:00 GMT"
+    },
+    {
+      "id": "30c57362bead94d877e4779a30bff31e",
+      "title": "Trump tells Zelensky he wants to help Ukraine with air defense, sources say - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2025/07/04/trump-zelensky-ukraine-air-defense",
+      "image_url": "https://images.axios.com/6CPerjD3QcuB_3isD9g0LBdSPG0=/0x0:4432x2493/1366x768/2025/07/04/1751640079393.jpg",
+      "summary": "Trump tells Zelensky he wants to help Ukraine with air defense, sources say Kyiv after Russian airstrikes on July 4. Photo by Oleksii Filippov/AFP via Getty Images President Trump told Ukrainian President Zelensky in a call on Friday that the U. S. wants to help Ukraine with air defense, due to escalating Russian attacks, a Ukrainian official and a source...",
+      "published": "Fri, 04 Jul 2025 15:22:31 GMT"
+    },
+    {
+      "id": "7b65eb7e7479c86d4646d1821368fde3",
+      "title": "Madre Fire, California’s biggest this year, surges to 52,000 acres - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/nation/2025/07/04/madre-fire-california/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NX2W53EUAYNW4EIIAIKCTAYIKA_size-normalized.jpg&w=1440",
+      "summary": "Madre Fire, California’s biggest this year, surges to 52,000 acres The fire sparked in the Los Padres National Forest in San Luis Obispo County and was growing exponentially, officials warned. The area is mostly uninhabited. U.S. Forest Service firefighter Kai Montes battles the Madre Fire as it makes a run along Highway 166 on Thursday. (Noah Berger/AP) A wildfire in...",
+      "published": "Fri, 04 Jul 2025 11:53:10 GMT"
+    },
+    {
+      "id": "c2bc513a785178d9f19ecc65beeb5e97",
+      "title": "School districts warn Trump administration withholding funds could bring cuts - KUSA.com",
+      "source": "KUSA.com",
+      "url": "https://www.9news.com/article/news/education/school-districts-trump-administration-withholding-funds-cuts/73-8add37de-a8ea-45dc-b55e-61b8c27a18eb",
+      "image_url": "https://media.9news.com/assets/KUSA/images/571f76b0-9d0a-4fca-8e8f-06643431529d/20250704T031300/571f76b0-9d0a-4fca-8e8f-06643431529d_1140x641.jpg",
+      "summary": "School districts warn Trump administration withholding funds could bring cuts The Trump administration announced this week it's withholding about $6 billion in federal funding for some Title programs in schools. Published: 9:16 PM MDT July 3, 2025 Updated: 9:16 PM MDT July 3, 2025 CAÑON CITY, Colo. — As programs like Medicaid are losing funds, so are schools across the...",
+      "published": "Fri, 04 Jul 2025 03:16:00 GMT"
+    },
+    {
+      "id": "c360c9bad90b2518132a94a4683993da",
+      "title": "At least 3 dead in New Jersey after strong thunderstorms sweep through the Northeast - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/thunderstorms-new-jersey-deaths-trees-hail-e8a4c85c77f714c9a974e50f3cd1fca1",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Fri, 04 Jul 2025 15:53:00 GMT"
+    },
+    {
+      "id": "97a42242e879094f08104a5da545c19d",
+      "title": "Idaho college killings: Questions remain after stunning guilty plea - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/idaho-college-killings-questions-remain-after-stunning-guilty/story?id=123458512",
+      "image_url": "https://i.abcnewsfe.com/a/e87e2a20-142f-4e46-8cae-37a53fcbde49/kohberger-ap-jt-250702_1751477296007_hpMain_16x9.jpg?w=1600",
+      "summary": "Idaho college killings: Questions remain after stunning guilty plea After nearly three years, Bryan Kohberger admitted to all four murders. Families react after Bryan Kohberger pleads guilty to Idaho college murdersKohberger admitted in Ada County Courthouse in Boise, Idaho the 2022 killings of four University of Idaho students. Bryan Kohberger has been behind bars for nearly 1,000 days. All the...",
+      "published": "Fri, 04 Jul 2025 09:04:38 GMT"
     },
     {
       "id": "b6247606a33b0cab2193dd64f2223b92",
@@ -21,169 +102,88 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbjh2aG1pOWNaeHg3dGxzZTFYNGdjS2E4d3NDbTZidlpPOWJyeXBjQWhBRHFDVjVTY2plVUNMY0RPVE5vdVdOVVNxTk82S2Vza0piUWVpWmZhWjhxSEpDWnZyZm8xQW84emxlZmE4MzJNd3hGOVNfX2VXeTdaMEtOOEJ4VXhfd0xFRVJnMERR0gGTAUFVX3lxTE13ZTB1MktkdHpXRVM2eU5KWVd0Q2MyWDJLM1JFMHNHNlpJeWk1a2trckJCN3Uzc2JqNzdyaEJFS1FJV0xvVEZUM0VxZllRTWtJTDhLZmlSUm0tUkJsUnVJbTFnQ3VLRGZUNDlyVDZ6VlpMV2IwZ3FVSXRXS2t0c3lDUFVXa3R0aW03UGR0NW1EQXNxcw?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 08:13:00 GMT"
+      "published": "Fri, 04 Jul 2025 15:05:00 GMT"
     },
     {
-      "id": "f0ce75d9dd0dbc2058c2fa28482fc47f",
-      "title": "How the GOP spending bill will fund immigration enforcement - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill",
-      "image_url": "https://images.axios.com/BVt-U312IcA6AqFe2N6zT1AiCbo=/0x0:1920x1080/1366x768/2025/07/03/1751574798849.jpg",
-      "summary": "How the GOP spending bill will fund immigration enforcement The Big, Beautiful Bill, passed Thursday by Congress, dramatically increases funding for immigration enforcement in accordance with President Trump's policy priorities. Why it matters: The funding will allow the Trump administration to approximately double immigrant detention capacity, significantly bolster immigration enforcement personnel and potentially exacerbate backlogs in the court system. The...",
-      "published": "Fri, 04 Jul 2025 08:08:03 GMT"
+      "id": "d74a2ad9ae40a6968aabf2882e4119ab",
+      "title": "Dozens of Palestinians killed by airstrikes or shootings while waiting for aid - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/mideast-wars-gaza-aid-hamas-ceasefire-c263f8ecf5f432f2da2bcbbd0938c623",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Fri, 04 Jul 2025 12:39:00 GMT"
     },
     {
-      "id": "3f33673bd5f7316cd628d57346675f06",
-      "title": "What have tariffs really done to the US economy? - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c4gkxkq21nwo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f4e3/live/537ab9e0-58a7-11f0-89e2-79ed31792589.jpg",
-      "summary": "What have tariffs really done to the US economy?",
-      "published": "Fri, 04 Jul 2025 07:03:30 GMT"
-    },
-    {
-      "id": "f2c2e43092b1723f42daa50f1b43dfeb",
-      "title": "Congress passed no tax on tips in Trump's 'big, beautiful bill.' Here's how it works - NPR",
-      "source": "NPR",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMmhBejBIYlJlS3ZDYXZrVDh3RzJoUGhsUHRnYzBvYzdPcVRvZ1dQUWhmZnF0aHdmMzExU2xOTW82VDNoUjlmeUNsUnhzbndYMEplWFI5eXNobWwxN01DNEphSFotLUh6Q2NlVm5BcTlBd0ZqTVFROHB0YXZPMEJuSVR0dkhmeGxxcVl1RGpTQXgxcE51?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "id": "1cff0e864509c6e2dfed3b8052dcc8da",
+      "title": "Indian minister backs Dalai Lama's position on successor, contradicting China - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/india-backs-dalai-lamas-position-successor-contradicting-china-2025-07-04/",
+      "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 21:22:55 GMT"
-    },
-    {
-      "id": "97a42242e879094f08104a5da545c19d",
-      "title": "Idaho college killings: Questions remain after stunning guilty plea - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeERGMGhFZUdnYUEzTHB2MjFXTHdpLVZJd01jTC1DTHVPN2NkRWxGSGNtNnJ0ZGtHQWxCZVVZOC1TbVJ3QmZ4YklZN2R4WkdWYkZoVGY5TVhDLTN5Tks3Vk5UUjdKaTFqNVB5M1ZESXRTVHJBZnB2VEdIdF91Q2dLbnFRM0JOSVZ2RHY4a2t5TG1WZ014UThvUHMtYUNJWmpSaUotX2d2QmVCQdIBrwFBVV95cUxPYXVmR0FHYW5lWjFKcUZyald0ZllTRlZQUWhkbVFVaTNnNTRWakw2SVZvMWJ6bWxrd3VIZHlYQ21TUXlVekNWQkxSZDg2N0RqMXBLVkFUdE9BNTE3Y2pkQlBrUXVCOWZDMzJsUlJhRFNTQjlIRnVDNExtdDZITkZRbDFHMjZxREluNEN5WGNhNFdaTFhRMzJ1Qkpud2UyMUVDRkhvUmo3Y1ctYzMxa1lJ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 09:04:38 GMT"
-    },
-    {
-      "id": "cd7808c71c249d9eb6833bb50d7ae3cd",
-      "title": "White House to host UFC fight, US President Donald Trump says - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iajM2NVRGVjdjSVZiX2NLNFVReVZnYjdWQXlxTjVmbS1WMUpIZ3U0d0pCUE5QcldPajlkeVRxbnRVNXZnMjBGcXdxUDhPWHd3M1RtRUtiQ2lCd9IBX0FVX3lxTFAzYVFhYVpwRmVMampoNkZiYV9ZYm9fZTVBZlhyTUJ2R09KSWtlR3c3bHhrLVo2OUhSeTNUajFOZkhZMzhuVnFCdENtUVRwVHBubWdXVEt5dHZnazhrTXRn?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 10:01:40 GMT"
-    },
-    {
-      "id": "0bfc962d9285bbec63daaa1995e8ae93",
-      "title": "Madre Fire explodes in size to become California's biggest this year - Axios",
-      "source": "Axios",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpSTBRcU1la09JNkZTUElPVzh2eV9Yc25jcDFkenVfUEg1STk2UzFldk1zaW5Jdzc5eFFVVjB1cEczSzExZGdyUkpIbXI5LUh2R1dGNU5MREc3dllFV09tODQ0cjlJem1aeUhCMDk4TWR6cGFiQ3c?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 04:36:45 GMT"
-    },
-    {
-      "id": "f1433c7c45504fea8b7319dfac0e9f66",
-      "title": "How Trump’s big bill will affect you, from Medicaid cuts to tax credits - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUHRpWGxNZl81OGJfU1M5MGhncFh2blZhTlZTX2ROVW82NHRpNzFIYWlJaWNRVks5Q2hMVnlzczg0R0lxWlNlb3dZbndFemVfRWJTUHVBcUlnanpDeEdXNmZ3UGtWcWtSWUZ6MThsX284TlFoT1NvdnpZcE8wTjRLR3dCOXFWSW5fbklqOTN4N1RmZXExYjFEdg?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 03:53:56 GMT"
-    },
-    {
-      "id": "f12f0b3949a1881c63637f1517506b87",
-      "title": "Hegseth halted weapons for Ukraine despite military analysis that the aid wouldn’t jeopardize U.S. readiness - NBC News",
-      "source": "NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMUpnMFNJQVZuT1UyeXVRZ3FMZWp4NWlDNy1MNFlRa2JLekt0RmlUQnBXY0M5Y0lra0MxdHZmdm9FR2hYVVQ2bnBuZjFNd0hydUUtRURrY2ZheXdxcFVGSVliVWhxU292VUllNEhPd25KM3Y1ZlphS2hRQ21BcTNPNTZMcUxDU2gwcFZaZGNxaWdXY1pvbDA2UklFUlJfV0FkSDRuSmh4OUNxVGZ6T3RZSngzOUJibUZfaS1z0gFWQVVfeXFMTVh4bnlYcjNOVnJmTy1tZ21fcWU3OUxROW5LekZ1aE8zODFGT056Y1k1Wm1hV1FpeGpXWlpyY0lON2pIUHBQMzBsOFd6ekhXUFdwMGh5cnc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 10:00:00 GMT"
+      "published": "Fri, 04 Jul 2025 13:32:25 GMT"
     },
     {
       "id": "b32f1a26df0b638be432aba8d24dcb29",
       "title": "Trump says Hamas response to Gaza ceasefire-hostage deal should come in 24 hours - The Times of Israel",
       "source": "The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1F6VjhIazc0dmdQYXZBR1dJd1BoakJ5SjI0cDVRSU4yN1ZZQ21aaENTNHFoMFVrLTNvTHVwblY2UWRNYUZGbWdBQVJhcnowNkN3V3NOOHE0WE14Yk14WHZkMWJGMDVjZzdSMUE2N3VsbEU0d2M5NUhkaTVpUV85Y2tCWHFNRVN2bFpJOGswVGxOTDFyTlVHTldQOWFYeE91dW8zNE5UcGRzVWsxd2xGT9IBtgFBVV95cUxOaktwTi1kYWozRXM4cGpLZUxkUGxPQzR1ajZ2WG4yRTNpeWZGX2dvVzhnZFZiZFB2TUVYS2tJU0dnSzJsRjdSLW8tcENmRzJTdS1ua1l6dERJYnItWUtTT0haTzlDa2ZRalhUM29WaTlJd2xxSHJBZUNXY21KNklUanZvOGxybXZJbU11bTk3VE1PZGFxYVUwQUVwWkJrUHg2UTJFd2tNVENxdGxndEY4ckFFbTVjZw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.timesofisrael.com/trump-says-hamas-response-to-gaza-ceasefire-hostage-deal-should-come-in-24-hours/",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/07/AFP__20250704__64QK6Q8__v5__HighRes__UsPoliticsTrump-e1751621029627.jpg",
+      "summary": "Trump says Hamas response to Gaza ceasefire-hostage deal should come in 24 hours Terror group said to show ‘flexibility’ on issue of disarmament, may agree to exile symbolic number of officials; says it will respond after talks with Gazan factions By REUTERS, TOI STAFF and NURIT YOHANAN US President Donald Trump talks to journalists as he arrives at Joint Base...",
       "published": "Fri, 04 Jul 2025 10:45:55 GMT"
     },
     {
-      "id": "3374b7f96463b83a6f33e0ea60f1ab58",
-      "title": "North Korean crosses the heavily fortified border to South Korea - NPR",
-      "source": "NPR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVzRhMG5PMmxybVNtMHdQaU5wZU1WZ0dEVnE0UlJhTk1razYzSTVhRWVHa3YyRzF3aWFmZTZocEM1Rl92VjZhUy1salRqbzF6RGZSb3pNWENwWjJ5aWt4QlQwS2FJUzI3eTlxNlRZMktNVEkzVGdhQTVqeGVtcG1objBLMTlrNXZxN2tQWg?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 07:49:17 GMT"
-    },
-    {
-      "id": "b671a5691d4f81e9b8fcfb98737e3156",
-      "title": "Wildfires on Greek island Crete force thousands to evacuate - CBS News",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Lb01BQ2dsSWdyZ1JSSDJtbjRUMHlWUlJ6ZXVKMi1keHlMOHZFekdCblh0ZzlvUXNjYllHNW1meVNsVDRqeWxZc2U5ZnhJTHZndWtObjBENE1qSkl5ajl3Z2ZpOUo5QmxLX1JjWnlhTnZYUdIBd0FVX3lxTE9TcnFobHY4alNtNjhKYVN0QWx4NW5SR3VFTldZNVgtU0ZQUTdaSFhxamJydGJkTkNIcVhncDctdVlFd3dDOFVnZmVhZzVyTnhsaFIxZi04RzBYcDV3VFhwZ19aSTVNb1dZUVdMNUNZemZCZ1ZkdE1v?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 16:57:38 GMT"
-    },
-    {
-      "id": "3a92d883f6fb59f17bbb7bf5e5d50ff8",
-      "title": "Organization denies AP report that US contractors at its Gaza food distribution sites used live ammo - AP News",
+      "id": "1ab7ca22ecdf6ef3f5b5c22f4be733eb",
+      "title": "What’s open and closed on July Fourth - AP News",
       "source": "AP News",
-      "url": "https://apnews.com/article/gaza-contractors-live-ammo-palestinians-81393c54beb73909320419926d693ebb",
+      "url": "https://apnews.com/article/july-4-stores-open-closed-costco-5f3c956aade6f83758670c9c7e1fe341",
       "image_url": "https://apnews.com/favicon.ico",
       "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Thu, 03 Jul 2025 19:58:00 GMT"
+      "published": "Fri, 04 Jul 2025 09:09:00 GMT"
     },
     {
-      "id": "81060d83afd766c56deec9cce4b48c7a",
-      "title": "What’s open and closed on July 4, 2025 - CNN",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92RXFBeVNNWm9tZjFNaXpRNXRNYnZ5b2o0NmllT2w1eUlQOE9sRWFuTjJ2ZU9rdVJrRXBPXzBkTXozSE9zQ1lINTFRSUszZ3Y0aTM3MHRzeXdTRXZ1d3pQczdfV2RzQUY5LXlvMk1vbjBRUEsxcmN3cVdaZWXSAYIBQVVfeXFMUG5LbXJMLWFKekpjTkYxZmptbnBNZUpYbGpxdmpEMy1rdlhkaWdpdFk2X2hTOW9mWkdPWWRCNE5CeWZiSDdYdHkxMlBNUXhKRzhfa21jY0gxRlNNanRWd2tPOUdvRnl1SE9jLVdJdzJaeExpZXFEZVkxcHpqQUNQc0J2Zw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 09:00:00 GMT"
-    },
-    {
-      "id": "c5832213dc74e1bf0ba52ec06c20fecc",
-      "title": "A strike by air traffic controllers is disrupting travel to, from and over France - AP News",
+      "id": "cf2e6259977ec51dfd859f2db5cabf18",
+      "title": "Strike by French air traffic controllers causes flight delays and cancellations - AP News",
       "source": "AP News",
       "url": "https://apnews.com/article/france-strike-air-traffic-controllers-baa290e6594404bf260e8031b393edc2",
       "image_url": "https://apnews.com/favicon.ico",
       "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Fri, 04 Jul 2025 09:43:00 GMT"
+      "published": "Fri, 04 Jul 2025 15:20:00 GMT"
     },
     {
-      "id": "5899d6785b3f7f5d6648a7aba8cc667c",
-      "title": "CNBC Daily Open: Divergence between official and ADP jobs reports reveals two labor markets - CNBC",
+      "id": "35f6e85664cd4244bc2c27fea69362eb",
+      "title": "Some international LGBTQ+ travelers pull back on U.S. trips: 'Why would I go there?' - CNBC",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/07/04/cnbc-daily-open-official-and-adp-jobs-reports-reveal-2-labor-markets.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108167912-1751608796706-gettyimages-2222165155-l1056074_fkt2gwar.jpeg?v=1751608827&w=1920&h=1080",
-      "summary": "CNBC Daily Open: Divergence between official and ADP jobs reports reveals two labor markets The U. S. economy added more jobs in June than expected. New records for the S&P 500 and Nasdaq Composite. Indian regulator temporarily bans Jane Street from market. Trump’s massive bill passed by U. S. government. Amendments to Trump’s bill give relief to European renewable firms.",
-      "published": "Fri, 04 Jul 2025 06:30:01 GMT"
+      "url": "https://www.cnbc.com/2025/07/04/travel-pride-lgbtq-united-states.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108165702-1751287087805-gettyimages-2222113527-McGregor250629QueerLiberationMarch01.jpeg?v=1751478653&w=1920&h=1080",
+      "summary": "Some international LGBTQ+ travelers pull back on U. S. trips: ‘Why would I go there? ’ Bookings for queer-friendly housing accommodations in the U. S. on the LGBTQ+ travel platform misterb&b saw a 66% decline among Canadian users and a 32% decline among European users from February to April compared with the same period in 2024. The majority of users...",
+      "published": "Fri, 04 Jul 2025 12:00:01 GMT"
     },
     {
-      "id": "19b9c1c5b5bdefaaa4a6642cd407d3e6",
-      "title": "S&P 500 futures and dollar dip as Trump revives tariff tension - MarketWatch",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/s-p-500-futures-and-dollar-dip-as-trump-revives-tariff-tension-2cc83ada",
+      "id": "bca8c17464a50fe25cba224d15ce872a",
+      "title": "While Working on the Set of ‘Entourage,’ She Came Up With an Idea for a Business - WSJ",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/business/entrepreneurship/repurpose-business-lauren-gropper-d82d9234",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 09:37:00 GMT"
+      "published": "Fri, 04 Jul 2025 14:00:00 GMT"
     },
     {
-      "id": "0952f19d42f87f7f5e9b20f6f23fec60",
-      "title": "Google Pixel 10, Pixel 10 Pro, Pixel 10 Pro XL and Pixel 10 Pro Fold storage variants revealed by new leak - Notebookcheck",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Google-Pixel-10-Pixel-10-Pro-Pixel-10-Pro-XL-and-Pixel-10-Pro-Fold-storage-variants-revealed-by-new-leak.1050807.0.html",
-      "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Pixel-10-series-storage-leak.png",
-      "summary": "The best photo smartphone in 2025? Vivo X200 Ultra review Aiming for the top: Honor 400 Pro smartphone review Turning away from Qualcomm - Xiaomi 15S Pro review Puts photos in motion – Honor 400 review Nubia Z70S Ultra: Retro design meets modern tech A 5. 8 millimeter-thin endurance marvel: Samsung Galaxy S25 Edge smartphone review EU energy label: The...",
-      "published": "Fri, 04 Jul 2025 05:24:00 GMT"
+      "id": "44c6ee0de48eaa7f839c4dbd6e2d0ba5",
+      "title": "First Google Pixel Buds 2a leak comes with a surprise color for an existing model - Android Police",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/first-google-pixel-buds-2a-leak-comes-with-surprise-color-existing-model/",
+      "image_url": null,
+      "summary": "The webpage at https://www. androidpolice. com/first-google-pixel-buds-2a-leak-comes-with-surprise-color-existing-model/ might be temporarily down or it may have moved permanently to a new web address.",
+      "published": "Fri, 04 Jul 2025 04:16:00 GMT"
     },
     {
-      "id": "f3d3c314cdeb0ccdba07cc08345cd0d4",
-      "title": "Google Pixel Watch 4 case colors and new band options leak - 9to5Google",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2025/07/04/pixel-watch-4-case-band-colors/",
-      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/pixel-watch-3-bands-1-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "summary": "Google Pixel Watch 4 case colors and new band options leak Compared to the Pixel 10 series, the Pixel Watch 4 has yet to extensively leak this cycle. That’s now changing with details about Pixel Watch 4 colors across cases and bands. Based on renders in April, the case design is mostly unchanged. The lack of charging pins on the...",
-      "published": "Fri, 04 Jul 2025 07:40:00 GMT"
+      "id": "48b5067e48a972e64290aa5497692ffe",
+      "title": "New discovery shows Nintendo Switch 2 dock supports VRR even though it doesn't work with the system - Nintendo Everything",
+      "source": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/nintendo-switch-2-vrr-dock-support/",
+      "image_url": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-2-VRR-dock-functionality.jpg",
+      "summary": "Switch 2SwitchSwitch eShopamiiboMobile Split Fiction review for Nintendo Switch 2 [Let’s Talk] How are you feeling about Donkey Kong Bananza? New discovery shows Nintendo Switch 2 dock supports VRR even though it doesn’t work with the system Posted on July 4, 2025 by Brian(@NE_Brian) in News, Switch 2 A bit of an odd discovery has been made as Nintendo Switch...",
+      "published": "Fri, 04 Jul 2025 12:35:21 GMT"
     }
   ]
 }
