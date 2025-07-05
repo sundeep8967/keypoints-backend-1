@@ -1,63 +1,27 @@
 {
   "metadata": {
     "source_file": "data/news_trending.json",
-    "generation_time": "2025-07-04 20:40:03",
+    "generation_time": "2025-07-05 02:40:40",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "fc7fc7db0fe43bbf8a25a457a5582927",
-      "title": "Little Rock crime stats trending downward - thv11.com",
-      "source": "thv11.com",
-      "url": "https://www.thv11.com/video/news/local/little-rock-crime-stats-trending-downward/91-93950734-d185-4b65-84f0-84bd7eaae7a3",
-      "image_url": "https://media.thv11.com/assets/KTHV/images/af5123b6-58ca-410d-aa36-290fc7d3fa88/20250704T141618/af5123b6-58ca-410d-aa36-290fc7d3fa88_1140x641.jpg",
-      "summary": "Little Rock crime stats trending downward City leaders are reporting historic reductions in crime thanks to a coordinated effort to improve public safety. Published: 9:16 AM CDT July 4, 2025 Updated: 9:16 AM CDT July 4, 2025 How Much Money Should You Have Before Hiring a Wealth Advisor? Considering a financial advisor? Here’s what to know beforehand. Here's The Average...",
-      "published": "Fri, 04 Jul 2025 14:08:00 GMT"
+      "id": "477d1cd7614e82c81b30977c68a41064",
+      "title": "Trump SIGNS ‘Big, Beautiful Bill’ Into Law | TRENDING - NEWS10 ABC",
+      "source": "NEWS10 ABC",
+      "url": "https://www.news10.com/video/trump-signs-%E2%80%98big-beautiful-bill%E2%80%99-into-law-trending/10865290/",
+      "image_url": null,
+      "summary": "Press & Hold to confirm you are Reference ID 31dc2010-5945-11f0-8ead-bf97ecd1a271",
+      "published": "Sat, 05 Jul 2025 00:11:00 GMT"
     },
     {
-      "id": "026b8e8671fe8f419f4f8e593d404db2",
-      "title": "Top 3 Trending Stocks, According to Analysts – 7/4/2025 - TipRanks",
-      "source": "TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWxxRDFLcGM4MGtSX0lCSGJlSmRjR2pCQ2w0TE5CRkFOdzhGZG1rbDQtb0VGME1XNmxBU0JodzE0TUhmWVJVR1VnSUExakRwSjA0M0haaXpaWWZXWnhUZnF4aE0wei1zbVY3ZGR0eTVfS1FTVVlqY1ktRkJERlNFVDBsRWpwN2VEbVE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 15:39:53 GMT"
-    },
-    {
-      "id": "cc75397482114670e19e0ac2b3a912f4",
-      "title": "Exxon Mobil Corporation (XOM) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNjJfWG1jLVVLYkJ1UEtTeGN3TEY5NkdnNG1wZVVhZ21EcEhuMEh1ekFzWVl1aUIwelFHeUNFRkJLOHJabmpNaGw3LUJsZjVzTG13bkRvSUZDc1Z1MXRyM1RVTmxHTzMxMFJ5UFhjRGU4LUYyVDV5TGNmbkxQUkxUdEhaTVBnZVg4eUZESWc3SDJ3SGdtTUl3?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 13:00:04 GMT"
-    },
-    {
-      "id": "64b7ea953b4912632ee2353a5191666f",
-      "title": "Trending: Stacy's Covered Bridge Restaurant closed ‘for the time being’ - Cottage Grove Sentinel",
-      "source": "Cottage Grove Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORTdrMWZYSjNzbTctZW9XYmVtcVhselZ5bjdvSDRDSWhFWktqS0JCeWFFdldqYmFnX2pBdW4tN2o5VDktQXhfNmxVcXdicFMtc1pHYWEteEtxS2FRMEdwS2hzQm9zZmNWUWpjQk5MRkJXMm9wM29TajZxNmxJVzJORk1wSXJqeDFnVUZEa0U2NDJOS21VS2FWM3FIM2tmZk9Na0NFZ3dfcHNHRWlMODNQVnFuSHJNMGxGa1ljV2tHVVJoaUtaZEVoc0NMaU1hZmpPRk5qbk5JX05FWHdoOWJBdFNUMA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 13:00:00 GMT"
-    },
-    {
-      "id": "6a22a02854bc25c18043ce966f4f1ff8",
-      "title": "6 trending Austin-area stories: Georgetown pool updates; new Leander restaurant, AI-assisted colonoscopies and more - Community Impact",
-      "source": "Community Impact",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZVJXbmM1Q3RzcGlYRnBFZWpEOW9PVUVQNFJJdXVKMmpZeXpPZ2tDcXNDc09aaTd1Y3BUWS0wRXdxWDBEdlJyRi1yeFJ0NHF2aDF3bTB1SnFaaVV5T1dMNjFpV1pQQ2RHeWJzS2Y3NGlhR21fRWVfWF9HekRiOGtKTjhEbkhiOG0wVlNpZ2E1a3piTExYS3ZwTlRMUmo4N0ZIUGljWmExQXVuZGR3RU1tLTZ2cHdyMjd5WVNCX1hvQ2RtdktRZzZDNEN6SFlxUjk3UUJEQ3NiT1R6Rm01R2J6NzdfNU9lQ1luOFVxMWlaQmY3QjRTbU53WWw2emk2NWY2S1BWTzZkT25aLVhBUVJSc1J3WEJjM096?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 11:10:00 GMT"
-    },
-    {
-      "id": "c6f2f711f874c1beee2821bb793df27b",
-      "title": "Northeast Ohio weather: Sunshine-filled Fourth of July, trending warmer - Cleveland 19 News",
-      "source": "Cleveland 19 News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaU9aRXNrS2hYX1dXd01ENjJEVGtwRzJPSVY5cThLdmhYYWRsZ1BKTlphVm55ejVCSlZDSFgzVzgzV1FaLVBMX1BKdzhFVDlXX3ZOcTI5NlRneHFDZ2c0X1R1M09JVDBVNE5WWFA1QU5JVWxFYUcyQkJmX2hRT3dCM2dJeURzUmhHZHJlQVNteC12MmdNMzhpM3VyT0ljVnJ3UkFiU0RWN1hJOXl5NmpmSy0xc1E?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 11:24:00 GMT"
+      "id": "026b9303774e567b9a0277482226b8d0",
+      "title": "Trending: 1 of the '10 Strays of Christmas' was adopted by a KTVB employee's family - KTVB",
+      "source": "KTVB",
+      "url": "https://www.ktvb.com/video/news/local/trending-1-of-the-10-strays-of-christmas-was-adopted-by-a-ktvb-employees-family/277-26c61dca-9316-4a0c-bfb3-b90cafd805ca",
+      "image_url": "https://media.ktvb.com/assets/KTVB/images/6744bc2c-1766-4ad2-b4f6-8ba6a6d22622/20250704T224838/6744bc2c-1766-4ad2-b4f6-8ba6a6d22622_1140x641.jpg",
+      "summary": "First Alert Weather: Watch live radar tracking the storm Trending: 1 of the '10 Strays of Christmas' was adopted by a KTVB employee's family Damien wants to remind people to keep their dogs safe this Fourth of July and enjoy the Trending segment. Published: 4:45 PM MDT July 4, 2025 Updated: 4:45 PM MDT July 4, 2025 7 Wealth Tips...",
+      "published": "Fri, 04 Jul 2025 22:45:00 GMT"
     },
     {
       "id": "b0b9b43bdbd860ce5ac2c692cc6c2abe",
@@ -69,31 +33,31 @@
       "published": "Fri, 04 Jul 2025 18:01:00 GMT"
     },
     {
-      "id": "6b8b3a3967d302c1d1b873ce6333742e",
-      "title": "Look ahead: Rounds of storms for Central and Southern US - AccuWeather",
-      "source": "AccuWeather",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLXhtbUhMREVNZEFQZ1piTjdfX01RYmk5Y2NHRVBza0hZaGlUV1lpd2Q3V3ktUFo0QWV0UmR3TXBCUnlmc2ZOdHlyUC1lbXc0T1hTbnZpWGxpUUpoQTdwWWo5YzVuTjVfTnNxc2FjNm9CTzNqSkw3Ul9ZeGNJR1phd2w3eUxmd2lBdlRGUVhTNlpkeHV6SkZqeXVacVVGdFp3QWZZSGZIZjAtU1dDY0ptQTcweGFEWDNOWVMtVlZXLWx3b1FEVkpwVDVn?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 14:20:32 GMT"
+      "id": "21e11ada83b0d08d16bd8972cad03d71",
+      "title": "Northeast Ohio weather: Sunshine-filled Fourth of July, trending warmer - Cleveland 19 News",
+      "source": "Cleveland 19 News",
+      "url": "https://www.cleveland19.com/video/2025/07/04/northeast-ohio-weather-sunshine-filled-fourth-july-trending-warmer/",
+      "image_url": "https://gray-woio-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F07-04-2025%2Ft_41deb7b001f1455298db447f2ce37feb_name_file_1280x720_2000_v3_1_.jpg?auth=4d6475c404a36bf63eb1ec0534f7e44946fa8f33e85885ce3c486bbd05f66c86&width=1200&height=600&smart=true",
+      "summary": "Dismiss Weather Alerts Alerts Bar Northeast Ohio weather: Sunshine-filled Fourth of July, trending warmer Published: Jul. 4, 2025 at 4:35 PM UTC|Updated: 10 hours ago Email This LinkShare on FacebookShare on X (formerly Twitter)Share on PinterestShare on LinkedIn Northeast Ohio weather: Beautiful night for fireworks; turning hot this weekend Northeast Ohio weather: Sunshine-filled Fourth of July, hotter next couple days...",
+      "published": "Fri, 04 Jul 2025 16:35:00 GMT"
     },
     {
-      "id": "066995d35053a3f60cd09225e271b029",
-      "title": "Trending mortgage rates - firsttuesday Journal",
-      "source": "firsttuesday Journal",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02aTU2SUhEbk8xaDREWUk4cGZIRHAzLXZ4Q3Vuak5PZFpoNkF5V0lMR1F1UlJrNUZZMVhWcGxxMjVJLWpUczE3VVBUNm90YTdqbWg3cDdOdVA3bjZSUkhFZkFEZmEyWWZsbEE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 00:27:21 GMT"
+      "id": "026b8e8671fe8f419f4f8e593d404db2",
+      "title": "Top 3 Trending Stocks, According to Analysts – 7/4/2025 - TipRanks",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com/news/top-3-trending-stocks-according-to-analysts-7-4-2025",
+      "image_url": null,
+      "summary": "Your request was blocked by Link11 Web Application Security. If you believe this is the result of an error, contact the administrator of ID: b0c602427fb01517cbf45826b8c59d51, IP Address: 104. 42.129.137, Status Code: 471 Timestamp: 2025-07-05T02:11:19. 273249618+00:00 The request you submitted was identified as a security threat. It was rejected before reaching the server. 1. Verify access: Ensure that you are logged...",
+      "published": "Fri, 04 Jul 2025 15:39:53 GMT"
     },
     {
-      "id": "0dd27609734b53061a65e2aa69c5fe20",
-      "title": "Virginia Tech Football: Is Recruiting Trending Up for The Hokies After Recent Four-Star Commitment? - Sports Illustrated",
-      "source": "Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZk43R2xvYmxZdWVIMWhEM2pnV2VRRDVpSE1XVjVqcGlvenc2d1lKdEExdTJFSkRnMFdxZ3QzSlJ6Q0luTkxWamJ5b2lEamxYbjRRcWhFM1FNbmlCSnpERHZPRVA1dU1HckYwU18tM0d5Ri15QktTVGZsNmlsSTJERFJjS2hxZm5DT3pSN1J3UE5Yb1JzYVA5UjU1dUR4cjMxb2NRMGFRYWhTaEhqYWpGLXRCMlRJSEdITVlvb2xQZkphcmtnNkp3ZVY2RzBab1pFc01iaWN5VjU0ampxc29DempHUnB5Y2hsZ1hKeVlfU0M?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 18:13:52 GMT"
+      "id": "c9bbefee81a89b014831477b378fcc35",
+      "title": "Dan Lanning's Oregon Trending for Recently Decommitted 340lb IOL - MSN",
+      "source": "MSN",
+      "url": "https://www.msn.com/en-us/sports/other/dan-lannings-oregon-trending-for-recently-decommitted-340lb-iol/ar-AA1HJ52L",
+      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GGEFs.img?w=612&h=408&m=4&q=79",
+      "summary": "Upgrade your Chrome browser with MSN New Tab Get localized weather, trending news, AI powered search and more Dan Lanning's Oregon Trending for Recently Decommitted 340lb IOL Story by Malabika Dutta • 3d • 2 min read NCAA, College League, USA Football: Rose Bowl Head Coaches press conference, PK, Pressekonferenz Dec 31, 2024 Los Angeles, California, USA Oregon Ducks head...",
+      "published": "Fri, 04 Jul 2025 22:51:43 GMT"
     },
     {
       "id": "074ed18e0be49f838438bd67686967f3",
@@ -101,7 +65,97 @@
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/news/nio-inc-nio-trending-stock-130005248.html",
       "image_url": "https://media.zenfs.com/en/zacks.com/3496571a811465d910e99bd171c71a94",
-      "summary": "NIO Inc. (NIO) Is a Trending Stock: Facts to Know Before Betting on It Fri, July 4, 2025 at 9:00 AM EDT 5 min read NIO Inc. (NIO) is one of the stocks most watched by Zacks. com visitors lately. So, it might be a good idea to review some of the factors that might affect the near-term performance of...",
+      "summary": "NIO Inc. (NIO) Is a Trending Stock: Facts to Know Before Betting on It Fri, July 4, 2025 at 6:00 AM PDT 5 min read NIO Inc. (NIO) is one of the stocks most watched by Zacks. com visitors lately. So, it might be a good idea to review some of the factors that might affect the near-term performance of...",
+      "published": "Fri, 04 Jul 2025 13:00:05 GMT"
+    },
+    {
+      "id": "27273d708e07e9b1215ee003e5806eb2",
+      "title": "Fireworks celebrations across the US - AccuWeather",
+      "source": "AccuWeather",
+      "url": "https://www.accuweather.com/en/videos/fireworks-celebrations-across-the-us/1b815ab8-58a8-4662-b11b-46dc48b68dce",
+      "image_url": "https://img.connatix.com/1b815ab8-58a8-4662-b11b-46dc48b68dce/1_th.jpg",
+      "summary": "Unconfirmed number of fatalities in Texas flooding amid catastrophic rainfall. Read here Tropical depression expected to strengthen before landfall in South Carolina. Get details Forecasters expect tropical depression to strengthen before landfall in South Carolina Independence Day floods leave multiple people dead in Texas Rescuers save person clinging to an electric pole amid Texas floods Huge dust devil interrupts Oregon...",
+      "published": "Fri, 04 Jul 2025 20:28:50 GMT"
+    },
+    {
+      "id": "fc7fc7db0fe43bbf8a25a457a5582927",
+      "title": "Little Rock crime stats trending downward - thv11.com",
+      "source": "thv11.com",
+      "url": "https://www.thv11.com/video/news/local/little-rock-crime-stats-trending-downward/91-93950734-d185-4b65-84f0-84bd7eaae7a3",
+      "image_url": "https://media.thv11.com/assets/KTHV/images/af5123b6-58ca-410d-aa36-290fc7d3fa88/20250704T141618/af5123b6-58ca-410d-aa36-290fc7d3fa88_1140x641.jpg",
+      "summary": "Little Rock crime stats trending downward City leaders are reporting historic reductions in crime thanks to a coordinated effort to improve public safety. Published: 9:16 AM CDT July 4, 2025 Updated: 9:16 AM CDT July 4, 2025 7 Wealth Tips for a $1,000,000 Portfolio How do successful retirees take steps to preserve their wealth? Download The Seven Secrets of High...",
+      "published": "Fri, 04 Jul 2025 14:16:00 GMT"
+    },
+    {
+      "id": "01a0d6d49161bbde62a9b6c4763a5485",
+      "title": "Against all odds, Nick Allen's bat seems to be trending upward for the Braves - House That Hank Built",
+      "source": "House That Hank Built",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWkdCc0c4N0FON2FoLVo5aDViVXhuODM0dVB1NzNzWl83dE9FT2FnWjRjTXNRUjZ0Q1NLYVpsTHlBcDhTanZIaXIxN2l2Ti1HWnAzRlY4QWhueVZETUk1cC1Zamw3WU95amVydGdDclFCS2d5NGV4bVd6T0E4UjRSMXRWS0FFeFJSRmhfT3g0OUFMWHhRdm1EV2FmSzFST3F4VkFJ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 04 Jul 2025 20:44:00 GMT"
+    },
+    {
+      "id": "64b7ea953b4912632ee2353a5191666f",
+      "title": "Trending: Stacy's Covered Bridge Restaurant closed ‘for the time being’ - Cottage Grove Sentinel",
+      "source": "Cottage Grove Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORTdrMWZYSjNzbTctZW9XYmVtcVhselZ5bjdvSDRDSWhFWktqS0JCeWFFdldqYmFnX2pBdW4tN2o5VDktQXhfNmxVcXdicFMtc1pHYWEteEtxS2FRMEdwS2hzQm9zZmNWUWpjQk5MRkJXMm9wM29TajZxNmxJVzJORk1wSXJqeDFnVUZEa0U2NDJOS21VS2FWM3FIM2tmZk9Na0NFZ3dfcHNHRWlMODNQVnFuSHJNMGxGa1ljV2tHVVJoaUtaZEVoc0NMaU1hZmpPRk5qbk5JX05FWHdoOWJBdFNUMA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 04 Jul 2025 13:00:00 GMT"
+    },
+    {
+      "id": "ab6ef96078c161dee9e9f0db62db6ca3",
+      "title": "Gators on the verge of landing 4-star linebacker? - On3.com",
+      "source": "On3.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPREM3ZEFSZGYzWmNOOG5rS0Ftd0MxbkRpVURSTnc1UHB1T21lNVVwVDBxRkJGVER3WjRHY3VsT1BuZjRxTW5QZTFVSG1ibHQ4dGQzYURLTk1NdWdxX1ZtYTc3M0xXMVA0Mnc2ZU9yVGxNZmpISUhicG52YlRiTTNjZjVZYVRDRDVFblh1RDgxcnZHa01TOGJFTjJoQXQ0Tm1sWnJnUVItSjhsSmpjdVFydThaVWFxZw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 04 Jul 2025 19:46:14 GMT"
+    },
+    {
+      "id": "6a22a02854bc25c18043ce966f4f1ff8",
+      "title": "6 trending Austin-area stories: Georgetown pool updates; new Leander restaurant, AI-assisted colonoscopies and more - Community Impact",
+      "source": "Community Impact",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZVJXbmM1Q3RzcGlYRnBFZWpEOW9PVUVQNFJJdXVKMmpZeXpPZ2tDcXNDc09aaTd1Y3BUWS0wRXdxWDBEdlJyRi1yeFJ0NHF2aDF3bTB1SnFaaVV5T1dMNjFpV1pQQ2RHeWJzS2Y3NGlhR21fRWVfWF9HekRiOGtKTjhEbkhiOG0wVlNpZ2E1a3piTExYS3ZwTlRMUmo4N0ZIUGljWmExQXVuZGR3RU1tLTZ2cHdyMjd5WVNCX1hvQ2RtdktRZzZDNEN6SFlxUjk3UUJEQ3NiT1R6Rm01R2J6NzdfNU9lQ1luOFVxMWlaQmY3QjRTbU53WWw2emk2NWY2S1BWTzZkT25aLVhBUVJSc1J3WEJjM096?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 04 Jul 2025 11:10:00 GMT"
+    },
+    {
+      "id": "5dee22f811c2be578fc0efcd474cba3d",
+      "title": "Exxon Mobil Corporation (XOM) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU2VjbDNHTXc3a2lyUDh5bTNiMVZjTVhTTHR3M3Rtc2xFUGFhMG1MQTd6bURtWV9GbnAyRXhBZlpEWkFweGpvcGM1djM4RGk2eVctOVhTdndYN0RfQzRuVDJlZUw4NGVEbWloYTVEMVdoODVVZ2dLVmtEWG9SRWEyR1FFVnVtN19VTlE?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 04 Jul 2025 13:00:04 GMT"
+    },
+    {
+      "id": "7010662c891710941f75b7bb36eca043",
+      "title": "Tenet Healthcare Corporation (THC) Is a Trending Stock: Facts to Know Before Betting on It - MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWDIyREJ3cHk2elRDVU4xUU9sV2x6MHdfbnV4UTBma0ZKdVI5dUJsM3JDclVJRm95ZDhkZU5BcVU0bUJTd2FpeTRoWE1mQWdNNl85YS1CQl9fNmgzY1g5aHAtbWJpd0tIamQwZ3o2MmNSbjlhczFNNlc5T0NCcS1kc3Z5TkN1ZWpublB2R3JURDFndXh0SHk0b2hwRFN1VUctQUh5dmp0YjdoVFB4Vk1xZldsa2g0bldKUkVBVWJ3U0NsS2NEcmx1RHNLNXVIWnNHQVFrYmFodzM?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 04 Jul 2025 20:24:51 GMT"
+    },
+    {
+      "id": "2d5f1fe2bfc90ff770b32d564e48e3b2",
+      "title": "Alibaba Group Holding Limited (BABA) Is a Trending Stock: Facts to Know Before Betting on It - MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVGhEQTNodHhzbFp5eDZ1ZnBYTmRpWkJMV0dTSktzR0tDQ3FvVE9nSWpTUmhteXpXbXk3MnpCcTRtSDRSQUd5eGx0VTNJQmFONGlSTDUzcV8xZ1VCVE1zdUs1d2FacjM5WDMzazNyN3gxbzVyMURLTXNvam50ZW9sVDBQd21QVVFNUS1qOHk2ZHp4b241dzdabEdlb0FtVVdRUWRqWjBxd2UzcmFyWWZWVkl4NUVoWEZ5RGp1TXYyLXc2MXJiYWhGamIxbUZTUmQtUnFsSHBLZVJjTTQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 04 Jul 2025 19:11:28 GMT"
+    },
+    {
+      "id": "2459394b8e9532d92255fa89c2c249a5",
+      "title": "Walmart Inc. (WMT) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUlVJZFlnaklHQzdZT2VKcFltQWk4QURjcW1iNnFsMWpHMGZvb293ZXg5bVlrU1c1VUEwcGJMeUlCdFNyM1dRSG9nOFdXWHF0LW1fU1ZORDNHU18ySmVsU0FJT0tocEtXY2loYm5yUzBucGtrZDIxYjc2Q2ZuRmM5UWRn?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
       "published": "Fri, 04 Jul 2025 13:00:05 GMT"
     },
     {
@@ -114,33 +168,6 @@
       "published": "Fri, 04 Jul 2025 13:00:03 GMT"
     },
     {
-      "id": "2459394b8e9532d92255fa89c2c249a5",
-      "title": "Walmart Inc. (WMT) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUlVJZFlnaklHQzdZT2VKcFltQWk4QURjcW1iNnFsMWpHMGZvb293ZXg5bVlrU1c1VUEwcGJMeUlCdFNyM1dRSG9nOFdXWHF0LW1fU1ZORDNHU18ySmVsU0FJT0tocEtXY2loYm5yUzBucGtrZDIxYjc2Q2ZuRmM5UWRn?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 13:00:05 GMT"
-    },
-    {
-      "id": "06acf2f3f4f38c1c58ef746e38e75e66",
-      "title": "Broadcom Inc. (AVGO) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb19nQXo2ckhLWWg2eUJPbk5zVDRZV3lQOWN3WC1rZlc2NGpub09yNzhNTTlqb2xIN3RROW02ektWTkhiZ0ZsWktSTHZfS2NrNVN3YmRVVHR5dnFiUXVtM1dfOGlqejF6eURjYUhhTU9mN3J2d0pXUlQ3dVpMN25lTnNrWGs4RDlp?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 13:00:03 GMT"
-    },
-    {
-      "id": "e0472e4cea5c68f9da5cec7670671b4e",
-      "title": "Alibaba Group Holding Limited (BABA) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc19WWGtnQWxjemJxQVpRMnBSa2Znc2Ewa0VLOE5NZDRTNGU1alhTa01uSlVhR2FXeENscjJKT1ZjUGNuWFhaOEpKaGFVRzkyMWJhNm1nTWpWbFB5dDNYSFg5MFJqa3Q0aEh1UEd3emdIb1laMThWbUw5WVRXbkcyUm1YTGtWZjQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 13:00:04 GMT"
-    },
-    {
       "id": "19b1ec3d858ef7ba90ee1b89e4da76d1",
       "title": "Applied Materials, Inc. (AMAT) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -150,40 +177,13 @@
       "published": "Fri, 04 Jul 2025 13:00:04 GMT"
     },
     {
-      "id": "7065de3544c0bdeac4d15a0376251d52",
-      "title": "Is Trending Stock Nu Holdings Ltd. (NU) a Buy Now? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVHlsdzljYS11RDVKSmRib3dIV0NzTkdNTWVodTBoQTNHb2pNRUxxN1RXc3BtbGFLUjN4M1FpVUhwRC11RU91UXlEdlByaU5lczZTMWRHR2Y4WjdnU051Qkdidi1HZGJkLW5LcHA2V1RwdlBQejlFSUE2WWRrTEFBN19n?oc=5",
+      "id": "5c39b7c879dc67e6f9ae674aca27b9e7",
+      "title": "General Motors Company (GM) Is a Trending Stock: Facts to Know Before Betting on It - MSN",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUhMQmRmYnJ6aDU0SEU2NXItYW1CdnZvTUJLb19YSndScGJZMjFFTDA1WjZMWl9yZ0R0UU83bWVzU0pGOFlyaFJhLXdES1gwcllySFRJMndpUHB1bWlJcEFUNl9wRHNGdXBlaTE0NzljeVNNV2pualdUMTYyTXVRaVVQRTBPMEtsQzN2MDBiR3RSTEFkZlROUnJUZDdncFpxWFppSHpJMHp5cWp3b00yWGNWTWJHRFdfSEZJUWZ6SVhJQ0NxSEJUNjlfYzlfUnc?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 13:00:02 GMT"
-    },
-    {
-      "id": "ef2042bab81954495bcd19f7dfe409d0",
-      "title": "Is Trending Stock VALE S.A. (VALE) a Buy Now? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QalZTcWxmWE5IaFVpTHdPdnc0ZjRtU08tS3BoRDExWGNMR2VlV3E3MU9MUFNPWHdVQzd6bVY3cjdtQUFHVXN4cjZoYXd1eE9aNHk5OGJaclQ2OUNhM284X1JiMkVjaHV4aFRINDBUN1lhZ2xPNlFyM1Y3SFJ3QlE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 13:00:02 GMT"
-    },
-    {
-      "id": "4f3a4ea0bffbed57001e09a9c99d490c",
-      "title": "This week's viral TikTok finds: Meta VR headset, Mandarin brightening gel and more 📲 - USA Today",
-      "source": "USA Today",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVHpncURYeGVUWGlBVmRXRzZSdFBIRFluV1JET3I2Q2dITVFiYmJjRXZVNUFUQmxIcHhWcVhZdUJyUjduVXlKR19aa0ZDS29RNTU1WHl2VVRIak85bXdrMnVSSHdGTFB0U1ZjMG1XWXQwaWlzVkVqQVNyTXZVSTNqS2x1ZHhxWUxsMS1VX1BtTDdESllzYk1TVGdMMkhRUlhucFlwUA?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 16:35:08 GMT"
-    },
-    {
-      "id": "c60169d3830e951b4ee6e612e367d7ea",
-      "title": "Trending tickers: TripAdvisor, Bitmine, WolfSpeed, BYD and AstraZeneca - Yahoo",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLWI0V3lPaFVUSy1mRW80RlZNWkE2bTlLQ0hYSjQxVnpVQ3VZRVVmVGd4MjRxcVplVVdaWnNGaGVqMlBUekk2WW45a1hRMVl2aWVGSlN3SU5RblQ1c1dSb0liYVBLajVkaUd4bTQ2VU9tRlBaM0wzUldOVWF2bVRqWFZLRDdORzg3Q016YXVDQmVqaFlSVkZaM0ZBaWZIeW9PcjBsc0wyTFo5RXJybWUyRQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 08:43:27 GMT"
+      "published": "Fri, 04 Jul 2025 15:56:19 GMT"
     }
   ]
 }
