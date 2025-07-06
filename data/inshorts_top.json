@@ -1,27 +1,63 @@
 {
   "metadata": {
     "source_file": "data/news_top.json",
-    "generation_time": "2025-07-05 18:38:59",
+    "generation_time": "2025-07-06 02:15:24",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "2bef2e142e59657d63913b16967a9844",
-      "title": "Hill Country flooding death toll rises to 27 as search continues for missing girls, other survivors - The Texas Tribune",
-      "source": "The Texas Tribune",
-      "url": "https://www.texastribune.org/2025/07/05/texas-hill-country-flooding-updates-kerrville-camp-mystic/",
-      "image_url": "https://thumbnails.texastribune.org/uhYYWfc_nAH_E7cQFjau5AYaisk=/1200x630/filters:quality(95):focal(0x0:3000x2000)/static.texastribune.org/media/files/ef31360075c7e9a9e81503b79ac7f3dc/0704%20Kerrville%20Flood%20REUTERS%20TT%2002.JPG",
-      "summary": "Hill Country flooding death toll rises to 27 as search continues for missing girls, other survivors Twenty-seven girls from the Camp Mystic summer camp remain missing. More rain is expected Saturday in many parts of Texas. First responders survey the rising flood waters of the Guadalupe River after flash flooding in Kerr County on July 4, 2025 in a still...",
-      "published": "Sat, 05 Jul 2025 16:22:52 GMT"
+      "id": "1cf8207e6c6955caa42606b667d7cf39",
+      "title": "Texas flooding updates: Abbott says 850 rescued as 27 still missing - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468",
+      "image_url": "https://i.abcnewsfe.com/a/4e1b05ed-2322-4108-bd06-b181873170c8/texas-flood-debris-pile-ap-jt-250705_1751732273113_hpMain_16x9.jpg?w=1600",
+      "summary": "Texas flooding updates: Abbott says 850 rescued as 27 still missing Children were among the dozens who were killed, officials said. Officials give new details on deadly flash floods in Texas, search for survivorsOfficials in Texas provided updates on the “catastrophic” flooding and desperate search for survivors, warning community members to not conduct their own searches due to hazardous conditions.",
+      "published": "Sun, 06 Jul 2025 00:05:00 GMT"
     },
     {
-      "id": "89d37041d73db3be3d057e384aef6ab5",
-      "title": "Tropical Storm Chantal Forms Off the Coast of South Carolina - The New York Times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/07/05/weather/tropical-storm-chantal-south-carolina.html",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sat, 05 Jul 2025 13:04:44 GMT"
+      "id": "2bdebf605549ea873ab4e84c8b7268be",
+      "title": "Trump news at a glance: Elon Musk announces new political party targeting sway in Congress - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/jul/06/trump-news-at-a-glance-elon-musk-announces-new-political-party-targeting-key-congressional-seats",
+      "image_url": "https://i.guim.co.uk/img/media/224d79ce755d73407d3c88cd9d884d9557fba972/917_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c4b671e002e2560c0dec9aeb998f488",
+      "summary": "Fund the free press with $15 per month Elon Musk during a press conference at the White House in May, before departing from his advisory role and falling out with Donald Trump. Photograph: Nathan Howard/Reuters Trump news at a glance: Elon Musk announces new political party targeting sway in Congress Musk, the world’s richest man, only departed from the White...",
+      "published": "Sun, 06 Jul 2025 00:51:03 GMT"
+    },
+    {
+      "id": "9327c63f60b8c48d654cebbbf256462a",
+      "title": "Israel to send team to Gaza talks despite Hamas demands, PM says - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4g8p24zm3vo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9b70/live/0df6b750-59e9-11f0-9074-8989d8c97d87.jpg",
+      "summary": "Israel to send negotiators to Gaza talks despite 'unacceptable' Hamas demands, PM says Sebastian Usher & David Gritten",
+      "published": "Sat, 05 Jul 2025 22:08:50 GMT"
+    },
+    {
+      "id": "6271f245690a7290b7d1f115c81b9390",
+      "title": "No holiday for ICE, as immigration raids continued on July 4 - Los Angeles Times",
+      "source": "Los Angeles Times",
+      "url": "https://www.latimes.com/california/story/2025-07-05/no-holiday-for-ice-immigration-raids-continued-on-july-4",
+      "image_url": "https://ca-times.brightspotcdn.com/dims4/default/e861b6d/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F41%2F3c%2F5c0626a443bc8646cfab99a0cefe%2F1512823-me-4th-immig-rally-ces-3019.jpg",
+      "summary": "No holiday for ICE, as immigration raids continued on July 4 U. S. Customs and Border Protection officers and Homeland Security police push back Angelenos as they rally against ongoing ICE raids Friday in front of the Edward R. Roybal Federal Building. On the July 4 holiday, federal agents arrested more immigrants as part of ongoing raids that have rounded...",
+      "published": "Sat, 05 Jul 2025 20:27:41 GMT"
+    },
+    {
+      "id": "949629852b49bb465c43417949686cfc",
+      "title": "Tropical Storm Chantal forms off coast of the Carolinas, expected to strengthen before landfall - PBS",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/nation/tropical-storm-chantal-forms-off-coast-of-the-carolinas-expected-to-strengthen-before-landfall",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/07/TS_Chantal_20250705_1700-e1751736599468-1024x676.jpg",
+      "summary": "Tropical Storm Chantal forms off coast of the Carolinas, expected to strengthen before landfall Nation Updated on Jul 5, 2025 6:21 PM EDT — Published on Jul 5, 2025 1:33 PM EDT MIAMI (AP) — Tropical Storm Chantal formed off the southeast U. S. coast and was forecast to bring heavy rains to parts of the Carolinas on Saturday. Tropical...",
+      "published": "Sat, 05 Jul 2025 17:33:48 GMT"
+    },
+    {
+      "id": "6d2ca6051ab33272c83424cedd108264",
+      "title": "US completes deportation of 8 men to South Sudan after weeks of legal wrangling - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-south-sudan-djibouti-deport-supreme-court-50f9162cff680b5c8729873e11d514e9",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sat, 05 Jul 2025 18:55:00 GMT"
     },
     {
       "id": "eb14d526c0c71d78bde3476b64feed35",
@@ -33,42 +69,6 @@
       "published": "Sat, 05 Jul 2025 09:00:00 GMT"
     },
     {
-      "id": "d525cb7fa5cbd8b3b38b536cae862add",
-      "title": "Trump warns a dozen countries will get tariff letters Monday - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2025/07/05/trump-tariffs-letters",
-      "image_url": "https://images.axios.com/ep9DhbD8kWPwZDKSj0sWSSjxpWs=/0x0:6000x3375/1366x768/2025/07/05/1751713251348.jpg",
-      "summary": "Trump tariff letters going to a dozen countries Monday President Trump holds a signed executive order on tariffs. Photo: Win McNamee/Getty Images President Trump said the U. S. will begin sending letters Monday to other countries setting a tariff rate on their imports. Why it matters: After months of threats, Trump is abruptly re-escalating the trade war. For businesses craving...",
-      "published": "Sat, 05 Jul 2025 12:25:44 GMT"
-    },
-    {
-      "id": "3d146df64730a5cfd1cb865067955a12",
-      "title": "Joyful Parisians take a historic plunge into the Seine after 100 years - NBC News",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/europe/paris-swimming-seine-100-years-rcna217021",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250705-seine-swimming-04-aa-696842.jpg",
-      "summary": "Joyful Parisians take a historic plunge into the Seine after 100 years The return to swimming follows a 1. 4 billion euro ($1. 5 billion) cleanup project tied to last year’s Olympics. Officials now say the Seine meets European water quality standards on most days. Swimmers in the shadow of the Eiffel Tower. Tom Nicholson / Getty Images Create your...",
-      "published": "Sat, 05 Jul 2025 12:43:39 GMT"
-    },
-    {
-      "id": "4e3c228dd21e7fbe92b18f26c20b7617",
-      "title": "Trump administration deports Djibouti detainees to South Sudan after judge denies emergency bid to block flight - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/07/04/politics/migrants-djibouti-south-sudan",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2190244180.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Trump administration deports Djibouti detainees to South Sudan after judge denies emergency bid to block flight By Katelyn Polantz, Priscilla Alvarez and Michael Williams, CNN Updated 1:35 PM EDT, Sat July 5, 2025 This aerial photo shows Djibouti, East Africa, in December 2024. Ludovic Marin/AFP/Getty Images The Trump administration sent eight migrants held in Djibouti for weeks to South Sudan,...",
-      "published": "Sat, 05 Jul 2025 17:35:00 GMT"
-    },
-    {
-      "id": "f79cbf38c817bb79f135bd2f7b2f9b9a",
-      "title": "Heat, storms, mosquitos the big threats at Alligator Alcatraz, experts say - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/nation/2025/07/05/alligator-alcatraz-immigrants-detention-florida/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y2W2ZKTPQ6C5DOY4PCYC2YQP7Q_size-normalized.jpg&w=1440",
-      "summary": "Heat, storms, mosquitos the big threats at Alligator Alcatraz, experts say Florida’s hastily constructed detention camp in the Everglades, which began processing immigrants late this week, has been praised by President Trump. A loader holds a sign reading “Alligator Alcatraz” in its bucket as workers install it at the entrance to a new immigrant detention facility in the Everglades. (Rebecca...",
-      "published": "Sat, 05 Jul 2025 15:31:39 GMT"
-    },
-    {
       "id": "192a1dfe02d9aa0f808e41387d63c8d4",
       "title": "Trump got $170 billion for immigration. Now he has to enact it. - Politico",
       "source": "Politico",
@@ -78,67 +78,58 @@
       "published": "Sat, 05 Jul 2025 12:50:00 GMT"
     },
     {
-      "id": "ab087667f505315cd54b874d070c7e4c",
-      "title": "Zohran Mamdani’s New York primary win sparks the ire of Modi’s supporters - Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/7/4/zohran-mamdanis-new-york-primary-win-sparks-the-ire-of-modis-supporters",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-07-02T161508Z_1142757981_RC2GEFAVSZ2Q_RTRMADP_3_USA-NEWYORK-MAYOR-ELECTION-1751660547.jpg?resize=1920%2C1440",
-      "summary": "Enrich your Al Jazeera experience by signing in or creating an account. Zohran Mamdani’s New York primary win sparks the ire of Modi’s supporters Experts say Mamdani, a mayoral candidate, has attracted criticism on the Hindu right for his faith and outspoken views. New York City mayoral candidate Zohran Mamdani attends a news conference with union leaders on July 2...",
-      "published": "Fri, 04 Jul 2025 21:58:30 GMT"
+      "id": "cc66fda1464b277189e8883a1a6f7279",
+      "title": "Turkey detains mayors of opposition-run Antalya, Adana, Adıyaman - Euronews.com",
+      "source": "Euronews.com",
+      "url": "https://www.euronews.com/2025/07/05/crackdown-on-turkish-opposition-intensifies-as-antalya-adana-adiyaman-chp-mayors-detained",
+      "image_url": "https://static.euronews.com/articles/stories/09/35/77/18/1200x675_cmsv2_b1b78b77-79de-5e73-983a-050bf80ed16a-9357718.jpg",
+      "summary": "With your agreement, we and our 188 partners use cookies or similar technologies to store, access, and process personal data like your visit on this website, IP addresses and cookie identifiers. Some partners do not ask for your consent to process your data and rely on their legitimate business interest. You can withdraw your consent or object to data processing...",
+      "published": "Sat, 05 Jul 2025 17:04:41 GMT"
     },
     {
-      "id": "51cba66843f389b3b3b3ccda377ce6f4",
-      "title": "Gaza Humanitarian Foundation: US aid workers wounded in attack - BBC",
+      "id": "2ed34b97e0fd43fb046c2cd4e0902c34",
+      "title": "Key suspect arrested in shooting of Colombia senator - BBC",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cp3kx9pwxwwo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a244/live/97a05800-59a1-11f0-9074-8989d8c97d87.jpg",
-      "summary": "US aid workers wounded, says Gaza Humanitarian Foundation",
-      "published": "Sat, 05 Jul 2025 14:34:52 GMT"
+      "url": "https://www.bbc.com/news/articles/c77vzr1843ro",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/43be/live/f020e550-59d1-11f0-b5c5-012c5796682d.jpg",
+      "summary": "Key suspect arrested in shooting of Colombia senator Elder Jose Arteaga Hernandez is photographed after he was detained Colombian police have arrested the alleged mastermind of the assassination attempt against a presidential hopeful during a rally last month. Miguel Uribe, a conservative senator, was twice shot in the head in the capital, Bogotá, as he was campaigning for his party's...",
+      "published": "Sat, 05 Jul 2025 19:45:29 GMT"
     },
     {
-      "id": "1a8be8bd3da866dcd93172293ab9eb12",
-      "title": "Hamas says it responds to Gaza ceasefire proposal in 'a positive spirit' - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israeli-military-kills-15-gaza-trump-waits-hamas-response-ceasefire-proposal-2025-07-04/",
-      "image_url": null,
-      "summary": "No content available for summarization.",
-      "published": "Sat, 05 Jul 2025 12:44:36 GMT"
+      "id": "61bfcfeebc388db402786176ac85d25d",
+      "title": "Liverpool and Portugal players join family in mourning Diogo Jota and his brother at funeral - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/diogo-jota-funeral-portugal-liverpool-7867d71255943696db9aa2d9ffdee9f6",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sat, 05 Jul 2025 19:58:00 GMT"
     },
     {
-      "id": "fb2125fc30a3b274053e6eb05ab59ea5",
-      "title": "North Korea has a new luxury beach resort. But the country isn't open to most tourists - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/07/05/g-s1-75663/north-korea-beach-resort-wonsan-tourism",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8000x4500+0+417/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F55%2F17d404564aeb9a17a148901c2928%2Fap25182810664843.jpg",
-      "summary": "North Korea has a new luxury beach resort. But the country isn't open to most tourists This photo provided on July 2, 2025, by the North Korean government shows a beach resort in the Wonsan-Kalma eastern coastal tourist zone on July 1, 2025. Korean Central News Agency/Korea News Service via AP SEOUL, South Korea — When President Trump met North...",
-      "published": "Sat, 05 Jul 2025 14:07:26 GMT"
+      "id": "d568d67ca9bb10f2e860898e79158813",
+      "title": "Joyful Parisians take a historic plunge into the Seine after 100 years - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/07/05/europe/paris-historic-swim-seine-intl",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2222934080.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Joyful Parisians take a historic plunge into the Seine after 100 years Published 7:30 AM EDT, Sat July 5, 2025 A swimmer jumps in the water at the Grenelle safe bathing site on Saturday. Julien de Rosa/AFP/Getty Images For the first time in over a century, Parisians and tourists will be able to take a refreshing dip in the River...",
+      "published": "Sat, 05 Jul 2025 11:30:00 GMT"
     },
     {
-      "id": "821c1d49c07b4d8fd8f969f296eeb867",
-      "title": "Buddhist rebirth v Chinese control: the battle to choose the Dalai Lama’s successor - The Guardian",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2025/jul/05/buddhist-rebirth-v-chinese-control-the-battle-to-choose-the-dalai-lamas-successor",
-      "image_url": "https://i.guim.co.uk/img/media/8d03b84725ed58b61cdd1286e5bddd737b0718b6/341_0_3415_2732/master/3415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ba1c3d143e830d6d87e78ce0f65244f",
-      "summary": "Fund the free press with $15 per month The Dalai Lama has been a constant thorn in the side of Chinese efforts to impose complete homogeneity over Tibet. Photograph: Mads Nilsen/EPA Buddhist rebirth v Chinese control: the battle to choose the Dalai Lama’s successor The spiritual leader has said his inner circle of monks will find an heir, but China...",
-      "published": "Sat, 05 Jul 2025 13:37:00 GMT"
-    },
-    {
-      "id": "1dbade0032ad686479053024404bf8a3",
-      "title": "China Has Paid a High Price for Its Dominance in Rare Earths - The New York Times",
+      "id": "685f41623be7c9d0862787f7eaa2a4ba",
+      "title": "OPEC Plus Agrees to Pump More Oil in August - The New York Times",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/07/05/business/china-rare-earth-environment.html",
+      "url": "https://www.nytimes.com/2025/07/05/business/opec-oil-production-price.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sat, 05 Jul 2025 12:27:34 GMT"
+      "published": "Sat, 05 Jul 2025 16:17:15 GMT"
     },
     {
-      "id": "976fc6e56fddbc1004fe272badfd0482",
-      "title": "“We’re Watching a Brain Drain in Real Time”: OpenAI Hit Hard as 4 Top Researchers Defect to Rival Tech Giant Meta - Rude Baguette",
-      "source": "Rude Baguette",
-      "url": "https://www.rudebaguette.com/en/2025/07/were-watching-a-brain-drain-in-real-time-openai-hit-hard-as-4-top-researchers-defect-to-rival-tech-giant-meta/",
-      "image_url": "https://www.rudebaguette.com/wp-content/uploads/2025/07/shock-exodus-at-openai-as-these-four-top-researchers-make-a-stunning-move-to-meta-leaving-industry-experts-stunned-and-speculating.jpg",
-      "summary": "“We’re Watching a Brain Drain in Real Time”: OpenAI Hit Hard as 4 Top Researchers Defect to Rival Tech Giant Meta In a dramatic shift within the tech industry, four prominent researchers from OpenAI have transitioned to Meta, marking a pivotal moment in the competitive race to advance artificial general intelligence. Gabriel CruzJuly 5, 2025 at 12:08 PM1 Illustration of...",
-      "published": "Sat, 05 Jul 2025 16:09:17 GMT"
+      "id": "05f1c89a9ea8eefb5ea5509a0fef3dcf",
+      "title": "Investors traded a record $6.6 trillion worth of stock in the first half of 2025 - MarketWatch",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/investors-traded-a-record-6-6-trillion-worth-of-stock-in-the-first-half-of-2025-981f9ade",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Sat, 05 Jul 2025 12:00:00 GMT"
     },
     {
       "id": "dc3db95f653e37f776ac57d4a8b4ac84",
@@ -150,40 +141,49 @@
       "published": "Sat, 05 Jul 2025 04:00:21 GMT"
     },
     {
-      "id": "61add32654b99258d2272799a8008d4e",
-      "title": "'Buy now, pay later' purchases can now affect your credit score. Here's what that means - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/07/05/nx-s1-5448793/credit-score-fico-buy-now-pay-later-affirm-klarna",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3078+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2F9b%2F64eb4e054c3cae8ba92cfaf4a738%2Fgettyimages-1340779613.jpg",
-      "summary": "'Buy now, pay later' purchases can now affect your credit score. Here's what that means Buy now, pay later loans that let shoppers split payments into installments have become increasingly popular. Soon, that data will be incorporated into people's FICO credit scores. The credit scoring company FICO recently announced it will add something new to some of its credit scores:...",
+      "id": "abe4d1234c0b5cc29c03c0e1411a5a6f",
+      "title": "Fried chicken lovers dish on favorite spots in St. Louis - STLPR",
+      "source": "STLPR",
+      "url": "https://www.stlpr.org/show/st-louis-on-the-air/2025-07-05/fried-chicken-lovers-dish-on-favorite-spots-in-st-louis",
+      "image_url": "https://npr.brightspotcdn.com/dims4/default/cc7433a/2147483647/strip/true/crop/6234x3273+0+443/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2Fd3%2F7eae3d4a4bd1802b1bf369572859%2F070325-slotachicken-lg-06.JPG",
+      "summary": "Fried chicken lovers dish on favorite spots in St. Louis Published July 5, 2025 at 4:00 a. m. CDT Chad Davis and Cheryl Baehr hold pieces of fried chicken ahead of their St. Louis on the Air segment on Thursday at St. Louis Public Radio. St. Louis is a melting pot of fried chicken in all of its glorious styles,...",
       "published": "Sat, 05 Jul 2025 09:00:00 GMT"
     },
     {
-      "id": "1dd7eb29385adf83e725dde8c69a6400",
-      "title": "Nintendo Switch 2 Q&A with Virtuos: ‘I Think We Will See It Surpass The Predecessor’ - Wccftech",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/nintendo-switch-2-qa-with-virtuos-i-think-we-will-see-it-surpass-the-predecessor/",
-      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2025/01/Nintendo-Switch-2-announcement-scaled.jpg",
-      "summary": "Nintendo Switch 2 Q&A with Virtuos: ‘I Think We Will See It Surpass The Predecessor’ It's been nearly a month since the launch of the massively anticipated Nintendo Switch 2 console. As part of our release coverage, we had the chance to interview two developers from game studio Virtuos to discover their initial thoughts and experiences with the latest console...",
-      "published": "Fri, 04 Jul 2025 13:00:00 GMT"
+      "id": "25174d52baaa89ebe663b0f6a6ad4cef",
+      "title": "Here's How the iPhone 17 Pro Max Will Compare to the iPhone 17 Pro - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/07/05/iphone-17-pro-max-vs-pro/",
+      "image_url": "https://images.macrumors.com/t/qc0SlZ9MErZOa-YpZl-prg4-EzA=/1794x/article-new/2024/09/iphone-16-pro-models-1.jpg",
+      "summary": "iOS 26macOS Tahoe 26iPadOS 26iPhone 17iPhone 17 AiriPhone 17 ProiPhone 16eiPhone 16iPhone 16 ProMacBook ProiOS 18Apple Vision ProiMacMac miniiPadOS 18macOS SequoiavisionOS 2watchOS 11HomePodApple TViPad ProAirPods 4Apple Pro Display XDRApple Watch Ultra 2HomePod miniMac ProMacBook AiriPadiPhone 15AirPods MaxAirPods ProApple DealsApple Studio DisplayApple Watch 10Apple Watch SEMac StudioiPad Air iPad miniiPhone 18CarPlayApple PaywatchOS 26 Here's How the iPhone 17 Pro Max Will...",
+      "published": "Sat, 05 Jul 2025 20:00:40 GMT"
     },
     {
-      "id": "0ab58fe4b2f258ce59bd21cc2dfac2ed",
-      "title": "Sony is forced to stop selling the Xperia 1 VII because of worrying issues - PhoneArena",
+      "id": "187a4b8c96916d442358e34cffaddf4e",
+      "title": "The promised Galaxy S26 battery boost could turn out to be an epic fail - PhoneArena",
       "source": "PhoneArena",
-      "url": "https://www.phonearena.com/news/sony-xperia-1-vii-sales-suspended_id171992",
-      "image_url": "https://m-cdn.phonearena.com/images/article/171992-wide-two_1200/Sony-is-forced-to-stop-selling-the-Xperia-1-VII-because-of-worrying-issues.jpg",
-      "summary": "Reserves open for the new Samsung phones! Discussions are now open! Start your own threads and share your thoughts with the community. Sony is forced to stop selling the Xperia 1 VII because of worrying issues Another set of problems for Sony’s pricey flagship smartphone. Sony has announced it’s temporarily suspending the sales and shipments of the Xperia 1 VII...",
-      "published": "Fri, 04 Jul 2025 21:25:43 GMT"
+      "url": "https://www.phonearena.com/news/galaxy-s26-battery-boost-epic-fail_id171976",
+      "image_url": "https://m-cdn.phonearena.com/images/article/171976-wide-two_1200/The-promised-Galaxy-S26-battery-boost-could-turn-out-to-be-an-epic-fail.jpg",
+      "summary": "Reserves open for the new Samsung phones! Discussions are now open! Start your own threads and share your thoughts with the community. The promised Galaxy S26 battery boost could turn out to be an epic fail Both big and small Samsung rivals – like Apple and Nothing – pack large batteries in their flagships. This article may contain personal views...",
+      "published": "Fri, 04 Jul 2025 21:25:01 GMT"
     },
     {
-      "id": "16dcbfb9cf80bfe3a1d85c4c7006ab8c",
-      "title": "Samsung is about to find out if Ultra is enough - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/samsung/697322/samsung-galaxy-unpacked-2025-z-fold-7-ultra",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25543061/DSC07764_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "summary": "Samsung is about to find out if Ultra is enoughIt looks like Samsung has some new ideas about foldables this year — but will they be enough to entice buyers? Allison Johnson is a reviewer with 10 years of experience writing about consumer tech. She has a special interest in mobile photography and telecom. Previously, she worked at DPReview. I...",
-      "published": "Sat, 05 Jul 2025 15:00:00 GMT"
+      "id": "3fd9a263d1f08f9d9b1e8e8e7ff17004",
+      "title": "Switch Port Specialist Believes Switch 2 Can Surpass Its Predecessor's Success - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2025/07/switch-port-specialist-believes-switch-2-can-surpass-its-predecessors-success",
+      "image_url": "https://images.nintendolife.com/3aec7c2409cab/large.jpg",
+      "summary": "Nintendo Switch 2 News Reviews Features Games Guides Videos Forums Better eShop NewsNintendo Switch 2Nintendo Switch Switch Port Specialist Believes Switch 2 Can Surpass Its Predecessor's Success \"The handheld market is growing right now\" One company that backed the Switch throughout its life was the port specialist Virtuos – working on games like Dark Souls and The Outer Worlds for...",
+      "published": "Sat, 05 Jul 2025 14:00:00 GMT"
+    },
+    {
+      "id": "18941218ed45d532de3ed7e571bea47a",
+      "title": "Which strength training method is best for you? Experts break down the options - The Seattle Times",
+      "source": "The Seattle Times",
+      "url": "https://www.seattletimes.com/seattle-news/health/which-strength-training-method-is-best-for-you-experts-break-down-the-options/",
+      "image_url": "https://images.seattletimes.com/wp-content/uploads/2025/07/urnpublicidap.org4eb437efde74b4dc5e937c53f26ff528Spain_Be_Well_61301.jpg?d=1200x630",
+      "summary": "Which strength training method is best for you? Experts break down the options People work out in an open-air gym next to the beach in Barcelona, Spain, Saturday, June 21, 2025. (AP Photo/Emilio Morenatti) 1 of 6 | People work out in an open-air gym next to the beach in Barcelona, Spain, Saturday, June 21,. .. (AP Photo/Emilio Morenatti) More...",
+      "published": "Sat, 05 Jul 2025 17:20:08 GMT"
     }
   ]
 }

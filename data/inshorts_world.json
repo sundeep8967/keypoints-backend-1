@@ -1,45 +1,72 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-07-05 19:30:29",
+    "generation_time": "2025-07-06 03:14:02",
     "total_articles": 20
   },
   "articles": [
     {
-      "id": "51cba66843f389b3b3b3ccda377ce6f4",
-      "title": "Gaza Humanitarian Foundation: US aid workers wounded in attack - BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cp3kx9pwxwwo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a244/live/97a05800-59a1-11f0-9074-8989d8c97d87.jpg",
-      "summary": "US aid workers wounded, says Gaza Humanitarian Foundation",
-      "published": "Sat, 05 Jul 2025 14:34:52 GMT"
+      "id": "e4bb04955548c30eafe75053f0c45a98",
+      "title": "Israel sends team to Qatar for hostage talks, but says Hamas’ demands ‘unacceptable’ - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/israel-sends-team-to-qatar-for-hostage-talks-but-says-hamas-demands-unacceptable/",
+      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/07/F250705MA38.jpg",
+      "summary": "Israel sends team to Qatar for hostage talks, but says Hamas’ demands ‘unacceptable’ Hostage families demand comprehensive deal, comparing partial deals that leave some behind to ‘selection’ at Nazi death camps; PM prepares to meet with Trump in US on Monday Demonstrators protest against the Israeli government and for the release of Israelis held hostage in the Gaza Strip outside...",
+      "published": "Sat, 05 Jul 2025 23:33:00 GMT"
     },
     {
-      "id": "1a8be8bd3da866dcd93172293ab9eb12",
-      "title": "Hamas says it responds to Gaza ceasefire proposal in 'a positive spirit' - Reuters",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israeli-military-kills-15-gaza-trump-waits-hamas-response-ceasefire-proposal-2025-07-04/",
+      "id": "cc66fda1464b277189e8883a1a6f7279",
+      "title": "Turkey detains mayors of opposition-run Antalya, Adana, Adıyaman - Euronews.com",
+      "source": "Euronews.com",
+      "url": "https://www.euronews.com/2025/07/05/crackdown-on-turkish-opposition-intensifies-as-antalya-adana-adiyaman-chp-mayors-detained",
+      "image_url": "https://static.euronews.com/articles/stories/09/35/77/18/1200x675_cmsv2_b1b78b77-79de-5e73-983a-050bf80ed16a-9357718.jpg",
+      "summary": "With your agreement, we and our 188 partners use cookies or similar technologies to store, access, and process personal data like your visit on this website, IP addresses and cookie identifiers. Some partners do not ask for your consent to process your data and rely on their legitimate business interest. You can withdraw your consent or object to data processing...",
+      "published": "Sat, 05 Jul 2025 17:04:41 GMT"
+    },
+    {
+      "id": "d9f479e49bb2dc3c331e43b399aa72f3",
+      "title": "U.S. completes deporting 8 men from various nations to South Sudan after weeks of legal battles - PBS",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/politics/u-s-completes-deporting-8-men-from-various-nations-to-south-sudan-after-weeks-of-legal-battles",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/07/2025-07-01T204130Z_2114533631_RC2SDFA3UGHR_RTRMADP_3_USA-TRUMP-1024x678.jpg",
+      "summary": "U.S. completes deporting 8 men from various nations to South Sudan after weeks of legal battles Politics Jul 5, 2025 3:38 PM EDT WASHINGTON (AP) — Eight men deported from the United States in May and held under guard for weeks at an American military base in the African nation of Djibouti while their legal challenges played out in court...",
+      "published": "Sat, 05 Jul 2025 19:38:14 GMT"
+    },
+    {
+      "id": "2ed34b97e0fd43fb046c2cd4e0902c34",
+      "title": "Key suspect arrested in shooting of Colombia senator - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c77vzr1843ro",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/43be/live/f020e550-59d1-11f0-b5c5-012c5796682d.jpg",
+      "summary": "Key suspect arrested in shooting of Colombia senator",
+      "published": "Sat, 05 Jul 2025 19:45:29 GMT"
+    },
+    {
+      "id": "61bfcfeebc388db402786176ac85d25d",
+      "title": "Liverpool and Portugal players join family in mourning Diogo Jota and his brother at funeral - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/diogo-jota-funeral-portugal-liverpool-7867d71255943696db9aa2d9ffdee9f6",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sat, 05 Jul 2025 19:58:00 GMT"
+    },
+    {
+      "id": "d568d67ca9bb10f2e860898e79158813",
+      "title": "Joyful Parisians take a historic plunge into the Seine after 100 years - CNN",
+      "source": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0SGVLZkJ4aDFSRmVzYWdyelJoM2FLQXZDWkJpSGxzWkFNd2x0MWdIUVhiYkNMaXlXdjRtQUxTY2dULXlxZTdtSFNXZkpTSWpPLUlMNTFXZmhiQnl3UVlVZC1yak9Qd2hrdlM5STFqdzF6V0FKbmtV0gF8QVVfeXFMTjc0QmxQbE14WkZ1XzFUdFpEZ0p2YUUwTEtXZmlfUTNRM2dYSk93WnY0VXZkR2pSOTZ5NzJaNVU5b2VzaHBfYzh2bENEMk1EZ1NfbUpkVFdWMWczV1JKOC1xekZ3SXJLWnAtUzRWU1hGNGhPbVZ4ckpVTElmVA?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 05 Jul 2025 11:30:00 GMT"
+    },
+    {
+      "id": "4748058c833ea24e7091d660d15162bb",
+      "title": "Violence at Synagogue and Restaurant Unnerves Jews in Melbourne - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/07/05/world/australia/jewish-synagogue-restaurant-violence.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sat, 05 Jul 2025 12:44:36 GMT"
-    },
-    {
-      "id": "3d146df64730a5cfd1cb865067955a12",
-      "title": "Joyful Parisians take a historic plunge into the Seine after 100 years - NBC News",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/europe/paris-swimming-seine-100-years-rcna217021",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250705-seine-swimming-04-aa-696842.jpg",
-      "summary": "Joyful Parisians take a historic plunge into the Seine after 100 years The return to swimming follows a 1. 4 billion euro ($1. 5 billion) cleanup project tied to last year’s Olympics. Officials now say the Seine meets European water quality standards on most days. Swimmers in the shadow of the Eiffel Tower. Tom Nicholson / Getty Images Create your...",
-      "published": "Sat, 05 Jul 2025 12:43:39 GMT"
-    },
-    {
-      "id": "fb2125fc30a3b274053e6eb05ab59ea5",
-      "title": "North Korea has a new luxury beach resort. But the country isn't open to most tourists - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/07/05/g-s1-75663/north-korea-beach-resort-wonsan-tourism",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8000x4500+0+417/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F55%2F17d404564aeb9a17a148901c2928%2Fap25182810664843.jpg",
-      "summary": "North Korea has a new luxury beach resort. But the country isn't open to most tourists This photo provided on July 2, 2025, by the North Korean government shows a beach resort in the Wonsan-Kalma eastern coastal tourist zone on July 1, 2025. Korean Central News Agency/Korea News Service via AP SEOUL, South Korea — When President Trump met North...",
-      "published": "Sat, 05 Jul 2025 14:07:26 GMT"
+      "published": "Sat, 05 Jul 2025 07:19:19 GMT"
     },
     {
       "id": "821c1d49c07b4d8fd8f969f296eeb867",
@@ -51,139 +78,112 @@
       "published": "Sat, 05 Jul 2025 13:37:00 GMT"
     },
     {
-      "id": "156ca5561be0a84204869a446852b6a3",
-      "title": "An Isolated Iran Looks to BRICS for Allies, Testing a New World Order - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaDRlNHA0SHVBQ192VnZhLVAxZFVETUg5WXdLNFM5R1JkMjNMQU44Zy1rTFRNUndjX1RMZmlMTk9lUXVvSFlmTGRrLWpQOENRUGdQRGl6ek1EVmJ6V1ZRcEQzTnRBV0JNcUpoM2ZuNUk2c3RWTmlRZW5RSnVDV3lqbWM3QWxwMWZ3YzlMNGIzXy0?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 05 Jul 2025 09:01:12 GMT"
+      "id": "51cba66843f389b3b3b3ccda377ce6f4",
+      "title": "Gaza Humanitarian Foundation: US aid workers wounded in attack - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cp3kx9pwxwwo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a244/live/97a05800-59a1-11f0-9074-8989d8c97d87.jpg",
+      "summary": "US aid workers wounded, says Gaza Humanitarian Foundation The GHF distributes aid in south and central Gaza A controversial aid operation for Gaza backed by Israel and the US says two of its workers have been injured in an attack while giving out relief. Two militants threw grenades at the aid centre in Khan Younis, the Gaza Humanitarian Foundation (GHF)...",
+      "published": "Sat, 05 Jul 2025 14:34:52 GMT"
     },
     {
-      "id": "a1f6138f7e51bae55dbf714dd9306f1a",
-      "title": "The Cost of Victory: Israel Overpowered Its Foes, but Deepened Its Isolation - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMnVIZGh2eW5XazZHTVZZdEI4MFJadmdER1haSm9VdmFiQmdiUEl4UlBnZ1RmX2pSYVp5WUJrMjRJVVllQTUxNFM2SnRja0x0QXNVT3dyM3B0QUFtcEppY251cWpFdlN5bmMxZzNpdmxxWDdDMGV6QTc2QU0xY2p4c0lCWVZOdw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 05 Jul 2025 09:00:46 GMT"
-    },
-    {
-      "id": "5a68dd010c0abb901e13e8f727f55cc6",
-      "title": "3 mayors arrested in southern Turkey as part of crackdown on opposition - AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbUFHVnhhM05NUkQ0dDJEV0JtTDF0TGQ0dEZCcWEyNFM2dnM4cmRORWFvNFpRNlFOU1ljZFFCWU1taVQyYjIxU3V5aTlLb09iNF9HeTJ2S3NVRjhPaElxVU0zbVE2M3NFbWtrWmFJTVlRdUQ4MXF5VG8yWkY3TTZlVEFiZEJmSXRXakYwLW5KdjBFa0k2clRRYXJnNUVyT0ZENlY4aGVZSXAxamRxLVNUZHJ4RQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 05 Jul 2025 15:22:00 GMT"
-    },
-    {
-      "id": "c157560707364e8c29931b05f46b2a62",
-      "title": "Japanese airlines cancel flights after manga predicts disaster - NewsNation",
-      "source": "NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbEJ4WVFqOVN4UHpQdGFJTGdkWmNIVFdBdERTUjk3UldvZnozRlVoR2prZy1oZ3p3UEw2X1lDY3JIbjA5d3RZZzFPYk9IZGZuY2lsOWhGVDJvUjVXSVpBZmExWm41Um04SDc3bV9fX3h6UWJMdW56LUNXLU5XMllJcmU4cV9iZnFUYzNYaUhkMzdaZ9IBlwFBVV95cUxPdjM2OHpVU084LWdlN3V6MDdjWDhoVDJZeWlaeFlYR0NOT3NKVUh6Zmc3N1BEa3k0S0pSbGxZel8tVG5xdzFUOVJxZVNBYXoyaXFjel96WDBRaXIzVUd6ZWYwSHNPaUFwa3E0UlRheHBuQ2RhZDVyU3NQbjNON2dBVDI2QUhxV3BoVzQzbWp0MzUyRHNBSHpv?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 21:22:45 GMT"
-    },
-    {
-      "id": "bd4cdb76b255d3ff538cedd947a44e78",
-      "title": "Pope Leo XIV moves to the ‘second Vatican City,’ Castel Gandolfo - catholicnewsagency.com",
-      "source": "catholicnewsagency.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEdSeDF4YnF3QkJjem9OVXdCaTdNb29UUHlMdjhaVVVZR3FlbllMQ21aS3AwNy1aVk8zV1ZDaFJ6d2o2aDNGdV9Gb3dYRDJ5THAtVUM1NjRNRUlKZjJ2X2tGcmdabVF1NlREYXV6NlMtUk52VEtXX2UzRGlfb212cG12NTVIQ2hsamFzM0ppVEEydTVQemRuRE5QZmZaOU5uWU5CNTBuLVVGLVNV0gGyAUFVX3lxTE5RbGVqdExsN1R5RWpCdURwQi1wT2dwWkZETVJfdzhRNXRSa3lvUDdQN0hXY1VWQVlEUngzemVKY0RRSXgxSmlSbUdKbV8wQnI3MU9ZZW40eHJ6djJseGpScjlCbl9zUzdfeUpkRkdWakFfcEwyZTRkZ0ZyUlRodWN0VXM3WGJhZS1CTDl0dHhiemNvcjNsOU5TV2oyMFZOVmhTbE8wZVVFNmY0VEpzXzJka1E?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 05 Jul 2025 12:30:00 GMT"
-    },
-    {
-      "id": "6ffbd994a772863564818a88681aa79e",
-      "title": "US- and Israeli-Backed Gaza Aid Group Suing AP Over ‘Categorically False’ Story - freebeacon.com",
-      "source": "freebeacon.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZFh6cjRtZkp2ZnY1NFdwMTk4Ynk3TEx0UVNIWG1FaU40T0h5VkREdkZ3cHFzbWZqNEtBcE1kcWdRNV83VkFfeHYtc1gxUnNvYndIdHg3c1FMNlRvRnljWHRnNlBBcmswU3pCdDZ6SDM1SE93MGZ5d2VRbGJUZF8zQWgyR0JPOXFacVpHRnpIWFlaZjc1WDg3UWFoY1RVemdZd1pvaWJhWDBMdw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 20:58:57 GMT"
+      "id": "a40a9aa28258cc886b3963684e331bc8",
+      "title": "BRICS Set to Condemn ‘Coercive’ Tariffs, Draft Statement Shows - Bloomberg",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-04/brics-set-to-condemn-coercive-tariffs-draft-statement-shows",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Sat, 05 Jul 2025 15:07:45 GMT"
     },
     {
       "id": "6782b39c569cef04a1cb95d95f19ca53",
       "title": "Russia pummels Kyiv with drones and missiles after Putin-Trump call - The Washington Post",
       "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkVDVHZyRE8wRHlxSnBGN0MzOV9WcHFoaF9vQ1lGVm1hZ2VSTDJTRjVkNlV6VHpzbTB5NU81ZGU4X1Nfc0M2UEh5b2xfSVNJbkd6dlBKeGxleGpmdzQ0NnJaaEhrOG5vZ3pTNzR3bGt2ZFBrazhlajdhZkNEM0R3VEctVlg4NktDVGFlSDNrNjd1b2g5Nklj?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
+      "url": "https://www.washingtonpost.com/world/2025/07/04/ukraine-russia-kyiv-bombardment-trump-putin/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C4CKQLNEWJZOLBVBP3XRYR55AU_size-normalized.jpg&w=1440",
+      "summary": "Russia pummels Kyiv with drones and missiles after Putin-Trump call After his call with Putin, Trump said he did not think the Russian leader wanted a ceasefire or an end to the three-year-old conflict. Flames and smoke billow from buildings during mass Russian drone and missile strikes on Ukraine’s capital Friday. (Oleksii Filippov/AFP/Getty Images) KYIV — Heavy smoke choked central...",
       "published": "Sat, 05 Jul 2025 02:38:24 GMT"
     },
     {
-      "id": "733d3076c229f596674062af948b76f0",
-      "title": "Australian PM vows 'full force of law' after arson attack at Melbourne synagogue - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ScktQMXV3MllYQzlHQnlSeTRMTWw3dUJlZlNOMlJtYTdXNkNvbWR6RnFQU2R5UFJTTVVPb3Znb3dIYVRaUnY1X2U5dUt5dURYUlVnTzJtVlBMUdIBX0FVX3lxTE9EaUg0eGFkazU4SEdmMnFzVUpSMzRhTzRVRy11akh5Z1hPN0RJM1A0aWs0SE5IcG40eWJ0S1ZzYWsxYnJhTnJGTVl6NVV3Q3RWR1dQaHFKT29YSlBhb0lF?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 05 Jul 2025 09:55:40 GMT"
-    },
-    {
-      "id": "eb488ba4030bfbf5222563964dda9590",
-      "title": "Several people killed in multistorey building collapse in Pakistan - Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFN6Y1hxR1E3bXdGLW52YkRZQkpaN2lXeVVpR191MWp6UFZxSThtTkU2V0g0d1VDRWwwNU5DUE1kcno4WU9MZGlQVk1fMmY5XzZNTVVFOFBnalFIZHVLdFctbko4Sy1wd1FjaU9BTVJTQ2pJVHFjSTB0WE1sVmt5SUFpSXg4TWh5SUVRZkU3YVBFY3Nua210Z2pmNnZieXZMaHdQMEtIUXdjQdIBrwFBVV95cUxOXzlWQ2FiMmhkTXR4cFRPU0Z1aG9leUZTUUJ3THg0R3NuV2tubHJpelFfejlKeGx6RjdiWmk1X2pLSDBDRzdFaWZCSTdkcTR4bzR3YkJFblpFYTdpdXVIelpBZkR3Z29vMk9UN3pCY0VvSnFuMEVuS2FwZURIY0JTLWpHYzRYYkxXZjFZRVB3aXpHZHJONy1kZFY4Vko1WnZEZGROa0JhbWNtVmJEbGtn?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 21:00:00 GMT"
-    },
-    {
-      "id": "85b1968af825ba0dd0cf6809a544267f",
-      "title": "Wildfire in Greece prompts evacuation; firefighters tackle blazes in Turkey, Syria - NPR",
-      "source": "NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMktmdjJtLUZFWW1VTGtsMWFzZTZtWUdKakhOcmpLN3ZKQnJkaWx0WHFvMEZHRFA0WlRXOFNhUFdPMnoxLXFPMWNjYl92N3hNNmRZaVBlVTZ6OVY5R2JvT1pjRm1uQ1BfZHMwaXhzcnUyZU9RWmhzSkRJY0ZWOXVxMms2STROQVo4?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 07:29:05 GMT"
-    },
-    {
-      "id": "db29273e8e18fa8bf6a16dea613e0052",
-      "title": "China’s Wang Yi urges new international deal on Iran after US, Israeli attacks - South China Morning Post",
-      "source": "South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVXF2U09wZm94TDFyTWRFeEZ2THB1Y3EzNkdIRmMxbW5XQlhDRjg3aUJuZ2xfMEVsenZmc0oxVnR2SVg3UUlKajMwZV9VQk1rZ1dmaC0yMU9BanpfTEhWVlhieXlHOENzWm93RDQ1dW9OVlRRdFcxeGhHaHVTb3hwSS1PNm5JRGlsODJRUzZNYU1xS2ZnMUx3SDZsY2JTSllrV24wSi1ERVQtWGRlN1BQX1hWVEZ0YWJ1b0tIN1U1ZFFPdmxObVhyQW5hSlhPWlhXeUHSAdIBQVVfeXFMTmNneEtaMFVmRWNhZ1o0ZnVtSV9URnhmOG02M2pObHRTNmtPQkphN09SRlJEbzM1VWx2bjV5Vm1MaU9XQkIxWWVoNWFkWkxON2NGb3pvQXNOczd4ZlBkbk5xRGs0Y3NpU2d5NVRZLWdwNW00Q1ZSTml2WHFoREhLSWRSUjNKTVU3ekd2ZTM0eDg2Q3p3SWtzWUVwWk5DUnlSaGg1VUxSSDhZT18tRzVOQ0FZUFF1MXF2UDUzWnlNRkxpS1NoMzMzZkRyQVJrT2VISFZR?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 05 Jul 2025 07:22:27 GMT"
-    },
-    {
-      "id": "019ec17b385b427222ef719426fa5dfb",
-      "title": "Dozens killed in Gaza as Israel intensifies strikes, rescuers say - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rZEpIMHBXd2RoUFVtNDQ0OXRvSnhlOUY1Mm94azJMTFhTQmEtREhxRkJ4ekxNdldTNUxTYWUxZlhVMENoZlNOZ19DaGJlZmxCZXk1aFZIRkZ2Z9IBX0FVX3lxTFA1M2c4SUdudGNKYzRkWnUwbXRIT2tCZ0FUaXpYMTI5M0lYa05TaVNBOUlKcDU0REhvMnk1eFdORUZPdkhMLXpQN093Y2haZy1XVUVaMnRLQ0NZR1BWNnFZ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Thu, 03 Jul 2025 19:52:22 GMT"
-    },
-    {
-      "id": "e1765f7c333e5debf86714459a34d134",
-      "title": "Ukraine, Russia conduct new POW exchange - The Kyiv Independent",
-      "source": "The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZTktbV9CelJoYmRIUVFJTUFvWEo1UVhLRlJ1dXp0Z20tdnpjRXJQVHhQRzdURGdhc25tNnBJTE0wem5lcHJtYnl5QU1mZzJJd1ZoaGlNdWh4UjBaLUFWbU90OWktNU1RR01uN05jNmlJSkdTSmlPQlU0RUczNnYtRTBB?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 10:39:19 GMT"
-    },
-    {
-      "id": "419a6c90aac70c5337f36f272a12cdc9",
-      "title": "Brazilian hiker buried after fatal fall from Indonesian volcano - AP News",
+      "id": "f079a04f3d5ca44cd46ef120e392ace3",
+      "title": "Iran’s supreme leader makes first public appearance since Iran-Israel war started - AP News",
       "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeEVzZkhIQ0FVUG9MSlRDYTF6QTFJVUI1Vjg0MHhzZlQ1OFNnQXZjZWprYUFPTnJ5Y0RWZjN2YVlybGprUmViS2MzdE12aUppMTdVMmRYRm1rRmpiTWdQdFVZM3ZtRVhpdW5sZjBnUzNhOHlBTWttdGdYMlY0bzNKWXJwYVhjVjJMVlBMUnlQVkN3NlhiWkcwLWNhVXUyeW9uWUE?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Fri, 04 Jul 2025 20:27:00 GMT"
+      "url": "https://apnews.com/article/iran-supreme-leader-khamenei-043446abab8fc658d46e5759ae18e58a",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sat, 05 Jul 2025 22:35:00 GMT"
     },
     {
-      "id": "ac136da1155d47647e0e523ad9c22f9a",
-      "title": "Russia Becomes First Country to Recognize Afghanistan’s Taliban Government - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ0d6b3owVU4yTEduZlFhTm14NU8xWkpIbElyanZPOGZFWmtLWWhLa3ZuWWpsS0VEOURDOExJNnRVeHdVR2JmWEVpbzgzcXVoZmlyME1vd2tfRE5BUWtBbHRIX3BkQ3lkUm5JZnJCc045MVYzeDBDVHM3bjljZU5ja1h6MVJWQQ?oc=5",
+      "id": "d41fc115c619d38ced1f333076a15cc7",
+      "title": "Exclusive: UBS, Goldman passed on opening bank accounts for U.S.-backed Gaza aid foundation, sources say - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/ubs-goldman-passed-opening-bank-accounts-us-backed-gaza-aid-foundation-sources-2025-07-04/",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Fri, 04 Jul 2025 11:51:34 GMT"
+    },
+    {
+      "id": "11f50039dcecb563c8bcd5d10bad12cb",
+      "title": "‘We felt abandoned by Francis’: Pope Leo heads to traditional papal residence for summer break - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2025/jul/05/papal-retreat-castel-gandolfo-pope-leo-italy",
+      "image_url": "https://i.guim.co.uk/img/media/e354f2be7080930040f5adcd4fe5f4afa0e50ad0/792_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=51b8a1a2e98cee07d23b4dc2a416549b",
+      "summary": "Fund the free press with $5 per month Castel Gandolfo has been waiting for years to again welcome a pope. Photograph: Remo Casilli/Reuters ‘We felt abandoned by Francis’: Pope Leo heads to traditional papal residence for summer break Longstanding tradition set to resume as new pontiff opts to spend summer holiday in Castel Gandolfo Angela Giuffrida in Castel Gandolfo Last...",
+      "published": "Sat, 05 Jul 2025 11:34:00 GMT"
+    },
+    {
+      "id": "c2d7acbb176be5ad8520d241c3a8b187",
+      "title": "Fresh blow for Spain’s scandal-plagued Sánchez - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/sanchez-ally-resigns-in-latest-blow-amid-corruption-scandals/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/16/13128905-scaled.jpg",
+      "summary": "Fresh blow for Spain’s scandal-plagued Sánchez",
+      "published": "Sat, 05 Jul 2025 15:08:00 GMT"
+    },
+    {
+      "id": "3bfd4b3b88a585338f6292c061dce107",
+      "title": "Controversial right-wing singer Marko Perkovic draws tens of thousands to Zagreb concert - AP News",
+      "source": "AP News",
+      "url": "https://apnews.com/article/croatia-concert-pro-nazi-thompson-marko-perkov-cdc7edc3458a6b559f4070f2e7a9fb5a",
+      "image_url": "https://apnews.com/favicon.ico",
+      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Sat, 05 Jul 2025 20:30:00 GMT"
+    },
+    {
+      "id": "9439ea249d6d1d640780d69aacd85661",
+      "title": "Residents of West Bank Village Forced Out After Settlers Set Up Nearby Outpost - Haaretz",
+      "source": "Haaretz",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNSHo0anF1VTJXNXBqb3U3Ym5yeUc0UU00RXpReW5aV0t0UkxJZUdac1pjdUlnRUdPdzA3ZHBCeFd4bWswZHVTTndBN3VVMDhZSGJuVld5dHZZR2VfY3ZGMkZONGhkNmhqUWRJd0psdWU3dTBZOGlYS2x5QjRyTWozN3dkVjFBcWlHVmxmdXE1M096c3ZWZk5tQ2M1X2RqZzgzSGdIMGR0cGM3ekoydzVOOTFwRzBUbmc0blNfeTFYQXgwcmJ1SnV1WTU0WXczWFN0TzhwSzk3aHVLZE9MTE85RUdGYXFzNWwzUzd2SjRDakNCa3YxWFplT25VTWRXeXF0SzFSYnV6b25XaUhZenhUd0g3NENIeUVsTGlOUEkwRnNMUFU?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sat, 05 Jul 2025 16:25:55 GMT"
+      "published": "Sat, 05 Jul 2025 09:17:00 GMT"
+    },
+    {
+      "id": "f95c642caded0b88068cbee965abd64d",
+      "title": "Indian PM Modi receives Trinidad and Tobago's highest honor - DW",
+      "source": "DW",
+      "url": "https://www.dw.com/en/indian-pm-modi-receives-top-civilian-honor-in-trinidad-and-tobago/a-73163569",
+      "image_url": "https://static.dw.com/image/73163475_6.jpg",
+      "summary": "DW uses cookies and similar technologies to measure usage, display personalized advertising and share personal data and information with up to 186 third parties. You decide for yourself whether you agree to this use of your data. You can adjust individual details under “Settings” and change them at any time. You can view all of DW's content without agreeing. Social...",
+      "published": "Sat, 05 Jul 2025 03:46:30 GMT"
+    },
+    {
+      "id": "39069c1701a4fd6a3aec6048e8b28e4f",
+      "title": "Russia recognises the Taliban: Which other countries may follow? - Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/7/4/russia-recognises-the-taliban-which-other-countries-may-follow",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/07/afp_6867a19d7cc0-1751622045_cd6f50-1751629934-e1751630254583.jpg?resize=1200%2C675",
+      "summary": "Enrich your Al Jazeera experience by signing in or creating an account. Russia recognises the Taliban: Which other countries may follow? From China to Iran, several countries have already been engaging with the Taliban. Experts say they could be next. Afghanistan’s Foreign Minister Amir Khan Muttaqi, right, shakes hands with Russia’s ambassador to Afghanistan Dmitry Zhirnov during their meeting at...",
+      "published": "Fri, 04 Jul 2025 14:15:11 GMT"
+    },
+    {
+      "id": "dc2f4a92ed3f262923f3ee4607dde616",
+      "title": "Ukraine war briefing: Power to Zaporizhzhia plant cut off as UN watchdog warns nuclear safety ‘extremely precarious’ - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2025/jul/05/ukraine-war-briefing-power-to-zaporizhzhia-plant-cut-off-as-un-watchdog-warns-nuclear-safety-extremely-precarious",
+      "image_url": "https://i.guim.co.uk/img/media/05501fc0c9a315398213bc27c672d07060318383/435_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0e010f6aeea13649656e43a889cf0ae",
+      "summary": "Fund the free press with $5 per month File shot of a Russian serviceman on guard at Ukraine’s Zaporizhzhia nuclear power station, whose electricity was cut for several hours on Friday before being restored. Photograph: AP Ukraine war briefing: Power to Zaporizhzhia plant cut off as UN watchdog warns nuclear safety ‘extremely precarious’ IAEA chief says electricity restored after 3½...",
+      "published": "Sat, 05 Jul 2025 06:59:00 GMT"
     }
   ]
 }
