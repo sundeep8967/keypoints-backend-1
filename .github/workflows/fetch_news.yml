@@ -6,8 +6,8 @@ on:
       - main  # Run on push to main branch
       - master  # Run on push to master branch (if you use master)
   schedule:
-    # Run every hour (at minute 0 of every hour)
-    - cron: '0 */6 * * *'
+    # Run daily at 6 AM UTC (adjust timezone as needed)
+    - cron: '0 6 * * *'
   workflow_dispatch:
     inputs:
       news_type:
@@ -194,6 +194,26 @@ jobs:
         # List generated files
         echo "Generated Inshorts files:"
         ls -la data/inshorts_*
+    
+    - name: Push to Supabase
+      if: github.event_name == 'push' || github.event_name == 'schedule'
+      env:
+        SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+        SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+      run: |
+        # Check if inshorts files were generated
+        echo "Checking for generated inshorts files..."
+        if ls data/inshorts_*.json 1> /dev/null 2>&1; then
+          echo "Found inshorts files, proceeding with Supabase upload..."
+          
+          # Push all inshorts data to Supabase
+          echo "Uploading inshorts data to Supabase..."
+          python scripts/push_inshorts_to_supabase.py
+          
+          echo "Supabase upload completed!"
+        else
+          echo "No inshorts files found, skipping Supabase upload"
+        fi
     
     - name: Commit and push changes
       if: success() # Only run if previous steps succeeded
