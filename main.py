@@ -41,8 +41,42 @@ DEFAULT_CATEGORIES = [
     "health",
     "science",
     "world",
-    "trending"
+    "trending",
+    "politics", 
+    "national", 
+    "india", 
+    "automobile", 
+    "startups",
+    "travel", 
+    "fashion", 
+    "education", 
+    "miscellaneous"
 ]
+
+# Categories supported by PyGoogleNews topic_headlines
+SUPPORTED_TOPIC_CATEGORIES = [
+    "business", 
+    "technology",
+    "entertainment",
+    "sports",
+    "health",
+    "science",
+    "world"
+]
+
+# Categories that need to be fetched via search instead of topic
+SEARCH_BASED_CATEGORIES = {
+    "trending": "trending news",
+    "politics": "politics news",
+    "national": "national news",
+    "india": "India news",
+    "automobile": "automobile automotive car news",
+    "startups": "startup business news",
+    "travel": "travel tourism news",
+    "fashion": "fashion style news",
+    "education": "education school university news",
+    "miscellaneous": "general news"
+}
 
 def parse_args():
     """Parse command line arguments"""
@@ -60,12 +94,15 @@ Examples:
     )
     
     # Categories to process
+    # Combine all available categories for command line choices
+    ALL_AVAILABLE_CATEGORIES = DEFAULT_CATEGORIES + list(SEARCH_BASED_CATEGORIES.keys())
+    
     parser.add_argument(
         "--categories",
         nargs="+",
-        choices=DEFAULT_CATEGORIES,
+        choices=ALL_AVAILABLE_CATEGORIES,
         default=DEFAULT_CATEGORIES,
-        help=f"Categories to process (default: all). Choices: {', '.join(DEFAULT_CATEGORIES)}"
+        help=f"Categories to process (default: original categories only). All available: {', '.join(ALL_AVAILABLE_CATEGORIES)}"
     )
     
     # Processing options
@@ -188,7 +225,7 @@ def step1_fetch_news(categories: List[str], data_dir: str, language: str, countr
                 "--language", language,
                 "--country", country
             ]
-        else:
+        elif category in SUPPORTED_TOPIC_CATEGORIES:
             cmd = [
                 sys.executable, "scripts/fetch_news.py", 
                 "--type", "topic",
@@ -197,6 +234,21 @@ def step1_fetch_news(categories: List[str], data_dir: str, language: str, countr
                 "--language", language,
                 "--country", country
             ]
+        elif category in SEARCH_BASED_CATEGORIES:
+            # Use search for unsupported topics
+            search_query = SEARCH_BASED_CATEGORIES[category]
+            cmd = [
+                sys.executable, "scripts/fetch_news.py",
+                "--type", "search",
+                "--query", search_query,
+                "--when", "1d",  # Last 1 day
+                "--output", output_file,
+                "--language", language,
+                "--country", country
+            ]
+        else:
+            logger.warning(f"⚠️  Unknown category: {category}, skipping...")
+            continue
         
         if run_command(cmd, f"Fetching {category} news"):
             success_count += 1

@@ -79,6 +79,7 @@ async def get_topic_headlines(
     
     Valid topics: business, technology, entertainment, sports, health, science, world
     """
+    # Only include topics supported by PyGoogleNews topic_headlines
     valid_topics = ["business", "technology", "entertainment", 
                    "sports", "health", "science", "world"]
     
