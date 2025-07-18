@@ -1,189 +1,54 @@
 {
   "metadata": {
     "source_file": "data/news_top.json",
-    "generation_time": "2025-07-06 06:50:36",
-    "total_articles": 20
+    "generation_time": "2025-07-18 21:44:02",
+    "total_articles": 5
   },
   "articles": [
     {
-      "id": "fb7d692ddf311721ffb55c7732cde60f",
-      "title": "In pictures: Deadly flooding in Texas - CNN",
+      "id": "1d458ec0ea262111f822d79681528020",
+      "title": "Trump asks Bondi to seek release of ‘any and all pertinent Grand Jury testimony’ around Epstein investigation - CNN",
       "source": "CNN",
-      "url": "https://www.cnn.com/2025/07/05/us/gallery/deadly-flooding-texas",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2223018766.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "A view inside of a cabin at Camp Mystic, after flash flooding hit Hunt, Texas, on Saturday, July 5. Ronaldo Schemidt/AFP/Getty Images In pictures: Deadly flooding in Texas Updated 2:35 AM EDT, Sun July 6, 2025 Torrential rain has caused flash flooding in parts of central Texas, killing at least 50 people. Search and rescue teams are still working to...",
-      "published": "Sun, 06 Jul 2025 04:59:00 GMT"
+      "url": "https://edition.cnn.com/2025/07/18/politics/trump-bondi-epstein-testimony",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2222472078.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Trump asks Bondi to seek release of ‘any and all pertinent Grand Jury testimony’ around Epstein investigation By Donald Judd, Shania Shelton and Paula Reid, CNN Updated 10:23 AM EDT, Fri July 18, 2025 U. S. President Donald Trump, joined by U. S. Attorney General Pam Bondi, takes questions during a press conference on recent Supreme Court rulings in the...",
+      "published": "Fri, 18 Jul 2025 14:23:00 GMT"
     },
     {
-      "id": "010e6276b44b503cfecbf8991e34f638",
-      "title": "Tropical storm warnings extended up to North Carolina as Chantal approaches - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/tropical-storm-warnings-extended-north-carolina-chantal-approaches/story?id=123505008",
-      "image_url": "https://i.abcnewsfe.com/a/11013635-e3d7-48b8-9ac9-770a7c892983/tropical-storm-chantal-ap-jt-250705_1751739297107_hpMain_16x9.jpg?w=1600",
-      "summary": "Tropical storm warnings extended up to North Carolina as Chantal approaches This is the third named storm of the Atlantic season. ByKyle Reiman, Nadine El-Bawab, Daniel Peck, and Ivan Pereira Tropical Storm Chantal threatening the SoutheastWABC meteorologist Dani Beckstrom tracks Tropical Storm Chantal and the slow crawl to the Carolina coastline. Tropical storm warnings have been extended up to Surf...",
-      "published": "Sat, 05 Jul 2025 23:37:30 GMT"
+      "id": "d6c96a5e43174d9e14f7fdc12e3639af",
+      "title": "‘Devastating’: US public broadcasters condemn Trump cuts to key programs - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/media/2025/jul/18/trump-cuts-public-broadcasting",
+      "image_url": "https://i.guim.co.uk/img/media/80a3f5a5879d0032e95d9d3a99692e5db6d23c71/0_215_6448_3869/master/6448.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e0c1aed311c03ed90be0236b600d8b2",
+      "summary": "Fund independent journalism with $15 per month Photograph: Saul Loeb/AFP/Getty Images ‘Devastating’: US public broadcasters condemn Trump cuts to key programs Last modified on Fri 18 Jul 2025 13. 27 BST Public broadcast station leaders are condemning ’s latest victory after Congress approved a bill to cancel all federal funding for public broadcasting programs including PBS and NPR. The House...",
+      "published": "Fri, 18 Jul 2025 12:27:00 GMT"
     },
     {
-      "id": "a24a887cfb7db6ecfd48261522ec6793",
-      "title": "Elon Musk says he is launching new America Party - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHa0toaExoWXpFZmE2UG5EWVFRaEJTdmhtSlV0S1pzSnhld0k4bloxdnVYZ2lDSWdyWjRQNHNaOTFpUUY5eXZfNVVMQXBMODZPQUVwenBWUHRvZ9IBX0FVX3lxTFBfVGlLY3g4SF9MaHhwcHpvOGwzNm1RLXd5ZnpNS2liaDNtWUJ5QTlTRzdfVlBydTR2ZUg4b0tha2R4WWhMRV9pdmVRdFlmQS00VFBpTlYweVpDSWxLdS1Z?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 06 Jul 2025 03:44:56 GMT"
-    },
-    {
-      "id": "154bf6c54103fa9adf29bb4c543b2625",
-      "title": "Israel and Hamas to hold indirect ceasefire talks in Qatar - Axios",
-      "source": "Axios",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pOXh5dnB5Z3lpcFY5Vll3N1BGZ0xBOXZUMGgxcnFLVHE4MF9KOVZXeTZHTDlIVTU1cVpPTmV1OUdZZ2FOWnkwSmNHeVpBVUlIVkZTSFlwQWk4OV9tQjNxbkZ1ZHlsai1qQWxaMkIzaDZnalRtQmc?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 06 Jul 2025 00:50:29 GMT"
-    },
-    {
-      "id": "6271f245690a7290b7d1f115c81b9390",
-      "title": "No holiday for ICE, as immigration raids continued on July 4 - Los Angeles Times",
-      "source": "Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS1JyQkxqUUF5Rlh6X0M0SHNaVHI4a3lqNjFNS0xiM3BXWGNyaS1ZaEhDX0tfX0s0SUtEOEMzWC1NNkplOGdJTndRU1dFTWdRZWFVbnNiNDRXLWRDSTYxa3NMWmNYRGNwUXM4MENNam45TGF1RXNWbnptSm1CTmlNMHVybU41bmdDM2I5aXhLV2NXOWE3WGs2ZmZRUjBjaWxfcF8zcTNldERieEtx?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 05 Jul 2025 20:27:41 GMT"
-    },
-    {
-      "id": "a285bafc2a99b1f7ab65ed86d335897f",
-      "title": "US finishes deportation of eight men to South Sudan after weeks of legal wrangling - NBC News",
-      "source": "NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjllcUY0Tjg0NDZQbU5vR0o4TTFIQlJJXzNfRDhQZEdPVFZ1bURKWEtGS1lZSDlOd1ZFSGJIZ2ZBYUZMVVhJWkI4TW9wOENYUVMtYmZSY1c3WU1qa1lRaFR4MFBvMHZTa05uYmx1T1A5YjlhdkY4M3BjTnpzMGdycWdINmdIZXNiVDZ6MzFFRE4waHZQalMtbEtpc2ExZGdFY21ZQ2ZhbDN1NWktVGltYUNSb09kNzBwNGxLTDFBNUbSAVZBVV95cUxPZ2RMQUZ1MHZCdGd3Ty1Tb3ZVbHZIWmF1ckxyNnVyWEU2eTMzRUNzNmVpVlB4bEJGUU9yTS03bF9TaS1hN2x2eDJXd25tQi05UlItS3F0UQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 06 Jul 2025 00:57:00 GMT"
-    },
-    {
-      "id": "03b2272bf75b48390a18a83f0b13e242",
-      "title": "Trump administration freezes millions in grants to Alaska schools - Anchorage Daily News",
-      "source": "Anchorage Daily News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlZrWThaR0FTSTE2R1ZYZFRCTDd4OGptRW5Wb3NidWRfRm9iMjJKS1cxN2k5clBheDg0Y0JxM2tOUFNFVW1xOWtRYUhhR0d1bHAtU0NuM1pENW1JV05FajlKRGNQa0YtOTBTVUdyb0wxcy0zc0ctMEs1Tlk5c0V2MzRya1NMdU5Dd3BYTThnY3Vnd3g2b2FOaUVVN1lVc1BlWk9jb2lYMk93Zw?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sat, 05 Jul 2025 20:16:28 GMT"
-    },
-    {
-      "id": "a3966e80713dac5746f4e6b8a52d2633",
-      "title": "The next megabill Congress needs to worry about - Politico",
+      "id": "674ae8eabc27f21465d79183af20cbc1",
+      "title": "Trump rails against ‘NOTHING’ Epstein case after WSJ report - Politico",
       "source": "Politico",
-      "url": "https://www.politico.com/news/2025/07/05/gop-megabill-cliffs-tax-cuts-medicaid-00439973",
-      "image_url": "https://static.politico.com/98/7a/63f69b424c339511b077349153c8/u-s-congress-71352.jpg",
-      "summary": "The next megabill Congress needs to worry about A sharp cliff for tax cuts and deep safety-net rollbacks will figure into the 2026 and 2028 elections. House Minority Leader Hakeem Jeffries is already indicating planned Medicaid cuts will be a centerpiece of the 2026 midterms. | Francis Chung/POLITICO Thursday’s historic vote passing President Donald Trump’s megabill ended a monthslong process...",
-      "published": "Sat, 05 Jul 2025 14:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVd6N281Vml4R2Jkb2JaUFF1RmZYRjRQei1ITlBUc0QybkxxWS1CLTJWV0JaRmtIVW9xU3diUENlOHk4eDRZMS1mdE1TYjN3amExVEs5YVFJcHVEMDFvWVU0amtBNm40UXhwdk5ZREJNXzJueTI3SW0wZnJscG5IZ3ZMYXphM0NwVmtr?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 18 Jul 2025 14:39:00 GMT"
     },
     {
-      "id": "f079a04f3d5ca44cd46ef120e392ace3",
-      "title": "Iran’s supreme leader makes first public appearance since Iran-Israel war started - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-supreme-leader-khamenei-043446abab8fc658d46e5759ae18e58a",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Sun, 06 Jul 2025 03:37:00 GMT"
+      "id": "5a5c8a03cb3b464deaf1e26b40951d37",
+      "title": "U.S. health insurers seek largest jump in Obamacare premiums since 2018, study shows - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYnRkS3UyLUhQOC1rbHlFczRiblNCLV8yOGdvbTdkZ3NjdlpfX1NCbkRkLVVkR21ZaW5JTV9NaXFjMGszekctVEhpM1pPejdzVHR1ZzNELWcyaGI0dE1GUWlINnRqS21RQlp0QWFGQ3dyejhvOWZrN3h0ZXFDNGY2YU5B?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 18 Jul 2025 13:16:13 GMT"
     },
     {
-      "id": "f233a2a9937f323dc67101fad7b41d88",
-      "title": "Dalai Lama marks his 90th birthday as crowds throng his home-in-exile - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/07/06/asia/dalai-lama-90th-birthday-india-china-intl-hnk",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2025-07-06t032639z-1778398908-rc2rgfadbxb8-rtrmadp-3-tibet-dalai-lama.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Dalai Lama marks his 90th birthday as crowds throng his home-in-exile By Simone McCarthy, Tenzin Dharpo and Laura Sharman, CNN Updated 1:06 AM EDT, Sun July 6, 2025 The Dalai Lama arrives to attend his 90th birthday celebration at the Tsuklakhang Tibetan Buddhist complex in Dharamshala, India, on Sunday. Anushree Fadnavis/Reuters Thousands of people gathered in India’s Dharamshala on Sunday...",
-      "published": "Sun, 06 Jul 2025 05:06:00 GMT"
-    },
-    {
-      "id": "cc66fda1464b277189e8883a1a6f7279",
-      "title": "Turkey detains mayors of opposition-run Antalya, Adana, Adıyaman - Euronews.com",
-      "source": "Euronews.com",
-      "url": "https://www.euronews.com/2025/07/05/crackdown-on-turkish-opposition-intensifies-as-antalya-adana-adiyaman-chp-mayors-detained",
-      "image_url": "https://static.euronews.com/articles/stories/09/35/77/18/1200x675_cmsv2_b1b78b77-79de-5e73-983a-050bf80ed16a-9357718.jpg",
-      "summary": "With your agreement, we and our 188 partners use cookies or similar technologies to store, access, and process personal data like your visit on this website, IP addresses and cookie identifiers. Some partners do not ask for your consent to process your data and rely on their legitimate business interest. You can withdraw your consent or object to data processing...",
-      "published": "Sat, 05 Jul 2025 17:04:41 GMT"
-    },
-    {
-      "id": "a2f6dab18f69a769b979d05f8857cad0",
-      "title": "Arsonist sets fire to door at Australian synagogue with worshippers inside; no injuries reported - CBS News",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/australian-synagogue-set-on-fire-congregation-worshippers-inside-victoria-melbourne/",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/07/05/62dbe5a0-5601-4a2f-8f9b-211264273a45/thumbnail/1200x630/9b99dd6966ffef07850ec82a953efad4/ap25186152049839.jpg",
-      "summary": "Arsonist sets fire to door at Australian synagogue with worshippers inside; no injuries reported July 5, 2025 / 6:46 AM EDT / CBS/AP An arsonist set fire to the door of a Melbourne synagogue and forced the congregation to flee on Friday, seven months after criminals destroyed a synagogue in the same Australian city with an accelerant-fueled blaze that left...",
-      "published": "Sat, 05 Jul 2025 10:46:47 GMT"
-    },
-    {
-      "id": "410ea3c691101364cbc788b86db9d3a7",
-      "title": "OPEC+ to boost oil production by 548,000 barrels per day in August - AP News",
-      "source": "AP News",
-      "url": "https://apnews.com/article/opec-boosts-oil-production-891365fcd8f487c4d5f4d2dab1868c78",
-      "image_url": "https://apnews.com/favicon.ico",
-      "summary": "Verify you are human by completing the action below. apnews.com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
-      "published": "Sat, 05 Jul 2025 18:41:00 GMT"
-    },
-    {
-      "id": "ed646934ab22a453979686f054573121",
-      "title": "Retail investors reap big gains from ‘buying the dip’ in US stocks - Financial Times",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d73a6ddc-d0a7-4aa7-bfbd-809c120cf19d",
-      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F625a6992-7fe0-4ef2-bc1e-47381dfa0d57.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Retail investors reap big gains from ‘buying the dip’ in US stocks A record $155bn from individual investors has flowed into Wall Street equities this year, even as markets stumbled Retail investors reap big gains from ‘buying the dip’...",
-      "published": "Sun, 06 Jul 2025 04:01:08 GMT"
-    },
-    {
-      "id": "dc3db95f653e37f776ac57d4a8b4ac84",
-      "title": "China’s first Legoland builds Great Wall replica to lure under-pressure consumers - Financial Times",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/6bc786fc-9e1a-4147-92f7-1db62576a064",
-      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa606b2bd-6374-4380-9901-dffef6c417fa.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. China’s first Legoland builds Great Wall replica to lure under-pressure consumers Ambitious theme park projects reflect hopes that foreign brands can boost spending in slowing economy © Hector Retamal/AFP/Getty Images China’s first Legoland builds Great Wall replica to lure...",
-      "published": "Sat, 05 Jul 2025 04:00:39 GMT"
-    },
-    {
-      "id": "5d0839c202f475783fd9dcb543816a03",
-      "title": "Earn Bitcoin Daily with Zero Investment: 8 Best Free Cloud Mining Platforms Backed by Crypto Experts - Blockster",
-      "source": "Blockster",
-      "url": "https://blockster.com/earn-bitcoin-daily-with-zero-investment-8-best-free-cloud-mining-platforms-backed-by-crypto-experts",
-      "image_url": "https://ik.imagekit.io/blockster/2bd76bff-f1bb-492c-a881-bcd51af6527b.jpg?tr=w-400,h-400#keepProtocol",
-      "summary": "Earn Bitcoin Daily with Zero Investment: 8 Best Free Cloud Mining Platforms Backed by Crypto Experts In the fast-paced realm of cryptocurrency, cloud mining continues to attract both beginners and seasoned investors due to its low-barrier entry and minimal technical requirements. Free cloud mining platforms have especially surged in popularity, giving users the ability to mine cryptocurrencies like Bitcoin, Litecoin,...",
-      "published": "Fri, 04 Jul 2025 13:03:53 GMT"
-    },
-    {
-      "id": "d6675ebbeb162f9e45a58eec009bf53a",
-      "title": "The Apple 4th of July deals you can still get include the newest iPad and iPad mini at record-low prices - Yahoo",
-      "source": "Yahoo",
-      "url": "https://tech.yahoo.com/deals/article/the-apple-4th-of-july-deals-you-can-still-get-include-the-newest-ipad-and-ipad-mini-at-record-low-prices-161459218.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/CoA3tD9PM29rRGo.48o0pA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/2e242900-574f-11f0-af7f-0b8fda5f8aa3",
-      "summary": "Amazon Prime Day 2025: Best early deals Best Apple deals right now: AirPods, iPad on sale The best streaming services: Tested and reviewed If you buy something through a link in this article, we may earn commission. Pricing and availability are subject to change. The Apple 4th of July deals you can still get include the newest iPad and iPad...",
-      "published": "Sat, 05 Jul 2025 14:28:13 GMT"
-    },
-    {
-      "id": "51b7a359615fcb1b3f8fd96389fe5c89",
-      "title": "Xbox Producer Offers Laid-Off Devs to Use AI For 'Emotional Clarity & Confidence' - 80 Level",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/xbox-producer-offers-laid-off-devs-to-use-ai-for-emotional-clarity-confidence",
-      "image_url": "https://cdn.80.lv/api/upload/meta/42797/images/6868a1066815c/contain_1200x630.jpeg",
-      "summary": "Xbox Producer Offers Laid-Off Devs to Use AI For 'Emotional Clarity & Confidence' \"Hey, ChatGPT, what should I do when I can't read the room? \" Art-To-Experience Contest: A Creative Challenge by Emperia and 80 Level Matt Turnbull, who has been working as an executive producer at Xbox Game Studios for about 15 years, directly contributing to the development of...",
-      "published": "Sat, 05 Jul 2025 03:52:19 GMT"
-    },
-    {
-      "id": "ebb777ec80aa69484ee6a8cfa980d0f3",
-      "title": "Nintendo Switch 2 restocks live — retailers to check now - Tom's Guide",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/live/news/nintendo-switch-2-restocks-news-and-updates",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/K5KeExkmJ5nmkZXDxgHuCZ.jpg",
-      "summary": "Nintendo Switch 2 restocks live — retailers to check now We're checking all retailers for Switch 2 restock By Rory Mellon last updated 12 hours ago When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. Nintendo Switch 2 continues to be sold out across retailers, but restocks are on the way...",
-      "published": "Mon, 30 Jun 2025 11:42:31 GMT"
-    },
-    {
-      "id": "18941218ed45d532de3ed7e571bea47a",
-      "title": "Which strength training method is best for you? Experts break down the options - The Seattle Times",
-      "source": "The Seattle Times",
-      "url": "https://www.seattletimes.com/seattle-news/health/which-strength-training-method-is-best-for-you-experts-break-down-the-options/",
-      "image_url": "https://images.seattletimes.com/wp-content/uploads/2025/07/urnpublicidap.org4eb437efde74b4dc5e937c53f26ff528Spain_Be_Well_61301.jpg?d=1200x630",
-      "summary": "Which strength training method is best for you? Experts break down the options People work out in an open-air gym next to the beach in Barcelona, Spain, Saturday, June 21, 2025. (AP Photo/Emilio Morenatti) 1 of 6 | People work out in an open-air gym next to the beach in Barcelona, Spain, Saturday, June 21,. .. (AP Photo/Emilio Morenatti) More...",
-      "published": "Sat, 05 Jul 2025 17:20:08 GMT"
+      "id": "7c4bf853e27c95e3e6e8fcf0b82a7edf",
+      "title": "Brazil police raid former president Jair Bolsonaro’s home, headquarters - Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/7/18/brazil-police-raid-former-president-jair-bolsonaros-home-headquarters",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25198567445602-1752844810.jpg?resize=1920%2C1440",
+      "summary": "Enrich your Al Jazeera experience by signing in or creating an account. Brazil authorities raid Bolsonaro’s home, require him to wear monitor Authorities accuse Bolsonaro of working with US to impose Brazil sanctions, as Trump threatens 50 percent tariffs. Former President Jair Bolsonaro gives a press conference in Brasilia, Brazil, on July 17 [Luis Nova/The Associated Press] Save articles to...",
+      "published": "Fri, 18 Jul 2025 13:18:41 GMT"
     }
   ]
 }
