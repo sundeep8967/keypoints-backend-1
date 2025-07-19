@@ -45,6 +45,7 @@ on:
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
+    environment: SUPABASE_URL
     
     # Add permissions to allow pushing to the repository
     permissions:
