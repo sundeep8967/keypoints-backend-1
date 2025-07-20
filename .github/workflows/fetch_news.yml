@@ -64,43 +64,74 @@ jobs:
       with:
         python-version: '3.8'  # Use 3.8 for better compatibility
     
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}-v2
+        restore-keys: |
+          ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}-
+          ${{ runner.os }}-pip-v2-
+          ${{ runner.os }}-pip-
+    
+    - name: Cache NLTK data
+      uses: actions/cache@v3
+      with:
+        path: ~/nltk_data
+        key: ${{ runner.os }}-nltk-data-v1
+        restore-keys: |
+          ${{ runner.os }}-nltk-data-
+    
+    - name: Cache Chrome and WebDriver
+      uses: actions/cache@v3
+      with:
+        path: |
+          ~/.cache/selenium
+          ~/.wdm
+        key: ${{ runner.os }}-chrome-webdriver-v1
+        restore-keys: |
+          ${{ runner.os }}-chrome-webdriver-
+    
     - name: Install dependencies
       run: |
         # Show Python and pip versions for debugging
         python --version
         pip --version
-        # Install setuptools version that supports use_2to3
-        pip install "setuptools<58"
-        pip install sgmllib3k
-        pip install dateparser
-        pip install urllib3
-        pip install idna
-        pip install certifi
-        pip install soupsieve
-        pip install charset-normalizer
-        pip install chardet
-        pip install typing_extensions starlette pydantic
-        # Install summarization dependencies
-        pip install nltk==3.8.1
-        pip install newspaper3k==0.2.8
-        pip install 'lxml[html_clean]>=4.9.0'
-        pip install lxml_html_clean
-        pip install requests-file>=1.5.1
-        pip install feedparser>=6.0.0
-        pip install tldextract>=3.1.0
-        pip install cssselect>=1.1.0
-        pip install feedfinder2>=0.0.4
-        pip install jieba3k>=0.35.1
-        pip install python-dateutil>=2.8.2
-        # Install Selenium dependencies
-        pip install selenium
-        pip install webdriver-manager
-        # Download NLTK data
-        python -m nltk.downloader punkt
-        # Install dependencies from requirements.txt --no-deps
-        pip install -r requirements.txt --no-deps
-        # List installed packages for debugging
-        pip list
+        
+        # Upgrade pip and install wheel for faster builds
+        pip install --upgrade pip wheel
+        
+        # Install all dependencies from requirements file
+        echo "Installing dependencies from requirements.txt..."
+        pip install -r requirements.txt
+        
+        # Download NLTK data (will be cached)
+        python -c "
+        import nltk
+        import os
+        nltk_data_dir = os.path.expanduser('~/nltk_data')
+        if not os.path.exists(os.path.join(nltk_data_dir, 'tokenizers', 'punkt')):
+            print('Downloading NLTK punkt data...')
+            nltk.download('punkt', download_dir=nltk_data_dir)
+        else:
+            print('NLTK punkt data already cached')
+        "
+        
+        # Verify key imports work
+        python -c "
+        try:
+            import pygooglenews
+            import selenium
+            import nltk
+            print('SUCCESS: All key dependencies imported successfully')
+        except ImportError as e:
+            print(f'ERROR: Import error: {e}')
+            exit(1)
+        "
+        
+        # List installed packages for debugging (only show key ones)
+        echo "Key installed packages:"
+        pip list | grep -E "(selenium|nltk|newspaper|pygooglenews|webdriver-manager)" || echo "Package listing completed"
     
     - name: Verify installation
       run: |
@@ -174,6 +205,21 @@ jobs:
         # Trending topics
         python scripts/fetch_news.py --type search --query "trending" --when 1d --output data/news_trending.json
     
+    - name: Set up Chrome for Selenium
+      if: github.event_name == 'push' || github.event_name == 'schedule'
+      run: |
+        # Check if Chrome is already installed
+        if command -v google-chrome &> /dev/null; then
+          echo "Chrome already installed: $(google-chrome --version)"
+        else
+          echo "Installing Chrome for Selenium..."
+          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          echo "Chrome installed: $(google-chrome --version)"
+        fi
+    
     - name: Generate Inshorts-style news
       if: github.event_name == 'push' || github.event_name == 'schedule'
       run: |
@@ -181,20 +227,13 @@ jobs:
         echo "Checking for news files..."
         ls -la data/
         
-        # Set up Chrome for Selenium
-        echo "Setting up Chrome for Selenium..."
-        wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-        sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
-        sudo apt-get update
-        sudo apt-get install -y google-chrome-stable
-        
-        # Generate Inshorts-style summaries for all news categories
-        echo "Generating Inshorts summaries for all categories..."
-        python scripts/generate_all_inshorts.py --input-dir data --output-dir data --max-articles 20 --headless
+        # Generate Inshorts-style summaries for all news categories using shared browser
+        echo "Generating Inshorts summaries for all categories with shared browser optimization..."
+        python scripts/generate_all_inshorts.py --input-dir data --output-dir data --max-articles 15 --headless
         
         # List generated files
         echo "Generated Inshorts files:"
-        ls -la data/inshorts_*
+        ls -la data/inshorts_* 2>/dev/null || echo "No inshorts files generated yet"
     
     - name: Push to Supabase
       if: github.event_name == 'push' || github.event_name == 'schedule'

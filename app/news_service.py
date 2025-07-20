@@ -3,8 +3,16 @@ News service module using PyGoogleNews
 """
 import logging
 from typing import Dict, List, Optional
-from pygooglenews import GoogleNews
-from app.summarizer import NewsSummarizer
+from pygooglenews_module import GoogleNews
+
+# Make summarizer import optional to avoid dependency issues
+try:
+    from app.summarizer import NewsSummarizer
+    SUMMARIZER_AVAILABLE = True
+except ImportError as e:
+    print(f"Warning: Summarizer not available due to missing dependencies: {e}")
+    SUMMARIZER_AVAILABLE = False
+    NewsSummarizer = None
 
 logger = logging.getLogger(__name__)
 
@@ -104,7 +112,7 @@ class NewsService:
                     }
                     
                     # Add AI-generated summary if requested
-                    if include_summary and article['link']:
+                    if include_summary and article['link'] and SUMMARIZER_AVAILABLE:
                         try:
                             summary = NewsSummarizer.summarize_from_url(article['link'])
                             if summary and inshorts_style:
@@ -115,6 +123,8 @@ class NewsService:
                         except Exception as e:
                             logger.error(f"Error generating summary: {e}")
                             article['ai_summary'] = None
+                    elif include_summary and not SUMMARIZER_AVAILABLE:
+                        article['ai_summary'] = "Summarizer not available - missing dependencies"
                     
                     formatted_data.append(article)
             logger.info(f"Formatted {len(formatted_data)} articles")
