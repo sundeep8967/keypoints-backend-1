@@ -50,8 +50,15 @@ DEFAULT_CATEGORIES = [
     "travel", 
     "fashion", 
     "education", 
-    "miscellaneous"
+    "miscellaneous",
+    "scandal",
+    "viral", 
+    "crime",
+    "celebrity",
+    "political_scandal"
 ]
+
+# Extended categories including scandal and viral content
 
 # Categories supported by PyGoogleNews topic_headlines
 SUPPORTED_TOPIC_CATEGORIES = [
@@ -75,7 +82,13 @@ SEARCH_BASED_CATEGORIES = {
     "travel": "travel tourism news",
     "fashion": "fashion style news",
     "education": "education school university news",
-    "miscellaneous": "general news"
+    "miscellaneous": "general news",
+    # New scandal and viral categories
+    "scandal": "scandal controversy corruption exposed",
+    "viral": "viral trending goes viral internet sensation",
+    "crime": "arrest investigation fraud lawsuit criminal charges",
+    "celebrity": "celebrity scandal hollywood controversy celebrity drama",
+    "political_scandal": "political scandal government corruption election fraud"
 }
 
 def parse_args():
@@ -102,7 +115,7 @@ Examples:
         nargs="+",
         choices=ALL_AVAILABLE_CATEGORIES,
         default=DEFAULT_CATEGORIES,
-        help=f"Categories to process (default: original categories only). All available: {', '.join(ALL_AVAILABLE_CATEGORIES)}"
+        help=f"Categories to process (default: all categories). Available: {', '.join(ALL_AVAILABLE_CATEGORIES)}"
     )
     
     # Processing options
@@ -384,6 +397,7 @@ def main():
     # Handle headless override
     if args.no_headless:
         args.headless = False
+    
     
     logger.info("🚀 Starting Complete News Processing Workflow")
     logger.info(f"📂 Data directory: {args.data_dir}")
