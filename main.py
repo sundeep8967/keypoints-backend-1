@@ -23,6 +23,8 @@ import time
 from pathlib import Path
 from typing import List, Optional
 import json
+from multiprocessing import Pool, cpu_count
+from functools import partial
 
 # Configure logging
 logging.basicConfig(
@@ -219,93 +221,129 @@ def run_command(cmd: List[str], description: str) -> bool:
             logger.error(f"Stderr: {e.stderr}")
         return False
 
+def fetch_single_category(args_tuple):
+    """Fetch news for a single category - used for parallel processing"""
+    category, data_dir, language, country = args_tuple
+    
+    output_file = os.path.join(data_dir, f"news_{category}.json")
+    
+    if category == "top":
+        cmd = [
+            sys.executable, "scripts/fetch_news.py",
+            "--type", "top",
+            "--output", output_file,
+            "--language", language,
+            "--country", country
+        ]
+    elif category in SUPPORTED_TOPIC_CATEGORIES:
+        cmd = [
+            sys.executable, "scripts/fetch_news.py", 
+            "--type", "topic",
+            "--topic", category,
+            "--output", output_file,
+            "--language", language,
+            "--country", country
+        ]
+    elif category in SEARCH_BASED_CATEGORIES:
+        search_query = SEARCH_BASED_CATEGORIES[category]
+        cmd = [
+            sys.executable, "scripts/fetch_news.py",
+            "--type", "search",
+            "--query", search_query,
+            "--when", "1d",
+            "--output", output_file,
+            "--language", language,
+            "--country", country
+        ]
+    else:
+        logger.warning(f"⚠️  Unknown category: {category}, skipping...")
+        return False
+    
+    return run_command(cmd, f"Fetching {category} news")
+
+def process_single_category(args_tuple):
+    """Process a single category for extraction and summarization - used for parallel processing"""
+    category, data_dir, max_articles, timeout, summary_length, headless = args_tuple
+    
+    input_file = os.path.join(data_dir, f"news_{category}.json")
+    output_file = os.path.join(data_dir, f"inshorts_{category}.json")
+    
+    # Check if input file exists
+    if not os.path.exists(input_file):
+        logger.warning(f"⚠️  Input file not found: {input_file}")
+        return False
+    
+    cmd = [
+        sys.executable, "scripts/generate_inshorts_selenium.py",
+        "--input", input_file,
+        "--output", output_file,
+        "--max-articles", str(max_articles),
+        "--timeout", str(timeout),
+        "--summary-length", str(summary_length)
+    ]
+    
+    if headless:
+        cmd.append("--headless")
+    
+    return run_command(cmd, f"Processing {category} articles")
+
 def step1_fetch_news(categories: List[str], data_dir: str, language: str, country: str) -> int:
-    """Step 1: Fetch news for all categories"""
+    """Step 1: Fetch news for all categories using parallel processing"""
     logger.info("\n" + "="*60)
-    logger.info("📰 STEP 1: FETCHING NEWS")
+    logger.info("📰 STEP 1: FETCHING NEWS (PARALLEL)")
     logger.info("="*60)
+    
+    # Prepare arguments for parallel processing
+    fetch_args = [(category, data_dir, language, country) for category in categories]
+    
+    # Use parallel processing with limited workers to be respectful to APIs
+    max_workers = min(4, cpu_count(), len(categories))  # Limit to 4 workers max
+    logger.info(f"🔄 Using {max_workers} parallel workers for fetching")
     
     success_count = 0
     
-    for category in categories:
-        output_file = os.path.join(data_dir, f"news_{category}.json")
-        
-        if category == "top":
-            cmd = [
-                sys.executable, "scripts/fetch_news.py",
-                "--type", "top",
-                "--output", output_file,
-                "--language", language,
-                "--country", country
-            ]
-        elif category in SUPPORTED_TOPIC_CATEGORIES:
-            cmd = [
-                sys.executable, "scripts/fetch_news.py", 
-                "--type", "topic",
-                "--topic", category,
-                "--output", output_file,
-                "--language", language,
-                "--country", country
-            ]
-        elif category in SEARCH_BASED_CATEGORIES:
-            # Use search for unsupported topics
-            search_query = SEARCH_BASED_CATEGORIES[category]
-            cmd = [
-                sys.executable, "scripts/fetch_news.py",
-                "--type", "search",
-                "--query", search_query,
-                "--when", "1d",  # Last 1 day
-                "--output", output_file,
-                "--language", language,
-                "--country", country
-            ]
-        else:
-            logger.warning(f"⚠️  Unknown category: {category}, skipping...")
-            continue
-        
-        if run_command(cmd, f"Fetching {category} news"):
-            success_count += 1
-        
-        # Small delay between requests to be respectful
-        time.sleep(1)
+    with Pool(processes=max_workers) as pool:
+        results = pool.map(fetch_single_category, fetch_args)
+        success_count = sum(1 for result in results if result)
     
     logger.info(f"\n📊 Step 1 Summary: {success_count}/{len(categories)} categories fetched successfully")
     return success_count
 
 def step2_extract_and_summarize(categories: List[str], data_dir: str, max_articles: int, 
                                timeout: int, summary_length: int, headless: bool) -> int:
-    """Step 2: Extract images and generate summaries"""
+    """Step 2: Extract images and generate summaries using parallel processing"""
     logger.info("\n" + "="*60)
-    logger.info("🖼️ STEP 2: EXTRACTING IMAGES & GENERATING SUMMARIES")
+    logger.info("🖼️ STEP 2: EXTRACTING IMAGES & GENERATING SUMMARIES (PARALLEL)")
     logger.info("="*60)
+    
+    # Filter categories that have input files
+    valid_categories = []
+    for category in categories:
+        input_file = os.path.join(data_dir, f"news_{category}.json")
+        if os.path.exists(input_file):
+            valid_categories.append(category)
+        else:
+            logger.warning(f"⚠️  Input file not found: {input_file}")
+    
+    if not valid_categories:
+        logger.error("❌ No valid input files found for processing")
+        return 0
+    
+    # Prepare arguments for parallel processing
+    process_args = [(category, data_dir, max_articles, timeout, summary_length, headless) 
+                   for category in valid_categories]
+    
+    # Use fewer workers for Selenium processing to avoid resource conflicts
+    max_workers = min(2, cpu_count(), len(valid_categories))  # Limit to 2 workers for Selenium
+    logger.info(f"🔄 Using {max_workers} parallel workers for processing")
     
     success_count = 0
     
-    for category in categories:
-        input_file = os.path.join(data_dir, f"news_{category}.json")
-        output_file = os.path.join(data_dir, f"inshorts_{category}.json")
-        
-        # Check if input file exists
-        if not os.path.exists(input_file):
-            logger.warning(f"⚠️  Input file not found: {input_file}")
-            continue
-        
-        cmd = [
-            sys.executable, "scripts/generate_inshorts_selenium.py",
-            "--input", input_file,
-            "--output", output_file,
-            "--max-articles", str(max_articles),
-            "--timeout", str(timeout),
-            "--summary-length", str(summary_length)
-        ]
-        
-        if headless:
-            cmd.append("--headless")
-        
-        if run_command(cmd, f"Processing {category} articles"):
-            success_count += 1
+    with Pool(processes=max_workers) as pool:
+        results = pool.map(process_single_category, process_args)
+        success_count = sum(1 for result in results if result)
     
-    logger.info(f"\n📊 Step 2 Summary: {success_count}/{len(categories)} categories processed successfully")
+    logger.info(f"\n📊 Step 2 Summary: {success_count}/{len(valid_categories)} categories processed successfully")
     return success_count
 
 def step3_upload_to_supabase(data_dir: str) -> bool:
