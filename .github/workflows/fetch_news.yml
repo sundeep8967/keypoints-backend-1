@@ -9,38 +9,6 @@ on:
     # Run daily at 6 AM UTC (adjust timezone as needed)
     - cron: '0 6 * * *'
   workflow_dispatch:
-    inputs:
-      news_type:
-        description: 'Type of news to fetch'
-        required: true
-        default: 'top'
-        type: choice
-        options:
-          - top
-          - topic
-          - search
-          - geo
-      topic:
-        description: 'Topic for topic headlines'
-        required: false
-        type: string
-      query:
-        description: 'Query for search'
-        required: false
-        type: string
-      when:
-        description: 'Time period for search (e.g., 1h, 1d)'
-        required: false
-        type: string
-      location:
-        description: 'Location for geo news'
-        required: false
-        type: string
-      output_path:
-        description: 'Path to save output JSON file'
-        required: false
-        default: 'data/news.json'
-        type: string
 
 jobs:
   fetch-news:
@@ -163,29 +131,11 @@ jobs:
         # Trending topics
         python scripts/fetch_news.py --type search --query "trending" --when 1d --output data/news_trending.json
     
-    - name: Fetch news (manual)
+    - name: Run complete news workflow (manual)
       if: github.event_name == 'workflow_dispatch'
       run: |
-        ARGS="--type ${{ github.event.inputs.news_type }} --output ${{ github.event.inputs.output_path }}"
-        
-        if [ "${{ github.event.inputs.news_type }}" = "topic" ] && [ -n "${{ github.event.inputs.topic }}" ]; then
-          ARGS="$ARGS --topic ${{ github.event.inputs.topic }}"
-        fi
-        
-        if [ "${{ github.event.inputs.news_type }}" = "search" ] && [ -n "${{ github.event.inputs.query }}" ]; then
-          ARGS="$ARGS --query ${{ github.event.inputs.query }}"
-          
-          if [ -n "${{ github.event.inputs.when }}" ]; then
-            ARGS="$ARGS --when ${{ github.event.inputs.when }}"
-          fi
-        fi
-        
-        if [ "${{ github.event.inputs.news_type }}" = "geo" ] && [ -n "${{ github.event.inputs.location }}" ]; then
-          ARGS="$ARGS --location ${{ github.event.inputs.location }}"
-        fi
-        
-        mkdir -p $(dirname ${{ github.event.inputs.output_path }})
-        python scripts/fetch_news.py $ARGS
+        # Run the complete workflow as defined in main.py
+        python main.py --headless
     
     - name: Fetch news (push trigger)
       if: github.event_name == 'push'
