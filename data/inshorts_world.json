@@ -1,54 +1,144 @@
 {
   "metadata": {
     "source_file": "data/news_world.json",
-    "generation_time": "2025-07-20 17:57:13",
-    "total_articles": 5
+    "generation_time": "2025-07-23 07:55:39",
+    "total_articles": 15
   },
   "articles": [
     {
-      "id": "583b565723622381e90ae2de2b84aa9b",
-      "title": "Hong Kong issues highest storm warning as typhoon Wipha approaches - Reuters",
+      "id": "8e575b02e9d218839c3578accd6d284e",
+      "title": "Protests in Ukraine as Zelensky signs bill targeting anti-corruption bodies - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c9w19pl84r8o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a0fa/live/c7377370-6750-11f0-89ea-4d6f9851f623.jpg",
+      "summary": "Protests in Ukraine as Zelensky signs bill targeting anti-corruption bodies Protesters gather in Kyiv after a bill was passed targeting the country's anti-corruption bodies President Volodymyr Zelensky has signed a bill that critics say weakens the independence of Ukraine's anti-corruption bodies, sparking protests in several cities and drawing international criticism. The new law grants the prosecutor general control of the...",
+      "published": "Wed, 23 Jul 2025 02:05:36 GMT"
+    },
+    {
+      "id": "8824dc8c9ce1008dedad2bc4b07ab464",
+      "title": "China rallies for opposition as Taiwan gears up for mass parliamentary recall - Reuters",
       "source": "Reuters",
-      "url": "https://www.reuters.com/business/environment/hong-kong-issues-highest-storm-warning-typhoon-wipha-approaches-2025-07-20/",
+      "url": "https://www.reuters.com/business/media-telecom/china-rallies-opposition-taiwan-gears-up-mass-parliamentary-recall-2025-07-22/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sun, 20 Jul 2025 06:59:00 GMT"
+      "published": "Wed, 23 Jul 2025 00:22:00 GMT"
     },
     {
-      "id": "8a135d5aa59c4803a7ec49014d6b8427",
-      "title": "A tsunami threat is over after several large quakes off Russia’s Pacific coast - AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWVvM0hQVGdKTUYtQVVJUTJIeV9wUmNyb01aMFZodmNEaFNxektxbVZxXzItQ0NBZ2ZRNzNrRF9lTDIxSFpzNjJuQktXODV1dHBwNVN0Z2htUlBaaV9tSUdxQTJWY1o5a1l0dEhvbUxOYkwxOThlMlpIVHhlb3QwWXo5N3FOdkZ4ZE9zNTln?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 20 Jul 2025 09:39:00 GMT"
-    },
-    {
-      "id": "e57030dee6775bd629151a08de2d03f0",
-      "title": "At Least 28 Dead After Tourist Boat Capsizes in Vietnam’s Ha Long Bay - The New York Times",
+      "id": "9efbbed057144ae7154c3ecbd5bc3207",
+      "title": "Syrian Inquiry Says Military Leaders Did Not Order Sectarian Killings in March - The New York Times",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/07/19/world/asia/vietnam-tourist-boat-capsizes.html",
+      "url": "https://www.nytimes.com/2025/07/22/world/middleeast/syria-military-killings-human-rights.html",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sun, 20 Jul 2025 10:15:00 GMT"
+      "published": "Tue, 22 Jul 2025 20:09:30 GMT"
     },
     {
-      "id": "bb736325b352c94a49acecbec2e96e81",
-      "title": "IDF set to begin ground operations in central Gaza’s Deir al-Balah for first time - The Times of Israel",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/idf-set-to-begin-ground-operations-in-central-gazas-deir-al-balah-for-first-time/",
-      "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/07/AP25188616093051.jpg",
-      "summary": "IDF set to begin ground operations in central Gaza’s Deir al-Balah for first time Hamas has held captives in city, which saw hostage release in February; 2. 7 kilometers of tunnels destroyed in Jabalia, other terror infrastructure razed in Beit Hanoun Palestinians carry containers for water at a camp for the displaced in Deir al-Balah, Gaza Strip, July 7, 2025.",
-      "published": "Sun, 20 Jul 2025 08:14:03 GMT"
+      "id": "f13c8502b3f66c1f8f2122b28f94260f",
+      "title": "The tiny Pacific nation of Vanuatu turns to the world court as climate disasters mount - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/science/climate-change/tiny-pacific-nation-vanuatu-turns-world-court-climate-disasters-mount-rcna220215",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250722-Vanuatu-rs-e4ce79.jpg",
+      "summary": "The tiny Pacific nation of Vanuatu turns to the world court as climate disasters mount The damage isn’t limited to homes, gardens and reefs — it’s reaching into places once thought to be untouchable. The once iconic Holiday Inn villas in Port Vila, Vanuatu, sit partially sunken Saturday after being hit by multiple cyclones and an earthquake. Annika Hammerschlag /...",
+      "published": "Tue, 22 Jul 2025 14:06:27 GMT"
     },
     {
-      "id": "8f405d261c78c34f369a505ef019bbb7",
-      "title": "As U.S. hails Syria ceasefire, Sweida residents say fighting rages on - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHNUajBUaUNKeXdrLXh6VDBxVXVtNm8tOUJFbDRLQlhGWGlqejdlZl9Wdm9DVkpZZHIza2kyQVNBYkZoQS1veFR6dzNONmJOT3RySDBEV1kzaFg4c3h1REFQTE11djNFWkFOMERYZDlrbVNGcXhncWh0d2dSTm1ESXA0V1JTb3IzWV9wMlNuSkVxMDg?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "id": "8c0325c89c8f94b4e3b0698c2196c22f",
+      "title": "WHO to expand medical services after staff residence in Gaza attacked by IDF - ABC News",
+      "source": "ABC News",
+      "url": "https://abcnews.go.com/International/staff-residence-gaza-attacked-idf/story?id=123949238",
+      "image_url": "https://i.abcnewsfe.com/a/7295cec8-083f-45de-b486-85eb93a35f02/Deir-al-Balah-attack_1753171106757_hpMain_16x9.jpg?w=1600",
+      "summary": "WHO to expand medical services after staff residence in Gaza attacked by IDF \"WHO condemns in the strongest terms the attacks,\" officials said. ByJon Haworth and Nadine El-Bawab Deaths from hunger rising in Gaza, Hamas-run ministry saysABC News' Tom Soufi Burridge reports on the state of humanitarian aid in Gaza, as well as Israeli military operations targeting Hamas. LONDON --...",
+      "published": "Tue, 22 Jul 2025 19:30:37 GMT"
+    },
+    {
+      "id": "c1f5f6b36c65a22273294c0e122a15f0",
+      "title": "EU leaders brace for frosty China summit as trade frictions bite - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/eu-leaders-brace-frosty-china-summit-trade-frictions-bite-2025-07-22/",
+      "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sun, 20 Jul 2025 01:13:54 GMT"
+      "published": "Wed, 23 Jul 2025 00:36:00 GMT"
+    },
+    {
+      "id": "dc17b800d347b5fc3cd9f76ff3431f6b",
+      "title": "Gaza health ministry says 33 people died from malnutrition in 48 hours - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq8zlx8xwjno",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a711/live/73eb0c80-671a-11f0-8139-991899391ed8.jpg",
+      "summary": "Gaza health ministry says 33 people died from malnutrition in 48 hours Thirteen-year-old Abdul Hamid al-Ghalban was among the four children who reportedly died of malnutrition over the past 24 hours At least 33 Palestinians, including 12 children, have died as a result of malnutrition across the Gaza Strip in the past 48 hours, the Hamas-run health ministry has said.",
+      "published": "Tue, 22 Jul 2025 17:48:23 GMT"
+    },
+    {
+      "id": "14abcc2ee914166e27c5ad982ee841ba",
+      "title": "Agence France-Presse says it wants to pull its hunger-stricken journalists out of Gaza - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/07/22/nx-s1-5476532/agence-france-presse-gaza-afp",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2267+0+181/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F07%2Fc645a64d4cc384ca7826467e0c67%2Fgettyimages-2225576456.jpg",
+      "summary": "Agence France-Presse says it wants to pull its hunger-stricken journalists out of Gaza AFP journalist Khader Zaanoun poses for a picture in Gaza City on Tuesday. AFP journalists in the Gaza Strip say chronic food shortages are affecting their ability to cover Israel's conflict with Hamas militants. French news agency Agence France-Presse is calling on the Israeli government to allow...",
+      "published": "Tue, 22 Jul 2025 20:02:16 GMT"
+    },
+    {
+      "id": "8e93decb8ae8a9677e94e1c122a0ffcf",
+      "title": "Russia to fine people for searching for 'extremist' content - dw.com",
+      "source": "dw.com",
+      "url": "https://www.dw.com/en/russia-to-fine-people-for-searching-for-extremist-content/a-73374515",
+      "image_url": "https://static.dw.com/image/73362659_6.jpg",
+      "summary": "DW uses cookies and similar technologies to measure usage, display personalized advertising and share personal data and information with up to 186 third parties. You decide for yourself whether you agree to this use of your data. You can adjust individual details under “Settings” and change them at any time. You can view all of DW's content without agreeing. Social...",
+      "published": "Tue, 22 Jul 2025 23:31:07 GMT"
+    },
+    {
+      "id": "3d2488376f4b645667ea4b528e9d90bf",
+      "title": "Evin prison: Iran's detainees in 'unbearable' conditions after Israeli strikes - BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1jw3j7wydyo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/057f/live/f8ee2530-66f6-11f0-89ea-4d6f9851f623.jpg",
+      "summary": "Iran's detainees in 'unbearable' conditions after Israeli strikes on prison BBC Persian, World Service reporter Parts of Evin prison were badly damaged in the Israeli strikes One month on from deadly Israeli air strikes on a notorious Iranian prison during the war between the two countries, inmates say they are being kept under unbearable and inhumane conditions after being moved...",
+      "published": "Tue, 22 Jul 2025 23:04:55 GMT"
+    },
+    {
+      "id": "b65fc8ae79a3d31b3b6de8f0123915c5",
+      "title": "Death Toll in Bangladesh Air Force Plane Crash Rises to 27 - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-21/chinese-made-f-7-jet-crashes-on-school-in-bangladesh-16-killed",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Tue, 22 Jul 2025 09:36:53 GMT"
+    },
+    {
+      "id": "758b2d04e3711a9abdf5edeb1da87944",
+      "title": "Images from Gaza are ‘unbearable,’ von der Leyen says - politico.eu",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/war-in-gaza-palestine-humanitarian-aid-starvation-israel-ursula-von-der-leyen/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/22/GettyImages-2225506239-scaled.jpg",
+      "summary": "Images from Gaza are ‘unbearable,’ von der Leyen says",
+      "published": "Tue, 22 Jul 2025 19:24:00 GMT"
+    },
+    {
+      "id": "7c8299ad0ee7169e42c4eed30995b23c",
+      "title": "Ukraine-Russia talks set for Wednesday in Turkey, Zelenskyy confirms - ABC News",
+      "source": "ABC News",
+      "url": "https://abcnews.go.com/International/ukraine-russia-talks-set-wednesday-turkey-zelenskyy-confirms/story?id=123949538",
+      "image_url": "https://i.abcnewsfe.com/a/1f69f44c-f681-4985-a9e8-d312df913824/Zelenskyy-main-DB-250720_1752998130847_hpMain_16x9.jpg?w=1600",
+      "summary": "Ukraine-Russia talks set for Wednesday in Turkey, Zelenskyy confirms The meeting will be the third round of talks in recent months. Russia-Ukraine drone strikes ramp up ahead of possible ceasefire talksABC News' Patrick Reevell and contributor Mick Mulroy discuss the latest fighting and what it means for a possible peace deal. LONDON -- Russian and Ukrainian negotiating teams will again...",
+      "published": "Tue, 22 Jul 2025 09:56:15 GMT"
+    },
+    {
+      "id": "fa31a5e40dbf6fe22f8e2dd26aedec39",
+      "title": "White House confirms Trump objected to Israeli strikes in Syria - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2025/07/21/trump-objects-syria-attack-israel",
+      "image_url": "https://images.axios.com/4KRF-7ADjEhJZ5S-xLsc0rcRAeU=/0x178:1454x996/1366x768/2025/07/21/1753128688840.jpeg",
+      "summary": "White House confirms Trump objected to Israeli strikes in Syria Israel's strike on Syrian military HQ in Damascus. Esref Musa /Anadolu via Getty Images White House Press Secretary Karoline Leavitt confirmed on Monday that President Trump was unhappy with Israel's airstrikes in Syria last week and called Prime Minister Benjamin Netanyahu to \"rectify\" the situation. The intrigue: Axios reported Sunday...",
+      "published": "Mon, 21 Jul 2025 20:34:04 GMT"
+    },
+    {
+      "id": "2ca2da35285b9e3b4f5819b454229062",
+      "title": "Russia’s drone swarms pierce Ukraine’s defences at record rate - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1a19df67-3453-4a16-abf1-9fda36142f4b",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc3c99b7d-44b0-4dd4-82d1-4614a5e76d76.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. Russia’s drone swarms pierce Ukraine’s defences at record rate on x (opens in a new window) Russia’s drone swarms pierce Ukraine’s defences at record rate on facebook (opens in a new window) Russia’s drone swarms pierce Ukraine’s defences at...",
+      "published": "Mon, 21 Jul 2025 08:53:44 GMT"
     }
   ]
 }

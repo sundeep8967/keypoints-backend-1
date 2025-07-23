@@ -1,54 +1,144 @@
 {
   "metadata": {
     "source_file": "data/news_business.json",
-    "generation_time": "2025-07-20 17:31:30",
-    "total_articles": 5
+    "generation_time": "2025-07-23 07:45:33",
+    "total_articles": 15
   },
   "articles": [
     {
-      "id": "d78bbf017298f018504c4fc97bda8950",
-      "title": "Atlanta’s Growth Streak Has Come to an End - The Wall Street Journal",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/economy/atlantas-growth-streak-has-come-to-an-end-32aa642c",
+      "id": "2aee3ad2f5128b85410eee0a9c8e7db5",
+      "title": "S&P 500 futures inch higher after index posts fresh closing record, Trump announces Japan trade deal: Live updates - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/07/22/stock-market-today-live-updates.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108174000-1752855917970-gettyimages-2224945253-AFP_677M7TU.jpeg?v=1752855970&w=1920&h=1080",
+      "summary": "Germany’s auto giants rally as U. S.-Japan trade deal raises hopes of a tariff breakthrough S&P 500 futures inch higher after index posts fresh closing record, Trump announces Japan trade deal: Live updates Traders work on the floor of the New York Stock Exchange (NYSE) at the opening bell on July 18, 2025, in New York City. Angela Weiss |...",
+      "published": "Wed, 23 Jul 2025 05:58:00 GMT"
+    },
+    {
+      "id": "8aa2eb9abbcece57043fdc1f1879dcd9",
+      "title": "GM Stock Falls After It Reports a $1.1 Billion Hit From Tariffs - Barron's",
+      "source": "Barron's",
+      "url": "https://www.barrons.com/articles/gm-earnings-stock-price-4e383265",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sun, 20 Jul 2025 10:53:38 GMT"
+      "published": "Tue, 22 Jul 2025 20:41:00 GMT"
     },
     {
-      "id": "ab729fe476587c8cfd6d7f8690b47471",
-      "title": "Chinese Rare-Earth Magnet Exports Surge After U.S. Trade Truce - The Wall Street Journal",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/world/asia/chinese-rare-earth-magnet-exports-surge-after-u-s-trade-truce-f9f6e059",
+      "id": "76c5a1dc5474382376549239caa0009d",
+      "title": "Coca-Cola gets roped into making America healthy again - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/342e1e4e-275b-40bb-820d-b05748ace26f",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd6119cd4-e2cb-4e98-a0ef-1426dabc08fb.jpg?source=next-barrier-page",
+      "summary": "Coca-Cola gets roped into making America healthy again Subscribe to unlock this article Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. See why over a million readers pay to read the Financial Times. Markets data delayed by at least . ..",
+      "published": "Wed, 23 Jul 2025 04:00:10 GMT"
+    },
+    {
+      "id": "80f6d8d0bcf9fb70961ab58ee86cd548",
+      "title": "US Nuclear Weapons Agency Breached in Microsoft SharePoint Hack - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-23/us-nuclear-weapons-agency-breached-in-microsoft-sharepoint-hack",
+      "image_url": null,
+      "summary": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy. For inquiries related to this message...",
+      "published": "Wed, 23 Jul 2025 00:09:00 GMT"
+    },
+    {
+      "id": "d056e38e66a4ee65d70977f1c747ada1",
+      "title": "White House to unveil plan to push US AI abroad, crack down on restrictive rules, document shows - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/white-house-unveil-plan-push-us-ai-abroad-crack-down-restrictive-rules-document-2025-07-22/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sun, 20 Jul 2025 03:59:00 GMT"
+      "published": "Tue, 22 Jul 2025 16:32:50 GMT"
     },
     {
-      "id": "0e80457274570a4db3bb4864f9faefc0",
-      "title": "GENIUS Act blocks Big Tech, banks from dominating stablecoins: Circle exec - Cointelegraph",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/genius-act-clause-limits-big-tech-stablecoin-power",
-      "image_url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-06/0197ad16-3594-7998-b1de-5b68709533c2",
-      "summary": "GENIUS Act blocks Big Tech, banks from dominating stablecoins: Circle exec Circle’s Dante Disparte says the GENIUS Act ensures tech giants and banks can’t dominate the stablecoin market without facing strict structural and regulatory hurdles. The GENIUS Act contains a little-noticed clause that prevents technology giants and Wall Street behemoths from dominating the stablecoin market, according to Circle Chief Strategy...",
-      "published": "Sun, 20 Jul 2025 07:37:00 GMT"
+      "id": "0e4965aa053d67539c2e04d244bf2047",
+      "title": "As the Dollar Slides, the Euro Is Picking Up Speed - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/07/22/business/euro-dollar-currency-tariffs.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Tue, 22 Jul 2025 23:12:54 GMT"
     },
     {
-      "id": "7ace63585a990fc52d201b3bf9417fe4",
-      "title": "Trump says Coca-Cola is switching from high-fructose corn syrup to cane sugar. Is it better for you? - ABC News",
-      "source": "ABC News",
-      "url": "https://abcnews.go.com/Health/trump-coca-cola-switching-high-fructose-corn-syrup/story?id=123827599",
-      "image_url": "https://i.abcnewsfe.com/a/88694e3d-d361-4b9a-b6f0-254c07f1b2e8/coke-gty-jt-250718_1752858669035_hpMain_16x9.jpg?w=1600",
-      "summary": "Trump says Coca-Cola is switching from high-fructose corn syrup to cane sugar. Is it better for you? Experts say it all comes down to how much you consume. Trump says Coke agrees to use cane sugar in USPresident Donald Trump said Wednesday beverage giant Coca-Cola has agreed to use cane sugar in its U. S. drinks. President Donald Trump announced...",
-      "published": "Fri, 18 Jul 2025 20:50:38 GMT"
-    },
-    {
-      "id": "5934cf0ca6117278357d7eecdcf0e744",
-      "title": "3 reasons why investors have largely ignored Trump’s tariff threats as Aug. 1 deadline approaches - MarketWatch",
+      "id": "b14eec6251a4f458255f3a6321fb75ba",
+      "title": "This small-cap index is approaching its first ‘golden cross’ in 18 months. Here’s what history shows will come next. - MarketWatch",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/3-reasons-why-investors-have-largely-ignored-trumps-tariff-threats-as-aug-1-deadline-approaches-80698776",
+      "url": "https://www.marketwatch.com/story/the-small-cap-benchmark-index-is-approaching-its-first-golden-cross-in-18-months-heres-what-history-shows-will-come-next-3b2e037f",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sat, 19 Jul 2025 11:00:00 GMT"
+      "published": "Tue, 22 Jul 2025 20:51:00 GMT"
+    },
+    {
+      "id": "eb6c766f120bb33320f124aaf534576f",
+      "title": "President Trump indicates he'll let Fed Chair Jerome Powell serve out his term - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/07/22/nx-s1-5476308/trump-jerome-powell-fed-chair-job",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2657x1495+0+257/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F46%2F70%2Fe6c709cb43f689600049e77cebe9%2Fgettyimages-869487498.jpg",
+      "summary": "President Trump indicates he'll let Fed Chair Jerome Powell serve out his term President Trump with Jerome Powell after nominating him as chair in 2017. Drew Angerer/Getty Images North America President Trump indicated on Tuesday he would let Jerome Powell serve out his term as Federal Reserve chair, saying \"he's going to be out pretty soon anyway. \" The comment...",
+      "published": "Tue, 22 Jul 2025 19:01:04 GMT"
+    },
+    {
+      "id": "171355e0efcdbbc1640955cc0931f13f",
+      "title": "AI demand drives up electricity supply costs in largest US market to record high - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f1bcd674-5ce4-4bcd-a3a5-4c35649add1b",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fff8b9461-fa0d-45c7-994d-4d09fad283eb.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. AI demand drives up electricity supply costs in largest US market to record high Blow for Trump’s vow of lower prices as grid operator PJM forced to pay 10% more to meet soaring energy needs AI demand drives up...",
+      "published": "Tue, 22 Jul 2025 23:06:15 GMT"
+    },
+    {
+      "id": "6c1f409a7dd522d38bbd8d525ffb450c",
+      "title": "Exclusive: Mark Cuban says AI will soon be a baseline skill like email or Excel - Fortune",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPckhGM2xJWUlOaVhSR0lZaG55UlZKb3E1eHlfUllOUWJGZThsMUtmeXJuTVVsd3JRN2FuU3dvRWp5ZU5aM05OWUtPZzNmV25TZGFva3Q0dDNISFBwTFUwZlQ5a2dJaGJ2RTMxMko4Y21hMGo4RFl5cFI1Rkg4T0dpRlFWa2VGUHMzbzZ5TmFFWVhJcU9EcUhoUVlIZUQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 22 Jul 2025 22:13:48 GMT"
+    },
+    {
+      "id": "a475ca6516a15f1d67c73207738b6a4d",
+      "title": "Tariffs hit U.S. companies hard, but businesses absorb them for now - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2025/07/22/tariffs-cost-gm-stellantis-profits-trump/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OW75XSJXAA5PZ7EFTR6IO6PWOQ.JPG&w=1440",
+      "summary": "Tariffs hit U. S. companies hard, but businesses absorb them for now General Motors said tariffs slashed its second-quarter income by more than $1 billion, and other companies pointed to import duties to explain smaller profits. General Motors expects that tariffs will reduce its annual profit $4 billion to $5 billion this year. (Rebecca Cook/Reuters) By Margot Amouyal and Shannon...",
+      "published": "Wed, 23 Jul 2025 06:10:54 GMT"
+    },
+    {
+      "id": "9b85bf767f0ce979ec9f0a278ae7dad8",
+      "title": "Investors breathe life into new batch of meme stocks as Kohl's, Opendoor Technologies surge - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/investors-breathe-life-batch-meme-193158721.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/vOS7f6bvwNvIYJEF7YNkLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTk7Y2Y9d2VicA--/https://media.zenfs.com/en/ap_finance_articles_694/ca354355f265e079713c6c9b808eb41a",
+      "summary": "Investors breathe life into new batch of meme stocks as Kohl's and Opendoor Technologies surge Tue, July 22, 2025 at 12:31 PM MST 3 min read NEW YORK (AP) — As the stock market pushes into record territory and bargains become harder to find, investors are once again turning to some of Wall Street's beaten down companies in hopes of...",
+      "published": "Tue, 22 Jul 2025 19:31:58 GMT"
+    },
+    {
+      "id": "fca0b5d2a524866f4b939936ae9f62fc",
+      "title": "Sarepta Therapeutics’ Duchenne therapy faces ‘arduous’ path back to market, senior FDA official says - statnews.com",
+      "source": "statnews.com",
+      "url": "https://www.statnews.com/2025/07/22/fda-sarepta-elevidys-muscular-dystrophy-drug/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2016/11/Sarepta-1024x576.jpg",
+      "summary": "Reporting from the frontiers of health and medicine Sarepta Therapeutics’ Duchenne therapy faces ‘arduous’ path back to market, senior FDA official says Remarks suggest license for Elevidys could be revoked over safety concerns By Adam Feuerstein and Jason MastJuly 22, 2025 Sarepta Therapeutics, the maker of a gene therapy for Duchenne muscular dystrophy that is being temporarily shelved because of...",
+      "published": "Tue, 22 Jul 2025 18:36:52 GMT"
+    },
+    {
+      "id": "16b1490b193d037f7e31795aaa5986bf",
+      "title": "Hershey says it is hiking chocolate prices - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/07/22/business/hershey-chocolate-price-increase",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2151324691.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Hershey says it is hiking chocolate prices Published 4:59 PM EDT, Tue July 22, 2025 Hershey milk chocolate candy bars, shown here on May 3, 2024 in San Anselmo, California, could get more expensive soon. Justin Sullivan/Getty Images Your Kit Kat bar and Reese’s Peanut Butter Cups are officially getting pricier. Hershey told its retail partners it is raising prices...",
+      "published": "Tue, 22 Jul 2025 20:59:00 GMT"
+    },
+    {
+      "id": "ea8d9cf2ce9f6abb1116b752e2c2af71",
+      "title": "Lockheed records $1.6B in losses, mostly linked to continued strife on classified aero program - Breaking Defense",
+      "source": "Breaking Defense",
+      "url": "https://breakingdefense.com/2025/07/lockheed-records-1-6b-in-losses-mostly-linked-to-continued-strife-on-classified-aero-program/",
+      "image_url": null,
+      "summary": "Verify you are human by completing the action below. breakingdefense. com needs to review the security of your connection before proceeding. Performance & security by Cloudflare",
+      "published": "Tue, 22 Jul 2025 23:48:45 GMT"
     }
   ]
 }

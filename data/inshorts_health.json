@@ -1,54 +1,144 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-07-20 17:53:29",
-    "total_articles": 5
+    "generation_time": "2025-07-23 06:40:38",
+    "total_articles": 15
   },
   "articles": [
     {
-      "id": "22135871402dbc88c34ed52a5c27caa5",
-      "title": "Women feel more anger as they age, but show it less, study suggests - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOTdMNFRLSjJSNF9uU2tBODljRGp1ci1zYWhQa1ZmS1NhRzRwX1ROanh0Q2UyS01jVGFuTmNjb1FNX05QN3hGbnNxV05oMjNEM3Q5N1FVMl8wQV96MVJ5N1E5TzE4Z3cxZUh0RXNJaWlHNEtweFJ4ODFFSVMwNFluS1gwVQ?oc=5",
+      "id": "b4987baf7172f2c1bed7ca5096fb20a1",
+      "title": "Covid pandemic aged brains by an average of 5.5 months, study finds - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/health/health-news/covid-pandemic-accelerated-brain-aging-study-rcna220048",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250721-covid-aged-our-brains-se-123p-1237eb.jpg",
+      "summary": "The pandemic aged our brains, whether we got Covid or not, study finds The stress of lockdowns, fear and social isolation appear to have left a mark on our brains. Experts say it may be possible to counteract the changes. People ride on the Staten Island Ferry in New York City on July 30, 2021, during the pandemic. Spencer Platt...",
+      "published": "Tue, 22 Jul 2025 19:18:22 GMT"
+    },
+    {
+      "id": "55699a02ed95d08e8fad08748076a779",
+      "title": "Death from brain-eating amoeba presumed to have happened at Lake Murray - WLTX",
+      "source": "WLTX",
+      "url": "https://www.wltx.com/article/news/local/patient-dies-brain-eating-amoeba-south-carolina/101-48e8623e-69b3-41f5-b06b-044c177ddb8c",
+      "image_url": "https://media.wltx.com/assets/WLTX/images/a1ff7161-fc35-4524-805c-064919957207/20250721T215239/a1ff7161-fc35-4524-805c-064919957207_1140x641.jpg",
+      "summary": "Death from brain-eating amoeba presumed to have happened at Lake Murray While the amoeba is common in freshwater, there are things parents can do to lower risk. Published: 4:59 PM EDT July 22, 2025 Updated: 9:02 PM EDT July 22, 2025 COLUMBIA, S. C. — A South Carolina children's hospital has confirmed a death from a brain-eating amoeba in South...",
+      "published": "Tue, 22 Jul 2025 20:59:00 GMT"
+    },
+    {
+      "id": "b109c186ef93b5537bdc6c0e514445f4",
+      "title": "Highly contagious disease found in major Texas city's water - MySA",
+      "source": "MySA",
+      "url": "https://www.mysanantonio.com/news/austin/article/measles-austin-wastewater-20780116.php",
+      "image_url": "https://www.mysanantonio.com/img/logos/black/logo.svg",
+      "summary": "Press & Hold to confirm you are Reference ID a65ad56e-678f-11f0-83d4-41f0e79e8fd0",
+      "published": "Tue, 22 Jul 2025 14:30:47 GMT"
+    },
+    {
+      "id": "f88c27982d4483a710af516af9392cfa",
+      "title": "Protein hype hits teens - LAist",
+      "source": "LAist",
+      "url": "https://laist.com/brief/news/health/teens-are-trying-to-bulk-up-on-protein-supplements-what-should-parents-watch-for",
+      "image_url": "https://scpr.brightspotcdn.com/dims4/default/eda11d8/2147483647/strip/true/crop/3840x2016+0+912/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F3840x3840%201354%200%2Fresize%2F3840x3840%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2F7c%2F8ed3fbc44e0a8d8c5c1557e7a234%2Fgettyimages-1297713692.jpg",
+      "summary": "Local and national news, NPR, things to do, food recommendations and guides to Los Angeles, Orange County and the Inland Empire LAist is part of Southern California Public Radio, a member-supported public media network. The most important stories for you to know today Parents voice concern over teen supplement use Published July 21, 2025 3:15 PM (Huizeng Hu/Moment RF/Getty Images)...",
+      "published": "Mon, 21 Jul 2025 22:15:00 GMT"
+    },
+    {
+      "id": "a1f56251b5349835c2b21832bef0b7f1",
+      "title": "Anti-vax leader says he caught measles in Texas, then flew home to California - Chron",
+      "source": "Chron",
+      "url": "https://www.chron.com/news/article/anti-vax-measles-brian-hooker-20781127.php",
+      "image_url": "https://www.chron.com/img/logos/black/logo.svg",
+      "summary": "Press & Hold to confirm you are Reference ID ae4c9956-678f-11f0-9d0f-41f0e79e8fd0",
+      "published": "Tue, 22 Jul 2025 22:10:07 GMT"
+    },
+    {
+      "id": "3e43c90a1d892cb342b61c39cdeac8f3",
+      "title": "Many Lung Cancers Are Now in Nonsmokers. Scientists Want to Know Why. - The New York Times",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/07/22/well/lung-cancer-nonsmokers.html",
+      "image_url": null,
+      "summary": "No content available for summarization.",
+      "published": "Tue, 22 Jul 2025 17:20:17 GMT"
+    },
+    {
+      "id": "b53baf5c49485aff28cea8b83d5c78b8",
+      "title": "Imminent public health threat for rabies issued in Nassau County - News 12",
+      "source": "News 12",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRVR6NFMwUHEtNmVyTHVoNHdtQUUzQnFWN0padmlyUElxa2RHT0NqQzRuRXVuYmJLelJjR2hObnItNE4zX185WHdoZDFQWjN3WEtnOXFjVFpZSEc3RG5ySDFaczRlQXV0SnY1dnY5WElweS1vTXRhalBhU2ZHcDZwc09jd0pjWDM2TmRFbF9HOUgzVnhsZEgyaUR3?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sat, 19 Jul 2025 17:30:15 GMT"
+      "published": "Tue, 22 Jul 2025 16:27:25 GMT"
     },
     {
-      "id": "a0d8bda28a4b381f0d9557caaa62e5fd",
-      "title": "Our body is a mosaic of fungi. Some scientists think they could be influencing our brain - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWRmdjNtbXdQQzZrcndhRkw4VmV1bHdMcHI0ODJfVVFSQ0tmdU5lSmU4UUhudzFrTkpRR0Vka041Tkk1UmdSQnNpSHJaVzY0TFBlMGdVVkJxcFlpUjAxY0pRZlRnZmh4T0RuQUI3aW9UY29NYXBPQXI5ekpQbjk0M3JoOXhDa1diaG5nMUhPOXRWcHNMQnY4VkxOWHhiZm1oZlF3ZjlrQmQxWUlNaVpTcXpqTQ?oc=5",
-      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
-      "summary": "No content available for summarization.",
-      "published": "Sun, 20 Jul 2025 09:00:54 GMT"
+      "id": "4098d6ea2268cc5686292b08b41ea156",
+      "title": "Optimists share similar brain patterns when thinking about the future, scans show | Psychology - The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2025/jul/21/optimists-share-similar-brain-patterns-when-thinking-about-the-future-scans-show",
+      "image_url": "https://i.guim.co.uk/img/media/7bff6eb2b394733b9b955797d93bbaa87d3ee0e9/249_0_5003_4001/master/5003.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d56b836c153c3c76ff7d39756134f96",
+      "summary": "Fund the free press with $5 per month Researchers carried out brain scans to examine the way optimists and pessimists think. Photograph: Tek Image/Science Photo Library/Getty Images Optimists share similar brain patterns when thinking about the future, scans show Positive thinkers are ‘literally on the same wavelength’, say Japanese researchers Nicola Davis Science correspondent Last modified on Mon 21 Jul...",
+      "published": "Mon, 21 Jul 2025 21:06:00 GMT"
     },
     {
-      "id": "4222ec37f8e716c46e35c0c6bf663b9b",
-      "title": "Four people have died from flesh-eating bacteria in Florida. Who is at risk? - Yahoo Home",
-      "source": "Yahoo Home",
-      "url": "https://www.yahoo.com/news/four-people-died-flesh-eating-100000579.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/rDZLlEK9ky0XwZSiAXrNrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTQ7Y2Y9d2VicA--/https://media.zenfs.com/en/nbc_news_122/af9bce10f7f36a23d842ca84aed83d58",
-      "summary": "Sunscreen and walking health tips Four people have died from flesh-eating bacteria in Florida. Who is at risk? Sat, July 19, 2025 at 3:30 PM GMT+5:30 Four people in Florida have died this year from bacterial infections that can cause “flesh-eating” wounds, the state’s health department reported this month. The culprit, the bacteria Vibrio vulnificus, thrives in warm seawater. The...",
-      "published": "Sat, 19 Jul 2025 10:00:00 GMT"
+      "id": "943e0da20acbeebc90537076d99b2448",
+      "title": "World Brain Day 2025: Why your brain deserves the spotlight today - Times of India",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/world-brain-day-2025-why-your-brain-deserves-the-spotlight-today/articleshow/122830792.cms",
+      "image_url": "https://static.toiimg.com/thumb/msid-122830756,width-1070,height-580,imgsize-820374,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "summary": "World Brain Day 2025: Why Your Brain Deserves The Spotlight Today World Brain Day 2025: Why your brain deserves the spotlight today TOI Lifestyle Desk / etimes. in / Updated: Jul 22, 2025, 17:44 IST World Brain Day is observed on July 22 every year. The day raises awareness about brain diseases. This year's theme is Brain Health for All...",
+      "published": "Tue, 22 Jul 2025 11:15:00 GMT"
     },
     {
-      "id": "6d2d32569dee45f5c50ad060479893af",
-      "title": "Plague Death in Arizona Shows Insidious Disease Never Disappeared - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/plague-death-in-arizona-shows-insidious-disease-never-disappeared",
-      "image_url": "https://www.sciencealert.com/images/2025/07/yersinia-pestis-pneumonic-plague.jpg",
-      "summary": "Plague Death in Arizona Shows Insidious Disease Never Disappeared By THOMAS JEFFRIES, THE CONVERSATION Yersinia pestis is the bacteria that causes plague. (Callista Images/Getty Images) A person in Arizona has died from the plague, local health officials reported on Friday. This marks the first such death in this region in 18 years. But it's a stark reminder that this historic...",
-      "published": "Fri, 18 Jul 2025 15:01:24 GMT"
+      "id": "26fec6cc2ad2418ae199a396db816a7f",
+      "title": "FDA-Approved Cancer Drugs Show Promise for Alzheimer's - theSkimm",
+      "source": "theSkimm",
+      "url": "https://www.theskimm.com/newsletter/daily-skimm/FDA-Approved-Cancer-Drugs-Promise-Alzheimers",
+      "image_url": "https://images.ctfassets.net/6g4gfm8wk7b6/6A4OQkBlmt9Oh9o5UhwGaL/7d229787ec0e8735bdecbdea91645e42/News_Template__77_.jpg?w=1200",
+      "summary": "FDA-Approved Cancer Drugs Show Promise for Alzheimer's",
+      "published": "Tue, 22 Jul 2025 00:00:00 GMT"
     },
     {
-      "id": "7f49bda968c7a0d3ec97c2c56ca1e968",
-      "title": "Potential measles exposures at Albany Med and Saratoga Hospital - Times Union",
-      "source": "Times Union",
-      "url": "https://www.timesunion.com/news/article/potential-measles-exposures-albany-med-saratoga-20776382.php",
-      "image_url": "https://www.timesunion.com/img/logos/black/logo.svg",
-      "summary": "Press & Hold to confirm you are Reference ID 555016ca-6564-11f0-bd27-0f8c25d95839",
-      "published": "Sat, 19 Jul 2025 16:57:49 GMT"
+      "id": "b4449cf56f10bcc67a52fe3e8c91adbf",
+      "title": "Hawaii health officials urge vigilance as COVID cases rise again - Honolulu Star-Advertiser",
+      "source": "Honolulu Star-Advertiser",
+      "url": "https://www.staradvertiser.com/2025/07/21/breaking-news/hawaii-health-officials-urge-vigilance-as-covid-cases-rise-again/",
+      "image_url": "https://www.staradvertiser.com/wp-content/uploads/2025/07/web1_20230412-web-covid-test.jpg",
+      "summary": "Hawaii health officials urge vigilance as COVID cases rise again The number of COVID-19 cases in Hawaii is rising again, prompting a message of vigilance from health officials. The Hawaii Department of Health today reported the statewide test positivity rate — or percentage of all tests that are positive — at 12. 4% as of Saturday, up from 10. 9%...",
+      "published": "Tue, 22 Jul 2025 02:31:51 GMT"
+    },
+    {
+      "id": "932d135f885ed24b065b17b9e0c8f564",
+      "title": "“They Were Born Disease-Free”: UK Scientists Use Three-Parent IVF to Deliver 8 Healthy Babies and Eliminate Deadly Genetic Disorders - Rude Baguette",
+      "source": "Rude Baguette",
+      "url": "https://www.rudebaguette.com/en/2025/07/they-were-born-disease-free-uk-scientists-use-three-parent-ivf-to-deliver-8-healthy-babies-and-eliminate-deadly-genetic-disorders/",
+      "image_url": "https://www.rudebaguette.com/wp-content/uploads/2025/07/miracle-babies-defy-genetics-uk-ivf-breakthrough-frees-eight-infants-from-incurable-inherited-diseases-stunning-medical-world.jpg",
+      "summary": "“They Were Born Disease-Free”: UK Scientists Use Three-Parent IVF to Deliver 8 Healthy Babies and Eliminate Deadly Genetic Disorders In a groundbreaking medical achievement, doctors in the United Kingdom have successfully utilized an innovative IVF technique to deliver eight healthy babies free from severe mitochondrial diseases, marking a significant milestone in reproductive medicine and offering new hope to families worldwide.",
+      "published": "Tue, 22 Jul 2025 12:51:26 GMT"
+    },
+    {
+      "id": "16aab31d3c58a439160893c77a37ab5f",
+      "title": "Aging Clock Unveils Compounds That Rejuvenate Brain Cells - Neuroscience News",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com/aging-clock-neurogenesis-29510/",
+      "image_url": "https://neurosciencenews.com/files/2025/07/aging-clock-neurogenesis-neurosicnce.jpg",
+      "summary": "Aging Clock Unveils Compounds That Rejuvenate Brain Cells FeaturedNeuroscience·July 22, 2025 Summary: Scientists developed a computational “aging clock” that measures the biological age of brain cells and identifies compounds with rejuvenating potential. By analyzing gene activity from healthy and neurodegenerative brain tissue, they pinpointed 453 interventions predicted to reverse cellular aging. Initial animal tests showed improvements in behavior, cognition, and...",
+      "published": "Tue, 22 Jul 2025 20:52:24 GMT"
+    },
+    {
+      "id": "5d9344865760730cae03253c3f8b7c12",
+      "title": "Mosquito in Norfolk tests positive for the West Nile Virus - 13newsnow.com",
+      "source": "13newsnow.com",
+      "url": "https://www.13newsnow.com/article/news/health/west-nile-virus-norfolk-mosquito-virginia-health-department/291-19759d8f-bc41-43c1-aa85-8103b863f96a",
+      "image_url": "https://media.13newsnow.com/assets/WVEC/images/27fb551f-9ae8-4369-ad70-b159a03303c9/20240901T035606/27fb551f-9ae8-4369-ad70-b159a03303c9_1140x641.jpg",
+      "summary": "Mosquito in Norfolk tests positive for West Nile Virus A reminder this summer: mosquitoes aren't just annoying. They also carry diseases. Author: Hannah Eason Amado, Derek Lytle Published: 2:00 PM EDT July 21, 2025 Updated: 11:27 PM EDT July 21, 2025 NORFOLK, Va. — A mosquito in Norfolk tested positive for the West Nile Virus on Friday, according to the...",
+      "published": "Mon, 21 Jul 2025 18:00:00 GMT"
+    },
+    {
+      "id": "6b06184b4f526a95f18c297e756f461c",
+      "title": "Pioneering an AI clinical copilot with Penda Health - OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/ai-clinical-copilot-penda-health/",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5s7EaYqke5Mq6WnyjODX9w/39bd5c372ff2bc434243194195af2e70/TMP_Penda_Blog_16x9.png?w=1600&h=900&fit=fill",
+      "summary": "Pioneering an AI clinical copilot with Penda Health | OpenAI Pioneering an AI clinical copilot with Penda Health Study of 40,000 patient visits finds clinicians using AI copilot made fewer errors. AI systems have the potential to improve human health globally—to make reliable health information universally available, help clinicians deliver better care, and empower people to better understand and advocate...",
+      "published": "Mon, 21 Jul 2025 22:10:21 GMT"
     }
   ]
 }
