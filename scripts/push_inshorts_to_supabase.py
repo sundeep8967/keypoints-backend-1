@@ -17,7 +17,7 @@ from datetime import datetime
 # Add the app directory to the Python path
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
-from app.db import store_news
+from app.db import store_news, map_source_to_final_category
 
 # Configure logging
 logging.basicConfig(
@@ -90,6 +90,9 @@ def get_category_from_filename(filename: str) -> str:
     category = filename.replace('inshorts_', '').replace('.json', '')
     return category
 
+
+
+
 async def push_all_inshorts_to_supabase(data_dir: str = "data") -> Dict:
     """Push all inshorts files to Supabase"""
     
@@ -119,10 +122,15 @@ async def push_all_inshorts_to_supabase(data_dir: str = "data") -> Dict:
     
     # Process each inshorts file
     for file_path in inshorts_files:
+        # Extract the filename from the full path
         filename = os.path.basename(file_path)
-        category = get_category_from_filename(filename)
+        # Get the original source category from the filename
+        source_category = get_category_from_filename(filename)
         
-        logger.info(f"\n📰 Processing category: {category}")
+        # Map to the final, clean category for Supabase
+        final_category = map_source_to_final_category(source_category)
+        
+        logger.info(f"\n📰 Processing source category: {source_category} -> Mapped to: {final_category}")
         logger.info(f"   File: {filename}")
         
         # Load the inshorts data
@@ -133,10 +141,10 @@ async def push_all_inshorts_to_supabase(data_dir: str = "data") -> Dict:
             continue
         
         # Convert to Supabase format
-        supabase_articles = convert_inshorts_to_supabase_format(inshorts_data, category)
+        supabase_articles = convert_inshorts_to_supabase_format(inshorts_data, final_category)
         
         if not supabase_articles:
-            logger.warning(f"   ⚠️  No valid articles to upload for {category} (all articles failed validation)")
+            logger.warning(f"   ⚠️  No valid articles to upload for {source_category} (all articles failed validation)")
             continue
         
         logger.info(f"   📝 Validated and converted {len(supabase_articles)} high-quality articles for upload")
@@ -150,18 +158,18 @@ async def push_all_inshorts_to_supabase(data_dir: str = "data") -> Dict:
         
         # Upload to Supabase
         logger.info(f"   💾 Uploading to Supabase...")
-        result = await store_news(supabase_articles, category=category)
+        result = await store_news(supabase_articles, category=final_category)
         
-        upload_results[category] = result
+        upload_results[source_category] = result
         
         if result["success"]:
             articles_count = result.get("stored_count", 0)
             total_articles_uploaded += articles_count
             categories_processed += 1
-            logger.info(f"   ✅ SUCCESS! Uploaded {articles_count} articles for {category}")
+            logger.info(f"   ✅ SUCCESS! Uploaded {articles_count} articles for {source_category}")
         else:
             error_msg = result.get("error", "Unknown error")
-            logger.error(f"   ❌ FAILED! Error uploading {category}: {error_msg}")
+            logger.error(f"   ❌ FAILED! Error uploading {source_category}: {error_msg}")
     
     # Final summary
     logger.info("\n" + "=" * 60)

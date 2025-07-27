@@ -275,3 +275,42 @@ async def cleanup_old_articles(days_old: int = 30) -> Dict:
             "error": str(e),
             "deleted_count": 0
         }
+
+def map_source_to_final_category(source_category: str) -> str:
+    """Map a complex source category to a single, final category for Supabase"""
+    
+    source_lower = source_category.lower()
+    
+    # Specific mappings first (for more precise control)
+    specific_mappings = {
+        "indian cinema and bollywood": "entertainment",
+        "indian celebrity": "entertainment", 
+        "indian sports": "sports",
+        "indian politics": "politics",
+        "indian education": "education",
+        "indian scandal and crime": "crime",
+        "trending in bengaluru and india": "trending",
+        "international": "world"
+    }
+    
+    # Check for exact matches first
+    if source_lower in specific_mappings:
+        return specific_mappings[source_lower]
+    
+    # Priority list of base categories for partial matching
+    # This order is important - more specific categories should come first
+    priority_list = [
+        "trending", "Bengaluru", "sports", "entertainment", "celebrity", "cinema", 
+        "politics", "crime", "scandal", "technology", "education", 
+        "india", "world"
+    ]
+    
+    # Check for keywords from the priority list in the source category
+    for base_category in priority_list:
+        if base_category.lower() in source_lower:
+            return base_category
+            
+    # Fallback: if no match is found, use the original source category
+    # This is a safe default, but we should aim to have all categories mapped.
+    logger.warning(f"No mapping found for '{source_category}'. Using original name.")
+    return source_category

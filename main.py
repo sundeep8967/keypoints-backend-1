@@ -26,6 +26,8 @@ import json
 from multiprocessing import Pool, cpu_count
 from functools import partial
 
+from app.db import map_source_to_final_category
+
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
@@ -35,29 +37,18 @@ logger = logging.getLogger(__name__)
 
 # Default news categories to process
 DEFAULT_CATEGORIES = [
-    "top",
-    "business", 
+    "Bengaluru",
     "technology",
-    "entertainment",
-    "sports",
-    "health",
-    "science",
-    "world",
-    "trending",
-    "politics", 
-    "national", 
-    "india", 
-    "automobile", 
-    "startups",
-    "travel", 
-    "fashion", 
-    "education", 
-    "miscellaneous",
-    "scandal",
-    "viral", 
-    "crime",
-    "celebrity",
-    "political_scandal"
+    "indian celebrity",
+    "entertainment ",
+    "indian sports",
+    "international",
+    "trending in bengaluru and india",
+    "indian politics", 
+    "india",
+    "indian education",
+    "indian scandal and crime",
+    "indian cinema and bollywood"
 ]
 
 # Extended categories including scandal and viral content
@@ -74,24 +65,26 @@ SUPPORTED_TOPIC_CATEGORIES = [
 ]
 
 # Categories that need to be fetched via search instead of topic
-SEARCH_BASED_CATEGORIES = {
+# Pre-defined custom search queries for specific categories
+CUSTOM_SEARCH_QUERIES = {
     "trending": "trending news",
     "politics": "politics news",
-    "national": "national news",
     "india": "India news",
-    "automobile": "automobile automotive car news",
-    "startups": "startup business news",
-    "travel": "travel tourism news",
-    "fashion": "fashion style news",
     "education": "education school university news",
     "miscellaneous": "general news",
-    # New scandal and viral categories
     "scandal": "scandal controversy corruption exposed",
     "viral": "viral trending goes viral internet sensation",
     "crime": "arrest investigation fraud lawsuit criminal charges",
     "celebrity": "celebrity scandal hollywood controversy celebrity drama",
     "political_scandal": "political scandal government corruption election fraud"
 }
+
+# Automatically generate SEARCH_BASED_CATEGORIES from DEFAULT_CATEGORIES
+SEARCH_BASED_CATEGORIES = {}
+for category in DEFAULT_CATEGORIES:
+    if category not in SUPPORTED_TOPIC_CATEGORIES and category != "top":
+        # Use a custom query if defined, otherwise create a default one
+        SEARCH_BASED_CATEGORIES[category] = CUSTOM_SEARCH_QUERIES.get(category, f"{category} news")
 
 def parse_args():
     """Parse command line arguments"""
@@ -221,11 +214,115 @@ def run_command(cmd: List[str], description: str) -> bool:
             logger.error(f"Stderr: {e.stderr}")
         return False
 
+def fetch_single_category_to_temp(args_tuple):
+    """Fetch news for a single category to a temporary file"""
+    category, temp_output, data_dir, language, country = args_tuple
+    
+    if category == "top":
+        cmd = [
+            sys.executable, "scripts/fetch_news.py",
+            "--type", "top",
+            "--output", temp_output,
+            "--language", language,
+            "--country", country
+        ]
+    elif category in SUPPORTED_TOPIC_CATEGORIES:
+        cmd = [
+            sys.executable, "scripts/fetch_news.py", 
+            "--type", "topic",
+            "--topic", category,
+            "--output", temp_output,
+            "--language", language,
+            "--country", country
+        ]
+    elif category in SEARCH_BASED_CATEGORIES:
+        search_query = SEARCH_BASED_CATEGORIES[category]
+        cmd = [
+            sys.executable, "scripts/fetch_news.py",
+            "--type", "search",
+            "--query", search_query,
+            "--when", "1d",
+            "--output", temp_output,
+            "--language", language,
+            "--country", country
+        ]
+    else:
+        logger.warning(f"⚠️  Unknown category: {category}, skipping...")
+        return False
+    
+    return run_command(cmd, f"Fetching {category} news")
+
+def merge_news_files(temp_files: List[str], final_output: str, final_category: str) -> bool:
+    """Merge multiple news files into a single final file"""
+    try:
+        merged_articles = []
+        merged_metadata = {
+            "type": "merged",
+            "timestamp": time.strftime("%Y-%m-%dT%H:%M:%S"),
+            "final_category": final_category,
+            "source_files": [],
+            "count": 0
+        }
+        
+        for temp_file in temp_files:
+            if not os.path.exists(temp_file):
+                logger.warning(f"⚠️  Temp file not found: {temp_file}")
+                continue
+                
+            try:
+                with open(temp_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    
+                if 'articles' in data:
+                    merged_articles.extend(data['articles'])
+                    merged_metadata["source_files"].append({
+                        "file": os.path.basename(temp_file),
+                        "original_info": data.get('metadata', {}),
+                        "article_count": len(data['articles'])
+                    })
+                    
+            except Exception as e:
+                logger.error(f"❌ Error reading temp file {temp_file}: {e}")
+                continue
+        
+        # Remove duplicates based on title and link
+        seen = set()
+        unique_articles = []
+        for article in merged_articles:
+            key = (article.get('title', ''), article.get('link', ''))
+            if key not in seen:
+                seen.add(key)
+                unique_articles.append(article)
+        
+        merged_metadata["count"] = len(unique_articles)
+        merged_metadata["duplicates_removed"] = len(merged_articles) - len(unique_articles)
+        
+        # Save merged file
+        final_data = {
+            "metadata": merged_metadata,
+            "articles": unique_articles
+        }
+        
+        with open(final_output, 'w', encoding='utf-8') as f:
+            json.dump(final_data, f, ensure_ascii=False, indent=2)
+        
+        logger.info(f"✅ Merged {len(temp_files)} files into {final_output}")
+        logger.info(f"   📊 Total articles: {len(unique_articles)} (removed {merged_metadata['duplicates_removed']} duplicates)")
+        
+        return True
+        
+    except Exception as e:
+        logger.error(f"❌ Error merging files for {final_category}: {e}")
+        return False
+
 def fetch_single_category(args_tuple):
-    """Fetch news for a single category - used for parallel processing"""
+    """Fetch news for a single category - used for parallel processing (legacy function)"""
     category, data_dir, language, country = args_tuple
     
-    output_file = os.path.join(data_dir, f"news_{category}.json")
+    # Map the source category to its final, simplified category name
+    final_category = map_source_to_final_category(category)
+    
+    output_file = os.path.join(data_dir, f"news_{final_category}.json")
     
     if category == "top":
         cmd = [
@@ -263,14 +360,14 @@ def fetch_single_category(args_tuple):
 
 def process_single_category(args_tuple):
     """Process a single category for extraction and summarization - used for parallel processing"""
-    category, data_dir, max_articles, timeout, summary_length, headless = args_tuple
+    source_category, final_category, data_dir, max_articles, timeout, summary_length, headless = args_tuple
     
-    input_file = os.path.join(data_dir, f"news_{category}.json")
-    output_file = os.path.join(data_dir, f"inshorts_{category}.json")
+    input_file = os.path.join(data_dir, f"news_{final_category}.json")
+    output_file = os.path.join(data_dir, f"inshorts_{final_category}.json")
     
     # Check if input file exists
     if not os.path.exists(input_file):
-        logger.warning(f"⚠️  Input file not found: {input_file}")
+        logger.warning(f"⚠️  Input file not found for {source_category} (expected: {input_file})")
         return False
     
     cmd = [
@@ -285,28 +382,62 @@ def process_single_category(args_tuple):
     if headless:
         cmd.append("--headless")
     
-    return run_command(cmd, f"Processing {category} articles")
+    return run_command(cmd, f"Processing {source_category} articles (mapped to {final_category})")
 
 def step1_fetch_news(categories: List[str], data_dir: str, language: str, country: str) -> int:
-    """Step 1: Fetch news for all categories using parallel processing"""
+    """Step 1: Fetch news for all categories with proper merging for duplicate final categories"""
     logger.info("\n" + "="*60)
-    logger.info("📰 STEP 1: FETCHING NEWS (PARALLEL)")
+    logger.info("📰 STEP 1: FETCHING NEWS (WITH MERGING)")
     logger.info("="*60)
     
-    # Prepare arguments for parallel processing
-    fetch_args = [(category, data_dir, language, country) for category in categories]
+    # Group categories by their final mapped category to handle merging
+    category_groups = {}
+    for category in categories:
+        final_category = map_source_to_final_category(category)
+        if final_category not in category_groups:
+            category_groups[final_category] = []
+        category_groups[final_category].append(category)
     
-    # Use parallel processing with limited workers to be respectful to APIs
-    max_workers = min(4, cpu_count(), len(categories))  # Limit to 4 workers max
-    logger.info(f"🔄 Using {max_workers} parallel workers for fetching")
+    logger.info(f"📊 Category mapping summary:")
+    for final_cat, source_cats in category_groups.items():
+        if len(source_cats) > 1:
+            logger.info(f"   🔄 '{final_cat}' ← {source_cats} (WILL MERGE)")
+        else:
+            logger.info(f"   ✅ '{final_cat}' ← {source_cats[0]}")
     
+    # Fetch news for each source category first (sequentially to avoid conflicts)
     success_count = 0
+    temp_files = {}  # Track temporary files for merging
     
-    with Pool(processes=max_workers) as pool:
-        results = pool.map(fetch_single_category, fetch_args)
-        success_count = sum(1 for result in results if result)
+    for category in categories:
+        final_category = map_source_to_final_category(category)
+        
+        # Create a temporary file for this specific source category
+        temp_output = os.path.join(data_dir, f"temp_news_{category.replace(' ', '_').replace('/', '_')}.json")
+        
+        # Fetch news for this source category
+        if fetch_single_category_to_temp((category, temp_output, data_dir, language, country)):
+            success_count += 1
+            if final_category not in temp_files:
+                temp_files[final_category] = []
+            temp_files[final_category].append(temp_output)
     
-    logger.info(f"\n📊 Step 1 Summary: {success_count}/{len(categories)} categories fetched successfully")
+    # Now merge all temp files for each final category
+    merge_count = 0
+    for final_category, temp_file_list in temp_files.items():
+        final_output = os.path.join(data_dir, f"news_{final_category}.json")
+        if merge_news_files(temp_file_list, final_output, final_category):
+            merge_count += 1
+        
+        # Clean up temp files
+        for temp_file in temp_file_list:
+            try:
+                os.remove(temp_file)
+            except:
+                pass
+    
+    logger.info(f"\n📊 Step 1 Summary: {success_count}/{len(categories)} source categories fetched")
+    logger.info(f"📊 Merged into {merge_count} final category files")
     return success_count
 
 def step2_extract_and_summarize(categories: List[str], data_dir: str, max_articles: int, 
@@ -316,34 +447,32 @@ def step2_extract_and_summarize(categories: List[str], data_dir: str, max_articl
     logger.info("🖼️ STEP 2: EXTRACTING IMAGES & GENERATING SUMMARIES (PARALLEL)")
     logger.info("="*60)
     
-    # Filter categories that have input files
-    valid_categories = []
+    # Filter categories that have input files based on their *mapped* names
+    valid_processing_args = []
     for category in categories:
-        input_file = os.path.join(data_dir, f"news_{category}.json")
+        final_category = map_source_to_final_category(category)
+        input_file = os.path.join(data_dir, f"news_{final_category}.json")
+        
         if os.path.exists(input_file):
-            valid_categories.append(category)
+            valid_processing_args.append((category, final_category, data_dir, max_articles, timeout, summary_length, headless))
         else:
-            logger.warning(f"⚠️  Input file not found: {input_file}")
+            logger.warning(f"⚠️  Input file not found for source category '{category}' (expected: {input_file})")
     
-    if not valid_categories:
+    if not valid_processing_args:
         logger.error("❌ No valid input files found for processing")
         return 0
     
-    # Prepare arguments for parallel processing
-    process_args = [(category, data_dir, max_articles, timeout, summary_length, headless) 
-                   for category in valid_categories]
-    
     # Use fewer workers for Selenium processing to avoid resource conflicts
-    max_workers = min(2, cpu_count(), len(valid_categories))  # Limit to 2 workers for Selenium
+    max_workers = min(2, cpu_count(), len(valid_processing_args))  # Limit to 2 workers for Selenium
     logger.info(f"🔄 Using {max_workers} parallel workers for processing")
     
     success_count = 0
     
     with Pool(processes=max_workers) as pool:
-        results = pool.map(process_single_category, process_args)
+        results = pool.map(process_single_category, valid_processing_args)
         success_count = sum(1 for result in results if result)
     
-    logger.info(f"\n📊 Step 2 Summary: {success_count}/{len(valid_categories)} categories processed successfully")
+    logger.info(f"\n📊 Step 2 Summary: {success_count}/{len(valid_processing_args)} categories processed successfully")
     return success_count
 
 def step3_upload_to_supabase(data_dir: str) -> bool:
@@ -413,15 +542,16 @@ def print_summary(args, step1_success: int, step2_success: int, step3_success: b
     # Check for generated files
     inshorts_files = []
     for category in args.categories:
-        inshorts_file = os.path.join(args.data_dir, f"inshorts_{category}.json")
+        final_category = map_source_to_final_category(category)
+        inshorts_file = os.path.join(args.data_dir, f"inshorts_{final_category}.json")
         if os.path.exists(inshorts_file):
             try:
                 with open(inshorts_file, 'r') as f:
                     data = json.load(f)
                     article_count = len(data.get('articles', []))
-                    inshorts_files.append(f"{category}: {article_count} articles")
+                    inshorts_files.append(f"{category} (mapped to {final_category}): {article_count} articles")
             except:
-                inshorts_files.append(f"{category}: file exists")
+                inshorts_files.append(f"{category} (mapped to {final_category}): file exists")
     
     if inshorts_files:
         logger.info(f"\n📄 Generated files:")
