@@ -2,6 +2,11 @@
 """
 Script to process all news categories and generate Inshorts-style summaries.
 This script uses the Selenium-based approach to extract images and content from all news categories.
+
+PERFORMANCE OPTIMIZATION:
+- Uses a single shared browser instance across ALL categories and articles
+- Browser is created once at startup and reused for maximum efficiency
+- Avoids the overhead of creating/destroying browser instances per category/article
 """
 
 import os
@@ -70,19 +75,7 @@ def parse_args():
         help="Specific categories to process (default: all available)"
     )
     
-    parser.add_argument(
-        "--use-shared-browser",
-        action="store_true",
-        default=True,
-        help="Use shared browser instance across categories for better performance (default: True)"
-    )
-    
-    parser.add_argument(
-        "--legacy-mode",
-        action="store_true",
-        default=False,
-        help="Use legacy mode with separate browser instances per category"
-    )
+    # Removed legacy options - always use shared browser for optimal performance
     
     return parser.parse_args()
 
@@ -186,46 +179,7 @@ def process_category_with_shared_browser(category, input_dir, output_dir, max_ar
         logger.error(traceback.format_exc())
         return False
 
-def process_category(category, input_dir, output_dir, max_articles, timeout, summary_length, headless):
-    """Process a single news category (legacy method - kept for compatibility)"""
-    input_file = os.path.join(input_dir, f'news_{category}.json')
-    output_file = os.path.join(output_dir, f'inshorts_{category}.json')
-    
-    # Skip if input file doesn't exist
-    if not os.path.exists(input_file):
-        logger.warning(f"Input file not found: {input_file}")
-        return False
-    
-    # Create output directory if it doesn't exist
-    os.makedirs(output_dir, exist_ok=True)
-    
-    # Build command
-    cmd = [
-        sys.executable,
-        'scripts/generate_inshorts_selenium.py',
-        '--input', input_file,
-        '--output', output_file,
-        '--max-articles', str(max_articles),
-        '--timeout', str(timeout),
-        '--summary-length', str(summary_length)
-    ]
-    
-    if headless:
-        cmd.append('--headless')
-    
-    # Run the command
-    logger.info(f"Processing category: {category}")
-    logger.info(f"Command: {' '.join(cmd)}")
-    
-    try:
-        result = subprocess.run(cmd, check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        logger.info(f"Successfully processed category: {category}")
-        logger.debug(result.stdout.decode())
-        return True
-    except subprocess.CalledProcessError as e:
-        logger.error(f"Error processing category {category}: {e}")
-        logger.error(e.stderr.decode())
-        return False
+# Legacy process_category function removed - now always use shared browser for optimal performance
 
 def main():
     """Main function"""
@@ -244,46 +198,30 @@ def main():
         
         logger.info(f"Found {len(categories)} news categories: {', '.join(categories)}")
         
-        # Choose processing mode based on arguments
-        if args.legacy_mode:
-            logger.info("Using legacy mode with separate browser instances per category")
-            # Process each category using legacy method
+        # Always use shared browser mode for optimal performance
+        logger.info("Using shared browser mode for better performance")
+        # Set up shared browser instance
+        logger.info("Setting up shared browser instance for all categories...")
+        driver = setup_shared_browser(headless=args.headless)
+        
+        try:
+            # Process each category using the shared browser
             success_count = 0
             for category in categories:
-                if process_category(
+                if process_category_with_shared_browser(
                     category,
                     args.input_dir,
                     args.output_dir,
                     args.max_articles,
                     args.timeout,
                     args.summary_length,
-                    args.headless
+                    driver
                 ):
                     success_count += 1
-        else:
-            logger.info("Using shared browser mode for better performance")
-            # Set up shared browser instance
-            logger.info("Setting up shared browser instance for all categories...")
-            driver = setup_shared_browser(headless=args.headless)
-            
-            try:
-                # Process each category using the shared browser
-                success_count = 0
-                for category in categories:
-                    if process_category_with_shared_browser(
-                        category,
-                        args.input_dir,
-                        args.output_dir,
-                        args.max_articles,
-                        args.timeout,
-                        args.summary_length,
-                        driver
-                    ):
-                        success_count += 1
-            finally:
-                # Always clean up the browser instance
-                logger.info("Cleaning up shared browser instance...")
-                driver.quit()
+        finally:
+            # Always clean up the browser instance
+            logger.info("Cleaning up shared browser instance...")
+            driver.quit()
         
         logger.info(f"Processed {success_count}/{len(categories)} categories successfully")
         
