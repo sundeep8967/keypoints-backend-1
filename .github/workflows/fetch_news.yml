@@ -69,79 +69,28 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-chrome-webdriver-
     
+    - name: Optimize caching strategy
+      run: |
+        bash scripts/optimize_caching.sh
+    
     - name: Install dependencies
       run: |
-        # Show Python and pip versions for debugging
-        python --version
-        pip --version
-        
-        # Upgrade pip and install wheel for faster builds
-        pip install --upgrade pip wheel
-        
-        # Install all dependencies from requirements file
-        echo "Installing dependencies from requirements.txt..."
-        pip install --cache-dir ${{ env.PIP_CACHE_DIR }} -r requirements.txt
-        
-        # Download NLTK data (will be cached)
-        python -c "
-        import nltk
-        import os
-        nltk_data_dir = os.path.expanduser('~/nltk_data')
-        if not os.path.exists(os.path.join(nltk_data_dir, 'tokenizers', 'punkt')):
-            print('Downloading NLTK punkt data...')
-            nltk.download('punkt', download_dir=nltk_data_dir)
-        else:
-            print('NLTK punkt data already cached')
-        "
-        
-        # Install Playwright for better performance (with caching)
-        echo "Installing Playwright for enhanced performance..."
-        pip install --cache-dir ${{ env.PIP_CACHE_DIR }} playwright
-        
-        # Set Playwright environment and check if browsers are cached
-        export PLAYWRIGHT_BROWSERS_PATH=${{ env.PLAYWRIGHT_BROWSERS_PATH }}
-        if [ -d "${{ env.PLAYWRIGHT_BROWSERS_PATH }}" ] && [ "$(ls -A ${{ env.PLAYWRIGHT_BROWSERS_PATH }} 2>/dev/null)" ]; then
-          echo "✅ Using cached Playwright browsers"
-        else
-          echo "📥 Installing Playwright browsers (will be cached for next run)"
-          mkdir -p ${{ env.PLAYWRIGHT_BROWSERS_PATH }}
-          export PLAYWRIGHT_BROWSERS_PATH=${{ env.PLAYWRIGHT_BROWSERS_PATH }}
-          # Check if browsers are cached, install if needed
-        if [ -d "${{ env.PLAYWRIGHT_BROWSERS_PATH }}" ] && [ "$(ls -A ${{ env.PLAYWRIGHT_BROWSERS_PATH }} 2>/dev/null)" ]; then
-          echo "✅ Using cached Playwright browsers"
-          export PLAYWRIGHT_BROWSERS_PATH=${{ env.PLAYWRIGHT_BROWSERS_PATH }}
-        else
-          echo "📥 Installing Playwright browsers (will be cached for next run)"
-          mkdir -p ${{ env.PLAYWRIGHT_BROWSERS_PATH }}
-          export PLAYWRIGHT_BROWSERS_PATH=${{ env.PLAYWRIGHT_BROWSERS_PATH }}
-          playwright install chromium --with-deps || echo "Playwright installation failed, will fallback to Selenium"
-        fi
-        
-        # Verify key imports work
-        python -c "
-        try:
-            import pygooglenews
-            import selenium
-            import nltk
-            try:
-                import playwright
-                print('SUCCESS: All dependencies including Playwright imported successfully')
-            except ImportError:
-                print('SUCCESS: Core dependencies imported (Playwright not available, will use Selenium)')
-        except ImportError as e:
-            print(f'ERROR: Import error: {e}')
-            exit(1)
-        "
-        
-        # List installed packages for debugging (only show key ones)
-        echo "Key installed packages:"
-        pip list | grep -E "(selenium|nltk|newspaper|pygooglenews|webdriver-manager|playwright)" || echo "Package listing completed"
+        # Use dedicated script for dependency installation
+        bash scripts/check_dependencies.sh
     
-    - name: Verify installation
+    - name: Setup Playwright browsers
       run: |
-        python -c "import pygooglenews; print('PyGoogleNews imported successfully')"
-        python -c "from pygooglenews import GoogleNews; print('Successfully imported GoogleNews')"
-        python -c "import fastapi; print('FastAPI imported successfully')"
+        export PLAYWRIGHT_BROWSERS_PATH=${{ env.PLAYWRIGHT_BROWSERS_PATH }}
+        bash scripts/setup_playwright.sh
+    
+    - name: Validate environment
+      run: |
+        bash scripts/validate_environment.sh
+    
+    - name: Run code quality checks
+      run: |
+        # Run shellcheck on all shell scripts
+        bash scripts/shellcheck.sh
     
     - name: Run installation test script
       run: |
@@ -194,17 +143,7 @@ jobs:
     - name: Set up Chrome for Selenium
       if: github.event_name == 'push' || github.event_name == 'schedule'
       run: |
-        # Check if Chrome is already installed
-        if command -v google-chrome &> /dev/null; then
-          echo "Chrome already installed: $(google-chrome --version)"
-        else
-          echo "Installing Chrome for Selenium..."
-          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
-          echo "Chrome installed: $(google-chrome --version)"
-        fi
+        bash scripts/install_chrome.sh
     
     - name: Generate Inshorts-style news
       if: github.event_name == 'push' || github.event_name == 'schedule'

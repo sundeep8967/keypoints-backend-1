@@ -1,0 +1,6 @@
+# GitHub Action step for running shellcheck
+# Add this to your workflow for code quality checks
+
+    - name: Run shellcheck on scripts
+      run: |
+        bash scripts/shellcheck.sh
