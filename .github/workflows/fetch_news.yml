@@ -34,6 +34,9 @@ jobs:
         playwright install chromium --with-deps || echo "Playwright installation failed, will use Selenium fallback"
         
     - name: Run main workflow
+      env:
+        SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+        SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
       run: python main.py
       
     - name: Upload to Supabase
