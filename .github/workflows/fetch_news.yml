@@ -132,7 +132,7 @@ jobs:
       if: github.event_name == 'workflow_dispatch'
       run: |
         # Run the complete workflow as defined in main.py
-        python main.py --headless
+        python main.py
     
     - name: Fetch news (push trigger)
       if: github.event_name == 'push'
