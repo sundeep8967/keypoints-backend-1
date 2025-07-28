@@ -89,7 +89,7 @@ def get_available_categories(input_dir):
     return categories
 
 def setup_shared_browser(headless=True):
-    """Set up a shared Selenium WebDriver for reuse across categories"""
+    """Set up a shared Selenium WebDriver for reuse across categories with performance optimizations"""
     try:
         # Add the parent directory to sys.path to import selenium setup
         sys.path.append(str(Path(__file__).parent))
@@ -100,6 +100,7 @@ def setup_shared_browser(headless=True):
         from webdriver_manager.chrome import ChromeDriverManager
         
         options = Options()
+        # Basic stability options
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
         options.add_argument("--disable-extensions")
@@ -107,19 +108,31 @@ def setup_shared_browser(headless=True):
         options.add_argument("--disable-notifications")
         options.add_argument("--disable-infobars")
         options.add_argument("--mute-audio")
+        
+        # PERFORMANCE OPTIMIZATIONS - CAREFUL NOT TO BREAK IMAGE EXTRACTION
+        # options.add_argument("--disable-images")  # REMOVED - This breaks image URL extraction!
+        # options.add_argument("--disable-javascript")  # REMOVED - May break meta tag reading
+        options.add_argument("--disable-plugins")
+        options.add_argument("--disable-background-timer-throttling")
+        options.add_argument("--disable-backgrounding-occluded-windows")
+        options.add_argument("--disable-renderer-backgrounding")
+        options.add_argument("--disable-features=TranslateUI")
+        options.add_argument("--disable-ipc-flooding-protection")
+        
         options.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
         
         # Add headless mode if requested
         if headless:
             options.add_argument("--headless")
             options.add_argument("--disable-gpu")
-            logger.info("Setting up shared browser in headless mode")
+            logger.info("Setting up OPTIMIZED shared browser in headless mode")
         
-        # Initialize Chrome WebDriver
+        # Initialize Chrome WebDriver with performance settings
         service = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=service, options=options)
-        driver.set_page_load_timeout(30)
-        logger.info("Shared browser instance created successfully")
+        driver.set_page_load_timeout(20)  # Reduced timeout for better performance
+        
+        logger.info("🚀 OPTIMIZED shared browser instance created successfully")
         return driver
     except Exception as e:
         logger.error(f"Error setting up shared browser: {e}")

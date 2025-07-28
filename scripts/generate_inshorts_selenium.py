@@ -15,6 +15,8 @@ from typing import Dict, List, Optional
 import traceback
 import re
 import hashlib  # For generating article IDs
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import threading
 
 # Configure logging
 logging.basicConfig(
@@ -67,7 +69,17 @@ def parse_args():
         help="Maximum length of summary in words"
     )
     
+    # CONCURRENT PROCESSING OPTIONS
+    parser.add_argument(
+        "--max-workers",
+        type=int,
+        default=1,
+        help="Maximum number of concurrent workers for parallel processing (default: 1 - disabled to avoid issues)"
+    )
+    
     return parser.parse_args()
+
+# Removed problematic caching system that created too many files
 
 def load_news_data(file_path: str) -> Dict:
     """Load news data from a JSON file"""
@@ -81,7 +93,7 @@ def load_news_data(file_path: str) -> Dict:
         raise
 
 def setup_selenium(headless=True):
-    """Set up Selenium WebDriver"""
+    """Set up Selenium WebDriver with performance optimizations"""
     try:
         from selenium import webdriver
         from selenium.webdriver.chrome.options import Options
@@ -89,6 +101,7 @@ def setup_selenium(headless=True):
         from webdriver_manager.chrome import ChromeDriverManager
         
         options = Options()
+        # Basic stability options
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
         options.add_argument("--disable-extensions")
@@ -96,23 +109,80 @@ def setup_selenium(headless=True):
         options.add_argument("--disable-notifications")
         options.add_argument("--disable-infobars")
         options.add_argument("--mute-audio")
+        
+        # PERFORMANCE OPTIMIZATIONS - CAREFUL NOT TO BREAK IMAGE EXTRACTION
+        # options.add_argument("--disable-images")  # REMOVED - This breaks image URL extraction!
+        options.add_argument("--disable-plugins")
+        options.add_argument("--disable-background-timer-throttling")
+        options.add_argument("--disable-backgrounding-occluded-windows")
+        options.add_argument("--disable-renderer-backgrounding")
+        options.add_argument("--disable-features=TranslateUI")
+        options.add_argument("--disable-ipc-flooding-protection")
+        
         options.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
         
         # Add headless mode if requested
         if headless:
             options.add_argument("--headless")
             options.add_argument("--disable-gpu")
-            logger.info("Running in headless mode")
+            logger.info("🚀 Running OPTIMIZED browser in headless mode")
         
-        # Initialize Chrome WebDriver
+        # Initialize Chrome WebDriver with performance settings
         service = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=service, options=options)
-        driver.set_page_load_timeout(30)
+        driver.set_page_load_timeout(20)  # Reduced timeout for better performance
+        
+        logger.info("✅ OPTIMIZED Selenium WebDriver initialized")
         return driver
     except Exception as e:
         logger.error(f"Error setting up Selenium: {e}")
         logger.error(traceback.format_exc())
         raise
+
+def _is_valid_article_url(url: str) -> bool:
+    """Check if URL is a valid article URL (not social media, ads, etc.)"""
+    if not url or not url.startswith(('http://', 'https://')):
+        return False
+    
+    # Exclude common non-article domains
+    excluded_domains = [
+        'google.com', 'youtube.com', 'facebook.com', 'twitter.com', 'instagram.com',
+        'linkedin.com', 'pinterest.com', 'reddit.com', 'tiktok.com',
+        'ads.', 'doubleclick.', 'googleadservices.', 'googlesyndication.',
+        'amazon.com/dp/', 'amazon.com/gp/', 'ebay.com'
+    ]
+    
+    url_lower = url.lower()
+    for domain in excluded_domains:
+        if domain in url_lower:
+            return False
+    
+    # Must contain common news indicators
+    news_indicators = [
+        '/article/', '/news/', '/story/', '/post/', '/blog/', 
+        '.html', '.htm', '/20', '/article-', '/news-'
+    ]
+    
+    # If it has news indicators, it's likely valid
+    for indicator in news_indicators:
+        if indicator in url_lower:
+            return True
+    
+    # If it's from a known news domain, it's probably valid
+    news_domains = [
+        'cnn.com', 'bbc.com', 'reuters.com', 'ap.org', 'npr.org',
+        'nytimes.com', 'washingtonpost.com', 'wsj.com', 'bloomberg.com',
+        'guardian.com', 'independent.co.uk', 'telegraph.co.uk',
+        'timesofindia.com', 'hindustantimes.com', 'indianexpress.com',
+        'ndtv.com', 'news18.com', 'zeenews.com', 'deccanherald.com'
+    ]
+    
+    for domain in news_domains:
+        if domain in url_lower:
+            return True
+    
+    # Default: if it's not obviously bad, allow it
+    return len(url) > 20 and '/' in url[10:]
 
 def extract_article_details(url: str, driver, timeout: int = 10) -> Dict:
     """
@@ -137,6 +207,87 @@ def extract_article_details(url: str, driver, timeout: int = 10) -> Dict:
         # Get the current URL (after any redirects)
         current_url = driver.current_url
         logger.info(f"Current URL after redirects: {current_url}")
+        
+        # HANDLE GOOGLE NEWS REDIRECTS - Improved with multiple strategies
+        if "news.google.com" in current_url:
+            logger.info("🔄 Detected Google News page, attempting to click through to actual article...")
+            try:
+                # Strategy 1: Wait for dynamic content to load
+                time.sleep(2)
+                
+                # Strategy 2: Try multiple selectors in order of preference
+                selectors_to_try = [
+                    # Most specific selectors first
+                    "article a[href*='http']:not([href*='google.com']):not([href*='youtube.com'])",
+                    "a[data-n-tid]:not([href*='google.com'])",
+                    "[role='article'] a[href*='http']:not([href*='google.com'])",
+                    "h3 a[href*='http']:not([href*='google.com'])",
+                    "h4 a[href*='http']:not([href*='google.com'])",
+                    # More general selectors
+                    "a[href*='http']:not([href*='google.com']):not([href*='youtube.com']):not([href*='facebook.com'])",
+                    # Last resort - any external link
+                    "a[href^='http']:not([href*='google'])"
+                ]
+                
+                article_links = []
+                for selector in selectors_to_try:
+                    try:
+                        article_links = driver.find_elements("css selector", selector)
+                        if article_links:
+                            logger.info(f"✅ Found {len(article_links)} links using selector: {selector}")
+                            break
+                    except Exception as e:
+                        logger.debug(f"Selector failed: {selector} - {e}")
+                        continue
+                
+                # Strategy 3: Filter and validate links
+                valid_links = []
+                for link in article_links[:10]:  # Check first 10 links only
+                    try:
+                        href = link.get_attribute('href')
+                        if href and _is_valid_article_url(href):
+                            valid_links.append((link, href))
+                    except:
+                        continue
+                
+                if valid_links:
+                    # Get the best article link (first valid one)
+                    best_link, actual_url = valid_links[0]
+                    logger.info(f"🔗 Found valid article link: {actual_url}")
+                    
+                    # Strategy 4: Try clicking first, fallback to direct navigation
+                    try:
+                        # Try clicking the link
+                        driver.execute_script("arguments[0].click();", best_link)
+                        time.sleep(3)
+                        
+                        # Check if we were redirected
+                        new_url = driver.current_url
+                        if "news.google.com" not in new_url:
+                            current_url = new_url
+                            logger.info(f"✅ Click redirect successful: {current_url}")
+                        else:
+                            # Fallback: direct navigation
+                            logger.info("🔄 Click failed, trying direct navigation...")
+                            driver.get(actual_url)
+                            time.sleep(3)
+                            current_url = driver.current_url
+                            logger.info(f"✅ Direct navigation successful: {current_url}")
+                    
+                    except Exception as e:
+                        logger.warning(f"Click failed, trying direct navigation: {e}")
+                        # Fallback: direct navigation
+                        driver.get(actual_url)
+                        time.sleep(3)
+                        current_url = driver.current_url
+                        logger.info(f"✅ Direct navigation successful: {current_url}")
+                
+                else:
+                    logger.warning("❌ No valid article links found on Google News page")
+                    
+            except Exception as e:
+                logger.warning(f"❌ Error handling Google News redirect: {e}")
+                # Continue with Google News page if redirect fails
         
         # Extract Open Graph image
         og_image = None
@@ -301,43 +452,27 @@ def generate_summary(text: str, max_words: int = 60) -> str:
         logger.error(f"Error generating summary: {e}")
         return text[:200] + "..." if text and len(text) > 200 else text or "No content available for summarization."
 
-def process_news_data(news_data: Dict, max_articles: int, driver, timeout: int, summary_length: int) -> List[Dict]:
-    """
-    Process news data to generate Inshorts-style summaries.
-    
-    Args:
-        news_data: News data from JSON file
-        max_articles: Maximum number of articles to process
-        driver: Selenium WebDriver instance
-        timeout: Timeout in seconds for each article
-        summary_length: Maximum length of summary in words
-        
-    Returns:
-        List of dictionaries with Inshorts-style summaries
-    """
-    processed_articles = []
-    
-    if 'articles' not in news_data:
-        logger.error("No 'articles' field found in the news data")
-        return processed_articles
-    
-    # Limit the number of articles to process
-    articles_to_process = news_data['articles'][:max_articles]
-    logger.info(f"Processing {len(articles_to_process)} articles (max: {max_articles})")
-    
-    for i, article in enumerate(articles_to_process):
-        logger.info(f"Article {i+1}/{len(articles_to_process)}")
-        
-        if 'link' not in article:
-            logger.warning(f"No 'link' field found in article: {article}")
-            continue
-        
+def process_single_article(article: Dict, driver, timeout: int, summary_length: int) -> Dict:
+    """Process a single article (simplified without problematic caching)"""
+    try:
         title = article.get('title', 'Unknown Title')
         url = article.get('link')
         source = article.get('source', 'Unknown Source')
         published = article.get('published', '')
         
-        logger.info(f"Processing article: {title} - {source} | URL: {url}")
+        if not url:
+            return {
+                'id': 'no-url',
+                'title': title,
+                'source': source,
+                'url': '',
+                'image_url': 'https://via.placeholder.com/300x150?text=No+URL',
+                'summary': 'No URL provided for this article.',
+                'published': published,
+                'error': 'No URL provided'
+            }
+        
+        logger.debug(f"🔄 Processing: {title[:50]}... - {source}")
         
         # Extract article details using Selenium
         article_details = extract_article_details(url, driver, timeout)
@@ -364,11 +499,121 @@ def process_news_data(news_data: Dict, max_articles: int, driver, timeout: int, 
             'published': published
         }
         
-        processed_articles.append(processed_article)
+        return processed_article
         
-        # Add delay between requests
-        if i < len(articles_to_process) - 1:
-            time.sleep(1)
+    except Exception as e:
+        logger.error(f"Error processing article {title[:50]}...: {e}")
+        return {
+            'id': 'error',
+            'title': title,
+            'source': source,
+            'url': url or '',
+            'image_url': 'https://via.placeholder.com/300x150?text=Error',
+            'summary': f'Error processing article: {str(e)}',
+            'published': published,
+            'error': str(e)
+        }
+
+def process_news_data(news_data: Dict, max_articles: int, driver, timeout: int, summary_length: int, 
+                     max_workers: int = 3, use_cache: bool = False) -> List[Dict]:
+    """
+    Process news data with CONCURRENT PROCESSING (simplified without problematic caching).
+    
+    Args:
+        news_data: News data from JSON file
+        max_articles: Maximum number of articles to process
+        driver: Selenium WebDriver instance
+        timeout: Timeout in seconds for each article
+        summary_length: Maximum length of summary in words
+        max_workers: Maximum number of concurrent workers
+        use_cache: Disabled to avoid file creation issues
+        
+    Returns:
+        List of dictionaries with Inshorts-style summaries
+    """
+    processed_articles = []
+    
+    if 'articles' not in news_data:
+        logger.error("No 'articles' field found in the news data")
+        return processed_articles
+    
+    # Limit the number of articles to process
+    articles_to_process = news_data['articles'][:max_articles]
+    logger.info(f"🚀 Processing {len(articles_to_process)} articles with CONCURRENT PROCESSING (workers: {max_workers})")
+    
+    # PERFORMANCE OPTIMIZATION: Track processing metrics
+    start_time = time.time()
+    successful_articles = 0
+    
+    if max_workers == 1:
+        # Sequential processing (fallback)
+        logger.info("🔄 Using sequential processing")
+        for i, article in enumerate(articles_to_process):
+            result = process_single_article(article, driver, timeout, summary_length)
+            processed_articles.append(result)
+            if 'error' not in result:
+                successful_articles += 1
+    else:
+        # CONCURRENT PROCESSING - Process multiple articles simultaneously
+        logger.info(f"⚡ Using CONCURRENT processing with {max_workers} workers")
+        
+        # Create multiple driver instances for concurrent processing
+        drivers = [driver]  # Use the main driver
+        try:
+            # Create additional drivers for concurrent processing
+            for i in range(max_workers - 1):
+                additional_driver = setup_selenium(headless=True)
+                drivers.append(additional_driver)
+            
+            with ThreadPoolExecutor(max_workers=max_workers) as executor:
+                # Submit all articles for processing
+                future_to_article = {}
+                for i, article in enumerate(articles_to_process):
+                    # Distribute articles across available drivers
+                    driver_to_use = drivers[i % len(drivers)]
+                    future = executor.submit(process_single_article, article, driver_to_use, timeout, summary_length)
+                    future_to_article[future] = article
+                
+                # Collect results as they complete
+                for future in as_completed(future_to_article):
+                    article = future_to_article[future]
+                    try:
+                        result = future.result()
+                        processed_articles.append(result)
+                        if 'error' not in result:
+                            successful_articles += 1
+                            
+                    except Exception as e:
+                        logger.error(f"Error in concurrent processing: {e}")
+                        # Add error result
+                        processed_articles.append({
+                            'id': 'error',
+                            'title': article.get('title', 'Unknown'),
+                            'source': article.get('source', 'Unknown'),
+                            'url': article.get('link', ''),
+                            'image_url': 'https://via.placeholder.com/300x150?text=Error',
+                            'summary': f'Concurrent processing error: {str(e)}',
+                            'published': article.get('published', ''),
+                            'error': str(e)
+                        })
+        
+        finally:
+            # Clean up additional drivers
+            for i in range(1, len(drivers)):
+                try:
+                    drivers[i].quit()
+                except:
+                    pass
+    
+    # PERFORMANCE METRICS
+    total_time = time.time() - start_time
+    articles_per_second = successful_articles / total_time if total_time > 0 else 0
+    
+    logger.info(f"🏆 CONCURRENT PROCESSING COMPLETE:")
+    logger.info(f"   ✅ Articles processed: {successful_articles}/{len(articles_to_process)}")
+    logger.info(f"   ⏱️  Total time: {total_time:.2f} seconds")
+    logger.info(f"   🚀 Processing rate: {articles_per_second:.2f} articles/second")
+    logger.info(f"   ⚡ Speedup from concurrency: ~{max_workers}x potential")
     
     return processed_articles
 
@@ -417,13 +662,15 @@ def main():
             # Load news data
             news_data = load_news_data(args.input)
             
-            # Process news data to generate summaries
+            # Process news data to generate summaries with CONCURRENT PROCESSING
             processed_articles = process_news_data(
                 news_data, 
                 args.max_articles, 
                 driver,
                 args.timeout,
-                args.summary_length
+                args.summary_length,
+                args.max_workers,
+                args.use_cache
             )
             
             # Prepare output data

@@ -10,6 +10,11 @@ on:
     - cron: '0 6 * * *'
   workflow_dispatch:
 
+# Environment variables for efficiency and caching
+env:
+  PLAYWRIGHT_BROWSERS_PATH: ${{ github.workspace }}/pw-browsers
+  PIP_CACHE_DIR: ${{ github.workspace }}/.pip-cache
+
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
@@ -22,6 +27,42 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      
+    # Cache pip dependencies for faster installs
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ${{ env.PIP_CACHE_DIR }}
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+          
+    # Cache Playwright browsers for faster setup
+    - name: Cache Playwright browsers
+      uses: actions/cache@v3
+      with:
+        path: ${{ env.PLAYWRIGHT_BROWSERS_PATH }}
+        key: ${{ runner.os }}-playwright-browsers-v1
+        restore-keys: |
+          ${{ runner.os }}-playwright-browsers-
+      
+    # Cache pip dependencies for faster installs
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ${{ env.PIP_CACHE_DIR }}
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+          
+    # Cache Playwright browsers for faster setup
+    - name: Cache Playwright browsers
+      uses: actions/cache@v3
+      with:
+        path: ${{ env.PLAYWRIGHT_BROWSERS_PATH }}
+        key: ${{ runner.os }}-playwright-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-playwright-
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         persist-credentials: true
@@ -71,7 +112,7 @@ jobs:
         
         # Install all dependencies from requirements file
         echo "Installing dependencies from requirements.txt..."
-        pip install -r requirements.txt
+        pip install --cache-dir ${{ env.PIP_CACHE_DIR }} -r requirements.txt
         
         # Download NLTK data (will be cached)
         python -c "
@@ -85,13 +126,41 @@ jobs:
             print('NLTK punkt data already cached')
         "
         
+        # Install Playwright for better performance (with caching)
+        echo "Installing Playwright for enhanced performance..."
+        pip install --cache-dir ${{ env.PIP_CACHE_DIR }} playwright
+        
+        # Check if browsers are cached
+        if [ -d "${{ env.PLAYWRIGHT_BROWSERS_PATH }}" ] && [ "$(ls -A ${{ env.PLAYWRIGHT_BROWSERS_PATH }})" ]; then
+          echo "✅ Using cached Playwright browsers"
+          export PLAYWRIGHT_BROWSERS_PATH=${{ env.PLAYWRIGHT_BROWSERS_PATH }}
+        else
+          echo "📥 Installing Playwright browsers (will be cached for next run)"
+          mkdir -p ${{ env.PLAYWRIGHT_BROWSERS_PATH }}
+          export PLAYWRIGHT_BROWSERS_PATH=${{ env.PLAYWRIGHT_BROWSERS_PATH }}
+          # Check if browsers are cached, install if needed
+        if [ -d "${{ env.PLAYWRIGHT_BROWSERS_PATH }}" ] && [ "$(ls -A ${{ env.PLAYWRIGHT_BROWSERS_PATH }} 2>/dev/null)" ]; then
+          echo "✅ Using cached Playwright browsers"
+          export PLAYWRIGHT_BROWSERS_PATH=${{ env.PLAYWRIGHT_BROWSERS_PATH }}
+        else
+          echo "📥 Installing Playwright browsers (will be cached for next run)"
+          mkdir -p ${{ env.PLAYWRIGHT_BROWSERS_PATH }}
+          export PLAYWRIGHT_BROWSERS_PATH=${{ env.PLAYWRIGHT_BROWSERS_PATH }}
+          playwright install chromium --with-deps || echo "Playwright installation failed, will fallback to Selenium"
+        fi
+        fi
+        
         # Verify key imports work
         python -c "
         try:
             import pygooglenews
             import selenium
             import nltk
-            print('SUCCESS: All key dependencies imported successfully')
+            try:
+                import playwright
+                print('SUCCESS: All dependencies including Playwright imported successfully')
+            except ImportError:
+                print('SUCCESS: Core dependencies imported (Playwright not available, will use Selenium)')
         except ImportError as e:
             print(f'ERROR: Import error: {e}')
             exit(1)
@@ -99,7 +168,7 @@ jobs:
         
         # List installed packages for debugging (only show key ones)
         echo "Key installed packages:"
-        pip list | grep -E "(selenium|nltk|newspaper|pygooglenews|webdriver-manager)" || echo "Package listing completed"
+        pip list | grep -E "(selenium|nltk|newspaper|pygooglenews|webdriver-manager|playwright)" || echo "Package listing completed"
     
     - name: Verify installation
       run: |

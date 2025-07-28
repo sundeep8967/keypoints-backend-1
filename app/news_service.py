@@ -17,11 +17,42 @@ except ImportError as e:
 logger = logging.getLogger(__name__)
 
 class NewsService:
-    def __init__(self, lang: str = 'en', country: str = 'US'):
+    def __init__(self, lang: str = 'en', country: str = 'US', enable_optimizations: bool = True):
         """Initialize the news service with language and country settings."""
         try:
             self.gn = GoogleNews(lang=lang, country=country)
-            logger.info(f"NewsService initialized with lang={lang}, country={country}")
+            self.enable_optimizations = enable_optimizations
+            
+            # PERFORMANCE OPTIMIZATION: Initialize connection session for reuse
+            if enable_optimizations:
+                import requests
+                from requests.adapters import HTTPAdapter
+                from urllib3.util.retry import Retry
+                
+                self.session = requests.Session()
+                
+                # Configure retry strategy for better reliability
+                retry_strategy = Retry(
+                    total=3,
+                    backoff_factor=0.3,
+                    status_forcelist=[429, 500, 502, 503, 504],
+                )
+                
+                # Configure HTTP adapter with connection pooling
+                adapter = HTTPAdapter(
+                    pool_connections=10,
+                    pool_maxsize=20,
+                    max_retries=retry_strategy
+                )
+                
+                self.session.mount("http://", adapter)
+                self.session.mount("https://", adapter)
+                
+                logger.info(f"🚀 OPTIMIZED NewsService initialized with lang={lang}, country={country}")
+            else:
+                self.session = None
+                logger.info(f"NewsService initialized with lang={lang}, country={country}")
+                
         except Exception as e:
             logger.error(f"Failed to initialize GoogleNews: {e}")
             raise
