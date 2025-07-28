@@ -98,10 +98,10 @@ jobs:
         echo "Installing Playwright for enhanced performance..."
         pip install --cache-dir ${{ env.PIP_CACHE_DIR }} playwright
         
-        # Check if browsers are cached
-        if [ -d "${{ env.PLAYWRIGHT_BROWSERS_PATH }}" ] && [ "$(ls -A ${{ env.PLAYWRIGHT_BROWSERS_PATH }})" ]; then
+        # Set Playwright environment and check if browsers are cached
+        export PLAYWRIGHT_BROWSERS_PATH=${{ env.PLAYWRIGHT_BROWSERS_PATH }}
+        if [ -d "${{ env.PLAYWRIGHT_BROWSERS_PATH }}" ] && [ "$(ls -A ${{ env.PLAYWRIGHT_BROWSERS_PATH }} 2>/dev/null)" ]; then
           echo "✅ Using cached Playwright browsers"
-          export PLAYWRIGHT_BROWSERS_PATH=${{ env.PLAYWRIGHT_BROWSERS_PATH }}
         else
           echo "📥 Installing Playwright browsers (will be cached for next run)"
           mkdir -p ${{ env.PLAYWRIGHT_BROWSERS_PATH }}
@@ -115,7 +115,6 @@ jobs:
           mkdir -p ${{ env.PLAYWRIGHT_BROWSERS_PATH }}
           export PLAYWRIGHT_BROWSERS_PATH=${{ env.PLAYWRIGHT_BROWSERS_PATH }}
           playwright install chromium --with-deps || echo "Playwright installation failed, will fallback to Selenium"
-        fi
         fi
         
         # Verify key imports work
