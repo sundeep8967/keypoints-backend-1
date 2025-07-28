@@ -1,54 +1,144 @@
 {
   "metadata": {
     "source_file": "data/news_business.json",
-    "generation_time": "2025-07-20 17:31:30",
-    "total_articles": 5
+    "generation_time": "2025-07-28 00:12:35",
+    "total_articles": 15
   },
   "articles": [
     {
-      "id": "d78bbf017298f018504c4fc97bda8950",
-      "title": "Atlanta’s Growth Streak Has Come to an End - The Wall Street Journal",
+      "id": "609e2ef4495cc8fae416dcc45476f4e0",
+      "title": "'He's showing up.' Things are getting better at Boeing under CEO Ortberg. Can he keep it going? - CNBC",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNmMtYVRuVnd6NFlUZEg5TVY4M0ZmOFlFUk5JblFDSlVsMU9VTkd4Z0ZwWExjZTZlQUliWm14MXNOWjgwTDFLeTJNczJmOHk1Z0Zyd2o2VkF4Ty00Y25Yd25rM1lVbnYxVDhQRk5FTjJPdjBHbUhjdkhQQk9xTEJCNjIyRmNZNG9ucW1Z0gGQAUFVX3lxTE1DZjBsYlo0NkJmclpFem5POVEwaC1QUEQ0UWlKUmVmYnZxbWtuWFhTTkJkZkNMbGFzRE9wMGRwTV9VbzNBM09fbjZOOFlBTEdXV2RmQUhTT3FDV0ZYTVNJV1NwSGVMNW1rVmtBMXI0X3ZZR2dCMXgyZ2pCZWZzdndSUnlVM3lsRG85aXhqdjU0Yw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 27 Jul 2025 12:00:01 GMT"
+    },
+    {
+      "id": "f8f9d5f29e4f89c81bcf18d52ad94ee0",
+      "title": "This could be the most consequential week for the economy in years - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/07/27/economy/economy-trump-trade-fed-earnings",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2025-07-18t183553z-1486204059-rc22pfadv1l1-rtrmadp-3-usa-fed.JPG?c=16x9&q=w_800,c_fill",
+      "summary": "This could be the most consequential week for the economy in years A construction worker drills near the iconic carved eagle atop the Federal Reserve building during ongoing construction work, in Washington, DC. Jonathan Ernst/Reuters The state of President Donald Trump’s economy is about to come into full view. A slew of crucial economic data is set for release this...",
+      "published": "Sun, 27 Jul 2025 16:00:00 GMT"
+    },
+    {
+      "id": "95691ce6bc49b6d3656a1dad32136007",
+      "title": "Luxury Brands Are Getting Hit by a Vibe Shift - The Wall Street Journal",
       "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/economy/atlantas-growth-streak-has-come-to-an-end-32aa642c",
+      "url": "https://www.wsj.com/business/retail/luxury-brands-sales-weak-bcc209ca",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sun, 20 Jul 2025 10:53:38 GMT"
+      "published": "Sun, 27 Jul 2025 10:30:00 GMT"
     },
     {
-      "id": "ab729fe476587c8cfd6d7f8690b47471",
-      "title": "Chinese Rare-Earth Magnet Exports Surge After U.S. Trade Truce - The Wall Street Journal",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/world/asia/chinese-rare-earth-magnet-exports-surge-after-u-s-trade-truce-f9f6e059",
+      "id": "9379cfc2af147ccff3c7fd9c3bff54e6",
+      "title": "White House presses Fed for ‘dramatically lower’ rates as meeting looms - Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/76f13fc1-bceb-4d2f-a326-bd1bf256fc04",
+      "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F45d7e5c6-2774-49db-b17c-7dde9f85cbba.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Impartial reporting, expert analysis, informed opinions As global economic uncertainty looms, trust the FT's expert trade reporting to aid your decisions. White House presses Fed for ‘dramatically lower’ rates as meeting looms Jay Powell expected to widen rift with Trump by keeping monetary policy unchanged at Wednesday’s meeting White House presses Fed for ‘dramatically lower’ rates as meeting looms on...",
+      "published": "Sun, 27 Jul 2025 16:21:06 GMT"
+    },
+    {
+      "id": "5cae8ddf98858ee3c6540201dfb0fdaf",
+      "title": "Citi Strata Elite: Citi finally adds a premium travel card — was it worth the wait? - The Points Guy",
+      "source": "The Points Guy",
+      "url": "https://thepointsguy.com/news/citi-strata-elite-launch/",
+      "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/07/20250715_SOCIAL-DISCLAIMER_PARTER-OFFER-TERMS-APPLY_Passangers-walking-through-deaprture-gate-at-Suvarnabhumi-Airport-in-Bangkok-Thailand_-enviromantic.jpg",
+      "summary": "Citi Strata Elite: Citi finally adds a premium travel card — was it worth the wait? The cards we feature here are from partners who compensate us when you are approved through our site, and this may impact how or where these products appear. We don’t cover all available credit cards, but our analysis, reviews, and opinions are entirely from...",
+      "published": "Sun, 27 Jul 2025 13:14:05 GMT"
+    },
+    {
+      "id": "a3f27c2094248e4de93edeb8b787d3b3",
+      "title": "Allianz Life says majority of US customers' data stolen in hack - Reuters",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/allianz-life-says-majority-us-customers-data-stolen-hack-2025-07-26/",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sun, 20 Jul 2025 03:59:00 GMT"
+      "published": "Sat, 26 Jul 2025 20:37:03 GMT"
     },
     {
-      "id": "0e80457274570a4db3bb4864f9faefc0",
-      "title": "GENIUS Act blocks Big Tech, banks from dominating stablecoins: Circle exec - Cointelegraph",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/genius-act-clause-limits-big-tech-stablecoin-power",
-      "image_url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-06/0197ad16-3594-7998-b1de-5b68709533c2",
-      "summary": "GENIUS Act blocks Big Tech, banks from dominating stablecoins: Circle exec Circle’s Dante Disparte says the GENIUS Act ensures tech giants and banks can’t dominate the stablecoin market without facing strict structural and regulatory hurdles. The GENIUS Act contains a little-noticed clause that prevents technology giants and Wall Street behemoths from dominating the stablecoin market, according to Circle Chief Strategy...",
-      "published": "Sun, 20 Jul 2025 07:37:00 GMT"
+      "id": "ad9f5e39b082a172b92a9952657a8d2c",
+      "title": "Meet the boomer homeowners who are sitting on their valuable properties because of a tax they hope is on the way out - Business Insider",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/trump-wants-to-eliminate-capital-gains-tax-home-sales-boomers-2025-7",
+      "image_url": "https://i.insider.com/6883f792f748d8c055f655cb?width=1200&format=jpeg",
+      "summary": "Meet the boomer homeowners who are sitting on their valuable properties because of a tax they hope is on the way out . save-icon-fill { display: none; } . save-icon.is-active . save-icon-fill, . save-icon-fill. is-active { display: block; fill: currentColor; } Some older homeowners are discouraged from selling by the capital gains tax. That reluctance to sell may be exacerbating...",
+      "published": "Sun, 27 Jul 2025 07:31:00 GMT"
     },
     {
-      "id": "7ace63585a990fc52d201b3bf9417fe4",
-      "title": "Trump says Coca-Cola is switching from high-fructose corn syrup to cane sugar. Is it better for you? - ABC News",
-      "source": "ABC News",
-      "url": "https://abcnews.go.com/Health/trump-coca-cola-switching-high-fructose-corn-syrup/story?id=123827599",
-      "image_url": "https://i.abcnewsfe.com/a/88694e3d-d361-4b9a-b6f0-254c07f1b2e8/coke-gty-jt-250718_1752858669035_hpMain_16x9.jpg?w=1600",
-      "summary": "Trump says Coca-Cola is switching from high-fructose corn syrup to cane sugar. Is it better for you? Experts say it all comes down to how much you consume. Trump says Coke agrees to use cane sugar in USPresident Donald Trump said Wednesday beverage giant Coca-Cola has agreed to use cane sugar in its U. S. drinks. President Donald Trump announced...",
-      "published": "Fri, 18 Jul 2025 20:50:38 GMT"
+      "id": "53a125836c2b1f6810f633aef290da5d",
+      "title": "Trump says Japan is investing $550B in the U.S. at his direction. It may not be a sure thing - PBS",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/politics/trump-says-japan-is-investing-550b-in-the-u-s-at-his-direction-it-may-not-be-a-sure-thing",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/07/2025-07-23T025201Z_1737761049_RC21SFAN1FGC_RTRMADP_3_USA-TRUMP-TARIFFS-JAPAN-1024x754.jpg",
+      "summary": "By — Josh Boak, Associated Press By — Mari Yamaguchi, Associated Press Trump says Japan is investing $550B in the U. S. at his direction. It may not be a sure thing Politics Jul 26, 2025 3:38 PM EDT WASHINGTON (AP) — President Donald Trump is bragging that Japan has given him, as part of a new trade framework, $550...",
+      "published": "Sat, 26 Jul 2025 19:38:11 GMT"
     },
     {
-      "id": "5934cf0ca6117278357d7eecdcf0e744",
-      "title": "3 reasons why investors have largely ignored Trump’s tariff threats as Aug. 1 deadline approaches - MarketWatch",
+      "id": "678b1d5e107757d9c63621c225b9eb1c",
+      "title": "Home sales are down. So why are prices at an all-time high? - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/07/26/nx-s1-5478757/home-price-record-mortgage-rates",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F85%2F9fa2a5964bdf8bbfc2aa173198c9%2Fgettyimages-1475361646.jpg",
+      "summary": "Home sales are down. So why are prices at an all-time high? The housing market has fizzled so far this year, as many would-be buyers are deterred by high prices and elevated mortgage rates. Home prices hit an all-time high in June, even as the housing market continued its post-pandemic slump. The median price for an existing home sold last...",
+      "published": "Sat, 26 Jul 2025 09:00:00 GMT"
+    },
+    {
+      "id": "561e64cf7b15ccffa58a8234299d9514",
+      "title": "China calls for global 'consensus' on AI regulation - DW",
+      "source": "DW",
+      "url": "https://www.dw.com/en/china-calls-for-global-consensus-on-ai-regulation/a-73420599",
+      "image_url": "https://static.dw.com/image/73420894_6.jpg",
+      "summary": "DW uses cookies and similar technologies to measure usage, display personalized advertising and share personal data and information with up to 186 third parties. You decide for yourself whether you agree to this use of your data. You can adjust individual details under “Settings” and change them at any time. You can view all of DW's content without agreeing. Social...",
+      "published": "Sat, 26 Jul 2025 07:55:07 GMT"
+    },
+    {
+      "id": "8190e67df200ef4f49b62fdab3f3997c",
+      "title": "Trump's Body Language During Awkward Exchange With Jerome Powell Spoke Volumes, Experts Say - HuffPost",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-jerome-powell-body-language_l_6883aac5e4b016b12b83094c",
+      "image_url": "https://img.huffingtonpost.com/asset/6883dfe71600004efe5d7536.jpeg?cache=tcW9fp8d2Z&ops=1200_630",
+      "summary": "Thanks for being part of the HuffPost community! Here are our Community Guidelines that explain the rules for creating a safe space for people to comment. Please read those guidelines -- we block people who violate our rules repeatedly. For more information or support, please visit our FAQ. I loved the part where trump was trying to go for the...",
+      "published": "Fri, 25 Jul 2025 23:14:28 GMT"
+    },
+    {
+      "id": "acffdffbf36fde0b4ce30813e21916ce",
+      "title": "S&P 500 scores 5th straight record high ahead of Europe-U.S. trade meeting - MarketWatch",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/3-reasons-why-investors-have-largely-ignored-trumps-tariff-threats-as-aug-1-deadline-approaches-80698776",
+      "url": "https://www.marketwatch.com/story/s-p-500-scores-5th-straight-record-high-ahead-of-europe-u-s-trade-meeting-a34e9c0d",
       "image_url": null,
       "summary": "No content available for summarization.",
-      "published": "Sat, 19 Jul 2025 11:00:00 GMT"
+      "published": "Fri, 25 Jul 2025 22:34:00 GMT"
+    },
+    {
+      "id": "dde29416e352e2d7547550a6387dd0b2",
+      "title": "Lutnick: Trump wants 'good enough' EU trade offer — but what that means is unclear - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/07/27/lutnick-trump-european-union-trade-aug-1-.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108172224-1752598437047-untitled-27-3-3.jpg?v=1752598505&w=1920&h=1080",
+      "summary": "Lutnick: Trump wants ‘good enough’ EU trade offer — but what that means is unclear Commerce Secretary Howard Lutnick said that “the question” ahead of President Donald Trump’s talks with European Commission President Ursula von der Leyen is whether the bloc offers a “good enough deal. ” Trump is set to meet with von der Leyen in Scotland on Sunday...",
+      "published": "Sun, 27 Jul 2025 15:08:51 GMT"
+    },
+    {
+      "id": "6b19c615ab2cf193181b40d56ee0e424",
+      "title": "All the IP David Ellison's Skydance Gets in Paramount Acquisition - Variety",
+      "source": "Variety",
+      "url": "https://variety.com/2025/film/news/ninja-turtles-taylor-sheridan-skydance-paramount-ip-acquisition-1236470959/",
+      "image_url": "https://variety.com/wp-content/uploads/2025/07/running-man-lioness-spongebob.jpg?crop=0px%2C54px%2C1800px%2C1013px&resize=1000%2C563",
+      "summary": "Transformers, Ninja Turtles, Taylor Sheridan and More: All the IP David Ellison’s Skydance Gets in Paramount Acquisition Courtesy of Everett Collection/Paramount+ Now that David Ellison’s Skydance has secured the keys to Paramount Global, what toys await him inside the company’s intellectual property chest? After a nail-biting federal approval process that inspired backlash, Ellison and team have not only secured a...",
+      "published": "Sat, 26 Jul 2025 15:45:00 GMT"
+    },
+    {
+      "id": "9e850bfa857ffd512a29fcc8a4c52374",
+      "title": "EasyJet passenger bomb threat, shouts Allahu Akbar - The Jerusalem Post",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-862398",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/660747",
+      "summary": "WATCH: Man shouts 'Allahu Akbar' on UK easyJet flight, 'wanted to send message to Trump' The easyJet flight from London Luton, was forced to undergo an emergency landing at Glasgow Airport, where police boarded the plane and arrested the suspected terrorist. A man was removed from an easyJet flight from London to Glasgow on Sunday, after repeatedly shouting 'Allahu Akbar'...",
+      "published": "Sun, 27 Jul 2025 14:52:21 GMT"
     }
   ]
 }
