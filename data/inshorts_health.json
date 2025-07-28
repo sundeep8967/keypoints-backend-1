@@ -1,54 +1,144 @@
 {
   "metadata": {
     "source_file": "data/news_health.json",
-    "generation_time": "2025-07-20 17:53:29",
-    "total_articles": 5
+    "generation_time": "2025-07-27 21:35:51",
+    "total_articles": 15
   },
   "articles": [
     {
-      "id": "22135871402dbc88c34ed52a5c27caa5",
-      "title": "Women feel more anger as they age, but show it less, study suggests - The Washington Post",
+      "id": "2dcedfc6ed125952e59044e5676f56ef",
+      "title": "Lung disease: Man given one year to live after surprise diagnosis; what you need to know about IPF - The Times of India",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPNGR2ZkZxc3lfejUtM1hSWEg5TUtMN0Y1alI4MlBYSzVUNlB1cXM0RkRfLTRPRE1tNXF1eFhxNGVKai1sTzFmWWlKbmpjcExGWlFQVXdfWmdpQzdFT2pMRUhHMlV4N0czYzhFa1BJT3l4emd2cVNEb1VudHUzUHh6b0RPMDBzQkFHeGdWTEhGa2M4YjlNTzBLaW1ZSUlJYndQUTREM3ROR2FmOUxTMmJWSEVtQTdvRk5rVjN6UzNla0haWnR3Q2hPTVJuLVdLYi1lbUctN2hkNWpWVXQ0Y1Q5dVMwSDM1cHNVMGtucGNudXZFR1FlaTN5Si1sS3BFZE9wRzNKNHdHMTFOWVVleElhaHMwSWk5c0d5cU54MVlQUWpTd9IBpwJBVV95cUxPenZGSWpoUzN1dkZTUEYweVZrYXdhUGZ0LUpHWlRjOGhQYnFZY3BjNlhQOWUwUDhiaUdWLW9aVXg1WjFvVTA4M2RveDBBVlg4SkFTajFsTTFmQ0h2bEs3aC1HamxwcTE3Z016TVFNLXZDWjhnOUp1N1l0Wkp0TUotVzVRUGJBWTJycWtCbGxDRnNEel9wRDFDWTNyNTM3WFdqTFJDcHlxQnZGNThLVVlRc0UxX250ZmlDTTRzS0FxbWN6d0ptcmxmT1pNdmdDdEtVNHhON2ZaRnluMXhrUi13eDZIbjhxLV84akw4Yk8zVVB1S2tOODhkaGVJR2dHeXVpMzhwNGtrZWh5b3Z0SDNxaXBvRGItRXRoRFd0QWZWc1ZFYmxyTV9V?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 27 Jul 2025 02:54:00 GMT"
+    },
+    {
+      "id": "72fa29dc992a9b640b1068070b1ec4f4",
+      "title": "William J. Rutter, Biotech Pioneer of Gene-Based Medicine, Dies at 97 - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyTEtSZjlrOTR6LW1rQVk4N2R3U3pRMkJSOFBZQmNHT2Z4bEc2cmlpT214WkVrY2E0bjhleW41NVZUT0tTTXFNdEsyTUJicGoyTHZTa3p2TWpOWDJXa2EtNXZxczRfZlpUOUJmZDlVUEVGSzZ0QnpSbQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 27 Jul 2025 16:28:04 GMT"
+    },
+    {
+      "id": "074dae1819e4155eb54cf4398cc682de",
+      "title": "Colorado reports first West Nile virus death of 2025 - KUSA.com",
+      "source": "KUSA.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbDY1OEpvWGtjNS1UNm85NTBFTTZQWGl6UTRZaFNSbTBMYkZIN3MyUmhCSWo3Q1V0TGJsMGRxMkpZUy1ybDZBN2d2ZHVFaGd4cVlmSjktbmRBQ013WklITkhORVBQNDZVVmR0QkU2ZWhmaUVMemE5WDV1Szc5WGZmXzFmanktazJrZ1JUdWs5M2otR2F3MXkxUU5oMmpoTnZZX3RISERuMk44UkNEQTFCeURlNnBiQzgyZlZMQUp5UnpxSldHVFhEQ1lScnY4djY0anAtdTBB?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 25 Jul 2025 19:40:00 GMT"
+    },
+    {
+      "id": "e8801533975916fa8623ac2149b2a917",
+      "title": "Scientists uncover 'natural' Viagra that can cure erectile dysfunction without taking the little blue pill - Daily Mail",
+      "source": "Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQjY1OERlcTB2ZXNkQUk3aUNFcGNULXVCQ1hWUWthNWdOWTQydFkydE5PSUpaOU1YVTlXMGs2a0pGNjRFWVREZVpSeXVQWlIyN2c1LUVDWGtUTklVLVF0U1A4MnQyUGg5OTF2TkpEbmtVVjlUajhDZHhhcXlXb1hqVHpkdWdlcm5BWi1tRUUzdVNvWHNxUmhLU2QyTGNpdVZWRkdidzhTQ3k0RXVCVXF1UGEzc1VPS0nSAbwBQVVfeXFMTUxjeUJRdlhyLThmR3JpUHRiWW8zVVQtUTFSRVZnd2VUUTZzNV9nTGxaYVh2VEZQMDJweVBmTXNBQ1JGeU9sQ0ZDZWZma2F0OGJqQktyM2lVcUVVMzREdkNhemR3ZHhYTTBERXV2RVcwdm40NTViZlZsVmExakRIaThBa2NNUVQxU1cxXzhEOEthR1dFellteHRXaDJ5SXJRN2tMdTVFLWxPYzMxOFRfd1ZrVS1FSVlEbGJ4cVk?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 25 Jul 2025 20:40:32 GMT"
+    },
+    {
+      "id": "53ab28c7ee8ab4b16ff8c39641ef2841",
+      "title": "Guest column | A prostate cancer survivor struggles with aftereffects of treatment - The Washington Post",
       "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOTdMNFRLSjJSNF9uU2tBODljRGp1ci1zYWhQa1ZmS1NhRzRwX1ROanh0Q2UyS01jVGFuTmNjb1FNX05QN3hGbnNxV05oMjNEM3Q5N1FVMl8wQV96MVJ5N1E5TzE4Z3cxZUh0RXNJaWlHNEtweFJ4ODFFSVMwNFluS1gwVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTFJ5Z09zLVMzZ2l0YVlOdXM0Vjh3cDRKWTFVWlVpNGNQNFpXaU14VVpxTXVFYkRzVGVicnctNmN1WXI3dnJCaVFrTlVHWFc4VkV4Z052Q0twTW80YkVETURqSHp3aXFQTFlHNGFGaUU1LUJEZ0xxUmRnWUEtSWQxTEFFanRyTjFUcUpTTl9oYkpzb3hMeXRXY3B6cw?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sat, 19 Jul 2025 17:30:15 GMT"
+      "published": "Sun, 27 Jul 2025 19:00:31 GMT"
     },
     {
-      "id": "a0d8bda28a4b381f0d9557caaa62e5fd",
-      "title": "Our body is a mosaic of fungi. Some scientists think they could be influencing our brain - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWRmdjNtbXdQQzZrcndhRkw4VmV1bHdMcHI0ODJfVVFSQ0tmdU5lSmU4UUhudzFrTkpRR0Vka041Tkk1UmdSQnNpSHJaVzY0TFBlMGdVVkJxcFlpUjAxY0pRZlRnZmh4T0RuQUI3aW9UY29NYXBPQXI5ekpQbjk0M3JoOXhDa1diaG5nMUhPOXRWcHNMQnY4VkxOWHhiZm1oZlF3ZjlrQmQxWUlNaVpTcXpqTQ?oc=5",
+      "id": "143b17e28ecee831945ea51c16935f17",
+      "title": "Guest column | You’re becoming a parent? Prepare to get injured. - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmtPUGxVWXRLMmVyLTFHSDNiQkg1ZzRkTFVDR2FaUFdGY1VmWTVCR1ZRRzNQVlVkejd3YTdaZERzVUNWaEV1aVpfWktuaE5SclVUMkZ5UTRVbS1YTXZZdk1yWi1vR0Qta0prdktzZElFMUFMS0hlOEdQcGRLZHdFcW5oVWxfY2h2a1Y0Q1pKSmh5NmhWZk1j?oc=5",
       "image_url": "https://via.placeholder.com/300x150?text=No+Image",
       "summary": "No content available for summarization.",
-      "published": "Sun, 20 Jul 2025 09:00:54 GMT"
+      "published": "Sun, 27 Jul 2025 20:00:19 GMT"
     },
     {
-      "id": "4222ec37f8e716c46e35c0c6bf663b9b",
-      "title": "Four people have died from flesh-eating bacteria in Florida. Who is at risk? - Yahoo Home",
-      "source": "Yahoo Home",
-      "url": "https://www.yahoo.com/news/four-people-died-flesh-eating-100000579.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/rDZLlEK9ky0XwZSiAXrNrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTQ7Y2Y9d2VicA--/https://media.zenfs.com/en/nbc_news_122/af9bce10f7f36a23d842ca84aed83d58",
-      "summary": "Sunscreen and walking health tips Four people have died from flesh-eating bacteria in Florida. Who is at risk? Sat, July 19, 2025 at 3:30 PM GMT+5:30 Four people in Florida have died this year from bacterial infections that can cause “flesh-eating” wounds, the state’s health department reported this month. The culprit, the bacteria Vibrio vulnificus, thrives in warm seawater. The...",
-      "published": "Sat, 19 Jul 2025 10:00:00 GMT"
+      "id": "42956f23c385eb6468830ea2fae6e171",
+      "title": "Infection From Brain-Eating Amoeba Kills Boy in South Carolina - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmJnYXp6alJmRlBqc2U0TkNOMmRmeEtlVDVQOTgwR21Cam5sQjNlMTU0eDhwQ1dEYjZaSGUtMXpKYy0xbmdTWVpxc1dzdC1TWF9PNXFFazFqT2VtSXJHYUk3ckNVNWNwZzB4X05VSl9CMDBZMUhfOGpfcXh2dFJENFpWWmQ0bWpFaUlVeG9jY1VXVlBBbEJJ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 26 Jul 2025 19:27:40 GMT"
     },
     {
-      "id": "6d2d32569dee45f5c50ad060479893af",
-      "title": "Plague Death in Arizona Shows Insidious Disease Never Disappeared - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/plague-death-in-arizona-shows-insidious-disease-never-disappeared",
-      "image_url": "https://www.sciencealert.com/images/2025/07/yersinia-pestis-pneumonic-plague.jpg",
-      "summary": "Plague Death in Arizona Shows Insidious Disease Never Disappeared By THOMAS JEFFRIES, THE CONVERSATION Yersinia pestis is the bacteria that causes plague. (Callista Images/Getty Images) A person in Arizona has died from the plague, local health officials reported on Friday. This marks the first such death in this region in 18 years. But it's a stark reminder that this historic...",
-      "published": "Fri, 18 Jul 2025 15:01:24 GMT"
+      "id": "5046794d798683ddedc26f3deb44aad4",
+      "title": "She's trying to open a birth center near a maternity desert. It's not easy - NPR",
+      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObXV5MDlaRGVobUNvWnhjLUZkaWlkMHVZSzI0eWh0THNsaHN3NHh5UDZKY1hUeDBLcW1QMVpNMDYtUlNGbUEzYldGd0NkMkxSSU5xbjR3U0FDSGZPb0dmeGhzMzdxQjNYUklNblRtM045dVlPX0tHbXUyY1RFY2RvUDJ6V2pOSEJxY0FTQkk3eU9PcVdiX01iOGNDQ3JITWZnWHFnckJB?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 27 Jul 2025 11:00:00 GMT"
     },
     {
-      "id": "7f49bda968c7a0d3ec97c2c56ca1e968",
-      "title": "Potential measles exposures at Albany Med and Saratoga Hospital - Times Union",
-      "source": "Times Union",
-      "url": "https://www.timesunion.com/news/article/potential-measles-exposures-albany-med-saratoga-20776382.php",
-      "image_url": "https://www.timesunion.com/img/logos/black/logo.svg",
-      "summary": "Press & Hold to confirm you are Reference ID 555016ca-6564-11f0-bd27-0f8c25d95839",
-      "published": "Sat, 19 Jul 2025 16:57:49 GMT"
+      "id": "b286a7a2d14a4f82313c63f6df728e0f",
+      "title": "Going to bed earlier may help you hit fitness goals - Harvard Gazette",
+      "source": "Harvard Gazette",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNREdoZU12dUxvVXB2OGhHb0hwYmx1aUdIUmtZcm5BYzRDdWE1bUxyLVVtTTdYSGdWd0wtS0hkMFBaUWo4ZHFsY2xqbFExVGZFamYwdFJQbGhGdmlITzhCaDFsV01FbG1mVGY5ZkxaSkdfclRCZDJTZjNjN05NSEpZNFZDZmJDYUxjTG9FYURnUERTZlE3ZERYWTVGR1VnR19o?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Tue, 22 Jul 2025 16:41:57 GMT"
+    },
+    {
+      "id": "ba646576246da726388121583eb0f750",
+      "title": "Picking up the pace on your walk helps, even for older adults - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONlJVMGRKa1hFYlJ1QWk4ZkU3LXU2di1BNnhWNmJTMGZON1BPRlozc0NFWWRBWUc1U1BfUFU3dlBjdzh4MDhmT2NDU0RYakJJSnlhc3N5TmVBM1AtS25PODJtdWxvNDlBTTlDV0lfbzJSdWRZSmFjb1lKOTVCaDZCOGlYdVNYemNpVGRvTnl6NksxMmlhRmc?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 27 Jul 2025 17:00:00 GMT"
+    },
+    {
+      "id": "2ce4cfaeacb9ca45ccd0aad24a2f0f07",
+      "title": "Long-COVID, viruses and ‘zombie’ cells: new research looks for links to chronic fatigue and brain fog - The Conversation",
+      "source": "The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTTg1VGJVajBVYkZEQndYajlfOFZjbWJqdHNlU3g2TlJPSmpYQmpOYnhkM3FBVGVpakxlcFhDLVhZQnVfTWlOdEJTU3h4X0cyRUhFa2ttVnJRdWJhWGo4cTZiU0YzUFcwUjE4cnVuUm8ydjFlOUJRVWM1MGFZZl9FMUtaeHR5MVNWWDZBX0FHYXlnRW94M3BWeXhaMzJTbUcwVWczdDYzR3VHM0pBbU9lOGE4QUhqMm1yMWRtU1VXLWMxcDFQWm81c3lWbEw?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sun, 27 Jul 2025 08:54:50 GMT"
+    },
+    {
+      "id": "608f6c2b5026712009ce51f6dde20a09",
+      "title": "Pumping Iron Is Their Secret to Aging Well - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVVjdHUzbFVmdjROdmVLLXl5ZHF5VFRCTVBkSDJ4SXBBUWdEbjRsQ0ZmeEhIWEZjVGhjcDdPN0tLSnBOQjlmelZURzRCYy1fOTlJa2Y0cUVCVTBHZGFxSW5sU1pZbEg5NUdGalpLbmlPQ0JpYk1yUU1nYTJnWHNYZTJCbndNSTdacVVJ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 26 Jul 2025 14:27:06 GMT"
+    },
+    {
+      "id": "2b4d0a7a9d19aef276395a1eab5adab9",
+      "title": "This Test Can See a Heart Attack in Your Future - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeXk1OGs1Sm1BV1NaQmNOcW9yREluRjhaR044RlkycjV6U1FzTXFaVjlkMW5UNG11V2YzMlVXZFQ5SHpzS2pKMG5IMUVwMTA1eUZkSFRCN19kQTNKdUlzZUpuVVd3d1NQRTZCNS1ETXQwYVJSOGt4N2ltazd0d0ttOEJ3?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 26 Jul 2025 13:23:15 GMT"
+    },
+    {
+      "id": "ce59396f36da057e2d159e89f8c50f5b",
+      "title": "Tribal health officials work to fill vaccination gaps as measles outbreak spreads - Daily Kos",
+      "source": "Daily Kos",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbGhVSVNHN0ozRDNQX256bXplclRtQTE2VDdISEdxcG96NlFPUUxrM0xlYzBDN0lwWFMzU3V2SjRjTUdYeF9uVWtieWY4REZIckpxM0tQOFoyWmg4d1AwMW14cF9RZ3JKcHIxVzZYUndhZUhyU1ZjUVR4SjI4WF9IcVM4Yk13OHAyeHdFbUV1aENkVHNNWDJabWZoSnJUQnhucTh5aEdueWwyU3JyalRiWWhpb29LRW9rZm8zNktqQVJSWUp0SFhwN3ZkSnd2QQ?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Sat, 26 Jul 2025 18:04:08 GMT"
+    },
+    {
+      "id": "1f71cafed6a55c5a93c3a46317adc2b4",
+      "title": "Mosquitoes test positive for Jamestown Canyon Virus for the first time in Vermont - VTDigger",
+      "source": "VTDigger",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdTFWV0dGTTN4TDJFeGdXc21xVmhic0lHTnU0R3c2YW10Ukx4Qm4xeEtseFVMNjJYdHlhajNGdnd2VHJoY0VRSVVOcW82TE5HbE1CdlhORDdVUVlvYjZKX0x5SnFac20ybGJEcGtNZkY2UVVvX2FzaEpMUzM4eklhSHBLSHVlTWhfX2tVa0xmbEg2WTJTYUt1c29udy16SS1Hb1V6WDVXa2g3WTJnc1JrZ3hKR2g?oc=5",
+      "image_url": "https://via.placeholder.com/300x150?text=No+Image",
+      "summary": "No content available for summarization.",
+      "published": "Fri, 25 Jul 2025 22:13:21 GMT"
     }
   ]
 }
