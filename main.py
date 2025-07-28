@@ -494,6 +494,28 @@ def step3_upload_to_supabase(data_dir: str) -> bool:
     
     return run_command(cmd, "Uploading all processed data to Supabase")
 
+def cleanup_old_inshorts_files(data_dir: str):
+    """Clean up old inshorts files to ensure only fresh data gets uploaded"""
+    import glob
+    
+    logger.info("🧹 Cleaning up old inshorts files...")
+    
+    # Find all existing inshorts files
+    inshorts_pattern = os.path.join(data_dir, "inshorts_*.json")
+    old_files = glob.glob(inshorts_pattern)
+    
+    if old_files:
+        logger.info(f"   Found {len(old_files)} old inshorts files to remove:")
+        for file_path in old_files:
+            try:
+                os.remove(file_path)
+                logger.info(f"   🗑️  Removed: {os.path.basename(file_path)}")
+            except Exception as e:
+                logger.warning(f"   ⚠️  Could not remove {os.path.basename(file_path)}: {e}")
+        logger.info("✅ Cleanup completed - only fresh files will be uploaded")
+    else:
+        logger.info("   No old inshorts files found")
+
 def check_prerequisites():
     """Check if all required files and dependencies exist"""
     logger.info("🔍 Checking prerequisites...")
@@ -581,6 +603,9 @@ async def main():
     if not check_prerequisites():
         logger.error("❌ Prerequisites check failed. Exiting.")
         return 1
+    
+    # Clean up old inshorts files to ensure only fresh data gets uploaded
+    cleanup_old_inshorts_files(args.data_dir)
     
     start_time = time.time()
     step1_success = 0
