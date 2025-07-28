@@ -13,7 +13,7 @@ on:
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
-    environment: production
+    environment: SUPABASE_URL
     
     steps:
     - name: Checkout repository
