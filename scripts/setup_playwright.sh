@@ -89,3 +89,4 @@ else
     log_error "Python not available for Selenium fallback"
     exit 1
 fi
+fi
