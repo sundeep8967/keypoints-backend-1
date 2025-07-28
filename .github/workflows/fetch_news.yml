@@ -45,28 +45,6 @@ jobs:
         key: ${{ runner.os }}-playwright-browsers-v1
         restore-keys: |
           ${{ runner.os }}-playwright-browsers-
-      
-    # Cache pip dependencies for faster installs
-    - name: Cache pip dependencies
-      uses: actions/cache@v3
-      with:
-        path: ${{ env.PIP_CACHE_DIR }}
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
-          
-    # Cache Playwright browsers for faster setup
-    - name: Cache Playwright browsers
-      uses: actions/cache@v3
-      with:
-        path: ${{ env.PLAYWRIGHT_BROWSERS_PATH }}
-        key: ${{ runner.os }}-playwright-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-playwright-
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        persist-credentials: true
-        fetch-depth: 0
     
     - name: Set up Python
       uses: actions/setup-python@v4
