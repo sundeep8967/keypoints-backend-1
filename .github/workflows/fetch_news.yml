@@ -13,6 +13,7 @@ on:
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
+    environment: production
     
     steps:
     - name: Checkout repository
@@ -38,6 +39,3 @@ jobs:
         SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
         SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
       run: python main.py
-      
-    - name: Upload to Supabase
-      run: python scripts/push_inshorts_to_supabase.py
