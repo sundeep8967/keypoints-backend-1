@@ -44,7 +44,7 @@ fi
 # Test Selenium as last resort
 log_info "Testing Selenium availability..."
 if command_exists python; then
-    python -c "
+    if python -c "
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
@@ -71,6 +71,8 @@ except Exception as e:
         touch "$PLAYWRIGHT_BROWSERS_PATH/.selenium_fallback"
         echo "BROWSER_ENGINE=selenium" >> "$GITHUB_ENV" 2>/dev/null || true
         exit 0
+    else
+        log_error "Selenium test failed"
     fi
 fi
 

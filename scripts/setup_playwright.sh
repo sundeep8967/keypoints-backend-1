@@ -50,7 +50,7 @@ log_info "Setting up Selenium fallback..."
 
 # Ensure Selenium WebDriver is properly set up
 if command_exists python; then
-    python -c "
+    if python -c "
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
