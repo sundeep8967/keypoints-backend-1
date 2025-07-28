@@ -167,17 +167,9 @@ jobs:
         # Check which browser engine is available
         echo "Browser engine detected: ${BROWSER_ENGINE:-unknown}"
         
-        # Generate Inshorts-style summaries using appropriate browser engine
-        if [ "${BROWSER_ENGINE}" = "playwright" ]; then
-          echo "Using Playwright for content extraction..."
-          python scripts/generate_inshorts_playwright.py --input-dir data --output-dir data --max-articles 15 --headless
-        elif [ "${BROWSER_ENGINE}" = "selenium" ]; then
-          echo "Using Selenium for content extraction..."
-          python scripts/generate_all_inshorts.py --input-dir data --output-dir data --max-articles 15 --headless
-        else
-          echo "No browser automation available, using basic content extraction..."
-          python scripts/generate_all_inshorts.py --input-dir data --output-dir data --max-articles 15 --headless --no-browser
-        fi
+        # Run the complete workflow using main.py (which handles Playwright/Selenium automatically)
+        echo "Running main workflow with Playwright support..."
+        python main.py
         
         # List generated files
         echo "Generated Inshorts files:"
