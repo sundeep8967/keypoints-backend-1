@@ -47,7 +47,13 @@ DEFAULT_CATEGORIES = [
     "india",
     "indian education",
     "indian scandal and crime",
-    "indian cinema and bollywood"
+    "indian cinema and bollywood",
+    "mumbai",
+    "delhi",
+    "chennai",
+    "hyderabad",
+    "pune",
+    "kolkata"
 ]
 
 SUPPORTED_TOPIC_CATEGORIES = [
@@ -70,7 +76,13 @@ CUSTOM_SEARCH_QUERIES = {
     "viral": "viral trending goes viral internet sensation",
     "crime": "arrest investigation fraud lawsuit criminal charges",
     "celebrity": "celebrity scandal hollywood controversy celebrity drama",
-    "political_scandal": "political scandal government corruption election fraud"
+    "political_scandal": "political scandal government corruption election fraud",
+    "mumbai": "Mumbai news Maharashtra",
+    "delhi": "Delhi news NCR New Delhi",
+    "chennai": "Chennai news Tamil Nadu",
+    "hyderabad": "Hyderabad news Telangana",
+    "pune": "Pune news Maharashtra",
+    "kolkata": "Kolkata news West Bengal"
 }
 
 SEARCH_BASED_CATEGORIES = {}
@@ -106,15 +118,15 @@ Examples:
     parser.add_argument(
         "--max-articles",
         type=int,
-        default=30,
-        help="Maximum articles to process per category (default: 30)"
+        default=20,
+        help="Maximum articles to process per category (default: 20)"
     )
     
     parser.add_argument(
         "--timeout",
         type=int,
-        default=10,
-        help="Timeout in seconds for each article extraction (default: 10)"
+        default=8,
+        help="Timeout in seconds for each article extraction (default: 8, optimized)"
     )
     
     parser.add_argument(
@@ -271,12 +283,37 @@ def merge_news_files(temp_files: List[str], final_output: str, final_category: s
                 logger.error(f"❌ Error reading temp file {temp_file}: {e}")
                 continue
         
-        # Remove duplicates based on title and link
+        # Enhanced duplicate detection - multiple criteria
         seen = set()
         unique_articles = []
         for article in merged_articles:
-            key = (article.get('title', ''), article.get('link', ''))
-            if key not in seen:
+            title = article.get('title', '').strip().lower()
+            link = article.get('link', '').strip()
+            
+            # Create multiple keys for better duplicate detection
+            title_key = title[:50] if title else ''  # First 50 chars of title
+            link_key = link.split('?')[0] if link else ''  # URL without query params
+            
+            # Combined key for duplicate detection
+            key = (title_key, link_key)
+            
+            # Also check for similar titles (basic similarity)
+            is_duplicate = False
+            if title and len(title) > 10:
+                for existing_article in unique_articles:
+                    existing_title = existing_article.get('title', '').strip().lower()
+                    if existing_title and len(existing_title) > 10:
+                        # Check if titles are very similar (>80% overlap)
+                        title_words = set(title.split())
+                        existing_words = set(existing_title.split())
+                        if title_words and existing_words:
+                            overlap = len(title_words.intersection(existing_words))
+                            similarity = overlap / max(len(title_words), len(existing_words))
+                            if similarity > 0.8:
+                                is_duplicate = True
+                                break
+            
+            if key not in seen and not is_duplicate:
                 seen.add(key)
                 unique_articles.append(article)
         
@@ -434,9 +471,9 @@ async def step2_extract_and_summarize_playwright(categories: List[str], data_dir
                 if run_command(cmd, f"Processing {source_category} articles with Playwright (mapped to {final_category})"):
                     success_count += 1
                 
-                # Small delay between categories
+                # Optimized: Reduced delay between categories
                 if i < len(valid_categories) - 1:
-                    await asyncio.sleep(0.5)
+                    await asyncio.sleep(0.2)  # Reduced from 0.5 to 0.2
         
         finally:
             await browser.close()

@@ -410,7 +410,13 @@ async def process_single_article_playwright(article: Dict, page, timeout: int, s
         # Generate a unique ID for the article
         article_id = generate_article_id(url, title, source)
         
-        # Create Inshorts-style article
+        # Calculate content quality score
+        quality_score = calculate_content_quality_score(
+            title, summary, article_details['image_url'], 
+            article_details['description'], source
+        )
+        
+        # Create Inshorts-style article with quality score
         processed_article = {
             'id': article_id,
             'title': title,
@@ -418,7 +424,8 @@ async def process_single_article_playwright(article: Dict, page, timeout: int, s
             'url': article_details['resolved_url'] or url,
             'image_url': article_details['image_url'],
             'summary': summary,
-            'published': published
+            'published': published,
+            'quality_score': quality_score
         }
         
         return processed_article
@@ -510,6 +517,140 @@ async def process_news_data_playwright(news_data: Dict, max_articles: int, timeo
     logger.info(f"   🎭 Playwright performance: Faster startup & better resource management")
     
     return processed_articles
+
+def calculate_content_quality_score(title: str, summary: str, image_url: str, description: str, source: str) -> float:
+    """
+    Calculate a quality score for the article content (0-1000).
+    Prioritizes breaking news, important events, and high-impact stories.
+    
+    Args:
+        title: Article title
+        summary: Generated summary
+        image_url: Image URL
+        description: Article description
+        source: News source
+        
+    Returns:
+        Quality score between 0-1000
+    """
+    score = 0.0
+    
+    # Combine title and summary for importance analysis
+    full_text = f"{title} {summary} {description}".lower()
+    
+    # BREAKING/URGENT NEWS - Highest Priority (800-1000 points)
+    breaking_keywords = [
+        'breaking', 'urgent', 'alert', 'emergency', 'crisis', 'disaster',
+        'war', 'attack', 'bomb', 'terror', 'earthquake', 'tsunami',
+        'pandemic', 'outbreak', 'death', 'killed', 'died', 'accident',
+        'fire', 'explosion', 'crash', 'rescue', 'evacuation'
+    ]
+    
+    # MAJOR POLITICAL/ECONOMIC NEWS (600-800 points)
+    major_political_keywords = [
+        'election', 'prime minister', 'president', 'government', 'parliament',
+        'budget', 'policy', 'law', 'court', 'supreme court', 'verdict',
+        'resignation', 'appointed', 'cabinet', 'minister', 'opposition'
+    ]
+    
+    # IMPORTANT SOCIAL/CULTURAL NEWS (400-600 points)
+    important_social_keywords = [
+        'protest', 'strike', 'rally', 'demonstration', 'movement',
+        'festival', 'celebration', 'award', 'achievement', 'record',
+        'innovation', 'breakthrough', 'discovery', 'launch', 'announcement'
+    ]
+    
+    # REGIONAL IMPORTANCE - Bengaluru/India specific (200-400 points boost)
+    regional_keywords = [
+        'bengaluru', 'bangalore', 'karnataka', 'india', 'indian',
+        'mumbai', 'delhi', 'chennai', 'hyderabad', 'pune', 'kolkata'
+    ]
+    
+    # Check for breaking/urgent news
+    breaking_score = 0
+    for keyword in breaking_keywords:
+        if keyword in full_text:
+            breaking_score = 900  # Very high priority
+            break
+    
+    # Check for major political/economic news
+    political_score = 0
+    for keyword in major_political_keywords:
+        if keyword in full_text:
+            political_score = max(political_score, 700)
+    
+    # Check for important social/cultural news
+    social_score = 0
+    for keyword in important_social_keywords:
+        if keyword in full_text:
+            social_score = max(social_score, 500)
+    
+    # Regional importance boost
+    regional_boost = 0
+    for keyword in regional_keywords:
+        if keyword in full_text:
+            regional_boost = 200
+            break
+    
+    # Base content quality (0-300 points)
+    base_score = 0
+    
+    # Title quality (0-80 points)
+    if title and len(title.strip()) > 10:
+        title_words = len(title.split())
+        if 5 <= title_words <= 15:  # Optimal title length
+            base_score += 80
+        elif title_words > 3:
+            base_score += 60
+        else:
+            base_score += 20
+    
+    # Summary quality (0-120 points)
+    if summary and summary != "No content available for summarization.":
+        summary_words = len(summary.split())
+        if 30 <= summary_words <= 80:  # Optimal summary length
+            base_score += 120
+        elif summary_words >= 15:
+            base_score += 80
+        else:
+            base_score += 40
+    
+    # Image quality (0-60 points)
+    if image_url and 'placeholder' not in image_url.lower():
+        if any(domain in image_url for domain in ['cdn', 'static', 'images', 'img']):
+            base_score += 60  # Likely a proper image CDN
+        else:
+            base_score += 40
+    
+    # Description availability (0-40 points)
+    if description and len(description.strip()) > 20:
+        base_score += 40
+    elif description:
+        base_score += 20
+    
+    # Source trustworthiness multiplier (1.0x to 1.5x)
+    source_multiplier = 1.5 if is_trusted_source(source) else 1.0
+    
+    # Calculate final score
+    importance_score = max(breaking_score, political_score, social_score)
+    final_score = (importance_score + base_score + regional_boost) * source_multiplier
+    
+    return min(final_score, 1000.0)
+
+def is_trusted_source(source: str) -> bool:
+    """Check if the source is from a trusted news organization."""
+    if not source:
+        return False
+    
+    trusted_sources = [
+        'reuters', 'bbc', 'cnn', 'ap news', 'npr', 'bloomberg',
+        'times of india', 'hindustan times', 'indian express', 
+        'ndtv', 'news18', 'zee news', 'deccan herald', 'the hindu',
+        'economic times', 'business standard', 'mint', 'livemint'
+    ]
+    
+    source_lower = source.lower()
+    return any(trusted in source_lower for trusted in trusted_sources)
 
 def generate_article_id(url: str, title: str, source: str) -> str:
     """Generate a unique ID for an article (same as Selenium version)"""

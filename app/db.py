@@ -279,9 +279,32 @@ async def cleanup_old_articles(days_old: int = 30) -> Dict:
 def map_source_to_final_category(source_category: str) -> str:
     """Map a complex source category to a single, final category for Supabase"""
     
-    source_lower = source_category.lower()
+    source_lower = source_category.lower().strip()
     
-    # Specific mappings first (for more precise control)
+    # Indian cities/states that should map to "india" (except Bengaluru)
+    indian_cities_states = [
+        "mumbai", "delhi", "chennai", "hyderabad", "pune", "kolkata",
+        "maharashtra", "tamil nadu", "telangana", "west bengal", "ncr",
+        "new delhi", "gurgaon", "noida", "ahmedabad", "surat", "jaipur",
+        "lucknow", "kanpur", "nagpur", "indore", "thane", "bhopal",
+        "visakhapatnam", "pimpri", "patna", "vadodara", "ludhiana",
+        "agra", "nashik", "faridabad", "meerut", "rajkot", "kalyan",
+        "vasai", "varanasi", "srinagar", "aurangabad", "dhanbad",
+        "amritsar", "navi mumbai", "allahabad", "ranchi", "howrah",
+        "coimbatore", "jabalpur", "gwalior", "vijayawada", "jodhpur",
+        "madurai", "raipur", "kota", "guwahati", "chandigarh"
+    ]
+    
+    # Check if it's Bengaluru (keep separate)
+    if "bengaluru" in source_lower or "bangalore" in source_lower:
+        return "bengaluru"
+    
+    # Check if it's any other Indian city/state (map to "india")
+    for city_state in indian_cities_states:
+        if city_state in source_lower:
+            return "india"
+    
+    # Specific mappings for other categories
     specific_mappings = {
         "indian cinema and bollywood": "entertainment",
         "indian celebrity": "entertainment", 
@@ -290,7 +313,8 @@ def map_source_to_final_category(source_category: str) -> str:
         "indian education": "education",
         "indian scandal and crime": "crime",
         "trending in bengaluru and india": "trending",
-        "international": "world"
+        "international": "world",
+        "india": "india"  # General India news stays as "india"
     }
     
     # Check for exact matches first
@@ -300,15 +324,19 @@ def map_source_to_final_category(source_category: str) -> str:
     # Priority list of base categories for partial matching
     # This order is important - more specific categories should come first
     priority_list = [
-        "trending", "Bengaluru", "sports", "entertainment", "celebrity", "cinema", 
-        "politics", "crime", "scandal", "technology", "education", 
-        "india", "world"
+        "trending", "politics", "education", "sports", "entertainment", 
+        "celebrity", "cinema", "crime", "scandal", "technology", 
+        "world", "business", "health", "science"
     ]
     
     # Check for keywords from the priority list in the source category
     for base_category in priority_list:
         if base_category.lower() in source_lower:
             return base_category
+    
+    # If it contains "indian" or "india" but no specific category, map to "india"
+    if "indian" in source_lower or "india" in source_lower:
+        return "india"
             
     # Fallback: if no match is found, use the original source category
     # This is a safe default, but we should aim to have all categories mapped.
