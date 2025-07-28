@@ -106,8 +106,8 @@ Examples:
     parser.add_argument(
         "--max-articles",
         type=int,
-        default=5,
-        help="Maximum articles to process per category (default: 5)"
+        default=30,
+        help="Maximum articles to process per category (default: 30)"
     )
     
     parser.add_argument(
