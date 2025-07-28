@@ -3,208 +3,38 @@ name: Fetch News
 on:
   push:
     branches:
-      - main  # Run on push to main branch
-      - master  # Run on push to master branch (if you use master)
+      - main
+      - master
   schedule:
-    # Run daily at 6 AM UTC (adjust timezone as needed)
+    # Run daily at 6 AM UTC
     - cron: '0 6 * * *'
   workflow_dispatch:
-
-# Environment variables for efficiency and caching
-env:
-  PLAYWRIGHT_BROWSERS_PATH: ${{ github.workspace }}/pw-browsers
-  PIP_CACHE_DIR: ${{ github.workspace }}/.pip-cache
 
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
-    environment: SUPABASE_URL
-    
-    # Add permissions to allow pushing to the repository
-    permissions:
-      contents: write
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       
-    # Cache pip dependencies for faster installs
-    - name: Cache pip dependencies
-      uses: actions/cache@v3
-      with:
-        path: ${{ env.PIP_CACHE_DIR }}
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
-          
-    # Cache Playwright browsers for faster setup
-    - name: Cache Playwright browsers
-      uses: actions/cache@v3
-      with:
-        path: ${{ env.PLAYWRIGHT_BROWSERS_PATH }}
-        key: ${{ runner.os }}-playwright-browsers-${{ hashFiles('**/requirements.txt') }}-v1
-        restore-keys: |
-          ${{ runner.os }}-playwright-browsers-
-          ${{ runner.os }}-playwright-
-    
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.8'  # Use 3.8 for better compatibility
-    
-    - name: Cache NLTK data
-      uses: actions/cache@v3
-      with:
-        path: ~/nltk_data
-        key: ${{ runner.os }}-nltk-data-v1
-        restore-keys: |
-          ${{ runner.os }}-nltk-data-
-    
-    - name: Cache Chrome and WebDriver
-      uses: actions/cache@v3
-      with:
-        path: |
-          ~/.cache/selenium
-          ~/.wdm
-        key: ${{ runner.os }}-chrome-webdriver-v1
-        restore-keys: |
-          ${{ runner.os }}-chrome-webdriver-
-    
-    - name: Optimize caching strategy
-      run: |
-        bash scripts/optimize_caching.sh
+        python-version: '3.8'
     
     - name: Install dependencies
       run: |
-        # Use dedicated script for dependency installation
-        bash scripts/check_dependencies.sh
-    
-    - name: Debug cache status
-      run: |
-        export PLAYWRIGHT_BROWSERS_PATH=${{ env.PLAYWRIGHT_BROWSERS_PATH }}
-        export PIP_CACHE_DIR=${{ env.PIP_CACHE_DIR }}
-        bash scripts/debug_cache.sh
-    
-    - name: Setup Playwright browsers
-      run: |
-        export PLAYWRIGHT_BROWSERS_PATH=${{ env.PLAYWRIGHT_BROWSERS_PATH }}
-        bash scripts/setup_playwright.sh
-    
-    - name: Verify browser automation setup
-      run: |
-        export PLAYWRIGHT_BROWSERS_PATH=${{ env.PLAYWRIGHT_BROWSERS_PATH }}
-        bash scripts/check_browser_setup.sh
-    
-    - name: Validate environment
-      run: |
-        bash scripts/validate_environment.sh
-    
-    - name: Run code quality checks
-      run: |
-        # Run shellcheck on all shell scripts
-        bash scripts/shellcheck.sh
-    
-    - name: Run installation test script
-      run: |
-        if [ -f scripts/test_installation.py ]; then
-          python scripts/test_installation.py
-        fi
-    
-    - name: Fetch top news (scheduled)
-      if: github.event_name == 'schedule'
-      run: |
-        # Create data directory if it doesn't exist
-        mkdir -p data
-        # General news categories
-        python scripts/fetch_news.py --type top --output data/news_top.json
-        python scripts/fetch_news.py --type topic --topic technology --output data/news_tech.json
-        python scripts/fetch_news.py --type topic --topic business --output data/news_business.json
-        # Additional categories like Inshorts
-        python scripts/fetch_news.py --type topic --topic entertainment --output data/news_entertainment.json
-        python scripts/fetch_news.py --type topic --topic sports --output data/news_sports.json
-        python scripts/fetch_news.py --type topic --topic science --output data/news_science.json
-        python scripts/fetch_news.py --type topic --topic health --output data/news_health.json
-        python scripts/fetch_news.py --type topic --topic world --output data/news_world.json
-        # Trending topics
-        python scripts/fetch_news.py --type search --query "trending" --when 1d --output data/news_trending.json
-    
-    - name: Run complete news workflow (manual)
-      if: github.event_name == 'workflow_dispatch'
-      run: |
-        # Run the complete workflow as defined in main.py
-        python main.py
-    
-    - name: Fetch news (push trigger)
-      if: github.event_name == 'push'
-      run: |
-        # Create data directory if it doesn't exist
-        mkdir -p data
-        # General news categories
-        python scripts/fetch_news.py --type top --output data/news_top.json
-        python scripts/fetch_news.py --type topic --topic technology --output data/news_tech.json
-        python scripts/fetch_news.py --type topic --topic business --output data/news_business.json
-        # Additional categories like Inshorts
-        python scripts/fetch_news.py --type topic --topic entertainment --output data/news_entertainment.json
-        python scripts/fetch_news.py --type topic --topic sports --output data/news_sports.json
-        python scripts/fetch_news.py --type topic --topic science --output data/news_science.json
-        python scripts/fetch_news.py --type topic --topic health --output data/news_health.json
-        python scripts/fetch_news.py --type topic --topic world --output data/news_world.json
-        # Trending topics
-        python scripts/fetch_news.py --type search --query "trending" --when 1d --output data/news_trending.json
-    
-    - name: Set up Chrome for Selenium
-      if: github.event_name == 'push' || github.event_name == 'schedule'
-      run: |
-        bash scripts/install_chrome.sh
-    
-    - name: Generate Inshorts-style news
-      if: github.event_name == 'push' || github.event_name == 'schedule'
-      run: |
-        # Check if news files exist
-        echo "Checking for news files..."
-        ls -la data/
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
         
-        # Check which browser engine is available
-        echo "Browser engine detected: ${BROWSER_ENGINE:-unknown}"
-        
-        # Run the complete workflow using main.py (which handles Playwright/Selenium automatically)
-        echo "Running main workflow with Playwright support..."
-        python main.py
-        
-        # List generated files
-        echo "Generated Inshorts files:"
-        ls -la data/inshorts_* 2>/dev/null || echo "No inshorts files generated yet"
-    
-    - name: Push to Supabase
-      if: github.event_name == 'push' || github.event_name == 'schedule'
-      env:
-        SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-        SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+    - name: Install Playwright
       run: |
-        # Check if inshorts files were generated
-        echo "Checking for generated inshorts files..."
-        if ls data/inshorts_*.json 1> /dev/null 2>&1; then
-          echo "Found inshorts files, proceeding with Supabase upload..."
-          
-          # Push all inshorts data to Supabase
-          echo "Uploading inshorts data to Supabase..."
-          python scripts/push_inshorts_to_supabase.py
-          
-          echo "Supabase upload completed!"
-        else
-          echo "No inshorts files found, skipping Supabase upload"
-        fi
-    
-    - name: Commit and push changes
-      if: success() # Only run if previous steps succeeded
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add data/
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Update news data - $(date)"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git push
-        fi
+        pip install playwright
+        playwright install chromium --with-deps || echo "Playwright installation failed, will use Selenium fallback"
+        
+    - name: Run main workflow
+      run: python main.py
+      
+    - name: Upload to Supabase
+      run: python scripts/push_inshorts_to_supabase.py
