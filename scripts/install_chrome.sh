@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script to install Chrome for Selenium
 # Used by GitHub Actions workflow
+# shellcheck source=scripts/error_handler.sh
 
 # Source error handler
 source "$(dirname "$0")/error_handler.sh"

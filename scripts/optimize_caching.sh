@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script to optimize caching strategy
 # Used by GitHub Actions workflow
+# shellcheck source=scripts/error_handler.sh
 
 # Source error handler
 source "$(dirname "$0")/error_handler.sh"

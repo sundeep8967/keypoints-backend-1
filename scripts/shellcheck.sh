@@ -27,11 +27,12 @@ if ! command -v shellcheck >/dev/null 2>&1; then
     fi
 fi
 
-# Run shellcheck on each script
+# Run shellcheck on each script with external sources
 ERRORS=0
 for script in $SHELL_SCRIPTS; do
     echo "Checking $script..."
-    if shellcheck "$script"; then
+    # Use -x flag to follow external sources and disable SC1091 for sourced files
+    if shellcheck -x -e SC1091 "$script"; then
         echo "✅ $script passed"
     else
         echo "❌ $script failed"

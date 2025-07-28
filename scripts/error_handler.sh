@@ -50,18 +50,18 @@ retry_command() {
     shift 2
     local attempt=1
     
-    while [ $attempt -le $max_attempts ]; do
+    while [ "$attempt" -le "$max_attempts" ]; do
         if "$@"; then
             return 0
         fi
         
-        if [ $attempt -eq $max_attempts ]; then
+        if [ "$attempt" -eq "$max_attempts" ]; then
             log_error "Command failed after $max_attempts attempts: $*"
             return 1
         fi
         
         log_warn "Attempt $attempt failed, retrying in ${delay}s..."
-        sleep $delay
+        sleep "$delay"
         delay=$((delay * 2))  # Exponential backoff
         attempt=$((attempt + 1))
     done
