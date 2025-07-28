@@ -65,9 +65,7 @@ try:
 except Exception as e:
     print(f'Selenium test failed: {e}')
     exit(1)
-" >/dev/null 2>&1
-    
-    if [ $? -eq 0 ]; then
+" >/dev/null 2>&1; then
         log_success "Selenium is working"
         mkdir -p "$PLAYWRIGHT_BROWSERS_PATH"
         touch "$PLAYWRIGHT_BROWSERS_PATH/.selenium_fallback"

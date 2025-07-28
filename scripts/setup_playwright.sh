@@ -75,8 +75,7 @@ try:
 except Exception as e:
     print(f'❌ Selenium fallback setup failed: {e}')
     exit(1)
-"
-    if [ $? -eq 0 ]; then
+"; then
         log_success "Selenium fallback configured successfully"
         # Create marker file to indicate Selenium is the fallback
         mkdir -p "$PLAYWRIGHT_BROWSERS_PATH"
