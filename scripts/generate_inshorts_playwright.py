@@ -226,30 +226,62 @@ async def extract_article_details_playwright(url: str, page, timeout: int = 10) 
         # Extract the page title
         title = await page.title()
         
-        # Try to find the largest image on the page as a fallback
-        largest_image = None
+        # Enhanced image extraction with quality scoring
+        best_image = None
         try:
             img_elements = await page.query_selector_all("img")
-            images = []
-            for img in img_elements[:20]:  # Check first 20 images
-                src = await img.get_attribute("src")
-                if src and src.startswith(("http://", "https://")):
+            image_candidates = []
+            
+            for img in img_elements[:30]:  # Check more images
+                try:
+                    src = await img.get_attribute("src")
+                    if not src or not src.startswith(("http://", "https://")):
+                        continue
+                    
+                    # Get image attributes
+                    alt_text = await img.get_attribute("alt") or ""
                     width = await img.get_attribute("width")
                     height = await img.get_attribute("height")
+                    class_name = await img.get_attribute("class") or ""
+                    
+                    # Calculate image quality score
+                    score = calculate_image_quality_score(src, alt_text, width, height, class_name)
+                    
+                    # Get dimensions
                     try:
-                        area = int(width) * int(height) if width and height else 0
+                        w = int(width) if width else 0
+                        h = int(height) if height else 0
+                        area = w * h if w and h else 0
                     except (ValueError, TypeError):
                         area = 0
-                    images.append((src, area))
+                    
+                    image_candidates.append({
+                        'src': src,
+                        'score': score,
+                        'area': area,
+                        'alt': alt_text,
+                        'width': w,
+                        'height': h
+                    })
+                    
+                except Exception as e:
+                    continue
             
-            # Sort images by area (largest first)
-            images.sort(key=lambda x: x[1], reverse=True)
-            largest_image = images[0][0] if images else None
-        except:
-            pass
+            # Sort by quality score first, then by area
+            image_candidates.sort(key=lambda x: (x['score'], x['area']), reverse=True)
+            
+            # Find the best valid image
+            for candidate in image_candidates:
+                if is_valid_news_image(candidate):
+                    best_image = candidate['src']
+                    logger.info(f"Selected image with score {candidate['score']}: {candidate['src'][:50]}...")
+                    break
+                    
+        except Exception as e:
+            logger.debug(f"Error in enhanced image extraction: {e}")
         
-        # Choose the best image
-        image_url = og_image or twitter_image or largest_image
+        # Choose the best image with fallback hierarchy
+        image_url = og_image or twitter_image or best_image
         
         # Extract the page text
         try:
@@ -308,16 +340,44 @@ async def extract_article_details_playwright(url: str, page, timeout: int = 10) 
         }
 
 def generate_summary(text: str, max_words: int = 60) -> str:
-    """Generate a summary of the text with a maximum number of words (same as Selenium version)"""
+    """Generate an enhanced summary with better content filtering and Indian context awareness"""
     try:
-        # Clean up the text - remove navigation, menus, etc.
+        # Enhanced text cleaning - remove navigation, ads, boilerplate
         lines = text.split('\n')
         
-        # Remove very short lines (likely navigation/menu items)
+        # Patterns to remove (common website boilerplate)
+        removal_patterns = [
+            'skip to', 'click here', 'read more', 'subscribe', 'newsletter',
+            'cookie', 'privacy policy', 'terms of service', 'advertisement',
+            'follow us', 'share this', 'related articles', 'trending now',
+            'breaking news', 'live updates', 'watch video', 'photo gallery',
+            'also read', 'you may like', 'recommended', 'sponsored content'
+        ]
+        
+        # Filter lines more intelligently
         filtered_lines = []
         for line in lines:
             line = line.strip()
-            if len(line) > 30 and not line.startswith('Skip to') and not line.isupper():
+            
+            # Skip very short lines
+            if len(line) < 20:
+                continue
+                
+            # Skip lines that are likely navigation/boilerplate
+            line_lower = line.lower()
+            is_boilerplate = any(pattern in line_lower for pattern in removal_patterns)
+            
+            # Skip lines that are all caps (likely headers/navigation)
+            if line.isupper() and len(line) > 10:
+                continue
+                
+            # Skip lines with too many special characters (likely ads/formatting)
+            special_char_ratio = sum(1 for c in line if not c.isalnum() and c != ' ') / len(line)
+            if special_char_ratio > 0.3:
+                continue
+            
+            # Keep good content lines
+            if not is_boilerplate and len(line) > 30:
                 filtered_lines.append(line)
         
         # Join the filtered lines
@@ -341,22 +401,78 @@ def generate_summary(text: str, max_words: int = 60) -> str:
         # Split the text into sentences
         sentences = split_into_sentences(cleaned_text)
         
-        # Get the first few sentences up to max_words
+        # Indian context keywords for prioritization
+        indian_context_keywords = [
+            'india', 'indian', 'bengaluru', 'bangalore', 'karnataka',
+            'mumbai', 'delhi', 'chennai', 'hyderabad', 'pune', 'kolkata',
+            'rupee', 'crore', 'lakh', 'pm modi', 'prime minister',
+            'government', 'parliament', 'supreme court', 'bjp', 'congress'
+        ]
+        
+        # Score sentences for relevance
+        scored_sentences = []
+        for sentence in sentences:
+            if len(sentence.split()) < 5:  # Skip very short sentences
+                continue
+                
+            score = 0
+            sentence_lower = sentence.lower()
+            
+            # Boost score for Indian context
+            for keyword in indian_context_keywords:
+                if keyword in sentence_lower:
+                    score += 10
+            
+            # Boost score for sentences with numbers/dates (often important facts)
+            import re
+            if re.search(r'\d+', sentence):
+                score += 5
+            
+            # Boost score for sentences with proper nouns (names, places)
+            words = sentence.split()
+            proper_nouns = sum(1 for word in words if word[0].isupper() and len(word) > 2)
+            score += proper_nouns * 2
+            
+            # Prefer sentences from early in the text
+            position_bonus = max(0, 10 - sentences.index(sentence))
+            score += position_bonus
+            
+            scored_sentences.append((sentence, score))
+        
+        # Sort by score (highest first)
+        scored_sentences.sort(key=lambda x: x[1], reverse=True)
+        
+        # Build summary from highest-scoring sentences
         summary = ""
         word_count = 0
+        used_sentences = []
         
-        for sentence in sentences:
+        for sentence, score in scored_sentences:
             words = sentence.split()
             if word_count + len(words) <= max_words:
-                summary += sentence + " "
+                used_sentences.append(sentence)
                 word_count += len(words)
-            else:
-                # Add as many words as possible from the sentence
+            elif word_count < max_words * 0.8:  # If we haven't used 80% of words, try partial
                 remaining_words = max_words - word_count
-                if remaining_words > 0:
+                if remaining_words > 5:  # Only if we can add meaningful content
                     partial_sentence = " ".join(words[:remaining_words]) + "..."
-                    summary += partial_sentence
+                    used_sentences.append(partial_sentence)
                 break
+            else:
+                break
+        
+        # Reorder sentences to maintain logical flow (by original position)
+        if used_sentences:
+            # Sort by original position in text
+            original_order = []
+            for used_sentence in used_sentences:
+                for i, (original_sentence, _) in enumerate(scored_sentences):
+                    if used_sentence.startswith(original_sentence[:50]):  # Match by first 50 chars
+                        original_order.append((i, used_sentence))
+                        break
+            
+            original_order.sort(key=lambda x: x[0])
+            summary = " ".join([sentence for _, sentence in original_order])
         
         # If no sentences were found or summary is empty, use a simple word-based approach
         if not summary:
@@ -399,13 +515,31 @@ async def process_single_article_playwright(article: Dict, page, timeout: int, s
         # Extract article details using Playwright
         article_details = await extract_article_details_playwright(url, page, timeout)
         
-        # Generate summary
-        if article_details['text_excerpt']:
-            summary = generate_summary(article_details['text_excerpt'], summary_length)
-        elif article_details['description']:
-            summary = generate_summary(article_details['description'], summary_length)
-        else:
-            summary = "No content available for summarization."
+        # Generate and validate summary
+        summary = None
+        
+        # Try multiple content sources for summary generation
+        content_sources = [
+            article_details['text_excerpt'],
+            article_details['description'],
+            title  # Fallback to title if no content
+        ]
+        
+        for content in content_sources:
+            if content and len(content.strip()) > 50:
+                candidate_summary = generate_summary(content, summary_length)
+                
+                # Validate summary quality
+                if validate_summary_quality(candidate_summary, title):
+                    summary = candidate_summary
+                    logger.debug(f"✅ Generated quality summary: {summary[:50]}...")
+                    break
+                else:
+                    logger.debug(f"⚠️ Summary failed validation, trying next source...")
+        
+        # Final fallback
+        if not summary:
+            summary = "No quality content available for summarization."
         
         # Generate a unique ID for the article
         article_id = generate_article_id(url, title, source)
@@ -517,6 +651,121 @@ async def process_news_data_playwright(news_data: Dict, max_articles: int, timeo
     logger.info(f"   🎭 Playwright performance: Faster startup & better resource management")
     
     return processed_articles
+
+def calculate_image_quality_score(src: str, alt_text: str, width: str, height: str, class_name: str) -> int:
+    """Calculate quality score for an image based on multiple factors"""
+    score = 0
+    src_lower = src.lower()
+    alt_lower = alt_text.lower()
+    class_lower = class_name.lower()
+    
+    # Boost for news-related alt text
+    news_keywords = ['news', 'article', 'story', 'report', 'photo', 'image']
+    for keyword in news_keywords:
+        if keyword in alt_lower:
+            score += 20
+            break
+    
+    # Boost for proper image hosting (CDN/static)
+    if any(domain in src_lower for domain in ['cdn', 'static', 'images', 'img', 'media']):
+        score += 30
+    
+    # Penalize common ad/placeholder patterns
+    ad_patterns = ['ad', 'banner', 'sponsor', 'placeholder', 'logo', 'icon', 'avatar']
+    for pattern in ad_patterns:
+        if pattern in src_lower or pattern in class_lower:
+            score -= 50
+            break
+    
+    # Boost for reasonable dimensions
+    try:
+        w, h = int(width or 0), int(height or 0)
+        if w >= 300 and h >= 200:  # Good size for news images
+            score += 40
+        elif w >= 200 and h >= 150:  # Acceptable size
+            score += 20
+        elif w < 100 or h < 100:  # Too small
+            score -= 30
+    except (ValueError, TypeError):
+        pass
+    
+    # Boost for article-related class names
+    article_classes = ['article', 'content', 'main', 'hero', 'featured']
+    for cls in article_classes:
+        if cls in class_lower:
+            score += 15
+            break
+    
+    return max(0, score)
+
+def is_valid_news_image(image_candidate: dict) -> bool:
+    """Validate if an image is suitable for news articles"""
+    src = image_candidate['src'].lower()
+    alt = image_candidate['alt'].lower()
+    width = image_candidate['width']
+    height = image_candidate['height']
+    
+    # Reject obvious non-news images
+    reject_patterns = [
+        'logo', 'icon', 'avatar', 'profile', 'thumbnail',
+        'ad', 'banner', 'sponsor', 'widget', 'button',
+        'social', 'facebook', 'twitter', 'instagram',
+        'placeholder', 'default', 'blank', 'spacer'
+    ]
+    
+    for pattern in reject_patterns:
+        if pattern in src or pattern in alt:
+            return False
+    
+    # Require minimum dimensions
+    if width and height:
+        if width < 200 or height < 150:
+            return False
+    
+    # Require reasonable aspect ratio (not too wide or tall)
+    if width and height and width > 0 and height > 0:
+        aspect_ratio = width / height
+        if aspect_ratio > 4 or aspect_ratio < 0.25:  # Too wide or too tall
+            return False
+    
+    # Must have reasonable quality score
+    if image_candidate['score'] < 10:
+        return False
+    
+    return True
+
+def validate_summary_quality(summary: str, title: str) -> bool:
+    """Validate if the generated summary meets quality standards"""
+    if not summary or len(summary.strip()) < 20:
+        return False
+    
+    # Check if summary contains key elements from title
+    title_words = set(title.lower().split())
+    summary_words = set(summary.lower().split())
+    
+    # At least 20% overlap with title words (excluding common words)
+    common_words = {'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'is', 'are', 'was', 'were'}
+    title_meaningful = title_words - common_words
+    summary_meaningful = summary_words - common_words
+    
+    if title_meaningful:
+        overlap = len(title_meaningful.intersection(summary_meaningful))
+        overlap_ratio = overlap / len(title_meaningful)
+        if overlap_ratio < 0.2:  # Less than 20% overlap
+            return False
+    
+    # Check for common boilerplate phrases
+    boilerplate_phrases = [
+        'click here', 'read more', 'subscribe', 'follow us',
+        'terms of service', 'privacy policy', 'cookie policy'
+    ]
+    
+    summary_lower = summary.lower()
+    for phrase in boilerplate_phrases:
+        if phrase in summary_lower:
+            return False
+    
+    return True
 
 def calculate_content_quality_score(title: str, summary: str, image_url: str, description: str, source: str) -> float:
     """

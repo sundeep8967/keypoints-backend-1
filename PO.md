@@ -136,8 +136,8 @@ News Sources → Fetch → Extract & Summarize → Store → API → End Users
 - [x] **Processing time optimization (25% faster)**
 
 ### **🔄 IN PROGRESS**
-- [ ] Summary quality and relevance improvements
-- [ ] Image extraction reliability enhancements
+- [x] **Summary quality and relevance improvements** - COMPLETED
+- [x] **Image extraction reliability enhancements** - COMPLETED
 
 ### **📋 BACKLOG (Priority Order)**
 1. **High Priority**
