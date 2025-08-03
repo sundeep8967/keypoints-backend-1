@@ -56,26 +56,26 @@ def convert_inshorts_to_supabase_format(inshorts_data: Dict, category: str) -> L
             skipped_count += 1
             continue
             
-        if not summary or summary == "No content available for summarization.":
-            logger.warning(f"   ⚠️  Skipping article: Missing or invalid summary - {title[:50]}...")
-            skipped_count += 1
-            continue
             
         if not image_url or image_url == "https://via.placeholder.com/300x150?text=No+Image":
             logger.warning(f"   ⚠️  Skipping article: Missing or placeholder image - {title[:50]}...")
             skipped_count += 1
             continue
         
-        # Convert inshorts format to Supabase format
+        # Use description field (which contains the rich article content)
+        description_content = article.get("description", "").strip()
+        
+        # Convert inshorts format to Supabase format - only push description field
         supabase_article = {
             "title": title,
             "link": article.get("url", ""),  # inshorts uses 'url', supabase expects 'link'
             "published": article.get("published", ""),
             "source": article.get("source", ""),
             "category": category,
-            "summary": summary,
+            "description": description_content if description_content else None,  # Only description field
             "image_url": image_url,
             "article_id": article.get("id"),  # Store the inshorts ID
+            "quality_score": article.get("quality_score", 0)
         }
         articles.append(supabase_article)
     

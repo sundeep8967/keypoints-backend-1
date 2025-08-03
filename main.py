@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 """
-Main orchestrator script using Playwright instead of Selenium for better performance.
+Main orchestrator script using Playwright for web automation and content extraction.
 
-This script executes the full 3-step process with Playwright:
-1. Fetch news from various sources (same as main.py)
-2. Extract images and generate summaries using Playwright (faster than Selenium)
-3. Push processed data to Supabase (same as main.py)
+This script executes the full 3-step process:
+1. Fetch news from various sources
+2. Extract images and generate summaries using Playwright
+3. Push processed data to Supabase
 
 Usage:
-    python main_playwright.py                          # Run full workflow with Playwright
-    python main_playwright.py --categories tech sports # Run only specific categories
-    python main_playwright.py --max-articles 10        # Process more articles per category
-    python main_playwright.py --skip-supabase          # Skip Supabase upload step
+    python main.py                          # Run full workflow with Playwright
+    python main.py --categories tech sports # Run only specific categories
+    python main.py --max-articles 10        # Process more articles per category
+    python main.py --skip-supabase          # Skip Supabase upload step
 """
 
 import os
@@ -218,7 +218,7 @@ def fetch_single_category_to_temp(args_tuple):
     
     if category == "top":
         cmd = [
-            sys.executable, "scripts/fetch_news.py",
+            sys.executable, "app/news_service.py",
             "--type", "top",
             "--output", temp_output,
             "--language", language,
@@ -226,7 +226,7 @@ def fetch_single_category_to_temp(args_tuple):
         ]
     elif category in SUPPORTED_TOPIC_CATEGORIES:
         cmd = [
-            sys.executable, "scripts/fetch_news.py", 
+            sys.executable, "app/news_service.py", 
             "--type", "topic",
             "--topic", category,
             "--output", temp_output,
@@ -236,7 +236,7 @@ def fetch_single_category_to_temp(args_tuple):
     elif category in SEARCH_BASED_CATEGORIES:
         search_query = SEARCH_BASED_CATEGORIES[category]
         cmd = [
-            sys.executable, "scripts/fetch_news.py",
+            sys.executable, "app/news_service.py",
             "--type", "search",
             "--query", search_query,
             "--when", "1d",
@@ -395,7 +395,7 @@ def step1_fetch_news(categories: List[str], data_dir: str, language: str, countr
     return success_count
 
 async def step2_extract_and_summarize_playwright(categories: List[str], data_dir: str, max_articles: int, 
-                                               timeout: int, summary_length: int, headless: bool) -> int:
+                                               timeout: int, headless: bool) -> int:
     """Step 2: Extract images and generate summaries using Playwright"""
     logger.info("\n" + "="*60)
     logger.info("🎭 STEP 2: EXTRACTING IMAGES & GENERATING SUMMARIES (PLAYWRIGHT)")
@@ -406,8 +406,8 @@ async def step2_extract_and_summarize_playwright(categories: List[str], data_dir
         from playwright.async_api import async_playwright
     except ImportError:
         logger.error("❌ Playwright not installed. Install with: pip install playwright && playwright install chromium")
-        logger.info("💡 Falling back to regular Selenium processing...")
-        return step2_extract_and_summarize_selenium_fallback(categories, data_dir, max_articles, timeout, summary_length, headless)
+        logger.error("❌ Playwright not available. Please install with: pip install playwright && playwright install chromium")
+        return False
     
     # Filter categories that have input files
     valid_categories = []
@@ -461,8 +461,7 @@ async def step2_extract_and_summarize_playwright(categories: List[str], data_dir
                     "--input", input_file,
                     "--output", output_file,
                     "--max-articles", str(max_articles),
-                    "--timeout", str(timeout),
-                    "--summary-length", str(summary_length)
+                    "--timeout", str(timeout)
                 ]
                 
                 if headless:
@@ -482,44 +481,6 @@ async def step2_extract_and_summarize_playwright(categories: List[str], data_dir
     logger.info("🎭 Playwright processing completed!")
     return success_count
 
-def step2_extract_and_summarize_selenium_fallback(categories: List[str], data_dir: str, max_articles: int, 
-                                                 timeout: int, summary_length: int, headless: bool) -> int:
-    """Fallback to Selenium if Playwright is not available"""
-    logger.info("🔄 Using Selenium fallback...")
-    
-    valid_categories = []
-    for category in categories:
-        final_category = map_source_to_final_category(category)
-        input_file = os.path.join(data_dir, f"news_{final_category}.json")
-        
-        if os.path.exists(input_file):
-            valid_categories.append((category, final_category, input_file))
-    
-    success_count = 0
-    
-    for i, (source_category, final_category, input_file) in enumerate(valid_categories):
-        logger.info(f"\n📰 Processing category {i+1}/{len(valid_categories)}: {source_category}")
-        
-        output_file = os.path.join(data_dir, f"inshorts_{final_category}.json")
-        
-        cmd = [
-            sys.executable, "scripts/generate_inshorts_selenium.py",
-            "--input", input_file,
-            "--output", output_file,
-            "--max-articles", str(max_articles),
-            "--timeout", str(timeout),
-            "--summary-length", str(summary_length)
-        ]
-        
-        if headless:
-            cmd.append("--headless")
-        
-        if run_command(cmd, f"Processing {source_category} articles with Selenium (mapped to {final_category})"):
-            success_count += 1
-        
-        time.sleep(0.5)
-    
-    return success_count
 
 def step3_upload_to_supabase(data_dir: str) -> bool:
     """Step 3: Upload processed data to Supabase (same as main.py)"""
@@ -557,24 +518,19 @@ def check_prerequisites():
     """Check if all required files and dependencies exist"""
     logger.info("🔍 Checking prerequisites...")
     
-    required_scripts = [
-        "scripts/fetch_news.py",
+    required_files = [
+        "app/news_service.py",  # Updated: now using merged news service
+        "scripts/generate_inshorts_playwright.py",
         "scripts/push_inshorts_to_supabase.py"
     ]
     
-    # Check for Playwright script, create if needed
-    playwright_script = "scripts/generate_inshorts_playwright.py"
-    if not os.path.exists(playwright_script):
-        logger.warning(f"⚠️  {playwright_script} not found, will create it...")
-        # We'll create this script next
-    
     missing_files = []
-    for script in required_scripts:
-        if not os.path.exists(script):
-            missing_files.append(script)
+    for file_path in required_files:
+        if not os.path.exists(file_path):
+            missing_files.append(file_path)
     
     if missing_files:
-        logger.error(f"❌ Missing required scripts: {', '.join(missing_files)}")
+        logger.error(f"❌ Missing required files: {', '.join(missing_files)}")
         return False
     
     # Check if data directory exists, create if not
@@ -588,7 +544,7 @@ def check_prerequisites():
         logger.info("✅ Playwright is installed")
     except ImportError:
         logger.warning("⚠️  Playwright not installed. Install with: pip install playwright && playwright install chromium")
-        logger.info("💡 Will fall back to Selenium if Playwright is not available")
+        logger.error("❌ Playwright is required for this application to function")
     
     logger.info("✅ Prerequisites check passed")
     return True
@@ -619,7 +575,24 @@ def print_summary(args, step1_success: int, step2_success: int, step3_success: b
     
     logger.info(f"\n📊 Categories processed: {', '.join(args.categories)}")
     logger.info(f"📈 Max articles per category: {args.max_articles}")
-    logger.info(f"🎭 Browser engine: Playwright (faster than Selenium)")
+    logger.info(f"🎭 Browser engine: Playwright")
+
+def cleanup_old_data():
+    """Delete all JSON files in data folder to ensure fresh extraction"""
+    data_dir = Path("data")
+    json_files = list(data_dir.glob("*.json"))
+    
+    if json_files:
+        logger.info(f"🧹 Cleaning up {len(json_files)} old JSON files...")
+        for json_file in json_files:
+            try:
+                json_file.unlink()
+                logger.info(f"   ✅ Deleted: {json_file.name}")
+            except Exception as e:
+                logger.warning(f"   ⚠️ Could not delete {json_file.name}: {e}")
+        logger.info("🧹 Cleanup completed - fresh data will be generated")
+    else:
+        logger.info("🧹 No old JSON files found - starting fresh")
 
 async def main():
     """Main function to orchestrate the complete workflow with Playwright"""
@@ -630,11 +603,14 @@ async def main():
         args.headless = False
     
     logger.info("🎭 Starting Complete News Processing Workflow with PLAYWRIGHT")
+    
+    # Clean up old data files first
+    cleanup_old_data()
     logger.info(f"📂 Data directory: {args.data_dir}")
     logger.info(f"📰 Categories: {', '.join(args.categories)}")
     logger.info(f"📊 Max articles per category: {args.max_articles}")
     logger.info(f"🖥️  Browser mode: {'Headless' if args.headless else 'GUI'}")
-    logger.info(f"🎭 Browser engine: Playwright (faster startup & better performance)")
+    logger.info(f"🎭 Browser engine: Playwright")
     
     # Check prerequisites
     if not check_prerequisites():
@@ -671,7 +647,6 @@ async def main():
                 args.data_dir,
                 args.max_articles,
                 args.timeout,
-                args.summary_length,
                 args.headless
             )
             if step2_success == 0:

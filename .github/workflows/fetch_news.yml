@@ -32,7 +32,7 @@ jobs:
     - name: Install Playwright
       run: |
         pip install playwright
-        playwright install chromium --with-deps || echo "Playwright installation failed, will use Selenium fallback"
+        playwright install chromium --with-deps
         
     - name: Run main workflow
       env:

@@ -34,15 +34,19 @@ async def store_news(news_data: List[Dict], category: str = "general") -> Dict:
         # Prepare data for insertion
         articles_to_insert = []
         for article in news_data:
+            # Use description field (which contains the rich article content)
+            description_content = article.get("description", "")
+            
             article_data = {
                 "title": article.get("title", ""),
                 "link": article.get("link", ""),
                 "published": article.get("published", ""),
                 "source": article.get("source", ""),
                 "category": category,
-                "summary": article.get("summary", ""),
+                "description": description_content if description_content else None,  # Only description field
                 "image_url": article.get("image_url"),
-                "article_id": article.get("article_id")
+                "article_id": article.get("article_id"),
+                "quality_score": article.get("quality_score", 0)
             }
             articles_to_insert.append(article_data)
         

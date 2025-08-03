@@ -21,6 +21,9 @@ import threading
 # Add the parent directory to sys.path
 sys.path.append(str(Path(__file__).parent.parent))
 
+# Import scoring functions
+from app.scoring import calculate_image_quality_score, calculate_content_quality_score
+
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
@@ -65,12 +68,6 @@ def parse_args():
         help="Timeout in seconds for each article"
     )
     
-    parser.add_argument(
-        "--summary-length",
-        type=int,
-        default=60,
-        help="Maximum length of summary in words"
-    )
     
     return parser.parse_args()
 
@@ -129,6 +126,117 @@ def _is_valid_article_url(url: str) -> bool:
     
     # Default: if it's not obviously bad, allow it
     return len(url) > 20 and '/' in url[10:]
+
+async def extract_clean_article_content(page) -> str:
+    """
+    Extract clean article content from the page, filtering out navigation, ads, and boilerplate.
+    """
+    try:
+        # Strategy 1: Try to find article content using semantic selectors
+        article_selectors = [
+            "article",
+            "[role='main']",
+            ".article-content",
+            ".story-content", 
+            ".post-content",
+            ".entry-content",
+            ".content-body",
+            ".article-body",
+            ".story-body",
+            ".main-content",
+            "#article-content",
+            "#story-content",
+            ".news-content"
+        ]
+        
+        article_content = ""
+        for selector in article_selectors:
+            try:
+                element = await page.query_selector(selector)
+                if element:
+                    content = await element.inner_text()
+                    if content and len(content.strip()) > 100:  # Must have substantial content
+                        article_content = content.strip()
+                        logger.info(f"✅ Found article content using selector: {selector}")
+                        break
+            except:
+                continue
+        
+        # Strategy 2: If no article found, try meta description
+        if not article_content:
+            try:
+                # Try meta description first
+                desc_element = await page.query_selector("meta[name='description']")
+                if desc_element:
+                    meta_desc = await desc_element.get_attribute("content")
+                    if meta_desc and len(meta_desc.strip()) > 50:
+                        article_content = meta_desc.strip()
+                        logger.info("✅ Using meta description")
+            except:
+                pass
+        
+        # Strategy 3: Try Open Graph description
+        if not article_content:
+            try:
+                og_desc_element = await page.query_selector("meta[property='og:description']")
+                if og_desc_element:
+                    og_desc = await og_desc_element.get_attribute("content")
+                    if og_desc and len(og_desc.strip()) > 50:
+                        article_content = og_desc.strip()
+                        logger.info("✅ Using OG description")
+            except:
+                pass
+        
+        # Strategy 4: Extract meaningful paragraphs
+        if not article_content:
+            try:
+                paragraphs = await page.query_selector_all("p")
+                meaningful_paragraphs = []
+                
+                for p in paragraphs:
+                    p_text = await p.inner_text()
+                    p_text = p_text.strip()
+                    
+                    # Filter out navigation, ads, and boilerplate
+                    if (len(p_text) > 30 and 
+                        not any(skip_word in p_text.lower() for skip_word in [
+                            'subscribe', 'sign in', 'newsletter', 'follow us', 'share this',
+                            'advertisement', 'sponsored', 'cookie', 'privacy policy',
+                            'terms of service', 'read more', 'click here', 'related articles'
+                        ]) and
+                        not p_text.isupper() and  # Skip all-caps navigation
+                        not re.match(r'^[A-Z\s]+$', p_text)):  # Skip navigation menus
+                        
+                        meaningful_paragraphs.append(p_text)
+                        
+                        # Stop after we have enough content
+                        if len(' '.join(meaningful_paragraphs)) > 500:
+                            break
+                
+                if meaningful_paragraphs:
+                    article_content = ' '.join(meaningful_paragraphs[:3])  # Take first 3 meaningful paragraphs
+                    logger.info(f"✅ Extracted {len(meaningful_paragraphs)} meaningful paragraphs")
+            except:
+                pass
+        
+        # Clean up the content
+        if article_content:
+            # Remove excessive whitespace
+            article_content = re.sub(r'\s+', ' ', article_content)
+            
+            # Limit length to reasonable size
+            if len(article_content) > 1000:
+                article_content = article_content[:1000] + "..."
+            
+            return article_content
+        
+        # Fallback: return a message indicating no content found
+        logger.warning("❌ No clean article content found")
+        return "Article content could not be extracted."
+        
+    except Exception as e:
+        logger.error(f"Error extracting article content: {e}")
+        return "Error extracting article content."
 
 async def extract_article_details_playwright(url: str, page, timeout: int = 10) -> Dict:
     """
@@ -283,49 +391,14 @@ async def extract_article_details_playwright(url: str, page, timeout: int = 10) 
         # Choose the best image with fallback hierarchy
         image_url = og_image or twitter_image or best_image
         
-        # Extract the page text
-        try:
-            page_text = await page.inner_text("body")
-        except:
-            page_text = ""
-        
-        # Try to extract description
-        description = ""
-        try:
-            desc_element = await page.query_selector("meta[name='description']")
-            if desc_element:
-                description = await desc_element.get_attribute("content")
-        except:
-            pass
-        
-        # If no description found, try Open Graph description
-        if not description:
-            try:
-                og_desc_element = await page.query_selector("meta[property='og:description']")
-                if og_desc_element:
-                    description = await og_desc_element.get_attribute("content")
-            except:
-                pass
-        
-        # If still no description, extract the first paragraph
-        if not description:
-            try:
-                paragraphs = await page.query_selector_all("p")
-                for p in paragraphs[:5]:  # Check first 5 paragraphs
-                    p_text = await p.inner_text()
-                    p_text = p_text.strip()
-                    if p_text and len(p_text) > 50:
-                        description = p_text
-                        break
-            except:
-                pass
+        # Extract clean article content (not the entire page)
+        description = await extract_clean_article_content(page)
         
         return {
             "resolved_url": current_url,
             "image_url": image_url,
             "title": title or None,
-            "description": description[:500] + "..." if description and len(description) > 500 else description,
-            "text_excerpt": page_text[:1000] + "..." if page_text and len(page_text) > 1000 else page_text
+            "description": description
         }
     except Exception as e:
         logger.error(f"Error extracting article details from {url}: {e}")
@@ -335,7 +408,6 @@ async def extract_article_details_playwright(url: str, page, timeout: int = 10) 
             "image_url": "https://via.placeholder.com/300x150?text=No+Image",
             "title": None,
             "description": None,
-            "text_excerpt": None,
             "error": str(e)
         }
 
@@ -490,7 +562,7 @@ def generate_summary(text: str, max_words: int = 60) -> str:
         logger.error(f"Error generating summary: {e}")
         return text[:200] + "..." if text and len(text) > 200 else text or "No content available for summarization."
 
-async def process_single_article_playwright(article: Dict, page, timeout: int, summary_length: int) -> Dict:
+async def process_single_article_playwright(article: Dict, page, timeout: int) -> Dict:
     """Process a single article using Playwright"""
     try:
         title = article.get('title', 'Unknown Title')
@@ -505,7 +577,6 @@ async def process_single_article_playwright(article: Dict, page, timeout: int, s
                 'source': source,
                 'url': '',
                 'image_url': 'https://via.placeholder.com/300x150?text=No+URL',
-                'summary': 'No URL provided for this article.',
                 'published': published,
                 'error': 'No URL provided'
             }
@@ -515,38 +586,14 @@ async def process_single_article_playwright(article: Dict, page, timeout: int, s
         # Extract article details using Playwright
         article_details = await extract_article_details_playwright(url, page, timeout)
         
-        # Generate and validate summary
-        summary = None
-        
-        # Try multiple content sources for summary generation
-        content_sources = [
-            article_details['text_excerpt'],
-            article_details['description'],
-            title  # Fallback to title if no content
-        ]
-        
-        for content in content_sources:
-            if content and len(content.strip()) > 50:
-                candidate_summary = generate_summary(content, summary_length)
-                
-                # Validate summary quality
-                if validate_summary_quality(candidate_summary, title):
-                    summary = candidate_summary
-                    logger.debug(f"✅ Generated quality summary: {summary[:50]}...")
-                    break
-                else:
-                    logger.debug(f"⚠️ Summary failed validation, trying next source...")
-        
-        # Final fallback
-        if not summary:
-            summary = "No quality content available for summarization."
+        # Summary generation removed - using only description field
         
         # Generate a unique ID for the article
         article_id = generate_article_id(url, title, source)
         
         # Calculate content quality score
         quality_score = calculate_content_quality_score(
-            title, summary, article_details['image_url'], 
+            title, article_details['image_url'], 
             article_details['description'], source
         )
         
@@ -557,7 +604,7 @@ async def process_single_article_playwright(article: Dict, page, timeout: int, s
             'source': source,
             'url': article_details['resolved_url'] or url,
             'image_url': article_details['image_url'],
-            'summary': summary,
+            'description': article_details['description'],
             'published': published,
             'quality_score': quality_score
         }
@@ -572,12 +619,11 @@ async def process_single_article_playwright(article: Dict, page, timeout: int, s
             'source': source,
             'url': url or '',
             'image_url': 'https://via.placeholder.com/300x150?text=Error',
-            'summary': f'Error processing article: {str(e)}',
             'published': published,
             'error': str(e)
         }
 
-async def process_news_data_playwright(news_data: Dict, max_articles: int, timeout: int, summary_length: int, headless: bool) -> List[Dict]:
+async def process_news_data_playwright(news_data: Dict, max_articles: int, timeout: int, headless: bool) -> List[Dict]:
     """Process news data using Playwright for better performance"""
     processed_articles = []
     
@@ -626,7 +672,7 @@ async def process_news_data_playwright(news_data: Dict, max_articles: int, timeo
             for i, article in enumerate(articles_to_process):
                 logger.info(f"📰 Article {i+1}/{len(articles_to_process)}")
                 
-                result = await process_single_article_playwright(article, page, timeout, summary_length)
+                result = await process_single_article_playwright(article, page, timeout)
                 processed_articles.append(result)
                 
                 if 'error' not in result:
@@ -652,51 +698,7 @@ async def process_news_data_playwright(news_data: Dict, max_articles: int, timeo
     
     return processed_articles
 
-def calculate_image_quality_score(src: str, alt_text: str, width: str, height: str, class_name: str) -> int:
-    """Calculate quality score for an image based on multiple factors"""
-    score = 0
-    src_lower = src.lower()
-    alt_lower = alt_text.lower()
-    class_lower = class_name.lower()
-    
-    # Boost for news-related alt text
-    news_keywords = ['news', 'article', 'story', 'report', 'photo', 'image']
-    for keyword in news_keywords:
-        if keyword in alt_lower:
-            score += 20
-            break
-    
-    # Boost for proper image hosting (CDN/static)
-    if any(domain in src_lower for domain in ['cdn', 'static', 'images', 'img', 'media']):
-        score += 30
-    
-    # Penalize common ad/placeholder patterns
-    ad_patterns = ['ad', 'banner', 'sponsor', 'placeholder', 'logo', 'icon', 'avatar']
-    for pattern in ad_patterns:
-        if pattern in src_lower or pattern in class_lower:
-            score -= 50
-            break
-    
-    # Boost for reasonable dimensions
-    try:
-        w, h = int(width or 0), int(height or 0)
-        if w >= 300 and h >= 200:  # Good size for news images
-            score += 40
-        elif w >= 200 and h >= 150:  # Acceptable size
-            score += 20
-        elif w < 100 or h < 100:  # Too small
-            score -= 30
-    except (ValueError, TypeError):
-        pass
-    
-    # Boost for article-related class names
-    article_classes = ['article', 'content', 'main', 'hero', 'featured']
-    for cls in article_classes:
-        if cls in class_lower:
-            score += 15
-            break
-    
-    return max(0, score)
+# calculate_image_quality_score function now imported from app.scoring
 
 def is_valid_news_image(image_candidate: dict) -> bool:
     """Validate if an image is suitable for news articles"""
@@ -767,124 +769,7 @@ def validate_summary_quality(summary: str, title: str) -> bool:
     
     return True
 
-def calculate_content_quality_score(title: str, summary: str, image_url: str, description: str, source: str) -> float:
-    """
-    Calculate a quality score for the article content (0-1000).
-    Prioritizes breaking news, important events, and high-impact stories.
-    
-    Args:
-        title: Article title
-        summary: Generated summary
-        image_url: Image URL
-        description: Article description
-        source: News source
-        
-    Returns:
-        Quality score between 0-1000
-    """
-    score = 0.0
-    
-    # Combine title and summary for importance analysis
-    full_text = f"{title} {summary} {description}".lower()
-    
-    # BREAKING/URGENT NEWS - Highest Priority (800-1000 points)
-    breaking_keywords = [
-        'breaking', 'urgent', 'alert', 'emergency', 'crisis', 'disaster',
-        'war', 'attack', 'bomb', 'terror', 'earthquake', 'tsunami',
-        'pandemic', 'outbreak', 'death', 'killed', 'died', 'accident',
-        'fire', 'explosion', 'crash', 'rescue', 'evacuation'
-    ]
-    
-    # MAJOR POLITICAL/ECONOMIC NEWS (600-800 points)
-    major_political_keywords = [
-        'election', 'prime minister', 'president', 'government', 'parliament',
-        'budget', 'policy', 'law', 'court', 'supreme court', 'verdict',
-        'resignation', 'appointed', 'cabinet', 'minister', 'opposition'
-    ]
-    
-    # IMPORTANT SOCIAL/CULTURAL NEWS (400-600 points)
-    important_social_keywords = [
-        'protest', 'strike', 'rally', 'demonstration', 'movement',
-        'festival', 'celebration', 'award', 'achievement', 'record',
-        'innovation', 'breakthrough', 'discovery', 'launch', 'announcement'
-    ]
-    
-    # REGIONAL IMPORTANCE - Bengaluru/India specific (200-400 points boost)
-    regional_keywords = [
-        'bengaluru', 'bangalore', 'karnataka', 'india', 'indian',
-        'mumbai', 'delhi', 'chennai', 'hyderabad', 'pune', 'kolkata'
-    ]
-    
-    # Check for breaking/urgent news
-    breaking_score = 0
-    for keyword in breaking_keywords:
-        if keyword in full_text:
-            breaking_score = 900  # Very high priority
-            break
-    
-    # Check for major political/economic news
-    political_score = 0
-    for keyword in major_political_keywords:
-        if keyword in full_text:
-            political_score = max(political_score, 700)
-    
-    # Check for important social/cultural news
-    social_score = 0
-    for keyword in important_social_keywords:
-        if keyword in full_text:
-            social_score = max(social_score, 500)
-    
-    # Regional importance boost
-    regional_boost = 0
-    for keyword in regional_keywords:
-        if keyword in full_text:
-            regional_boost = 200
-            break
-    
-    # Base content quality (0-300 points)
-    base_score = 0
-    
-    # Title quality (0-80 points)
-    if title and len(title.strip()) > 10:
-        title_words = len(title.split())
-        if 5 <= title_words <= 15:  # Optimal title length
-            base_score += 80
-        elif title_words > 3:
-            base_score += 60
-        else:
-            base_score += 20
-    
-    # Summary quality (0-120 points)
-    if summary and summary != "No content available for summarization.":
-        summary_words = len(summary.split())
-        if 30 <= summary_words <= 80:  # Optimal summary length
-            base_score += 120
-        elif summary_words >= 15:
-            base_score += 80
-        else:
-            base_score += 40
-    
-    # Image quality (0-60 points)
-    if image_url and 'placeholder' not in image_url.lower():
-        if any(domain in image_url for domain in ['cdn', 'static', 'images', 'img']):
-            base_score += 60  # Likely a proper image CDN
-        else:
-            base_score += 40
-    
-    # Description availability (0-40 points)
-    if description and len(description.strip()) > 20:
-        base_score += 40
-    elif description:
-        base_score += 20
-    
-    # Source trustworthiness multiplier (1.0x to 1.5x)
-    source_multiplier = 1.5 if is_trusted_source(source) else 1.0
-    
-    # Calculate final score
-    importance_score = max(breaking_score, political_score, social_score)
-    final_score = (importance_score + base_score + regional_boost) * source_multiplier
-    
-    return min(final_score, 1000.0)
+# calculate_content_quality_score function now imported from app.scoring
 
 def is_trusted_source(source: str) -> bool:
     """Check if the source is from a trusted news organization."""
@@ -932,7 +817,6 @@ async def main():
             news_data, 
             args.max_articles, 
             args.timeout,
-            args.summary_length,
             args.headless
         )
         
