@@ -327,22 +327,41 @@ async def extract_clean_article_content(page) -> str:
             page_title = await page.title() if page else ""
             
             best_content = None
+            
+            # First, try to find title-relevant content that's also substantial (>300 chars)
             for candidate in content_candidates:
-                # Check content relevance to title
-                if validate_content_relevance(candidate['content'], page_title):
+                if (validate_content_relevance(candidate['content'], page_title) and 
+                    candidate['length'] > 300):
                     best_content = candidate
-                    logger.info(f"🎯 Selected relevant content: {candidate['source']} (score: {candidate['score']}, length: {candidate['length']}, title-relevant: ✅)")
+                    logger.info(f"🎯 Selected relevant substantial content: {candidate['source']} (score: {candidate['score']}, length: {candidate['length']}, title-relevant: ✅)")
                     break
             
-            # If no content is title-relevant, fall back to highest scoring
+            # If no substantial title-relevant content, prefer longer content over title relevance
             if not best_content:
-                best_content = content_candidates[0]
-                logger.info(f"🏆 Selected best content (no title match): {best_content['source']} (score: {best_content['score']}, length: {best_content['length']}, title-relevant: ❌)")
+                # Prioritize content with length > 300 chars, even if not title-relevant
+                for candidate in content_candidates:
+                    if candidate['length'] > 300:
+                        best_content = candidate
+                        logger.info(f"🏆 Selected substantial content: {candidate['source']} (score: {candidate['score']}, length: {candidate['length']}, title-relevant: ❓)")
+                        break
+                
+                # Final fallback to highest scoring content
+                if not best_content:
+                    best_content = content_candidates[0]
+                    logger.info(f"🏆 Selected best available content: {best_content['source']} (score: {best_content['score']}, length: {best_content['length']}, title-relevant: ❌)")
             
             # Limit length to reasonable size but allow longer descriptions
             final_content = best_content['content']
-            if len(final_content) > 2000:  # Increased from 1500 to 2000
-                final_content = final_content[:2000] + "..."
+            if len(final_content) > 5000:  # Increased limit to allow longer descriptions
+                # Try to cut at a sentence boundary instead of mid-sentence
+                sentences = final_content[:5000].split('.')
+                if len(sentences) > 1:
+                    # Keep all complete sentences that fit within the limit
+                    final_content = '.'.join(sentences[:-1]) + '.'
+                else:
+                    # If no sentence boundary found, cut at word boundary
+                    words = final_content[:5000].split()
+                    final_content = ' '.join(words[:-1]) + "..."
             
             return final_content
         
@@ -442,6 +461,7 @@ def generate_key_points(description: str, title: str = "") -> List[str]:
     Generate key points from article description in the specified format
     """
     if not description or len(description.strip()) < 50:
+        logger.warning(f"⚠️ Description too short for key points generation: {len(description.strip()) if description else 0} chars")
         return []
     
     try:
@@ -1850,7 +1870,8 @@ def generate_summary(text: str, max_words: int = 60) -> str:
         return summary.strip()
     except Exception as e:
         logger.error(f"Error generating summary: {e}")
-        return text[:200] + "..." if text and len(text) > 200 else text or "No content available for summarization."
+        # Don't truncate the original text, return it as-is
+        return text or "No content available for summarization."
 
 async def process_single_article_playwright(article: Dict, page, timeout: int) -> Dict:
     """Process a single article using Playwright"""
