@@ -43,7 +43,8 @@ async def store_news(news_data: List[Dict], category: str = "general") -> Dict:
                 "published": article.get("published", ""),
                 "source": article.get("source", ""),
                 "category": category,
-                "description": description_content if description_content else None,  # Only description field
+                "description": description_content if description_content else None,  # Full description
+                "key_points": article.get("key_points", []),  # Add key_points field
                 "image_url": article.get("image_url"),
                 "article_id": article.get("article_id"),
                 "quality_score": article.get("quality_score", 0)

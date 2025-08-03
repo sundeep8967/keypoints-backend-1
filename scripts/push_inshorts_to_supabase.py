@@ -65,14 +65,24 @@ def convert_inshorts_to_supabase_format(inshorts_data: Dict, category: str) -> L
         # Use description field (which contains the rich article content)
         description_content = article.get("description", "").strip()
         
-        # Convert inshorts format to Supabase format - only push description field
+        # Get key_points and ensure it's properly formatted for text[] column
+        key_points = article.get("key_points", [])
+        # Convert to list of strings if it's not already
+        if key_points and isinstance(key_points, list):
+            # Ensure all items are strings
+            key_points = [str(point) for point in key_points if point]
+        else:
+            key_points = []
+        
+        # Convert inshorts format to Supabase format - include description and key_points
         supabase_article = {
             "title": title,
             "link": article.get("url", ""),  # inshorts uses 'url', supabase expects 'link'
             "published": article.get("published", ""),
             "source": article.get("source", ""),
             "category": category,
-            "description": description_content if description_content else None,  # Only description field
+            "description": description_content if description_content else None,  # Full description
+            "key_points": key_points,  # Properly formatted for text[] column
             "image_url": image_url,
             "article_id": article.get("id"),  # Store the inshorts ID
             "quality_score": article.get("quality_score", 0)
@@ -155,6 +165,13 @@ async def push_all_inshorts_to_supabase(data_dir: str = "data") -> Dict:
             logger.info(f"   📋 Sample: {sample.get('title', 'No title')[:50]}...")
             image_url = sample.get('image_url') or 'No image'
             logger.info(f"   🖼️  Image: {str(image_url)[:50]}...")
+            
+            # Debug key_points
+            key_points = sample.get('key_points', [])
+            if key_points:
+                logger.info(f"   🔑 Key Points ({len(key_points)}): {key_points[0][:50]}..." if key_points else "None")
+            else:
+                logger.info(f"   🔑 Key Points: None found")
         
         # Upload to Supabase
         logger.info(f"   💾 Uploading to Supabase...")

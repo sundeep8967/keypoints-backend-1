@@ -437,6 +437,121 @@ def _calculate_content_quality(content: str, source_type: str) -> int:
     
     return max(0, score)  # Ensure non-negative score
 
+def generate_key_points(description: str, title: str = "") -> List[str]:
+    """
+    Generate key points from article description in the specified format
+    """
+    if not description or len(description.strip()) < 50:
+        return []
+    
+    try:
+        # Clean and prepare the text
+        text = description.strip()
+        
+        # Split into sentences
+        sentences = re.split(r'[.!?]+', text)
+        sentences = [s.strip() for s in sentences if len(s.strip()) > 20]
+        
+        if len(sentences) < 2:
+            return []
+        
+        key_points = []
+        
+        # Extract key entities and topics for categorization
+        def extract_key_entities(sentence):
+            # Look for proper nouns, organizations, locations, numbers
+            entities = []
+            words = sentence.split()
+            
+            for i, word in enumerate(words):
+                # Capitalized words (likely proper nouns)
+                if word[0].isupper() and len(word) > 2:
+                    entities.append(word)
+                # Numbers with context
+                if re.search(r'\d+', word):
+                    context = ' '.join(words[max(0, i-2):i+3])
+                    entities.append(context.strip())
+            
+            return entities
+        
+        # Categorize sentences based on content patterns
+        for i, sentence in enumerate(sentences[:5]):  # Limit to 5 key points
+            if len(sentence) < 30:
+                continue
+                
+            sentence = sentence.strip()
+            if not sentence.endswith(('.', '!', '?')):
+                sentence += '.'
+            
+            # Determine category based on content patterns
+            sentence_lower = sentence.lower()
+            
+            # Extract main subject/entity for the key point
+            entities = extract_key_entities(sentence)
+            main_entity = entities[0] if entities else "Key Update"
+            
+            # Clean the main entity
+            main_entity = re.sub(r'[^\w\s]', '', main_entity).strip()
+            if len(main_entity) > 25:
+                main_entity = main_entity[:25] + "..."
+            
+            category = "**Key Update**"
+            
+            # Pattern-based categorization
+            if any(word in sentence_lower for word in ['said', 'announced', 'stated', 'declared', 'confirmed']):
+                if main_entity and main_entity != "Key Update":
+                    category = f"**{main_entity} Statement**"
+                else:
+                    category = "**Official Statement**"
+            
+            elif any(word in sentence_lower for word in ['protest', 'rally', 'demonstration', 'march']):
+                category = "**Protest Update**"
+            
+            elif any(word in sentence_lower for word in ['died', 'killed', 'death', 'casualties', 'injured']):
+                category = "**Casualty Report**"
+            
+            elif any(word in sentence_lower for word in ['timeline', 'when', 'after', 'before', 'during', 'since']):
+                category = "**Timeline Update**"
+            
+            elif any(word in sentence_lower for word in ['what is', 'what was', 'this is', 'it is']):
+                category = "**What Is Update**"
+            
+            elif any(word in sentence_lower for word in ['past', 'previous', 'earlier', 'before', 'history']):
+                category = "**The Past Update**"
+            
+            elif any(word in sentence_lower for word in ['video', 'footage', 'images', 'photos', 'released']):
+                category = "**Media Release**"
+            
+            elif any(word in sentence_lower for word in ['government', 'authorities', 'officials', 'minister']):
+                category = "**Government Update**"
+            
+            elif re.search(r'\d+', sentence):
+                category = "**Statistics Update**"
+            
+            elif main_entity and main_entity != "Key Update" and len(main_entity) < 20:
+                category = f"**{main_entity}**"
+            
+            # Format the key point
+            key_point = f"{category}: {sentence}"
+            key_points.append(key_point)
+        
+        # If we have fewer than 3 key points, try to extract more
+        if len(key_points) < 3 and len(sentences) > len(key_points):
+            remaining_sentences = sentences[len(key_points):len(key_points)+2]
+            for sentence in remaining_sentences:
+                if len(sentence) > 30:
+                    sentence = sentence.strip()
+                    if not sentence.endswith(('.', '!', '?')):
+                        sentence += '.'
+                    key_point = f"**Additional Update**: {sentence}"
+                    key_points.append(key_point)
+        
+        return key_points[:5]  # Return max 5 key points
+        
+    except Exception as e:
+        logger.error(f"Error generating key points: {e}")
+        return []
+
 def validate_content_relevance(content: str, title: str) -> bool:
     """Check if extracted content is relevant to the article title"""
     if not content or not title:
@@ -1776,7 +1891,10 @@ async def process_single_article_playwright(article: Dict, page, timeout: int) -
         # Generate content hash for duplicate detection
         content_hash = hashlib.md5(article_details['description'][:200].encode()).hexdigest() if article_details['description'] else None
         
-        # Create Inshorts-style article with quality score and content hash
+        # Generate key points from the description
+        key_points = generate_key_points(article_details['description'], final_title) if article_details['description'] else []
+        
+        # Create Inshorts-style article with quality score, content hash, and key points
         processed_article = {
             'id': article_id,
             'title': final_title,  # Use the clean title extracted from the page
@@ -1784,6 +1902,7 @@ async def process_single_article_playwright(article: Dict, page, timeout: int) -
             'url': article_details['resolved_url'] or url,
             'image_url': article_details['image_url'],
             'description': article_details['description'],
+            'key_points': key_points,  # Add key points
             'published': published,
             'quality_score': quality_score,
             'content_hash': content_hash
