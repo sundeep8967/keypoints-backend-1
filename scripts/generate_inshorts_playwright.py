@@ -130,9 +130,13 @@ def _is_valid_article_url(url: str) -> bool:
 async def extract_clean_article_content(page) -> str:
     """
     Extract clean article content from the page, filtering out navigation, ads, and boilerplate.
+    Enhanced with content quality scoring and comprehensive extraction strategies.
     """
     try:
-        # Strategy 1: Try to find article content using semantic selectors
+        # Content candidates with quality scores
+        content_candidates = []
+        
+        # Strategy 1: Try to find article content using semantic selectors (expanded list)
         article_selectors = [
             "article",
             "[role='main']",
@@ -146,89 +150,201 @@ async def extract_clean_article_content(page) -> str:
             ".main-content",
             "#article-content",
             "#story-content",
-            ".news-content"
+            ".news-content",
+            ".article-text",
+            ".story-text",
+            ".content-text",
+            ".post-body",
+            ".entry-body",
+            ".article-wrapper",
+            ".story-wrapper",
+            ".content-wrapper",
+            ".text-content",
+            ".article-detail",
+            ".story-detail",
+            ".news-body",
+            ".article-main",
+            ".story-main",
+            ".content-main",
+            "#content",
+            "#main-content",
+            "#article",
+            "#story",
+            ".full-story",
+            ".article-full",
+            ".story-full"
         ]
         
-        article_content = ""
+        # Add site-specific selectors based on current URL
+        current_url = page.url.lower()
+        site_specific_selectors = get_site_specific_selectors(current_url)
+        if site_specific_selectors:
+            article_selectors = site_specific_selectors + article_selectors
+            logger.info(f"🎯 Using site-specific selectors for: {current_url}")
+        
+        # Extract content from semantic selectors with quality scoring
         for selector in article_selectors:
             try:
                 element = await page.query_selector(selector)
                 if element:
                     content = await element.inner_text()
-                    if content and len(content.strip()) > 100:  # Must have substantial content
-                        article_content = content.strip()
-                        logger.info(f"✅ Found article content using selector: {selector}")
-                        break
+                    if content and len(content.strip()) > 500:  # Increased threshold from 200 to 500
+                        cleaned_content = _clean_content(content.strip())
+                        if len(cleaned_content) > 300:  # Ensure cleaned content is substantial
+                            quality_score = _calculate_content_quality(cleaned_content, "semantic_selector")
+                            content_candidates.append({
+                                'content': cleaned_content,
+                                'score': quality_score,
+                                'source': f"semantic_selector_{selector}",
+                                'length': len(cleaned_content)
+                            })
+                            logger.info(f"✅ Found article content using selector: {selector} ({len(cleaned_content)} chars, score: {quality_score})")
             except:
                 continue
         
-        # Strategy 2: If no article found, try meta description
-        if not article_content:
-            try:
-                # Try meta description first
-                desc_element = await page.query_selector("meta[name='description']")
-                if desc_element:
-                    meta_desc = await desc_element.get_attribute("content")
-                    if meta_desc and len(meta_desc.strip()) > 50:
-                        article_content = meta_desc.strip()
-                        logger.info("✅ Using meta description")
-            except:
-                pass
-        
-        # Strategy 3: Try Open Graph description
-        if not article_content:
-            try:
-                og_desc_element = await page.query_selector("meta[property='og:description']")
-                if og_desc_element:
-                    og_desc = await og_desc_element.get_attribute("content")
-                    if og_desc and len(og_desc.strip()) > 50:
-                        article_content = og_desc.strip()
-                        logger.info("✅ Using OG description")
-            except:
-                pass
-        
-        # Strategy 4: Extract meaningful paragraphs
-        if not article_content:
-            try:
-                paragraphs = await page.query_selector_all("p")
-                meaningful_paragraphs = []
+        # Strategy 2: Extract meaningful paragraphs (enhanced) - Try this BEFORE meta descriptions
+        try:
+            paragraphs = await page.query_selector_all("p")
+            meaningful_paragraphs = []
+            
+            for p in paragraphs:
+                p_text = await p.inner_text()
+                p_text = p_text.strip()
                 
-                for p in paragraphs:
-                    p_text = await p.inner_text()
-                    p_text = p_text.strip()
+                # Enhanced filtering for better content
+                skip_words = [
+                    'subscribe', 'sign in', 'newsletter', 'follow us', 'share this',
+                    'advertisement', 'sponsored', 'cookie', 'privacy policy',
+                    'terms of service', 'read more', 'click here', 'related articles',
+                    'also read', 'trending now', 'breaking news', 'live updates',
+                    'watch video', 'photo gallery', 'you may like', 'recommended',
+                    'sponsored content', 'latest news', 'more news', 'top stories',
+                    'view all', 'see more', 'load more', 'show more', 'continue reading'
+                ]
+                
+                # More comprehensive filtering
+                if (len(p_text) > 50 and  # Increased from 40 to 50
+                    not any(skip_word in p_text.lower() for skip_word in skip_words) and
+                    not p_text.isupper() and  # Skip all-caps navigation
+                    not re.match(r'^[A-Z\s]+$', p_text) and  # Skip navigation menus
+                    not re.match(r'^[0-9\s\-\|\:]+$', p_text) and  # Skip date/time strings
+                    not p_text.startswith(('Updated', 'Published', 'Last updated', 'Posted')) and
+                    '|' not in p_text[-20:] and  # Skip lines ending with | (navigation)
+                    len(p_text.split()) > 10):  # Increased from 8 to 10 words
                     
-                    # Filter out navigation, ads, and boilerplate
-                    if (len(p_text) > 30 and 
-                        not any(skip_word in p_text.lower() for skip_word in [
-                            'subscribe', 'sign in', 'newsletter', 'follow us', 'share this',
-                            'advertisement', 'sponsored', 'cookie', 'privacy policy',
-                            'terms of service', 'read more', 'click here', 'related articles'
-                        ]) and
-                        not p_text.isupper() and  # Skip all-caps navigation
-                        not re.match(r'^[A-Z\s]+$', p_text)):  # Skip navigation menus
-                        
-                        meaningful_paragraphs.append(p_text)
-                        
-                        # Stop after we have enough content
-                        if len(' '.join(meaningful_paragraphs)) > 500:
-                            break
-                
-                if meaningful_paragraphs:
-                    article_content = ' '.join(meaningful_paragraphs[:3])  # Take first 3 meaningful paragraphs
-                    logger.info(f"✅ Extracted {len(meaningful_paragraphs)} meaningful paragraphs")
-            except:
-                pass
+                    meaningful_paragraphs.append(p_text)
+                    
+                    # Collect more content for longer descriptions
+                    if len(' '.join(meaningful_paragraphs)) > 1200:  # Increased from 800
+                        break
+            
+            if meaningful_paragraphs:
+                # Take more paragraphs for longer content
+                paragraph_content = ' '.join(meaningful_paragraphs[:7])  # Increased from 5 to 7
+                cleaned_paragraph_content = _clean_content(paragraph_content)
+                if len(cleaned_paragraph_content) > 200:
+                    quality_score = _calculate_content_quality(cleaned_paragraph_content, "paragraphs")
+                    content_candidates.append({
+                        'content': cleaned_paragraph_content,
+                        'score': quality_score,
+                        'source': "meaningful_paragraphs",
+                        'length': len(cleaned_paragraph_content)
+                    })
+                    logger.info(f"✅ Extracted {len(meaningful_paragraphs)} meaningful paragraphs ({len(cleaned_paragraph_content)} chars, score: {quality_score})")
+        except:
+            pass
         
-        # Clean up the content
-        if article_content:
-            # Remove excessive whitespace
-            article_content = re.sub(r'\s+', ' ', article_content)
+        # Strategy 3: Try alternative div selectors for more content
+        try:
+            div_selectors = [
+                ".story", ".article", ".content", ".post", ".entry",
+                "#story", "#article", "#content", "#post", "#entry",
+                ".news-article", ".article-container", ".story-container",
+                ".content-container", ".post-container", ".entry-container"
+            ]
             
-            # Limit length to reasonable size
-            if len(article_content) > 1000:
-                article_content = article_content[:1000] + "..."
+            for selector in div_selectors:
+                element = await page.query_selector(selector)
+                if element:
+                    div_content = await element.inner_text()
+                    if div_content and len(div_content.strip()) > 400:  # Increased threshold
+                        cleaned_div_content = _clean_content(div_content.strip())
+                        if len(cleaned_div_content) > 250:
+                            quality_score = _calculate_content_quality(cleaned_div_content, "div_selector")
+                            content_candidates.append({
+                                'content': cleaned_div_content,
+                                'score': quality_score,
+                                'source': f"div_selector_{selector}",
+                                'length': len(cleaned_div_content)
+                            })
+                            logger.info(f"✅ Found content using div selector {selector} ({len(cleaned_div_content)} chars, score: {quality_score})")
+        except:
+            pass
+        
+        # Strategy 4: Meta descriptions (LOWER PRIORITY - only if no substantial content found)
+        try:
+            # Try meta description
+            desc_element = await page.query_selector("meta[name='description']")
+            if desc_element:
+                meta_desc = await desc_element.get_attribute("content")
+                if meta_desc and len(meta_desc.strip()) > 100:  # Increased threshold from 50 to 100
+                    cleaned_meta_desc = _clean_content(meta_desc.strip())
+                    quality_score = _calculate_content_quality(cleaned_meta_desc, "meta_description")
+                    content_candidates.append({
+                        'content': cleaned_meta_desc,
+                        'score': quality_score,
+                        'source': "meta_description",
+                        'length': len(cleaned_meta_desc)
+                    })
+                    logger.info(f"✅ Found meta description ({len(cleaned_meta_desc)} chars, score: {quality_score})")
+        except:
+            pass
+        
+        # Strategy 5: Open Graph description (LOWEST PRIORITY)
+        try:
+            og_desc_element = await page.query_selector("meta[property='og:description']")
+            if og_desc_element:
+                og_desc = await og_desc_element.get_attribute("content")
+                if og_desc and len(og_desc.strip()) > 100:  # Increased threshold from 50 to 100
+                    cleaned_og_desc = _clean_content(og_desc.strip())
+                    quality_score = _calculate_content_quality(cleaned_og_desc, "og_description")
+                    content_candidates.append({
+                        'content': cleaned_og_desc,
+                        'score': quality_score,
+                        'source': "og_description",
+                        'length': len(cleaned_og_desc)
+                    })
+                    logger.info(f"✅ Found OG description ({len(cleaned_og_desc)} chars, score: {quality_score})")
+        except:
+            pass
+        
+        # Select the best content based on quality score and length
+        if content_candidates:
+            # Sort by quality score first, then by length
+            content_candidates.sort(key=lambda x: (x['score'], x['length']), reverse=True)
             
-            return article_content
+            # Try to find content that's relevant to the page title
+            page_title = await page.title() if page else ""
+            
+            best_content = None
+            for candidate in content_candidates:
+                # Check content relevance to title
+                if validate_content_relevance(candidate['content'], page_title):
+                    best_content = candidate
+                    logger.info(f"🎯 Selected relevant content: {candidate['source']} (score: {candidate['score']}, length: {candidate['length']}, title-relevant: ✅)")
+                    break
+            
+            # If no content is title-relevant, fall back to highest scoring
+            if not best_content:
+                best_content = content_candidates[0]
+                logger.info(f"🏆 Selected best content (no title match): {best_content['source']} (score: {best_content['score']}, length: {best_content['length']}, title-relevant: ❌)")
+            
+            # Limit length to reasonable size but allow longer descriptions
+            final_content = best_content['content']
+            if len(final_content) > 2000:  # Increased from 1500 to 2000
+                final_content = final_content[:2000] + "..."
+            
+            return final_content
         
         # Fallback: return a message indicating no content found
         logger.warning("❌ No clean article content found")
@@ -237,6 +353,1062 @@ async def extract_clean_article_content(page) -> str:
     except Exception as e:
         logger.error(f"Error extracting article content: {e}")
         return "Error extracting article content."
+
+def _clean_content(content: str) -> str:
+    """Clean and normalize content text"""
+    if not content:
+        return ""
+    
+    # Remove excessive whitespace
+    content = re.sub(r'\s+', ' ', content)
+    
+    # Remove common trailing patterns
+    content = re.sub(r'\s*\|\s*Latest News.*$', '', content)
+    content = re.sub(r'\s*\|\s*[A-Z][a-z]+\s*$', '', content)
+    
+    # Remove common prefixes/suffixes
+    content = re.sub(r'^(Updated|Published|Last updated|Posted):\s*[^.]*\.\s*', '', content)
+    content = re.sub(r'\s*(Read more|Continue reading|View full article).*$', '', content, flags=re.IGNORECASE)
+    
+    return content.strip()
+
+def _calculate_content_quality(content: str, source_type: str) -> int:
+    """Calculate content quality score based on various factors"""
+    if not content:
+        return 0
+    
+    score = 0
+    
+    # Base score by source type (prioritize full content over meta descriptions)
+    source_scores = {
+        'semantic_selector': 100,
+        'meaningful_paragraphs': 90,
+        'div_selector': 80,
+        'meta_description': 30,  # Lower priority
+        'og_description': 20     # Lowest priority
+    }
+    score += source_scores.get(source_type, 50)
+    
+    # Length bonus (longer content is generally better)
+    length = len(content)
+    if length > 1000:
+        score += 50
+    elif length > 500:
+        score += 30
+    elif length > 300:
+        score += 20
+    elif length > 150:
+        score += 10
+    
+    # Sentence structure bonus
+    sentences = content.count('.') + content.count('!') + content.count('?')
+    if sentences > 5:
+        score += 20
+    elif sentences > 3:
+        score += 10
+    
+    # Word count bonus
+    words = len(content.split())
+    if words > 200:
+        score += 30
+    elif words > 100:
+        score += 20
+    elif words > 50:
+        score += 10
+    
+    # Penalty for repetitive content
+    unique_words = len(set(content.lower().split()))
+    total_words = len(content.split())
+    if total_words > 0:
+        uniqueness_ratio = unique_words / total_words
+        if uniqueness_ratio < 0.3:  # Very repetitive
+            score -= 30
+        elif uniqueness_ratio < 0.5:  # Somewhat repetitive
+            score -= 15
+    
+    # Penalty for obvious boilerplate
+    boilerplate_indicators = [
+        'click here', 'read more', 'subscribe', 'newsletter',
+        'follow us', 'share this', 'terms of service', 'privacy policy'
+    ]
+    content_lower = content.lower()
+    boilerplate_count = sum(1 for indicator in boilerplate_indicators if indicator in content_lower)
+    score -= boilerplate_count * 10
+    
+    return max(0, score)  # Ensure non-negative score
+
+def validate_content_relevance(content: str, title: str) -> bool:
+    """Check if extracted content is relevant to the article title"""
+    if not content or not title:
+        return False
+    
+    # Extract key terms from title
+    title_terms = set(re.findall(r'\b\w{4,}\b', title.lower()))
+    
+    # Count how many title terms appear in content
+    content_lower = content.lower()
+    matching_terms = sum(1 for term in title_terms if term in content_lower)
+    
+    # At least 30% of title terms should appear in content
+    return matching_terms >= len(title_terms) * 0.3
+
+def is_duplicate_content(content: str, existing_articles: List[Dict]) -> bool:
+    """Check if content is too similar to already processed articles"""
+    content_hash = hashlib.md5(content[:200].encode()).hexdigest()
+    return any(article.get('content_hash') == content_hash for article in existing_articles)
+
+async def extract_clean_title(page, page_title: str) -> str:
+    """
+    Extract article title with better filtering and prioritization
+    """
+    try:
+        # Strategy 1: Get h1 elements with smart filtering
+        h1_elements = await page.query_selector_all("h1")
+        candidates = []
+        
+        # Common generic words to deprioritize (but not exclude completely)
+        generic_words = {'video', 'videos', 'news', 'breaking', 'latest', 'live', 'watch', 'photos', 'gallery'}
+        
+        # Words that indicate this is likely NOT the main title
+        exclude_words = {'menu', 'home', 'search', 'navigation', 'subscribe', 'login', 'sign'}
+        
+        for h1 in h1_elements:
+            try:
+                title_text = await h1.inner_text()
+                if not title_text or len(title_text.strip()) <= 5:
+                    continue
+                    
+                title_text = title_text.strip()
+                title_lower = title_text.lower()
+                
+                # Skip obvious navigation/UI elements
+                if any(word in title_lower for word in exclude_words):
+                    continue
+                
+                # Check if it's in main content area (better context)
+                parent_element = await h1.query_selector("xpath=..")
+                parent_class = ""
+                if parent_element:
+                    parent_class = (await parent_element.get_attribute("class") or "").lower()
+                
+                # Scoring system
+                score = len(title_text)  # Base score is length
+                
+                # Bonus points for being in article/content areas
+                if any(keyword in parent_class for keyword in ['article', 'content', 'story', 'headline', 'main']):
+                    score += 100
+                
+                # Penalty for generic single words
+                if title_lower in generic_words:
+                    score -= 200
+                
+                # Bonus for having multiple words (real titles are usually descriptive)
+                word_count = len(title_text.split())
+                if word_count >= 3:
+                    score += 50
+                elif word_count >= 2:
+                    score += 25
+                
+                # Penalty for very short titles unless they seem legitimate
+                if len(title_text) < 15 and word_count == 1:
+                    score -= 100
+                
+                candidates.append({
+                    'text': title_text,
+                    'score': score,
+                    'length': len(title_text),
+                    'word_count': word_count
+                })
+                
+            except:
+                continue
+        
+        # Sort by score (descending)
+        candidates.sort(key=lambda x: x['score'], reverse=True)
+        
+        if candidates and candidates[0]['score'] > 0:
+            best_title = candidates[0]['text']
+            logger.info(f"✅ Using best h1 title (score: {candidates[0]['score']}): {best_title}")
+            return clean_title_suffix(best_title)
+        
+        # Strategy 2: Try article-specific selectors
+        article_selectors = [
+            "article h1",
+            ".article-title",
+            ".headline",
+            ".story-title",
+            ".post-title",
+            "[data-testid*='headline']",
+            "[class*='headline']"
+        ]
+        
+        for selector in article_selectors:
+            try:
+                element = await page.query_selector(selector)
+                if element:
+                    title_text = await element.inner_text()
+                    if title_text and len(title_text.strip()) > 5:
+                        title_text = title_text.strip()
+                        if title_text.lower() not in generic_words:
+                            logger.info(f"✅ Using article selector title: {title_text}")
+                            return clean_title_suffix(title_text)
+            except:
+                continue
+        
+        # Strategy 3: Try Open Graph title (but validate it's not generic)
+        try:
+            og_element = await page.query_selector("meta[property='og:title']")
+            if og_element:
+                og_title = await og_element.get_attribute("content")
+                if og_title and len(og_title.strip()) > 5:
+                    og_title = og_title.strip()
+                    # Don't use if it's just a generic word
+                    if og_title.lower() not in generic_words and len(og_title.split()) >= 2:
+                        logger.info(f"✅ Using OG title: {og_title}")
+                        return clean_title_suffix(og_title)
+        except:
+            pass
+        
+        # Strategy 4: Try JSON-LD structured data
+        try:
+            json_ld_scripts = await page.query_selector_all("script[type='application/ld+json']")
+            for script in json_ld_scripts:
+                try:
+                    content = await script.inner_text()
+                    import json
+                    data = json.loads(content)
+                    
+                    # Handle both single objects and arrays
+                    items = data if isinstance(data, list) else [data]
+                    
+                    for item in items:
+                        if isinstance(item, dict):
+                            # Look for article or news article
+                            if item.get('@type') in ['Article', 'NewsArticle']:
+                                headline = item.get('headline')
+                                if headline and len(headline.strip()) > 5:
+                                    headline = headline.strip()
+                                    if headline.lower() not in generic_words:
+                                        logger.info(f"✅ Using JSON-LD headline: {headline}")
+                                        return clean_title_suffix(headline)
+                except:
+                    continue
+        except:
+            pass
+        
+        # Strategy 5: Use page title as last resort (but clean it)
+        if page_title and len(page_title.strip()) > 5:
+            page_title = page_title.strip()
+            # Remove common suffixes from page titles
+            suffixes_to_remove = [' - NDTV', ' | NDTV', ' - News', ' | News', ' - Latest News']
+            for suffix in suffixes_to_remove:
+                if page_title.endswith(suffix):
+                    page_title = page_title[:-len(suffix)].strip()
+                    break
+            
+            if page_title.lower() not in generic_words:
+                logger.info(f"✅ Using cleaned page title: {page_title}")
+                return clean_title_suffix(page_title)
+        
+        return "No Title Found"
+        
+    except Exception as e:
+        logger.error(f"Error extracting title: {e}")
+        return page_title or "Error Extracting Title"
+
+def get_site_specific_selectors(url: str) -> List[str]:
+    """Get site-specific content selectors based on the URL"""
+    selectors = []
+    
+    # Indian News Sites
+    if "hindustantimes.com" in url:
+        selectors.extend([
+            ".storyDetails",
+            "#main-content", 
+            ".detail",
+            ".story-element-text",
+            ".htImport",
+            ".story-details"
+        ])
+    elif "timesofindia.indiatimes.com" in url:
+        selectors.extend([
+            "._3WlLe",
+            ".Normal",
+            ".ga-headlines",
+            "._1_Akb",
+            ".story_content",
+            "#artext"
+        ])
+    elif "indianexpress.com" in url:
+        selectors.extend([
+            ".story_details",
+            ".full-details",
+            "#pcl-full-content",
+            ".ie-first-publish",
+            ".story-element"
+        ])
+    elif "ndtv.com" in url:
+        selectors.extend([
+            ".sp-cn",
+            ".story__content",
+            ".ins_storybody",
+            "#ins_storybody",
+            ".content_text"
+        ])
+    elif "news18.com" in url:
+        selectors.extend([
+            ".article-box",
+            ".story-article-box",
+            ".story_content_div",
+            ".article_content"
+        ])
+    elif "zeenews.india.com" in url:
+        selectors.extend([
+            ".article-box",
+            ".story-text",
+            "#story-text",
+            ".article_content"
+        ])
+    elif "deccanherald.com" in url:
+        selectors.extend([
+            ".story-element-text",
+            ".article-content",
+            ".story-content",
+            "#article-content"
+        ])
+    elif "thehindu.com" in url:
+        selectors.extend([
+            ".article-body",
+            ".story-content",
+            "#content-body-14269002",
+            ".story-element"
+        ])
+    elif "economictimes.indiatimes.com" in url:
+        selectors.extend([
+            ".artText",
+            ".Normal",
+            "#pageContent",
+            ".story_content"
+        ])
+    elif "livemint.com" in url:
+        selectors.extend([
+            ".FirstEle",
+            ".paywall",
+            ".story-element",
+            "#container"
+        ])
+    elif "businesstoday.in" in url:
+        selectors.extend([
+            ".story-kicker",
+            ".story-content",
+            ".article-content",
+            "#story-content"
+        ])
+    elif "financialexpress.com" in url:
+        selectors.extend([
+            ".main-story",
+            ".story-content",
+            ".article-content",
+            "#article-content"
+        ])
+    elif "moneycontrol.com" in url:
+        selectors.extend([
+            ".content_wrapper",
+            ".arti-flow",
+            "#article-main",
+            ".article-wrap"
+        ])
+    elif "business-standard.com" in url:
+        selectors.extend([
+            ".story-content-new",
+            ".story-element-text",
+            "#story-content",
+            ".article-content"
+        ])
+    elif "scroll.in" in url:
+        selectors.extend([
+            ".story-element",
+            ".story-content",
+            "#story-content-body",
+            ".article-content"
+        ])
+    elif "thewire.in" in url:
+        selectors.extend([
+            ".td-post-content",
+            ".story-content",
+            "#story-content",
+            ".article-content"
+        ])
+    elif "newslaundry.com" in url:
+        selectors.extend([
+            ".story-content",
+            ".article-content",
+            "#story-content",
+            ".post-content"
+        ])
+    elif "caravanmagazine.in" in url:
+        selectors.extend([
+            ".story-content",
+            ".article-body",
+            "#article-content",
+            ".post-content"
+        ])
+    elif "outlookindia.com" in url:
+        selectors.extend([
+            ".story-content",
+            ".article-content",
+            "#story-content",
+            ".main-content"
+        ])
+    elif "india.com" in url:
+        selectors.extend([
+            ".story-content",
+            ".article-content",
+            "#article-content",
+            ".main-content"
+        ])
+    elif "firstpost.com" in url:
+        selectors.extend([
+            ".story-element",
+            ".article-content",
+            "#story-content",
+            ".main-content"
+        ])
+    elif "news.abplive.com" in url:
+        selectors.extend([
+            ".story-content",
+            ".article-content",
+            "#story-content",
+            ".main-content"
+        ])
+    elif "aajtak.in" in url:
+        selectors.extend([
+            ".story-content",
+            ".article-content",
+            "#story-content",
+            ".main-content"
+        ])
+    elif "republicworld.com" in url:
+        selectors.extend([
+            ".story-content",
+            ".article-content",
+            "#story-content",
+            ".main-content"
+        ])
+    elif "timesnownews.com" in url:
+        selectors.extend([
+            ".story-content",
+            ".article-content",
+            "#story-content",
+            ".main-content"
+        ])
+    
+    # International News Sites
+    elif "cnn.com" in url:
+        selectors.extend([
+            ".zn-body__paragraph",
+            ".el__leafmedia--sourced-paragraph",
+            ".zn-body__read-all",
+            ".pg-rail-tall__head"
+        ])
+    elif "bbc.com" in url or "bbc.co.uk" in url:
+        selectors.extend([
+            "[data-component='text-block']",
+            ".story-body__inner",
+            ".gel-body-copy",
+            "#story-body"
+        ])
+    elif "reuters.com" in url:
+        selectors.extend([
+            "[data-testid='paragraph']",
+            ".StandardArticleBody_body",
+            ".ArticleBodyWrapper",
+            ".PaywallBarrier-container"
+        ])
+    elif "nytimes.com" in url:
+        selectors.extend([
+            ".StoryBodyCompanionColumn",
+            "[name='articleBody']",
+            ".css-53u6y8",
+            ".story-content"
+        ])
+    elif "washingtonpost.com" in url:
+        selectors.extend([
+            ".article-body",
+            "[data-qa='article-body']",
+            ".paywall",
+            "#article-body"
+        ])
+    elif "wsj.com" in url:
+        selectors.extend([
+            ".wsj-snippet-body",
+            ".article-content",
+            "#articleBody",
+            ".snippet-promotion"
+        ])
+    elif "bloomberg.com" in url:
+        selectors.extend([
+            "[data-module='ArticleBody']",
+            ".body-content",
+            ".fence-body",
+            "#article-content-body"
+        ])
+    elif "guardian.com" in url or "theguardian.com" in url:
+        selectors.extend([
+            ".article-body-commercial-selector",
+            ".content__article-body",
+            "#maincontent",
+            ".prose"
+        ])
+    elif "independent.co.uk" in url:
+        selectors.extend([
+            ".sc-1tw117-0",
+            "#main",
+            ".body-content",
+            ".article-body"
+        ])
+    elif "telegraph.co.uk" in url:
+        selectors.extend([
+            ".article-body-text",
+            "#article-body",
+            ".story-body",
+            ".article-content"
+        ])
+    elif "ap.org" in url or "apnews.com" in url:
+        selectors.extend([
+            ".Article",
+            "[data-key='article']",
+            ".story-content",
+            "#article-content"
+        ])
+    elif "npr.org" in url:
+        selectors.extend([
+            "#storytext",
+            ".storytext",
+            ".story-content",
+            "#article-content"
+        ])
+    elif "foxnews.com" in url:
+        selectors.extend([
+            ".article-body",
+            ".article-text",
+            "#article-content",
+            ".story-content"
+        ])
+    elif "nbcnews.com" in url:
+        selectors.extend([
+            "[data-module='ArticleBody']",
+            ".articleBody",
+            "#article-content",
+            ".story-content"
+        ])
+    elif "cbsnews.com" in url:
+        selectors.extend([
+            ".content__body",
+            "#article-wrap",
+            ".story-content",
+            "#article-content"
+        ])
+    elif "abcnews.go.com" in url:
+        selectors.extend([
+            ".Article__Content",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "usatoday.com" in url:
+        selectors.extend([
+            ".story-body",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "politico.com" in url:
+        selectors.extend([
+            ".story-text",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "huffpost.com" in url or "huffingtonpost.com" in url:
+        selectors.extend([
+            ".entry__text",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "axios.com" in url:
+        selectors.extend([
+            ".gtm-story-text",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "vox.com" in url:
+        selectors.extend([
+            ".c-entry-content",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "buzzfeednews.com" in url:
+        selectors.extend([
+            ".news-article-header__body",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "vice.com" in url:
+        selectors.extend([
+            ".article__body",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "slate.com" in url:
+        selectors.extend([
+            ".article__content",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "theatlantic.com" in url:
+        selectors.extend([
+            ".article-body",
+            "#article-content",
+            ".story-content",
+            ".c-article-body"
+        ])
+    elif "newyorker.com" in url:
+        selectors.extend([
+            ".SectionBreak",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "time.com" in url:
+        selectors.extend([
+            ".padded",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "newsweek.com" in url:
+        selectors.extend([
+            ".article-body",
+            "#article-content",
+            ".story-content",
+            ".main-article"
+        ])
+    elif "fortune.com" in url:
+        selectors.extend([
+            ".article-content",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "forbes.com" in url:
+        selectors.extend([
+            ".article-body",
+            "#article-content",
+            ".story-content",
+            ".body-container"
+        ])
+    elif "businessinsider.com" in url:
+        selectors.extend([
+            ".content-lock-content",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "techcrunch.com" in url:
+        selectors.extend([
+            ".article-content",
+            "#article-content",
+            ".story-content",
+            ".entry-content"
+        ])
+    elif "theverge.com" in url:
+        selectors.extend([
+            ".c-entry-content",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "wired.com" in url:
+        selectors.extend([
+            ".article__chunks",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "arstechnica.com" in url:
+        selectors.extend([
+            ".article-content",
+            "#article-content",
+            ".story-content",
+            ".post-content"
+        ])
+    elif "engadget.com" in url:
+        selectors.extend([
+            ".article-text",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "gizmodo.com" in url:
+        selectors.extend([
+            ".post-content",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "mashable.com" in url:
+        selectors.extend([
+            ".article-content",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "venturebeat.com" in url:
+        selectors.extend([
+            ".article-content",
+            "#article-content",
+            ".story-content",
+            ".post-content"
+        ])
+    elif "zdnet.com" in url:
+        selectors.extend([
+            ".storyBody",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "cnet.com" in url:
+        selectors.extend([
+            ".article-main-body",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "9to5mac.com" in url or "9to5google.com" in url:
+        selectors.extend([
+            ".post-content",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "macrumors.com" in url:
+        selectors.extend([
+            ".article-content",
+            "#article-content",
+            ".story-content",
+            ".post-content"
+        ])
+    elif "androidcentral.com" in url:
+        selectors.extend([
+            ".article-body",
+            "#article-content",
+            ".story-content",
+            ".post-content"
+        ])
+    elif "imore.com" in url:
+        selectors.extend([
+            ".article-body",
+            "#article-content",
+            ".story-content",
+            ".post-content"
+        ])
+    
+    # Regional/Other International Sites
+    elif "aljazeera.com" in url:
+        selectors.extend([
+            ".wysiwyg",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "rt.com" in url:
+        selectors.extend([
+            ".article__text",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "dw.com" in url:
+        selectors.extend([
+            ".longText",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "france24.com" in url:
+        selectors.extend([
+            ".article-body",
+            "#article-content",
+            ".story-content",
+            ".main-content"
+        ])
+    elif "euronews.com" in url:
+        selectors.extend([
+            ".article-body",
+            "#article-content",
+            ".story-content",
+            ".main-content"
+        ])
+    elif "scmp.com" in url:
+        selectors.extend([
+            ".article-body",
+            "#article-content",
+            ".story-content",
+            ".main-content"
+        ])
+    elif "japantimes.co.jp" in url:
+        selectors.extend([
+            ".article-body",
+            "#article-content",
+            ".story-content",
+            ".main-content"
+        ])
+    elif "straitstimes.com" in url:
+        selectors.extend([
+            ".story-content",
+            "#article-content",
+            ".article-body",
+            ".main-content"
+        ])
+    elif "thestar.com.my" in url:
+        selectors.extend([
+            ".story-content",
+            "#article-content",
+            ".article-body",
+            ".main-content"
+        ])
+    elif "dawn.com" in url:
+        selectors.extend([
+            ".story__content",
+            "#article-content",
+            ".story-content",
+            ".article-body"
+        ])
+    elif "thenews.com.pk" in url:
+        selectors.extend([
+            ".story-content",
+            "#article-content",
+            ".article-body",
+            ".main-content"
+        ])
+    elif "dailystar.com.lb" in url:
+        selectors.extend([
+            ".story-content",
+            "#article-content",
+            ".article-body",
+            ".main-content"
+        ])
+    elif "arabnews.com" in url:
+        selectors.extend([
+            ".article-content",
+            "#article-content",
+            ".story-content",
+            ".main-content"
+        ])
+    
+    return selectors
+
+def get_site_specific_title_selectors(url: str) -> List[str]:
+    """Get site-specific title selectors based on the URL"""
+    selectors = []
+    
+    # Indian News Sites
+    if "hindustantimes.com" in url:
+        selectors.extend([".headline", ".story-headline", ".main-heading"])
+    elif "timesofindia.indiatimes.com" in url:
+        selectors.extend([".HNMDR", "._2ssWP", ".headline"])
+    elif "indianexpress.com" in url:
+        selectors.extend([".native_story_title", ".story-title", ".headline"])
+    elif "ndtv.com" in url:
+        selectors.extend([".sp-ttl", ".story__headline", ".headline"])
+    elif "news18.com" in url:
+        selectors.extend([".article-heading", ".story-headline"])
+    elif "thehindu.com" in url:
+        selectors.extend([".title", ".story-headline", ".article-headline"])
+    elif "economictimes.indiatimes.com" in url:
+        selectors.extend([".artTitle", ".headline", "h1.title"])
+    elif "livemint.com" in url:
+        selectors.extend([".headline", ".story-headline", ".main-title"])
+    elif "businesstoday.in" in url:
+        selectors.extend([".story-headline", ".headline", ".main-title"])
+    elif "financialexpress.com" in url:
+        selectors.extend([".story-headline", ".headline", ".main-title"])
+    elif "moneycontrol.com" in url:
+        selectors.extend([".article_title", ".headline", ".main-title"])
+    elif "business-standard.com" in url:
+        selectors.extend([".story-headline", ".headline", ".main-title"])
+    elif "scroll.in" in url:
+        selectors.extend([".story-headline", ".headline", ".main-title"])
+    elif "thewire.in" in url:
+        selectors.extend([".td-post-title", ".headline", ".main-title"])
+    elif "newslaundry.com" in url:
+        selectors.extend([".story-headline", ".headline", ".main-title"])
+    elif "caravanmagazine.in" in url:
+        selectors.extend([".story-headline", ".headline", ".main-title"])
+    elif "outlookindia.com" in url:
+        selectors.extend([".story-headline", ".headline", ".main-title"])
+    elif "india.com" in url:
+        selectors.extend([".story-headline", ".headline", ".main-title"])
+    elif "firstpost.com" in url:
+        selectors.extend([".story-headline", ".headline", ".main-title"])
+    elif "news.abplive.com" in url:
+        selectors.extend([".story-headline", ".headline", ".main-title"])
+    elif "aajtak.in" in url:
+        selectors.extend([".story-headline", ".headline", ".main-title"])
+    elif "republicworld.com" in url:
+        selectors.extend([".story-headline", ".headline", ".main-title"])
+    elif "timesnownews.com" in url:
+        selectors.extend([".story-headline", ".headline", ".main-title"])
+    
+    # International News Sites  
+    elif "cnn.com" in url:
+        selectors.extend([".headline__text", ".pg-headline", ".cd__headline"])
+    elif "bbc.com" in url or "bbc.co.uk" in url:
+        selectors.extend([".story-headline", ".gel-trafalgar-bold", "#main-heading"])
+    elif "reuters.com" in url:
+        selectors.extend([".ArticleHeader_headline", "[data-testid='Headline']"])
+    elif "nytimes.com" in url:
+        selectors.extend([".css-fwqvlz", "[data-testid='headline']", ".story-headline"])
+    elif "washingtonpost.com" in url:
+        selectors.extend([".headline", "[data-qa='headline']", ".article-headline"])
+    elif "wsj.com" in url:
+        selectors.extend([".wsj-article-headline", ".headline", ".article-headline"])
+    elif "bloomberg.com" in url:
+        selectors.extend([".lede-text-only__headline", "[data-module='Headline']"])
+    elif "guardian.com" in url or "theguardian.com" in url:
+        selectors.extend([".content__headline", ".headline", ".article-headline"])
+    elif "independent.co.uk" in url:
+        selectors.extend([".sc-1effbv5-0", ".headline", ".article-headline"])
+    elif "telegraph.co.uk" in url:
+        selectors.extend([".headline", ".article-headline", ".story-headline"])
+    elif "ap.org" in url or "apnews.com" in url:
+        selectors.extend([".Component-headline-0-2-89", ".headline", ".article-headline"])
+    elif "npr.org" in url:
+        selectors.extend([".storytitle", ".headline", ".article-headline"])
+    elif "foxnews.com" in url:
+        selectors.extend([".headline", ".article-headline", ".story-headline"])
+    elif "nbcnews.com" in url:
+        selectors.extend([".articleTitle", ".headline", ".article-headline"])
+    elif "cbsnews.com" in url:
+        selectors.extend([".content__title", ".headline", ".article-headline"])
+    elif "abcnews.go.com" in url:
+        selectors.extend([".Article__Headline", ".headline", ".article-headline"])
+    elif "usatoday.com" in url:
+        selectors.extend([".asset-headline", ".headline", ".article-headline"])
+    elif "politico.com" in url:
+        selectors.extend([".headline", ".article-headline", ".story-headline"])
+    elif "huffpost.com" in url or "huffingtonpost.com" in url:
+        selectors.extend([".headline__text", ".headline", ".article-headline"])
+    elif "axios.com" in url:
+        selectors.extend([".gtm-story-headline", ".headline", ".article-headline"])
+    elif "vox.com" in url:
+        selectors.extend([".c-page-title", ".headline", ".article-headline"])
+    elif "buzzfeednews.com" in url:
+        selectors.extend([".news-article-header__title", ".headline", ".article-headline"])
+    elif "vice.com" in url:
+        selectors.extend([".article__title", ".headline", ".article-headline"])
+    elif "slate.com" in url:
+        selectors.extend([".article__hed", ".headline", ".article-headline"])
+    elif "theatlantic.com" in url:
+        selectors.extend([".article-header__title", ".headline", ".article-headline"])
+    elif "newyorker.com" in url:
+        selectors.extend([".ArticleHeader__hed", ".headline", ".article-headline"])
+    elif "time.com" in url:
+        selectors.extend([".headline", ".article-headline", ".story-headline"])
+    elif "newsweek.com" in url:
+        selectors.extend([".title", ".headline", ".article-headline"])
+    elif "fortune.com" in url:
+        selectors.extend([".article-headline", ".headline", ".story-headline"])
+    elif "forbes.com" in url:
+        selectors.extend([".article-headline", ".headline", ".story-headline"])
+    elif "businessinsider.com" in url:
+        selectors.extend([".post-headline", ".headline", ".article-headline"])
+    elif "techcrunch.com" in url:
+        selectors.extend([".article__title", ".headline", ".entry-title"])
+    elif "theverge.com" in url:
+        selectors.extend([".c-page-title", ".headline", ".article-headline"])
+    elif "wired.com" in url:
+        selectors.extend([".ContentHeaderHed", ".headline", ".article-headline"])
+    elif "arstechnica.com" in url:
+        selectors.extend([".article-title", ".headline", ".post-title"])
+    elif "engadget.com" in url:
+        selectors.extend([".article-title", ".headline", ".story-headline"])
+    elif "gizmodo.com" in url:
+        selectors.extend([".headline", ".post-title", ".article-headline"])
+    elif "mashable.com" in url:
+        selectors.extend([".article-title", ".headline", ".story-headline"])
+    elif "venturebeat.com" in url:
+        selectors.extend([".article-title", ".headline", ".post-title"])
+    elif "zdnet.com" in url:
+        selectors.extend([".storyTitle", ".headline", ".article-headline"])
+    elif "cnet.com" in url:
+        selectors.extend([".article-headline", ".headline", ".story-headline"])
+    elif "9to5mac.com" in url or "9to5google.com" in url:
+        selectors.extend([".post-title", ".headline", ".article-headline"])
+    elif "macrumors.com" in url:
+        selectors.extend([".article-title", ".headline", ".post-title"])
+    elif "androidcentral.com" in url:
+        selectors.extend([".article-title", ".headline", ".post-title"])
+    elif "imore.com" in url:
+        selectors.extend([".article-title", ".headline", ".post-title"])
+    elif "aljazeera.com" in url:
+        selectors.extend([".article-heading", ".headline", ".story-headline"])
+    elif "rt.com" in url:
+        selectors.extend([".article__heading", ".headline", ".story-headline"])
+    elif "dw.com" in url:
+        selectors.extend([".article-title", ".headline", ".story-headline"])
+    elif "france24.com" in url:
+        selectors.extend([".article-title", ".headline", ".story-headline"])
+    elif "euronews.com" in url:
+        selectors.extend([".article-title", ".headline", ".story-headline"])
+    elif "scmp.com" in url:
+        selectors.extend([".article-title", ".headline", ".story-headline"])
+    elif "japantimes.co.jp" in url:
+        selectors.extend([".article-title", ".headline", ".story-headline"])
+    elif "straitstimes.com" in url:
+        selectors.extend([".story-headline", ".headline", ".article-title"])
+    elif "thestar.com.my" in url:
+        selectors.extend([".story-headline", ".headline", ".article-title"])
+    elif "dawn.com" in url:
+        selectors.extend([".story__title", ".headline", ".story-headline"])
+    elif "thenews.com.pk" in url:
+        selectors.extend([".story-headline", ".headline", ".article-title"])
+    elif "dailystar.com.lb" in url:
+        selectors.extend([".story-headline", ".headline", ".article-title"])
+    elif "arabnews.com" in url:
+        selectors.extend([".article-title", ".headline", ".story-headline"])
+    
+    return selectors
+
+def clean_title_suffix(title: str) -> str:
+    """
+    Clean common suffixes from titles
+    """
+    if not title:
+        return title
+    
+    # Common suffixes to remove
+    suffixes = [
+        ' - NDTV', ' | NDTV', ' - NDTV.com', ' | NDTV.com',
+        ' - News', ' | News', ' - Latest News', ' | Latest News',
+        ' - Breaking News', ' | Breaking News',
+        ' - Video', ' | Video', ' - Videos', ' | Videos',
+        ' - Watch', ' | Watch'
+    ]
+    
+    for suffix in suffixes:
+        if title.endswith(suffix):
+            title = title[:-len(suffix)].strip()
+            break
+    
+    return title
 
 async def extract_article_details_playwright(url: str, page, timeout: int = 10) -> Dict:
     """
@@ -332,7 +1504,10 @@ async def extract_article_details_playwright(url: str, page, timeout: int = 10) 
             pass
         
         # Extract the page title
-        title = await page.title()
+        page_title = await page.title()
+        
+        # Extract a clean article title using multiple strategies
+        clean_title = await extract_clean_title(page, page_title)
         
         # Enhanced image extraction with quality scoring
         best_image = None
@@ -397,7 +1572,7 @@ async def extract_article_details_playwright(url: str, page, timeout: int = 10) 
         return {
             "resolved_url": current_url,
             "image_url": image_url,
-            "title": title or None,
+            "title": clean_title,  # Use the clean title
             "description": description
         }
     except Exception as e:
@@ -565,7 +1740,7 @@ def generate_summary(text: str, max_words: int = 60) -> str:
 async def process_single_article_playwright(article: Dict, page, timeout: int) -> Dict:
     """Process a single article using Playwright"""
     try:
-        title = article.get('title', 'Unknown Title')
+        input_title = article.get('title', 'Unknown Title')
         url = article.get('link')
         source = article.get('source', 'Unknown Source')
         published = article.get('published', '')
@@ -573,7 +1748,7 @@ async def process_single_article_playwright(article: Dict, page, timeout: int) -
         if not url:
             return {
                 'id': 'no-url',
-                'title': title,
+                'title': input_title,
                 'source': source,
                 'url': '',
                 'image_url': 'https://via.placeholder.com/300x150?text=No+URL',
@@ -581,41 +1756,46 @@ async def process_single_article_playwright(article: Dict, page, timeout: int) -
                 'error': 'No URL provided'
             }
         
-        logger.debug(f"🔄 Processing: {title[:50]}... - {source}")
+        logger.debug(f"🔄 Processing: {input_title[:50]}... - {source}")
         
         # Extract article details using Playwright
         article_details = await extract_article_details_playwright(url, page, timeout)
         
-        # Summary generation removed - using only description field
+        # Use the extracted title from the page, falling back to input title if needed
+        final_title = article_details['title'] or input_title
         
         # Generate a unique ID for the article
-        article_id = generate_article_id(url, title, source)
+        article_id = generate_article_id(url, final_title, source)
         
         # Calculate content quality score
         quality_score = calculate_content_quality_score(
-            title, article_details['image_url'], 
+            final_title, article_details['image_url'], 
             article_details['description'], source
         )
         
-        # Create Inshorts-style article with quality score
+        # Generate content hash for duplicate detection
+        content_hash = hashlib.md5(article_details['description'][:200].encode()).hexdigest() if article_details['description'] else None
+        
+        # Create Inshorts-style article with quality score and content hash
         processed_article = {
             'id': article_id,
-            'title': title,
+            'title': final_title,  # Use the clean title extracted from the page
             'source': source,
             'url': article_details['resolved_url'] or url,
             'image_url': article_details['image_url'],
             'description': article_details['description'],
             'published': published,
-            'quality_score': quality_score
+            'quality_score': quality_score,
+            'content_hash': content_hash
         }
         
         return processed_article
         
     except Exception as e:
-        logger.error(f"Error processing article {title[:50]}...: {e}")
+        logger.error(f"Error processing article {input_title[:50]}...: {e}")
         return {
             'id': 'error',
-            'title': title,
+            'title': input_title,
             'source': source,
             'url': url or '',
             'image_url': 'https://via.placeholder.com/300x150?text=Error',
@@ -673,6 +1853,13 @@ async def process_news_data_playwright(news_data: Dict, max_articles: int, timeo
                 logger.info(f"📰 Article {i+1}/{len(articles_to_process)}")
                 
                 result = await process_single_article_playwright(article, page, timeout)
+                
+                # Check for duplicate content before adding
+                if 'error' not in result and result.get('description'):
+                    if is_duplicate_content(result['description'], processed_articles):
+                        logger.info(f"🔄 Skipping duplicate content: {result['title'][:50]}...")
+                        continue
+                
                 processed_articles.append(result)
                 
                 if 'error' not in result:
