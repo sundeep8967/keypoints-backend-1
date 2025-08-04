@@ -472,6 +472,48 @@ def generate_key_points(description: str, title: str = "") -> List[str]:
         sentences = re.split(r'[.!?]+', text)
         sentences = [s.strip() for s in sentences if len(s.strip()) > 20]
         
+        # Filter out website UI/metadata sentences - EXPANDED LIST
+        ui_patterns = [
+            'show quick read', 'ai-generated', 'newsroom-reviewed', 'did our ai',
+            'switch to beeps', 'read time:', 'share twitter', 'whatsapp facebook',
+            'reported by:', 'published on', 'last updated', 'subscribe', 'newsletter',
+            'follow us', 'click here', 'read more', 'view full article', 'continue reading',
+            'related articles', 'trending now', 'breaking news updates', 'live updates',
+            'photo gallery', 'watch video', 'also read', 'you may like', 'recommended',
+            # Website navigation and headers
+            'epaper', 'bizzbuzz', 'hmtv live', 'hans app', 'latest news', 'menu',
+            'trending :', 'home >', 'entertainment', 'photo stories', 'sports',
+            'editorial', 'technology', 'lifestyle', 'education & careers', 'business',
+            'hyderabad', 'cricket', 'delhi region', 'karnataka', 'telangana',
+            'andhra pradesh', 'visakhapatnam', 'festival of democracy',
+            # Social media and sharing
+            'email article', 'print article', 'telegram', 'click here to join',
+            'stay updated', 'more stories', 'advertisement', 'advertise with us',
+            # Website footer and legal
+            'terms & conditions', 'privacy policy', 'disclaimer', 'sitemap',
+            'all rights reserved', 'powered by', 'contact us', 'about us',
+            'subscriber terms', 'company', 'media house limited',
+            # Navigation breadcrumbs
+            'news > state >', 'home > news >', 'state > karnataka >',
+            # Author and timestamp patterns
+            'news service |', 'am ist', 'pm ist', 'representational image'
+        ]
+        
+        # Filter sentences that contain UI patterns
+        filtered_sentences = []
+        for sentence in sentences:
+            sentence_lower = sentence.lower()
+            is_ui_text = any(pattern in sentence_lower for pattern in ui_patterns)
+            
+            # Also filter sentences that look like timestamps or metadata
+            if (not is_ui_text and 
+                not re.match(r'.*\d{4}\s+\d{1,2}:\d{2}\s+(am|pm)', sentence_lower) and  # timestamps
+                not re.match(r'.*(published|updated|reported).*\d{4}', sentence_lower) and  # publication info
+                not sentence_lower.startswith(('share ', 'follow ', 'subscribe '))):  # social media
+                filtered_sentences.append(sentence)
+        
+        sentences = filtered_sentences
+        
         if len(sentences) < 2:
             return []
         
@@ -503,57 +545,8 @@ def generate_key_points(description: str, title: str = "") -> List[str]:
             if not sentence.endswith(('.', '!', '?')):
                 sentence += '.'
             
-            # Determine category based on content patterns
-            sentence_lower = sentence.lower()
-            
-            # Extract main subject/entity for the key point
-            entities = extract_key_entities(sentence)
-            main_entity = entities[0] if entities else "Key Update"
-            
-            # Clean the main entity
-            main_entity = re.sub(r'[^\w\s]', '', main_entity).strip()
-            if len(main_entity) > 25:
-                main_entity = main_entity[:25] + "..."
-            
-            category = "**Key Update**"
-            
-            # Pattern-based categorization
-            if any(word in sentence_lower for word in ['said', 'announced', 'stated', 'declared', 'confirmed']):
-                if main_entity and main_entity != "Key Update":
-                    category = f"**{main_entity} Statement**"
-                else:
-                    category = "**Official Statement**"
-            
-            elif any(word in sentence_lower for word in ['protest', 'rally', 'demonstration', 'march']):
-                category = "**Protest Update**"
-            
-            elif any(word in sentence_lower for word in ['died', 'killed', 'death', 'casualties', 'injured']):
-                category = "**Casualty Report**"
-            
-            elif any(word in sentence_lower for word in ['timeline', 'when', 'after', 'before', 'during', 'since']):
-                category = "**Timeline Update**"
-            
-            elif any(word in sentence_lower for word in ['what is', 'what was', 'this is', 'it is']):
-                category = "**What Is Update**"
-            
-            elif any(word in sentence_lower for word in ['past', 'previous', 'earlier', 'before', 'history']):
-                category = "**The Past Update**"
-            
-            elif any(word in sentence_lower for word in ['video', 'footage', 'images', 'photos', 'released']):
-                category = "**Media Release**"
-            
-            elif any(word in sentence_lower for word in ['government', 'authorities', 'officials', 'minister']):
-                category = "**Government Update**"
-            
-            elif re.search(r'\d+', sentence):
-                category = "**Statistics Update**"
-            
-            elif main_entity and main_entity != "Key Update" and len(main_entity) < 20:
-                category = f"**{main_entity}**"
-            
-            # Format the key point
-            key_point = f"{category}: {sentence}"
-            key_points.append(key_point)
+            # Just add the clean sentence directly to key_points
+            key_points.append(sentence)
         
         # If we have fewer than 3 key points, try to extract more
         if len(key_points) < 3 and len(sentences) > len(key_points):
@@ -563,8 +556,8 @@ def generate_key_points(description: str, title: str = "") -> List[str]:
                     sentence = sentence.strip()
                     if not sentence.endswith(('.', '!', '?')):
                         sentence += '.'
-                    key_point = f"**Additional Update**: {sentence}"
-                    key_points.append(key_point)
+                    # Just add the sentence without sub-headings
+                    key_points.append(sentence)
         
         return key_points[:5]  # Return max 5 key points
         
@@ -767,12 +760,19 @@ def get_site_specific_selectors(url: str) -> List[str]:
         ])
     elif "timesofindia.indiatimes.com" in url:
         selectors.extend([
+            ".contentwrapper",
+            ".MvyrO",
+            ".awuxh",
+            ".HTz_b", 
             "._3WlLe",
             ".Normal",
             ".ga-headlines",
             "._1_Akb",
             ".story_content",
-            "#artext"
+            "#artext",
+            "[data-articlebody]",
+            ".article-content",
+            ".story-body"
         ])
     elif "indianexpress.com" in url:
         selectors.extend([
@@ -1569,52 +1569,96 @@ async def extract_article_details_playwright(url: str, page, timeout: int = 10) 
         current_url = page.url
         logger.info(f"Current URL after redirects: {current_url}")
         
-        # HANDLE GOOGLE NEWS REDIRECTS - Improved with Playwright
-        if "news.google.com" in current_url:
-            logger.info("🔄 Detected Google News page, attempting to click through to actual article...")
+        # HANDLE GOOGLE NEWS REDIRECTS - Enhanced approach
+        if "news.google.com" in url or "news.google.com" in current_url:
+            logger.info("🔄 Detected Google News URL, attempting to resolve to actual article...")
             try:
-                # Strategy: Try multiple selectors to find article links
-                selectors_to_try = [
-                    "article a[href*='http']:not([href*='google.com']):not([href*='youtube.com'])",
-                    "a[data-n-tid]:not([href*='google.com'])",
-                    "[role='article'] a[href*='http']:not([href*='google.com'])",
-                    "h3 a[href*='http']:not([href*='google.com'])",
-                    "h4 a[href*='http']:not([href*='google.com'])",
-                    "a[href*='http']:not([href*='google.com']):not([href*='youtube.com']):not([href*='facebook.com'])",
-                    "a[href^='http']:not([href*='google'])"
-                ]
+                # Method 1: Try to decode the Google News URL directly
+                import urllib.parse
                 
-                article_links = []
-                for selector in selectors_to_try:
+                # Extract the actual URL from Google News redirect
+                if "articles/" in url:
+                    # Try to find the actual URL in the redirect
                     try:
-                        elements = await page.query_selector_all(selector)
-                        if elements:
-                            logger.info(f"✅ Found {len(elements)} links using selector: {selector}")
-                            for element in elements[:10]:  # Check first 10 links
-                                href = await element.get_attribute('href')
-                                if href and _is_valid_article_url(href):
-                                    article_links.append(href)
+                        # Wait a bit longer for potential redirects
+                        await page.wait_for_timeout(3000)
+                        
+                        # Check if we were redirected to the actual article
+                        final_url = page.url
+                        if "news.google.com" not in final_url:
+                            current_url = final_url
+                            logger.info(f"✅ Auto-redirected to: {current_url}")
+                        else:
+                            # Method 2: Try to find article links on the page
+                            logger.info("🔍 Searching for article links on Google News page...")
+                            
+                            # More comprehensive selectors for Google News
+                            selectors_to_try = [
+                                "a[href*='http']:not([href*='google.com']):not([href*='youtube.com'])",
+                                "article a",
+                                "[data-n-tid] a",
+                                "h3 a",
+                                "h4 a", 
+                                ".article a",
+                                ".story a",
+                                "[role='article'] a"
+                            ]
+                            
+                            article_links = []
+                            for selector in selectors_to_try:
+                                try:
+                                    elements = await page.query_selector_all(selector)
+                                    if elements:
+                                        logger.info(f"🔍 Found {len(elements)} links with selector: {selector}")
+                                        for element in elements[:15]:  # Check more links
+                                            href = await element.get_attribute('href')
+                                            if href and _is_valid_article_url(href):
+                                                article_links.append(href)
+                                        if article_links:
+                                            break
+                                except Exception as e:
+                                    logger.debug(f"Selector failed: {selector} - {e}")
+                                    continue
+                            
                             if article_links:
-                                break
+                                # Navigate to the first valid article link
+                                actual_url = article_links[0]
+                                logger.info(f"🔗 Found valid article link: {actual_url}")
+                                
+                                await page.goto(actual_url, wait_until="domcontentloaded", timeout=timeout*1000)
+                                await page.wait_for_timeout(2000)
+                                
+                                current_url = page.url
+                                logger.info(f"✅ Successfully redirected to: {current_url}")
+                            else:
+                                logger.warning("❌ Could not find valid article links on Google News page")
+                                # Return early with error for Google News URLs that can't be resolved
+                                return {
+                                    "resolved_url": url,
+                                    "image_url": "https://via.placeholder.com/300x150?text=Google+News+Redirect+Failed",
+                                    "title": "Google News Redirect Failed",
+                                    "description": "Could not resolve Google News URL to actual article",
+                                    "error": "Google News redirect failed"
+                                }
                     except Exception as e:
-                        logger.debug(f"Selector failed: {selector} - {e}")
-                        continue
-                
-                if article_links:
-                    # Navigate to the first valid article link
-                    actual_url = article_links[0]
-                    logger.info(f"🔗 Found valid article link: {actual_url}")
-                    
-                    await page.goto(actual_url, wait_until="domcontentloaded", timeout=timeout*1000)
-                    await page.wait_for_timeout(2000)
-                    
-                    current_url = page.url
-                    logger.info(f"✅ Redirected to actual article: {current_url}")
-                else:
-                    logger.warning("❌ No valid article links found on Google News page")
-                    
+                        logger.warning(f"❌ Error resolving Google News URL: {e}")
+                        return {
+                            "resolved_url": url,
+                            "image_url": "https://via.placeholder.com/300x150?text=Google+News+Error",
+                            "title": "Google News Processing Error", 
+                            "description": f"Error processing Google News URL: {str(e)}",
+                            "error": f"Google News error: {str(e)}"
+                        }
+                        
             except Exception as e:
                 logger.warning(f"❌ Error handling Google News redirect: {e}")
+                return {
+                    "resolved_url": url,
+                    "image_url": "https://via.placeholder.com/300x150?text=Redirect+Error",
+                    "title": "Redirect Error",
+                    "description": f"Failed to handle redirect: {str(e)}",
+                    "error": f"Redirect error: {str(e)}"
+                }
         
         # Extract Open Graph image
         og_image = None
