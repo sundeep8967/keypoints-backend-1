@@ -1,13 +1,17 @@
 # Keypoints News Backend
 
-A backend service that fetches news data using [PyGoogleNews](https://github.com/kotartemiy/pygooglenews), and provides an API to access the data.
+A comprehensive news aggregation and processing backend service that fetches news from multiple sources, processes content with AI-powered summarization, and provides a REST API for accessing curated news data. Specifically optimized for Bengaluru and Indian audiences.
 
 ## Features
 
-- REST API for fetching news data
-- GitHub Actions workflow for scheduled news fetching
-- Script for fetching news data and saving to JSON files
-- Multiple news sources: top news, topics, search, geo
+- **REST API**: FastAPI-based service with automatic documentation
+- **Multi-source News Fetching**: Uses PyGoogleNews for top news, topics, search, and geo-based news
+- **AI-Powered Summarization**: Generates Inshorts-style concise summaries using NLTK and newspaper3k
+- **Selenium Content Extraction**: Extracts images and full content from news sources
+- **Automated Workflows**: GitHub Actions for scheduled news fetching and processing
+- **Database Integration**: Supabase integration for data persistence
+- **Bengaluru-Focused**: Curated categories targeting Bengaluru and Indian audiences
+- **Rate Limiting**: Built-in API rate limiting for production use
 
 ## Installation
 
@@ -47,11 +51,20 @@ The API will be available at http://localhost:8000 with documentation at http://
 
 ### API Endpoints
 
-- `GET /` - API information
-- `GET /top-news` - Get top news stories
-- `GET /topic-headlines/{topic}` - Get headlines for a specific topic
-- `GET /search?query={query}` - Search for news with a specific query
-- `GET /geo/{location}` - Get news for a specific location
+- `GET /` - API information and available endpoints
+- `GET /top-news` - Get top news stories with optional AI summaries
+- `GET /topic-headlines/{topic}` - Get headlines for supported topics (business, technology, entertainment, sports, health, science, world)
+- `GET /search` - Search news with query parameters:
+  - `query` (required): Search term
+  - `when` (optional): Time period (1h, 1d, 7d, 1m, 1y)
+  - `from_date` (optional): Start date (YYYY-MM-DD)
+  - `to_date` (optional): End date (YYYY-MM-DD)
+- `GET /geo/{location}` - Get location-specific news
+- `GET /health` - API health check endpoint
+
+All endpoints support optional query parameters:
+- `include_summary=true` - Include AI-generated summaries
+- `inshorts_style=true` - Format summaries in Inshorts style
 
 ### Fetching News via Script
 
@@ -71,13 +84,38 @@ python scripts/fetch_news.py --type search --query "artificial intelligence" --w
 python scripts/fetch_news.py --type geo --location "San Francisco" --output data/news_sf.json
 ```
 
-## GitHub Actions Workflow
+### Generating Inshorts-style Summaries
 
-The repository includes a GitHub Actions workflow that:
+The system can generate Inshorts-style summaries from news data:
 
-1. Runs automatically every 6 hours to fetch news data
-2. Can be triggered manually with custom parameters
-3. Commits and pushes the updated data to the repository
+```bash
+# Process a single category
+python scripts/generate_inshorts_selenium.py --input data/news_top.json --output data/inshorts_top.json --max-articles 5 --headless
+
+# Process all categories at once
+python scripts/generate_all_inshorts.py --input-dir data --output-dir data --max-articles 5 --headless
+```
+
+These scripts use Selenium to:
+1. Extract proper images from original news sources
+2. Generate concise summaries of articles
+3. Resolve Google News redirect URLs to original sources
+4. Save data in a structured JSON format
+
+## Automated News Processing
+
+The system includes automated workflows for continuous news processing:
+
+### GitHub Actions Workflow
+- **Scheduled Execution**: Runs daily at 6 AM UTC
+- **Multi-step Processing**: 
+  1. Fetches news from configured categories
+  2. Extracts content and images using Selenium
+  3. Generates AI-powered summaries
+  4. Uploads processed data to Supabase
+  5. Commits updated JSON files to repository
+- **Manual Triggers**: Can be triggered manually with custom parameters
+- **Error Handling**: Robust error handling and logging throughout the pipeline
 
 ### Manual Trigger
 
@@ -96,21 +134,38 @@ You can manually trigger the workflow from the Actions tab in GitHub with the fo
 
 ```
 keypoints-backend/
-├── .github/
-│   └── workflows/
-│       └── fetch_news.yml  # GitHub Actions workflow
+├── .github/workflows/
+│   └── fetch_news.yml           # Automated news processing workflow
 ├── app/
 │   ├── __init__.py
-│   ├── api.py             # FastAPI application
-│   ├── main.py            # Application entry point
-│   └── news_service.py    # PyGoogleNews wrapper
+│   ├── api.py                   # FastAPI REST API endpoints
+│   ├── db.py                    # Supabase database operations
+│   ├── main.py                  # Application entry point
+│   ├── news_service.py          # PyGoogleNews service wrapper
+│   └── summarizer.py            # AI summarization service
+├── data/
+│   ├── news_*.json              # Raw news data by category
+│   └── inshorts_*.json          # Processed summaries
 ├── scripts/
-│   └── fetch_news.py      # Script for fetching news
-├── .env.sample            # Sample environment variables
-├── .gitignore
-├── README.md
-└── requirements.txt       # Project dependencies
+│   ├── fetch_news.py            # News fetching script
+│   ├── generate_all_inshorts.py # Batch processing script
+│   ├── generate_inshorts_selenium.py # Selenium-based content extraction
+│   ├── push_inshorts_to_supabase.py # Database upload script
+│   └── selenium_news_extractor.py # Content extraction utilities
+├── tests/
+│   ├── test_api.py              # API endpoint tests
+│   └── test_news_service.py     # Service layer tests
+├── main.py                      # Main orchestrator script
+├── requirements.txt             # Python dependencies
+└── .env.sample                  # Environment configuration template
 ```
+
+### Key Categories (Bengaluru-focused)
+- Bengaluru local news
+- Indian technology and startups
+- Indian entertainment and celebrity news
+- Indian sports and politics
+- Education and trending topics
 
 ## License
 

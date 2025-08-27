@@ -3,186 +3,39 @@ name: Fetch News
 on:
   push:
     branches:
-      - main  # Run on push to main branch
-      - master  # Run on push to master branch (if you use master)
+      - main
+      - master
   schedule:
-    # Run every 6 hours (at minute 0 of hour 0, 6, 12, and 18)
-    - cron: '0 */6 * * *'
+    # Run daily at 6 AM UTC
+    - cron: '0 6 * * *'
   workflow_dispatch:
-    inputs:
-      news_type:
-        description: 'Type of news to fetch'
-        required: true
-        default: 'top'
-        type: choice
-        options:
-          - top
-          - topic
-          - search
-          - geo
-      topic:
-        description: 'Topic for topic headlines'
-        required: false
-        type: string
-      query:
-        description: 'Query for search'
-        required: false
-        type: string
-      when:
-        description: 'Time period for search (e.g., 1h, 1d)'
-        required: false
-        type: string
-      location:
-        description: 'Location for geo news'
-        required: false
-        type: string
-      output_path:
-        description: 'Path to save output JSON file'
-        required: false
-        default: 'data/news.json'
-        type: string
 
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
-    
-    # Add permissions to allow pushing to the repository
-    permissions:
-      contents: write
+    environment: SUPABASE_URL
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        persist-credentials: true
-        fetch-depth: 0
-    
+      
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.8'  # Use 3.8 for better compatibility
+        python-version: '3.8'
     
     - name: Install dependencies
       run: |
-        # Show Python and pip versions for debugging
-        python --version
-        pip --version
-        # Install setuptools version that supports use_2to3
-        pip install "setuptools<58"
-        pip install sgmllib3k
-        pip install dateparser
-        pip install urllib3
-        pip install idna
-        pip install certifi
-        pip install soupsieve
-        pip install charset-normalizer
-        pip install chardet
-        pip install typing_extensions starlette pydantic
-        # Install summarization dependencies
-        pip install nltk newspaper3k
-        pip install 'lxml[html_clean]'
-
-        # Install dependencies from requirements.txt --no-deps
-        pip install -r requirements.txt --no-deps
-        # List installed packages for debugging
-        pip list
-    
-    - name: Verify installation
-      run: |
-        python -c "import pygooglenews; print('PyGoogleNews imported successfully')"
-        python -c "from pygooglenews import GoogleNews; print('Successfully imported GoogleNews')"
-        python -c "import fastapi; print('FastAPI imported successfully')"
-    
-    - name: Run installation test script
-      run: |
-        if [ -f scripts/test_installation.py ]; then
-          python scripts/test_installation.py
-        fi
-    
-    - name: Fetch top news (scheduled)
-      if: github.event_name == 'schedule'
-      run: |
-        # Create data directory if it doesn't exist
-        mkdir -p data
-        # General news categories
-        python scripts/fetch_news.py --type top --output data/news_top.json
-        python scripts/fetch_news.py --type topic --topic technology --output data/news_tech.json
-        python scripts/fetch_news.py --type topic --topic business --output data/news_business.json
-        # Additional categories like Inshorts
-        python scripts/fetch_news.py --type topic --topic entertainment --output data/news_entertainment.json
-        python scripts/fetch_news.py --type topic --topic sports --output data/news_sports.json
-        python scripts/fetch_news.py --type topic --topic science --output data/news_science.json
-        python scripts/fetch_news.py --type topic --topic health --output data/news_health.json
-        python scripts/fetch_news.py --type topic --topic world --output data/news_world.json
-        # Trending topics
-        python scripts/fetch_news.py --type search --query "trending" --when 1d --output data/news_trending.json
-    
-    - name: Fetch news (manual)
-      if: github.event_name == 'workflow_dispatch'
-      run: |
-        ARGS="--type ${{ github.event.inputs.news_type }} --output ${{ github.event.inputs.output_path }}"
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
         
-        if [ "${{ github.event.inputs.news_type }}" = "topic" ] && [ -n "${{ github.event.inputs.topic }}" ]; then
-          ARGS="$ARGS --topic ${{ github.event.inputs.topic }}"
-        fi
-        
-        if [ "${{ github.event.inputs.news_type }}" = "search" ] && [ -n "${{ github.event.inputs.query }}" ]; then
-          ARGS="$ARGS --query ${{ github.event.inputs.query }}"
-          
-          if [ -n "${{ github.event.inputs.when }}" ]; then
-            ARGS="$ARGS --when ${{ github.event.inputs.when }}"
-          fi
-        fi
-        
-        if [ "${{ github.event.inputs.news_type }}" = "geo" ] && [ -n "${{ github.event.inputs.location }}" ]; then
-          ARGS="$ARGS --location ${{ github.event.inputs.location }}"
-        fi
-        
-        mkdir -p $(dirname ${{ github.event.inputs.output_path }})
-        python scripts/fetch_news.py $ARGS
-    
-    - name: Fetch news (push trigger)
-      if: github.event_name == 'push'
+    - name: Install Playwright
       run: |
-        # Create data directory if it doesn't exist
-        mkdir -p data
-        # General news categories
-        python scripts/fetch_news.py --type top --output data/news_top.json
-        python scripts/fetch_news.py --type topic --topic technology --output data/news_tech.json
-        python scripts/fetch_news.py --type topic --topic business --output data/news_business.json
-        # Additional categories like Inshorts
-        python scripts/fetch_news.py --type topic --topic entertainment --output data/news_entertainment.json
-        python scripts/fetch_news.py --type topic --topic sports --output data/news_sports.json
-        python scripts/fetch_news.py --type topic --topic science --output data/news_science.json
-        python scripts/fetch_news.py --type topic --topic health --output data/news_health.json
-        python scripts/fetch_news.py --type topic --topic world --output data/news_world.json
-        # Trending topics
-        python scripts/fetch_news.py --type search --query "trending" --when 1d --output data/news_trending.json
-    
-    - name: Generate Inshorts-style news
-      if: github.event_name == 'push' || github.event_name == 'schedule'
-      run: |
-        # Generate Inshorts-style summaries for each news category
-        python scripts/generate_inshorts.py --input data/news_top.json --output data/inshorts_top.json --max-articles 10
-        python scripts/generate_inshorts.py --input data/news_tech.json --output data/inshorts_tech.json --max-articles 7
-        python scripts/generate_inshorts.py --input data/news_business.json --output data/inshorts_business.json --max-articles 7
-        python scripts/generate_inshorts.py --input data/news_entertainment.json --output data/inshorts_entertainment.json --max-articles 5
-        python scripts/generate_inshorts.py --input data/news_sports.json --output data/inshorts_sports.json --max-articles 5
-        python scripts/generate_inshorts.py --input data/news_science.json --output data/inshorts_science.json --max-articles 5
-        python scripts/generate_inshorts.py --input data/news_health.json --output data/inshorts_health.json --max-articles 5
-        python scripts/generate_inshorts.py --input data/news_world.json --output data/inshorts_world.json --max-articles 5
-    
-    - name: Commit and push changes
-      if: success() # Only run if previous steps succeeded
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add data/
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Update news data - $(date)"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git push
-        fi
+        pip install playwright
+        playwright install chromium --with-deps
+        
+    - name: Run main workflow
+      env:
+        SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+        SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+      run: python3 main.py
