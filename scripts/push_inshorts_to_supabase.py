@@ -85,7 +85,7 @@ def convert_inshorts_to_supabase_format(inshorts_data: Dict, category: str) -> L
             "key_points": key_points,  # Properly formatted for text[] column
             "image_url": image_url,
             "article_id": article.get("id"),  # Store the inshorts ID
-            "quality_score": article.get("quality_score", 0)
+# quality_score field removed
         }
         articles.append(supabase_article)
     

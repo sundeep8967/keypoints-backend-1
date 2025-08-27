@@ -21,8 +21,7 @@ import threading
 # Add the parent directory to sys.path
 sys.path.append(str(Path(__file__).parent.parent))
 
-# Import scoring functions
-from app.scoring import calculate_image_quality_score, calculate_content_quality_score
+# Scoring functions removed - no longer needed
 
 # Configure logging
 logging.basicConfig(
@@ -133,7 +132,7 @@ async def extract_clean_article_content(page) -> str:
     Enhanced with content quality scoring and comprehensive extraction strategies.
     """
     try:
-        # Content candidates with quality scores
+        # Content candidates
         content_candidates = []
         
         # Strategy 1: Try to find article content using semantic selectors (expanded list)
@@ -191,14 +190,12 @@ async def extract_clean_article_content(page) -> str:
                     if content and len(content.strip()) > 500:  # Increased threshold from 200 to 500
                         cleaned_content = _clean_content(content.strip())
                         if len(cleaned_content) > 300:  # Ensure cleaned content is substantial
-                            quality_score = _calculate_content_quality(cleaned_content, "semantic_selector")
                             content_candidates.append({
                                 'content': cleaned_content,
-                                'score': quality_score,
                                 'source': f"semantic_selector_{selector}",
                                 'length': len(cleaned_content)
                             })
-                            logger.info(f"✅ Found article content using selector: {selector} ({len(cleaned_content)} chars, score: {quality_score})")
+                            logger.info(f"✅ Found article content using selector: {selector} ({len(cleaned_content)} chars)")
             except:
                 continue
         
@@ -243,14 +240,12 @@ async def extract_clean_article_content(page) -> str:
                 paragraph_content = ' '.join(meaningful_paragraphs[:7])  # Increased from 5 to 7
                 cleaned_paragraph_content = _clean_content(paragraph_content)
                 if len(cleaned_paragraph_content) > 200:
-                    quality_score = _calculate_content_quality(cleaned_paragraph_content, "paragraphs")
                     content_candidates.append({
                         'content': cleaned_paragraph_content,
-                        'score': quality_score,
                         'source': "meaningful_paragraphs",
                         'length': len(cleaned_paragraph_content)
                     })
-                    logger.info(f"✅ Extracted {len(meaningful_paragraphs)} meaningful paragraphs ({len(cleaned_paragraph_content)} chars, score: {quality_score})")
+                    logger.info(f"✅ Extracted {len(meaningful_paragraphs)} meaningful paragraphs ({len(cleaned_paragraph_content)} chars)")
         except:
             pass
         
@@ -270,14 +265,12 @@ async def extract_clean_article_content(page) -> str:
                     if div_content and len(div_content.strip()) > 400:  # Increased threshold
                         cleaned_div_content = _clean_content(div_content.strip())
                         if len(cleaned_div_content) > 250:
-                            quality_score = _calculate_content_quality(cleaned_div_content, "div_selector")
                             content_candidates.append({
                                 'content': cleaned_div_content,
-                                'score': quality_score,
                                 'source': f"div_selector_{selector}",
                                 'length': len(cleaned_div_content)
                             })
-                            logger.info(f"✅ Found content using div selector {selector} ({len(cleaned_div_content)} chars, score: {quality_score})")
+                            logger.info(f"✅ Found content using div selector {selector} ({len(cleaned_div_content)} chars)")
         except:
             pass
         
@@ -289,14 +282,12 @@ async def extract_clean_article_content(page) -> str:
                 meta_desc = await desc_element.get_attribute("content")
                 if meta_desc and len(meta_desc.strip()) > 100:  # Increased threshold from 50 to 100
                     cleaned_meta_desc = _clean_content(meta_desc.strip())
-                    quality_score = _calculate_content_quality(cleaned_meta_desc, "meta_description")
                     content_candidates.append({
                         'content': cleaned_meta_desc,
-                        'score': quality_score,
                         'source': "meta_description",
                         'length': len(cleaned_meta_desc)
                     })
-                    logger.info(f"✅ Found meta description ({len(cleaned_meta_desc)} chars, score: {quality_score})")
+                    logger.info(f"✅ Found meta description ({len(cleaned_meta_desc)} chars)")
         except:
             pass
         
@@ -307,21 +298,19 @@ async def extract_clean_article_content(page) -> str:
                 og_desc = await og_desc_element.get_attribute("content")
                 if og_desc and len(og_desc.strip()) > 100:  # Increased threshold from 50 to 100
                     cleaned_og_desc = _clean_content(og_desc.strip())
-                    quality_score = _calculate_content_quality(cleaned_og_desc, "og_description")
                     content_candidates.append({
                         'content': cleaned_og_desc,
-                        'score': quality_score,
                         'source': "og_description",
                         'length': len(cleaned_og_desc)
                     })
-                    logger.info(f"✅ Found OG description ({len(cleaned_og_desc)} chars, score: {quality_score})")
+                    logger.info(f"✅ Found OG description ({len(cleaned_og_desc)} chars)")
         except:
             pass
         
-        # Select the best content based on quality score and length
+        # Select the best content based on length
         if content_candidates:
-            # Sort by quality score first, then by length
-            content_candidates.sort(key=lambda x: (x['score'], x['length']), reverse=True)
+            # Sort by length (longer content is generally better)
+            content_candidates.sort(key=lambda x: x['length'], reverse=True)
             
             # Try to find content that's relevant to the page title
             page_title = await page.title() if page else ""
@@ -333,7 +322,7 @@ async def extract_clean_article_content(page) -> str:
                 if (validate_content_relevance(candidate['content'], page_title) and 
                     candidate['length'] > 300):
                     best_content = candidate
-                    logger.info(f"🎯 Selected relevant substantial content: {candidate['source']} (score: {candidate['score']}, length: {candidate['length']}, title-relevant: ✅)")
+                    logger.info(f"🎯 Selected relevant substantial content: {candidate['source']} (length: {candidate['length']}, title-relevant: ✅)")
                     break
             
             # If no substantial title-relevant content, prefer longer content over title relevance
@@ -342,13 +331,13 @@ async def extract_clean_article_content(page) -> str:
                 for candidate in content_candidates:
                     if candidate['length'] > 300:
                         best_content = candidate
-                        logger.info(f"🏆 Selected substantial content: {candidate['source']} (score: {candidate['score']}, length: {candidate['length']}, title-relevant: ❓)")
+                        logger.info(f"🏆 Selected substantial content: {candidate['source']} (length: {candidate['length']}, title-relevant: ❓)")
                         break
                 
-                # Final fallback to highest scoring content
+                # Final fallback to longest content
                 if not best_content:
                     best_content = content_candidates[0]
-                    logger.info(f"🏆 Selected best available content: {best_content['source']} (score: {best_content['score']}, length: {best_content['length']}, title-relevant: ❌)")
+                    logger.info(f"🏆 Selected best available content: {best_content['source']} (length: {best_content['length']}, title-relevant: ❌)")
             
             # Limit length to reasonable size but allow longer descriptions
             final_content = best_content['content']
@@ -391,70 +380,7 @@ def _clean_content(content: str) -> str:
     
     return content.strip()
 
-def _calculate_content_quality(content: str, source_type: str) -> int:
-    """Calculate content quality score based on various factors"""
-    if not content:
-        return 0
-    
-    score = 0
-    
-    # Base score by source type (prioritize full content over meta descriptions)
-    source_scores = {
-        'semantic_selector': 100,
-        'meaningful_paragraphs': 90,
-        'div_selector': 80,
-        'meta_description': 30,  # Lower priority
-        'og_description': 20     # Lowest priority
-    }
-    score += source_scores.get(source_type, 50)
-    
-    # Length bonus (longer content is generally better)
-    length = len(content)
-    if length > 1000:
-        score += 50
-    elif length > 500:
-        score += 30
-    elif length > 300:
-        score += 20
-    elif length > 150:
-        score += 10
-    
-    # Sentence structure bonus
-    sentences = content.count('.') + content.count('!') + content.count('?')
-    if sentences > 5:
-        score += 20
-    elif sentences > 3:
-        score += 10
-    
-    # Word count bonus
-    words = len(content.split())
-    if words > 200:
-        score += 30
-    elif words > 100:
-        score += 20
-    elif words > 50:
-        score += 10
-    
-    # Penalty for repetitive content
-    unique_words = len(set(content.lower().split()))
-    total_words = len(content.split())
-    if total_words > 0:
-        uniqueness_ratio = unique_words / total_words
-        if uniqueness_ratio < 0.3:  # Very repetitive
-            score -= 30
-        elif uniqueness_ratio < 0.5:  # Somewhat repetitive
-            score -= 15
-    
-    # Penalty for obvious boilerplate
-    boilerplate_indicators = [
-        'click here', 'read more', 'subscribe', 'newsletter',
-        'follow us', 'share this', 'terms of service', 'privacy policy'
-    ]
-    content_lower = content.lower()
-    boilerplate_count = sum(1 for indicator in boilerplate_indicators if indicator in content_lower)
-    score -= boilerplate_count * 10
-    
-    return max(0, score)  # Ensure non-negative score
+# Content quality calculation removed - no longer needed
 
 def generate_key_points(description: str, title: str = "") -> List[str]:
     """
@@ -619,44 +545,36 @@ async def extract_clean_title(page, page_title: str) -> str:
                 if parent_element:
                     parent_class = (await parent_element.get_attribute("class") or "").lower()
                 
-                # Scoring system
-                score = len(title_text)  # Base score is length
-                
-                # Bonus points for being in article/content areas
-                if any(keyword in parent_class for keyword in ['article', 'content', 'story', 'headline', 'main']):
-                    score += 100
-                
-                # Penalty for generic single words
-                if title_lower in generic_words:
-                    score -= 200
-                
-                # Bonus for having multiple words (real titles are usually descriptive)
+                # Simple validation system
                 word_count = len(title_text.split())
-                if word_count >= 3:
-                    score += 50
-                elif word_count >= 2:
-                    score += 25
                 
-                # Penalty for very short titles unless they seem legitimate
+                # Skip generic single words
+                if title_lower in generic_words:
+                    continue
+                
+                # Skip very short single-word titles
                 if len(title_text) < 15 and word_count == 1:
-                    score -= 100
+                    continue
+                
+                # Prefer titles in article/content areas
+                in_content_area = any(keyword in parent_class for keyword in ['article', 'content', 'story', 'headline', 'main'])
                 
                 candidates.append({
                     'text': title_text,
-                    'score': score,
                     'length': len(title_text),
-                    'word_count': word_count
+                    'word_count': word_count,
+                    'in_content_area': in_content_area
                 })
                 
             except:
                 continue
         
-        # Sort by score (descending)
-        candidates.sort(key=lambda x: x['score'], reverse=True)
+        # Sort by content area preference, then by length and word count
+        candidates.sort(key=lambda x: (x['in_content_area'], x['word_count'], x['length']), reverse=True)
         
-        if candidates and candidates[0]['score'] > 0:
+        if candidates:
             best_title = candidates[0]['text']
-            logger.info(f"✅ Using best h1 title (score: {candidates[0]['score']}): {best_title}")
+            logger.info(f"✅ Using best h1 title: {best_title}")
             return clean_title_suffix(best_title)
         
         # Strategy 2: Try article-specific selectors
@@ -1706,9 +1624,6 @@ async def extract_article_details_playwright(url: str, page, timeout: int = 10) 
                     height = await img.get_attribute("height")
                     class_name = await img.get_attribute("class") or ""
                     
-                    # Calculate image quality score
-                    score = calculate_image_quality_score(src, alt_text, width, height, class_name)
-                    
                     # Get dimensions
                     try:
                         w = int(width) if width else 0
@@ -1719,7 +1634,6 @@ async def extract_article_details_playwright(url: str, page, timeout: int = 10) 
                     
                     image_candidates.append({
                         'src': src,
-                        'score': score,
                         'area': area,
                         'alt': alt_text,
                         'width': w,
@@ -1729,14 +1643,14 @@ async def extract_article_details_playwright(url: str, page, timeout: int = 10) 
                 except Exception as e:
                     continue
             
-            # Sort by quality score first, then by area
-            image_candidates.sort(key=lambda x: (x['score'], x['area']), reverse=True)
+            # Sort by area (larger images generally better)
+            image_candidates.sort(key=lambda x: x['area'], reverse=True)
             
             # Find the best valid image
             for candidate in image_candidates:
                 if is_valid_news_image(candidate):
                     best_image = candidate['src']
-                    logger.info(f"Selected image with score {candidate['score']}: {candidate['src'][:50]}...")
+                    logger.info(f"Selected image: {candidate['src'][:50]}...")
                     break
                     
         except Exception as e:
@@ -1835,45 +1749,50 @@ def generate_summary(text: str, max_words: int = 60) -> str:
             'government', 'parliament', 'supreme court', 'bjp', 'congress'
         ]
         
-        # Score sentences for relevance
-        scored_sentences = []
+        # Filter and prioritize sentences (no scoring)
+        filtered_sentences = []
         for sentence in sentences:
             if len(sentence.split()) < 5:  # Skip very short sentences
                 continue
                 
-            score = 0
             sentence_lower = sentence.lower()
             
-            # Boost score for Indian context
-            for keyword in indian_context_keywords:
-                if keyword in sentence_lower:
-                    score += 10
+            # Prioritize sentences with Indian context
+            has_indian_context = any(keyword in sentence_lower for keyword in indian_context_keywords)
             
-            # Boost score for sentences with numbers/dates (often important facts)
+            # Prioritize sentences with numbers/dates (often important facts)
             import re
-            if re.search(r'\d+', sentence):
-                score += 5
+            has_numbers = bool(re.search(r'\d+', sentence))
             
-            # Boost score for sentences with proper nouns (names, places)
+            # Prioritize sentences with proper nouns (names, places)
             words = sentence.split()
             proper_nouns = sum(1 for word in words if word[0].isupper() and len(word) > 2)
-            score += proper_nouns * 2
+            has_proper_nouns = proper_nouns > 0
+            
+            # Calculate priority (higher is better)
+            priority = 0
+            if has_indian_context:
+                priority += 3
+            if has_numbers:
+                priority += 2
+            if has_proper_nouns:
+                priority += 1
             
             # Prefer sentences from early in the text
-            position_bonus = max(0, 10 - sentences.index(sentence))
-            score += position_bonus
+            position_bonus = max(0, 3 - (sentences.index(sentence) // 3))
+            priority += position_bonus
             
-            scored_sentences.append((sentence, score))
+            filtered_sentences.append((sentence, priority))
         
-        # Sort by score (highest first)
-        scored_sentences.sort(key=lambda x: x[1], reverse=True)
+        # Sort by priority (highest first)
+        filtered_sentences.sort(key=lambda x: x[1], reverse=True)
         
-        # Build summary from highest-scoring sentences
+        # Build summary from highest-priority sentences
         summary = ""
         word_count = 0
         used_sentences = []
         
-        for sentence, score in scored_sentences:
+        for sentence, priority in filtered_sentences:
             words = sentence.split()
             if word_count + len(words) <= max_words:
                 used_sentences.append(sentence)
@@ -1892,7 +1811,7 @@ def generate_summary(text: str, max_words: int = 60) -> str:
             # Sort by original position in text
             original_order = []
             for used_sentence in used_sentences:
-                for i, (original_sentence, _) in enumerate(scored_sentences):
+                for i, (original_sentence, _) in enumerate(filtered_sentences):
                     if used_sentence.startswith(original_sentence[:50]):  # Match by first 50 chars
                         original_order.append((i, used_sentence))
                         break
@@ -1947,11 +1866,7 @@ async def process_single_article_playwright(article: Dict, page, timeout: int) -
         # Generate a unique ID for the article
         article_id = generate_article_id(url, final_title, source)
         
-        # Calculate content quality score
-        quality_score = calculate_content_quality_score(
-            final_title, article_details['image_url'], 
-            article_details['description'], source
-        )
+        # Quality scoring removed - no longer needed
         
         # Generate content hash for duplicate detection
         content_hash = hashlib.md5(article_details['description'][:200].encode()).hexdigest() if article_details['description'] else None
@@ -1959,7 +1874,7 @@ async def process_single_article_playwright(article: Dict, page, timeout: int) -
         # Generate key points from the description
         key_points = generate_key_points(article_details['description'], final_title) if article_details['description'] else []
         
-        # Create Inshorts-style article with quality score, content hash, and key points
+        # Create Inshorts-style article with content hash and key points
         processed_article = {
             'id': article_id,
             'title': final_title,  # Use the clean title extracted from the page
@@ -1969,7 +1884,6 @@ async def process_single_article_playwright(article: Dict, page, timeout: int) -
             'description': article_details['description'],
             'key_points': key_points,  # Add key points
             'published': published,
-            'quality_score': quality_score,
             'content_hash': content_hash
         }
         
@@ -2069,7 +1983,7 @@ async def process_news_data_playwright(news_data: Dict, max_articles: int, timeo
     
     return processed_articles
 
-# calculate_image_quality_score function now imported from app.scoring
+# Image quality scoring removed - no longer needed
 
 def is_valid_news_image(image_candidate: dict) -> bool:
     """Validate if an image is suitable for news articles"""
@@ -2101,9 +2015,7 @@ def is_valid_news_image(image_candidate: dict) -> bool:
         if aspect_ratio > 4 or aspect_ratio < 0.25:  # Too wide or too tall
             return False
     
-    # Must have reasonable quality score
-    if image_candidate['score'] < 10:
-        return False
+    # Basic validation passed
     
     return True
 
@@ -2140,7 +2052,7 @@ def validate_summary_quality(summary: str, title: str) -> bool:
     
     return True
 
-# calculate_content_quality_score function now imported from app.scoring
+# Content quality scoring removed - no longer needed
 
 def is_trusted_source(source: str) -> bool:
     """Check if the source is from a trusted news organization."""

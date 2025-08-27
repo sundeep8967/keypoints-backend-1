@@ -47,7 +47,7 @@ async def store_news(news_data: List[Dict], category: str = "general") -> Dict:
                 "key_points": article.get("key_points", []),  # Add key_points field
                 "image_url": article.get("image_url"),
                 "article_id": article.get("article_id"),
-                "quality_score": article.get("quality_score", 0)
+# quality_score field removed
             }
             articles_to_insert.append(article_data)
         
